@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "password": "Sportlinks73",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -57,7 +57,8 @@
       "icon": "⚽",
       "name": "Futbal",
       "desc": "Overené odkazy na futbalové kluby, súťaže a asociácie z celého sveta — od veľkých líg po malé krajiny",
-      "order": 0
+      "order": 0,
+      "slug": "futbal"
     },
     {
       "id": "f_hok",
@@ -66,7 +67,8 @@
       "icon": "🏒",
       "name": "Hokej",
       "desc": "Hokejové odkazy z celého sveta: NHL, európske ligy, majstrovstvá sveta a národné zväzy",
-      "order": 1
+      "order": 1,
+      "slug": "hokej"
     },
     {
       "id": "f_ten",
@@ -75,7 +77,8 @@
       "icon": "🎾",
       "name": "Tenis",
       "desc": "Tenisové odkazy na turnaje ATP a WTA, grandslamy, asociácie a výsledkové servery",
-      "order": 2
+      "order": 2,
+      "slug": "tenis"
     },
     {
       "id": "f_ten_sut",
@@ -84,7 +87,8 @@
       "icon": "🎾",
       "name": "Turnaje a Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "turnaje-a-sutaze"
     },
     {
       "id": "f_ten_aso",
@@ -93,7 +97,8 @@
       "icon": "🎾",
       "name": "Asociácie",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "asociacie"
     },
     {
       "id": "f_ten_spr",
@@ -102,7 +107,8 @@
       "icon": "🎾",
       "name": "Správy a Štatistiky",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "spravy-a-statistiky"
     },
     {
       "id": "f_bas",
@@ -111,7 +117,8 @@
       "icon": "🏀",
       "name": "Basketbal",
       "desc": "Basketbalové odkazy: NBA, Euroliga, národné ligy a asociácie z celého sveta",
-      "order": 3
+      "order": 3,
+      "slug": "basketbal"
     },
     {
       "id": "f_bas_sut",
@@ -120,7 +127,8 @@
       "icon": "🏀",
       "name": "Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "sutaze"
     },
     {
       "id": "f_bas_klu",
@@ -129,7 +137,8 @@
       "icon": "🏀",
       "name": "Kluby",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "kluby"
     },
     {
       "id": "f_bas_aso",
@@ -138,7 +147,8 @@
       "icon": "🏀",
       "name": "Asociácie",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "asociacie"
     },
     {
       "id": "f_bas_sta",
@@ -147,7 +157,8 @@
       "icon": "🏀",
       "name": "Štatistiky",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "statistiky"
     },
     {
       "id": "f_had",
@@ -156,7 +167,8 @@
       "icon": "🤾",
       "name": "Hádzaná",
       "desc": "Hádzanárske odkazy na kluby, ligy, súťaže a národné zväzy z celého sveta",
-      "order": 4
+      "order": 4,
+      "slug": "hadzana"
     },
     {
       "id": "f_had_sut",
@@ -165,7 +177,8 @@
       "icon": "🤾",
       "name": "Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "sutaze"
     },
     {
       "id": "f_had_klu",
@@ -174,7 +187,8 @@
       "icon": "🤾",
       "name": "Kluby",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "kluby"
     },
     {
       "id": "f_had_aso",
@@ -183,7 +197,8 @@
       "icon": "🤾",
       "name": "Asociácie",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "asociacie"
     },
     {
       "id": "f_had_sta",
@@ -192,7 +207,8 @@
       "icon": "🤾",
       "name": "Štatistiky",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "statistiky"
     },
     {
       "id": "f_vol",
@@ -201,7 +217,8 @@
       "icon": "🏐",
       "name": "Volejbal",
       "desc": "Volejbalové odkazy na kluby, ligy, medzinárodné súťaže a asociácie",
-      "order": 5
+      "order": 5,
+      "slug": "volejbal"
     },
     {
       "id": "f_vol_sut",
@@ -210,7 +227,8 @@
       "icon": "🏐",
       "name": "Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "sutaze"
     },
     {
       "id": "f_vol_klu",
@@ -219,7 +237,8 @@
       "icon": "🏐",
       "name": "Kluby",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "kluby"
     },
     {
       "id": "f_vol_aso",
@@ -228,7 +247,8 @@
       "icon": "🏐",
       "name": "Asociácie",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "asociacie"
     },
     {
       "id": "f_vol_sta",
@@ -237,7 +257,8 @@
       "icon": "🏐",
       "name": "Štatistiky",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "statistiky"
     },
     {
       "id": "f_zim",
@@ -246,7 +267,8 @@
       "icon": "⛷️",
       "name": "Zimné športy",
       "desc": "Odkazy na zimné športy: alpské lyžovanie, biatlon, skoky na lyžiach, korčuľovanie a ďalšie",
-      "order": 6
+      "order": 6,
+      "slug": "zimne-sporty"
     },
     {
       "id": "f_zim_alp",
@@ -255,7 +277,8 @@
       "icon": "⛷️",
       "name": "Alpské lyžovanie",
       "desc": "Zjazdové lyžovanie — FIS Svetový pohár, výsledky, kalendár a zväzy",
-      "order": 0
+      "order": 0,
+      "slug": "alpske-lyzovanie"
     },
     {
       "id": "f_zim_beh",
@@ -264,7 +287,8 @@
       "icon": "🎿",
       "name": "Beh na lyžiach",
       "desc": "Bežecké lyžovanie — FIS Svetový pohár, výsledky a diaľkové preteky",
-      "order": 1
+      "order": 1,
+      "slug": "beh-na-lyziach"
     },
     {
       "id": "f_zim_sko",
@@ -273,7 +297,8 @@
       "icon": "⛷️",
       "name": "Skoky na lyžiach",
       "desc": "Skoky na lyžiach — FIS Svetový pohár, výsledky, štatistiky a mostíky",
-      "order": 2
+      "order": 2,
+      "slug": "skoky-na-lyziach"
     },
     {
       "id": "f_zim_bia",
@@ -282,7 +307,8 @@
       "icon": "🎯",
       "name": "Biatlon",
       "desc": "Biatlon — IBU Svetový pohár, výsledky, štatistiky a spravodajstvo",
-      "order": 3
+      "order": 3,
+      "slug": "biatlon"
     },
     {
       "id": "f_zim_kra",
@@ -291,7 +317,8 @@
       "icon": "⛸️",
       "name": "Krasokorčuľovanie",
       "desc": "Krasokorčuľovanie — súťaže ISU, výsledky a hodnotenia",
-      "order": 4
+      "order": 4,
+      "slug": "krasokorculovanie"
     },
     {
       "id": "f_zim_ryc",
@@ -300,7 +327,8 @@
       "icon": "⛸️",
       "name": "Rýchlokorčuľovanie",
       "desc": "Rýchlokorčuľovanie a short track — Svetový pohár ISU a výsledky",
-      "order": 5
+      "order": 5,
+      "slug": "rychlokorculovanie"
     },
     {
       "id": "f_zim_cur",
@@ -309,7 +337,8 @@
       "icon": "🥌",
       "name": "Curling",
       "desc": "Curling — World Curling, výsledky, rebríčky a národné zväzy",
-      "order": 6
+      "order": 6,
+      "slug": "curling"
     },
     {
       "id": "f_zim_san",
@@ -318,7 +347,8 @@
       "icon": "🛷",
       "name": "Sánkovanie",
       "desc": "Sánkovanie (luge) — FIL Svetový pohár, výsledky a zväzy",
-      "order": 7
+      "order": 7,
+      "slug": "sankovanie"
     },
     {
       "id": "f_zim_bob",
@@ -327,7 +357,8 @@
       "icon": "🛷",
       "name": "Bob",
       "desc": "Boby — IBSF Svetový pohár, výsledky a národné zväzy",
-      "order": 8
+      "order": 8,
+      "slug": "bob"
     },
     {
       "id": "f_zim_ske",
@@ -336,7 +367,8 @@
       "icon": "🛷",
       "name": "Skeleton",
       "desc": "Skeleton — IBSF Svetový pohár, výsledky a spravodajstvo",
-      "order": 9
+      "order": 9,
+      "slug": "skeleton"
     },
     {
       "id": "f_zim_fre",
@@ -345,7 +377,8 @@
       "icon": "🏂",
       "name": "Freestyle a Snowboard",
       "desc": "Freestyle lyžovanie a snowboarding — FIS súťaže a svetové série",
-      "order": 10
+      "order": 10,
+      "slug": "freestyle-a-snowboard"
     },
     {
       "id": "f_ost",
@@ -354,7 +387,8 @@
       "icon": "🏅",
       "name": "Ostatné športy",
       "desc": "Odkazy na desiatky športov: atletika, cyklistika, golf, box, MMA, rugby a ďalšie",
-      "order": 7
+      "order": 7,
+      "slug": "ostatne-sporty"
     },
     {
       "id": "f_ost_atletika",
@@ -363,7 +397,8 @@
       "icon": "🏃",
       "name": "Atletika",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "atletika"
     },
     {
       "id": "f_ost_badminton",
@@ -372,7 +407,8 @@
       "icon": "🏸",
       "name": "Badminton",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "badminton"
     },
     {
       "id": "f_ost_cyklistika",
@@ -381,7 +417,8 @@
       "icon": "🚴",
       "name": "Cyklistika",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "cyklistika"
     },
     {
       "id": "f_ost_futsal",
@@ -390,7 +427,8 @@
       "icon": "⚽",
       "name": "Futsal",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "futsal"
     },
     {
       "id": "f_ost_golf",
@@ -399,7 +437,8 @@
       "icon": "⛳",
       "name": "Golf",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "golf"
     },
     {
       "id": "f_ost_box",
@@ -408,7 +447,8 @@
       "icon": "🥊",
       "name": "Box",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "box"
     },
     {
       "id": "f_ost_mma",
@@ -417,7 +457,8 @@
       "icon": "🥋",
       "name": "MMA",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "mma"
     },
     {
       "id": "f_ost_stolnyTenis",
@@ -426,7 +467,8 @@
       "icon": "🏓",
       "name": "Stolný tenis",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "stolny-tenis"
     },
     {
       "id": "f_ost_plavanie",
@@ -435,7 +477,8 @@
       "icon": "🏊",
       "name": "Plávanie",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "plavanie"
     },
     {
       "id": "f_ost_vodnePolo",
@@ -444,7 +487,8 @@
       "icon": "🤽",
       "name": "Vodné pólo",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "vodne-polo"
     },
     {
       "id": "f_ost_americkyFutbal",
@@ -453,7 +497,8 @@
       "icon": "🏈",
       "name": "Americký futbal",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "americky-futbal"
     },
     {
       "id": "f_ost_rugby",
@@ -462,7 +507,8 @@
       "icon": "🏉",
       "name": "Rugby",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "rugby"
     },
     {
       "id": "f_ost_squash",
@@ -471,7 +517,8 @@
       "icon": "🎾",
       "name": "Squash",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "squash"
     },
     {
       "id": "f_ost_florbal",
@@ -480,7 +527,8 @@
       "icon": "🏒",
       "name": "Florbal",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "florbal"
     },
     {
       "id": "f_ost_plazovyFutbal",
@@ -489,7 +537,8 @@
       "icon": "⚽",
       "name": "Plážový futbal",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "plazovy-futbal"
     },
     {
       "id": "f_ost_sipky",
@@ -498,7 +547,8 @@
       "icon": "🎯",
       "name": "Šípky",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "sipky"
     },
     {
       "id": "f_ost_snooker",
@@ -507,7 +557,8 @@
       "icon": "🎱",
       "name": "Snooker",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "snooker"
     },
     {
       "id": "f_ost_lukostrelstvo",
@@ -516,7 +567,8 @@
       "icon": "🏹",
       "name": "Lukostrelstvo",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "lukostrelstvo"
     },
     {
       "id": "f_ost_kanoistika",
@@ -525,7 +577,8 @@
       "icon": "🚣",
       "name": "Kanoistika",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "kanoistika"
     },
     {
       "id": "f_ost_veslovanie",
@@ -534,7 +587,8 @@
       "icon": "🚣",
       "name": "Veslovanie",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "veslovanie"
     },
     {
       "id": "f_ost_vzpieranie",
@@ -543,7 +597,8 @@
       "icon": "🏋️",
       "name": "Vzpieranie",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "vzpieranie"
     },
     {
       "id": "f_ost_kriket",
@@ -552,7 +607,8 @@
       "icon": "🏏",
       "name": "Kriket",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "kriket"
     },
     {
       "id": "f_med",
@@ -561,7 +617,8 @@
       "icon": "🌐",
       "name": "Správy & Médiá",
       "desc": "Športové portály, denníky a televízie z celého sveta — od Slovenska po najmenšie krajiny",
-      "order": 8
+      "order": 8,
+      "slug": "spravy-media"
     },
     {
       "id": "f_tip",
@@ -570,7 +627,8 @@
       "icon": "💰",
       "name": "Tipovanie",
       "desc": "Stávkové kancelárie, kurzy",
-      "order": 9
+      "order": 9,
+      "slug": "tipovanie"
     },
     {
       "id": "f_fut_sut",
@@ -579,7 +637,8 @@
       "icon": "🏆",
       "name": "Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "sutaze"
     },
     {
       "id": "f_fut_klu",
@@ -588,7 +647,8 @@
       "icon": "👕",
       "name": "Kluby",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "kluby"
     },
     {
       "id": "f_fut_aso",
@@ -597,7 +657,8 @@
       "icon": "🏢",
       "name": "Asociácie",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "asociacie"
     },
     {
       "id": "f_fut_sta",
@@ -606,7 +667,8 @@
       "icon": "📊",
       "name": "Štatistiky",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "statistiky"
     },
     {
       "id": "f_fut_sut_gl",
@@ -615,7 +677,8 @@
       "icon": "⚽",
       "name": "Globálne",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "globalne"
     },
     {
       "id": "f_fut_sut_eu",
@@ -624,7 +687,8 @@
       "icon": "⚽",
       "name": "Európa",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "europa"
     },
     {
       "id": "f_fut_sut_na",
@@ -633,7 +697,8 @@
       "icon": "⚽",
       "name": "Severná a Stredná Amerika",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "severna-a-stredna-amerika"
     },
     {
       "id": "f_fut_sut_ja",
@@ -642,7 +707,8 @@
       "icon": "⚽",
       "name": "Južná Amerika",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "juzna-amerika"
     },
     {
       "id": "f_fut_sut_af",
@@ -651,7 +717,8 @@
       "icon": "⚽",
       "name": "Afrika",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "afrika"
     },
     {
       "id": "f_fut_sut_az",
@@ -660,7 +727,8 @@
       "icon": "⚽",
       "name": "Ázia",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "azia"
     },
     {
       "id": "f_fut_sut_oc",
@@ -669,7 +737,8 @@
       "icon": "⚽",
       "name": "Oceánia",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "oceania"
     },
     {
       "id": "f_fut_klu_eu",
@@ -678,7 +747,8 @@
       "icon": "⚽",
       "name": "Európa",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "europa"
     },
     {
       "id": "f_fut_klu_na",
@@ -687,7 +757,8 @@
       "icon": "⚽",
       "name": "Severná a Stredná Amerika",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "severna-a-stredna-amerika"
     },
     {
       "id": "f_fut_klu_ja",
@@ -696,7 +767,8 @@
       "icon": "⚽",
       "name": "Južná Amerika",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "juzna-amerika"
     },
     {
       "id": "f_fut_klu_af",
@@ -705,7 +777,8 @@
       "icon": "⚽",
       "name": "Afrika",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "afrika"
     },
     {
       "id": "f_fut_klu_az",
@@ -714,7 +787,8 @@
       "icon": "⚽",
       "name": "Ázia",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "azia"
     },
     {
       "id": "f_fut_klu_oc",
@@ -723,7 +797,8 @@
       "icon": "⚽",
       "name": "Oceánia",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "oceania"
     },
     {
       "id": "f_fut_aso_gl",
@@ -732,7 +807,8 @@
       "icon": "⚽",
       "name": "Globálne",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "globalne"
     },
     {
       "id": "f_fut_aso_eu",
@@ -741,7 +817,8 @@
       "icon": "⚽",
       "name": "Európa",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "europa"
     },
     {
       "id": "f_fut_aso_na",
@@ -750,7 +827,8 @@
       "icon": "⚽",
       "name": "Severná a Stredná Amerika",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "severna-a-stredna-amerika"
     },
     {
       "id": "f_fut_aso_ja",
@@ -759,7 +837,8 @@
       "icon": "⚽",
       "name": "Južná Amerika",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "juzna-amerika"
     },
     {
       "id": "f_fut_aso_af",
@@ -768,7 +847,8 @@
       "icon": "⚽",
       "name": "Afrika",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "afrika"
     },
     {
       "id": "f_fut_aso_az",
@@ -777,7 +857,8 @@
       "icon": "⚽",
       "name": "Ázia",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "azia"
     },
     {
       "id": "f_fut_aso_oc",
@@ -786,7 +867,8 @@
       "icon": "⚽",
       "name": "Oceánia",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "oceania"
     },
     {
       "id": "f_fut_klu_eu_ang",
@@ -795,7 +877,8 @@
       "icon": "gb-eng",
       "name": "Anglicko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "anglicko"
     },
     {
       "id": "f_fut_klu_eu_esp",
@@ -804,7 +887,8 @@
       "icon": "es",
       "name": "Španielsko",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "spanielsko"
     },
     {
       "id": "f_fut_klu_eu_deu",
@@ -813,7 +897,8 @@
       "icon": "de",
       "name": "Nemecko",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "nemecko"
     },
     {
       "id": "f_fut_klu_eu_fra",
@@ -822,7 +907,8 @@
       "icon": "fr",
       "name": "Francúzsko",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "francuzsko"
     },
     {
       "id": "f_fut_klu_eu_svk",
@@ -831,7 +917,8 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "slovensko"
     },
     {
       "id": "f_fut_klu_eu_cze",
@@ -840,7 +927,8 @@
       "icon": "cz",
       "name": "Česká republika",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "ceska-republika"
     },
     {
       "id": "f_fut_klu_eu_alb",
@@ -849,7 +937,8 @@
       "icon": "al",
       "name": "Albánsko",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "albansko"
     },
     {
       "id": "f_fut_klu_eu_and",
@@ -858,7 +947,8 @@
       "icon": "ad",
       "name": "Andorra",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "andorra"
     },
     {
       "id": "f_fut_klu_eu_blr",
@@ -867,7 +957,8 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "bielorusko"
     },
     {
       "id": "f_fut_klu_eu_bel",
@@ -876,7 +967,8 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "belgicko"
     },
     {
       "id": "f_fut_klu_eu_bih",
@@ -885,7 +977,8 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "bosna-a-hercegovina"
     },
     {
       "id": "f_fut_klu_eu_bgr",
@@ -894,7 +987,8 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "bulharsko"
     },
     {
       "id": "f_fut_klu_eu_mne",
@@ -903,7 +997,8 @@
       "icon": "me",
       "name": "Čierna Hora",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "cierna-hora"
     },
     {
       "id": "f_fut_klu_eu_dnk",
@@ -912,7 +1007,8 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "dansko"
     },
     {
       "id": "f_fut_klu_eu_est",
@@ -921,7 +1017,8 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "estonsko"
     },
     {
       "id": "f_fut_klu_eu_fin",
@@ -930,7 +1027,8 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "finsko"
     },
     {
       "id": "f_fut_klu_eu_grc",
@@ -939,7 +1037,8 @@
       "icon": "gr",
       "name": "Grécko",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "grecko"
     },
     {
       "id": "f_fut_klu_eu_nld",
@@ -948,7 +1047,8 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "holandsko"
     },
     {
       "id": "f_fut_klu_eu_hrv",
@@ -957,7 +1057,8 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "chorvatsko"
     },
     {
       "id": "f_fut_klu_eu_irl",
@@ -966,7 +1067,8 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "irsko"
     },
     {
       "id": "f_fut_klu_eu_isl",
@@ -975,7 +1077,8 @@
       "icon": "is",
       "name": "Island",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "island"
     },
     {
       "id": "f_fut_klu_eu_xkx",
@@ -984,7 +1087,8 @@
       "icon": "xk",
       "name": "Kosovo",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "kosovo"
     },
     {
       "id": "f_fut_klu_eu_lie",
@@ -993,7 +1097,8 @@
       "icon": "li",
       "name": "Lichtenštajnsko",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "lichtenstajnsko"
     },
     {
       "id": "f_fut_klu_eu_ltu",
@@ -1002,7 +1107,8 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "litva"
     },
     {
       "id": "f_fut_klu_eu_lva",
@@ -1011,7 +1117,8 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "lotyssko"
     },
     {
       "id": "f_fut_klu_eu_lux",
@@ -1020,7 +1127,8 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "luxembursko"
     },
     {
       "id": "f_fut_klu_eu_mkd",
@@ -1029,7 +1137,8 @@
       "icon": "mk",
       "name": "Macedónsko",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "macedonsko"
     },
     {
       "id": "f_fut_klu_eu_hun",
@@ -1038,7 +1147,8 @@
       "icon": "hu",
       "name": "Maďarsko",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "madarsko"
     },
     {
       "id": "f_fut_klu_eu_mlt",
@@ -1047,7 +1157,8 @@
       "icon": "mt",
       "name": "Malta",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "malta"
     },
     {
       "id": "f_fut_klu_eu_mda",
@@ -1056,7 +1167,8 @@
       "icon": "md",
       "name": "Moldavsko",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "moldavsko"
     },
     {
       "id": "f_fut_klu_eu_nor",
@@ -1065,7 +1177,8 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "norsko"
     },
     {
       "id": "f_fut_klu_eu_pol",
@@ -1074,7 +1187,8 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "polsko"
     },
     {
       "id": "f_fut_klu_eu_prt",
@@ -1083,7 +1197,8 @@
       "icon": "pt",
       "name": "Portugalsko",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "portugalsko"
     },
     {
       "id": "f_fut_klu_eu_aut",
@@ -1092,7 +1207,8 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "rakusko"
     },
     {
       "id": "f_fut_klu_eu_rou",
@@ -1101,7 +1217,8 @@
       "icon": "ro",
       "name": "Rumunsko",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "rumunsko"
     },
     {
       "id": "f_fut_klu_eu_rus",
@@ -1110,7 +1227,8 @@
       "icon": "ru",
       "name": "Rusko",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "rusko"
     },
     {
       "id": "f_fut_klu_eu_smr",
@@ -1119,7 +1237,8 @@
       "icon": "sm",
       "name": "San Maríno",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "san-marino"
     },
     {
       "id": "f_fut_klu_eu_nir",
@@ -1128,7 +1247,8 @@
       "icon": "gb-nir",
       "name": "Severné Írsko",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "severne-irsko"
     },
     {
       "id": "f_fut_klu_eu_sco",
@@ -1137,7 +1257,8 @@
       "icon": "gb-sct",
       "name": "Škótsko",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "skotsko"
     },
     {
       "id": "f_fut_klu_eu_svn",
@@ -1146,7 +1267,8 @@
       "icon": "si",
       "name": "Slovinsko",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "slovinsko"
     },
     {
       "id": "f_fut_klu_eu_srb",
@@ -1155,7 +1277,8 @@
       "icon": "rs",
       "name": "Srbsko",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "srbsko"
     },
     {
       "id": "f_fut_klu_eu_che",
@@ -1164,7 +1287,8 @@
       "icon": "ch",
       "name": "Švajčiarsko",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "svajciarsko"
     },
     {
       "id": "f_fut_klu_eu_swe",
@@ -1173,7 +1297,8 @@
       "icon": "se",
       "name": "Švédsko",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "svedsko"
     },
     {
       "id": "f_fut_klu_eu_ita",
@@ -1182,7 +1307,8 @@
       "icon": "it",
       "name": "Taliansko",
       "desc": "",
-      "order": 43
+      "order": 43,
+      "slug": "taliansko"
     },
     {
       "id": "f_fut_klu_eu_tur",
@@ -1191,7 +1317,8 @@
       "icon": "tr",
       "name": "Turecko",
       "desc": "",
-      "order": 44
+      "order": 44,
+      "slug": "turecko"
     },
     {
       "id": "f_fut_klu_eu_ukr",
@@ -1200,7 +1327,8 @@
       "icon": "ua",
       "name": "Ukrajina",
       "desc": "",
-      "order": 45
+      "order": 45,
+      "slug": "ukrajina"
     },
     {
       "id": "f_fut_klu_eu_wal",
@@ -1209,7 +1337,8 @@
       "icon": "gb-wls",
       "name": "Wales",
       "desc": "",
-      "order": 46
+      "order": 46,
+      "slug": "wales"
     },
     {
       "id": "f_fut_klu_eu_arm",
@@ -1218,7 +1347,8 @@
       "icon": "am",
       "name": "Arménsko",
       "desc": "",
-      "order": 47
+      "order": 47,
+      "slug": "armensko"
     },
     {
       "id": "f_fut_klu_eu_geo",
@@ -1227,7 +1357,8 @@
       "icon": "ge",
       "name": "Gruzínsko",
       "desc": "",
-      "order": 48
+      "order": 48,
+      "slug": "gruzinsko"
     },
     {
       "id": "f_fut_klu_eu_isr",
@@ -1236,7 +1367,8 @@
       "icon": "il",
       "name": "Izrael",
       "desc": "",
-      "order": 49
+      "order": 49,
+      "slug": "izrael"
     },
     {
       "id": "f_fut_klu_eu_kaz",
@@ -1245,7 +1377,8 @@
       "icon": "kz",
       "name": "Kazachstan",
       "desc": "",
-      "order": 50
+      "order": 50,
+      "slug": "kazachstan"
     },
     {
       "id": "f_fut_klu_eu_aze",
@@ -1254,7 +1387,8 @@
       "icon": "az",
       "name": "Azerbajdžán",
       "desc": "",
-      "order": 51
+      "order": 51,
+      "slug": "azerbajdzan"
     },
     {
       "id": "f_fut_klu_eu_cyp",
@@ -1263,7 +1397,8 @@
       "icon": "cy",
       "name": "Cyprus",
       "desc": "",
-      "order": 52
+      "order": 52,
+      "slug": "cyprus"
     },
     {
       "id": "f_fut_klu_af_alg",
@@ -1272,7 +1407,8 @@
       "icon": "dz",
       "name": "Alžírsko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "alzirsko"
     },
     {
       "id": "f_fut_klu_af_ang",
@@ -1281,7 +1417,8 @@
       "icon": "ao",
       "name": "Angola",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "angola"
     },
     {
       "id": "f_fut_klu_af_ben",
@@ -1290,7 +1427,8 @@
       "icon": "bj",
       "name": "Benin",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "benin"
     },
     {
       "id": "f_fut_klu_af_bwa",
@@ -1299,7 +1437,8 @@
       "icon": "bw",
       "name": "Botswana",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "botswana"
     },
     {
       "id": "f_fut_klu_af_bfa",
@@ -1308,7 +1447,8 @@
       "icon": "bf",
       "name": "Burkina Faso",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "burkina-faso"
     },
     {
       "id": "f_fut_klu_af_bdi",
@@ -1317,7 +1457,8 @@
       "icon": "bi",
       "name": "Burundi",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "burundi"
     },
     {
       "id": "f_fut_klu_af_tcd",
@@ -1326,7 +1467,8 @@
       "icon": "td",
       "name": "Čad",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "cad"
     },
     {
       "id": "f_fut_klu_af_dji",
@@ -1335,7 +1477,8 @@
       "icon": "dj",
       "name": "Džibutsko",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "dzibutsko"
     },
     {
       "id": "f_fut_klu_af_egy",
@@ -1344,7 +1487,8 @@
       "icon": "eg",
       "name": "Egypt",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "egypt"
     },
     {
       "id": "f_fut_klu_af_eri",
@@ -1353,7 +1497,8 @@
       "icon": "er",
       "name": "Eritrea",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "eritrea"
     },
     {
       "id": "f_fut_klu_af_eth",
@@ -1362,7 +1507,8 @@
       "icon": "et",
       "name": "Etiópia",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "etiopia"
     },
     {
       "id": "f_fut_klu_af_gab",
@@ -1371,7 +1517,8 @@
       "icon": "ga",
       "name": "Gabon",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "gabon"
     },
     {
       "id": "f_fut_klu_af_gmb",
@@ -1380,7 +1527,8 @@
       "icon": "gm",
       "name": "Gambia",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "gambia"
     },
     {
       "id": "f_fut_klu_af_gha",
@@ -1389,7 +1537,8 @@
       "icon": "gh",
       "name": "Ghana",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "ghana"
     },
     {
       "id": "f_fut_klu_af_gin",
@@ -1398,7 +1547,8 @@
       "icon": "gn",
       "name": "Guinea",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "guinea"
     },
     {
       "id": "f_fut_klu_af_gnb",
@@ -1407,7 +1557,8 @@
       "icon": "gw",
       "name": "Guinea Bissau",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "guinea-bissau"
     },
     {
       "id": "f_fut_klu_af_zaf",
@@ -1416,7 +1567,8 @@
       "icon": "za",
       "name": "Juhoafrická rep.",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "juhoafricka-rep"
     },
     {
       "id": "f_fut_klu_af_ssd",
@@ -1425,7 +1577,8 @@
       "icon": "ss",
       "name": "Južný Sudán",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "juzny-sudan"
     },
     {
       "id": "f_fut_klu_af_cmr",
@@ -1434,7 +1587,8 @@
       "icon": "cm",
       "name": "Kamerun",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "kamerun"
     },
     {
       "id": "f_fut_klu_af_cpv",
@@ -1443,7 +1597,8 @@
       "icon": "cv",
       "name": "Kapverdy",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "kapverdy"
     },
     {
       "id": "f_fut_klu_af_ken",
@@ -1452,7 +1607,8 @@
       "icon": "ke",
       "name": "Keňa",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "kena"
     },
     {
       "id": "f_fut_klu_af_com",
@@ -1461,7 +1617,8 @@
       "icon": "km",
       "name": "Komory",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "komory"
     },
     {
       "id": "f_fut_klu_af_cog",
@@ -1470,7 +1627,8 @@
       "icon": "cg",
       "name": "Kongo",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "kongo"
     },
     {
       "id": "f_fut_klu_af_cod",
@@ -1479,7 +1637,8 @@
       "icon": "cd",
       "name": "Konžská dem. rep.",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "konzska-dem-rep"
     },
     {
       "id": "f_fut_klu_af_lso",
@@ -1488,7 +1647,8 @@
       "icon": "ls",
       "name": "Lesotho",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "lesotho"
     },
     {
       "id": "f_fut_klu_af_lbr",
@@ -1497,7 +1657,8 @@
       "icon": "lr",
       "name": "Libéria",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "liberia"
     },
     {
       "id": "f_fut_klu_af_lby",
@@ -1506,7 +1667,8 @@
       "icon": "ly",
       "name": "Líbya",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "libya"
     },
     {
       "id": "f_fut_klu_af_mdg",
@@ -1515,7 +1677,8 @@
       "icon": "mg",
       "name": "Madagaskar",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "madagaskar"
     },
     {
       "id": "f_fut_klu_af_mwi",
@@ -1524,7 +1687,8 @@
       "icon": "mw",
       "name": "Malawi",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "malawi"
     },
     {
       "id": "f_fut_klu_af_mli",
@@ -1533,7 +1697,8 @@
       "icon": "ml",
       "name": "Mali",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "mali"
     },
     {
       "id": "f_fut_klu_af_mar",
@@ -1542,7 +1707,8 @@
       "icon": "ma",
       "name": "Maroko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "maroko"
     },
     {
       "id": "f_fut_klu_af_mus",
@@ -1551,7 +1717,8 @@
       "icon": "mu",
       "name": "Maurícius",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "mauricius"
     },
     {
       "id": "f_fut_klu_af_mrt",
@@ -1560,7 +1727,8 @@
       "icon": "mr",
       "name": "Mauritánia",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "mauritania"
     },
     {
       "id": "f_fut_klu_af_moz",
@@ -1569,7 +1737,8 @@
       "icon": "mz",
       "name": "Mozambik",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "mozambik"
     },
     {
       "id": "f_fut_klu_af_nam",
@@ -1578,7 +1747,8 @@
       "icon": "na",
       "name": "Namíbia",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "namibia"
     },
     {
       "id": "f_fut_klu_af_ner",
@@ -1587,7 +1757,8 @@
       "icon": "ne",
       "name": "Niger",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "niger"
     },
     {
       "id": "f_fut_klu_af_nga",
@@ -1596,7 +1767,8 @@
       "icon": "ng",
       "name": "Nigéria",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "nigeria"
     },
     {
       "id": "f_fut_klu_af_civ",
@@ -1605,7 +1777,8 @@
       "icon": "ci",
       "name": "Pobrežie Slonoviny",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "pobrezie-slonoviny"
     },
     {
       "id": "f_fut_klu_af_gnq",
@@ -1614,7 +1787,8 @@
       "icon": "gq",
       "name": "Rovníková Guinea",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "rovnikova-guinea"
     },
     {
       "id": "f_fut_klu_af_rwa",
@@ -1623,7 +1797,8 @@
       "icon": "rw",
       "name": "Rwanda",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "rwanda"
     },
     {
       "id": "f_fut_klu_af_sen",
@@ -1632,7 +1807,8 @@
       "icon": "sn",
       "name": "Senegal",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "senegal"
     },
     {
       "id": "f_fut_klu_af_syc",
@@ -1641,7 +1817,8 @@
       "icon": "sc",
       "name": "Seychely",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "seychely"
     },
     {
       "id": "f_fut_klu_af_sle",
@@ -1650,7 +1827,8 @@
       "icon": "sl",
       "name": "Sierra Leone",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "sierra-leone"
     },
     {
       "id": "f_fut_klu_af_som",
@@ -1659,7 +1837,8 @@
       "icon": "so",
       "name": "Somálsko",
       "desc": "",
-      "order": 43
+      "order": 43,
+      "slug": "somalsko"
     },
     {
       "id": "f_fut_klu_af_caf",
@@ -1668,7 +1847,8 @@
       "icon": "cf",
       "name": "Stredoafrická rep.",
       "desc": "",
-      "order": 44
+      "order": 44,
+      "slug": "stredoafricka-rep"
     },
     {
       "id": "f_fut_klu_af_sdn",
@@ -1677,7 +1857,8 @@
       "icon": "sd",
       "name": "Sudán",
       "desc": "",
-      "order": 45
+      "order": 45,
+      "slug": "sudan"
     },
     {
       "id": "f_fut_klu_af_swz",
@@ -1686,7 +1867,8 @@
       "icon": "sz",
       "name": "Svazijsko",
       "desc": "",
-      "order": 46
+      "order": 46,
+      "slug": "svazijsko"
     },
     {
       "id": "f_fut_klu_af_stp",
@@ -1695,7 +1877,8 @@
       "icon": "st",
       "name": "Sv. Tomáš a Princov ostrov",
       "desc": "",
-      "order": 47
+      "order": 47,
+      "slug": "sv-tomas-a-princov-ostrov"
     },
     {
       "id": "f_fut_klu_af_tza",
@@ -1704,7 +1887,8 @@
       "icon": "tz",
       "name": "Tanzánia",
       "desc": "",
-      "order": 48
+      "order": 48,
+      "slug": "tanzania"
     },
     {
       "id": "f_fut_klu_af_tgo",
@@ -1713,7 +1897,8 @@
       "icon": "tg",
       "name": "Togo",
       "desc": "",
-      "order": 49
+      "order": 49,
+      "slug": "togo"
     },
     {
       "id": "f_fut_klu_af_tun",
@@ -1722,7 +1907,8 @@
       "icon": "tn",
       "name": "Tunisko",
       "desc": "",
-      "order": 50
+      "order": 50,
+      "slug": "tunisko"
     },
     {
       "id": "f_fut_klu_af_uga",
@@ -1731,7 +1917,8 @@
       "icon": "ug",
       "name": "Uganda",
       "desc": "",
-      "order": 51
+      "order": 51,
+      "slug": "uganda"
     },
     {
       "id": "f_fut_klu_af_zmb",
@@ -1740,7 +1927,8 @@
       "icon": "zm",
       "name": "Zambia",
       "desc": "",
-      "order": 52
+      "order": 52,
+      "slug": "zambia"
     },
     {
       "id": "f_fut_klu_af_zwe",
@@ -1749,7 +1937,8 @@
       "icon": "zw",
       "name": "Zimbabwe",
       "desc": "",
-      "order": 53
+      "order": 53,
+      "slug": "zimbabwe"
     },
     {
       "id": "f_fut_klu_az_afg",
@@ -1758,7 +1947,8 @@
       "icon": "af",
       "name": "Afganistan",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "afganistan"
     },
     {
       "id": "f_fut_klu_az_bhr",
@@ -1767,7 +1957,8 @@
       "icon": "bh",
       "name": "Bahrajn",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "bahrajn"
     },
     {
       "id": "f_fut_klu_az_bgd",
@@ -1776,7 +1967,8 @@
       "icon": "bd",
       "name": "Bangladéš",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "banglades"
     },
     {
       "id": "f_fut_klu_az_btn",
@@ -1785,7 +1977,8 @@
       "icon": "bt",
       "name": "Bhután",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "bhutan"
     },
     {
       "id": "f_fut_klu_az_brn",
@@ -1794,7 +1987,8 @@
       "icon": "bn",
       "name": "Brunej",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "brunej"
     },
     {
       "id": "f_fut_klu_az_chn",
@@ -1803,7 +1997,8 @@
       "icon": "cn",
       "name": "Čína",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "cina"
     },
     {
       "id": "f_fut_klu_az_phl",
@@ -1812,7 +2007,8 @@
       "icon": "ph",
       "name": "Filipíny",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "filipiny"
     },
     {
       "id": "f_fut_klu_az_ind",
@@ -1821,7 +2017,8 @@
       "icon": "in",
       "name": "India",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "india"
     },
     {
       "id": "f_fut_klu_az_idn",
@@ -1830,7 +2027,8 @@
       "icon": "id",
       "name": "Indonézia",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "indonezia"
     },
     {
       "id": "f_fut_klu_az_irq",
@@ -1839,7 +2037,8 @@
       "icon": "iq",
       "name": "Irak",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "irak"
     },
     {
       "id": "f_fut_klu_az_irn",
@@ -1848,7 +2047,8 @@
       "icon": "ir",
       "name": "Irán",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "iran"
     },
     {
       "id": "f_fut_klu_az_jpn",
@@ -1857,7 +2057,8 @@
       "icon": "jp",
       "name": "Japonsko",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "japonsko"
     },
     {
       "id": "f_fut_klu_az_jor",
@@ -1866,7 +2067,8 @@
       "icon": "jo",
       "name": "Jordánsko",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "jordansko"
     },
     {
       "id": "f_fut_klu_az_khm",
@@ -1875,7 +2077,8 @@
       "icon": "kh",
       "name": "Kambodža",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "kambodza"
     },
     {
       "id": "f_fut_klu_az_qat",
@@ -1884,7 +2087,8 @@
       "icon": "qa",
       "name": "Katar",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "katar"
     },
     {
       "id": "f_fut_klu_az_kgz",
@@ -1893,7 +2097,8 @@
       "icon": "kg",
       "name": "Kirgizsko",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "kirgizsko"
     },
     {
       "id": "f_fut_klu_az_prk",
@@ -1902,7 +2107,8 @@
       "icon": "kp",
       "name": "Severná Kórea",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "severna-korea"
     },
     {
       "id": "f_fut_klu_az_kor",
@@ -1911,7 +2117,8 @@
       "icon": "kr",
       "name": "Južná Kórea",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "juzna-korea"
     },
     {
       "id": "f_fut_klu_az_kwt",
@@ -1920,7 +2127,8 @@
       "icon": "kw",
       "name": "Kuvajt",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "kuvajt"
     },
     {
       "id": "f_fut_klu_az_lao",
@@ -1929,7 +2137,8 @@
       "icon": "la",
       "name": "Laos",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "laos"
     },
     {
       "id": "f_fut_klu_az_lbn",
@@ -1938,7 +2147,8 @@
       "icon": "lb",
       "name": "Libanon",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "libanon"
     },
     {
       "id": "f_fut_klu_az_mys",
@@ -1947,7 +2157,8 @@
       "icon": "my",
       "name": "Malajzia",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "malajzia"
     },
     {
       "id": "f_fut_klu_az_mdv",
@@ -1956,7 +2167,8 @@
       "icon": "mv",
       "name": "Maldivy",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "maldivy"
     },
     {
       "id": "f_fut_klu_az_mmr",
@@ -1965,7 +2177,8 @@
       "icon": "mm",
       "name": "Mjanmarsko",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "mjanmarsko"
     },
     {
       "id": "f_fut_klu_az_mng",
@@ -1974,7 +2187,8 @@
       "icon": "mn",
       "name": "Mongolsko",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "mongolsko"
     },
     {
       "id": "f_fut_klu_az_npl",
@@ -1983,7 +2197,8 @@
       "icon": "np",
       "name": "Nepál",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "nepal"
     },
     {
       "id": "f_fut_klu_az_omn",
@@ -1992,7 +2207,8 @@
       "icon": "om",
       "name": "Omán",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "oman"
     },
     {
       "id": "f_fut_klu_az_pak",
@@ -2001,7 +2217,8 @@
       "icon": "pk",
       "name": "Pakistan",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "pakistan"
     },
     {
       "id": "f_fut_klu_az_pse",
@@ -2010,7 +2227,8 @@
       "icon": "ps",
       "name": "Palestína",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "palestina"
     },
     {
       "id": "f_fut_klu_az_sau",
@@ -2019,7 +2237,8 @@
       "icon": "sa",
       "name": "Saudská Arábia",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "saudska-arabia"
     },
     {
       "id": "f_fut_klu_az_sgp",
@@ -2028,7 +2247,8 @@
       "icon": "sg",
       "name": "Singapur",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "singapur"
     },
     {
       "id": "f_fut_klu_az_lka",
@@ -2037,7 +2257,8 @@
       "icon": "lk",
       "name": "Srí Lanka",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "sri-lanka"
     },
     {
       "id": "f_fut_klu_az_syr",
@@ -2046,7 +2267,8 @@
       "icon": "sy",
       "name": "Sýria",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "syria"
     },
     {
       "id": "f_fut_klu_az_tjk",
@@ -2055,7 +2277,8 @@
       "icon": "tj",
       "name": "Tadžikistan",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "tadzikistan"
     },
     {
       "id": "f_fut_klu_az_twn",
@@ -2064,7 +2287,8 @@
       "icon": "tw",
       "name": "Taiwan",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "taiwan"
     },
     {
       "id": "f_fut_klu_az_tha",
@@ -2073,7 +2297,8 @@
       "icon": "th",
       "name": "Thajsko",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "thajsko"
     },
     {
       "id": "f_fut_klu_az_tkm",
@@ -2082,7 +2307,8 @@
       "icon": "tm",
       "name": "Turkménsko",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "turkmensko"
     },
     {
       "id": "f_fut_klu_az_are",
@@ -2091,7 +2317,8 @@
       "icon": "ae",
       "name": "Spojené arabské emiráty",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "spojene-arabske-emiraty"
     },
     {
       "id": "f_fut_klu_az_uzb",
@@ -2100,7 +2327,8 @@
       "icon": "uz",
       "name": "Uzbekistan",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "uzbekistan"
     },
     {
       "id": "f_fut_klu_az_vnm",
@@ -2109,7 +2337,8 @@
       "icon": "vn",
       "name": "Vietnam",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "vietnam"
     },
     {
       "id": "f_fut_klu_az_tls",
@@ -2118,7 +2347,8 @@
       "icon": "tl",
       "name": "Východný Timor",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "vychodny-timor"
     },
     {
       "id": "f_fut_klu_az_yem",
@@ -2127,7 +2357,8 @@
       "icon": "ye",
       "name": "Jemen",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "jemen"
     },
     {
       "id": "f_fut_klu_az_aus",
@@ -2136,7 +2367,8 @@
       "icon": "au",
       "name": "Austrália",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "australia"
     },
     {
       "id": "f_fut_klu_ja_arg",
@@ -2145,7 +2377,8 @@
       "icon": "ar",
       "name": "Argentína",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "argentina"
     },
     {
       "id": "f_fut_klu_ja_bol",
@@ -2154,7 +2387,8 @@
       "icon": "bo",
       "name": "Bolívia",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "bolivia"
     },
     {
       "id": "f_fut_klu_ja_bra",
@@ -2163,7 +2397,8 @@
       "icon": "br",
       "name": "Brazília",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "brazilia"
     },
     {
       "id": "f_fut_klu_ja_chi",
@@ -2172,7 +2407,8 @@
       "icon": "cl",
       "name": "Chile",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "chile"
     },
     {
       "id": "f_fut_klu_ja_ecu",
@@ -2181,7 +2417,8 @@
       "icon": "ec",
       "name": "Ekvádor",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "ekvador"
     },
     {
       "id": "f_fut_klu_ja_col",
@@ -2190,7 +2427,8 @@
       "icon": "co",
       "name": "Kolumbia",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "kolumbia"
     },
     {
       "id": "f_fut_klu_ja_par",
@@ -2199,7 +2437,8 @@
       "icon": "py",
       "name": "Paraguaj",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "paraguaj"
     },
     {
       "id": "f_fut_klu_ja_per",
@@ -2208,7 +2447,8 @@
       "icon": "pe",
       "name": "Peru",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "peru"
     },
     {
       "id": "f_fut_klu_ja_uru",
@@ -2217,7 +2457,8 @@
       "icon": "uy",
       "name": "Uruguaj",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "uruguaj"
     },
     {
       "id": "f_fut_klu_ja_ven",
@@ -2226,7 +2467,8 @@
       "icon": "ve",
       "name": "Venezuela",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "venezuela"
     },
     {
       "id": "f_fut_klu_na_vir",
@@ -2235,7 +2477,8 @@
       "icon": "vi",
       "name": "Americké Panenské ostrovy",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "americke-panenske-ostrovy"
     },
     {
       "id": "f_fut_klu_na_aia",
@@ -2244,7 +2487,8 @@
       "icon": "ai",
       "name": "Anguilla",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "anguilla"
     },
     {
       "id": "f_fut_klu_na_atg",
@@ -2253,7 +2497,8 @@
       "icon": "ag",
       "name": "Antigua a Barbuda",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "antigua-a-barbuda"
     },
     {
       "id": "f_fut_klu_na_aru",
@@ -2262,7 +2507,8 @@
       "icon": "aw",
       "name": "Aruba",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "aruba"
     },
     {
       "id": "f_fut_klu_na_bah",
@@ -2271,7 +2517,8 @@
       "icon": "bs",
       "name": "Bahamy",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "bahamy"
     },
     {
       "id": "f_fut_klu_na_brb",
@@ -2280,7 +2527,8 @@
       "icon": "bb",
       "name": "Barbados",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "barbados"
     },
     {
       "id": "f_fut_klu_na_blz",
@@ -2289,7 +2537,8 @@
       "icon": "bz",
       "name": "Belize",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "belize"
     },
     {
       "id": "f_fut_klu_na_ber",
@@ -2298,7 +2547,8 @@
       "icon": "bm",
       "name": "Bermuda",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "bermuda"
     },
     {
       "id": "f_fut_klu_na_boe",
@@ -2307,7 +2557,8 @@
       "icon": "bq",
       "name": "Bonaire",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "bonaire"
     },
     {
       "id": "f_fut_klu_na_vgb",
@@ -2316,7 +2567,8 @@
       "icon": "vg",
       "name": "Britské Panenské ostrovy",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "britske-panenske-ostrovy"
     },
     {
       "id": "f_fut_klu_na_cur",
@@ -2325,7 +2577,8 @@
       "icon": "cw",
       "name": "Curaçao",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "curacao"
     },
     {
       "id": "f_fut_klu_na_dma",
@@ -2334,7 +2587,8 @@
       "icon": "dm",
       "name": "Dominika",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "dominika"
     },
     {
       "id": "f_fut_klu_na_dom",
@@ -2343,7 +2597,8 @@
       "icon": "do",
       "name": "Dominikánska republika",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "dominikanska-republika"
     },
     {
       "id": "f_fut_klu_na_guf",
@@ -2352,7 +2607,8 @@
       "icon": "gf",
       "name": "Francúzska Guyana",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "francuzska-guyana"
     },
     {
       "id": "f_fut_klu_na_grn",
@@ -2361,7 +2617,8 @@
       "icon": "gd",
       "name": "Grenada",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "grenada"
     },
     {
       "id": "f_fut_klu_na_glp",
@@ -2370,7 +2627,8 @@
       "icon": "gp",
       "name": "Guadeloupe",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "guadeloupe"
     },
     {
       "id": "f_fut_klu_na_gua",
@@ -2379,7 +2637,8 @@
       "icon": "gt",
       "name": "Guatemala",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "guatemala"
     },
     {
       "id": "f_fut_klu_na_guy",
@@ -2388,7 +2647,8 @@
       "icon": "gy",
       "name": "Guyana",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "guyana"
     },
     {
       "id": "f_fut_klu_na_hai",
@@ -2397,7 +2657,8 @@
       "icon": "ht",
       "name": "Haiti",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "haiti"
     },
     {
       "id": "f_fut_klu_na_hon",
@@ -2406,7 +2667,8 @@
       "icon": "hn",
       "name": "Honduras",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "honduras"
     },
     {
       "id": "f_fut_klu_na_jam",
@@ -2415,7 +2677,8 @@
       "icon": "jm",
       "name": "Jamajka",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "jamajka"
     },
     {
       "id": "f_fut_klu_na_cay",
@@ -2424,7 +2687,8 @@
       "icon": "ky",
       "name": "Kajmanské ostrovy",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "kajmanske-ostrovy"
     },
     {
       "id": "f_fut_klu_na_can",
@@ -2433,7 +2697,8 @@
       "icon": "ca",
       "name": "Kanada",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "kanada"
     },
     {
       "id": "f_fut_klu_na_cri",
@@ -2442,7 +2707,8 @@
       "icon": "cr",
       "name": "Kostarika",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "kostarika"
     },
     {
       "id": "f_fut_klu_na_cub",
@@ -2451,7 +2717,8 @@
       "icon": "cu",
       "name": "Kuba",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "kuba"
     },
     {
       "id": "f_fut_klu_na_mtq",
@@ -2460,7 +2727,8 @@
       "icon": "mq",
       "name": "Martinik",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "martinik"
     },
     {
       "id": "f_fut_klu_na_mex",
@@ -2469,7 +2737,8 @@
       "icon": "mx",
       "name": "Mexiko",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "mexiko"
     },
     {
       "id": "f_fut_klu_na_msr",
@@ -2478,7 +2747,8 @@
       "icon": "ms",
       "name": "Montserrat",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "montserrat"
     },
     {
       "id": "f_fut_klu_na_nic",
@@ -2487,7 +2757,8 @@
       "icon": "ni",
       "name": "Nikaragua",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "nikaragua"
     },
     {
       "id": "f_fut_klu_na_pan",
@@ -2496,7 +2767,8 @@
       "icon": "pa",
       "name": "Panama",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "panama"
     },
     {
       "id": "f_fut_klu_na_pri",
@@ -2505,7 +2777,8 @@
       "icon": "pr",
       "name": "Portoriko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "portoriko"
     },
     {
       "id": "f_fut_klu_na_slv",
@@ -2514,7 +2787,8 @@
       "icon": "sv",
       "name": "Salvádor",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "salvador"
     },
     {
       "id": "f_fut_klu_na_sxm",
@@ -2523,7 +2797,8 @@
       "icon": "sx",
       "name": "Sint Maarten",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "sint-maarten"
     },
     {
       "id": "f_fut_klu_na_usa",
@@ -2532,7 +2807,8 @@
       "icon": "us",
       "name": "Spojené štáty",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "spojene-staty"
     },
     {
       "id": "f_fut_klu_na_sur",
@@ -2541,7 +2817,8 @@
       "icon": "sr",
       "name": "Surinam",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "surinam"
     },
     {
       "id": "f_fut_klu_na_skn",
@@ -2550,7 +2827,8 @@
       "icon": "kn",
       "name": "Sv. Krištof a Nevis",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "sv-kristof-a-nevis"
     },
     {
       "id": "f_fut_klu_na_lca",
@@ -2559,7 +2837,8 @@
       "icon": "lc",
       "name": "Sv. Lucia",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "sv-lucia"
     },
     {
       "id": "f_fut_klu_na_vin",
@@ -2568,7 +2847,8 @@
       "icon": "vc",
       "name": "Sv. Vincent a Grenadíny",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "sv-vincent-a-grenadiny"
     },
     {
       "id": "f_fut_klu_na_smn",
@@ -2577,7 +2857,8 @@
       "icon": "mf",
       "name": "Svätý Martin (fr.)",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "svaty-martin-fr"
     },
     {
       "id": "f_fut_klu_na_tri",
@@ -2586,7 +2867,8 @@
       "icon": "tt",
       "name": "Trinidad a Tobago",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "trinidad-a-tobago"
     },
     {
       "id": "f_fut_klu_na_tca",
@@ -2595,7 +2877,8 @@
       "icon": "tc",
       "name": "Turks a Caicos",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "turks-a-caicos"
     },
     {
       "id": "f_fut_klu_oc_asm",
@@ -2604,7 +2887,8 @@
       "icon": "as",
       "name": "Americká Samoa",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "americka-samoa"
     },
     {
       "id": "f_fut_klu_oc_cok",
@@ -2613,7 +2897,8 @@
       "icon": "ck",
       "name": "Cookove ostrovy",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "cookove-ostrovy"
     },
     {
       "id": "f_fut_klu_oc_fij",
@@ -2622,7 +2907,8 @@
       "icon": "fj",
       "name": "Fidži",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "fidzi"
     },
     {
       "id": "f_fut_klu_oc_ncl",
@@ -2631,7 +2917,8 @@
       "icon": "nc",
       "name": "Nová Kaledónia",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "nova-kaledonia"
     },
     {
       "id": "f_fut_klu_oc_nzl",
@@ -2640,7 +2927,8 @@
       "icon": "nz",
       "name": "Nový Zéland",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "novy-zeland"
     },
     {
       "id": "f_fut_klu_oc_png",
@@ -2649,7 +2937,8 @@
       "icon": "pg",
       "name": "Papua-Nová Guinea",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "papua-nova-guinea"
     },
     {
       "id": "f_fut_klu_oc_wsm",
@@ -2658,7 +2947,8 @@
       "icon": "ws",
       "name": "Samoa",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "samoa"
     },
     {
       "id": "f_fut_klu_oc_slb",
@@ -2667,7 +2957,8 @@
       "icon": "sb",
       "name": "Šalamúnove ostrovy",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "salamunove-ostrovy"
     },
     {
       "id": "f_fut_klu_oc_tah",
@@ -2676,7 +2967,8 @@
       "icon": "pf",
       "name": "Tahiti",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "tahiti"
     },
     {
       "id": "f_fut_klu_oc_ton",
@@ -2685,7 +2977,8 @@
       "icon": "to",
       "name": "Tonga",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "tonga"
     },
     {
       "id": "f_fut_klu_oc_van",
@@ -2694,7 +2987,8 @@
       "icon": "vu",
       "name": "Vanuatu",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "vanuatu"
     },
     {
       "id": "f_hok_sut",
@@ -2703,7 +2997,8 @@
       "icon": "🏆",
       "name": "Súťaže",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "sutaze"
     },
     {
       "id": "f_hok_klu",
@@ -2712,7 +3007,8 @@
       "icon": "👕",
       "name": "Kluby",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "kluby"
     },
     {
       "id": "f_hok_aso",
@@ -2721,7 +3017,8 @@
       "icon": "🏢",
       "name": "Asociácie",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "asociacie"
     },
     {
       "id": "f_hok_sta",
@@ -2730,7 +3027,8 @@
       "icon": "📊",
       "name": "Štatistiky",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "statistiky"
     },
     {
       "id": "f_hok_sut_gl",
@@ -2739,7 +3037,8 @@
       "icon": "🏒",
       "name": "Globálne",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "globalne"
     },
     {
       "id": "f_hok_sut_na",
@@ -2748,7 +3047,8 @@
       "icon": "🏒",
       "name": "Severná Amerika",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "severna-amerika"
     },
     {
       "id": "f_hok_sut_eu",
@@ -2756,8 +3056,9 @@
       "type": "folder",
       "icon": "🏒",
       "name": "Európa",
-      "desc": "",
-      "order": 2
+      "desc": "Európske klubové súťaže a najvyššie národné hokejové ligy",
+      "order": 2,
+      "slug": "europa"
     },
     {
       "id": "f_hok_klu_nhl",
@@ -2766,7 +3067,8 @@
       "icon": "🏒",
       "name": "NHL",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "nhl"
     },
     {
       "id": "f_hok_klu_eu",
@@ -2775,7 +3077,8 @@
       "icon": "🏒",
       "name": "Európa",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "europa"
     },
     {
       "id": "f_hok_klu_ao",
@@ -2784,7 +3087,8 @@
       "icon": "🏒",
       "name": "Ázia & Oceánia",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "azia-oceania"
     },
     {
       "id": "f_hok_klu_eu_svk",
@@ -2793,7 +3097,8 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "slovensko"
     },
     {
       "id": "f_hok_klu_eu_cze",
@@ -2802,7 +3107,8 @@
       "icon": "cz",
       "name": "Česká republika",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "ceska-republika"
     },
     {
       "id": "f_hok_klu_eu_swe",
@@ -2811,7 +3117,8 @@
       "icon": "se",
       "name": "Švédsko",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "svedsko"
     },
     {
       "id": "f_hok_klu_eu_fin",
@@ -2820,7 +3127,8 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "finsko"
     },
     {
       "id": "f_hok_klu_eu_deu",
@@ -2829,7 +3137,8 @@
       "icon": "de",
       "name": "Nemecko",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "nemecko"
     },
     {
       "id": "f_hok_klu_eu_rus",
@@ -2838,7 +3147,8 @@
       "icon": "ru",
       "name": "Rusko",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "rusko"
     },
     {
       "id": "f_hok_klu_eu_che",
@@ -2847,7 +3157,8 @@
       "icon": "ch",
       "name": "Švajčiarsko",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "svajciarsko"
     },
     {
       "id": "f_hok_klu_eu_bel",
@@ -2856,7 +3167,8 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "belgicko"
     },
     {
       "id": "f_hok_klu_eu_blr",
@@ -2865,7 +3177,8 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "bielorusko"
     },
     {
       "id": "f_hok_klu_eu_bih",
@@ -2874,7 +3187,8 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "bosna-a-hercegovina"
     },
     {
       "id": "f_hok_klu_eu_bgr",
@@ -2883,7 +3197,8 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "bulharsko"
     },
     {
       "id": "f_hok_klu_eu_dnk",
@@ -2892,7 +3207,8 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "dansko"
     },
     {
       "id": "f_hok_klu_eu_est",
@@ -2901,7 +3217,8 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "estonsko"
     },
     {
       "id": "f_hok_klu_eu_fra",
@@ -2910,7 +3227,8 @@
       "icon": "fr",
       "name": "Francúzsko",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "francuzsko"
     },
     {
       "id": "f_hok_klu_eu_geo",
@@ -2919,7 +3237,8 @@
       "icon": "ge",
       "name": "Gruzínsko",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "gruzinsko"
     },
     {
       "id": "f_hok_klu_eu_nld",
@@ -2928,7 +3247,8 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "holandsko"
     },
     {
       "id": "f_hok_klu_eu_hrv",
@@ -2937,7 +3257,8 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "chorvatsko"
     },
     {
       "id": "f_hok_klu_eu_isl",
@@ -2946,7 +3267,8 @@
       "icon": "is",
       "name": "Island",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "island"
     },
     {
       "id": "f_hok_klu_eu_irl",
@@ -2955,7 +3277,8 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "irsko"
     },
     {
       "id": "f_hok_klu_eu_kaz",
@@ -2964,7 +3287,8 @@
       "icon": "kz",
       "name": "Kazachstan",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "kazachstan"
     },
     {
       "id": "f_hok_klu_eu_ltu",
@@ -2973,7 +3297,8 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "litva"
     },
     {
       "id": "f_hok_klu_eu_lva",
@@ -2982,7 +3307,8 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "lotyssko"
     },
     {
       "id": "f_hok_klu_eu_lux",
@@ -2991,7 +3317,8 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "luxembursko"
     },
     {
       "id": "f_hok_klu_eu_hun",
@@ -3000,7 +3327,8 @@
       "icon": "hu",
       "name": "Maďarsko",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "madarsko"
     },
     {
       "id": "f_hok_klu_eu_nor",
@@ -3009,7 +3337,8 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "norsko"
     },
     {
       "id": "f_hok_klu_eu_pol",
@@ -3018,7 +3347,8 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "polsko"
     },
     {
       "id": "f_hok_klu_eu_aut",
@@ -3027,7 +3357,8 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "rakusko"
     },
     {
       "id": "f_hok_klu_eu_rou",
@@ -3036,7 +3367,8 @@
       "icon": "ro",
       "name": "Rumunsko",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "rumunsko"
     },
     {
       "id": "f_hok_klu_eu_svn",
@@ -3045,7 +3377,8 @@
       "icon": "si",
       "name": "Slovinsko",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "slovinsko"
     },
     {
       "id": "f_hok_klu_eu_srb",
@@ -3054,7 +3387,8 @@
       "icon": "rs",
       "name": "Srbsko",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "srbsko"
     },
     {
       "id": "f_hok_klu_eu_esp",
@@ -3063,7 +3397,8 @@
       "icon": "es",
       "name": "Španielsko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "spanielsko"
     },
     {
       "id": "f_hok_klu_eu_ita",
@@ -3072,7 +3407,8 @@
       "icon": "it",
       "name": "Taliansko",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "taliansko"
     },
     {
       "id": "f_hok_klu_eu_tur",
@@ -3081,7 +3417,8 @@
       "icon": "tr",
       "name": "Turecko",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "turecko"
     },
     {
       "id": "f_hok_klu_eu_ukr",
@@ -3090,7 +3427,8 @@
       "icon": "ua",
       "name": "Ukrajina",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "ukrajina"
     },
     {
       "id": "f_hok_klu_eu_gbr",
@@ -3099,7 +3437,8 @@
       "icon": "gb",
       "name": "Veľká Británia",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "velka-britania"
     },
     {
       "id": "f_hok_klu_ao_jpn",
@@ -3108,7 +3447,8 @@
       "icon": "jp",
       "name": "Japonsko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "japonsko"
     },
     {
       "id": "f_hok_klu_ao_aus",
@@ -3117,7 +3457,8 @@
       "icon": "au",
       "name": "Austrália",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "australia"
     },
     {
       "id": "f_hok_klu_ao_nzl",
@@ -3126,7 +3467,8 @@
       "icon": "nz",
       "name": "Nový Zéland",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "novy-zeland"
     },
     {
       "id": "n1779957307590bqf",
@@ -3564,7 +3906,7 @@
       "type": "link",
       "icon": "",
       "name": "Liga majstrov",
-      "desc": "",
+      "desc": "Champions Hockey League — najvyššia európska klubová súťaž",
       "url": "https://www.chl.hockey/",
       "order": 0
     },
@@ -3574,7 +3916,7 @@
       "type": "link",
       "icon": "",
       "name": "Spengler cup",
-      "desc": "",
+      "desc": "Tradičný medzinárodný klubový turnaj v Davose",
       "url": "https://www.spenglercup.ch/en/international-ice-hockey-tournament",
       "order": 1
     },
@@ -3584,7 +3926,7 @@
       "type": "link",
       "icon": "",
       "name": "Švédsko 1.liga",
-      "desc": "",
+      "desc": "SHL — najvyššia švédska hokejová liga",
       "url": "https://www.shl.se/",
       "order": 2
     },
@@ -3594,7 +3936,7 @@
       "type": "link",
       "icon": "",
       "name": "Švédsko 2.liga",
-      "desc": "",
+      "desc": "HockeyAllsvenskan — druhá švédska liga",
       "url": "https://www.hockeyallsvenskan.se/",
       "order": 3
     },
@@ -3604,7 +3946,7 @@
       "type": "link",
       "icon": "",
       "name": "Fínsko 1.liga",
-      "desc": "",
+      "desc": "Liiga — najvyššia fínska hokejová liga",
       "url": "https://liiga.fi/",
       "order": 4
     },
@@ -3614,7 +3956,7 @@
       "type": "link",
       "icon": "",
       "name": "Fínsko 2.liga",
-      "desc": "",
+      "desc": "Mestis — druhá fínska hokejová liga",
       "url": "https://mestis.fi/fi/",
       "order": 5
     },
@@ -3624,9 +3966,9 @@
       "type": "link",
       "icon": "",
       "name": "Švajčiarsko",
-      "desc": "",
+      "desc": "National League — najvyššia švajčiarska liga",
       "url": "https://www.nationalleague.ch/",
-      "order": 6
+      "order": 8
     },
     {
       "id": "n1780046339797aki",
@@ -3634,9 +3976,9 @@
       "type": "link",
       "icon": "",
       "name": "Česko 1.liga",
-      "desc": "",
+      "desc": "Tipsport extraliga — najvyššia česká liga",
       "url": "https://www.hokej.cz/tipsport-extraliga",
-      "order": 7
+      "order": 9
     },
     {
       "id": "n1780046370872tbk",
@@ -3644,19 +3986,19 @@
       "type": "link",
       "icon": "",
       "name": "Česko 2.liga",
-      "desc": "",
+      "desc": "Maxa liga (Chance liga) — druhá česká liga",
       "url": "https://www.hokej.cz/maxa-liga",
-      "order": 8
+      "order": 10
     },
     {
       "id": "n17800463972282iq",
       "parentId": "f_hok_sut_eu",
       "type": "link",
       "icon": "",
-      "name": "Nemecko",
-      "desc": "",
+      "name": "Nemecko 1",
+      "desc": "PENNY DEL — najvyššia nemecká liga",
       "url": "https://www.penny-del.org/startseite",
-      "order": 9
+      "order": 11
     },
     {
       "id": "n178004648821503o",
@@ -3664,19 +4006,19 @@
       "type": "link",
       "icon": "",
       "name": "Slovensko",
-      "desc": "",
+      "desc": "Tipsport liga — najvyššia slovenská extraliga",
       "url": "https://www.hockeyslovakia.sk/sk/stats/results/1131/tipsport-liga",
-      "order": 10
+      "order": 12
     },
     {
       "id": "n1780046578997mn4",
       "parentId": "f_hok_sut_eu",
       "type": "link",
       "icon": "",
-      "name": "WIN2DAY",
-      "desc": "",
+      "name": "Rakúsko",
+      "desc": "ICE Hockey League — najvyššia rakúska (medzinárodná) liga",
       "url": "https://www.ice.hockey/en/",
-      "order": 11
+      "order": 14
     },
     {
       "id": "n1780046651996ldq",
@@ -3684,9 +4026,9 @@
       "type": "link",
       "icon": "",
       "name": "Dánsko",
-      "desc": "",
+      "desc": "Metal Ligaen — najvyššia dánska liga",
       "url": "https://metalligaen.dk/",
-      "order": 12
+      "order": 7
     },
     {
       "id": "n178004668853407t",
@@ -3694,9 +4036,9 @@
       "type": "link",
       "icon": "",
       "name": "Francúzsko",
-      "desc": "",
+      "desc": "Ligue Magnus — najvyššia francúzska liga",
       "url": "https://liguemagnus.com/",
-      "order": 13
+      "order": 15
     },
     {
       "id": "n1780046719374m0b",
@@ -3704,9 +4046,9 @@
       "type": "link",
       "icon": "",
       "name": "Veľká Británia",
-      "desc": "",
+      "desc": "Elite Ice Hockey League — najvyššia britská liga",
       "url": "https://www.eliteleague.co.uk/",
-      "order": 14
+      "order": 16
     },
     {
       "id": "n1780046751269lb2",
@@ -3714,9 +4056,9 @@
       "type": "link",
       "icon": "",
       "name": "KHL",
-      "desc": "",
+      "desc": "Kontinentálna hokejová liga — medzinárodná (Rusko a i.)",
       "url": "https://en.khl.ru/",
-      "order": 15
+      "order": 17
     },
     {
       "id": "n17800468408581pn",
@@ -3724,9 +4066,9 @@
       "type": "link",
       "icon": "",
       "name": "Slovensko 2.liga",
-      "desc": "",
+      "desc": "Slovenská hokejová liga — druhá slovenská súťaž",
       "url": "https://shl.hockeyslovakia.sk/sk/#google_vignette",
-      "order": 16
+      "order": 13
     },
     {
       "id": "n17805039511682ig",
@@ -8445,7 +8787,8 @@
       "icon": "🌐",
       "name": "Globálne",
       "desc": "Svetové športové médiá — ESPN, Sky Sports, BBC a ďalšie",
-      "order": 0
+      "order": 0,
+      "slug": "globalne"
     },
     {
       "id": "f_med_sk",
@@ -8454,7 +8797,8 @@
       "icon": "🌐",
       "name": "Slovensko & Česko",
       "desc": "Slovenské a české športové weby, denníky a televízie",
-      "order": 1
+      "order": 1,
+      "slug": "slovensko-cesko"
     },
     {
       "id": "f_med_eu",
@@ -8463,7 +8807,8 @@
       "icon": "🌐",
       "name": "Európa",
       "desc": "Športové médiá európskych krajín od Albánska po Wales",
-      "order": 2
+      "order": 2,
+      "slug": "europa"
     },
     {
       "id": "f_med_na",
@@ -8472,7 +8817,8 @@
       "icon": "🌐",
       "name": "Severná a Stredná Amerika",
       "desc": "Športové médiá Severnej Ameriky a Karibiku",
-      "order": 3
+      "order": 3,
+      "slug": "severna-a-stredna-amerika"
     },
     {
       "id": "f_med_ja",
@@ -8481,7 +8827,8 @@
       "icon": "🌐",
       "name": "Južná Amerika",
       "desc": "Športové médiá juhoamerických krajín",
-      "order": 4
+      "order": 4,
+      "slug": "juzna-amerika"
     },
     {
       "id": "f_med_af",
@@ -8490,7 +8837,8 @@
       "icon": "🌐",
       "name": "Afrika",
       "desc": "Športové médiá afrických krajín",
-      "order": 5
+      "order": 5,
+      "slug": "afrika"
     },
     {
       "id": "f_med_as",
@@ -8499,7 +8847,8 @@
       "icon": "🌐",
       "name": "Ázia",
       "desc": "Športové médiá ázijských krajín a Austrálie",
-      "order": 6
+      "order": 6,
+      "slug": "azia"
     },
     {
       "id": "f_med_oc",
@@ -8508,7 +8857,8 @@
       "icon": "🌐",
       "name": "Oceánia",
       "desc": "Športové médiá Oceánie — Nový Zéland a tichomorské ostrovy",
-      "order": 7
+      "order": 7,
+      "slug": "oceania"
     },
     {
       "id": "n1782132633255amc",
@@ -8887,7 +9237,8 @@
       "icon": "gb-eng",
       "name": "Anglicko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "anglicko"
     },
     {
       "id": "f_med_eu_es",
@@ -8896,7 +9247,8 @@
       "icon": "es",
       "name": "Španielsko",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "spanielsko"
     },
     {
       "id": "f_med_eu_de",
@@ -8905,7 +9257,8 @@
       "icon": "de",
       "name": "Nemecko",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "nemecko"
     },
     {
       "id": "f_med_eu_fr",
@@ -8914,7 +9267,8 @@
       "icon": "fr",
       "name": "Francúzsko",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "francuzsko"
     },
     {
       "id": "f_med_eu_sk",
@@ -8923,7 +9277,8 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "slovensko"
     },
     {
       "id": "f_med_eu_cz",
@@ -8932,7 +9287,8 @@
       "icon": "cz",
       "name": "Česká republika",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "ceska-republika"
     },
     {
       "id": "f_med_eu_al",
@@ -8941,7 +9297,8 @@
       "icon": "al",
       "name": "Albánsko",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "albansko"
     },
     {
       "id": "f_med_eu_ad",
@@ -8950,7 +9307,8 @@
       "icon": "ad",
       "name": "Andorra",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "andorra"
     },
     {
       "id": "f_med_eu_by",
@@ -8959,7 +9317,8 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "bielorusko"
     },
     {
       "id": "f_med_eu_be",
@@ -8968,7 +9327,8 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "belgicko"
     },
     {
       "id": "f_med_eu_ba",
@@ -8977,7 +9337,8 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "bosna-a-hercegovina"
     },
     {
       "id": "f_med_eu_bg",
@@ -8986,7 +9347,8 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "bulharsko"
     },
     {
       "id": "f_med_eu_me",
@@ -8995,7 +9357,8 @@
       "icon": "me",
       "name": "Čierna Hora",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "cierna-hora"
     },
     {
       "id": "f_med_eu_dk",
@@ -9004,7 +9367,8 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "dansko"
     },
     {
       "id": "f_med_eu_ee",
@@ -9013,7 +9377,8 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "estonsko"
     },
     {
       "id": "f_med_eu_fi",
@@ -9022,7 +9387,8 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "finsko"
     },
     {
       "id": "f_med_eu_gr",
@@ -9031,7 +9397,8 @@
       "icon": "gr",
       "name": "Grécko",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "grecko"
     },
     {
       "id": "f_med_eu_nl",
@@ -9040,7 +9407,8 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "holandsko"
     },
     {
       "id": "f_med_eu_hr",
@@ -9049,7 +9417,8 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "chorvatsko"
     },
     {
       "id": "f_med_eu_ie",
@@ -9058,7 +9427,8 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "irsko"
     },
     {
       "id": "f_med_eu_is",
@@ -9067,7 +9437,8 @@
       "icon": "is",
       "name": "Island",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "island"
     },
     {
       "id": "f_med_eu_xk",
@@ -9076,7 +9447,8 @@
       "icon": "xk",
       "name": "Kosovo",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "kosovo"
     },
     {
       "id": "f_med_eu_li",
@@ -9085,7 +9457,8 @@
       "icon": "li",
       "name": "Lichtenštajnsko",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "lichtenstajnsko"
     },
     {
       "id": "f_med_eu_lt",
@@ -9094,7 +9467,8 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "litva"
     },
     {
       "id": "f_med_eu_lv",
@@ -9103,7 +9477,8 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "lotyssko"
     },
     {
       "id": "f_med_eu_lu",
@@ -9112,7 +9487,8 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "luxembursko"
     },
     {
       "id": "f_med_eu_mk",
@@ -9121,7 +9497,8 @@
       "icon": "mk",
       "name": "Macedónsko",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "macedonsko"
     },
     {
       "id": "f_med_eu_hu",
@@ -9130,7 +9507,8 @@
       "icon": "hu",
       "name": "Maďarsko",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "madarsko"
     },
     {
       "id": "f_med_eu_mt",
@@ -9139,7 +9517,8 @@
       "icon": "mt",
       "name": "Malta",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "malta"
     },
     {
       "id": "f_med_eu_md",
@@ -9148,7 +9527,8 @@
       "icon": "md",
       "name": "Moldavsko",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "moldavsko"
     },
     {
       "id": "f_med_eu_no",
@@ -9157,7 +9537,8 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "norsko"
     },
     {
       "id": "f_med_eu_pl",
@@ -9166,7 +9547,8 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "polsko"
     },
     {
       "id": "f_med_eu_pt",
@@ -9175,7 +9557,8 @@
       "icon": "pt",
       "name": "Portugalsko",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "portugalsko"
     },
     {
       "id": "f_med_eu_at",
@@ -9184,7 +9567,8 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "rakusko"
     },
     {
       "id": "f_med_eu_ro",
@@ -9193,7 +9577,8 @@
       "icon": "ro",
       "name": "Rumunsko",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "rumunsko"
     },
     {
       "id": "f_med_eu_ru",
@@ -9202,7 +9587,8 @@
       "icon": "ru",
       "name": "Rusko",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "rusko"
     },
     {
       "id": "f_med_eu_sm",
@@ -9211,7 +9597,8 @@
       "icon": "sm",
       "name": "San Maríno",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "san-marino"
     },
     {
       "id": "f_med_eu_gb_nir",
@@ -9220,7 +9607,8 @@
       "icon": "gb-nir",
       "name": "Severné Írsko",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "severne-irsko"
     },
     {
       "id": "f_med_eu_gb_sct",
@@ -9229,7 +9617,8 @@
       "icon": "gb-sct",
       "name": "Škótsko",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "skotsko"
     },
     {
       "id": "f_med_eu_si",
@@ -9238,7 +9627,8 @@
       "icon": "si",
       "name": "Slovinsko",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "slovinsko"
     },
     {
       "id": "f_med_eu_rs",
@@ -9247,7 +9637,8 @@
       "icon": "rs",
       "name": "Srbsko",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "srbsko"
     },
     {
       "id": "f_med_eu_ch",
@@ -9256,7 +9647,8 @@
       "icon": "ch",
       "name": "Švajčiarsko",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "svajciarsko"
     },
     {
       "id": "f_med_eu_se",
@@ -9265,7 +9657,8 @@
       "icon": "se",
       "name": "Švédsko",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "svedsko"
     },
     {
       "id": "f_med_eu_it",
@@ -9274,7 +9667,8 @@
       "icon": "it",
       "name": "Taliansko",
       "desc": "",
-      "order": 43
+      "order": 43,
+      "slug": "taliansko"
     },
     {
       "id": "f_med_eu_tr",
@@ -9283,7 +9677,8 @@
       "icon": "tr",
       "name": "Turecko",
       "desc": "",
-      "order": 44
+      "order": 44,
+      "slug": "turecko"
     },
     {
       "id": "f_med_eu_ua",
@@ -9292,7 +9687,8 @@
       "icon": "ua",
       "name": "Ukrajina",
       "desc": "",
-      "order": 45
+      "order": 45,
+      "slug": "ukrajina"
     },
     {
       "id": "f_med_eu_gb_wls",
@@ -9301,7 +9697,8 @@
       "icon": "gb-wls",
       "name": "Wales",
       "desc": "",
-      "order": 46
+      "order": 46,
+      "slug": "wales"
     },
     {
       "id": "f_med_eu_am",
@@ -9310,7 +9707,8 @@
       "icon": "am",
       "name": "Arménsko",
       "desc": "",
-      "order": 47
+      "order": 47,
+      "slug": "armensko"
     },
     {
       "id": "f_med_eu_ge",
@@ -9319,7 +9717,8 @@
       "icon": "ge",
       "name": "Gruzínsko",
       "desc": "",
-      "order": 48
+      "order": 48,
+      "slug": "gruzinsko"
     },
     {
       "id": "f_med_eu_il",
@@ -9328,7 +9727,8 @@
       "icon": "il",
       "name": "Izrael",
       "desc": "",
-      "order": 49
+      "order": 49,
+      "slug": "izrael"
     },
     {
       "id": "f_med_eu_kz",
@@ -9337,7 +9737,8 @@
       "icon": "kz",
       "name": "Kazachstan",
       "desc": "",
-      "order": 50
+      "order": 50,
+      "slug": "kazachstan"
     },
     {
       "id": "f_med_eu_az",
@@ -9346,7 +9747,8 @@
       "icon": "az",
       "name": "Azerbajdžán",
       "desc": "",
-      "order": 51
+      "order": 51,
+      "slug": "azerbajdzan"
     },
     {
       "id": "f_med_eu_cy",
@@ -9355,7 +9757,8 @@
       "icon": "cy",
       "name": "Cyprus",
       "desc": "",
-      "order": 52
+      "order": 52,
+      "slug": "cyprus"
     },
     {
       "id": "f_med_na_vi",
@@ -9364,7 +9767,8 @@
       "icon": "vi",
       "name": "Americké Panenské ostrovy",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "americke-panenske-ostrovy"
     },
     {
       "id": "f_med_na_ai",
@@ -9373,7 +9777,8 @@
       "icon": "ai",
       "name": "Anguilla",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "anguilla"
     },
     {
       "id": "f_med_na_ag",
@@ -9382,7 +9787,8 @@
       "icon": "ag",
       "name": "Antigua a Barbuda",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "antigua-a-barbuda"
     },
     {
       "id": "f_med_na_aw",
@@ -9391,7 +9797,8 @@
       "icon": "aw",
       "name": "Aruba",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "aruba"
     },
     {
       "id": "f_med_na_bs",
@@ -9400,7 +9807,8 @@
       "icon": "bs",
       "name": "Bahamy",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "bahamy"
     },
     {
       "id": "f_med_na_bb",
@@ -9409,7 +9817,8 @@
       "icon": "bb",
       "name": "Barbados",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "barbados"
     },
     {
       "id": "f_med_na_bz",
@@ -9418,7 +9827,8 @@
       "icon": "bz",
       "name": "Belize",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "belize"
     },
     {
       "id": "f_med_na_bm",
@@ -9427,7 +9837,8 @@
       "icon": "bm",
       "name": "Bermuda",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "bermuda"
     },
     {
       "id": "f_med_na_bq",
@@ -9436,7 +9847,8 @@
       "icon": "bq",
       "name": "Bonaire",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "bonaire"
     },
     {
       "id": "f_med_na_vg",
@@ -9445,7 +9857,8 @@
       "icon": "vg",
       "name": "Britské Panenské ostrovy",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "britske-panenske-ostrovy"
     },
     {
       "id": "f_med_na_cw",
@@ -9454,7 +9867,8 @@
       "icon": "cw",
       "name": "Curaçao",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "curacao"
     },
     {
       "id": "f_med_na_dm",
@@ -9463,7 +9877,8 @@
       "icon": "dm",
       "name": "Dominika",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "dominika"
     },
     {
       "id": "f_med_na_do",
@@ -9472,7 +9887,8 @@
       "icon": "do",
       "name": "Dominikánska republika",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "dominikanska-republika"
     },
     {
       "id": "f_med_na_gf",
@@ -9481,7 +9897,8 @@
       "icon": "gf",
       "name": "Francúzska Guyana",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "francuzska-guyana"
     },
     {
       "id": "f_med_na_gd",
@@ -9490,7 +9907,8 @@
       "icon": "gd",
       "name": "Grenada",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "grenada"
     },
     {
       "id": "f_med_na_gp",
@@ -9499,7 +9917,8 @@
       "icon": "gp",
       "name": "Guadeloupe",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "guadeloupe"
     },
     {
       "id": "f_med_na_gt",
@@ -9508,7 +9927,8 @@
       "icon": "gt",
       "name": "Guatemala",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "guatemala"
     },
     {
       "id": "f_med_na_gy",
@@ -9517,7 +9937,8 @@
       "icon": "gy",
       "name": "Guyana",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "guyana"
     },
     {
       "id": "f_med_na_ht",
@@ -9526,7 +9947,8 @@
       "icon": "ht",
       "name": "Haiti",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "haiti"
     },
     {
       "id": "f_med_na_hn",
@@ -9535,7 +9957,8 @@
       "icon": "hn",
       "name": "Honduras",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "honduras"
     },
     {
       "id": "f_med_na_jm",
@@ -9544,7 +9967,8 @@
       "icon": "jm",
       "name": "Jamajka",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "jamajka"
     },
     {
       "id": "f_med_na_ky",
@@ -9553,7 +9977,8 @@
       "icon": "ky",
       "name": "Kajmanské ostrovy",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "kajmanske-ostrovy"
     },
     {
       "id": "f_med_na_ca",
@@ -9562,7 +9987,8 @@
       "icon": "ca",
       "name": "Kanada",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "kanada"
     },
     {
       "id": "f_med_na_cr",
@@ -9571,7 +9997,8 @@
       "icon": "cr",
       "name": "Kostarika",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "kostarika"
     },
     {
       "id": "f_med_na_cu",
@@ -9580,7 +10007,8 @@
       "icon": "cu",
       "name": "Kuba",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "kuba"
     },
     {
       "id": "f_med_na_mq",
@@ -9589,7 +10017,8 @@
       "icon": "mq",
       "name": "Martinik",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "martinik"
     },
     {
       "id": "f_med_na_mx",
@@ -9598,7 +10027,8 @@
       "icon": "mx",
       "name": "Mexiko",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "mexiko"
     },
     {
       "id": "f_med_na_ms",
@@ -9607,7 +10037,8 @@
       "icon": "ms",
       "name": "Montserrat",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "montserrat"
     },
     {
       "id": "f_med_na_ni",
@@ -9616,7 +10047,8 @@
       "icon": "ni",
       "name": "Nikaragua",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "nikaragua"
     },
     {
       "id": "f_med_na_pa",
@@ -9625,7 +10057,8 @@
       "icon": "pa",
       "name": "Panama",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "panama"
     },
     {
       "id": "f_med_na_pr",
@@ -9634,7 +10067,8 @@
       "icon": "pr",
       "name": "Portoriko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "portoriko"
     },
     {
       "id": "f_med_na_sv",
@@ -9643,7 +10077,8 @@
       "icon": "sv",
       "name": "Salvádor",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "salvador"
     },
     {
       "id": "f_med_na_sx",
@@ -9652,7 +10087,8 @@
       "icon": "sx",
       "name": "Sint Maarten",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "sint-maarten"
     },
     {
       "id": "f_med_na_us",
@@ -9661,7 +10097,8 @@
       "icon": "us",
       "name": "Spojené štáty",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "spojene-staty"
     },
     {
       "id": "f_med_na_sr",
@@ -9670,7 +10107,8 @@
       "icon": "sr",
       "name": "Surinam",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "surinam"
     },
     {
       "id": "f_med_na_kn",
@@ -9679,7 +10117,8 @@
       "icon": "kn",
       "name": "Sv. Krištof a Nevis",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "sv-kristof-a-nevis"
     },
     {
       "id": "f_med_na_lc",
@@ -9688,7 +10127,8 @@
       "icon": "lc",
       "name": "Sv. Lucia",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "sv-lucia"
     },
     {
       "id": "f_med_na_vc",
@@ -9697,7 +10137,8 @@
       "icon": "vc",
       "name": "Sv. Vincent a Grenadíny",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "sv-vincent-a-grenadiny"
     },
     {
       "id": "f_med_na_mf",
@@ -9706,7 +10147,8 @@
       "icon": "mf",
       "name": "Svätý Martin (fr.)",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "svaty-martin-fr"
     },
     {
       "id": "f_med_na_tt",
@@ -9715,7 +10157,8 @@
       "icon": "tt",
       "name": "Trinidad a Tobago",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "trinidad-a-tobago"
     },
     {
       "id": "f_med_na_tc",
@@ -9724,7 +10167,8 @@
       "icon": "tc",
       "name": "Turks a Caicos",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "turks-a-caicos"
     },
     {
       "id": "f_med_ja_ar",
@@ -9733,7 +10177,8 @@
       "icon": "ar",
       "name": "Argentína",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "argentina"
     },
     {
       "id": "f_med_ja_bo",
@@ -9742,7 +10187,8 @@
       "icon": "bo",
       "name": "Bolívia",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "bolivia"
     },
     {
       "id": "f_med_ja_br",
@@ -9751,7 +10197,8 @@
       "icon": "br",
       "name": "Brazília",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "brazilia"
     },
     {
       "id": "f_med_ja_cl",
@@ -9760,7 +10207,8 @@
       "icon": "cl",
       "name": "Chile",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "chile"
     },
     {
       "id": "f_med_ja_ec",
@@ -9769,7 +10217,8 @@
       "icon": "ec",
       "name": "Ekvádor",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "ekvador"
     },
     {
       "id": "f_med_ja_co",
@@ -9778,7 +10227,8 @@
       "icon": "co",
       "name": "Kolumbia",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "kolumbia"
     },
     {
       "id": "f_med_ja_py",
@@ -9787,7 +10237,8 @@
       "icon": "py",
       "name": "Paraguaj",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "paraguaj"
     },
     {
       "id": "f_med_ja_pe",
@@ -9796,7 +10247,8 @@
       "icon": "pe",
       "name": "Peru",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "peru"
     },
     {
       "id": "f_med_ja_uy",
@@ -9805,7 +10257,8 @@
       "icon": "uy",
       "name": "Uruguaj",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "uruguaj"
     },
     {
       "id": "f_med_ja_ve",
@@ -9814,7 +10267,8 @@
       "icon": "ve",
       "name": "Venezuela",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "venezuela"
     },
     {
       "id": "f_med_af_dz",
@@ -9823,7 +10277,8 @@
       "icon": "dz",
       "name": "Alžírsko",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "alzirsko"
     },
     {
       "id": "f_med_af_ao",
@@ -9832,7 +10287,8 @@
       "icon": "ao",
       "name": "Angola",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "angola"
     },
     {
       "id": "f_med_af_bj",
@@ -9841,7 +10297,8 @@
       "icon": "bj",
       "name": "Benin",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "benin"
     },
     {
       "id": "f_med_af_bw",
@@ -9850,7 +10307,8 @@
       "icon": "bw",
       "name": "Botswana",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "botswana"
     },
     {
       "id": "f_med_af_bf",
@@ -9859,7 +10317,8 @@
       "icon": "bf",
       "name": "Burkina Faso",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "burkina-faso"
     },
     {
       "id": "f_med_af_bi",
@@ -9868,7 +10327,8 @@
       "icon": "bi",
       "name": "Burundi",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "burundi"
     },
     {
       "id": "f_med_af_td",
@@ -9877,7 +10337,8 @@
       "icon": "td",
       "name": "Čad",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "cad"
     },
     {
       "id": "f_med_af_dj",
@@ -9886,7 +10347,8 @@
       "icon": "dj",
       "name": "Džibutsko",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "dzibutsko"
     },
     {
       "id": "f_med_af_eg",
@@ -9895,7 +10357,8 @@
       "icon": "eg",
       "name": "Egypt",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "egypt"
     },
     {
       "id": "f_med_af_er",
@@ -9904,7 +10367,8 @@
       "icon": "er",
       "name": "Eritrea",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "eritrea"
     },
     {
       "id": "f_med_af_et",
@@ -9913,7 +10377,8 @@
       "icon": "et",
       "name": "Etiópia",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "etiopia"
     },
     {
       "id": "f_med_af_ga",
@@ -9922,7 +10387,8 @@
       "icon": "ga",
       "name": "Gabon",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "gabon"
     },
     {
       "id": "f_med_af_gm",
@@ -9931,7 +10397,8 @@
       "icon": "gm",
       "name": "Gambia",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "gambia"
     },
     {
       "id": "f_med_af_gh",
@@ -9940,7 +10407,8 @@
       "icon": "gh",
       "name": "Ghana",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "ghana"
     },
     {
       "id": "f_med_af_gn",
@@ -9949,7 +10417,8 @@
       "icon": "gn",
       "name": "Guinea",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "guinea"
     },
     {
       "id": "f_med_af_gw",
@@ -9958,7 +10427,8 @@
       "icon": "gw",
       "name": "Guinea Bissau",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "guinea-bissau"
     },
     {
       "id": "f_med_af_za",
@@ -9967,7 +10437,8 @@
       "icon": "za",
       "name": "Juhoafrická rep.",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "juhoafricka-rep"
     },
     {
       "id": "f_med_af_ss",
@@ -9976,7 +10447,8 @@
       "icon": "ss",
       "name": "Južný Sudán",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "juzny-sudan"
     },
     {
       "id": "f_med_af_cm",
@@ -9985,7 +10457,8 @@
       "icon": "cm",
       "name": "Kamerun",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "kamerun"
     },
     {
       "id": "f_med_af_cv",
@@ -9994,7 +10467,8 @@
       "icon": "cv",
       "name": "Kapverdy",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "kapverdy"
     },
     {
       "id": "f_med_af_ke",
@@ -10003,7 +10477,8 @@
       "icon": "ke",
       "name": "Keňa",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "kena"
     },
     {
       "id": "f_med_af_km",
@@ -10012,7 +10487,8 @@
       "icon": "km",
       "name": "Komory",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "komory"
     },
     {
       "id": "f_med_af_cg",
@@ -10021,7 +10497,8 @@
       "icon": "cg",
       "name": "Kongo",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "kongo"
     },
     {
       "id": "f_med_af_cd",
@@ -10030,7 +10507,8 @@
       "icon": "cd",
       "name": "Konžská dem. rep.",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "konzska-dem-rep"
     },
     {
       "id": "f_med_af_ls",
@@ -10039,7 +10517,8 @@
       "icon": "ls",
       "name": "Lesotho",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "lesotho"
     },
     {
       "id": "f_med_af_lr",
@@ -10048,7 +10527,8 @@
       "icon": "lr",
       "name": "Libéria",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "liberia"
     },
     {
       "id": "f_med_af_ly",
@@ -10057,7 +10537,8 @@
       "icon": "ly",
       "name": "Líbya",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "libya"
     },
     {
       "id": "f_med_af_mg",
@@ -10066,7 +10547,8 @@
       "icon": "mg",
       "name": "Madagaskar",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "madagaskar"
     },
     {
       "id": "f_med_af_mw",
@@ -10075,7 +10557,8 @@
       "icon": "mw",
       "name": "Malawi",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "malawi"
     },
     {
       "id": "f_med_af_ml",
@@ -10084,7 +10567,8 @@
       "icon": "ml",
       "name": "Mali",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "mali"
     },
     {
       "id": "f_med_af_ma",
@@ -10093,7 +10577,8 @@
       "icon": "ma",
       "name": "Maroko",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "maroko"
     },
     {
       "id": "f_med_af_mu",
@@ -10102,7 +10587,8 @@
       "icon": "mu",
       "name": "Maurícius",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "mauricius"
     },
     {
       "id": "f_med_af_mr",
@@ -10111,7 +10597,8 @@
       "icon": "mr",
       "name": "Mauritánia",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "mauritania"
     },
     {
       "id": "f_med_af_mz",
@@ -10120,7 +10607,8 @@
       "icon": "mz",
       "name": "Mozambik",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "mozambik"
     },
     {
       "id": "f_med_af_na",
@@ -10129,7 +10617,8 @@
       "icon": "na",
       "name": "Namíbia",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "namibia"
     },
     {
       "id": "f_med_af_ne",
@@ -10138,7 +10627,8 @@
       "icon": "ne",
       "name": "Niger",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "niger"
     },
     {
       "id": "f_med_af_ng",
@@ -10147,7 +10637,8 @@
       "icon": "ng",
       "name": "Nigéria",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "nigeria"
     },
     {
       "id": "f_med_af_ci",
@@ -10156,7 +10647,8 @@
       "icon": "ci",
       "name": "Pobrežie Slonoviny",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "pobrezie-slonoviny"
     },
     {
       "id": "f_med_af_gq",
@@ -10165,7 +10657,8 @@
       "icon": "gq",
       "name": "Rovníková Guinea",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "rovnikova-guinea"
     },
     {
       "id": "f_med_af_rw",
@@ -10174,7 +10667,8 @@
       "icon": "rw",
       "name": "Rwanda",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "rwanda"
     },
     {
       "id": "f_med_af_sn",
@@ -10183,7 +10677,8 @@
       "icon": "sn",
       "name": "Senegal",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "senegal"
     },
     {
       "id": "f_med_af_sc",
@@ -10192,7 +10687,8 @@
       "icon": "sc",
       "name": "Seychely",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "seychely"
     },
     {
       "id": "f_med_af_sl",
@@ -10201,7 +10697,8 @@
       "icon": "sl",
       "name": "Sierra Leone",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "sierra-leone"
     },
     {
       "id": "f_med_af_so",
@@ -10210,7 +10707,8 @@
       "icon": "so",
       "name": "Somálsko",
       "desc": "",
-      "order": 43
+      "order": 43,
+      "slug": "somalsko"
     },
     {
       "id": "f_med_af_cf",
@@ -10219,7 +10717,8 @@
       "icon": "cf",
       "name": "Stredoafrická rep.",
       "desc": "",
-      "order": 44
+      "order": 44,
+      "slug": "stredoafricka-rep"
     },
     {
       "id": "f_med_af_sd",
@@ -10228,7 +10727,8 @@
       "icon": "sd",
       "name": "Sudán",
       "desc": "",
-      "order": 45
+      "order": 45,
+      "slug": "sudan"
     },
     {
       "id": "f_med_af_sz",
@@ -10237,7 +10737,8 @@
       "icon": "sz",
       "name": "Svazijsko",
       "desc": "",
-      "order": 46
+      "order": 46,
+      "slug": "svazijsko"
     },
     {
       "id": "f_med_af_st",
@@ -10246,7 +10747,8 @@
       "icon": "st",
       "name": "Sv. Tomáš a Princov ostrov",
       "desc": "",
-      "order": 47
+      "order": 47,
+      "slug": "sv-tomas-a-princov-ostrov"
     },
     {
       "id": "f_med_af_tz",
@@ -10255,7 +10757,8 @@
       "icon": "tz",
       "name": "Tanzánia",
       "desc": "",
-      "order": 48
+      "order": 48,
+      "slug": "tanzania"
     },
     {
       "id": "f_med_af_tg",
@@ -10264,7 +10767,8 @@
       "icon": "tg",
       "name": "Togo",
       "desc": "",
-      "order": 49
+      "order": 49,
+      "slug": "togo"
     },
     {
       "id": "f_med_af_tn",
@@ -10273,7 +10777,8 @@
       "icon": "tn",
       "name": "Tunisko",
       "desc": "",
-      "order": 50
+      "order": 50,
+      "slug": "tunisko"
     },
     {
       "id": "f_med_af_ug",
@@ -10282,7 +10787,8 @@
       "icon": "ug",
       "name": "Uganda",
       "desc": "",
-      "order": 51
+      "order": 51,
+      "slug": "uganda"
     },
     {
       "id": "f_med_af_zm",
@@ -10291,7 +10797,8 @@
       "icon": "zm",
       "name": "Zambia",
       "desc": "",
-      "order": 52
+      "order": 52,
+      "slug": "zambia"
     },
     {
       "id": "f_med_af_zw",
@@ -10300,7 +10807,8 @@
       "icon": "zw",
       "name": "Zimbabwe",
       "desc": "",
-      "order": 53
+      "order": 53,
+      "slug": "zimbabwe"
     },
     {
       "id": "f_med_as_af",
@@ -10309,7 +10817,8 @@
       "icon": "af",
       "name": "Afganistan",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "afganistan"
     },
     {
       "id": "f_med_as_bh",
@@ -10318,7 +10827,8 @@
       "icon": "bh",
       "name": "Bahrajn",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "bahrajn"
     },
     {
       "id": "f_med_as_bd",
@@ -10327,7 +10837,8 @@
       "icon": "bd",
       "name": "Bangladéš",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "banglades"
     },
     {
       "id": "f_med_as_bt",
@@ -10336,7 +10847,8 @@
       "icon": "bt",
       "name": "Bhután",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "bhutan"
     },
     {
       "id": "f_med_as_bn",
@@ -10345,7 +10857,8 @@
       "icon": "bn",
       "name": "Brunej",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "brunej"
     },
     {
       "id": "f_med_as_cn",
@@ -10354,7 +10867,8 @@
       "icon": "cn",
       "name": "Čína",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "cina"
     },
     {
       "id": "f_med_as_ph",
@@ -10363,7 +10877,8 @@
       "icon": "ph",
       "name": "Filipíny",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "filipiny"
     },
     {
       "id": "f_med_as_in",
@@ -10372,7 +10887,8 @@
       "icon": "in",
       "name": "India",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "india"
     },
     {
       "id": "f_med_as_id",
@@ -10381,7 +10897,8 @@
       "icon": "id",
       "name": "Indonézia",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "indonezia"
     },
     {
       "id": "f_med_as_iq",
@@ -10390,7 +10907,8 @@
       "icon": "iq",
       "name": "Irak",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "irak"
     },
     {
       "id": "f_med_as_ir",
@@ -10399,7 +10917,8 @@
       "icon": "ir",
       "name": "Irán",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "iran"
     },
     {
       "id": "f_med_as_jp",
@@ -10408,7 +10927,8 @@
       "icon": "jp",
       "name": "Japonsko",
       "desc": "",
-      "order": 11
+      "order": 11,
+      "slug": "japonsko"
     },
     {
       "id": "f_med_as_jo",
@@ -10417,7 +10937,8 @@
       "icon": "jo",
       "name": "Jordánsko",
       "desc": "",
-      "order": 12
+      "order": 12,
+      "slug": "jordansko"
     },
     {
       "id": "f_med_as_kh",
@@ -10426,7 +10947,8 @@
       "icon": "kh",
       "name": "Kambodža",
       "desc": "",
-      "order": 13
+      "order": 13,
+      "slug": "kambodza"
     },
     {
       "id": "f_med_as_qa",
@@ -10435,7 +10957,8 @@
       "icon": "qa",
       "name": "Katar",
       "desc": "",
-      "order": 14
+      "order": 14,
+      "slug": "katar"
     },
     {
       "id": "f_med_as_kg",
@@ -10444,7 +10967,8 @@
       "icon": "kg",
       "name": "Kirgizsko",
       "desc": "",
-      "order": 15
+      "order": 15,
+      "slug": "kirgizsko"
     },
     {
       "id": "f_med_as_kp",
@@ -10453,7 +10977,8 @@
       "icon": "kp",
       "name": "Severná Kórea",
       "desc": "",
-      "order": 16
+      "order": 16,
+      "slug": "severna-korea"
     },
     {
       "id": "f_med_as_kr",
@@ -10462,7 +10987,8 @@
       "icon": "kr",
       "name": "Južná Kórea",
       "desc": "",
-      "order": 17
+      "order": 17,
+      "slug": "juzna-korea"
     },
     {
       "id": "f_med_as_kw",
@@ -10471,7 +10997,8 @@
       "icon": "kw",
       "name": "Kuvajt",
       "desc": "",
-      "order": 18
+      "order": 18,
+      "slug": "kuvajt"
     },
     {
       "id": "f_med_as_la",
@@ -10480,7 +11007,8 @@
       "icon": "la",
       "name": "Laos",
       "desc": "",
-      "order": 19
+      "order": 19,
+      "slug": "laos"
     },
     {
       "id": "f_med_as_lb",
@@ -10489,7 +11017,8 @@
       "icon": "lb",
       "name": "Libanon",
       "desc": "",
-      "order": 20
+      "order": 20,
+      "slug": "libanon"
     },
     {
       "id": "f_med_as_my",
@@ -10498,7 +11027,8 @@
       "icon": "my",
       "name": "Malajzia",
       "desc": "",
-      "order": 21
+      "order": 21,
+      "slug": "malajzia"
     },
     {
       "id": "f_med_as_mv",
@@ -10507,7 +11037,8 @@
       "icon": "mv",
       "name": "Maldivy",
       "desc": "",
-      "order": 22
+      "order": 22,
+      "slug": "maldivy"
     },
     {
       "id": "f_med_as_mm",
@@ -10516,7 +11047,8 @@
       "icon": "mm",
       "name": "Mjanmarsko",
       "desc": "",
-      "order": 23
+      "order": 23,
+      "slug": "mjanmarsko"
     },
     {
       "id": "f_med_as_mn",
@@ -10525,7 +11057,8 @@
       "icon": "mn",
       "name": "Mongolsko",
       "desc": "",
-      "order": 24
+      "order": 24,
+      "slug": "mongolsko"
     },
     {
       "id": "f_med_as_np",
@@ -10534,7 +11067,8 @@
       "icon": "np",
       "name": "Nepál",
       "desc": "",
-      "order": 25
+      "order": 25,
+      "slug": "nepal"
     },
     {
       "id": "f_med_as_om",
@@ -10543,7 +11077,8 @@
       "icon": "om",
       "name": "Omán",
       "desc": "",
-      "order": 26
+      "order": 26,
+      "slug": "oman"
     },
     {
       "id": "f_med_as_pk",
@@ -10552,7 +11087,8 @@
       "icon": "pk",
       "name": "Pakistan",
       "desc": "",
-      "order": 27
+      "order": 27,
+      "slug": "pakistan"
     },
     {
       "id": "f_med_as_ps",
@@ -10561,7 +11097,8 @@
       "icon": "ps",
       "name": "Palestína",
       "desc": "",
-      "order": 28
+      "order": 28,
+      "slug": "palestina"
     },
     {
       "id": "f_med_as_sa",
@@ -10570,7 +11107,8 @@
       "icon": "sa",
       "name": "Saudská Arábia",
       "desc": "",
-      "order": 29
+      "order": 29,
+      "slug": "saudska-arabia"
     },
     {
       "id": "f_med_as_sg",
@@ -10579,7 +11117,8 @@
       "icon": "sg",
       "name": "Singapur",
       "desc": "",
-      "order": 30
+      "order": 30,
+      "slug": "singapur"
     },
     {
       "id": "f_med_as_lk",
@@ -10588,7 +11127,8 @@
       "icon": "lk",
       "name": "Srí Lanka",
       "desc": "",
-      "order": 31
+      "order": 31,
+      "slug": "sri-lanka"
     },
     {
       "id": "f_med_as_sy",
@@ -10597,7 +11137,8 @@
       "icon": "sy",
       "name": "Sýria",
       "desc": "",
-      "order": 32
+      "order": 32,
+      "slug": "syria"
     },
     {
       "id": "f_med_as_tj",
@@ -10606,7 +11147,8 @@
       "icon": "tj",
       "name": "Tadžikistan",
       "desc": "",
-      "order": 33
+      "order": 33,
+      "slug": "tadzikistan"
     },
     {
       "id": "f_med_as_tw",
@@ -10615,7 +11157,8 @@
       "icon": "tw",
       "name": "Taiwan",
       "desc": "",
-      "order": 34
+      "order": 34,
+      "slug": "taiwan"
     },
     {
       "id": "f_med_as_th",
@@ -10624,7 +11167,8 @@
       "icon": "th",
       "name": "Thajsko",
       "desc": "",
-      "order": 35
+      "order": 35,
+      "slug": "thajsko"
     },
     {
       "id": "f_med_as_tm",
@@ -10633,7 +11177,8 @@
       "icon": "tm",
       "name": "Turkménsko",
       "desc": "",
-      "order": 36
+      "order": 36,
+      "slug": "turkmensko"
     },
     {
       "id": "f_med_as_ae",
@@ -10642,7 +11187,8 @@
       "icon": "ae",
       "name": "Spojené arabské emiráty",
       "desc": "",
-      "order": 37
+      "order": 37,
+      "slug": "spojene-arabske-emiraty"
     },
     {
       "id": "f_med_as_uz",
@@ -10651,7 +11197,8 @@
       "icon": "uz",
       "name": "Uzbekistan",
       "desc": "",
-      "order": 38
+      "order": 38,
+      "slug": "uzbekistan"
     },
     {
       "id": "f_med_as_vn",
@@ -10660,7 +11207,8 @@
       "icon": "vn",
       "name": "Vietnam",
       "desc": "",
-      "order": 39
+      "order": 39,
+      "slug": "vietnam"
     },
     {
       "id": "f_med_as_tl",
@@ -10669,7 +11217,8 @@
       "icon": "tl",
       "name": "Východný Timor",
       "desc": "",
-      "order": 40
+      "order": 40,
+      "slug": "vychodny-timor"
     },
     {
       "id": "f_med_as_ye",
@@ -10678,7 +11227,8 @@
       "icon": "ye",
       "name": "Jemen",
       "desc": "",
-      "order": 41
+      "order": 41,
+      "slug": "jemen"
     },
     {
       "id": "f_med_as_au",
@@ -10687,7 +11237,8 @@
       "icon": "au",
       "name": "Austrália",
       "desc": "",
-      "order": 42
+      "order": 42,
+      "slug": "australia"
     },
     {
       "id": "f_med_oc_as",
@@ -10696,7 +11247,8 @@
       "icon": "as",
       "name": "Americká Samoa",
       "desc": "",
-      "order": 0
+      "order": 0,
+      "slug": "americka-samoa"
     },
     {
       "id": "f_med_oc_ck",
@@ -10705,7 +11257,8 @@
       "icon": "ck",
       "name": "Cookove ostrovy",
       "desc": "",
-      "order": 1
+      "order": 1,
+      "slug": "cookove-ostrovy"
     },
     {
       "id": "f_med_oc_fj",
@@ -10714,7 +11267,8 @@
       "icon": "fj",
       "name": "Fidži",
       "desc": "",
-      "order": 2
+      "order": 2,
+      "slug": "fidzi"
     },
     {
       "id": "f_med_oc_nc",
@@ -10723,7 +11277,8 @@
       "icon": "nc",
       "name": "Nová Kaledónia",
       "desc": "",
-      "order": 3
+      "order": 3,
+      "slug": "nova-kaledonia"
     },
     {
       "id": "f_med_oc_nz",
@@ -10732,7 +11287,8 @@
       "icon": "nz",
       "name": "Nový Zéland",
       "desc": "",
-      "order": 4
+      "order": 4,
+      "slug": "novy-zeland"
     },
     {
       "id": "f_med_oc_pg",
@@ -10741,7 +11297,8 @@
       "icon": "pg",
       "name": "Papua-Nová Guinea",
       "desc": "",
-      "order": 5
+      "order": 5,
+      "slug": "papua-nova-guinea"
     },
     {
       "id": "f_med_oc_ws",
@@ -10750,7 +11307,8 @@
       "icon": "ws",
       "name": "Samoa",
       "desc": "",
-      "order": 6
+      "order": 6,
+      "slug": "samoa"
     },
     {
       "id": "f_med_oc_sb",
@@ -10759,7 +11317,8 @@
       "icon": "sb",
       "name": "Šalamúnove ostrovy",
       "desc": "",
-      "order": 7
+      "order": 7,
+      "slug": "salamunove-ostrovy"
     },
     {
       "id": "f_med_oc_pf",
@@ -10768,7 +11327,8 @@
       "icon": "pf",
       "name": "Tahiti",
       "desc": "",
-      "order": 8
+      "order": 8,
+      "slug": "tahiti"
     },
     {
       "id": "f_med_oc_to",
@@ -10777,7 +11337,8 @@
       "icon": "to",
       "name": "Tonga",
       "desc": "",
-      "order": 9
+      "order": 9,
+      "slug": "tonga"
     },
     {
       "id": "f_med_oc_vu",
@@ -10786,7 +11347,8 @@
       "icon": "vu",
       "name": "Vanuatu",
       "desc": "",
-      "order": 10
+      "order": 10,
+      "slug": "vanuatu"
     },
     {
       "id": "n1782218991207ky1",
@@ -12486,7 +13048,128 @@
       "name": "Motorizmus",
       "desc": "",
       "url": null,
-      "order": 15
+      "order": 15,
+      "slug": "motorizmus"
+    },
+    {
+      "id": "n1783519048141rnr",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Nórsko",
+      "desc": "EliteHockey Ligaen — najvyššia nórska liga",
+      "url": "https://www.ehl.no/",
+      "order": 6
+    },
+    {
+      "id": "n17835200941267gk",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Poľsko",
+      "desc": "Polska Hokej Liga — najvyššia poľská liga",
+      "url": "https://polskihokej.eu/",
+      "order": 18
+    },
+    {
+      "id": "n1783520132818ght",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Ukrajina",
+      "desc": "Ukrajinská hokejová superliga (HSL)",
+      "url": "https://hsl.com.ua",
+      "order": 19
+    },
+    {
+      "id": "n1783520193928hb2",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Nemecko 2",
+      "desc": "DEL2 — druhá nemecká hokejová liga",
+      "url": "https://www.del-2.org/",
+      "order": 20
+    },
+    {
+      "id": "n17835202428187s0",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Lotyšsko",
+      "desc": "Optibet hokeja līga — najvyššia lotyšská liga",
+      "url": "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga",
+      "order": 21
+    },
+    {
+      "id": "n17835202962663r5",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Bielorusko",
+      "desc": "Bieloruská Extraliga (BETERA)",
+      "url": "https://hockey.by/natsionalnyy-chempionat/ekstraliga-a/",
+      "order": 22
+    },
+    {
+      "id": "n1783520324419c3v",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "CEHL",
+      "desc": "Central European Hockey League — Holandsko, Belgicko, Nemecko",
+      "url": "https://www.cehl.eu/",
+      "order": 23
+    },
+    {
+      "id": "n1783520371880nin",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "ALPS Hockey",
+      "desc": "Alps Hockey League — Rakúsko, Taliansko, Slovinsko",
+      "url": "https://www.alps.hockey/en/",
+      "order": 24
+    },
+    {
+      "id": "n1783520409343gk0",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Erste liga",
+      "desc": "Erste Liga — maďarsko-rumunská liga",
+      "url": "https://www.eliteprospects.com/league/erste-liga",
+      "order": 25
+    },
+    {
+      "id": "n1783520685751dn9",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Kazachstan",
+      "desc": "Pro Hokei Ligasy — najvyššia kazašská liga",
+      "url": "https://pro.ligasy.kz/kz/",
+      "order": 26
+    },
+    {
+      "id": "n178352072360079v",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Taliansko",
+      "desc": "IHL Serie A — najvyššia talianska liga",
+      "url": "https://italia.hockey/championship/ihl-serie-a/?level=864",
+      "order": 27
+    },
+    {
+      "id": "n1783520936161195",
+      "parentId": "f_hok_sut_eu",
+      "type": "link",
+      "icon": "",
+      "name": "Litva",
+      "desc": "Nacionalinė ledo ritulio lyga — najvyššia litovská liga",
+      "url": "https://www.hockey.lt/index.php/rezultatai",
+      "order": 28
     }
   ]
 }
