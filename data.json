@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 28,
   "password": "Sportlinks73",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -2996,7 +2996,7 @@
       "type": "folder",
       "icon": "🏆",
       "name": "Súťaže",
-      "desc": "",
+      "desc": "Hokejové súťaže — národné ligy, Liga majstrov a medzinárodné turnaje",
       "order": 0,
       "slug": "sutaze"
     },
@@ -3006,7 +3006,7 @@
       "type": "folder",
       "icon": "👕",
       "name": "Kluby",
-      "desc": "",
+      "desc": "Hokejové kluby podľa krajín — NHL, európske a ázijské tímy",
       "order": 1,
       "slug": "kluby"
     },
@@ -3016,7 +3016,7 @@
       "type": "folder",
       "icon": "🏢",
       "name": "Asociácie",
-      "desc": "",
+      "desc": "Národné a medzinárodné hokejové zväzy a federácie",
       "order": 2,
       "slug": "asociacie"
     },
@@ -3026,7 +3026,7 @@
       "type": "folder",
       "icon": "📊",
       "name": "Štatistiky",
-      "desc": "",
+      "desc": "Hokejové štatistiky, rebríčky a databázy hráčov a tímov",
       "order": 3,
       "slug": "statistiky"
     },
@@ -3036,7 +3036,7 @@
       "type": "folder",
       "icon": "🏒",
       "name": "Globálne",
-      "desc": "",
+      "desc": "Svetové hokejové súťaže — majstrovstvá sveta a medzinárodné turnaje",
       "order": 0,
       "slug": "globalne"
     },
@@ -3046,7 +3046,7 @@
       "type": "folder",
       "icon": "🏒",
       "name": "Severná Amerika",
-      "desc": "",
+      "desc": "Severoamerické hokejové súťaže — NHL a zámorské ligy",
       "order": 1,
       "slug": "severna-amerika"
     },
@@ -3476,7 +3476,7 @@
       "type": "link",
       "icon": "",
       "name": "MS muži",
-      "desc": "",
+      "desc": "Majstrovstvá sveta mužov v hokeji — elitná divízia (IIHF)",
       "url": "https://www.iihf.com/en/events/2026/wm",
       "order": 0
     },
@@ -3486,7 +3486,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divízia 1A",
-      "desc": "",
+      "desc": "MS mužov — 1. divízia, skupina A (druhá úroveň)",
       "url": "https://www.iihf.com/en/events/2026/wmia",
       "order": 1
     },
@@ -3496,7 +3496,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divízia 1B",
-      "desc": "",
+      "desc": "MS mužov — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wmib",
       "order": 2
     },
@@ -3506,7 +3506,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divízia 2A",
-      "desc": "",
+      "desc": "MS mužov — 2. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm",
       "order": 3
     },
@@ -3516,7 +3516,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divízia 2B",
-      "desc": "",
+      "desc": "MS mužov — 2. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wmiib",
       "order": 4
     },
@@ -3526,7 +3526,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divizia 3A",
-      "desc": "",
+      "desc": "MS mužov — 3. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wmiiia",
       "order": 5
     },
@@ -3536,7 +3536,7 @@
       "type": "link",
       "icon": "",
       "name": "MS divízia 3B",
-      "desc": "",
+      "desc": "MS mužov — 3. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wmiiib",
       "order": 6
     },
@@ -3546,7 +3546,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20",
-      "desc": "",
+      "desc": "Majstrovstvá sveta juniorov do 20 rokov (IIHF)",
       "url": "https://www.iihf.com/en/events/2026/wm20",
       "order": 7
     },
@@ -3556,7 +3556,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divizia 1A",
-      "desc": "",
+      "desc": "MS juniorov U20 — 1. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm20ia",
       "order": 8
     },
@@ -3566,7 +3566,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divízia 1B",
-      "desc": "",
+      "desc": "MS juniorov U20 — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wm20ib",
       "order": 9
     },
@@ -3576,7 +3576,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divízia 2A",
-      "desc": "",
+      "desc": "MS juniorov U20 — 2. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm20iia",
       "order": 10
     },
@@ -3586,7 +3586,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divízia 2B",
-      "desc": "",
+      "desc": "MS juniorov U20 — 2. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wm20iib",
       "order": 11
     },
@@ -3596,7 +3596,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divízia 3A",
-      "desc": "",
+      "desc": "MS juniorov U20 — 3. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm20iiia",
       "order": 12
     },
@@ -3606,7 +3606,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U20 divízia 3B",
-      "desc": "",
+      "desc": "MS juniorov U20 — 3. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wm20iiib",
       "order": 13
     },
@@ -3616,7 +3616,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U18",
-      "desc": "",
+      "desc": "Majstrovstvá sveta hráčov do 18 rokov (IIHF)",
       "url": "https://www.iihf.com/en/events/2026/wm18",
       "order": 14
     },
@@ -3626,7 +3626,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U18 divízia 1A",
-      "desc": "",
+      "desc": "MS U18 — 1. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm18ia",
       "order": 15
     },
@@ -3636,7 +3636,7 @@
       "type": "link",
       "icon": "",
       "name": "MS U18 divízia 1B",
-      "desc": "",
+      "desc": "MS U18 — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wm18ib",
       "order": 16
     },
@@ -3646,7 +3646,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy",
-      "desc": "",
+      "desc": "Majstrovstvá sveta žien v hokeji (IIHF)",
       "url": "https://www.iihf.com/en/events/2026/ww",
       "order": 17
     },
@@ -3656,7 +3656,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 1A",
-      "desc": "",
+      "desc": "MS žien — 1. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wwia",
       "order": 18
     },
@@ -3666,7 +3666,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 1B",
-      "desc": "",
+      "desc": "MS žien — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wwib",
       "order": 19
     },
@@ -3676,7 +3676,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 2A",
-      "desc": "",
+      "desc": "MS žien — 2. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wwiia",
       "order": 20
     },
@@ -3686,7 +3686,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 2B",
-      "desc": "",
+      "desc": "MS žien — 2. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wwiib",
       "order": 21
     },
@@ -3696,7 +3696,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 3A",
-      "desc": "",
+      "desc": "MS žien — 3. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wwiiia",
       "order": 22
     },
@@ -3706,7 +3706,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy divízia 3B",
-      "desc": "",
+      "desc": "MS žien — 3. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wwiiib",
       "order": 23
     },
@@ -3716,7 +3716,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy U18",
-      "desc": "",
+      "desc": "Majstrovstvá sveta žien do 18 rokov (IIHF)",
       "url": "https://www.iihf.com/en/events/2026/ww18",
       "order": 24
     },
@@ -3726,7 +3726,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy U18 div.1A",
-      "desc": "",
+      "desc": "MS žien U18 — 1. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/ww18ia",
       "order": 25
     },
@@ -3736,7 +3736,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy U18 div.1B",
-      "desc": "",
+      "desc": "MS žien U18 — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/ww18ib",
       "order": 26
     },
@@ -3746,7 +3746,7 @@
       "type": "link",
       "icon": "",
       "name": "NHL",
-      "desc": "",
+      "desc": "Najvyššia zámorská profesionálna hokejová liga",
       "url": "https://www.nhl.com/",
       "order": 0
     },
@@ -3756,7 +3756,7 @@
       "type": "link",
       "icon": "",
       "name": "AHL",
-      "desc": "",
+      "desc": "American Hockey League — druhá zámorská liga (farma NHL)",
       "url": "https://theahl.com/",
       "order": 1
     },
@@ -3766,7 +3766,7 @@
       "type": "link",
       "icon": "",
       "name": "ECHL",
-      "desc": "",
+      "desc": "ECHL — tretia profesionálna liga v Severnej Amerike",
       "url": "https://echl.com/",
       "order": 2
     },
@@ -3776,7 +3776,7 @@
       "type": "link",
       "icon": "",
       "name": "SPHL",
-      "desc": "",
+      "desc": "Southern Professional Hockey League",
       "url": "https://www.thesphl.com/",
       "order": 3
     },
@@ -3786,7 +3786,7 @@
       "type": "link",
       "icon": "",
       "name": "FPHL",
-      "desc": "",
+      "desc": "Federal Prospects Hockey League",
       "url": "https://www.federalhockey.com",
       "order": 4
     },
@@ -3796,7 +3796,7 @@
       "type": "link",
       "icon": "",
       "name": "LNAH",
-      "desc": "",
+      "desc": "Poloprofesionálna hokejová liga v Québecu",
       "url": "https://www.lnah.com/fr/index.html",
       "order": 5
     },
@@ -3806,7 +3806,7 @@
       "type": "link",
       "icon": "",
       "name": "WHL",
-      "desc": "",
+      "desc": "Western Hockey League — kanadská juniorská liga (CHL)",
       "url": "https://chl.ca/whl/",
       "order": 6
     },
@@ -3816,7 +3816,7 @@
       "type": "link",
       "icon": "",
       "name": "OHL",
-      "desc": "",
+      "desc": "Ontario Hockey League — kanadská juniorská liga (CHL)",
       "url": "https://chl.ca/ohl/",
       "order": 7
     },
@@ -3826,7 +3826,7 @@
       "type": "link",
       "icon": "",
       "name": "QMJHL",
-      "desc": "",
+      "desc": "Quebecká juniorská hokejová liga (CHL)",
       "url": "https://chl.ca/lhjmq/",
       "order": 8
     },
@@ -3836,7 +3836,7 @@
       "type": "link",
       "icon": "",
       "name": "USHL",
-      "desc": "",
+      "desc": "Najvyššia juniorská hokejová liga v USA",
       "url": "https://ushl.com/",
       "order": 9
     },
@@ -3846,7 +3846,7 @@
       "type": "link",
       "icon": "",
       "name": "NAHL",
-      "desc": "",
+      "desc": "North American Hockey League — juniorská liga USA",
       "url": "https://nahl.com/",
       "order": 10
     },
@@ -3856,7 +3856,7 @@
       "type": "link",
       "icon": "",
       "name": "NCDC",
-      "desc": "",
+      "desc": "National Collegiate Development Conference — juniorská liga",
       "url": "https://usphl.com/ncdc/",
       "order": 11
     },
@@ -3866,7 +3866,7 @@
       "type": "link",
       "icon": "",
       "name": "BCHL",
-      "desc": "",
+      "desc": "British Columbia Hockey League — juniorská liga",
       "url": "https://bchl.ca/",
       "order": 12
     },
@@ -3876,7 +3876,7 @@
       "type": "link",
       "icon": "",
       "name": "CJHL",
-      "desc": "",
+      "desc": "Zastrešuje kanadské Junior A hokejové ligy",
       "url": "https://www.cjhlhockey.com/en/",
       "order": 13
     },
@@ -3886,7 +3886,7 @@
       "type": "link",
       "icon": "",
       "name": "NCAA",
-      "desc": "",
+      "desc": "Univerzitný hokej v USA — NCAA divízia I",
       "url": "https://www.ncaa.com/sports/icehockey-men/d1",
       "order": 14
     },
@@ -3896,7 +3896,7 @@
       "type": "link",
       "icon": "",
       "name": "PWHL",
-      "desc": "",
+      "desc": "Profesionálna ženská hokejová liga (Severná Amerika)",
       "url": "https://www.thepwhl.com/en/",
       "order": 15
     },
