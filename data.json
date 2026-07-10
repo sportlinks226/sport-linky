@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "password": "Sportlinks73",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -396,7 +396,7 @@
       "type": "folder",
       "icon": "🏃",
       "name": "Atletika",
-      "desc": "",
+      "desc": "Svetová aj domáca atletika — federácie, výsledky, štatistiky a mítingy",
       "order": 0,
       "slug": "atletika"
     },
@@ -406,7 +406,7 @@
       "type": "folder",
       "icon": "🏸",
       "name": "Badminton",
-      "desc": "",
+      "desc": "Svetový badminton — BWF, kontinentálne a národné federácie",
       "order": 1,
       "slug": "badminton"
     },
@@ -416,7 +416,7 @@
       "type": "folder",
       "icon": "🚴",
       "name": "Cyklistika",
-      "desc": "",
+      "desc": "Cestná cyklistika, cyklokros a MTB — preteky, výsledky a správy",
       "order": 2,
       "slug": "cyklistika"
     },
@@ -426,7 +426,7 @@
       "type": "folder",
       "icon": "⚽",
       "name": "Futsal",
-      "desc": "",
+      "desc": "Svetový a európsky futsal — federácie, súťaže a národné ligy",
       "order": 3,
       "slug": "futsal"
     },
@@ -436,7 +436,7 @@
       "type": "folder",
       "icon": "⛳",
       "name": "Golf",
-      "desc": "",
+      "desc": "Profesionálny golf — túry, majory, rebríčky a golfové médiá",
       "order": 4,
       "slug": "golf"
     },
@@ -446,7 +446,7 @@
       "type": "folder",
       "icon": "🥊",
       "name": "Box",
-      "desc": "",
+      "desc": "Profesionálny aj amatérsky box — organizácie, rebríčky a spravodajstvo",
       "order": 5,
       "slug": "box"
     },
@@ -456,7 +456,7 @@
       "type": "folder",
       "icon": "🥋",
       "name": "MMA",
-      "desc": "",
+      "desc": "MMA organizácie od UFC po domácu scénu, štatistiky a správy",
       "order": 6,
       "slug": "mma"
     },
@@ -466,7 +466,7 @@
       "type": "folder",
       "icon": "🏓",
       "name": "Stolný tenis",
-      "desc": "",
+      "desc": "Svetový stolný tenis — ITTF, profesionálne série a spravodajstvo",
       "order": 7,
       "slug": "stolny-tenis"
     },
@@ -476,7 +476,7 @@
       "type": "folder",
       "icon": "🏊",
       "name": "Plávanie",
-      "desc": "",
+      "desc": "Plavecké federácie, výsledky, rebríčky a správy",
       "order": 8,
       "slug": "plavanie"
     },
@@ -486,7 +486,7 @@
       "type": "folder",
       "icon": "🤽",
       "name": "Vodné pólo",
-      "desc": "",
+      "desc": "Vodné pólo — svetové a európske súťaže aj národné federácie",
       "order": 9,
       "slug": "vodne-polo"
     },
@@ -496,7 +496,7 @@
       "type": "folder",
       "icon": "🏈",
       "name": "Americký futbal",
-      "desc": "",
+      "desc": "NFL, univerzitný futbal, európske ligy a štatistiky",
       "order": 10,
       "slug": "americky-futbal"
     },
@@ -506,7 +506,7 @@
       "type": "folder",
       "icon": "🏉",
       "name": "Rugby",
-      "desc": "",
+      "desc": "Rugby union aj league — súťaže, federácie a médiá",
       "order": 11,
       "slug": "rugby"
     },
@@ -516,7 +516,7 @@
       "type": "folder",
       "icon": "🎾",
       "name": "Squash",
-      "desc": "",
+      "desc": "Profesionálny squash — PSA tour, turnaje a federácie",
       "order": 12,
       "slug": "squash"
     },
@@ -526,7 +526,7 @@
       "type": "folder",
       "icon": "🏒",
       "name": "Florbal",
-      "desc": "",
+      "desc": "Florbalové federácie, ligy a turnaje — Škandinávia aj domáca scéna",
       "order": 13,
       "slug": "florbal"
     },
@@ -536,7 +536,7 @@
       "type": "folder",
       "icon": "⚽",
       "name": "Plážový futbal",
-      "desc": "",
+      "desc": "Plážový futbal — svetové súťaže a národné federácie",
       "order": 14,
       "slug": "plazovy-futbal"
     },
@@ -546,7 +546,7 @@
       "type": "folder",
       "icon": "🎯",
       "name": "Šípky",
-      "desc": "",
+      "desc": "Šípky — PDC, WDF, turnaje, rebríčky a spravodajstvo",
       "order": 16,
       "slug": "sipky"
     },
@@ -556,7 +556,7 @@
       "type": "folder",
       "icon": "🎱",
       "name": "Snooker",
-      "desc": "",
+      "desc": "Snooker — turnaje WST, rebríčky, štatistiky a médiá",
       "order": 17,
       "slug": "snooker"
     },
@@ -566,7 +566,7 @@
       "type": "folder",
       "icon": "🏹",
       "name": "Lukostrelstvo",
-      "desc": "",
+      "desc": "Lukostreľba — svetové federácie, súťaže a výsledky",
       "order": 18,
       "slug": "lukostrelstvo"
     },
@@ -576,7 +576,7 @@
       "type": "folder",
       "icon": "🚣",
       "name": "Kanoistika",
-      "desc": "",
+      "desc": "Kanoistika — rýchlostná aj slalom, federácie a výsledky",
       "order": 19,
       "slug": "kanoistika"
     },
@@ -586,7 +586,7 @@
       "type": "folder",
       "icon": "🚣",
       "name": "Veslovanie",
-      "desc": "",
+      "desc": "Veslovanie — svetové súťaže a národné federácie",
       "order": 20,
       "slug": "veslovanie"
     },
@@ -596,7 +596,7 @@
       "type": "folder",
       "icon": "🏋️",
       "name": "Vzpieranie",
-      "desc": "",
+      "desc": "Vzpieranie — svetové a kontinentálne federácie a súťaže",
       "order": 21,
       "slug": "vzpieranie"
     },
@@ -606,7 +606,7 @@
       "type": "folder",
       "icon": "🏏",
       "name": "Kriket",
-      "desc": "",
+      "desc": "Kriket — ICC, franšízové ligy T20 a národné zväzy",
       "order": 22,
       "slug": "kriket"
     },
@@ -5106,7 +5106,7 @@
       "type": "link",
       "icon": "",
       "name": "World Athletics",
-      "desc": "",
+      "desc": "Svetová atletická federácia — oficiálny web",
       "url": "https://worldathletics.org/",
       "order": 0
     },
@@ -5116,7 +5116,7 @@
       "type": "link",
       "icon": "",
       "name": "World Athletics results",
-      "desc": "",
+      "desc": "Kalendár a výsledky súťaží World Athletics",
       "url": "https://worldathletics.org/competition/calendar-results?offset=2500",
       "order": 1
     },
@@ -5126,7 +5126,7 @@
       "type": "link",
       "icon": "",
       "name": "World Athletics stats",
-      "desc": "",
+      "desc": "Štatistická zóna World Athletics — rekordy a tabuľky",
       "url": "https://worldathletics.org/stats-zone",
       "order": 2
     },
@@ -5136,7 +5136,7 @@
       "type": "link",
       "icon": "",
       "name": "European Athletics",
-      "desc": "",
+      "desc": "Európska atletická asociácia",
       "url": "https://www.european-athletics.com/home",
       "order": 5
     },
@@ -5146,7 +5146,7 @@
       "type": "link",
       "icon": "",
       "name": "Diamond league",
-      "desc": "",
+      "desc": "Prestížny seriál atletických mítingov Diamantová liga",
       "url": "https://www.diamondleague.com/",
       "order": 7
     },
@@ -5156,7 +5156,7 @@
       "type": "link",
       "icon": "",
       "name": "Atletika.sk",
-      "desc": "",
+      "desc": "Slovenský atletický zväz",
       "url": "https://www.atletika.sk/",
       "order": 11
     },
@@ -5166,7 +5166,7 @@
       "type": "link",
       "icon": "",
       "name": "Tilastopaja",
-      "desc": "",
+      "desc": "Fínska štatistická databáza atletických výkonov",
       "url": "https://www.tilastopaja.info/",
       "order": 9
     },
@@ -5176,7 +5176,7 @@
       "type": "link",
       "icon": "",
       "name": "Letsrun",
-      "desc": "",
+      "desc": "Americký web o behu — správy a fóra",
       "url": "https://www.letsrun.com/",
       "order": 10
     },
@@ -5186,7 +5186,7 @@
       "type": "link",
       "icon": "",
       "name": "Atletika.cz",
-      "desc": "",
+      "desc": "Český atletický svaz",
       "url": "https://www.atletika.cz/",
       "order": 12
     },
@@ -5196,7 +5196,7 @@
       "type": "link",
       "icon": "",
       "name": "U20 Championship",
-      "desc": "",
+      "desc": "Majstrovstvá sveta do 20 rokov — Oregon 2026",
       "url": "https://worldathletics.org/competitions/world-athletics-u20-championships/oregon26",
       "order": 3
     },
@@ -5206,7 +5206,7 @@
       "type": "link",
       "icon": "",
       "name": "ME Birmingham",
-      "desc": "",
+      "desc": "Majstrovstvá Európy v atletike — Birmingham",
       "url": "https://www.european-athletics.com/home/competitions/european-athletics-championships/overview",
       "order": 6
     },
@@ -5216,7 +5216,7 @@
       "type": "link",
       "icon": "",
       "name": "Marathon majors",
-      "desc": "",
+      "desc": "Séria šiestich najväčších svetových maratónov",
       "url": "https://www.worldmarathonmajors.com/",
       "order": 8
     },
@@ -5226,7 +5226,7 @@
       "type": "link",
       "icon": "",
       "name": "World road running",
-      "desc": "",
+      "desc": "MS v cestných behoch — Kodaň 2026",
       "url": "https://worldathletics.org/competitions/world-athletics-road-running-championships/copenhagen26",
       "order": 4
     },
@@ -5236,7 +5236,7 @@
       "type": "link",
       "icon": "",
       "name": "USA athletics",
-      "desc": "",
+      "desc": "Americká atletická federácia USATF",
       "url": "https://www.usatf.org/",
       "order": 13
     },
@@ -5246,7 +5246,7 @@
       "type": "link",
       "icon": "",
       "name": "British athletics",
-      "desc": "",
+      "desc": "Britská atletická federácia",
       "url": "https://www.britishathletics.org.uk/",
       "order": 14
     },
@@ -5256,7 +5256,7 @@
       "type": "link",
       "icon": "",
       "name": "Leichtathletik.de",
-      "desc": "",
+      "desc": "Nemecký atletický zväz DLV",
       "url": "https://www.leichtathletik.de/",
       "order": 15
     },
@@ -5266,7 +5266,7 @@
       "type": "link",
       "icon": "",
       "name": "Athle.fr",
-      "desc": "",
+      "desc": "Francúzska atletická federácia FFA",
       "url": "https://www.athle.fr/",
       "order": 16
     },
@@ -5276,7 +5276,7 @@
       "type": "link",
       "icon": "",
       "name": "Pzla.pl",
-      "desc": "",
+      "desc": "Poľský atletický zväz PZLA",
       "url": "https://www.pzla.pl/",
       "order": 17
     },
@@ -5286,7 +5286,7 @@
       "type": "link",
       "icon": "",
       "name": "Asian Athletics",
-      "desc": "",
+      "desc": "Ázijská atletická asociácia",
       "url": "https://asianathletics.com/",
       "order": 18
     },
@@ -5296,7 +5296,7 @@
       "type": "link",
       "icon": "",
       "name": "Atletismo Sudamericano",
-      "desc": "",
+      "desc": "Juhoamerická atletická konfederácia",
       "url": "https://atletismosudamericano.org/",
       "order": 19
     },
@@ -5306,7 +5306,7 @@
       "type": "link",
       "icon": "",
       "name": "NACAC Athletics",
-      "desc": "",
+      "desc": "Atletická konfederácia Severnej a Strednej Ameriky",
       "url": "https://nacacathletics.org/",
       "order": 20
     },
@@ -5316,7 +5316,7 @@
       "type": "link",
       "icon": "",
       "name": "Africa Athletics",
-      "desc": "",
+      "desc": "Africká atletická konfederácia CAA",
       "url": "http://caaweb.org/en/",
       "order": 21
     },
@@ -5326,7 +5326,7 @@
       "type": "link",
       "icon": "",
       "name": "BWF",
-      "desc": "",
+      "desc": "Svetová badmintonová federácia",
       "url": "https://bwfbadminton.com/",
       "order": 0
     },
@@ -5336,7 +5336,7 @@
       "type": "link",
       "icon": "",
       "name": "BWF kalendár",
-      "desc": "",
+      "desc": "Kalendár turnajov BWF",
       "url": "https://bwfbadminton.com/calendar/",
       "order": 1
     },
@@ -5346,7 +5346,7 @@
       "type": "link",
       "icon": "",
       "name": "BWF rankings",
-      "desc": "",
+      "desc": "Svetové rebríčky BWF",
       "url": "https://bwfbadminton.com/rankings/",
       "order": 2
     },
@@ -5356,7 +5356,7 @@
       "type": "link",
       "icon": "",
       "name": "Tournament software",
-      "desc": "",
+      "desc": "Rozpisy a výsledky turnajov — Tournament Software",
       "url": "https://www.tournamentsoftware.com/",
       "order": 9
     },
@@ -5366,7 +5366,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Europe",
-      "desc": "",
+      "desc": "Európska badmintonová konfederácia",
       "url": "https://badmintoneurope.com/",
       "order": 7
     },
@@ -5376,7 +5376,7 @@
       "type": "link",
       "icon": "",
       "name": "BWF World Tour",
-      "desc": "",
+      "desc": "Elitný seriál turnajov BWF World Tour",
       "url": "https://bwfworldtour.bwfbadminton.com/",
       "order": 3
     },
@@ -5386,7 +5386,7 @@
       "type": "link",
       "icon": "",
       "name": "BWF TV",
-      "desc": "",
+      "desc": "Oficiálny YouTube kanál BWF — prenosy a zostrihy",
       "url": "https://www.youtube.com/c/bwftv",
       "order": 4
     },
@@ -5396,7 +5396,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Europe TV",
-      "desc": "",
+      "desc": "Prenosy európskych badmintonových súťaží",
       "url": "https://www.badmintoneurope.tv/en-int/page/home-badminton-europe",
       "order": 8
     },
@@ -5406,7 +5406,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Asia",
-      "desc": "",
+      "desc": "Ázijská badmintonová konfederácia",
       "url": "https://badmintonasia.org/",
       "order": 10
     },
@@ -5416,7 +5416,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Indonesia",
-      "desc": "",
+      "desc": "Indonézska badmintonová federácia PBSI",
       "url": "https://pbsi.id/",
       "order": 11
     },
@@ -5426,7 +5426,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Malaysia",
-      "desc": "",
+      "desc": "Malajzijská badmintonová asociácia BAM",
       "url": "https://bam.org.my/",
       "order": 12
     },
@@ -5436,7 +5436,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Japan",
-      "desc": "",
+      "desc": "Japonská badmintonová asociácia",
       "url": "https://www.badminton.or.jp/",
       "order": 13
     },
@@ -5446,7 +5446,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton India",
-      "desc": "",
+      "desc": "Indická badmintonová asociácia BAI",
       "url": "https://www.badmintonindia.org/",
       "order": 14
     },
@@ -5456,7 +5456,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Taiwan",
-      "desc": "",
+      "desc": "Taiwanská badmintonová asociácia",
       "url": "https://www.ctb.org.tw/",
       "order": 15
     },
@@ -5466,7 +5466,7 @@
       "type": "link",
       "icon": "",
       "name": "Bedminton.sk",
-      "desc": "",
+      "desc": "Slovenský zväz bedmintonu",
       "url": "https://www.bedminton.sk/",
       "order": 16
     },
@@ -5476,7 +5476,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton.dk",
-      "desc": "",
+      "desc": "Dánska badmintonová federácia",
       "url": "https://badminton.dk/",
       "order": 17
     },
@@ -5486,7 +5486,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton France",
-      "desc": "",
+      "desc": "Francúzska badmintonová federácia FFBaD",
       "url": "https://www.ffbad.org/en",
       "order": 18
     },
@@ -5496,7 +5496,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton Spain",
-      "desc": "",
+      "desc": "Španielska badmintonová federácia",
       "url": "https://www.badminton.es/",
       "order": 19
     },
@@ -5506,7 +5506,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton planet",
-      "desc": "",
+      "desc": "Badmintonové správy a výsledky",
       "url": "https://www.badmintonplanet.com/",
       "order": 5
     },
@@ -5516,7 +5516,7 @@
       "type": "link",
       "icon": "",
       "name": "Badzine",
-      "desc": "",
+      "desc": "Nezávislý badmintonový magazín",
       "url": "badzine.net",
       "order": 6
     },
@@ -5526,7 +5526,7 @@
       "type": "link",
       "icon": "",
       "name": "Badminton CZ",
-      "desc": "",
+      "desc": "Český badmintonový svaz",
       "url": "badmintonweb.cz",
       "order": 20
     },
@@ -5536,7 +5536,7 @@
       "type": "link",
       "icon": "",
       "name": "UCI",
-      "desc": "",
+      "desc": "Medzinárodná cyklistická únia",
       "url": "https://www.uci.org/",
       "order": 0
     },
@@ -5546,7 +5546,7 @@
       "type": "link",
       "icon": "",
       "name": "UCI kalenadár",
-      "desc": "",
+      "desc": "Kalendár cestných pretekov UCI",
       "url": "https://www.uci.org/calendar/road/2ruOnavHX0dMGTCRozdYAU?discipline=ROA",
       "order": 1
     },
@@ -5556,7 +5556,7 @@
       "type": "link",
       "icon": "",
       "name": "Tour de France",
-      "desc": "",
+      "desc": "Najslávnejšie etapové preteky sveta",
       "url": "https://www.letour.fr/en/landing-page",
       "order": 2
     },
@@ -5566,7 +5566,7 @@
       "type": "link",
       "icon": "",
       "name": "Giro dItalia",
-      "desc": "",
+      "desc": "Talianske preteky Grand Tour",
       "url": "https://www.giroditalia.it/en/",
       "order": 3
     },
@@ -5576,7 +5576,7 @@
       "type": "link",
       "icon": "",
       "name": "La Vuelta a Espaňa",
-      "desc": "",
+      "desc": "Španielske preteky Grand Tour",
       "url": "https://www.lavuelta.es/en/",
       "order": 4
     },
@@ -5586,7 +5586,7 @@
       "type": "link",
       "icon": "",
       "name": "Procyclingstats",
-      "desc": "",
+      "desc": "Najväčšia databáza výsledkov a štatistík cyklistiky",
       "url": "https://www.procyclingstats.com/",
       "order": 5
     },
@@ -5596,7 +5596,7 @@
       "type": "link",
       "icon": "",
       "name": "First cycling",
-      "desc": "",
+      "desc": "Výsledky, štartové listiny a štatistiky pretekov",
       "url": "https://firstcycling.com/",
       "order": 6
     },
@@ -5606,7 +5606,7 @@
       "type": "link",
       "icon": "",
       "name": "Wielerflits",
-      "desc": "",
+      "desc": "Holandský cyklistický spravodajský web",
       "url": "https://www.wielerflits.nl/",
       "order": 7
     },
@@ -5616,7 +5616,7 @@
       "type": "link",
       "icon": "",
       "name": "Cycling news",
-      "desc": "",
+      "desc": "Popredný svetový web o cyklistike",
       "url": "https://www.cyclingnews.com/",
       "order": 8
     },
@@ -5626,7 +5626,7 @@
       "type": "link",
       "icon": "",
       "name": "Escapecollective",
-      "desc": "",
+      "desc": "Nezávislý cyklistický magazín",
       "url": "https://escapecollective.com/",
       "order": 9
     },
@@ -5636,7 +5636,7 @@
       "type": "link",
       "icon": "",
       "name": "cyclinginfo.sk",
-      "desc": "",
+      "desc": "Slovenský web o cestnej cyklistike",
       "url": "https://www.cycling-info.sk/",
       "order": 10
     },
@@ -5646,7 +5646,7 @@
       "type": "link",
       "icon": "",
       "name": "Cyclocross24",
-      "desc": "",
+      "desc": "Výsledky a správy z cyklokrosu",
       "url": "https://cyclocross24.com/",
       "order": 12
     },
@@ -5656,7 +5656,7 @@
       "type": "link",
       "icon": "",
       "name": "Veldritkrant",
-      "desc": "",
+      "desc": "Belgický web o cyklokrose",
       "url": "https://www.veldritkrant.be/",
       "order": 13
     },
@@ -5666,7 +5666,7 @@
       "type": "link",
       "icon": "",
       "name": "CX Magazine",
-      "desc": "",
+      "desc": "Americký cyklokrosový magazín",
       "url": "https://www.cxmagazine.com/",
       "order": 14
     },
@@ -5676,7 +5676,7 @@
       "type": "link",
       "icon": "",
       "name": "MTB Data",
-      "desc": "",
+      "desc": "Databáza výsledkov horskej cyklistiky",
       "url": "https://mtbdata.com/",
       "order": 15
     },
@@ -5686,7 +5686,7 @@
       "type": "link",
       "icon": "",
       "name": "Cyklistika SK",
-      "desc": "",
+      "desc": "Slovenský zväz cyklistiky",
       "url": "https://www.cyklistikaszc.sk/",
       "order": 11
     },
@@ -5696,7 +5696,7 @@
       "type": "link",
       "icon": "",
       "name": "Vital MTB",
-      "desc": "",
+      "desc": "Správy a videá z horskej cyklistiky",
       "url": "https://www.vitalmtb.com/",
       "order": 16
     },
@@ -5706,7 +5706,7 @@
       "type": "link",
       "icon": "",
       "name": "UCI MTB",
-      "desc": "",
+      "desc": "Oficiálny web svetovej série UCI MTB",
       "url": "https://www.ucimtbworldseries.com/",
       "order": 17
     },
@@ -5716,7 +5716,7 @@
       "type": "link",
       "icon": "",
       "name": "FIFA Futsal",
-      "desc": "",
+      "desc": "Futsal pod hlavičkou FIFA — MS a správy",
       "url": "https://www.fifa.com/fifaworld/futsal",
       "order": 0
     },
@@ -5726,7 +5726,7 @@
       "type": "link",
       "icon": "",
       "name": "UEFA Futsal",
-      "desc": "",
+      "desc": "Európske futsalové súťaže UEFA",
       "url": "https://www.uefa.com/uefafutsal",
       "order": 1
     },
@@ -5736,7 +5736,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsalplanet",
-      "desc": "",
+      "desc": "Svetové futsalové spravodajstvo",
       "url": "https://www.futsalplanet.com/",
       "order": 2
     },
@@ -5746,7 +5746,7 @@
       "type": "link",
       "icon": "",
       "name": "AFC Futsal",
-      "desc": "",
+      "desc": "Ázijský pohár vo futsale — AFC",
       "url": "https://www.the-afc.com/en/national/afc_futsal_asian_cup/home.html",
       "order": 3
     },
@@ -5756,7 +5756,7 @@
       "type": "link",
       "icon": "",
       "name": "Conmebol Futsal",
-      "desc": "",
+      "desc": "Juhoamerický futsal — CONMEBOL",
       "url": "https://www.conmebol.com/futsal/",
       "order": 4
     },
@@ -5766,7 +5766,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsalzone TV",
-      "desc": "",
+      "desc": "Prenosy a videá z futsalu",
       "url": "https://futsalzone.tv/",
       "order": 5
     },
@@ -5776,7 +5776,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Portugal",
-      "desc": "",
+      "desc": "Portugalská futbalová federácia — futsal",
       "url": "https://www.fpf.pt/pt/",
       "order": 6
     },
@@ -5786,7 +5786,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Spain",
-      "desc": "",
+      "desc": "Španielsky futsal — RFEF",
       "url": "https://futsal.rfef.es/",
       "order": 7
     },
@@ -5796,7 +5796,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Brasil",
-      "desc": "",
+      "desc": "Brazílska futsalová liga LNF",
       "url": "https://lnfoficial.com.br/",
       "order": 8
     },
@@ -5806,7 +5806,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Slovakia",
-      "desc": "",
+      "desc": "Slovenský futsal — oficiálny web",
       "url": "https://futsalslovakia.sk/",
       "order": 9
     },
@@ -5816,7 +5816,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Česko",
-      "desc": "",
+      "desc": "Český futsal pod FAČR",
       "url": "https://www.fotbal.cz/futsal/",
       "order": 10
     },
@@ -5826,7 +5826,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Japan",
-      "desc": "",
+      "desc": "Japonská futsalová F.League",
       "url": "https://www.fleague.jp/",
       "order": 11
     },
@@ -5836,7 +5836,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Argentina",
-      "desc": "",
+      "desc": "Argentínsky futsalový web Pasión Futsal",
       "url": "https://pasionfutsal.com.ar/",
       "order": 12
     },
@@ -5846,7 +5846,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Italy",
-      "desc": "",
+      "desc": "Talianska futsalová Serie A",
       "url": "https://divisionecalcioa5.it/",
       "order": 13
     },
@@ -5856,7 +5856,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Holland",
-      "desc": "",
+      "desc": "Holandský futsal pod KNVB",
       "url": "https://www.knvb.nl/futsal",
       "order": 14
     },
@@ -5866,7 +5866,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Poland",
-      "desc": "",
+      "desc": "Poľský futsal — Łączy nas piłka",
       "url": "https://www.laczynaspilka.pl/aktualnosci;category=Futsal",
       "order": 15
     },
@@ -5876,7 +5876,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal France",
-      "desc": "",
+      "desc": "Francúzsky futsal pod FFF",
       "url": "https://www.fff.fr/futsal",
       "order": 16
     },
@@ -5886,7 +5886,7 @@
       "type": "link",
       "icon": "",
       "name": "Futsal Hungary",
-      "desc": "",
+      "desc": "Maďarský futsal pod MLSZ",
       "url": "https://futsal.mlsz.hu/",
       "order": 17
     },
@@ -5896,7 +5896,7 @@
       "type": "link",
       "icon": "",
       "name": "PGA Tour",
-      "desc": "",
+      "desc": "Hlavná profesionálna golfová túra USA",
       "url": "https://www.pgatour.com/",
       "order": 0
     },
@@ -5906,7 +5906,7 @@
       "type": "link",
       "icon": "",
       "name": "DP World Tour",
-      "desc": "",
+      "desc": "Európska profesionálna golfová túra",
       "url": "https://www.europeantour.com/dpworld-tour/",
       "order": 2
     },
@@ -5916,7 +5916,7 @@
       "type": "link",
       "icon": "",
       "name": "LIV Golf",
-      "desc": "",
+      "desc": "Golfová liga LIV Golf",
       "url": "https://www.livgolf.com/",
       "order": 3
     },
@@ -5926,7 +5926,7 @@
       "type": "link",
       "icon": "",
       "name": "OWGR ranking",
-      "desc": "",
+      "desc": "Oficiálny svetový golfový rebríček",
       "url": "https://www.owgr.com/",
       "order": 4
     },
@@ -5936,7 +5936,7 @@
       "type": "link",
       "icon": "",
       "name": "Rotowire golf",
-      "desc": "",
+      "desc": "Golfové štatistiky a fantasy podklady",
       "url": "https://www.rotowire.com/golf/",
       "order": 5
     },
@@ -5946,7 +5946,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf channel",
-      "desc": "",
+      "desc": "Americká golfová televízia — správy",
       "url": "https://www.golfchannel.com/",
       "order": 6
     },
@@ -5956,7 +5956,7 @@
       "type": "link",
       "icon": "",
       "name": "LPGA",
-      "desc": "",
+      "desc": "Ženská profesionálna golfová túra",
       "url": "https://www.lpga.com/",
       "order": 1
     },
@@ -5966,7 +5966,7 @@
       "type": "link",
       "icon": "",
       "name": "The Masters",
-      "desc": "",
+      "desc": "Prvý major sezóny — Augusta National",
       "url": "https://www.masters.com/index.html",
       "order": 7
     },
@@ -5976,7 +5976,7 @@
       "type": "link",
       "icon": "",
       "name": "PGA championship",
-      "desc": "",
+      "desc": "Golfový major PGA Championship",
       "url": "https://www.pgachampionship.com/",
       "order": 8
     },
@@ -5986,7 +5986,7 @@
       "type": "link",
       "icon": "",
       "name": "US Open",
-      "desc": "",
+      "desc": "Americký golfový major US Open",
       "url": "https://www.usopen.com/",
       "order": 9
     },
@@ -5996,7 +5996,7 @@
       "type": "link",
       "icon": "",
       "name": "British Open",
-      "desc": "",
+      "desc": "Najstarší golfový major — The Open",
       "url": "https://www.theopen.com/",
       "order": 10
     },
@@ -6006,7 +6006,7 @@
       "type": "link",
       "icon": "",
       "name": "Ryder Cup",
-      "desc": "",
+      "desc": "Tímový súboj USA vs. Európa",
       "url": "https://www.rydercup.com/",
       "order": 11
     },
@@ -6016,7 +6016,7 @@
       "type": "link",
       "icon": "",
       "name": "Presidents Cup",
-      "desc": "",
+      "desc": "Tímový súboj USA vs. výber sveta",
       "url": "https://www.presidentscup.com/",
       "order": 12
     },
@@ -6026,7 +6026,7 @@
       "type": "link",
       "icon": "",
       "name": "Players championship",
-      "desc": "",
+      "desc": "Neoficiálny „piaty major“ PGA Tour",
       "url": "https://www.theplayers.com/",
       "order": 13
     },
@@ -6036,7 +6036,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf Slovakia",
-      "desc": "",
+      "desc": "Slovenská golfová asociácia SKGA",
       "url": "https://www.skga.sk/",
       "order": 14
     },
@@ -6046,7 +6046,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf.cz",
-      "desc": "",
+      "desc": "Český golfový portál",
       "url": "https://golf.cz/",
       "order": 15
     },
@@ -6056,7 +6056,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf Česko",
-      "desc": "",
+      "desc": "Česká golfová federácia ČGF",
       "url": "https://www.cgf.cz/",
       "order": 16
     },
@@ -6066,7 +6066,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf stats",
-      "desc": "",
+      "desc": "Golfové štatistiky a analýzy",
       "url": "https://www.golfstats.com/",
       "order": 17
     },
@@ -6076,7 +6076,7 @@
       "type": "link",
       "icon": "",
       "name": "Golfdigest",
-      "desc": "",
+      "desc": "Popredný americký golfový magazín",
       "url": "https://www.golfdigest.com/",
       "order": 18
     },
@@ -6086,7 +6086,7 @@
       "type": "link",
       "icon": "",
       "name": "Golf.com",
-      "desc": "",
+      "desc": "Golfové správy a inštruktáže",
       "url": "https://golf.com/",
       "order": 19
     },
@@ -6096,7 +6096,7 @@
       "type": "link",
       "icon": "",
       "name": "Golfweek",
-      "desc": "",
+      "desc": "Golfový magazín zo skupiny USA Today",
       "url": "https://golfweek-eu.usatoday.com/",
       "order": 20
     },
@@ -6106,7 +6106,7 @@
       "type": "link",
       "icon": "",
       "name": "Bunkered",
-      "desc": "",
+      "desc": "Britský golfový magazín",
       "url": "https://www.bunkered.co.uk/",
       "order": 21
     },
@@ -6116,7 +6116,7 @@
       "type": "link",
       "icon": "",
       "name": "No laying up",
-      "desc": "",
+      "desc": "Golfové podcasty a médiá No Laying Up",
       "url": "https://nolayingup.com/",
       "order": 22
     },
@@ -6126,7 +6126,7 @@
       "type": "link",
       "icon": "",
       "name": "WBC",
-      "desc": "",
+      "desc": "Svetová boxerská rada WBC",
       "url": "https://wbcboxing.com/",
       "order": 0
     },
@@ -6136,7 +6136,7 @@
       "type": "link",
       "icon": "",
       "name": "WBA",
-      "desc": "",
+      "desc": "Svetová boxerská asociácia WBA",
       "url": "https://www.wbaboxing.com/",
       "order": 1
     },
@@ -6146,7 +6146,7 @@
       "type": "link",
       "icon": "",
       "name": "IBF",
-      "desc": "",
+      "desc": "Medzinárodná boxerská federácia IBF",
       "url": "https://www.ibf-usba-boxing.com/",
       "order": 2
     },
@@ -6156,7 +6156,7 @@
       "type": "link",
       "icon": "",
       "name": "WBO",
-      "desc": "",
+      "desc": "Svetová boxerská organizácia WBO",
       "url": "https://wboboxing.com/",
       "order": 3
     },
@@ -6166,7 +6166,7 @@
       "type": "link",
       "icon": "",
       "name": "IBA",
-      "desc": "",
+      "desc": "Medzinárodná boxerská asociácia — amatérsky box",
       "url": "https://www.iba.sport/",
       "order": 4
     },
@@ -6176,7 +6176,7 @@
       "type": "link",
       "icon": "",
       "name": "Boxrec",
-      "desc": "",
+      "desc": "Databáza profesionálnych boxerov a zápasov",
       "url": "https://boxrec.com/",
       "order": 5
     },
@@ -6186,7 +6186,7 @@
       "type": "link",
       "icon": "",
       "name": "Compubox",
-      "desc": "",
+      "desc": "Štatistiky úderov CompuBox",
       "url": "https://beta.compuboxdata.com/",
       "order": 6
     },
@@ -6196,7 +6196,7 @@
       "type": "link",
       "icon": "",
       "name": "Ring magazine",
-      "desc": "",
+      "desc": "Legendárny boxerský magazín The Ring",
       "url": "https://www.ringmagazine.com/",
       "order": 7
     },
@@ -6206,7 +6206,7 @@
       "type": "link",
       "icon": "",
       "name": "Boxing scene",
-      "desc": "",
+      "desc": "Boxerské správy a rozhovory",
       "url": "https://www.boxingscene.com/",
       "order": 8
     },
@@ -6216,7 +6216,7 @@
       "type": "link",
       "icon": "",
       "name": "Bad left hook",
-      "desc": "",
+      "desc": "Boxerský web zo siete SB Nation",
       "url": "https://www.badlefthook.com/",
       "order": 9
     },
@@ -6226,7 +6226,7 @@
       "type": "link",
       "icon": "",
       "name": "ESPN boxing",
-      "desc": "",
+      "desc": "Boxerská sekcia ESPN",
       "url": "https://www.espn.com/boxing/",
       "order": 10
     },
@@ -6236,7 +6236,7 @@
       "type": "link",
       "icon": "",
       "name": "Skysport boxing",
-      "desc": "",
+      "desc": "Boxerská sekcia Sky Sports",
       "url": "https://www.skysports.com/boxing",
       "order": 11
     },
@@ -6246,7 +6246,7 @@
       "type": "link",
       "icon": "",
       "name": "Boxingnews24",
-      "desc": "",
+      "desc": "Boxerské spravodajstvo",
       "url": "https://www.boxingnews24.com/",
       "order": 12
     },
@@ -6256,7 +6256,7 @@
       "type": "link",
       "icon": "",
       "name": "Secondsout",
-      "desc": "",
+      "desc": "Boxerské správy a videá",
       "url": "https://www.secondsout.com/",
       "order": 13
     },
@@ -6266,7 +6266,7 @@
       "type": "link",
       "icon": "",
       "name": "Fightnews",
-      "desc": "",
+      "desc": "Správy zo sveta profesionálneho boxu",
       "url": "https://fightnews.com/",
       "order": 14
     },
@@ -6276,7 +6276,7 @@
       "type": "link",
       "icon": "",
       "name": "15rounds",
-      "desc": "",
+      "desc": "Boxerské spravodajstvo a reportáže",
       "url": "https://www.15rounds.com/",
       "order": 15
     },
@@ -6286,7 +6286,7 @@
       "type": "link",
       "icon": "",
       "name": "Proboxingodds",
-      "desc": "",
+      "desc": "Kurzy na boxerské zápasy",
       "url": "https://www.proboxingodds.com/",
       "order": 16
     },
@@ -6296,7 +6296,7 @@
       "type": "link",
       "icon": "",
       "name": "UFC",
-      "desc": "",
+      "desc": "Najväčšia MMA organizácia sveta",
       "url": "https://www.ufc.com/",
       "order": 0
     },
@@ -6306,7 +6306,7 @@
       "type": "link",
       "icon": "",
       "name": "PFL",
-      "desc": "",
+      "desc": "Americká liga Professional Fighters League",
       "url": "https://pflmma.com/",
       "order": 1
     },
@@ -6316,7 +6316,7 @@
       "type": "link",
       "icon": "",
       "name": "One Championship",
-      "desc": "",
+      "desc": "Ázijská bojová organizácia ONE",
       "url": "https://www.onefc.com/",
       "order": 2
     },
@@ -6326,7 +6326,7 @@
       "type": "link",
       "icon": "",
       "name": "KSW",
-      "desc": "",
+      "desc": "Najväčšia poľská MMA organizácia",
       "url": "https://www.kswmma.com/",
       "order": 3
     },
@@ -6336,7 +6336,7 @@
       "type": "link",
       "icon": "",
       "name": "Oktagon",
-      "desc": "",
+      "desc": "Česko-slovenská MMA organizácia Oktagon",
       "url": "https://oktagonmma.com/cs/",
       "order": 4
     },
@@ -6346,7 +6346,7 @@
       "type": "link",
       "icon": "",
       "name": "RFA",
-      "desc": "",
+      "desc": "Slovenská MMA organizácia RFA",
       "url": "https://rfa.live/sk/",
       "order": 5
     },
@@ -6356,7 +6356,7 @@
       "type": "link",
       "icon": "",
       "name": "Fabriq",
-      "desc": "",
+      "desc": "Slovenská MMA organizácia Fabriq",
       "url": "https://fabriqmma.eu/",
       "order": 6
     },
@@ -6366,7 +6366,7 @@
       "type": "link",
       "icon": "",
       "name": "Brave CF",
-      "desc": "",
+      "desc": "Bahrajnská MMA organizácia Brave CF",
       "url": "https://www.bravecf.com/",
       "order": 7
     },
@@ -6376,7 +6376,7 @@
       "type": "link",
       "icon": "",
       "name": "Clash of the stars",
-      "desc": "",
+      "desc": "Česká influencerská bojová organizácia",
       "url": "https://clashmma.com/",
       "order": 8
     },
@@ -6386,7 +6386,7 @@
       "type": "link",
       "icon": "",
       "name": "Sherdog",
-      "desc": "",
+      "desc": "Databáza MMA zápasníkov a výsledkov",
       "url": "https://www.sherdog.com/",
       "order": 9
     },
@@ -6396,7 +6396,7 @@
       "type": "link",
       "icon": "",
       "name": "Tapology",
-      "desc": "",
+      "desc": "MMA databáza a rebríčky Tapology",
       "url": "https://www.tapology.com/",
       "order": 10
     },
@@ -6406,7 +6406,7 @@
       "type": "link",
       "icon": "",
       "name": "Fight Matrix",
-      "desc": "",
+      "desc": "Historické rebríčky MMA",
       "url": "https://www.fightmatrix.com/",
       "order": 11
     },
@@ -6416,7 +6416,7 @@
       "type": "link",
       "icon": "",
       "name": "MMa Fighting",
-      "desc": "",
+      "desc": "MMA správy zo siete SB Nation",
       "url": "https://www.mmafighting.com/",
       "order": 12
     },
@@ -6426,7 +6426,7 @@
       "type": "link",
       "icon": "",
       "name": "MMA Junkie",
-      "desc": "",
+      "desc": "MMA spravodajstvo skupiny USA Today",
       "url": "https://mmajunkie-eu.usatoday.com/",
       "order": 13
     },
@@ -6436,7 +6436,7 @@
       "type": "link",
       "icon": "",
       "name": "MMA Shorties",
-      "desc": "",
+      "desc": "Český web o MMA",
       "url": "https://mmashorties.cz/",
       "order": 14
     },
@@ -6446,7 +6446,7 @@
       "type": "link",
       "icon": "",
       "name": "Svet MMA",
-      "desc": "",
+      "desc": "Slovenský web o MMA",
       "url": "https://svetmma.sk/",
       "order": 15
     },
@@ -6456,7 +6456,7 @@
       "type": "link",
       "icon": "",
       "name": "Fight.cz",
-      "desc": "",
+      "desc": "Český web o bojových športoch",
       "url": "https://www.fights.cz/",
       "order": 16
     },
@@ -6466,7 +6466,7 @@
       "type": "link",
       "icon": "",
       "name": "ITTF",
-      "desc": "",
+      "desc": "Medzinárodná stolnotenisová federácia",
       "url": "https://www.ittf.com/",
       "order": 0
     },
@@ -6476,7 +6476,7 @@
       "type": "link",
       "icon": "",
       "name": "World Table Tennis",
-      "desc": "",
+      "desc": "Profesionálna séria WTT — turnaje a výsledky",
       "url": "https://www.worldtabletennis.com/",
       "order": 1
     },
@@ -6486,7 +6486,7 @@
       "type": "link",
       "icon": "",
       "name": "ETTU",
-      "desc": "",
+      "desc": "Európska stolnotenisová únia",
       "url": "https://www.ettu.org/",
       "order": 2
     },
@@ -6496,7 +6496,7 @@
       "type": "link",
       "icon": "",
       "name": "Challenger series",
-      "desc": "",
+      "desc": "Pražská séria turnajov Challenger",
       "url": "https://www.challengerseries.net/",
       "order": 4
     },
@@ -6506,7 +6506,7 @@
       "type": "link",
       "icon": "",
       "name": "TTstar series",
-      "desc": "",
+      "desc": "Česká profesionálna séria TT Star",
       "url": "https://ttstar.cz/",
       "order": 5
     },
@@ -6516,7 +6516,7 @@
       "type": "link",
       "icon": "",
       "name": "TT cup",
-      "desc": "",
+      "desc": "Ukrajinská stolnotenisová séria TT Cup",
       "url": "https://ttcup.com/",
       "order": 6
     },
@@ -6526,7 +6526,7 @@
       "type": "link",
       "icon": "",
       "name": "T League Japan",
-      "desc": "",
+      "desc": "Japonská profesionálna T.League",
       "url": "https://tleague.jp/?lang=en",
       "order": 7
     },
@@ -6536,7 +6536,7 @@
       "type": "link",
       "icon": "",
       "name": "ATTU",
-      "desc": "",
+      "desc": "Ázijská stolnotenisová únia",
       "url": "https://asia.ittf.com/home",
       "order": 3
     },
@@ -6546,7 +6546,7 @@
       "type": "link",
       "icon": "",
       "name": "TTnews.de",
-      "desc": "",
+      "desc": "Nemecké stolnotenisové správy",
       "url": "https://www.tt-news.de/",
       "order": 8
     },
@@ -6556,7 +6556,7 @@
       "type": "link",
       "icon": "",
       "name": "World aquatics",
-      "desc": "",
+      "desc": "Svetová plavecká federácia (bývalá FINA)",
       "url": "https://www.worldaquatics.com/",
       "order": 0
     },
@@ -6566,7 +6566,7 @@
       "type": "link",
       "icon": "",
       "name": "European aquatics",
-      "desc": "",
+      "desc": "Európska plavecká federácia",
       "url": "https://europeanaquatics.org/",
       "order": 3
     },
@@ -6576,7 +6576,7 @@
       "type": "link",
       "icon": "",
       "name": "Swimrankings",
-      "desc": "",
+      "desc": "Databáza plaveckých výsledkov a rekordov",
       "url": "https://www.swimrankings.net/index.php?page=home",
       "order": 4
     },
@@ -6586,7 +6586,7 @@
       "type": "link",
       "icon": "",
       "name": "World aquatics TV",
-      "desc": "",
+      "desc": "Oficiálny YouTube kanál World Aquatics",
       "url": "https://www.youtube.com/@WorldAquatics",
       "order": 1
     },
@@ -6596,7 +6596,7 @@
       "type": "link",
       "icon": "",
       "name": "Swimcloud",
-      "desc": "",
+      "desc": "Plavecké výsledky a rebríčky Swimcloud",
       "url": "https://www.swimcloud.com/",
       "order": 5
     },
@@ -6606,7 +6606,7 @@
       "type": "link",
       "icon": "",
       "name": "Swimswam",
-      "desc": "",
+      "desc": "Najčítanejší plavecký web sveta",
       "url": "https://swimswam.com/",
       "order": 6
     },
@@ -6616,7 +6616,7 @@
       "type": "link",
       "icon": "",
       "name": "Swimming magazine",
-      "desc": "",
+      "desc": "Magazín Swimming World",
       "url": "https://www.swimmingworldmagazine.com/",
       "order": 7
     },
@@ -6626,7 +6626,7 @@
       "type": "link",
       "icon": "",
       "name": "State of swimming",
-      "desc": "",
+      "desc": "Analýzy a komentáre zo sveta plávania",
       "url": "https://www.stateofswimming.com/",
       "order": 8
     },
@@ -6636,7 +6636,7 @@
       "type": "link",
       "icon": "",
       "name": "Plávanie SK",
-      "desc": "",
+      "desc": "Slovenská plavecká federácia",
       "url": "https://swimmsvk.sk/",
       "order": 11
     },
@@ -6646,7 +6646,7 @@
       "type": "link",
       "icon": "",
       "name": "Czechswimming",
-      "desc": "",
+      "desc": "Český svaz plaveckých sportů",
       "url": "https://www.czechswimming.cz/",
       "order": 12
     },
@@ -6656,7 +6656,7 @@
       "type": "link",
       "icon": "",
       "name": "FINA skoky do vody",
-      "desc": "",
+      "desc": "Skoky do vody — World Aquatics",
       "url": "https://www.worldaquatics.com/diving",
       "order": 2
     },
@@ -6666,7 +6666,7 @@
       "type": "link",
       "icon": "",
       "name": "USA swimming",
-      "desc": "",
+      "desc": "Americká plavecká federácia",
       "url": "https://www.usaswimming.org/",
       "order": 9
     },
@@ -6676,7 +6676,7 @@
       "type": "link",
       "icon": "",
       "name": "Swimming Australia",
-      "desc": "",
+      "desc": "Austrálska plavecká federácia",
       "url": "https://www.swimming.org.au/",
       "order": 10
     },
@@ -6686,7 +6686,7 @@
       "type": "link",
       "icon": "",
       "name": "FINA water polo",
-      "desc": "",
+      "desc": "Vodné pólo — World Aquatics",
       "url": "https://www.worldaquatics.com/water-polo",
       "order": 0
     },
@@ -6696,7 +6696,7 @@
       "type": "link",
       "icon": "",
       "name": "LEN water polo",
-      "desc": "",
+      "desc": "Európske vodné pólo — European Aquatics",
       "url": "https://europeanaquatics.org/water-polo/",
       "order": 1
     },
@@ -6706,7 +6706,7 @@
       "type": "link",
       "icon": "",
       "name": "MS muži Sydney 2026",
-      "desc": "",
+      "desc": "Svetový pohár mužov vo vodnom póle 2026 — Sydney",
       "url": "https://www.worldaquatics.com/competitions/5142/men-s-water-polo-world-cup-2026-final",
       "order": 2
     },
@@ -6716,7 +6716,7 @@
       "type": "link",
       "icon": "",
       "name": "MS ženy Sydney 2026",
-      "desc": "",
+      "desc": "Svetový pohár žien vo vodnom póle 2026 — Sydney",
       "url": "https://www.worldaquatics.com/competitions/5141/women-s-water-polo-world-cup-2026-final",
       "order": 3
     },
@@ -6726,7 +6726,7 @@
       "type": "link",
       "icon": "",
       "name": "Champions league",
-      "desc": "",
+      "desc": "Liga majstrov vo vodnom póle",
       "url": "https://championsleague.europeanaquatics.org/",
       "order": 4
     },
@@ -6736,7 +6736,7 @@
       "type": "link",
       "icon": "",
       "name": "Total waterpolo",
-      "desc": "",
+      "desc": "Svetové spravodajstvo o vodnom póle",
       "url": "https://total-waterpolo.com/",
       "order": 5
     },
@@ -6746,7 +6746,7 @@
       "type": "link",
       "icon": "",
       "name": "WPD world",
-      "desc": "",
+      "desc": "Vodnopólová databáza a správy WPD",
       "url": "https://www.wpdworld.com/",
       "order": 6
     },
@@ -6756,7 +6756,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Italy",
-      "desc": "",
+      "desc": "Talianska plavecká federácia — vodné pólo",
       "url": "https://www.federnuoto.it/home/pallanuoto.html",
       "order": 7
     },
@@ -6766,7 +6766,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Hungary",
-      "desc": "",
+      "desc": "Maďarské vodné pólo",
       "url": "https://waterpolo.hu/",
       "order": 8
     },
@@ -6776,7 +6776,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Serbia",
-      "desc": "",
+      "desc": "Srbská vodnopólová federácia",
       "url": "https://waterpoloserbia.org/",
       "order": 9
     },
@@ -6786,7 +6786,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Slovakia",
-      "desc": "",
+      "desc": "Slovenské vodné pólo",
       "url": "https://www.vodnepolo.com/",
       "order": 10
     },
@@ -6796,7 +6796,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Spain",
-      "desc": "",
+      "desc": "Španielska plavecká federácia RFEN",
       "url": "https://rfen.es/",
       "order": 11
     },
@@ -6806,7 +6806,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Croatia",
-      "desc": "",
+      "desc": "Chorvátsky vodnopólový zväz",
       "url": "https://hvs.hr/",
       "order": 12
     },
@@ -6816,7 +6816,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Holland",
-      "desc": "",
+      "desc": "Holandské vodné pólo — KNZB",
       "url": "https://www.knzb.nl/waterpolo",
       "order": 13
     },
@@ -6826,7 +6826,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Greece",
-      "desc": "",
+      "desc": "Grécka plavecká federácia KOE",
       "url": "https://koe.org.gr/",
       "order": 14
     },
@@ -6836,7 +6836,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo USA",
-      "desc": "",
+      "desc": "Americká vodnopólová federácia",
       "url": "https://usawaterpolo.org/",
       "order": 15
     },
@@ -6846,7 +6846,7 @@
       "type": "link",
       "icon": "",
       "name": "Water polo Australia",
-      "desc": "",
+      "desc": "Austrálske vodné pólo",
       "url": "https://waterpoloaustralia.com.au/",
       "order": 16
     },
@@ -6856,7 +6856,7 @@
       "type": "link",
       "icon": "",
       "name": "NFL",
-      "desc": "",
+      "desc": "Oficiálny web NFL — medzinárodná verzia",
       "url": "https://www.nfl.com/international",
       "order": 0
     },
@@ -6866,7 +6866,7 @@
       "type": "link",
       "icon": "",
       "name": "NCAA Football",
-      "desc": "",
+      "desc": "Univerzitný futbal NCAA — divízia FBS",
       "url": "https://www.ncaa.com/sports/football/fbs",
       "order": 1
     },
@@ -6876,7 +6876,7 @@
       "type": "link",
       "icon": "",
       "name": "European league",
-      "desc": "",
+      "desc": "European League of Football (ELF)",
       "url": "https://europeanleague.football/",
       "order": 2
     },
@@ -6886,7 +6886,7 @@
       "type": "link",
       "icon": "",
       "name": "CEFL Europe",
-      "desc": "",
+      "desc": "Stredoeurópska liga CEFL",
       "url": "https://european-league.com/",
       "order": 3
     },
@@ -6896,7 +6896,7 @@
       "type": "link",
       "icon": "",
       "name": "GFL Germany",
-      "desc": "",
+      "desc": "Nemecká liga amerického futbalu GFL",
       "url": "https://gfl.info/",
       "order": 4
     },
@@ -6906,7 +6906,7 @@
       "type": "link",
       "icon": "",
       "name": "AFL Austria",
-      "desc": "",
+      "desc": "Rakúsky americký futbal AFL",
       "url": "https://football.at/",
       "order": 5
     },
@@ -6916,7 +6916,7 @@
       "type": "link",
       "icon": "",
       "name": "IFAF Europe",
-      "desc": "",
+      "desc": "Medzinárodná federácia amerického futbalu IFAF",
       "url": "https://americanfootball.sport/",
       "order": 6
     },
@@ -6926,7 +6926,7 @@
       "type": "link",
       "icon": "",
       "name": "ESPN NFL",
-      "desc": "",
+      "desc": "Sekcia NFL na ESPN",
       "url": "https://www.espn.com/nfl/",
       "order": 7
     },
@@ -6936,7 +6936,7 @@
       "type": "link",
       "icon": "",
       "name": "ESPN NCAAF",
-      "desc": "",
+      "desc": "Univerzitný futbal na ESPN",
       "url": "https://www.espn.com/college-football/",
       "order": 8
     },
@@ -6946,7 +6946,7 @@
       "type": "link",
       "icon": "",
       "name": "Pro football reference",
-      "desc": "",
+      "desc": "Historické štatistiky NFL",
       "url": "https://www.pro-football-reference.com/",
       "order": 9
     },
@@ -6956,7 +6956,7 @@
       "type": "link",
       "icon": "",
       "name": "Pro football focus",
-      "desc": "",
+      "desc": "Pokročilé štatistiky a hodnotenia hráčov PFF",
       "url": "https://www.pff.com/",
       "order": 10
     },
@@ -6966,7 +6966,7 @@
       "type": "link",
       "icon": "",
       "name": "Bleacherreport NFL",
-      "desc": "",
+      "desc": "NFL správy na Bleacher Report",
       "url": "https://bleacherreport.com/nfl",
       "order": 11
     },
@@ -6976,7 +6976,7 @@
       "type": "link",
       "icon": "",
       "name": "World rugby",
-      "desc": "",
+      "desc": "Svetová rugbyová federácia",
       "url": "https://www.world.rugby/",
       "order": 0
     },
@@ -6986,7 +6986,7 @@
       "type": "link",
       "icon": "",
       "name": "Intern. rugby league",
-      "desc": "",
+      "desc": "Medzinárodná federácia rugby league IRL",
       "url": "https://www.intrl.sport/",
       "order": 1
     },
@@ -6996,7 +6996,7 @@
       "type": "link",
       "icon": "",
       "name": "European rugby",
-      "desc": "",
+      "desc": "Európske klubové poháre EPCR",
       "url": "https://epcrugby.com/",
       "order": 2
     },
@@ -7006,7 +7006,7 @@
       "type": "link",
       "icon": "",
       "name": "Six nations",
-      "desc": "",
+      "desc": "Turnaj šiestich národov",
       "url": "https://www.sixnationsrugby.com/en",
       "order": 3
     },
@@ -7016,7 +7016,7 @@
       "type": "link",
       "icon": "",
       "name": "Super rugby",
-      "desc": "",
+      "desc": "Klubová súťaž južnej pologule Super Rugby",
       "url": "https://super.rugby/superrugby/",
       "order": 4
     },
@@ -7026,7 +7026,7 @@
       "type": "link",
       "icon": "",
       "name": "The rugby championship",
-      "desc": "",
+      "desc": "Reprezentačný turnaj južnej pologule",
       "url": "https://super.rugby/therugbychampionship/",
       "order": 5
     },
@@ -7036,7 +7036,7 @@
       "type": "link",
       "icon": "",
       "name": "EPCR Champions cup",
-      "desc": "",
+      "desc": "Európsky pohár majstrov v rugby",
       "url": "https://epcrugby.com/champions-cup",
       "order": 6
     },
@@ -7046,7 +7046,7 @@
       "type": "link",
       "icon": "",
       "name": "EPCR Challenge cup",
-      "desc": "",
+      "desc": "Druhý európsky klubový pohár",
       "url": "https://epcrugby.com/challenge-cup",
       "order": 7
     },
@@ -7056,7 +7056,7 @@
       "type": "link",
       "icon": "",
       "name": "Top 14 France",
-      "desc": "",
+      "desc": "Najvyššia francúzska rugbyová liga Top 14",
       "url": "https://top14.lnr.fr/",
       "order": 8
     },
@@ -7066,7 +7066,7 @@
       "type": "link",
       "icon": "",
       "name": "Premiership rugby",
-      "desc": "",
+      "desc": "Najvyššia anglická rugbyová liga",
       "url": "https://www.premiershiprugby.com/",
       "order": 9
     },
@@ -7076,7 +7076,7 @@
       "type": "link",
       "icon": "",
       "name": "United rugby champ.",
-      "desc": "",
+      "desc": "Liga URC — keltské krajiny, JAR a Taliansko",
       "url": "https://www.unitedrugby.com/",
       "order": 10
     },
@@ -7086,7 +7086,7 @@
       "type": "link",
       "icon": "",
       "name": "Japan rugby league",
-      "desc": "",
+      "desc": "Japonská rugbyová League One",
       "url": "https://league-one.jp/en/",
       "order": 11
     },
@@ -7096,7 +7096,7 @@
       "type": "link",
       "icon": "",
       "name": "NRL",
-      "desc": "",
+      "desc": "Austrálska National Rugby League",
       "url": "https://www.nrl.com/",
       "order": 12
     },
@@ -7106,7 +7106,7 @@
       "type": "link",
       "icon": "",
       "name": "Super league",
-      "desc": "",
+      "desc": "Európska Super League v rugby league",
       "url": "https://www.superleague.co.uk/",
       "order": 13
     },
@@ -7116,7 +7116,7 @@
       "type": "link",
       "icon": "",
       "name": "Rugby pass",
-      "desc": "",
+      "desc": "Svetový rugbyový spravodajský web",
       "url": "https://www.rugbypass.com/",
       "order": 14
     },
@@ -7126,7 +7126,7 @@
       "type": "link",
       "icon": "",
       "name": "Rugby world",
-      "desc": "",
+      "desc": "Britský rugbyový magazín Rugby World",
       "url": "https://www.rugbyworld.com/",
       "order": 15
     },
@@ -7136,7 +7136,7 @@
       "type": "link",
       "icon": "",
       "name": "BBC rugby union",
-      "desc": "",
+      "desc": "Rugby union na BBC",
       "url": "https://www.bbc.com/sport/rugby-union",
       "order": 16
     },
@@ -7146,7 +7146,7 @@
       "type": "link",
       "icon": "",
       "name": "ESPN rugby",
-      "desc": "",
+      "desc": "Rugbyová sekcia ESPN",
       "url": "https://www.espn.com/rugby/",
       "order": 17
     },
@@ -7156,7 +7156,7 @@
       "type": "link",
       "icon": "",
       "name": "Rugby database",
-      "desc": "",
+      "desc": "Databáza rugbyových hráčov a zápasov",
       "url": "https://www.rugbydatabase.co.uk/",
       "order": 18
     },
@@ -7166,7 +7166,7 @@
       "type": "link",
       "icon": "",
       "name": "Ultimate rugby",
-      "desc": "",
+      "desc": "Rugbyové správy a výsledky Ultimate Rugby",
       "url": "https://www.ultimaterugby.com/",
       "order": 19
     },
@@ -7176,7 +7176,7 @@
       "type": "link",
       "icon": "",
       "name": "Planet rugby",
-      "desc": "",
+      "desc": "Rugbyové spravodajstvo Planet Rugby",
       "url": "https://www.planetrugby.com/",
       "order": 20
     },
@@ -7186,7 +7186,7 @@
       "type": "link",
       "icon": "",
       "name": "Ruck UK",
-      "desc": "",
+      "desc": "Britský rugbyový web Ruck",
       "url": "https://www.ruck.co.uk/",
       "order": 21
     },
@@ -7196,7 +7196,7 @@
       "type": "link",
       "icon": "",
       "name": "The Roar rugby",
-      "desc": "",
+      "desc": "Austrálsky športový web The Roar — rugby",
       "url": "https://www.theroar.com.au/rugby-union/",
       "order": 22
     },
@@ -7206,7 +7206,7 @@
       "type": "link",
       "icon": "",
       "name": "Love rugby league",
-      "desc": "",
+      "desc": "Správy z rugby league",
       "url": "https://www.loverugbyleague.com/",
       "order": 23
     },
@@ -7216,7 +7216,7 @@
       "type": "link",
       "icon": "",
       "name": "Zero Tackle",
-      "desc": "",
+      "desc": "Austrálsky web o rugby league Zero Tackle",
       "url": "https://www.zerotackle.com/",
       "order": 24
     },
@@ -7226,7 +7226,7 @@
       "type": "link",
       "icon": "",
       "name": "PSA squash tour",
-      "desc": "",
+      "desc": "Profesionálna squashová asociácia PSA",
       "url": "https://www.psasquashtour.com/",
       "order": 0
     },
@@ -7236,7 +7236,7 @@
       "type": "link",
       "icon": "",
       "name": "World squash",
-      "desc": "",
+      "desc": "Svetová squashová federácia",
       "url": "https://www.worldsquash.sport/",
       "order": 2
     },
@@ -7246,7 +7246,7 @@
       "type": "link",
       "icon": "",
       "name": "European squash",
-      "desc": "",
+      "desc": "Európska squashová federácia",
       "url": "https://www.europeansquash.com/",
       "order": 3
     },
@@ -7256,7 +7256,7 @@
       "type": "link",
       "icon": "",
       "name": "PSA kalendár",
-      "desc": "",
+      "desc": "Kalendár turnajov PSA",
       "url": "https://www.psasquashtour.com/tournaments/",
       "order": 1
     },
@@ -7266,7 +7266,7 @@
       "type": "link",
       "icon": "",
       "name": "Squash info",
-      "desc": "",
+      "desc": "Výsledky, rebríčky a databáza squashu",
       "url": "https://www.squashinfo.com/",
       "order": 15
     },
@@ -7276,7 +7276,7 @@
       "type": "link",
       "icon": "",
       "name": "The squash site",
-      "desc": "",
+      "desc": "Squashové spravodajstvo The Squash Site",
       "url": "https://thesquashsite.com/",
       "order": 16
     },
@@ -7286,7 +7286,7 @@
       "type": "link",
       "icon": "",
       "name": "Squash mad",
-      "desc": "",
+      "desc": "Squashový magazín Squash Mad",
       "url": "https://squashmad.com/",
       "order": 17
     },
@@ -7296,7 +7296,7 @@
       "type": "link",
       "icon": "",
       "name": "Squash TV",
-      "desc": "",
+      "desc": "Oficiálne prenosy PSA — SquashTV",
       "url": "https://www.squash.tv/",
       "order": 5
     },
@@ -7306,7 +7306,7 @@
       "type": "link",
       "icon": "",
       "name": "Asian squash",
-      "desc": "",
+      "desc": "Ázijská squashová federácia",
       "url": "https://www.asiansquash.org/",
       "order": 4
     },
@@ -7316,7 +7316,7 @@
       "type": "link",
       "icon": "",
       "name": "England squash",
-      "desc": "",
+      "desc": "Anglická squashová federácia",
       "url": "https://www.englandsquash.com/",
       "order": 6
     },
@@ -7326,7 +7326,7 @@
       "type": "link",
       "icon": "",
       "name": "Squash France",
-      "desc": "",
+      "desc": "Francúzska squashová federácia",
       "url": "https://www.ffsquash.com/",
       "order": 7
     },
@@ -7336,7 +7336,7 @@
       "type": "link",
       "icon": "",
       "name": "El Gouna squash open",
-      "desc": "",
+      "desc": "Turnaj El Gouna International v Egypte",
       "url": "https://elgounainternational.com/",
       "order": 8
     },
@@ -7346,7 +7346,7 @@
       "type": "link",
       "icon": "",
       "name": "Paris squash project",
-      "desc": "",
+      "desc": "Parížsky squashový turnaj",
       "url": "https://www.parissquashproject.com/",
       "order": 9
     },
@@ -7356,7 +7356,7 @@
       "type": "link",
       "icon": "",
       "name": "Windy city open",
-      "desc": "",
+      "desc": "Turnaj Windy City Open v Chicagu",
       "url": "https://www.thewindycityopen.com/",
       "order": 10
     },
@@ -7366,7 +7366,7 @@
       "type": "link",
       "icon": "",
       "name": "Hong Kong squad open",
-      "desc": "",
+      "desc": "Turnaj Hong Kong Open",
       "url": "https://www.hksquashopen.com/en",
       "order": 11
     },
@@ -7376,7 +7376,7 @@
       "type": "link",
       "icon": "",
       "name": "US open squash",
-      "desc": "",
+      "desc": "US Open v squashi",
       "url": "https://usopensquash.com/",
       "order": 12
     },
@@ -7386,7 +7386,7 @@
       "type": "link",
       "icon": "",
       "name": "JP Morgan squash",
-      "desc": "",
+      "desc": "Tournament of Champions v New Yorku",
       "url": "https://tocsquash.com/",
       "order": 13
     },
@@ -7396,7 +7396,7 @@
       "type": "link",
       "icon": "",
       "name": "British open squash",
-      "desc": "",
+      "desc": "Najstarší squashový turnaj — British Open",
       "url": "https://britishopensquash.info/",
       "order": 14
     },
@@ -7406,7 +7406,7 @@
       "type": "link",
       "icon": "",
       "name": "IFF",
-      "desc": "",
+      "desc": "Medzinárodná florbalová federácia IFF",
       "url": "https://www.floorball.sport/",
       "order": 0
     },
@@ -7416,7 +7416,7 @@
       "type": "link",
       "icon": "",
       "name": "Prague games",
-      "desc": "",
+      "desc": "Mládežnícky turnaj Prague Games",
       "url": "https://www.praguegames.cz/turnaj",
       "order": 23
     },
@@ -7426,7 +7426,7 @@
       "type": "link",
       "icon": "",
       "name": "SG open",
-      "desc": "",
+      "desc": "Turnaj Singapore Floorball Open",
       "url": "https://www.sgfloorballopen.com/",
       "order": 18
     },
@@ -7436,7 +7436,7 @@
       "type": "link",
       "icon": "",
       "name": "Czech open",
-      "desc": "",
+      "desc": "Tradičný pražský turnaj Czech Open",
       "url": "https://www.czechopen.cz/",
       "order": 21
     },
@@ -7446,7 +7446,7 @@
       "type": "link",
       "icon": "",
       "name": "Scandic cup",
-      "desc": "",
+      "desc": "Mládežnícky turnaj Umeå Scandic Cup",
       "url": "https://umeascandiccup.cupmanager.net/",
       "order": 19
     },
@@ -7456,7 +7456,7 @@
       "type": "link",
       "icon": "",
       "name": "Umea festival",
-      "desc": "",
+      "desc": "Florbalový festival v Umeå",
       "url": "https://www.umeafloorballfestival.se/",
       "order": 20
     },
@@ -7466,7 +7466,7 @@
       "type": "link",
       "icon": "",
       "name": "Prague masters",
-      "desc": "",
+      "desc": "Florbalový turnaj Prague Masters",
       "url": "https://www.praguemasters.cz/pm_2026",
       "order": 22
     },
@@ -7476,7 +7476,7 @@
       "type": "link",
       "icon": "",
       "name": "Svensk Innebandy",
-      "desc": "",
+      "desc": "Švédsky florbalový zväz",
       "url": "https://www.innebandy.se/",
       "order": 2
     },
@@ -7486,7 +7486,7 @@
       "type": "link",
       "icon": "",
       "name": "Salibandy.fi",
-      "desc": "",
+      "desc": "Fínsky florbalový zväz",
       "url": "https://salibandy.fi/",
       "order": 3
     },
@@ -7496,7 +7496,7 @@
       "type": "link",
       "icon": "",
       "name": "Swiss Unihockey",
-      "desc": "",
+      "desc": "Švajčiarsky florbalový zväz",
       "url": "https://www.swissunihockey.ch/de",
       "order": 4
     },
@@ -7506,7 +7506,7 @@
       "type": "link",
       "icon": "",
       "name": "Český floorball",
-      "desc": "",
+      "desc": "Český florbal — oficiálny web",
       "url": "https://www.ceskyflorbal.cz/",
       "order": 5
     },
@@ -7516,7 +7516,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball Slovakia",
-      "desc": "",
+      "desc": "Slovenský zväz florbalu",
       "url": "https://www.szfb.sk/sk/",
       "order": 6
     },
@@ -7526,7 +7526,7 @@
       "type": "link",
       "icon": "",
       "name": "Svenska Superligan",
-      "desc": "",
+      "desc": "Najvyššia švédska florbalová liga SSL",
       "url": "https://www.ssl.se/",
       "order": 7
     },
@@ -7536,7 +7536,7 @@
       "type": "link",
       "icon": "",
       "name": "F liiga",
-      "desc": "",
+      "desc": "Najvyššia fínska florbalová liga F-liiga",
       "url": "https://fliiga.com/",
       "order": 8
     },
@@ -7546,7 +7546,7 @@
       "type": "link",
       "icon": "",
       "name": "Innebandy magazinet",
-      "desc": "",
+      "desc": "Švédsky florbalový magazín",
       "url": "https://innebandymagazinet.se/",
       "order": 14
     },
@@ -7556,7 +7556,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball.cz",
-      "desc": "",
+      "desc": "Český florbalový web",
       "url": "https://www.florbal.cz/",
       "order": 15
     },
@@ -7566,7 +7566,7 @@
       "type": "link",
       "icon": "",
       "name": "Paakallo.fi",
-      "desc": "",
+      "desc": "Fínsky florbalový magazín Pääkallo",
       "url": "https://paakallo.fi/",
       "order": 16
     },
@@ -7576,7 +7576,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball Norway",
-      "desc": "",
+      "desc": "Nórsky florbal — zväz bandy",
       "url": "https://bandyforbundet.no/",
       "order": 10
     },
@@ -7586,7 +7586,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball Germany",
-      "desc": "",
+      "desc": "Nemecká florbalová bundesliga",
       "url": "https://floorball.de/bundesliga/",
       "order": 13
     },
@@ -7596,7 +7596,7 @@
       "type": "link",
       "icon": "",
       "name": "Ekstraliga Poland",
-      "desc": "",
+      "desc": "Poľská unihokejová ekstraliga",
       "url": "https://www.polskiunihokej.pl/",
       "order": 17
     },
@@ -7606,7 +7606,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball Denmark",
-      "desc": "",
+      "desc": "Dánsky florbalový zväz",
       "url": "https://floorball.dk/",
       "order": 12
     },
@@ -7616,7 +7616,7 @@
       "type": "link",
       "icon": "",
       "name": "Floorball Latvia",
-      "desc": "",
+      "desc": "Lotyšský florbalový zväz",
       "url": "https://www.floorball.lv/",
       "order": 11
     },
@@ -7626,7 +7626,7 @@
       "type": "link",
       "icon": "",
       "name": "Asia federation",
-      "desc": "",
+      "desc": "Ázijsko-oceánska florbalová konfederácia",
       "url": "https://www.asiaoceaniafloorballconfederation.org/",
       "order": 1
     },
@@ -7636,7 +7636,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer world",
-      "desc": "",
+      "desc": "Svetový plážový futbal — Beach Soccer Worldwide",
       "url": "https://beachsoccer.com/",
       "order": 0
     },
@@ -7646,7 +7646,7 @@
       "type": "link",
       "icon": "",
       "name": "Euro winners cup",
-      "desc": "",
+      "desc": "Klubový Euro Winners Cup 2026",
       "url": "https://beachsoccer.com/event/euro-winners-cup-2026",
       "order": 1
     },
@@ -7656,7 +7656,7 @@
       "type": "link",
       "icon": "",
       "name": "Euro beach soccer l.",
-      "desc": "",
+      "desc": "Európska liga v plážovom futbale",
       "url": "https://beachsoccer.com/category/competitions/euro-beach-soccer-league",
       "order": 2
     },
@@ -7666,7 +7666,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer livescore",
-      "desc": "",
+      "desc": "Živé výsledky plážového futbalu",
       "url": "https://beachsoccer.com/livescores",
       "order": 3
     },
@@ -7676,7 +7676,7 @@
       "type": "link",
       "icon": "",
       "name": "ZeroZero.pt",
-      "desc": "",
+      "desc": "Portugalská databáza — plážový futbal",
       "url": "https://www.zerozero.pt/futebol-de-praia",
       "order": 4
     },
@@ -7686,7 +7686,7 @@
       "type": "link",
       "icon": "",
       "name": "Sand soccer",
-      "desc": "",
+      "desc": "Americký plážový futbal — Sand Soccer",
       "url": "https://www.sandsoccer.com/",
       "order": 5
     },
@@ -7696,7 +7696,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer TV",
-      "desc": "",
+      "desc": "Prenosy plážového futbalu",
       "url": "https://streamwayplus.com/beach-soccer",
       "order": 6
     },
@@ -7706,7 +7706,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer Italy",
-      "desc": "",
+      "desc": "Taliansky plážový futbal — LND",
       "url": "https://beachsoccer.lnd.it/it/beach-soccer",
       "order": 7
     },
@@ -7716,7 +7716,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer Brasil",
-      "desc": "",
+      "desc": "Brazílsky plážový futbal — CBF",
       "url": "https://www.cbf.com.br/selecao-brasileira/noticias/beach-soccer",
       "order": 8
     },
@@ -7726,7 +7726,7 @@
       "type": "link",
       "icon": "",
       "name": "Beach soccer Spain",
-      "desc": "",
+      "desc": "Španielsky plážový futbal — RFEF",
       "url": "https://rfef.es/es/competiciones/futbol-playa-rfef",
       "order": 9
     },
@@ -7736,7 +7736,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC",
-      "desc": "",
+      "desc": "Profesionálna šípkarska organizácia PDC",
       "url": "https://www.pdc.tv/",
       "order": 0
     },
@@ -7746,7 +7746,7 @@
       "type": "link",
       "icon": "",
       "name": "WDF",
-      "desc": "",
+      "desc": "Svetová šípkarska federácia WDF",
       "url": "https://dartswdf.com/",
       "order": 7
     },
@@ -7756,7 +7756,7 @@
       "type": "link",
       "icon": "",
       "name": "UKDA",
-      "desc": "",
+      "desc": "Britská šípkarska asociácia UKDA",
       "url": "https://ukdartsassociation.com/",
       "order": 6
     },
@@ -7766,7 +7766,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC world champ.",
-      "desc": "",
+      "desc": "Majstrovstvá sveta v šípkach PDC",
       "url": "https://www.pdc.tv/tournaments/paddy-power-world-darts-championship",
       "order": 1
     },
@@ -7776,7 +7776,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC Premier league",
-      "desc": "",
+      "desc": "Premier League Darts",
       "url": "https://www.pdc.tv/tournaments/betmgm-premier-league",
       "order": 2
     },
@@ -7786,7 +7786,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC European tour",
-      "desc": "",
+      "desc": "Európska túra PDC",
       "url": "https://www.pdc.tv/tournaments/pdc-protour/european-tour",
       "order": 3
     },
@@ -7796,7 +7796,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC World matchplay",
-      "desc": "",
+      "desc": "Turnaj World Matchplay",
       "url": "https://www.pdc.tv/tournaments/betfred-world-matchplay",
       "order": 4
     },
@@ -7806,7 +7806,7 @@
       "type": "link",
       "icon": "",
       "name": "PDC rankings",
-      "desc": "",
+      "desc": "Rebríčky PDC — Order of Merit",
       "url": "https://www.pdc.tv/rankings",
       "order": 5
     },
@@ -7816,7 +7816,7 @@
       "type": "link",
       "icon": "",
       "name": "Dartsnews",
-      "desc": "",
+      "desc": "Šípkarske spravodajstvo Dartsnews",
       "url": "https://dartsnews.com/",
       "order": 8
     },
@@ -7826,7 +7826,7 @@
       "type": "link",
       "icon": "",
       "name": "Darts database",
-      "desc": "",
+      "desc": "Databáza šípkarskych výsledkov",
       "url": "https://www.dartsdatabase.co.uk/",
       "order": 9
     },
@@ -7836,7 +7836,7 @@
       "type": "link",
       "icon": "",
       "name": "Live-darts",
-      "desc": "",
+      "desc": "Šípkarske správy a live výsledky",
       "url": "https://www.live-darts.com/",
       "order": 10
     },
@@ -7846,7 +7846,7 @@
       "type": "link",
       "icon": "",
       "name": "Darts orakel",
-      "desc": "",
+      "desc": "Pokročilé šípkarske štatistiky",
       "url": "https://dartsorakel.com/",
       "order": 11
     },
@@ -7856,7 +7856,7 @@
       "type": "link",
       "icon": "",
       "name": "Nederlandse darts",
-      "desc": "",
+      "desc": "Holandský šípkarsky zväz NDB",
       "url": "https://ndbdarts.nl/",
       "order": 12
     },
@@ -7866,7 +7866,7 @@
       "type": "link",
       "icon": "",
       "name": "Deutscher darts",
-      "desc": "",
+      "desc": "Nemecký šípkarsky zväz DDV",
       "url": "https://deutscherdartverband.de/",
       "order": 13
     },
@@ -7876,7 +7876,7 @@
       "type": "link",
       "icon": "",
       "name": "Darts Australia",
-      "desc": "",
+      "desc": "Austrálsky šípkarsky zväz",
       "url": "https://dartsaustralia.com/",
       "order": 14
     },
@@ -7886,7 +7886,7 @@
       "type": "link",
       "icon": "",
       "name": "Mastercaller",
-      "desc": "",
+      "desc": "Šípkarske štatistiky a profily hráčov",
       "url": "https://mastercaller.com/",
       "order": 15
     },
@@ -7896,7 +7896,7 @@
       "type": "link",
       "icon": "",
       "name": "Darts planet TV",
-      "desc": "",
+      "desc": "Šípkarske videá a správy",
       "url": "https://dartsplanet.tv/",
       "order": 16
     },
@@ -7906,7 +7906,7 @@
       "type": "link",
       "icon": "",
       "name": "Dart connect",
-      "desc": "",
+      "desc": "Live prenosy a skóre z turnajov DartConnect",
       "url": "https://tv.dartconnect.com/",
       "order": 17
     },
@@ -7916,7 +7916,7 @@
       "type": "link",
       "icon": "",
       "name": "WSF",
-      "desc": "",
+      "desc": "Svetová snookerová federácia (amatérska)",
       "url": "https://www.worldsnookerfederation.org/",
       "order": 0
     },
@@ -7926,7 +7926,7 @@
       "type": "link",
       "icon": "",
       "name": "World snooker tour",
-      "desc": "",
+      "desc": "Profesionálna túra World Snooker Tour",
       "url": "https://www.wst.tv/",
       "order": 1
     },
@@ -7936,7 +7936,7 @@
       "type": "link",
       "icon": "",
       "name": "WPBSA",
-      "desc": "",
+      "desc": "Svetová asociácia profesionálneho biliardu a snookeru",
       "url": "https://www.wpbsa.com/",
       "order": 6
     },
@@ -7946,7 +7946,7 @@
       "type": "link",
       "icon": "",
       "name": "IBSF",
-      "desc": "",
+      "desc": "Medzinárodná federácia amatérskeho snookeru",
       "url": "https://www.ibsf.info/",
       "order": 7
     },
@@ -7956,7 +7956,7 @@
       "type": "link",
       "icon": "",
       "name": "Snooker.org",
-      "desc": "",
+      "desc": "Výsledky, rebríčky a kalendár snookeru",
       "url": "https://www.snooker.org/",
       "order": 8
     },
@@ -7966,7 +7966,7 @@
       "type": "link",
       "icon": "",
       "name": "Cuetracker",
-      "desc": "",
+      "desc": "Databáza snookerových výsledkov a štatistík",
       "url": "https://cuetracker.net/",
       "order": 9
     },
@@ -7976,7 +7976,7 @@
       "type": "link",
       "icon": "",
       "name": "WST livescore",
-      "desc": "",
+      "desc": "Živé výsledky zápasov WST",
       "url": "https://www.wst.tv/matches/?",
       "order": 2
     },
@@ -7986,7 +7986,7 @@
       "type": "link",
       "icon": "",
       "name": "TNT sport snooker",
-      "desc": "",
+      "desc": "Snooker na TNT Sports",
       "url": "https://www.tntsports.co.uk/snooker/",
       "order": 10
     },
@@ -7996,7 +7996,7 @@
       "type": "link",
       "icon": "",
       "name": "BBC sport snooker",
-      "desc": "",
+      "desc": "Snooker na BBC",
       "url": "https://www.bbc.com/sport/snooker",
       "order": 11
     },
@@ -8006,7 +8006,7 @@
       "type": "link",
       "icon": "",
       "name": "UK championship",
-      "desc": "",
+      "desc": "UK Championship — turnaj Triple Crown",
       "url": "https://www.wst.tv/ukchampionship/",
       "order": 3
     },
@@ -8016,7 +8016,7 @@
       "type": "link",
       "icon": "",
       "name": "The Masters",
-      "desc": "",
+      "desc": "Pozvánkový turnaj The Masters",
       "url": "https://www.wst.tv/themasters/",
       "order": 4
     },
@@ -8026,7 +8026,7 @@
       "type": "link",
       "icon": "",
       "name": "WST kalendár",
-      "desc": "",
+      "desc": "Kalendár turnajov WST",
       "url": "https://www.wst.tv/tournaments/",
       "order": 5
     },
@@ -8036,7 +8036,7 @@
       "type": "link",
       "icon": "",
       "name": "World archery",
-      "desc": "",
+      "desc": "Svetová lukostrelecká federácia",
       "url": "https://www.worldarchery.sport/",
       "order": 0
     },
@@ -8046,7 +8046,7 @@
       "type": "link",
       "icon": "",
       "name": "World archery Europe",
-      "desc": "",
+      "desc": "Európska lukostrelecká federácia",
       "url": "https://www.archeryeurope.org/",
       "order": 1
     },
@@ -8056,7 +8056,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery world cup",
-      "desc": "",
+      "desc": "Svetový pohár v lukostreľbe",
       "url": "https://www.worldarchery.sport/tags/archery-world-cup?gad_source=1&gad_campaignid=21662212287&gbraid=0AAAAA90_OVgDQMPyCQF480CGrtec2J5wL&gclid=CjwKCAjwuanRBhBSEiwAY5y6V3nGu5kxFGK9m2U5zS1vR_dh9dmqM42VA2ocBME3R_9EO48vFIaNdxoC3SQQAvD_BwE",
       "order": 2
     },
@@ -8066,7 +8066,7 @@
       "type": "link",
       "icon": "",
       "name": "Ianseo",
-      "desc": "",
+      "desc": "Výsledkový systém lukostreleckých turnajov Ianseo",
       "url": "https://www.ianseo.net/",
       "order": 7
     },
@@ -8076,7 +8076,7 @@
       "type": "link",
       "icon": "",
       "name": "WA kalendár",
-      "desc": "",
+      "desc": "Kalendár lukostreleckých podujatí",
       "url": "https://www.worldarchery.sport/events/calendar?country=All%20countries&discipline=All%20disciplines",
       "order": 3
     },
@@ -8086,7 +8086,7 @@
       "type": "link",
       "icon": "",
       "name": "WA ranking",
-      "desc": "",
+      "desc": "Svetový rebríček lukostrelcov",
       "url": "https://www.worldarchery.sport/rankings/world-ranking",
       "order": 4
     },
@@ -8096,7 +8096,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery asia",
-      "desc": "",
+      "desc": "Ázijská lukostrelecká federácia",
       "url": "https://www.asianarchery.com/",
       "order": 6
     },
@@ -8106,7 +8106,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery Americas",
-      "desc": "",
+      "desc": "Americká kontinentálna lukostrelecká federácia",
       "url": "https://www.worldarcheryamericas.com/en/home/",
       "order": 5
     },
@@ -8116,7 +8116,7 @@
       "type": "link",
       "icon": "",
       "name": "TNT sport archery",
-      "desc": "",
+      "desc": "Lukostreľba na TNT Sports",
       "url": "https://www.tntsports.co.uk/archery/",
       "order": 8
     },
@@ -8126,7 +8126,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery India",
-      "desc": "",
+      "desc": "Indická lukostrelecká asociácia",
       "url": "https://indianarchery.info/news",
       "order": 11
     },
@@ -8136,7 +8136,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery Japan",
-      "desc": "",
+      "desc": "Japonská lukostrelecká federácia",
       "url": "https://www.archery.or.jp/",
       "order": 10
     },
@@ -8146,7 +8146,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportstar Archery",
-      "desc": "",
+      "desc": "Lukostreľba v indickom magazíne Sportstar",
       "url": "https://sportstar.thehindu.com/archery/",
       "order": 9
     },
@@ -8156,7 +8156,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery Slovakia",
-      "desc": "",
+      "desc": "Slovenský lukostrelecký zväz",
       "url": "https://www.archerysvk.sk/",
       "order": 12
     },
@@ -8166,7 +8166,7 @@
       "type": "link",
       "icon": "",
       "name": "Archery.cz",
-      "desc": "",
+      "desc": "Český lukostřelecký svaz",
       "url": "https://www.archery.cz/",
       "order": 13
     },
@@ -8176,7 +8176,7 @@
       "type": "link",
       "icon": "",
       "name": "ICF canoe",
-      "desc": "",
+      "desc": "Medzinárodná kanoistická federácia ICF",
       "url": "https://www.canoeicf.com/",
       "order": 0
     },
@@ -8186,7 +8186,7 @@
       "type": "link",
       "icon": "",
       "name": "ECA canoe",
-      "desc": "",
+      "desc": "Európska kanoistická asociácia",
       "url": "https://paddle-europe.eu/",
       "order": 3
     },
@@ -8196,7 +8196,7 @@
       "type": "link",
       "icon": "",
       "name": "ICF live timing",
-      "desc": "",
+      "desc": "Živá časomiera súťaží ICF (Siwidata)",
       "url": "https://www.siwidata.com/#/results",
       "order": 2
     },
@@ -8206,7 +8206,7 @@
       "type": "link",
       "icon": "",
       "name": "ICF results",
-      "desc": "",
+      "desc": "Výsledky súťaží ICF",
       "url": "https://www.canoeicf.com/results",
       "order": 1
     },
@@ -8216,7 +8216,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoeslalom.net",
-      "desc": "",
+      "desc": "Výsledky vodného slalomu",
       "url": "https://www.canoeslalom.net/doku.php/de_international/result/start",
       "order": 4
     },
@@ -8226,7 +8226,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoe.sk",
-      "desc": "",
+      "desc": "Slovenská kanoistika — oficiálny web",
       "url": "https://www.canoe.sk/sk",
       "order": 6
     },
@@ -8236,7 +8236,7 @@
       "type": "link",
       "icon": "",
       "name": "Kanoe.cz",
-      "desc": "",
+      "desc": "Český svaz kanoistů",
       "url": "https://www.kanoe.cz/",
       "order": 7
     },
@@ -8246,7 +8246,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoeresults.eu",
-      "desc": "",
+      "desc": "Výsledky rýchlostnej kanoistiky",
       "url": "http://www.canoeresults.eu/view-results/sprint",
       "order": 5
     },
@@ -8256,7 +8256,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoe Hungary",
-      "desc": "",
+      "desc": "Maďarský kajakársko-kanoistický zväz",
       "url": "https://kajakkenusport.hu/",
       "order": 8
     },
@@ -8266,7 +8266,7 @@
       "type": "link",
       "icon": "",
       "name": "Kanu.de",
-      "desc": "",
+      "desc": "Nemecký kanoistický zväz DKV",
       "url": "https://www.kanu.de/",
       "order": 9
     },
@@ -8276,7 +8276,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoe France",
-      "desc": "",
+      "desc": "Francúzska kanoistická federácia FFCK",
       "url": "https://www.ffck.org/",
       "order": 10
     },
@@ -8286,7 +8286,7 @@
       "type": "link",
       "icon": "",
       "name": "Kajak zveza Slovenia",
-      "desc": "",
+      "desc": "Slovinský kajakársky zväz",
       "url": "https://kajak-zveza.si/",
       "order": 11
     },
@@ -8296,7 +8296,7 @@
       "type": "link",
       "icon": "",
       "name": "Canoe Spain",
-      "desc": "",
+      "desc": "Španielska kanoistická federácia RFEP",
       "url": "https://rfep.es/",
       "order": 12
     },
@@ -8306,7 +8306,7 @@
       "type": "link",
       "icon": "",
       "name": "Paddle UK",
-      "desc": "",
+      "desc": "Britská kanoistická federácia Paddle UK",
       "url": "https://paddleuk.org.uk/",
       "order": 13
     },
@@ -8316,7 +8316,7 @@
       "type": "link",
       "icon": "",
       "name": "Paddle Australia",
-      "desc": "",
+      "desc": "Austrálska kanoistická federácia",
       "url": "https://paddle.org.au/",
       "order": 14
     },
@@ -8326,7 +8326,7 @@
       "type": "link",
       "icon": "",
       "name": "World rowing",
-      "desc": "",
+      "desc": "Svetová veslárska federácia — Svetový pohár 2026",
       "url": "https://worldrowing.com/event/2026-world-rowing-cup-ii/",
       "order": 0
     },
@@ -8336,7 +8336,7 @@
       "type": "link",
       "icon": "",
       "name": "World rowing events",
-      "desc": "",
+      "desc": "Kalendár podujatí World Rowing",
       "url": "https://worldrowing.com/events-list/",
       "order": 1
     },
@@ -8346,7 +8346,7 @@
       "type": "link",
       "icon": "",
       "name": "Regatta Central",
-      "desc": "",
+      "desc": "Registrácie a výsledky regát",
       "url": "https://www.regattacentral.com/",
       "order": 2
     },
@@ -8356,7 +8356,7 @@
       "type": "link",
       "icon": "",
       "name": "Row2k",
-      "desc": "",
+      "desc": "Americký veslársky spravodajský web",
       "url": "https://www.row2k.com/",
       "order": 3
     },
@@ -8366,7 +8366,7 @@
       "type": "link",
       "icon": "",
       "name": "British rowing",
-      "desc": "",
+      "desc": "Britská veslárska federácia",
       "url": "https://www.britishrowing.org/",
       "order": 4
     },
@@ -8376,7 +8376,7 @@
       "type": "link",
       "icon": "",
       "name": "Roeien Nederland",
-      "desc": "",
+      "desc": "Holandský veslársky zväz",
       "url": "https://roeien.nl/",
       "order": 5
     },
@@ -8386,7 +8386,7 @@
       "type": "link",
       "icon": "",
       "name": "Rowing New Zealand",
-      "desc": "",
+      "desc": "Novozélandská veslárska federácia",
       "url": "https://rowingnz.kiwi/",
       "order": 6
     },
@@ -8396,7 +8396,7 @@
       "type": "link",
       "icon": "",
       "name": "Rudern Germany",
-      "desc": "",
+      "desc": "Nemecký veslársky zväz",
       "url": "https://www.rudern.de/",
       "order": 7
     },
@@ -8406,7 +8406,7 @@
       "type": "link",
       "icon": "",
       "name": "Rowing Australia",
-      "desc": "",
+      "desc": "Austrálska veslárska federácia",
       "url": "https://rowingaustralia.com.au/",
       "order": 8
     },
@@ -8416,7 +8416,7 @@
       "type": "link",
       "icon": "",
       "name": "Rowing US",
-      "desc": "",
+      "desc": "Americká veslárska federácia",
       "url": "https://usrowing.org/",
       "order": 9
     },
@@ -8426,7 +8426,7 @@
       "type": "link",
       "icon": "",
       "name": "Canottaggio Italy",
-      "desc": "",
+      "desc": "Talianska veslárska federácia",
       "url": "https://www.canottaggio.org/",
       "order": 10
     },
@@ -8436,7 +8436,7 @@
       "type": "link",
       "icon": "",
       "name": "Canotaj Romania",
-      "desc": "",
+      "desc": "Rumunská veslárska federácia",
       "url": "https://www.frcanotaj.ro/",
       "order": 11
     },
@@ -8446,7 +8446,7 @@
       "type": "link",
       "icon": "",
       "name": "Veslovanie Slovakia",
-      "desc": "",
+      "desc": "Slovenský veslársky zväz",
       "url": "https://veslovanie.sk/",
       "order": 12
     },
@@ -8456,7 +8456,7 @@
       "type": "link",
       "icon": "",
       "name": "Veslo CZ",
-      "desc": "",
+      "desc": "Český veslařský svaz",
       "url": "https://www.veslo.cz/",
       "order": 13
     },
@@ -8466,7 +8466,7 @@
       "type": "link",
       "icon": "",
       "name": "IWF",
-      "desc": "",
+      "desc": "Medzinárodná vzpieračská federácia IWF",
       "url": "https://beta.iwf.sport/",
       "order": 0
     },
@@ -8476,7 +8476,7 @@
       "type": "link",
       "icon": "",
       "name": "EWF",
-      "desc": "",
+      "desc": "Európska vzpieračská federácia",
       "url": "https://ewf.sport/",
       "order": 2
     },
@@ -8486,7 +8486,7 @@
       "type": "link",
       "icon": "",
       "name": "IWF calendar",
-      "desc": "",
+      "desc": "Kalendár súťaží IWF 2026",
       "url": "https://iwf.sport/events/calendar-2026/",
       "order": 1
     },
@@ -8496,7 +8496,7 @@
       "type": "link",
       "icon": "",
       "name": "TNT weightlifting",
-      "desc": "",
+      "desc": "Vzpieranie na TNT Sports",
       "url": "https://www.tntsports.co.uk/weightlifting/",
       "order": 13
     },
@@ -8506,7 +8506,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting house",
-      "desc": "",
+      "desc": "Vzpieračské správy a analýzy Weightlifting House",
       "url": "https://eustore.weightliftinghouse.com/blogs/news",
       "order": 4
     },
@@ -8516,7 +8516,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Asia",
-      "desc": "",
+      "desc": "Ázijská vzpieračská federácia",
       "url": "https://awf.sport/",
       "order": 3
     },
@@ -8526,7 +8526,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting USA",
-      "desc": "",
+      "desc": "Americká vzpieračská federácia",
       "url": "https://www.usaweightlifting.org/",
       "order": 5
     },
@@ -8536,7 +8536,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Iran",
-      "desc": "",
+      "desc": "Iránska vzpieračská federácia",
       "url": "https://iwfir.ir/",
       "order": 6
     },
@@ -8546,7 +8546,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Georgia",
-      "desc": "",
+      "desc": "Gruzínska vzpieračská federácia",
       "url": "https://www.geowf.ge/ka",
       "order": 7
     },
@@ -8556,7 +8556,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Belarus",
-      "desc": "",
+      "desc": "Bieloruská vzpieračská federácia",
       "url": "https://weightlifting.by/",
       "order": 8
     },
@@ -8566,7 +8566,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlift Kazakstan",
-      "desc": "",
+      "desc": "Kazašská vzpieračská federácia",
       "url": "https://wfrk.kz/en/",
       "order": 9
     },
@@ -8576,7 +8576,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Thailand",
-      "desc": "",
+      "desc": "Thajská vzpieračská asociácia",
       "url": "https://www.tawa.or.th/en/",
       "order": 10
     },
@@ -8586,7 +8586,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Bulgaria",
-      "desc": "",
+      "desc": "Bulharská vzpieračská federácia",
       "url": "http://wfbulgaria.com/",
       "order": 11
     },
@@ -8596,7 +8596,7 @@
       "type": "link",
       "icon": "",
       "name": "Weightlifting Colombia",
-      "desc": "",
+      "desc": "Kolumbijská vzpieračská federácia",
       "url": "https://fedepesascol.com/",
       "order": 12
     },
@@ -8606,7 +8606,7 @@
       "type": "link",
       "icon": "",
       "name": "ICC Cricket",
-      "desc": "",
+      "desc": "Medzinárodná kriketová rada ICC",
       "url": "https://www.icc-cricket.com/index",
       "order": 0
     },
@@ -8616,7 +8616,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricbuzz",
-      "desc": "",
+      "desc": "Populárny web s kriketovými výsledkami",
       "url": "https://www.cricbuzz.com/",
       "order": 3
     },
@@ -8626,7 +8626,7 @@
       "type": "link",
       "icon": "",
       "name": "ESPN cricinfo",
-      "desc": "",
+      "desc": "Najväčší kriketový web sveta",
       "url": "https://www.espncricinfo.com/",
       "order": 4
     },
@@ -8636,7 +8636,7 @@
       "type": "link",
       "icon": "",
       "name": "Indian premier league",
-      "desc": "",
+      "desc": "Indická IPL — najväčšia T20 liga sveta",
       "url": "https://www.iplt20.com/",
       "order": 5
     },
@@ -8646,7 +8646,7 @@
       "type": "link",
       "icon": "",
       "name": "Big Bash league",
-      "desc": "",
+      "desc": "Austrálska T20 liga Big Bash",
       "url": "https://www.bigbash.com.au/",
       "order": 6
     },
@@ -8656,7 +8656,7 @@
       "type": "link",
       "icon": "",
       "name": "Pakistan league",
-      "desc": "",
+      "desc": "Pakistanská Super League",
       "url": "https://psl-t20.com/",
       "order": 7
     },
@@ -8666,7 +8666,7 @@
       "type": "link",
       "icon": "",
       "name": "South Africa league",
-      "desc": "",
+      "desc": "Juhoafrická liga SA20",
       "url": "https://www.sa20.co.za/",
       "order": 8
     },
@@ -8676,7 +8676,7 @@
       "type": "link",
       "icon": "",
       "name": "Caribbean league",
-      "desc": "",
+      "desc": "Karibská Premier League",
       "url": "https://www.cplt20.com/home",
       "order": 9
     },
@@ -8686,7 +8686,7 @@
       "type": "link",
       "icon": "",
       "name": "MLC USA",
-      "desc": "",
+      "desc": "Americká Major League Cricket",
       "url": "https://www.majorleaguecricket.com/",
       "order": 10
     },
@@ -8696,7 +8696,7 @@
       "type": "link",
       "icon": "",
       "name": "The Hundred England",
-      "desc": "",
+      "desc": "Anglická súťaž The Hundred",
       "url": "https://www.thehundred.com/",
       "order": 11
     },
@@ -8706,7 +8706,7 @@
       "type": "link",
       "icon": "",
       "name": "ILT20 SAE",
-      "desc": "",
+      "desc": "Liga ILT20 v Spojených arabských emirátoch",
       "url": "https://www.ilt20.ae/",
       "order": 12
     },
@@ -8716,7 +8716,7 @@
       "type": "link",
       "icon": "",
       "name": "ICC World test champ.",
-      "desc": "",
+      "desc": "Svetový šampionát v testovom krikete",
       "url": "https://www.icc-cricket.com/tournaments/world-test-championship",
       "order": 2
     },
@@ -8726,7 +8726,7 @@
       "type": "link",
       "icon": "",
       "name": "ICC T20 World cup",
-      "desc": "",
+      "desc": "Majstrovstvá sveta v krikete T20 2026",
       "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026",
       "order": 1
     },
@@ -8736,7 +8736,7 @@
       "type": "link",
       "icon": "",
       "name": "Asian cricket council",
-      "desc": "",
+      "desc": "Ázijská kriketová rada",
       "url": "https://www.asiancricket.org/home",
       "order": 13
     },
@@ -8746,7 +8746,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricket India",
-      "desc": "",
+      "desc": "Indický kriketový zväz BCCI",
       "url": "https://www.bcci.tv/",
       "order": 14
     },
@@ -8756,7 +8756,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricket Australia",
-      "desc": "",
+      "desc": "Austrálsky kriket — Cricket Australia",
       "url": "https://www.cricket.com.au/",
       "order": 15
     },
@@ -8766,7 +8766,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricket England",
-      "desc": "",
+      "desc": "Anglický kriketový zväz ECB",
       "url": "https://www.ecb.co.uk/",
       "order": 16
     },
@@ -8776,7 +8776,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricket Pakistan",
-      "desc": "",
+      "desc": "Pakistanský kriketový zväz PCB",
       "url": "https://www.pcb.com.pk/",
       "order": 17
     },
@@ -13046,7 +13046,7 @@
       "type": "folder",
       "icon": "🏎️",
       "name": "Motorizmus",
-      "desc": "",
+      "desc": "Motoristický šport — súťaže a spravodajstvo",
       "url": null,
       "order": 15,
       "slug": "motorizmus"
