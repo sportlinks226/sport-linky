@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "password": "Sportlinks73",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -11356,7 +11356,7 @@
       "type": "link",
       "icon": "",
       "name": "Sky sports",
-      "desc": "",
+      "desc": "Britská športová televízia — správy, výsledky a prenosy",
       "url": "https://www.skysports.com/",
       "order": 0
     },
@@ -11366,7 +11366,7 @@
       "type": "link",
       "icon": "",
       "name": "BBC sport",
-      "desc": "",
+      "desc": "Športová sekcia BBC — správy, výsledky a livetexty",
       "url": "https://www.bbc.com/sport",
       "order": 1
     },
@@ -11376,7 +11376,7 @@
       "type": "link",
       "icon": "",
       "name": "The Guardian sport",
-      "desc": "",
+      "desc": "Športové spravodajstvo denníka The Guardian",
       "url": "https://www.theguardian.com/uk/sport",
       "order": 2
     },
@@ -11386,7 +11386,7 @@
       "type": "link",
       "icon": "",
       "name": "The Telegraph sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka The Telegraph",
       "url": "https://www.telegraph.co.uk/sport/",
       "order": 3
     },
@@ -11396,7 +11396,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily mail sport",
-      "desc": "",
+      "desc": "Športové správy bulvárneho denníka Daily Mail",
       "url": "https://www.dailymail.com/sport/index.html",
       "order": 4
     },
@@ -11406,7 +11406,7 @@
       "type": "link",
       "icon": "",
       "name": "The Sun sport",
-      "desc": "",
+      "desc": "Športová sekcia bulvárneho denníka The Sun",
       "url": "https://www.thesun.co.uk/sport/",
       "order": 5
     },
@@ -11416,7 +11416,7 @@
       "type": "link",
       "icon": "",
       "name": "The Independent sport",
-      "desc": "",
+      "desc": "Športové spravodajstvo denníka The Independent",
       "url": "https://www.independent.co.uk/sport",
       "order": 6
     },
@@ -11426,7 +11426,7 @@
       "type": "link",
       "icon": "",
       "name": "Talk sport",
-      "desc": "",
+      "desc": "Najväčšie britské športové rádio — správy a podcasty",
       "url": "https://talksport.com/",
       "order": 7
     },
@@ -11436,7 +11436,7 @@
       "type": "link",
       "icon": "",
       "name": "Sporting life",
-      "desc": "",
+      "desc": "Stávkové tipy, dostihy a športové výsledky",
       "url": "https://www.sportinglife.com/",
       "order": 8
     },
@@ -11446,7 +11446,7 @@
       "type": "link",
       "icon": "",
       "name": "The standart sport",
-      "desc": "",
+      "desc": "Športová sekcia londýnskeho Evening Standard",
       "url": "https://www.standard.co.uk/sport",
       "order": 9
     },
@@ -11456,7 +11456,7 @@
       "type": "link",
       "icon": "",
       "name": "Gime me sport",
-      "desc": "",
+      "desc": "Britský športový web — futbal a virálne správy",
       "url": "https://www.givemesport.com/",
       "order": 10
     },
@@ -11466,7 +11466,7 @@
       "type": "link",
       "icon": "",
       "name": "Newsnow sport",
-      "desc": "",
+      "desc": "Agregátor športových správ z britských médií",
       "url": "https://www.newsnow.co.uk/h/Sport",
       "order": 11
     },
@@ -11476,7 +11476,7 @@
       "type": "link",
       "icon": "",
       "name": "The Times sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka The Times",
       "url": "https://www.thetimes.com/sport",
       "order": 12
     },
@@ -11486,7 +11486,7 @@
       "type": "link",
       "icon": "",
       "name": "Inews sport",
-      "desc": "",
+      "desc": "Športová sekcia britského webu iNews",
       "url": "https://inews.co.uk/sport",
       "order": 13
     },
@@ -11496,7 +11496,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportsmole",
-      "desc": "",
+      "desc": "Futbalové správy a predzápasové analýzy",
       "url": "https://www.sportsmole.co.uk/",
       "order": 14
     },
@@ -11506,7 +11506,7 @@
       "type": "link",
       "icon": "",
       "name": "Express sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily Express",
       "url": "https://www.express.co.uk/sport",
       "order": 15
     },
@@ -11516,7 +11516,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily star sport",
-      "desc": "",
+      "desc": "Športové správy bulvárneho Daily Star",
       "url": "https://www.dailystar.co.uk/sport/",
       "order": 16
     },
@@ -11526,7 +11526,7 @@
       "type": "link",
       "icon": "",
       "name": "Marca",
-      "desc": "",
+      "desc": "Najčítanejší španielsky športový denník — Real Madrid a futbal",
       "url": "https://www.marca.com/",
       "order": 0
     },
@@ -11536,7 +11536,7 @@
       "type": "link",
       "icon": "",
       "name": "AS",
-      "desc": "",
+      "desc": "Madridský športový denník — futbal a La Liga",
       "url": "https://as.com/",
       "order": 1
     },
@@ -11546,7 +11546,7 @@
       "type": "link",
       "icon": "",
       "name": "Mundo deportivo",
-      "desc": "",
+      "desc": "Barcelonský športový denník — najstarší v Španielsku",
       "url": "https://www.mundodeportivo.com/",
       "order": 2
     },
@@ -11556,7 +11556,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport",
-      "desc": "",
+      "desc": "Katalánsky športový denník blízky FC Barcelona",
       "url": "https://www.sport.es/es/",
       "order": 3
     },
@@ -11566,7 +11566,7 @@
       "type": "link",
       "icon": "",
       "name": "Estadio deportivo",
-      "desc": "",
+      "desc": "Športový denník zo Sevilly — Betis a Sevilla FC",
       "url": "https://www.estadiodeportivo.com/",
       "order": 4
     },
@@ -11576,7 +11576,7 @@
       "type": "link",
       "icon": "",
       "name": "El pais deportes",
-      "desc": "",
+      "desc": "Športová sekcia denníka El País",
       "url": "https://elpais.com/deportes/",
       "order": 5
     },
@@ -11586,7 +11586,7 @@
       "type": "link",
       "icon": "",
       "name": "El mundo deportes",
-      "desc": "",
+      "desc": "Športová sekcia denníka El Mundo",
       "url": "https://www.elmundo.es/deportes.html",
       "order": 6
     },
@@ -11596,7 +11596,7 @@
       "type": "link",
       "icon": "",
       "name": "ABC deportes",
-      "desc": "",
+      "desc": "Športová sekcia denníka ABC",
       "url": "https://www.abc.es/deportes/",
       "order": 7
     },
@@ -11606,7 +11606,7 @@
       "type": "link",
       "icon": "",
       "name": "La vanguardia",
-      "desc": "",
+      "desc": "Športová sekcia katalánskeho denníka La Vanguardia",
       "url": "https://www.lavanguardia.com/deportes",
       "order": 8
     },
@@ -11616,7 +11616,7 @@
       "type": "link",
       "icon": "",
       "name": "Superdeporte",
-      "desc": "",
+      "desc": "Športový denník z Valencie — Valencia CF a Levante",
       "url": "https://www.superdeporte.es/",
       "order": 9
     },
@@ -11626,7 +11626,7 @@
       "type": "link",
       "icon": "",
       "name": "La Voz de Galicia",
-      "desc": "",
+      "desc": "Športová sekcia galícijského denníka La Voz de Galicia",
       "url": "https://www.lavozdegalicia.es/deportes/",
       "order": 10
     },
@@ -11636,7 +11636,7 @@
       "type": "link",
       "icon": "",
       "name": "Deia deportes",
-      "desc": "",
+      "desc": "Šport z Bilbaa a Baskicka — denník Deia",
       "url": "https://www.deia.eus/deportes/",
       "order": 11
     },
@@ -11646,7 +11646,7 @@
       "type": "link",
       "icon": "",
       "name": "El Correo deportes",
-      "desc": "",
+      "desc": "Športová sekcia baskického denníka El Correo",
       "url": "https://www.elcorreo.com/deportes/?ref=https%3A%2F%2Fwww.elcorreo.com%2Fdeportes%2F",
       "order": 12
     },
@@ -11656,7 +11656,7 @@
       "type": "link",
       "icon": "",
       "name": "Esport3",
-      "desc": "",
+      "desc": "Katalánsky športový TV kanál platformy 3Cat",
       "url": "https://www.3cat.cat/esport3/",
       "order": 13
     },
@@ -11666,7 +11666,7 @@
       "type": "link",
       "icon": "",
       "name": "El periodico deportes",
-      "desc": "",
+      "desc": "Športová sekcia barcelonského El Periódico",
       "url": "https://www.elperiodico.com/es/deportes/",
       "order": 14
     },
@@ -11676,7 +11676,7 @@
       "type": "link",
       "icon": "",
       "name": "ARA deportes",
-      "desc": "",
+      "desc": "Športová sekcia katalánskeho denníka ARA",
       "url": "https://www.ara.cat/esports/",
       "order": 15
     },
@@ -11686,7 +11686,7 @@
       "type": "link",
       "icon": "",
       "name": "La Razon deportes",
-      "desc": "",
+      "desc": "Športová sekcia madridského denníka La Razón",
       "url": "https://www.larazon.es/deportes/",
       "order": 16
     },
@@ -11696,7 +11696,7 @@
       "type": "link",
       "icon": "",
       "name": "El Desmarque",
-      "desc": "",
+      "desc": "Španielsky futbalový web — správy a prestupy",
       "url": "https://www.eldesmarque.com/",
       "order": 17
     },
@@ -11706,7 +11706,7 @@
       "type": "link",
       "icon": "",
       "name": "Kicker",
-      "desc": "",
+      "desc": "Legendárny nemecký futbalový magazín — Bundesliga",
       "url": "https://www.kicker.de/",
       "order": 0
     },
@@ -11716,7 +11716,7 @@
       "type": "link",
       "icon": "",
       "name": "Sporrt1",
-      "desc": "",
+      "desc": "Nemecká športová televízia — správy a prenosy",
       "url": "https://www.sport1.de/",
       "order": 1
     },
@@ -11726,7 +11726,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport bild",
-      "desc": "",
+      "desc": "Najväčší európsky športový týždenník (vydavateľstvo Bild)",
       "url": "https://sportbild.bild.de/",
       "order": 2
     },
@@ -11736,7 +11736,7 @@
       "type": "link",
       "icon": "",
       "name": "SPOX",
-      "desc": "",
+      "desc": "Nemecký športový web — futbal, NBA aj NFL",
       "url": "https://www.spox.com/",
       "order": 3
     },
@@ -11746,7 +11746,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport.de",
-      "desc": "",
+      "desc": "Nemecký športový portál — výsledky a správy",
       "url": "https://www.sport.de/",
       "order": 4
     },
@@ -11756,7 +11756,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportschau ARD",
-      "desc": "",
+      "desc": "Športová redakcia verejnoprávnej televízie ARD",
       "url": "https://www.sportschau.de/",
       "order": 5
     },
@@ -11766,7 +11766,7 @@
       "type": "link",
       "icon": "",
       "name": "ZDF heute sport",
-      "desc": "",
+      "desc": "Športové spravodajstvo televízie ZDF",
       "url": "https://www.zdfheute.de/sport",
       "order": 6
     },
@@ -11776,7 +11776,7 @@
       "type": "link",
       "icon": "",
       "name": "Bild",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho nemeckého denníka Bild",
       "url": "https://www.bild.de/sport/startseite/sport/sport-home-15479124.bild.html",
       "order": 7
     },
@@ -11786,7 +11786,7 @@
       "type": "link",
       "icon": "",
       "name": "Sueddeutsche Zeitung",
-      "desc": "",
+      "desc": "Športová sekcia mníchovského denníka Süddeutsche Zeitung",
       "url": "https://www.sueddeutsche.de/sport",
       "order": 8
     },
@@ -11796,7 +11796,7 @@
       "type": "link",
       "icon": "",
       "name": "Die Welt",
-      "desc": "",
+      "desc": "Športová sekcia denníka Die Welt",
       "url": "https://www.welt.de/sport/",
       "order": 9
     },
@@ -11806,7 +11806,7 @@
       "type": "link",
       "icon": "",
       "name": "Skysport.de",
-      "desc": "",
+      "desc": "Nemecká odnož Sky Sports — Bundesliga a prenosy",
       "url": "https://sport.sky.de/",
       "order": 10
     },
@@ -11816,7 +11816,7 @@
       "type": "link",
       "icon": "",
       "name": "t-online.de",
-      "desc": "",
+      "desc": "Športová sekcia portálu t-online",
       "url": "https://www.t-online.de/sport/",
       "order": 11
     },
@@ -11826,7 +11826,7 @@
       "type": "link",
       "icon": "",
       "name": "Focus.de",
-      "desc": "",
+      "desc": "Športové správy magazínu Focus",
       "url": "https://www.focus.de/sport/",
       "order": 12
     },
@@ -11836,7 +11836,7 @@
       "type": "link",
       "icon": "",
       "name": "N-TV",
-      "desc": "",
+      "desc": "Športové spravodajstvo televízie n-tv",
       "url": "https://www.n-tv.de/sport/",
       "order": 13
     },
@@ -11846,7 +11846,7 @@
       "type": "link",
       "icon": "",
       "name": "Spiegel",
-      "desc": "",
+      "desc": "Športová sekcia magazínu Der Spiegel",
       "url": "https://www.spiegel.de/sport/",
       "order": 14
     },
@@ -11856,7 +11856,7 @@
       "type": "link",
       "icon": "",
       "name": "11freunde",
-      "desc": "",
+      "desc": "Kultový nemecký futbalový magazín o fanúšikovskej kultúre",
       "url": "https://www.11freunde.de/",
       "order": 15
     },
@@ -11866,7 +11866,7 @@
       "type": "link",
       "icon": "",
       "name": "TZ.de",
-      "desc": "",
+      "desc": "Šport z Mníchova — Bayern a TSV 1860",
       "url": "https://www.tz.de/sport/",
       "order": 16
     },
@@ -11876,7 +11876,7 @@
       "type": "link",
       "icon": "",
       "name": "LEquipe",
-      "desc": "",
+      "desc": "Najznámejší francúzsky športový denník",
       "url": "https://www.lequipe.fr/",
       "order": 0
     },
@@ -11886,7 +11886,7 @@
       "type": "link",
       "icon": "",
       "name": "RMC sport",
-      "desc": "",
+      "desc": "Športová stanica RMC — futbal a prenosy",
       "url": "https://rmcsport.bfmtv.com/",
       "order": 1
     },
@@ -11896,7 +11896,7 @@
       "type": "link",
       "icon": "",
       "name": "Foot Mercato",
-      "desc": "",
+      "desc": "Francúzsky web o prestupoch a futbale",
       "url": "https://www.footmercato.net/",
       "order": 2
     },
@@ -11906,7 +11906,7 @@
       "type": "link",
       "icon": "",
       "name": "Eurosport France",
-      "desc": "",
+      "desc": "Francúzska verzia Eurosportu",
       "url": "https://www.eurosport.fr/",
       "order": 3
     },
@@ -11916,7 +11916,7 @@
       "type": "link",
       "icon": "",
       "name": "BeIN sports France",
-      "desc": "",
+      "desc": "Francúzska športová televízia beIN Sports",
       "url": "https://www.beinsports.com/fr-fr",
       "order": 4
     },
@@ -11926,7 +11926,7 @@
       "type": "link",
       "icon": "",
       "name": "Le Figaro sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Le Figaro",
       "url": "https://www.lefigaro.fr/sports",
       "order": 5
     },
@@ -11936,7 +11936,7 @@
       "type": "link",
       "icon": "",
       "name": "Le Monde sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Le Monde",
       "url": "https://www.lemonde.fr/sport/",
       "order": 6
     },
@@ -11946,7 +11946,7 @@
       "type": "link",
       "icon": "",
       "name": "Le Parisien sports",
-      "desc": "",
+      "desc": "Šport v denníku Le Parisien — PSG a Paríž",
       "url": "https://www.leparisien.fr/sports/",
       "order": 7
     },
@@ -11956,7 +11956,7 @@
       "type": "link",
       "icon": "",
       "name": "Liberation sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Libération",
       "url": "https://www.liberation.fr/sports/",
       "order": 8
     },
@@ -11966,7 +11966,7 @@
       "type": "link",
       "icon": "",
       "name": "La Provence sports",
-      "desc": "",
+      "desc": "Šport z Marseille a Provensálska — Olympique Marseille",
       "url": "https://www.laprovence.com/sports",
       "order": 9
     },
@@ -11976,7 +11976,7 @@
       "type": "link",
       "icon": "",
       "name": "Le Telegramme sports",
-      "desc": "",
+      "desc": "Šport z Bretónska — denník Le Télégramme",
       "url": "https://www.letelegramme.fr/sports/",
       "order": 10
     },
@@ -11986,7 +11986,7 @@
       "type": "link",
       "icon": "",
       "name": "Sud Ouest sports",
-      "desc": "",
+      "desc": "Šport z juhozápadu Francúzska — Bordeaux",
       "url": "https://www.sudouest.fr/sport/",
       "order": 11
     },
@@ -11996,7 +11996,7 @@
       "type": "link",
       "icon": "",
       "name": "La Croix sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka La Croix",
       "url": "https://www.la-croix.com/sport",
       "order": 12
     },
@@ -12006,7 +12006,7 @@
       "type": "link",
       "icon": "",
       "name": "20minutes sports",
-      "desc": "",
+      "desc": "Športové správy bezplatného denníka 20 Minutes",
       "url": "https://www.20minutes.fr/sport/",
       "order": 13
     },
@@ -12016,7 +12016,7 @@
       "type": "link",
       "icon": "",
       "name": "Franceinfo sports",
-      "desc": "",
+      "desc": "Športové spravodajstvo verejnoprávneho Franceinfo",
       "url": "https://www.franceinfo.fr/sports/",
       "order": 14
     },
@@ -12026,7 +12026,7 @@
       "type": "link",
       "icon": "",
       "name": "TF1 sports",
-      "desc": "",
+      "desc": "Športové správy televízie TF1",
       "url": "https://www.tf1info.fr/sport/",
       "order": 15
     },
@@ -12036,7 +12036,7 @@
       "type": "link",
       "icon": "",
       "name": "Canalplus sport",
-      "desc": "",
+      "desc": "Športová sekcia Canal+ — Ligue 1 a prenosy",
       "url": "https://www.canalplus.com/sport/",
       "order": 16
     },
@@ -12046,7 +12046,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport en France",
-      "desc": "",
+      "desc": "Kanál o amatérskom a olympijskom športe vo Francúzsku",
       "url": "https://sportenfrance.com/",
       "order": 17
     },
@@ -12056,7 +12056,7 @@
       "type": "link",
       "icon": "",
       "name": "France football",
-      "desc": "",
+      "desc": "Legendárny futbalový magazín — udeľuje Zlatú loptu",
       "url": "https://www.francefootball.fr/",
       "order": 18
     },
@@ -12066,7 +12066,7 @@
       "type": "link",
       "icon": "",
       "name": "Le 10sport",
-      "desc": "",
+      "desc": "Francúzsky športový web — prestupy a exkluzívne správy",
       "url": "https://le10sport.com/",
       "order": 19
     },
@@ -12076,7 +12076,7 @@
       "type": "link",
       "icon": "",
       "name": "Panorama sport",
-      "desc": "",
+      "desc": "Športová príloha albánskeho denníka Panorama",
       "url": "https://www.panorama.com.al/sport/",
       "order": 0
     },
@@ -12086,7 +12086,7 @@
       "type": "link",
       "icon": "",
       "name": "Telesport",
-      "desc": "",
+      "desc": "Albánsky športový portál — futbal a Superliga",
       "url": "https://telesport.al/",
       "order": 1
     },
@@ -12096,7 +12096,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport ekspres",
-      "desc": "",
+      "desc": "Albánsky športový web — domáci a svetový futbal",
       "url": "https://sportekspres.com/",
       "order": 2
     },
@@ -12106,7 +12106,7 @@
       "type": "link",
       "icon": "",
       "name": "Newsport",
-      "desc": "",
+      "desc": "Albánske športové správy online",
       "url": "https://newsport.al/",
       "order": 3
     },
@@ -12116,7 +12116,7 @@
       "type": "link",
       "icon": "",
       "name": "Balkanweb",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Balkanweb",
       "url": "https://www.balkanweb.com/sport/#gsc.tab=0",
       "order": 5
     },
@@ -12126,7 +12126,7 @@
       "type": "link",
       "icon": "",
       "name": "Gazeta shqiptare",
-      "desc": "",
+      "desc": "Športová rubrika denníka Gazeta Shqiptare",
       "url": "https://gazetashqiptare.al/category/sport/",
       "order": 6
     },
@@ -12136,7 +12136,7 @@
       "type": "link",
       "icon": "",
       "name": "Top channel sport",
-      "desc": "",
+      "desc": "Šport najsledovanejšej albánskej televízie Top Channel",
       "url": "https://top-channel.tv/sport/",
       "order": 7
     },
@@ -12146,7 +12146,7 @@
       "type": "link",
       "icon": "",
       "name": "RTSH sport",
-      "desc": "",
+      "desc": "Šport albánskej verejnoprávnej televízie RTSH",
       "url": "https://rtsh.al/kategoria/sport/",
       "order": 7
     },
@@ -12156,7 +12156,7 @@
       "type": "link",
       "icon": "",
       "name": "Shqip sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Shqip",
       "url": "https://shqip.com/category/sport/",
       "order": 8
     },
@@ -12166,7 +12166,7 @@
       "type": "link",
       "icon": "",
       "name": "Shqiptarja sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Shqiptarja",
       "url": "https://shqiptarja.com/kategoria/sport",
       "order": 9
     },
@@ -12176,7 +12176,7 @@
       "type": "link",
       "icon": "",
       "name": "Syri.net sport",
-      "desc": "",
+      "desc": "Športové správy portálu Syri.net",
       "url": "https://www.syri.net/sport/",
       "order": 10
     },
@@ -12186,7 +12186,7 @@
       "type": "link",
       "icon": "",
       "name": "CNA sport",
-      "desc": "",
+      "desc": "Športová rubrika spravodajského portálu CNA",
       "url": "https://www.cna.al/sport",
       "order": 11
     },
@@ -12196,7 +12196,7 @@
       "type": "link",
       "icon": "",
       "name": "Andorra Esportiu",
-      "desc": "",
+      "desc": "Andorrský športový portál",
       "url": "https://www.andorraesportiu.com/",
       "order": 0
     },
@@ -12206,7 +12206,7 @@
       "type": "link",
       "icon": "",
       "name": "Diary dAndorra",
-      "desc": "",
+      "desc": "Športová sekcia denníka Diari d'Andorra",
       "url": "https://www.diariandorra.ad/esports/",
       "order": 1
     },
@@ -12216,7 +12216,7 @@
       "type": "link",
       "icon": "",
       "name": "RTVA sports",
-      "desc": "",
+      "desc": "Šport andorrskej verejnoprávnej televízie RTVA",
       "url": "https://www.rtva.ad/esports",
       "order": 2
     },
@@ -12226,7 +12226,7 @@
       "type": "link",
       "icon": "",
       "name": "El Periodic sports",
-      "desc": "",
+      "desc": "Športová rubrika El Periòdic d'Andorra",
       "url": "https://elperiodic.ad/categories/esports/",
       "order": 3
     },
@@ -12236,7 +12236,7 @@
       "type": "link",
       "icon": "",
       "name": "Bondia sports",
-      "desc": "",
+      "desc": "Športové správy bezplatného denníka Bondia",
       "url": "https://www.bondia.ad/esports",
       "order": 4
     },
@@ -12246,7 +12246,7 @@
       "type": "link",
       "icon": "",
       "name": "Altaveu sports",
-      "desc": "",
+      "desc": "Športová rubrika portálu Altaveu",
       "url": "https://www.altaveu.com/actualitat/esport",
       "order": 5
     },
@@ -12256,7 +12256,7 @@
       "type": "link",
       "icon": "",
       "name": "Pressball",
-      "desc": "",
+      "desc": "Najväčší bieloruský športový web — hokej a futbal",
       "url": "https://pressball.by/",
       "order": 0
     },
@@ -12266,7 +12266,7 @@
       "type": "link",
       "icon": "",
       "name": "Tribuna",
-      "desc": "",
+      "desc": "Bieloruská verzia športového portálu Tribuna",
       "url": "https://by.tribuna.com/",
       "order": 1
     },
@@ -12276,7 +12276,7 @@
       "type": "link",
       "icon": "",
       "name": "Football",
-      "desc": "",
+      "desc": "Bieloruský futbalový portál Football.by",
       "url": "https://football.by/",
       "order": 2
     },
@@ -12286,7 +12286,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport5",
-      "desc": "",
+      "desc": "Bieloruský športový spravodajský web",
       "url": "https://sport5.by/",
       "order": 3
     },
@@ -12296,7 +12296,7 @@
       "type": "link",
       "icon": "",
       "name": "Belta",
-      "desc": "",
+      "desc": "Šport štátnej tlačovej agentúry BELTA",
       "url": "https://belta.by/sport/",
       "order": 4
     },
@@ -12306,7 +12306,7 @@
       "type": "link",
       "icon": "",
       "name": "SB",
-      "desc": "",
+      "desc": "Športová rubrika denníka SB — Belarus segodňa",
       "url": "https://www.sb.by/articles/main_sport/",
       "order": 5
     },
@@ -12316,7 +12316,7 @@
       "type": "link",
       "icon": "",
       "name": "ONT sport",
-      "desc": "",
+      "desc": "Šport bieloruskej televízie ONT",
       "url": "https://ont.by/ru/sport-ru/",
       "order": 6
     },
@@ -12326,7 +12326,7 @@
       "type": "link",
       "icon": "",
       "name": "Tochka sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Tochka.by",
       "url": "https://tochka.by/articles/sport/",
       "order": 7
     },
@@ -12336,7 +12336,7 @@
       "type": "link",
       "icon": "",
       "name": "Nashaniva sport",
-      "desc": "",
+      "desc": "Šport nezávislého denníka Naša Niva",
       "url": "https://nashaniva.com/ca/566/",
       "order": 8
     },
@@ -12346,7 +12346,7 @@
       "type": "link",
       "icon": "",
       "name": "Minsk news sport",
-      "desc": "",
+      "desc": "Športové správy z Minska — agentúra Minsk-Novosti",
       "url": "https://minsknews.by/news-list/sport/",
       "order": 9
     },
@@ -12356,7 +12356,7 @@
       "type": "link",
       "icon": "",
       "name": "Novychas sport",
-      "desc": "",
+      "desc": "Športová rubrika nezávislého denníka Novy čas",
       "url": "https://novychas.org/category/sport",
       "order": 10
     },
@@ -12366,7 +12366,7 @@
       "type": "link",
       "icon": "",
       "name": "VB sport",
-      "desc": "",
+      "desc": "Šport denníka Večerný Brest",
       "url": "https://vb.by/sport",
       "order": 11
     },
@@ -12376,7 +12376,7 @@
       "type": "link",
       "icon": "",
       "name": "AIF sport",
-      "desc": "",
+      "desc": "Športová rubrika Argumenty i fakty Belarus",
       "url": "https://aif.by/timefree/sport",
       "order": 12
     },
@@ -12386,7 +12386,7 @@
       "type": "link",
       "icon": "",
       "name": "KP sport",
-      "desc": "",
+      "desc": "Šport bieloruskej Komsomoľskej pravdy",
       "url": "https://www.belarus.kp.ru/sport/",
       "order": 13
     },
@@ -12396,7 +12396,7 @@
       "type": "link",
       "icon": "",
       "name": "Sporza",
-      "desc": "",
+      "desc": "Športový portál flámskej verejnoprávnej VRT",
       "url": "https://sporza.be/nl/",
       "order": 0
     },
@@ -12406,7 +12406,7 @@
       "type": "link",
       "icon": "",
       "name": "RTBF sport",
-      "desc": "",
+      "desc": "Šport frankofónnej verejnoprávnej RTBF",
       "url": "https://www.rtbf.be/sport",
       "order": 1
     },
@@ -12416,7 +12416,7 @@
       "type": "link",
       "icon": "",
       "name": "HLN sport",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho flámskeho denníka HLN",
       "url": "https://www.hln.be/sport/",
       "order": 2
     },
@@ -12426,7 +12426,7 @@
       "type": "link",
       "icon": "",
       "name": "DHnet sport",
-      "desc": "",
+      "desc": "Šport frankofónneho denníka La Dernière Heure",
       "url": "https://www.dhnet.be/sports/",
       "order": 3
     },
@@ -12436,7 +12436,7 @@
       "type": "link",
       "icon": "",
       "name": "Nieuwsblad sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Het Nieuwsblad — silná cyklistika",
       "url": "https://www.nieuwsblad.be/sport/",
       "order": 4
     },
@@ -12446,7 +12446,7 @@
       "type": "link",
       "icon": "",
       "name": "Lesoir sport",
-      "desc": "",
+      "desc": "Športová sekcia bruselského denníka Le Soir",
       "url": "https://www.lesoir.be/13/sections/sports",
       "order": 5
     },
@@ -12456,7 +12456,7 @@
       "type": "link",
       "icon": "",
       "name": "Voetbalkrant",
-      "desc": "",
+      "desc": "Flámsky futbalový web — belgická liga",
       "url": "https://www.voetbalkrant.com/",
       "order": 6
     },
@@ -12466,7 +12466,7 @@
       "type": "link",
       "icon": "",
       "name": "Walfoot",
-      "desc": "",
+      "desc": "Frankofónny web o belgickom futbale",
       "url": "https://www.walfoot.be/",
       "order": 7
     },
@@ -12476,7 +12476,7 @@
       "type": "link",
       "icon": "",
       "name": "De Morgen sport",
-      "desc": "",
+      "desc": "Športová sekcia flámskeho denníka De Morgen",
       "url": "https://www.demorgen.be/sport/",
       "order": 8
     },
@@ -12486,7 +12486,7 @@
       "type": "link",
       "icon": "",
       "name": "GVA sport",
-      "desc": "",
+      "desc": "Šport antverpského denníka Gazet van Antwerpen",
       "url": "https://www.gva.be/sport/",
       "order": 9
     },
@@ -12496,7 +12496,7 @@
       "type": "link",
       "icon": "",
       "name": "Sudinfo sport",
-      "desc": "",
+      "desc": "Šport valónskeho vydavateľstva Sudinfo",
       "url": "https://www.sudinfo.be/2020/sections/sport",
       "order": 10
     },
@@ -12506,7 +12506,7 @@
       "type": "link",
       "icon": "",
       "name": "La Libre sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka La Libre Belgique",
       "url": "https://www.lalibre.be/sports/",
       "order": 11
     },
@@ -12516,7 +12516,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportsport",
-      "desc": "",
+      "desc": "Najväčší bosniansky športový portál",
       "url": "https://sportsport.ba/",
       "order": 0
     },
@@ -12526,7 +12526,7 @@
       "type": "link",
       "icon": "",
       "name": "SCsport",
-      "desc": "",
+      "desc": "Bosniansky športový web SCsport",
       "url": "https://scsport.raport.ba/",
       "order": 1
     },
@@ -12536,7 +12536,7 @@
       "type": "link",
       "icon": "",
       "name": "Reprezentacija",
-      "desc": "",
+      "desc": "Web o bosnianskej futbalovej reprezentácii",
       "url": "https://reprezentacija.ba/",
       "order": 2
     },
@@ -12546,7 +12546,7 @@
       "type": "link",
       "icon": "",
       "name": "Oslobodjenje",
-      "desc": "",
+      "desc": "Športová sekcia sarajevského denníka Oslobođenje",
       "url": "https://www.oslobodjenje.ba/sport/",
       "order": 3
     },
@@ -12556,7 +12556,7 @@
       "type": "link",
       "icon": "",
       "name": "Klix sport",
-      "desc": "",
+      "desc": "Šport najčítanejšieho bosnianskeho portálu Klix",
       "url": "https://www.klix.ba/sport",
       "order": 4
     },
@@ -12566,7 +12566,7 @@
       "type": "link",
       "icon": "",
       "name": "Avaz sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Dnevni avaz",
       "url": "https://avaz.ba/sport",
       "order": 5
     },
@@ -12576,7 +12576,7 @@
       "type": "link",
       "icon": "",
       "name": "Mondo sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Mondo.ba",
       "url": "https://mondo.ba/Sport",
       "order": 6
     },
@@ -12586,7 +12586,7 @@
       "type": "link",
       "icon": "",
       "name": "SportDC",
-      "desc": "",
+      "desc": "Športový portál z Republiky srbskej",
       "url": "https://www.sportdc.net/#google_vignette",
       "order": 7
     },
@@ -12596,7 +12596,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportske",
-      "desc": "",
+      "desc": "Bosniansky športový spravodajský web",
       "url": "https://sportske.ba/",
       "order": 8
     },
@@ -12606,7 +12606,7 @@
       "type": "link",
       "icon": "",
       "name": "Meridiansport",
-      "desc": "",
+      "desc": "Bosnianska mutácia portálu Meridian sport",
       "url": "https://meridiansport.ba/",
       "order": 9
     },
@@ -12616,7 +12616,7 @@
       "type": "link",
       "icon": "",
       "name": "Arena sport",
-      "desc": "",
+      "desc": "Web športovej televízie Arena Sport BiH",
       "url": "https://tvarenasport.ba/",
       "order": 10
     },
@@ -12626,7 +12626,7 @@
       "type": "link",
       "icon": "",
       "name": "Bljesak sport",
-      "desc": "",
+      "desc": "Športová rubrika mostarského portálu Bljesak",
       "url": "https://bljesak.info/sport",
       "order": 11
     },
@@ -12636,7 +12636,7 @@
       "type": "link",
       "icon": "",
       "name": "Hercegovina sport",
-      "desc": "",
+      "desc": "Šport z Hercegoviny — portál Hercegovina.in",
       "url": "https://hercegovina.in/kategorija/sport/",
       "order": 12
     },
@@ -12646,7 +12646,7 @@
       "type": "link",
       "icon": "",
       "name": "Faktor sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Faktor",
       "url": "https://faktor.ba/sport",
       "order": 13
     },
@@ -12656,7 +12656,7 @@
       "type": "link",
       "icon": "",
       "name": "Jutarnji sport",
-      "desc": "",
+      "desc": "Športová sekcia chorvátskeho denníka Jutarnji list",
       "url": "https://www.jutarnji.hr/sportske?cx_linkref=jl_menu_sport",
       "order": 14
     },
@@ -12666,7 +12666,7 @@
       "type": "link",
       "icon": "",
       "name": "Nezavisne sport",
-      "desc": "",
+      "desc": "Šport banjaluckého denníka Nezavisne novine",
       "url": "https://www.nezavisne.com/sport",
       "order": 15
     },
@@ -12676,7 +12676,7 @@
       "type": "link",
       "icon": "",
       "name": "Sarajevo times sport",
-      "desc": "",
+      "desc": "Správy o bosnianskom športe v angličtine",
       "url": "https://sarajevotimes.com/category/sport/",
       "order": 16
     },
@@ -12686,7 +12686,7 @@
       "type": "link",
       "icon": "",
       "name": "Vijesti sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Vijesti.ba",
       "url": "https://www.vijesti.ba/kategorija/sport",
       "order": 17
     },
@@ -12696,7 +12696,7 @@
       "type": "link",
       "icon": "",
       "name": "Glass srpske sport",
-      "desc": "",
+      "desc": "Šport denníka Glas Srpske z Banja Luky",
       "url": "https://www.glassrpske.com/lat/sport",
       "order": 18
     },
@@ -12706,7 +12706,7 @@
       "type": "link",
       "icon": "",
       "name": "Vecernji list sport",
-      "desc": "",
+      "desc": "Šport bosnianskeho vydania Večernjeho listu",
       "url": "https://www.vecernji.ba/sport",
       "order": 19
     },
@@ -12716,7 +12716,7 @@
       "type": "link",
       "icon": "",
       "name": "N1 sport",
-      "desc": "",
+      "desc": "Šport spravodajskej televízie N1 BiH",
       "url": "https://n1info.ba/sport",
       "order": 20
     },
@@ -12726,7 +12726,7 @@
       "type": "link",
       "icon": "",
       "name": "Federalna sport",
-      "desc": "",
+      "desc": "Šport Federálnej televízie BiH",
       "url": "https://federalna.ba/category/sport",
       "order": 21
     },
@@ -12736,7 +12736,7 @@
       "type": "link",
       "icon": "",
       "name": "RTRS sport",
-      "desc": "",
+      "desc": "Šport televízie Republiky srbskej RTRS",
       "url": "https://www.rtrs.tv/vijesti/index.php?id=2",
       "order": 22
     },
@@ -12746,7 +12746,7 @@
       "type": "link",
       "icon": "",
       "name": "Radio Sarajevo sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Radio Sarajevo",
       "url": "https://radiosarajevo.ba/sport",
       "order": 23
     },
@@ -12756,7 +12756,7 @@
       "type": "link",
       "icon": "",
       "name": "Krajina sport",
-      "desc": "",
+      "desc": "Šport z Bosnianskej krajiny — portál Krajina.ba",
       "url": "https://krajina.ba/kategorija/sport/#google_vignette",
       "order": 24
     },
@@ -12766,7 +12766,7 @@
       "type": "link",
       "icon": "",
       "name": "Dnevnik sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Dnevnik.ba",
       "url": "https://www.dnevnik.ba/sport/",
       "order": 25
     },
@@ -12776,7 +12776,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportal",
-      "desc": "",
+      "desc": "Najväčší bulharský športový portál",
       "url": "https://sportal.bg/",
       "order": 0
     },
@@ -12786,7 +12786,7 @@
       "type": "link",
       "icon": "",
       "name": "Gong",
-      "desc": "",
+      "desc": "Bulharský športový web — futbal a stávky",
       "url": "https://gong.bg/",
       "order": 1
     },
@@ -12796,7 +12796,7 @@
       "type": "link",
       "icon": "",
       "name": "Dsport",
-      "desc": "",
+      "desc": "Bulharský športový portál Dsport",
       "url": "https://dsport.bg/",
       "order": 2
     },
@@ -12806,7 +12806,7 @@
       "type": "link",
       "icon": "",
       "name": "Topsport",
-      "desc": "",
+      "desc": "Bulharské športové správy a výsledky",
       "url": "https://topsport.bg/",
       "order": 3
     },
@@ -12816,7 +12816,7 @@
       "type": "link",
       "icon": "",
       "name": "Gol",
-      "desc": "",
+      "desc": "Bulharský futbalový web Gol.bg",
       "url": "https://www.gol.bg/",
       "order": 4
     },
@@ -12826,7 +12826,7 @@
       "type": "link",
       "icon": "",
       "name": "Novsport",
-      "desc": "",
+      "desc": "Bulharský športový spravodajský web",
       "url": "https://www.novsport.com/",
       "order": 5
     },
@@ -12836,7 +12836,7 @@
       "type": "link",
       "icon": "",
       "name": "BNT sport",
-      "desc": "",
+      "desc": "Šport bulharskej verejnoprávnej televízie BNT",
       "url": "https://bntnews.bg/sport",
       "order": 6
     },
@@ -12846,7 +12846,7 @@
       "type": "link",
       "icon": "",
       "name": "bTV sport",
-      "desc": "",
+      "desc": "Športová redakcia televízie bTV",
       "url": "https://btvsport.bg/",
       "order": 7
     },
@@ -12856,7 +12856,7 @@
       "type": "link",
       "icon": "",
       "name": "24chasa sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka 24 časa",
       "url": "https://www.24chasa.bg/sport",
       "order": 8
     },
@@ -12866,7 +12866,7 @@
       "type": "link",
       "icon": "",
       "name": "Trud sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Trud",
       "url": "https://trud.bg/a/category/%D1%81%D0%BF%D0%BE%D1%80%D1%82",
       "order": 9
     },
@@ -12876,7 +12876,7 @@
       "type": "link",
       "icon": "",
       "name": "Dnevnik sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Dnevnik.bg",
       "url": "https://www.dnevnik.bg/sport/",
       "order": 10
     },
@@ -12886,7 +12886,7 @@
       "type": "link",
       "icon": "",
       "name": "Telegraph sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Telegraf",
       "url": "https://telegraph.bg/sport",
       "order": 11
     },
@@ -12896,7 +12896,7 @@
       "type": "link",
       "icon": "",
       "name": "7sport",
-      "desc": "",
+      "desc": "Bulharský športový web 7sport",
       "url": "https://7sport.net/",
       "order": 12
     },
@@ -12906,7 +12906,7 @@
       "type": "link",
       "icon": "",
       "name": "Actualno sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Actualno",
       "url": "https://www.actualno.com/sport",
       "order": 13
     },
@@ -12916,7 +12916,7 @@
       "type": "link",
       "icon": "",
       "name": "Dnes sport",
-      "desc": "",
+      "desc": "Športové správy portálu Dnes.bg",
       "url": "https://www.dnes.bg/c/9-sport",
       "order": 14
     },
@@ -12926,7 +12926,7 @@
       "type": "link",
       "icon": "",
       "name": "BTA sport",
-      "desc": "",
+      "desc": "Šport bulharskej tlačovej agentúry BTA",
       "url": "https://www.bta.bg/en/news/sport",
       "order": 15
     },
@@ -12936,7 +12936,7 @@
       "type": "link",
       "icon": "",
       "name": "Marica sport",
-      "desc": "",
+      "desc": "Šport plovdivského denníka Marica",
       "url": "https://www.marica.bg/sport",
       "order": 16
     },
@@ -12946,7 +12946,7 @@
       "type": "link",
       "icon": "",
       "name": "Duma sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Duma",
       "url": "https://www.duma.bg/?go=news&p=list&categoryId=7",
       "order": 17
     },
@@ -12956,7 +12956,7 @@
       "type": "link",
       "icon": "",
       "name": "Plovdiv24 sport",
-      "desc": "",
+      "desc": "Športové správy z Plovdivu",
       "url": "https://www.plovdiv24.bg/sport",
       "order": 18
     },
@@ -12966,7 +12966,7 @@
       "type": "link",
       "icon": "",
       "name": "Petel sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Petel",
       "url": "https://petel.bg/novini/Sport-__28",
       "order": 19
     },
@@ -12976,7 +12976,7 @@
       "type": "link",
       "icon": "",
       "name": "BGbasket",
-      "desc": "",
+      "desc": "Bulharský basketbalový portál",
       "url": "https://bgbasket.com/",
       "order": 20
     },
@@ -12986,7 +12986,7 @@
       "type": "link",
       "icon": "",
       "name": "Segabg sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Sega",
       "url": "https://www.segabg.com/sport",
       "order": 21
     },
@@ -12996,7 +12996,7 @@
       "type": "link",
       "icon": "",
       "name": "Topnovini sport",
-      "desc": "",
+      "desc": "Športové správy portálu Topnovini",
       "url": "https://www.topnovini.com/sports",
       "order": 22
     },
@@ -13006,7 +13006,7 @@
       "type": "link",
       "icon": "",
       "name": "Temasport",
-      "desc": "",
+      "desc": "Bulharský športový web Temasport",
       "url": "https://temasport.com/",
       "order": 23
     },
@@ -13016,7 +13016,7 @@
       "type": "link",
       "icon": "",
       "name": "Standart sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Standart",
       "url": "https://www.standartnews.com/sport.html",
       "order": 24
     },
@@ -13026,7 +13026,7 @@
       "type": "link",
       "icon": "",
       "name": "Fakti sport",
-      "desc": "",
+      "desc": "Športová rubrika portálu Fakti",
       "url": "https://fakti.bg/sport",
       "order": 25
     },
@@ -13036,7 +13036,7 @@
       "type": "link",
       "icon": "",
       "name": "Blitz sport",
-      "desc": "",
+      "desc": "Športové správy portálu Blitz",
       "url": "https://blitz.bg/sport",
       "order": 26
     },
@@ -13170,6 +13170,386 @@
       "desc": "Nacionalinė ledo ritulio lyga — najvyššia litovská liga",
       "url": "https://www.hockey.lt/index.php/rezultatai",
       "order": 28
+    },
+    {
+      "id": "n1783662184023dip",
+      "parentId": "f_bas_sut",
+      "type": "link",
+      "icon": "",
+      "name": "FIBA",
+      "desc": "",
+      "url": "https://www.fiba.basketball/en",
+      "order": 0
+    },
+    {
+      "id": "n1783687898157yfj",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Vijesti sport",
+      "desc": "Šport najčítanejšieho čiernohorského denníka Vijesti",
+      "url": "https://www.vijesti.me/sport",
+      "order": 0
+    },
+    {
+      "id": "n1783687924870uf2",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "RTCG sport",
+      "desc": "Šport čiernohorskej verejnoprávnej RTCG",
+      "url": "https://rtcg.me/sport.html",
+      "order": 1
+    },
+    {
+      "id": "n1783687946046cwg",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "CdM sport",
+      "desc": "Športová rubrika portálu Cafe del Montenegro",
+      "url": "https://www.cdm.me/sport/",
+      "order": 2
+    },
+    {
+      "id": "n1783687969181dw2",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Pobjeda sport",
+      "desc": "Športová sekcia denníka Pobjeda",
+      "url": "https://www.pobjeda.me/sport",
+      "order": 3
+    },
+    {
+      "id": "n1783688667579zlx",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Dan sport",
+      "desc": "Športová sekcia denníka Dan",
+      "url": "https://www.dan.co.me/sport/",
+      "order": 4
+    },
+    {
+      "id": "n17836886983313ma",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Portalanalitika sport",
+      "desc": "Športová rubrika Portal Analitika",
+      "url": "https://www.portalanalitika.me/sport",
+      "order": 5
+    },
+    {
+      "id": "n1783688726429g47",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Antena M sport",
+      "desc": "Športové správy rádia Antena M",
+      "url": "https://www.antenam.net/sport",
+      "order": 6
+    },
+    {
+      "id": "n1783688751249ukj",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Sportski",
+      "desc": "Čiernohorský športový portál Sportski.me",
+      "url": "https://sportski.me/",
+      "order": 7
+    },
+    {
+      "id": "n1783688774898wwm",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Lobsport",
+      "desc": "Čiernohorský športový web Lobsport",
+      "url": "https://lobsport.me/",
+      "order": 8
+    },
+    {
+      "id": "n17836888009424r5",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "CG Sport",
+      "desc": "Čiernohorské športové správy CG Sport",
+      "url": "https://cgsport.me/",
+      "order": 9
+    },
+    {
+      "id": "n1783688825927pzh",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Meridian Sport",
+      "desc": "Čiernohorská mutácia portálu Meridian sport",
+      "url": "https://meridiansport.me/",
+      "order": 10
+    },
+    {
+      "id": "n1783688849206ii2",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Sportfem",
+      "desc": "Portál o ženskom športe v Čiernej Hore",
+      "url": "https://sportfem.me/",
+      "order": 11
+    },
+    {
+      "id": "n17836889464239r2",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Borba sport",
+      "desc": "Športová rubrika portálu Borba",
+      "url": "https://borba.me/sport/",
+      "order": 12
+    },
+    {
+      "id": "n1783688969311gtt",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "M Portal sport",
+      "desc": "Športové správy M Portalu",
+      "url": "https://www.mportal.me/sport",
+      "order": 13
+    },
+    {
+      "id": "n1783688997930kwr",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Aktuelno sport",
+      "desc": "Športová rubrika portálu Aktuelno",
+      "url": "https://www.aktuelno.me/en/sport",
+      "order": 14
+    },
+    {
+      "id": "n1783689051653734",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Gradski sport",
+      "desc": "Športové správy portálu Gradski.me",
+      "url": "https://gradski.me/category/sport/",
+      "order": 15
+    },
+    {
+      "id": "n1783689076452wfv",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Standart sport",
+      "desc": "Športová rubrika portálu Standard.co.me",
+      "url": "https://standard.co.me/sport",
+      "order": 16
+    },
+    {
+      "id": "n1783689174772m3u",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "MINA sport",
+      "desc": "Šport čiernohorskej tlačovej agentúry MINA",
+      "url": "https://mina.news/category/sport-paket",
+      "order": 17
+    },
+    {
+      "id": "n1783689218906460",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Press sport",
+      "desc": "Športová rubrika portálu Press.co.me",
+      "url": "https://press.co.me/category/sport/",
+      "order": 18
+    },
+    {
+      "id": "n1783689270423u10",
+      "parentId": "f_med_eu_me",
+      "type": "link",
+      "icon": "",
+      "name": "Kurir sport",
+      "desc": "Šport srbského denníka Kurir",
+      "url": "https://www.kurir.rs/sport",
+      "order": 19
+    },
+    {
+      "id": "n1783689590637fce",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Bold",
+      "desc": "Dánsky futbalový web — Superliga a prestupy",
+      "url": "https://bold.dk/",
+      "order": 0
+    },
+    {
+      "id": "n17836896220468tk",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Tipsbladet",
+      "desc": "Tradičný dánsky futbalový magazín",
+      "url": "https://www.tipsbladet.dk/",
+      "order": 1
+    },
+    {
+      "id": "n17836896443516g5",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "DR Sporten",
+      "desc": "Šport dánskej verejnoprávnej televízie DR",
+      "url": "https://www.dr.dk/sporten",
+      "order": 2
+    },
+    {
+      "id": "n1783689666720zrn",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "TV 2 Sport",
+      "desc": "Športová redakcia dánskej TV 2",
+      "url": "https://sport.tv2.dk/",
+      "order": 3
+    },
+    {
+      "id": "n1783689698306gku",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Ekstrabladet sport",
+      "desc": "Športová sekcia bulvárneho Ekstra Bladet",
+      "url": "https://ekstrabladet.dk/sport/",
+      "order": 4
+    },
+    {
+      "id": "n1783689726355iiq",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "B.T. Sport",
+      "desc": "Športová sekcia denníka B.T.",
+      "url": "https://www.bt.dk/sport",
+      "order": 5
+    },
+    {
+      "id": "n17836897643921ol",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Jyllands-posten sport",
+      "desc": "Športová sekcia denníka Jyllands-Posten",
+      "url": "https://jyllands-posten.dk/sport",
+      "order": 6
+    },
+    {
+      "id": "n1783689796524a1s",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Berlingske sport",
+      "desc": "Športová sekcia denníka Berlingske",
+      "url": "https://www.berlingske.dk/sport",
+      "order": 7
+    },
+    {
+      "id": "n1783689822827j3p",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Politiken sport",
+      "desc": "Športová sekcia denníka Politiken",
+      "url": "https://politiken.dk/sport/",
+      "order": 8
+    },
+    {
+      "id": "n1783689852513fxa",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Nordjyske sport",
+      "desc": "Šport zo severného Jutska — Nordjyske",
+      "url": "https://nordjyske.dk/nyheder/sport",
+      "order": 9
+    },
+    {
+      "id": "n1783689893231udo",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Stiften sport",
+      "desc": "Šport denníka Aarhus Stiftstidende",
+      "url": "https://stiften.dk/sport",
+      "order": 10
+    },
+    {
+      "id": "n1783689918518lsn",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Fyens sport",
+      "desc": "Šport denníka Fyens Stiftstidende — Odense",
+      "url": "https://fyens.dk/sport",
+      "order": 11
+    },
+    {
+      "id": "n17836899423837cq",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "SN sport",
+      "desc": "Športové správy zo Sjællandu — SN.dk",
+      "url": "https://www.sn.dk/sport/",
+      "order": 12
+    },
+    {
+      "id": "n1783689966379svx",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Campo",
+      "desc": "Dánsky futbalový web Campo",
+      "url": "https://campo.dk/",
+      "order": 13
+    },
+    {
+      "id": "n1783689989800vp9",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Indkast",
+      "desc": "Dánsky futbalový web Indkast",
+      "url": "https://indkast.dk/",
+      "order": 14
+    },
+    {
+      "id": "n1783690128180pks",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "HSFO sport",
+      "desc": "Šport denníka Horsens Folkeblad",
+      "url": "https://hsfo.dk/sport",
+      "order": 15
+    },
+    {
+      "id": "n1783690214000cm8",
+      "parentId": "f_med_eu_dk",
+      "type": "link",
+      "icon": "",
+      "name": "Amtsavisen sport",
+      "desc": "Šport denníka Randers Amtsavis",
+      "url": "https://amtsavisen.dk/sport",
+      "order": 16
     }
   ]
 }
