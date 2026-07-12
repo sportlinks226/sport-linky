@@ -79,7 +79,7 @@ header{
 
 /* ===== BANNER ===== */
 .banner-wrap{
-  padding:14px 24px 0;display:flex;justify-content:center;align-items:center;gap:10px;
+  padding:14px 24px 0;display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;
 }
 .banner-slot{
   width:468px;height:60px;max-width:100%;
@@ -355,9 +355,10 @@ footer{
   #adminBar .btn{padding:6px 10px;font-size:0.72rem}
   #adminBar span{display:none}
 
-  /* Banner na mobile */
+  /* Banner na mobile — druhý slot je skrytý, viditeľný je len slot 1 */
   .banner-wrap{padding:10px 14px 0}
   .banner-slot{height:50px}
+  #bannerSlot2{display:none}
 
   /* Aktualne na mobile */
   #aktualneWrap{padding:10px 14px 0;position:relative}
@@ -404,9 +405,12 @@ footer{
 <!-- BREADCRUMB -->
 <div id="breadcrumb"></div>
 
-<!-- BANNER 468x60 -->
+<!-- BANNERY 2× 468x60 — slot 2 sa na mobile skrýva -->
 <div class="banner-wrap">
   <div class="banner-slot" id="bannerSlot">
+    <div class="banner-placeholder">📢 Banner 468 × 60</div>
+  </div>
+  <div class="banner-slot" id="bannerSlot2">
     <div class="banner-placeholder">📢 Banner 468 × 60</div>
   </div>
   <button class="banner-edit-btn" onclick="openBannerFarm()">🖼️ Bannery</button>
@@ -480,10 +484,10 @@ footer{
 <div class="mo" id="aktualneEditMo">
   <div class="mo-box">
     <h3 id="aktEditTitle">Pridať aktuálnu linku</h3>
-    <div class="fg"><label>Emoji ikona</label><input type="text" id="aIcon" placeholder="🏒" maxlength="4"/></div>
-    <div class="fg"><label>Názov *</label><input type="text" id="aName" placeholder="napr. MS v hokeji 2025"/></div>
     <div class="fg"><label>URL *</label><input type="url" id="aUrl" placeholder="https://..."/></div>
+    <div class="fg"><label>Názov *</label><input type="text" id="aName" placeholder="napr. MS v hokeji 2025"/></div>
     <div class="fg"><label>Platné do (nepovinné — po tomto dni sa linka verejnosti sama skryje)</label><input type="date" id="aEnd"/></div>
+    <div class="fg"><label>Emoji ikona</label><input type="text" id="aIcon" placeholder="🏒" maxlength="4"/></div>
     <div class="mo-acts">
       <button class="btn btn-s" onclick="closeMo('aktualneEditMo')">Zrušiť</button>
       <button class="btn btn-p" onclick="saveAkt()">Uložiť</button>
@@ -499,6 +503,7 @@ footer{
     <div class="fg"><label>URL obrázka bannera *</label><input type="url" id="bImg" placeholder="https://partner.com/banner.jpg"/></div>
     <div class="fg"><label>Cieľová URL (kam vedie klik) *</label><input type="url" id="bLink" placeholder="https://partner.com/affiliate?id=..."/></div>
     <div class="fg"><label>Alt text (pre SEO)</label><input type="text" id="bAlt" placeholder="Reklama – Partner"/></div>
+    <div class="fg"><label>Slot (pozícia na stránke)</label><select id="bSlot"><option value="1">1️⃣ Slot 1 (vľavo — vidno aj na mobile)</option><option value="2">2️⃣ Slot 2 (vpravo — len počítač)</option></select></div>
     <div class="fg"><label>Zobrazovať v sekcii</label><select id="bSection"><option value="">🌐 Celý web</option></select></div>
     <div style="display:flex;gap:8px">
       <div class="fg" style="flex:1"><label>Kampaň od (nepovinné)</label><input type="date" id="bFrom"/></div>
@@ -13651,19 +13656,18 @@ function bannerSectionOk(b, folderId){
   }
   return false;                                // root (null) alebo iná sekcia
 }
-// Bannery, ktoré sa smú práve teraz a práve tu zobraziť
-function eligibleBanners(){
-  return (DB.banners||[]).filter(b=>b.active!==false && bannerDateOk(b) && bannerSectionOk(b, curId));
+// Bannery, ktoré sa smú práve teraz a práve tu zobraziť (filtrované podľa slotu 1/2)
+function bannerSlotNum(b){ return b.slot===2 || b.slot==='2' ? 2 : 1; }
+function eligibleBanners(slotNum){
+  return (DB.banners||[]).filter(b=>b.active!==false && bannerSlotNum(b)===slotNum && bannerDateOk(b) && bannerSectionOk(b, curId));
 }
 function bannerWeight(b){ return Math.max(1, Math.min(10, parseInt(b.weight)||1)); }
 
-function renderBannerSlot(){
-  if(!DB.banners) DB.banners = [];
-  if(!DB.bannerSettings) DB.bannerSettings = { rotate:false, interval:30, activeId:null };
-  const slot = document.getElementById('bannerSlot');
-  const banners = eligibleBanners();
+// Vykreslí jeden slot — každý slot rotuje len svoje vlastné bannery
+function renderOneSlot(el, slotNum){
+  const banners = eligibleBanners(slotNum);
   if(!banners.length){
-    slot.innerHTML = '<div class="banner-placeholder">📢 Banner 468 × 60</div>';
+    el.innerHTML = '<div class="banner-placeholder">📢 Banner 468 × 60</div>';
     return;
   }
   let banner;
@@ -13677,12 +13681,19 @@ function renderBannerSlot(){
     banner = banners.find(b=>b.id===DB.bannerSettings.activeId) || banners[0];
   }
   if(banner.html){
-    slot.innerHTML = banner.html;
+    el.innerHTML = banner.html;
   } else {
-    slot.innerHTML = `<a href="${banner.linkUrl||'#'}" target="_blank" rel="noopener sponsored">
+    el.innerHTML = `<a href="${banner.linkUrl||'#'}" target="_blank" rel="noopener sponsored">
       <img src="${banner.imageUrl}" alt="${banner.alt||'Reklama'}" style="width:100%;height:100%;object-fit:cover;display:block"/>
     </a>`;
   }
+}
+
+function renderBannerSlot(){
+  if(!DB.banners) DB.banners = [];
+  if(!DB.bannerSettings) DB.bannerSettings = { rotate:false, interval:30, activeId:null };
+  renderOneSlot(document.getElementById('bannerSlot'), 1);
+  renderOneSlot(document.getElementById('bannerSlot2'), 2);
 }
 
 function startRotation(){
@@ -13719,6 +13730,7 @@ function renderBannerFarmGrid(){
     const isOn = b.active!==false;
     const inDate = bannerDateOk(b);
     const info = [];
+    info.push(bannerSlotNum(b)===2 ? '2️⃣ Slot 2' : '1️⃣ Slot 1');
     if(b.sectionId){ const s=DB.nodes.find(n=>n.id===b.sectionId); info.push('📂 '+(s?s.name:'?')); }
     if(b.startsAt||b.endsAt) info.push('📅 '+(b.startsAt||'…')+' → '+(b.endsAt||'…'));
     if(bannerWeight(b)>1) info.push('⚖️ '+bannerWeight(b)+'×');
@@ -13775,6 +13787,7 @@ function openAddBanner(){
   document.getElementById('bAlt').value='';
   document.getElementById('bHtml').value='';
   fillBannerSectionSelect();
+  document.getElementById('bSlot').value='1';
   document.getElementById('bSection').value='';
   document.getElementById('bFrom').value='';
   document.getElementById('bTo').value='';
@@ -13794,6 +13807,7 @@ function openEditBanner(id){
   document.getElementById('bAlt').value=b.alt||'';
   document.getElementById('bHtml').value=b.html||'';
   fillBannerSectionSelect();
+  document.getElementById('bSlot').value=String(bannerSlotNum(b));
   document.getElementById('bSection').value=b.sectionId||'';
   document.getElementById('bFrom').value=b.startsAt||'';
   document.getElementById('bTo').value=b.endsAt||'';
@@ -13807,6 +13821,7 @@ function saveBanner(){
   const linkUrl  = document.getElementById('bLink').value.trim();
   const alt      = document.getElementById('bAlt').value.trim();
   const html     = document.getElementById('bHtml').value.trim();
+  const slot     = parseInt(document.getElementById('bSlot').value)===2 ? 2 : 1;
   const sectionId = document.getElementById('bSection').value || null;
   const startsAt  = document.getElementById('bFrom').value || null;
   const endsAt    = document.getElementById('bTo').value || null;
@@ -13817,10 +13832,10 @@ function saveBanner(){
   if(editingBannerId){
     const b = DB.banners.find(x=>x.id===editingBannerId);
     if(b){ b.name=name; b.imageUrl=imageUrl; b.linkUrl=linkUrl; b.alt=alt; b.html=html;
-           b.sectionId=sectionId; b.startsAt=startsAt; b.endsAt=endsAt; b.weight=weight; }
+           b.slot=slot; b.sectionId=sectionId; b.startsAt=startsAt; b.endsAt=endsAt; b.weight=weight; }
   } else {
     const newB = {id:'b'+Date.now(), name, imageUrl, linkUrl, alt, html, active:true,
-                  sectionId, startsAt, endsAt, weight};
+                  slot, sectionId, startsAt, endsAt, weight};
     DB.banners.push(newB);
     if(!DB.bannerSettings.activeId) DB.bannerSettings.activeId=newB.id;
   }
@@ -13877,6 +13892,7 @@ function openAddAkt(){
   document.getElementById('aUrl').value  = '';
   document.getElementById('aEnd').value  = '';
   document.getElementById('aktualneEditMo').classList.add('open');
+  setTimeout(()=>document.getElementById('aUrl').focus(), 50);
 }
 
 function openEditAkt(id){
