@@ -156,9 +156,11 @@ h2{font-size:1.05rem;color:#e84242;margin:26px 0 10px;text-transform:uppercase;l
 .card .ur{font-size:.78rem;color:#5f7183;margin-top:3px;word-break:break-all}
 .appbtn{display:inline-block;background:#e84242;color:#fff;border-radius:8px;padding:10px 18px;font-weight:600;margin-top:30px}
 .appbtn:hover{background:#c73535}
-.bslot{width:468px;max-width:100%;height:60px;margin:0 0 16px;border-radius:8px;overflow:hidden}
+.brow{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 16px}
+.bslot{width:468px;max-width:100%;height:60px;border-radius:8px;overflow:hidden}
 .bslot a{display:block;width:100%;height:100%}
 .bslot img{width:100%;height:100%;object-fit:cover;display:block}
+@media(max-width:560px){#bslot2{display:none!important}}
 .akt{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;align-items:center}
 .akt .lbl{color:#e84242;font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.05em}
 .akt a{background:#182635;border:1px solid #24364a;border-radius:20px;padding:6px 12px;font-size:.85rem}
@@ -187,7 +189,7 @@ PAGE = """<!DOCTYPE html>
 <body>
 <div class="wrap">
 <nav class="crumbs">{crumbs}</nav>
-<div id="bslot" class="bslot" hidden></div>
+<div class="brow"><div id="bslot" class="bslot" hidden></div><div id="bslot2" class="bslot" hidden></div></div>
 <div id="akt" class="akt" hidden></div>
 <h1><span class="ic">{icon}</span>{name}</h1>
 {desc_html}
@@ -216,19 +218,25 @@ DYN_JS = """<script>
       if(b.sectionId&&ANC.indexOf(b.sectionId)<0)return false;
       return true;
     });
-    if(bs.length){
-      var st=d.bannerSettings||{},b;
-      if(st.rotate&&bs.length>1){
+    var st=d.bannerSettings||{};
+    function pickBanner(arr){
+      if(!arr.length)return null;
+      if(st.rotate&&arr.length>1){
         var pool=[];
-        bs.forEach(function(x){var w=Math.max(1,Math.min(10,parseInt(x.weight)||1));for(var i=0;i<w;i++)pool.push(x)});
-        b=pool[Math.floor(Math.random()*pool.length)];
-      }else{
-        b=bs.filter(function(x){return x.id===st.activeId})[0]||bs[0];
+        arr.forEach(function(x){var w=Math.max(1,Math.min(10,parseInt(x.weight)||1));for(var i=0;i<w;i++)pool.push(x)});
+        return pool[Math.floor(Math.random()*pool.length)];
       }
-      var el=document.getElementById("bslot");
+      return arr.filter(function(x){return x.id===st.activeId})[0]||arr[0];
+    }
+    function showSlot(elId,slotNum){
+      var b=pickBanner(bs.filter(function(x){return (x.slot===2||x.slot==="2"?2:1)===slotNum}));
+      if(!b)return;
+      var el=document.getElementById(elId);
       el.hidden=false;
       el.innerHTML=b.html?b.html:'<a href="'+(b.linkUrl||"#")+'" target="_blank" rel="noopener sponsored"><img src="'+b.imageUrl+'" alt="'+(b.alt||"Reklama")+'"></a>';
     }
+    showSlot("bslot",1);
+    showSlot("bslot2",2);
     var ak=(d.aktualne||[]).filter(function(a){return !(a.endsAt&&today>a.endsAt)});
     if(ak.length){
       var el2=document.getElementById("akt");
