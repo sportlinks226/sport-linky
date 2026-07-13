@@ -1,5 +1,5 @@
 {
- "version": 32,
+ "version": 33,
  "password": "Sportlinks73",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -9636,7 +9636,7 @@
    "type": "folder",
    "icon": "sm",
    "name": "San Maríno",
-   "desc": "",
+   "desc": "Sanmarínske športové médiá a inštitúcie",
    "order": 36,
    "slug": "san-marino"
   },
@@ -9646,7 +9646,7 @@
    "type": "folder",
    "icon": "gb-nir",
    "name": "Severné Írsko",
-   "desc": "",
+   "desc": "Severoírske športové médiá — BBC, denníky a futbal",
    "order": 37,
    "slug": "severne-irsko"
   },
@@ -9656,7 +9656,7 @@
    "type": "folder",
    "icon": "gb-sct",
    "name": "Škótsko",
-   "desc": "",
+   "desc": "Škótske športové médiá — BBC, denníky a futbal",
    "order": 38,
    "slug": "skotsko"
   },
@@ -9666,7 +9666,7 @@
    "type": "folder",
    "icon": "si",
    "name": "Slovinsko",
-   "desc": "",
+   "desc": "Slovinské športové médiá — portály, denníky a televízie",
    "order": 39,
    "slug": "slovinsko"
   },
@@ -9676,7 +9676,7 @@
    "type": "folder",
    "icon": "rs",
    "name": "Srbsko",
-   "desc": "",
+   "desc": "Srbské športové médiá — portály, denníky a televízie",
    "order": 40,
    "slug": "srbsko"
   },
@@ -9686,7 +9686,7 @@
    "type": "folder",
    "icon": "ch",
    "name": "Švajčiarsko",
-   "desc": "",
+   "desc": "Švajčiarske športové médiá všetkých jazykových regiónov",
    "order": 41,
    "slug": "svajciarsko"
   },
@@ -9696,7 +9696,7 @@
    "type": "folder",
    "icon": "se",
    "name": "Švédsko",
-   "desc": "",
+   "desc": "Švédske športové médiá — portály, denníky a televízie",
    "order": 42,
    "slug": "svedsko"
   },
@@ -9706,7 +9706,7 @@
    "type": "folder",
    "icon": "it",
    "name": "Taliansko",
-   "desc": "",
+   "desc": "Talianske športové denníky, portály a televízie",
    "order": 43,
    "slug": "taliansko"
   },
@@ -9716,7 +9716,7 @@
    "type": "folder",
    "icon": "tr",
    "name": "Turecko",
-   "desc": "",
+   "desc": "Turecké športové médiá — denníky, portály a televízie",
    "order": 44,
    "slug": "turecko"
   },
@@ -9726,7 +9726,7 @@
    "type": "folder",
    "icon": "ua",
    "name": "Ukrajina",
-   "desc": "",
+   "desc": "Ukrajinské športové médiá — portály a televízie",
    "order": 45,
    "slug": "ukrajina"
   },
@@ -9736,7 +9736,7 @@
    "type": "folder",
    "icon": "gb-wls",
    "name": "Wales",
-   "desc": "",
+   "desc": "Waleské športové médiá — BBC, S4C a regionálne denníky",
    "order": 46,
    "slug": "wales"
   },
@@ -9746,7 +9746,7 @@
    "type": "folder",
    "icon": "am",
    "name": "Arménsko",
-   "desc": "",
+   "desc": "Arménske športové médiá — portály, denníky a televízie",
    "order": 47,
    "slug": "armensko"
   },
@@ -9756,7 +9756,7 @@
    "type": "folder",
    "icon": "ge",
    "name": "Gruzínsko",
-   "desc": "",
+   "desc": "Gruzínske športové médiá — portály a televízie",
    "order": 48,
    "slug": "gruzinsko"
   },
@@ -9766,7 +9766,7 @@
    "type": "folder",
    "icon": "il",
    "name": "Izrael",
-   "desc": "",
+   "desc": "Izraelské športové médiá — portály, denníky a televízie",
    "order": 49,
    "slug": "izrael"
   },
@@ -9776,7 +9776,7 @@
    "type": "folder",
    "icon": "kz",
    "name": "Kazachstan",
-   "desc": "",
+   "desc": "Kazašské športové médiá — portály a televízie",
    "order": 50,
    "slug": "kazachstan"
   },
@@ -9786,7 +9786,7 @@
    "type": "folder",
    "icon": "az",
    "name": "Azerbajdžán",
-   "desc": "",
+   "desc": "Azerbajdžanské športové médiá — portály, agentúry a televízie",
    "order": 51,
    "slug": "azerbajdzan"
   },
@@ -9796,7 +9796,7 @@
    "type": "folder",
    "icon": "cy",
    "name": "Cyprus",
-   "desc": "",
+   "desc": "Cyperské športové médiá — portály, denníky a rádiá",
    "order": 52,
    "slug": "cyprus"
   },
@@ -17010,6 +17010,2746 @@
    "desc": "Šport jekaterinburského portálu E1",
    "url": "https://www.e1.ru/text/sport/",
    "order": 16
+  },
+  {
+   "id": "n1783918277695k27",
+   "parentId": "f_med_eu_sm",
+   "type": "link",
+   "icon": "",
+   "name": "FSGC",
+   "desc": "Oficiálny web sanmarínskej futbalovej federácie FSGC",
+   "url": "https://www.fsgc.sm/en",
+   "order": 0
+  },
+  {
+   "id": "n1783918345472ih8",
+   "parentId": "f_med_eu_sm",
+   "type": "link",
+   "icon": "",
+   "name": "RTV sport",
+   "desc": "Šport verejnoprávnej televízie San Marino RTV",
+   "url": "https://www.sanmarinortv.sm/sport",
+   "order": 1
+  },
+  {
+   "id": "n1783918377293qjy",
+   "parentId": "f_med_eu_sm",
+   "type": "link",
+   "icon": "",
+   "name": "CONS",
+   "desc": "Sanmarínsky národný olympijský výbor CONS",
+   "url": "https://www.cons.sm/",
+   "order": 2
+  },
+  {
+   "id": "n1783918421844yrd",
+   "parentId": "f_med_eu_sm",
+   "type": "link",
+   "icon": "",
+   "name": "Libertas sport",
+   "desc": "Športová rubrika sanmarínskeho portálu Libertas",
+   "url": "https://www.libertas.sm/sport/",
+   "order": 3
+  },
+  {
+   "id": "n1783918554527hm1",
+   "parentId": "f_med_eu_sm",
+   "type": "link",
+   "icon": "",
+   "name": "Corriere Romagna sport",
+   "desc": "Šport regionálneho denníka Corriere Romagna",
+   "url": "https://www.corriereromagna.it/sport",
+   "order": 4
+  },
+  {
+   "id": "n1783918865549pbt",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "BBC N. Ireland",
+   "desc": "Šport BBC pre Severné Írsko",
+   "url": "https://www.bbc.com/sport/northern-ireland",
+   "order": 0
+  },
+  {
+   "id": "n17839189686467zf",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Sky sports N.Ireland",
+   "desc": "Severoírska sekcia Sky Sports",
+   "url": "https://www.skysports.com/northern-ireland",
+   "order": 1
+  },
+  {
+   "id": "n1783919021626arv",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "NIFL",
+   "desc": "Oficiálny web severoírskej futbalovej ligy NIFL",
+   "url": "https://www.nifootballleague.com/",
+   "order": 2
+  },
+  {
+   "id": "n17839190614909wk",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Belfast live sport",
+   "desc": "Šport portálu Belfast Live",
+   "url": "https://www.belfastlive.co.uk/sport/",
+   "order": 3
+  },
+  {
+   "id": "n17839191188383s1",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Belfast Telegraph sport",
+   "desc": "Športová rubrika denníka Belfast Telegraph",
+   "url": "https://www.belfasttelegraph.co.uk/sport/",
+   "order": 4
+  },
+  {
+   "id": "n1783919149649gsb",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Irish News sport",
+   "desc": "Šport denníka The Irish News",
+   "url": "https://www.irishnews.com/sport/",
+   "order": 5
+  },
+  {
+   "id": "n17839192593183n8",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "News Letter sport",
+   "desc": "Šport denníka Belfast News Letter",
+   "url": "https://www.newsletter.co.uk/sport",
+   "order": 6
+  },
+  {
+   "id": "n1783919287477z0w",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "UTV sport",
+   "desc": "Športové správy televízie UTV (ITV)",
+   "url": "https://www.itv.com/news/utv/sport",
+   "order": 7
+  },
+  {
+   "id": "n17839193334004cu",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Derry Journal sport",
+   "desc": "Šport regionálneho denníka Derry Journal",
+   "url": "https://www.derryjournal.com/sport",
+   "order": 8
+  },
+  {
+   "id": "n1783919376073vxn",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Impartial reporter sport",
+   "desc": "Šport týždenníka The Impartial Reporter",
+   "url": "https://www.impartialreporter.com/sport/",
+   "order": 9
+  },
+  {
+   "id": "n1783919420914gqm",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Coleraine Chronicle sport",
+   "desc": "Šport regionálnych novín Coleraine Chronicle",
+   "url": "https://www.colerainechronicle.co.uk/section/211/sport",
+   "order": 10
+  },
+  {
+   "id": "n1783919489738lvf",
+   "parentId": "f_med_eu_gb_nir",
+   "type": "link",
+   "icon": "",
+   "name": "Ulster GAA",
+   "desc": "Správy provinčnej rady gaelských športov Ulster GAA",
+   "url": "https://ulster.gaa.ie/news",
+   "order": 11
+  },
+  {
+   "id": "n1783919605697ebv",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "BBC Scotland sport",
+   "desc": "Šport BBC pre Škótsko",
+   "url": "https://www.bbc.com/sport/scotland",
+   "order": 0
+  },
+  {
+   "id": "n1783919643940li2",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Sky sports Scotland",
+   "desc": "Škótska sekcia Sky Sports",
+   "url": "https://www.skysports.com/scotland",
+   "order": 1
+  },
+  {
+   "id": "n1783919667908o45",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "STV Sport",
+   "desc": "Športové správy škótskej televízie STV",
+   "url": "https://news.stv.tv/section/sport",
+   "order": 2
+  },
+  {
+   "id": "n1783919691061n6r",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "SPFL",
+   "desc": "Oficiálny web škótskej profesionálnej futbalovej ligy SPFL",
+   "url": "https://spfl.co.uk/",
+   "order": 3
+  },
+  {
+   "id": "n1783919750917g2a",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Pie and Bovril",
+   "desc": "Škótske futbalové fórum Pie and Bovril",
+   "url": "https://www.pieandbovril.com/",
+   "order": 4
+  },
+  {
+   "id": "n1783919782734bee",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Daily Record sport",
+   "desc": "Šport denníka Daily Record",
+   "url": "https://www.dailyrecord.co.uk/sport/",
+   "order": 5
+  },
+  {
+   "id": "n178391981081645k",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Scottish Sun sport",
+   "desc": "Šport denníka The Scottish Sun",
+   "url": "https://www.thescottishsun.co.uk/sport/",
+   "order": 6
+  },
+  {
+   "id": "n1783919910573lvz",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "The Scotsman sport",
+   "desc": "Šport denníka The Scotsman",
+   "url": "https://www.scotsman.com/sport",
+   "order": 7
+  },
+  {
+   "id": "n1783919935533kr8",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "The Herald sport",
+   "desc": "Šport glasgowského denníka The Herald",
+   "url": "https://www.heraldscotland.com/sport/",
+   "order": 8
+  },
+  {
+   "id": "n17839199619265sa",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "The National sport",
+   "desc": "Šport denníka The National",
+   "url": "https://www.thenational.scot/sport/",
+   "order": 9
+  },
+  {
+   "id": "n1783920013719vvo",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "The Courier sport",
+   "desc": "Šport denníka The Courier (Dundee)",
+   "url": "https://www.thecourier.co.uk/category/sport/",
+   "order": 10
+  },
+  {
+   "id": "n1783920075911wg9",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Fife today sport",
+   "desc": "Šport regionálneho portálu Fife Today",
+   "url": "https://www.fifetoday.co.uk/sport",
+   "order": 11
+  },
+  {
+   "id": "n1783920129035ctn",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Pressandjournal sport",
+   "desc": "Šport denníka The Press and Journal (Aberdeen)",
+   "url": "https://www.pressandjournal.co.uk/category/sport/",
+   "order": 12
+  },
+  {
+   "id": "n1783920162954kb0",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Glasgowtimes sport",
+   "desc": "Šport denníka Glasgow Times",
+   "url": "https://www.glasgowtimes.co.uk/sport/",
+   "order": 13
+  },
+  {
+   "id": "n17839202004172bj",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Forres Gazette sport",
+   "desc": "Šport regionálnych novín Forres Gazette",
+   "url": "https://www.forres-gazette.co.uk/sport/",
+   "order": 14
+  },
+  {
+   "id": "n1783920242433k4u",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Glasgowlive sport",
+   "desc": "Šport portálu Glasgow Live",
+   "url": "https://www.glasgowlive.co.uk/sport/",
+   "order": 15
+  },
+  {
+   "id": "n1783920367351krp",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Shetland Times sport",
+   "desc": "Šport novín The Shetland Times",
+   "url": "https://www.shetlandtimes.co.uk/sport/",
+   "order": 16
+  },
+  {
+   "id": "n17839204410471lf",
+   "parentId": "f_med_eu_gb_sct",
+   "type": "link",
+   "icon": "",
+   "name": "Sundaypost sport",
+   "desc": "Šport týždenníka The Sunday Post",
+   "url": "https://www.sundaypost.com/category/sport/",
+   "order": 17
+  },
+  {
+   "id": "n178392152105724u",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Ekipa24",
+   "desc": "Popredný slovinský športový portál Ekipa24",
+   "url": "https://ekipa.svet24.si/",
+   "order": 0
+  },
+  {
+   "id": "n1783921542733rw4",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Sportklub",
+   "desc": "Slovinská verzia športového portálu Sport Klub",
+   "url": "https://sportklub.n1info.si/",
+   "order": 1
+  },
+  {
+   "id": "n1783921573088qlu",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Sport TV",
+   "desc": "Slovinská športová televízia Šport TV",
+   "url": "https://www.sport-tv.si/",
+   "order": 2
+  },
+  {
+   "id": "n17839215942213hi",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Nogomania",
+   "desc": "Slovinský futbalový portál Nogomania",
+   "url": "https://www.nogomania.com/",
+   "order": 3
+  },
+  {
+   "id": "n1783921611925f5d",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Sportal",
+   "desc": "Sportal — športový portál Siol.net",
+   "url": "https://siol.net/sportal",
+   "order": 4
+  },
+  {
+   "id": "n1783921655055e5u",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "RTVSLO sport",
+   "desc": "Šport slovinskej verejnoprávnej RTV Slovenija",
+   "url": "https://www.rtvslo.si/sport",
+   "order": 5
+  },
+  {
+   "id": "n1783921676991d0a",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "24ur sport",
+   "desc": "Šport portálu 24ur (POP TV)",
+   "url": "https://www.24ur.com/sport",
+   "order": 6
+  },
+  {
+   "id": "n17839217004589pc",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Delo sport",
+   "desc": "Športová rubrika denníka Delo",
+   "url": "https://www.delo.si/sport",
+   "order": 7
+  },
+  {
+   "id": "n1783921719076z1b",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Dnevnik sport",
+   "desc": "Šport slovinského denníka Dnevnik",
+   "url": "https://www.dnevnik.si/sport/",
+   "order": 8
+  },
+  {
+   "id": "n1783921736497n27",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Vecer sport",
+   "desc": "Šport mariborského denníka Večer",
+   "url": "https://vecer.com/sport",
+   "order": 9
+  },
+  {
+   "id": "n1783921763313flm",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Zurnal24 sport",
+   "desc": "Športové správy portálu Žurnal24",
+   "url": "https://www.zurnal24.si/sport",
+   "order": 10
+  },
+  {
+   "id": "n1783921836951ubq",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Slovenske novice sport",
+   "desc": "Šport denníka Slovenske novice",
+   "url": "https://slovenskenovice.delo.si/sport",
+   "order": 11
+  },
+  {
+   "id": "n1783921941632f7c",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "STA sport",
+   "desc": "Šport slovinskej tlačovej agentúry STA",
+   "url": "https://www.sta.si/sport",
+   "order": 12
+  },
+  {
+   "id": "n1783921967461f3o",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Maribor24 sport",
+   "desc": "Šport regionálneho portálu Maribor24",
+   "url": "https://maribor24.si/sport/",
+   "order": 13
+  },
+  {
+   "id": "n17839220231859un",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Celje.info sport",
+   "desc": "Šport regionálneho portálu Celje.info",
+   "url": "https://www.celje.info/kategorija/sport/",
+   "order": 14
+  },
+  {
+   "id": "n1783922067696ugo",
+   "parentId": "f_med_eu_si",
+   "type": "link",
+   "icon": "",
+   "name": "Primorske novice sport",
+   "desc": "Šport regionálneho denníka Primorske novice",
+   "url": "https://primorske.si/sport/",
+   "order": 15
+  },
+  {
+   "id": "n1783922153602x5y",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Mozzartsport",
+   "desc": "Popredný srbský športový portál Mozzart Sport",
+   "url": "https://www.mozzartsport.com/",
+   "order": 0
+  },
+  {
+   "id": "n178392217120871t",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Sportske",
+   "desc": "Srbský športový portál Sportske.net",
+   "url": "https://sportske.net/",
+   "order": 1
+  },
+  {
+   "id": "n178392223384466l",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Sportal",
+   "desc": "Sportal — športový portál denníka Blic",
+   "url": "https://sportal.blic.rs/",
+   "order": 2
+  },
+  {
+   "id": "n1783922254108cdf",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Sportklub",
+   "desc": "Srbská verzia športového portálu Sport Klub",
+   "url": "https://sportklub.n1info.rs/",
+   "order": 3
+  },
+  {
+   "id": "n1783922272271het",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Arena sport",
+   "desc": "Web športových televízií Arena Sport",
+   "url": "https://www.tvarenasport.com/",
+   "order": 4
+  },
+  {
+   "id": "n1783922310868cnq",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "B92 sport",
+   "desc": "Športová sekcia portálu B92",
+   "url": "https://www.b92.net/sport/",
+   "order": 5
+  },
+  {
+   "id": "n1783922333356auj",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Telegraf sport",
+   "desc": "Šport srbského portálu Telegraf",
+   "url": "https://www.telegraf.rs/sport",
+   "order": 6
+  },
+  {
+   "id": "n17839223521534ms",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "RTS sport",
+   "desc": "Šport srbskej verejnoprávnej televízie RTS",
+   "url": "https://www.rts.rs/sport.html",
+   "order": 7
+  },
+  {
+   "id": "n1783922369599jvl",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Kurir sport",
+   "desc": "Športová rubrika denníka Kurir",
+   "url": "https://www.kurir.rs/sport",
+   "order": 8
+  },
+  {
+   "id": "n1783922388568aqt",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Nova sport",
+   "desc": "Šport portálu Nova.rs",
+   "url": "https://nova.rs/sport/",
+   "order": 9
+  },
+  {
+   "id": "n1783922413796obe",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Novosti sport",
+   "desc": "Šport denníka Večernje novosti",
+   "url": "https://www.novosti.rs/sport",
+   "order": 10
+  },
+  {
+   "id": "n1783922436861yag",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Informer sport",
+   "desc": "Šport denníka Informer",
+   "url": "https://sportinjo.informer.rs/",
+   "order": 11
+  },
+  {
+   "id": "n1783922456202ryi",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Danas sport",
+   "desc": "Šport denníka Danas",
+   "url": "https://www.danas.rs/sport/",
+   "order": 12
+  },
+  {
+   "id": "n1783922491124b9c",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Alo sport",
+   "desc": "Športová rubrika denníka Alo",
+   "url": "https://sport.alo.rs/",
+   "order": 13
+  },
+  {
+   "id": "n17839225265224m2",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Dnevnik sport",
+   "desc": "Šport novosadského denníka Dnevnik",
+   "url": "https://www.dnevnik.rs/sport",
+   "order": 14
+  },
+  {
+   "id": "n1783922634922xwi",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Politika sport",
+   "desc": "Šport najstaršieho srbského denníka Politika",
+   "url": "https://www.politika.rs/scc/sport",
+   "order": 15
+  },
+  {
+   "id": "n17839228470985l6",
+   "parentId": "f_med_eu_rs",
+   "type": "link",
+   "icon": "",
+   "name": "Juzne Vesti sport",
+   "desc": "Šport regionálneho portálu Južne vesti (Niš)",
+   "url": "https://www.juznevesti.com/sport/",
+   "order": 16
+  },
+  {
+   "id": "n1783922936656klf",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Sport",
+   "desc": "Švajčiarsky športový portál Sport.ch",
+   "url": "https://sport.ch/",
+   "order": 0
+  },
+  {
+   "id": "n1783922976921yit",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Hockeyfans",
+   "desc": "Švajčiarsky hokejový portál Hockeyfans.ch",
+   "url": "https://www.hockeyfans.ch/",
+   "order": 1
+  },
+  {
+   "id": "n1783923002558zi2",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Swisshabs",
+   "desc": "Švajčiarsky hokejový portál Swiss Habs (po francúzsky)",
+   "url": "https://www.swisshabs.ch/fr/",
+   "order": 2
+  },
+  {
+   "id": "n17839230288110wp",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Blick sport",
+   "desc": "Šport denníka Blick",
+   "url": "https://www.blick.ch/sport/",
+   "order": 3
+  },
+  {
+   "id": "n1783923047759o2z",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "SRF sport",
+   "desc": "Šport nemeckojazyčnej verejnoprávnej SRF",
+   "url": "https://www.srf.ch/sport",
+   "order": 4
+  },
+  {
+   "id": "n1783923071048nnh",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "RTS sport",
+   "desc": "Šport frankofónnej verejnoprávnej RTS",
+   "url": "https://www.rts.ch/sport/",
+   "order": 5
+  },
+  {
+   "id": "n1783923088054fh3",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "RSI sport",
+   "desc": "Šport talianskojazyčnej verejnoprávnej RSI",
+   "url": "https://www.rsi.ch/sport/",
+   "order": 6
+  },
+  {
+   "id": "n1783923113159qi6",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Watson sport",
+   "desc": "Športová sekcia portálu Watson",
+   "url": "https://www.watson.ch/sport/",
+   "order": 7
+  },
+  {
+   "id": "n17839231401929zr",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "20 minuten sport",
+   "desc": "Šport denníka 20 Minuten",
+   "url": "https://www.20min.ch/sport-uebersicht",
+   "order": 8
+  },
+  {
+   "id": "n1783923171459z11",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Tages Anzeiger sport",
+   "desc": "Šport zürišského denníka Tages-Anzeiger",
+   "url": "https://www.tagesanzeiger.ch/sport",
+   "order": 9
+  },
+  {
+   "id": "n1783923191379ba3",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "NZZ sport",
+   "desc": "Šport denníka Neue Zürcher Zeitung",
+   "url": "https://www.nzz.ch/sport",
+   "order": 10
+  },
+  {
+   "id": "n1783923218588173",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Le Matin sport",
+   "desc": "Šport frankofónneho denníka Le Matin",
+   "url": "https://www.lematin.ch/sports",
+   "order": 11
+  },
+  {
+   "id": "n1783923251770g39",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "24Heures sport",
+   "desc": "Šport lausannského denníka 24 heures",
+   "url": "https://www.24heures.ch/sports",
+   "order": 12
+  },
+  {
+   "id": "n17839234615263nq",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "Bazonline sport",
+   "desc": "Šport denníka Basler Zeitung",
+   "url": "https://www.bazonline.ch/sport",
+   "order": 13
+  },
+  {
+   "id": "n1783923493865kf0",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "TDG sport",
+   "desc": "Šport ženevského denníka Tribune de Genève",
+   "url": "https://www.tdg.ch/sports",
+   "order": 14
+  },
+  {
+   "id": "n178392352078600h",
+   "parentId": "f_med_eu_ch",
+   "type": "link",
+   "icon": "",
+   "name": "CDT sport",
+   "desc": "Šport talianskojazyčného denníka Corriere del Ticino",
+   "url": "https://www.cdt.ch/sport",
+   "order": 15
+  },
+  {
+   "id": "n1783930900322rw4",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Fotbollskanalen",
+   "desc": "Švédsky futbalový portál Fotbollskanalen (TV4)",
+   "url": "https://www.fotbollskanalen.se/",
+   "order": 0
+  },
+  {
+   "id": "n1783930928061ewt",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Hockeysverige",
+   "desc": "Švédsky hokejový portál Hockeysverige",
+   "url": "https://hockeysverige.se/",
+   "order": 1
+  },
+  {
+   "id": "n1783930947198aqk",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Hockeynews",
+   "desc": "Švédsky hokejový portál Hockeynews",
+   "url": "https://hockeynews.se/",
+   "order": 2
+  },
+  {
+   "id": "n17839309700158ca",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Svenskafans",
+   "desc": "Švédsky fanúšikovský portál Svenska Fans",
+   "url": "https://www.svenskafans.com/",
+   "order": 3
+  },
+  {
+   "id": "n1783931076984gpz",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Aftonbladet sport",
+   "desc": "Sportbladet — šport denníka Aftonbladet",
+   "url": "https://www.aftonbladet.se/sportbladet",
+   "order": 4
+  },
+  {
+   "id": "n1783931117816i1r",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Expressen sport",
+   "desc": "Šport denníka Expressen",
+   "url": "https://www.expressen.se/sport/",
+   "order": 5
+  },
+  {
+   "id": "n1783931138537dq8",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "SVT sport",
+   "desc": "Šport švédskej verejnoprávnej SVT",
+   "url": "https://www.svt.se/sport/",
+   "order": 6
+  },
+  {
+   "id": "n1783931163177ce6",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Dagens Nyheter sport",
+   "desc": "Šport denníka Dagens Nyheter",
+   "url": "https://www.dn.se/sport/",
+   "order": 7
+  },
+  {
+   "id": "n1783931223303nlg",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Goteborgs Posten sport",
+   "desc": "Šport denníka Göteborgs-Posten",
+   "url": "https://www.gp.se/sport",
+   "order": 8
+  },
+  {
+   "id": "n1783931348584iug",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Sydsvenskan sport",
+   "desc": "Šport denníka Sydsvenskan (Malmö)",
+   "url": "https://www.sydsvenskan.se/sport",
+   "order": 9
+  },
+  {
+   "id": "n1783931911371ncq",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Uppsala Nya sport",
+   "desc": "Šport denníka Upsala Nya Tidning",
+   "url": "https://www.unt.se/sport",
+   "order": 10
+  },
+  {
+   "id": "n1783932009254ste",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "SVD sport",
+   "desc": "Šport denníka Svenska Dagbladet",
+   "url": "https://www.svd.se/sport",
+   "order": 11
+  },
+  {
+   "id": "n1783932842518fc9",
+   "parentId": "f_med_eu_se",
+   "type": "link",
+   "icon": "",
+   "name": "Sveriges radio sport",
+   "desc": "Šport švédskeho verejnoprávneho rozhlasu",
+   "url": "https://www.sverigesradio.se/sport",
+   "order": 12
+  },
+  {
+   "id": "n1783933207556i0d",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Gazzetta",
+   "desc": "La Gazzetta dello Sport — najčítanejší taliansky športový denník",
+   "url": "https://www.gazzetta.it/",
+   "order": 0
+  },
+  {
+   "id": "n178393326209132j",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Corriere dello Sport",
+   "desc": "Rímsky športový denník Corriere dello Sport",
+   "url": "https://www.corrieredellosport.it/",
+   "order": 1
+  },
+  {
+   "id": "n17839332811258tz",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Tutto sport",
+   "desc": "Turínsky športový denník Tuttosport",
+   "url": "https://www.tuttosport.com/",
+   "order": 2
+  },
+  {
+   "id": "n1783933305628e9k",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "TuttoMercatoWeb",
+   "desc": "Futbalové prestupy a správy TuttoMercatoWeb",
+   "url": "https://www.tuttomercatoweb.com/",
+   "order": 3
+  },
+  {
+   "id": "n17839333434852ze",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Calcio mercato",
+   "desc": "Futbalové prestupy a správy Calciomercato.com",
+   "url": "https://www.calciomercato.com/",
+   "order": 4
+  },
+  {
+   "id": "n1783933362663cgc",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Sportitalia",
+   "desc": "Talianska športová televízia Sportitalia",
+   "url": "https://www.sportitalia.it/",
+   "order": 5
+  },
+  {
+   "id": "n17839333860662gz",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Sky sport Italia",
+   "desc": "Šport talianskej Sky — správy a výsledky",
+   "url": "https://sport.sky.it/",
+   "order": 6
+  },
+  {
+   "id": "n17839334054179v7",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Mediaset sport",
+   "desc": "SportMediaset — šport televíznej skupiny Mediaset",
+   "url": "https://www.sportmediaset.mediaset.it/",
+   "order": 7
+  },
+  {
+   "id": "n1783933424057z6i",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "RAI sport",
+   "desc": "Šport talianskej verejnoprávnej RAI",
+   "url": "https://www.rainews.it/sport",
+   "order": 8
+  },
+  {
+   "id": "n1783933462602i8m",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Repubblica sport",
+   "desc": "Športová rubrika denníka La Repubblica",
+   "url": "https://www.repubblica.it/sport/",
+   "order": 9
+  },
+  {
+   "id": "n1783933518510quj",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Corriere sport",
+   "desc": "Šport denníka Corriere della Sera",
+   "url": "https://www.corriere.it/sport/",
+   "order": 10
+  },
+  {
+   "id": "n1783933547176zup",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Eurosport Italia",
+   "desc": "Talianska verzia Eurosportu",
+   "url": "https://www.eurosport.it/",
+   "order": 11
+  },
+  {
+   "id": "n1783933564251rkt",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Sportal",
+   "desc": "Taliansky športový portál Sportal.it",
+   "url": "https://www.sportal.it/",
+   "order": 12
+  },
+  {
+   "id": "n1783933738977o9f",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Gazzettino sport",
+   "desc": "Šport benátskeho denníka Il Gazzettino",
+   "url": "https://www.ilgazzettino.it/sport/",
+   "order": 13
+  },
+  {
+   "id": "n1783933801579no2",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Giornale sport",
+   "desc": "Šport denníka Il Giornale",
+   "url": "https://www.ilgiornale.it/sezioni/sport.html",
+   "order": 14
+  },
+  {
+   "id": "n1783933875005fys",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Nuovo sport",
+   "desc": "Šport portálu Il Nuovo",
+   "url": "https://www.ilnuovo.it/sport/",
+   "order": 15
+  },
+  {
+   "id": "n1783933903278c3q",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Roma sport",
+   "desc": "Šport neapolského denníka Il Roma",
+   "url": "https://www.ilroma.net/sezioni/940/sport",
+   "order": 16
+  },
+  {
+   "id": "n1783933994849gwh",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Tempo sport",
+   "desc": "Šport rímskeho denníka Il Tempo",
+   "url": "https://www.iltempo.it/sport/",
+   "order": 17
+  },
+  {
+   "id": "n1783934069010wo3",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Italianinews sport",
+   "desc": "Šport portálu Italiani News",
+   "url": "https://italianinews.com/category/sport/",
+   "order": 18
+  },
+  {
+   "id": "n1783934160155hw2",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "La Sicilia sport",
+   "desc": "Šport sicílskeho denníka La Sicilia",
+   "url": "https://www.lasicilia.it/sezioni/1081/sport",
+   "order": 19
+  },
+  {
+   "id": "n1783934215820qge",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "La Stampa sport",
+   "desc": "Šport turínskeho denníka La Stampa",
+   "url": "https://www.lastampa.it/sport/?ref=LSHHD-M",
+   "order": 20
+  },
+  {
+   "id": "n17839342770600ap",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Mattino sport",
+   "desc": "Šport neapolského denníka Il Mattino",
+   "url": "https://www.ilmattino.it/sport/",
+   "order": 21
+  },
+  {
+   "id": "n1783934308494jru",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "La Nazione sport",
+   "desc": "Šport florentského denníka La Nazione",
+   "url": "https://www.lanazione.it/sport",
+   "order": 22
+  },
+  {
+   "id": "n1783934356566icf",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Il Resto del Carlino",
+   "desc": "Šport bolonského denníka Il Resto del Carlino",
+   "url": "https://www.ilrestodelcarlino.it/sport",
+   "order": 23
+  },
+  {
+   "id": "n1783934422046f1t",
+   "parentId": "f_med_eu_it",
+   "type": "link",
+   "icon": "",
+   "name": "Eco di Bergamo",
+   "desc": "Šport bergamského denníka L’Eco di Bergamo",
+   "url": "https://www.ecodibergamo.it/publisher/sport/section/",
+   "order": 24
+  },
+  {
+   "id": "n17839482159434t7",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Mackolik",
+   "desc": "Turecký portál výsledkov a štatistík Maçkolik",
+   "url": "https://arsiv.mackolik.com/default.aspx",
+   "order": 0
+  },
+  {
+   "id": "n1783948232336di8",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Fanatik",
+   "desc": "Turecký športový denník Fanatik",
+   "url": "https://www.fanatik.com.tr/",
+   "order": 1
+  },
+  {
+   "id": "n178394825407433a",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Fotomac",
+   "desc": "Turecký športový denník Fotomaç",
+   "url": "https://www.fotomac.com.tr/",
+   "order": 2
+  },
+  {
+   "id": "n17839482932580ye",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "BeIN Sports Turkiye",
+   "desc": "Turecká verzia beIN Sports — vysielateľ Süper Lig",
+   "url": "https://beinsports.com.tr/",
+   "order": 3
+  },
+  {
+   "id": "n1783948311834wpi",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "NTV Spor",
+   "desc": "Športové správy televízie NTV",
+   "url": "https://www.ntvspor.net/",
+   "order": 4
+  },
+  {
+   "id": "n1783948330021ieu",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "TRT Spor",
+   "desc": "Športový kanál tureckej verejnoprávnej TRT",
+   "url": "https://www.trtspor.com.tr/",
+   "order": 5
+  },
+  {
+   "id": "n1783948347339g3p",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Sporx",
+   "desc": "Turecký športový portál Sporx",
+   "url": "https://www.sporx.com/",
+   "order": 6
+  },
+  {
+   "id": "n1783948373070xab",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Ajansspor",
+   "desc": "Turecká športová agentúra Ajansspor",
+   "url": "https://ajansspor.com/",
+   "order": 7
+  },
+  {
+   "id": "n1783948401063u5m",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Hurriyet sport",
+   "desc": "Spor Arena — šport denníka Hürriyet",
+   "url": "https://www.hurriyet.com.tr/sporarena/",
+   "order": 8
+  },
+  {
+   "id": "n1783948423439ljj",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Milliyet skorer",
+   "desc": "Skorer — športový portál denníka Milliyet",
+   "url": "https://www.milliyet.com.tr/skorer/",
+   "order": 9
+  },
+  {
+   "id": "n17839484447172gm",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Sabah spor",
+   "desc": "Športové správy denníka Sabah",
+   "url": "https://www.sabah.com.tr/spor-haberleri",
+   "order": 10
+  },
+  {
+   "id": "n1783948465240kix",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Sozcu spor",
+   "desc": "Šport denníka Sözcü",
+   "url": "https://www.sozcu.com.tr/spor",
+   "order": 11
+  },
+  {
+   "id": "n17839484922499pg",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Haberturk sport",
+   "desc": "Šport portálu Habertürk",
+   "url": "https://www.haberturk.com/spor",
+   "order": 12
+  },
+  {
+   "id": "n1783948616280wr4",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Yeni Asir spor",
+   "desc": "Šport izmirského denníka Yeni Asır",
+   "url": "https://www.yeniasir.com.tr/spor",
+   "order": 13
+  },
+  {
+   "id": "n1783948694454tgj",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Birgun spor",
+   "desc": "Športová rubrika denníka BirGün",
+   "url": "https://www.birgun.net/kategori/spor-12",
+   "order": 14
+  },
+  {
+   "id": "n1783948733878lx4",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "CNN Turk sport",
+   "desc": "Športové správy CNN Türk",
+   "url": "https://www.cnnturk.com/spor-haberleri/",
+   "order": 15
+  },
+  {
+   "id": "n1783948773089bob",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "5 Ocak sport",
+   "desc": "Šport regionálneho denníka 5 Ocak (Adana)",
+   "url": "https://www.5ocakgazetesi.com/spor",
+   "order": 16
+  },
+  {
+   "id": "n1783948835070tii",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "A Spor",
+   "desc": "Turecká športová televízia A Spor",
+   "url": "https://www.aspor.com.tr/",
+   "order": 17
+  },
+  {
+   "id": "n17839488702874yd",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "AA spor",
+   "desc": "Šport tureckej tlačovej agentúry Anadolu",
+   "url": "https://www.aa.com.tr/tr/spor",
+   "order": 18
+  },
+  {
+   "id": "n1783948895154w7s",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "DHA spor",
+   "desc": "Šport agentúry Demirören (DHA)",
+   "url": "https://www.dha.com.tr/spor/",
+   "order": 19
+  },
+  {
+   "id": "n1783948931001ofl",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Tivibuspor",
+   "desc": "Športové kanály Tivibu Spor (Türk Telekom)",
+   "url": "https://tivibuspor.com.tr/",
+   "order": 20
+  },
+  {
+   "id": "n1783948982076g2f",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Nesine",
+   "desc": "Turecký tipovací portál Nesine — kurzy a livescore",
+   "url": "https://www.nesine.com/",
+   "order": 21
+  },
+  {
+   "id": "n17839490245152u2",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "F5 Haber spor",
+   "desc": "Športový agregátor správ F5 Haber",
+   "url": "https://www.f5haber.com/spor",
+   "order": 22
+  },
+  {
+   "id": "n1783949090738fdv",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Haber7 spor",
+   "desc": "Šport portálu Haber7",
+   "url": "https://spor.haber7.com/",
+   "order": 23
+  },
+  {
+   "id": "n17839491265907hx",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Haber Ekspres spor",
+   "desc": "Šport izmirského portálu Haber Ekspres",
+   "url": "https://www.haberekspres.com.tr/spor",
+   "order": 24
+  },
+  {
+   "id": "n1783949164502rfz",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "IHA spor",
+   "desc": "Šport agentúry İhlas (İHA)",
+   "url": "https://www.iha.com.tr/spor",
+   "order": 25
+  },
+  {
+   "id": "n1783949195919szf",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Karar spor",
+   "desc": "Športové správy denníka Karar",
+   "url": "https://www.karar.com/spor-haberleri",
+   "order": 26
+  },
+  {
+   "id": "n1783949270777slv",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Sonsayfa spor",
+   "desc": "Turecký športový portál Son Sayfa",
+   "url": "https://www.sonsayfa.com/spor",
+   "order": 27
+  },
+  {
+   "id": "n1783949296696rhy",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Star spor",
+   "desc": "Šport denníka Star",
+   "url": "https://www.star.com.tr/spor/",
+   "order": 28
+  },
+  {
+   "id": "n1783949325305f2h",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Takvim spor",
+   "desc": "Šport denníka Takvim",
+   "url": "https://www.takvim.com.tr/spor",
+   "order": 29
+  },
+  {
+   "id": "n1783949355713ruf",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "TGRT Haber spor",
+   "desc": "Šport televízie TGRT Haber",
+   "url": "https://www.tgrthaber.com/spor",
+   "order": 30
+  },
+  {
+   "id": "n17839493846417bj",
+   "parentId": "f_med_eu_tr",
+   "type": "link",
+   "icon": "",
+   "name": "Timeturk spor",
+   "desc": "Šport portálu Timetürk",
+   "url": "https://www.timeturk.com/spor",
+   "order": 31
+  },
+  {
+   "id": "n1783950750745f8f",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Tribuna",
+   "desc": "Ukrajinská verzia športového portálu Tribuna",
+   "url": "https://ua.tribuna.com/",
+   "order": 0
+  },
+  {
+   "id": "n17839507660313om",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Sport",
+   "desc": "Popredný ukrajinský športový portál Sport.ua",
+   "url": "https://sport.ua/",
+   "order": 1
+  },
+  {
+   "id": "n1783950785479666",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Football",
+   "desc": "Ukrajinský futbalový portál Football.ua",
+   "url": "https://football.ua/",
+   "order": 2
+  },
+  {
+   "id": "n1783950803923rwq",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "XSPORT",
+   "desc": "Ukrajinský športový portál a televízia XSPORT",
+   "url": "https://xsport.ua/ua/",
+   "order": 3
+  },
+  {
+   "id": "n178395082050767b",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Sportarena",
+   "desc": "Ukrajinský športový portál Sportarena",
+   "url": "https://sportarena.ua/",
+   "order": 4
+  },
+  {
+   "id": "n17839508548625mx",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Terrikon",
+   "desc": "Futbalový portál Terrikon — ukrajinský a svetový futbal",
+   "url": "https://terrikon.com/",
+   "order": 5
+  },
+  {
+   "id": "n1783950877623s74",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Suspilne sport",
+   "desc": "Šport ukrajinskej verejnoprávnej Suspilne",
+   "url": "https://suspilne.media/sport/",
+   "order": 6
+  },
+  {
+   "id": "n1783950904757v33",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "TSN Prosport",
+   "desc": "Prosport — šport spravodajstva TSN (1+1)",
+   "url": "https://tsn.ua/prosport",
+   "order": 7
+  },
+  {
+   "id": "n1783950927029c79",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "NV Sport",
+   "desc": "Športová sekcia portálu NV",
+   "url": "https://sport.nv.ua/",
+   "order": 8
+  },
+  {
+   "id": "n1783950953390hf5",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Ukrinform sport",
+   "desc": "Šport štátnej agentúry Ukrinform",
+   "url": "https://www.ukrinform.ua/rubric-sports",
+   "order": 9
+  },
+  {
+   "id": "n1783951095458rxq",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Zaxid sport",
+   "desc": "Šport ľvovského portálu Zaxid.net",
+   "url": "https://zaxid.net/sport_tag50812/",
+   "order": 10
+  },
+  {
+   "id": "n1783951122763t52",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Dumskaya sport",
+   "desc": "Šport odeského portálu Dumskaja",
+   "url": "https://dumskaya.net/sport/",
+   "order": 11
+  },
+  {
+   "id": "n1783951247272gjl",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Setanta sports",
+   "desc": "Športová televízia Setanta Sports — futbal a prenosy",
+   "url": "https://setantasports.com/football/",
+   "order": 12
+  },
+  {
+   "id": "n1783951300262fgy",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Sportnews24",
+   "desc": "Šport televízie 24 (24tv.ua)",
+   "url": "https://sportnews.24tv.ua/",
+   "order": 13
+  },
+  {
+   "id": "n17839513263183dt",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Espreso TV sport",
+   "desc": "Športové správy televízie Espreso",
+   "url": "https://espreso.tv/sport",
+   "order": 14
+  },
+  {
+   "id": "n1783951399944yoy",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Champion",
+   "desc": "Ukrajinský športový portál Champion",
+   "url": "https://champion.com.ua/",
+   "order": 15
+  },
+  {
+   "id": "n1783951423440e3y",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Korrespondent",
+   "desc": "Športová sekcia portálu Korrespondent",
+   "url": "https://korrespondent.net/sport/",
+   "order": 16
+  },
+  {
+   "id": "n1783951446145ljx",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Telegraf sport",
+   "desc": "Šport ukrajinského portálu Telegraf",
+   "url": "https://telegraf.com.ua/ukr/sport-cat",
+   "order": 17
+  },
+  {
+   "id": "n1783951473402c71",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Glavcom sport",
+   "desc": "Šport portálu Glavcom",
+   "url": "https://glavcom.ua/sport.html",
+   "order": 18
+  },
+  {
+   "id": "n178395150148000r",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Fakty sport",
+   "desc": "Šport denníka Fakty",
+   "url": "https://fakty.ua/ru/categories/sport",
+   "order": 19
+  },
+  {
+   "id": "n1783951630822x9a",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "ZN sport",
+   "desc": "Šport portálu Dzerkalo tyžňa (ZN.UA)",
+   "url": "https://zn.ua/ukr/SPORT",
+   "order": 20
+  },
+  {
+   "id": "n1783951675111l0i",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Vechirniy Kyiv sport",
+   "desc": "Šport kyjevského portálu Večirnij Kyjiv",
+   "url": "https://vechirniy.kyiv.ua/tag/sport/",
+   "order": 21
+  },
+  {
+   "id": "n1783951806647byd",
+   "parentId": "f_med_eu_ua",
+   "type": "link",
+   "icon": "",
+   "name": "Kyivpost sport",
+   "desc": "Šport anglickojazyčného Kyiv Post",
+   "url": "https://www.kyivpost.com/category/sport",
+   "order": 22
+  },
+  {
+   "id": "n1783952139527vcc",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "BBC sport Wales",
+   "desc": "Šport BBC pre Wales",
+   "url": "https://www.bbc.com/sport/wales",
+   "order": 1
+  },
+  {
+   "id": "n178395224508848s",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "S4C Chwaraeon",
+   "desc": "Šport waleskojazyčnej televízie S4C",
+   "url": "https://www.s4c.cymru/cy/chwaraeon/",
+   "order": 2
+  },
+  {
+   "id": "n17839522935303z3",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "I Clwb Pel-droed",
+   "desc": "Waleskojazyčný futbalový web Y Clwb Pêl-droed",
+   "url": "https://clwbpeldroed.org/",
+   "order": 3
+  },
+  {
+   "id": "n1783952319724iun",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Walesonline sport",
+   "desc": "Šport portálu WalesOnline — rugby a futbal",
+   "url": "https://www.walesonline.co.uk/sport/",
+   "order": 4
+  },
+  {
+   "id": "n1783952395422y5s",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Skysports Wales",
+   "desc": "Waleská sekcia Sky Sports",
+   "url": "https://www.skysports.com/wales",
+   "order": 5
+  },
+  {
+   "id": "n1783952470292dr2",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Cambrian news sport",
+   "desc": "Šport regionálneho týždenníka Cambrian News",
+   "url": "https://www.cambrian-news.co.uk/sport",
+   "order": 6
+  },
+  {
+   "id": "n1783952577061cwr",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Chester Standard sport",
+   "desc": "Šport novín The Chester Standard",
+   "url": "https://www.chesterstandard.co.uk/sport/",
+   "order": 7
+  },
+  {
+   "id": "n1783952635877jsu",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "NorthWalesPioneer sport",
+   "desc": "Šport novín North Wales Pioneer",
+   "url": "https://www.northwalespioneer.co.uk/sport/",
+   "order": 8
+  },
+  {
+   "id": "n1783952697694rbs",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Sportin Wales",
+   "desc": "Waleský športový portál Sportin Wales",
+   "url": "https://sportin.wales/",
+   "order": 0
+  },
+  {
+   "id": "n1783952731473f3b",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "ITV Wales sport",
+   "desc": "Športové správy ITV Wales",
+   "url": "https://www.itv.com/news/wales/sport",
+   "order": 9
+  },
+  {
+   "id": "n1783952762286w0c",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "Nation.cymru sport",
+   "desc": "Šport waleského portálu Nation.Cymru",
+   "url": "https://nation.cymru/category/sport/",
+   "order": 10
+  },
+  {
+   "id": "n1783952810159sdc",
+   "parentId": "f_med_eu_gb_wls",
+   "type": "link",
+   "icon": "",
+   "name": "FreePressSeries sport",
+   "desc": "Šport novín Free Press Series (Gwent)",
+   "url": "https://www.freepressseries.co.uk/sport/",
+   "order": 11
+  },
+  {
+   "id": "n1783953275504ncz",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Fastnews",
+   "desc": "Arménsky spravodajský portál — rýchle správy vrátane športu",
+   "url": "https://fastnews.am/",
+   "order": 0
+  },
+  {
+   "id": "n17839532937179sr",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Armsport",
+   "desc": "Arménsky športový portál — futbal, zápasenie a ďalšie športy",
+   "url": "https://armsport.am/",
+   "order": 1
+  },
+  {
+   "id": "n1783953353666k4m",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Armenpress sports",
+   "desc": "Športová rubrika štátnej tlačovej agentúry Armenpress",
+   "url": "https://armenpress.am/en/articles/sports",
+   "order": 2
+  },
+  {
+   "id": "n178395338000034w",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "News sport",
+   "desc": "Športová sekcia arménskeho portálu News.am",
+   "url": "https://sport.news.am/arm/",
+   "order": 3
+  },
+  {
+   "id": "n1783953449346zrn",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "1Lurer sport",
+   "desc": "Šport na 1Lurer — spravodajstvo arménskej verejnoprávnej TV",
+   "url": "https://www.1lurer.am/en/category/Sport_",
+   "order": 4
+  },
+  {
+   "id": "n1783953561195hu2",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Aravot sport",
+   "desc": "Športová rubrika arménskeho denníka Aravot",
+   "url": "https://www.aravot.am/category/news/sport/",
+   "order": 5
+  },
+  {
+   "id": "n17839536120866n2",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Armtimes sport",
+   "desc": "Športové správy portálu Armtimes",
+   "url": "https://armtimes.com/hy/article/sport",
+   "order": 6
+  },
+  {
+   "id": "n1783953744057flg",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Golos Armenii sport",
+   "desc": "Šport ruskojazyčného arménskeho denníka Golos Armenii",
+   "url": "https://golosarmenii.am/%d1%81%d0%bf%d0%be%d1%80%d1%82-2/",
+   "order": 7
+  },
+  {
+   "id": "n1783953814971s6b",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "168.am",
+   "desc": "Športová sekcia arménskeho portálu 168.am",
+   "url": "https://168.am/section/sports-am",
+   "order": 8
+  },
+  {
+   "id": "n17839538735656ks",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Armradio sport",
+   "desc": "Šport verejnoprávneho arménskeho rozhlasu — správy v angličtine",
+   "url": "https://en.armradio.am/category/allnews/sport/",
+   "order": 9
+  },
+  {
+   "id": "n17839539005324qt",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Shantnews sport",
+   "desc": "Športové správy arménskej televízie Shant",
+   "url": "https://www.shantnews.am/news/category/sport",
+   "order": 10
+  },
+  {
+   "id": "n178395749376622w",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Sportall",
+   "desc": "Popredný gruzínsky športový portál",
+   "url": "https://sportall.ge/",
+   "order": 0
+  },
+  {
+   "id": "n1783957564378ibi",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Crystalsport",
+   "desc": "Gruzínsky športový portál Crystalsport",
+   "url": "https://www.crystalsport.ge/",
+   "order": 1
+  },
+  {
+   "id": "n1783957579641l7u",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Goal",
+   "desc": "Gruzínsky futbalový portál Goal.ge",
+   "url": "https://goal.ge/",
+   "order": 2
+  },
+  {
+   "id": "n1783957624414it2",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Erovnuli Liga",
+   "desc": "Oficiálny web najvyššej gruzínskej futbalovej ligy",
+   "url": "https://erovnuliliga.ge/ge",
+   "order": 4
+  },
+  {
+   "id": "n1783957666131z06",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "1TV Sporti",
+   "desc": "Šport gruzínskej verejnoprávnej televízie 1TV",
+   "url": "https://1tv.ge/sporti/",
+   "order": 5
+  },
+  {
+   "id": "n1783957700168ngc",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Interpressnews sporti",
+   "desc": "Športová rubrika agentúry InterPressNews",
+   "url": "https://www.interpressnews.ge/ka/category/14-sporti/",
+   "order": 6
+  },
+  {
+   "id": "n17839577429495bo",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Imedi sport",
+   "desc": "Športové správy gruzínskej televízie Imedi",
+   "url": "https://info.imedi.ge/en/sport",
+   "order": 7
+  },
+  {
+   "id": "n1783957830927yln",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Kviris Palitra sporti",
+   "desc": "Šport gruzínskeho týždenníka Kviris Palitra",
+   "url": "https://kvirispalitra.ge/category/4-sporti/",
+   "order": 8
+  },
+  {
+   "id": "n1783958132917z6h",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Sarbieli",
+   "desc": "Gruzínsky športový portál Sarbieli",
+   "url": "https://sarbieli.com/",
+   "order": 9
+  },
+  {
+   "id": "n1783958271245mew",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Worldsport",
+   "desc": "Gruzínsky portál o domácom aj svetovom športe",
+   "url": "https://www.worldsport.ge/ge",
+   "order": 3
+  },
+  {
+   "id": "n17839583206198ju",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Betsson sport",
+   "desc": "Gruzínsky športový spravodajský portál Betsson Sport",
+   "url": "https://ge.betsson.sport/",
+   "order": 10
+  },
+  {
+   "id": "n17839584139950jx",
+   "parentId": "f_med_eu_ge",
+   "type": "link",
+   "icon": "",
+   "name": "Silk Sport",
+   "desc": "Športová sekcia gruzínskej platformy Silk GO",
+   "url": "https://silkgo.ge/sport",
+   "order": 11
+  },
+  {
+   "id": "n1783958551030i8n",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Sport5",
+   "desc": "Izraelský športový kanál Sport5 — správy a výsledky",
+   "url": "https://www.sport5.co.il/",
+   "order": 0
+  },
+  {
+   "id": "n1783958571087nr0",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "ONE",
+   "desc": "Popredný izraelský športový portál ONE",
+   "url": "https://www.one.co.il/",
+   "order": 1
+  },
+  {
+   "id": "n1783958597887j6n",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Walla Sport",
+   "desc": "Športová sekcia izraelského portálu Walla",
+   "url": "https://sports.walla.co.il/",
+   "order": 2
+  },
+  {
+   "id": "n1783958620008itb",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "IPFL",
+   "desc": "Oficiálny web izraelských profesionálnych futbalových líg",
+   "url": "https://www.football.co.il/",
+   "order": 3
+  },
+  {
+   "id": "n1783958667065nil",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Ynet Sport",
+   "desc": "Šport najčítanejšieho izraelského portálu Ynet",
+   "url": "https://www.ynet.co.il/sport",
+   "order": 4
+  },
+  {
+   "id": "n1783958698456w1u",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Israel Hayom sport",
+   "desc": "Športová rubrika denníka Israel Hayom",
+   "url": "https://www.israelhayom.co.il/sport",
+   "order": 5
+  },
+  {
+   "id": "n1783958720241q62",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Haaretz sport",
+   "desc": "Šport izraelského denníka Haaretz",
+   "url": "https://www.haaretz.co.il/sport",
+   "order": 6
+  },
+  {
+   "id": "n1783958758340x12",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Maariv sport",
+   "desc": "Sport1 — športový portál denníka Maariv",
+   "url": "https://sport1.maariv.co.il/",
+   "order": 7
+  },
+  {
+   "id": "n17839588522448hr",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Jpost sports",
+   "desc": "Šport anglickojazyčného denníka The Jerusalem Post",
+   "url": "https://www.jpost.com/israel-news/sports",
+   "order": 8
+  },
+  {
+   "id": "n1783958896823l6g",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Times of Israel sports",
+   "desc": "Športové správy portálu The Times of Israel",
+   "url": "https://www.timesofisrael.com/topic/sports/",
+   "order": 9
+  },
+  {
+   "id": "n17839590692245f3",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Mako sports",
+   "desc": "Šport portálu Mako (televízia Keshet 12)",
+   "url": "https://www.mako.co.il/Sports",
+   "order": 10
+  },
+  {
+   "id": "n1783959863506lix",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Ice sport",
+   "desc": "Športové správy izraelského portálu Ice",
+   "url": "https://www.ice.co.il/sport_news",
+   "order": 11
+  },
+  {
+   "id": "n178396005404044i",
+   "parentId": "f_med_eu_il",
+   "type": "link",
+   "icon": "",
+   "name": "Panet sport",
+   "desc": "Šport arabskojazyčného izraelského portálu Panet",
+   "url": "https://panet.com/category/27",
+   "order": 13
+  },
+  {
+   "id": "n1783961461975a0p",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Sports",
+   "desc": "Najväčší kazašský športový portál Sports.kz",
+   "url": "https://www.sports.kz/",
+   "order": 0
+  },
+  {
+   "id": "n17839614776157gn",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Vesti",
+   "desc": "Kazašský športový portál Vesti.kz",
+   "url": "https://vesti.kz/",
+   "order": 1
+  },
+  {
+   "id": "n1783961505800dxu",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Prosports",
+   "desc": "Kazašský športový portál Prosports.kz",
+   "url": "https://prosports.kz/",
+   "order": 2
+  },
+  {
+   "id": "n1783961531336gvw",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Kazfootball",
+   "desc": "Portál o kazašskom futbale Kazfootball",
+   "url": "https://kazfootball.kz/",
+   "order": 3
+  },
+  {
+   "id": "n17839615510335xn",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Shaiba",
+   "desc": "Portál o kazašskom hokeji Shaiba.kz",
+   "url": "https://shaiba.kz/",
+   "order": 4
+  },
+  {
+   "id": "n1783961573001cne",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Tengrisport",
+   "desc": "Šport spravodajského portálu Tengrinews",
+   "url": "https://tengrisport.kz/",
+   "order": 5
+  },
+  {
+   "id": "n1783961594270a5c",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "NUR Sport",
+   "desc": "Športová sekcia portálu NUR.KZ",
+   "url": "https://www.nur.kz/sport/",
+   "order": 6
+  },
+  {
+   "id": "n1783961616225ivd",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Zakon sport",
+   "desc": "Športová rubrika portálu Zakon.kz",
+   "url": "https://www.zakon.kz/sport/",
+   "order": 7
+  },
+  {
+   "id": "n17839616480250go",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Informsport",
+   "desc": "Športový portál Informsport agentúry Kazinform",
+   "url": "https://informsport.kz/ru/",
+   "order": 8
+  },
+  {
+   "id": "n1783961715529e3v",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Khabar sport",
+   "desc": "Športové správy kazašskej televízie Khabar",
+   "url": "https://khabar.kz/ru/news/sport",
+   "order": 9
+  },
+  {
+   "id": "n1783961802947vin",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Kazpravda sport",
+   "desc": "Šport denníka Kazachstanskaja pravda",
+   "url": "https://kazpravda.kz/r/sport/",
+   "order": 10
+  },
+  {
+   "id": "n17839618451839hn",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Caravan sport",
+   "desc": "Športová rubrika portálu Caravan.kz",
+   "url": "https://www.caravan.kz/sport/",
+   "order": 11
+  },
+  {
+   "id": "n1783961888281r07",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Astanatimes sports",
+   "desc": "Šport anglickojazyčného denníka The Astana Times",
+   "url": "https://astanatimes.com/category/sports/",
+   "order": 12
+  },
+  {
+   "id": "n17839619316958pc",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Meta-ratings",
+   "desc": "Kazašský portál športových správ a analýz Meta-ratings",
+   "url": "https://meta-ratings.kz/",
+   "order": 13
+  },
+  {
+   "id": "n1783961963114tsv",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Sport PlusTV",
+   "desc": "Kazašská športová televízia Sport Plus",
+   "url": "https://sportplustv.kz/ru",
+   "order": 14
+  },
+  {
+   "id": "n1783962004571iha",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Ak Zhayk sport",
+   "desc": "Šport regionálneho portálu Ak Zhayk (Atyrau)",
+   "url": "https://azh.kz/ru/news/sport",
+   "order": 15
+  },
+  {
+   "id": "n1783962083371tgb",
+   "parentId": "f_med_eu_kz",
+   "type": "link",
+   "icon": "",
+   "name": "Liter sport",
+   "desc": "Športová rubrika denníka Liter",
+   "url": "https://liter.kz/sport/",
+   "order": 16
+  },
+  {
+   "id": "n1783963210305jxj",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Azerisport",
+   "desc": "Popredný azerbajdžanský športový portál",
+   "url": "https://azerisport.com/",
+   "order": 0
+  },
+  {
+   "id": "n1783963228585q3u",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Qol",
+   "desc": "Azerbajdžanský futbalový portál Qol.az",
+   "url": "https://qol.az/",
+   "order": 1
+  },
+  {
+   "id": "n178396324615125c",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Sportinfo",
+   "desc": "Azerbajdžanský športový spravodajský portál",
+   "url": "https://www.sportinfo.az/",
+   "order": 2
+  },
+  {
+   "id": "n1783963283179h8a",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "CBC sport",
+   "desc": "Športová televízia CBC Sport — futbal a ďalšie športy",
+   "url": "https://cbcsport.az/",
+   "order": 3
+  },
+  {
+   "id": "n1783963313459ymn",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Idman TV",
+   "desc": "Azerbajdžanská verejnoprávna športová televízia İdman TV",
+   "url": "https://idmantv.az/az",
+   "order": 4
+  },
+  {
+   "id": "n1783963348128b98",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Report sport",
+   "desc": "Športové správy azerbajdžanskej agentúry Report",
+   "url": "https://report.az/idman-xeberleri",
+   "order": 6
+  },
+  {
+   "id": "n1783963390516ya4",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Azertag sports",
+   "desc": "Šport štátnej tlačovej agentúry AZERTAC",
+   "url": "https://azertag.az/de/bolme/sports",
+   "order": 7
+  },
+  {
+   "id": "n1783963415620wez",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "1news sport",
+   "desc": "Športová sekcia ruskojazyčného portálu 1news.az",
+   "url": "https://1news.az/sport",
+   "order": 8
+  },
+  {
+   "id": "n178396346227864u",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Day sport",
+   "desc": "Šport ruskojazyčného portálu Day.az",
+   "url": "https://news.day.az/sport/",
+   "order": 9
+  },
+  {
+   "id": "n1783963544655bvk",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Apasport",
+   "desc": "Športový portál tlačovej agentúry APA",
+   "url": "https://apasport.az/",
+   "order": 10
+  },
+  {
+   "id": "n17839635642167xm",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Sportnews",
+   "desc": "Azerbajdžanský portál športových správ",
+   "url": "https://sportnews.az/",
+   "order": 11
+  },
+  {
+   "id": "n1783963585208tzs",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Oxu sport",
+   "desc": "Športová rubrika portálu Oxu.az",
+   "url": "https://oxu.az/ru/sport",
+   "order": 12
+  },
+  {
+   "id": "n1783963654730iq7",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Musavat sport",
+   "desc": "Športová rubrika denníka Müsavat",
+   "url": "https://musavat.com/category/idman",
+   "order": 13
+  },
+  {
+   "id": "n1783963775889ei5",
+   "parentId": "f_med_eu_am",
+   "type": "link",
+   "icon": "",
+   "name": "Asbarez sports",
+   "desc": "Šport arménsko-amerického denníka Asbarez",
+   "url": "https://www.asbarez.com/category/entertainment/sports/",
+   "order": 11
+  },
+  {
+   "id": "n1783963819662yt1",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Azernews sports",
+   "desc": "Šport anglickojazyčného denníka AzerNews",
+   "url": "https://www.azernews.az/sports/",
+   "order": 14
+  },
+  {
+   "id": "n17839638545503zt",
+   "parentId": "f_med_eu_az",
+   "type": "link",
+   "icon": "",
+   "name": "Football-plus",
+   "desc": "Azerbajdžanský futbalový portál Football Plus",
+   "url": "https://www.football-plus.az/",
+   "order": 5
+  },
+  {
+   "id": "n1783967128303uye",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Kerkida",
+   "desc": "Najväčší cyperský športový portál",
+   "url": "https://www.kerkida.net/",
+   "order": 0
+  },
+  {
+   "id": "n17839671612636ns",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Protathlima",
+   "desc": "Cyperský futbalový portál — domáca liga a správy",
+   "url": "https://protathlima.cyprustimes.com/",
+   "order": 1
+  },
+  {
+   "id": "n17839671778264h6",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Balla",
+   "desc": "Cyperský športový portál Balla",
+   "url": "https://balla.com.cy/",
+   "order": 2
+  },
+  {
+   "id": "n1783967198490bc6",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Thema Sports",
+   "desc": "Športová sekcia portálu To Thema Online",
+   "url": "https://themasports.tothemaonline.com/",
+   "order": 3
+  },
+  {
+   "id": "n1783967225467w0s",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Cyprus mail sport",
+   "desc": "Šport anglickojazyčného denníka Cyprus Mail",
+   "url": "https://cyprus-mail.com/category/sport/",
+   "order": 4
+  },
+  {
+   "id": "n17839672505004zx",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Goal",
+   "desc": "Športový portál Goal denníka Phileleftheros",
+   "url": "https://goal.philenews.com/",
+   "order": 5
+  },
+  {
+   "id": "n17839673065579pb",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Politis sports",
+   "desc": "Gipedo — šport cyperského denníka Politis",
+   "url": "https://gipedo.politis.com.cy/",
+   "order": 6
+  },
+  {
+   "id": "n1783967341914gdl",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "SigmaLive sport",
+   "desc": "Sportime — športový portál SigmaLive",
+   "url": "https://sportime.sigmalive.com/",
+   "order": 7
+  },
+  {
+   "id": "n1783967402178kf0",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "RIK sports",
+   "desc": "Šport cyperskej verejnoprávnej televízie RIK",
+   "url": "https://sports.rik.cy/",
+   "order": 8
+  },
+  {
+   "id": "n1783967427431wwa",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Sport-fm",
+   "desc": "Cyperské športové rádio Sport FM",
+   "url": "https://sport-fm.com.cy/",
+   "order": 9
+  },
+  {
+   "id": "n17839674833623ek",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "24sports",
+   "desc": "Cyperský športový portál 24sports",
+   "url": "https://www.24sports.com.cy/gr/",
+   "order": 10
+  },
+  {
+   "id": "n1783967511171pxv",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Shootandgoal",
+   "desc": "Cyperský futbalový portál Shoot & Goal",
+   "url": "https://shootandgoal.cyprustimes.com/",
+   "order": 11
+  },
+  {
+   "id": "n1783967538779gir",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Athlitiki",
+   "desc": "Cyperské športové noviny Athlitiki",
+   "url": "https://athlitiki.com/",
+   "order": 12
+  },
+  {
+   "id": "n1783967585413cbs",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Dialogos sport",
+   "desc": "Športová rubrika portálu Dialogos",
+   "url": "https://dialogos.com.cy/category/athlitismos/",
+   "order": 13
+  },
+  {
+   "id": "n1783967704520dr2",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Philenews sport",
+   "desc": "Šport anglickej verzie portálu Philenews",
+   "url": "https://en.philenews.com/category/sports/",
+   "order": 14
+  },
+  {
+   "id": "n1783967736193jzp",
+   "parentId": "f_med_eu_cy",
+   "type": "link",
+   "icon": "",
+   "name": "Kibris spor",
+   "desc": "Šport severocyperského denníka Kıbrıs",
+   "url": "https://kibrisgazetesi.com/spor/",
+   "order": 15
   }
  ]
 }
