@@ -560,7 +560,7 @@ footer{
 
 const DEFAULT = {
   "version": 25,
-  "password": "Sportlinks73",
+  "passwordHash": "20e48399f8426c925d94ede86ebcbbf35d998a815a690330e99a0ce8e8cffa96",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
@@ -13134,6 +13134,24 @@ function save(){
 function uid(){ return 'n'+Date.now()+Math.random().toString(36).slice(2,5); }
 
 // ============================================================
+// HESLO — SHA-256 hash (v dátach sa neukladá heslo, len jeho odtlačok)
+// ============================================================
+async function sha256hex(str){
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
+}
+// Migrácia: staré dáta/zálohy majú heslo v čitateľnej podobe — preveď na hash a plaintext zmaž.
+// Ukladá priamo do localStorage (bez save()), aby technická migrácia nenastavila príznak dirty.
+async function migratePw(){
+  if(!DB || !DB.password) return;
+  try{
+    if(!DB.passwordHash) DB.passwordHash = await sha256hex(DB.password);
+    delete DB.password;
+    localStorage.setItem('sportStrom', JSON.stringify(DB));
+  }catch(e){ /* crypto nedostupné — nechaj tak, chkPw má záložnú vetvu */ }
+}
+
+// ============================================================
 // NAVIGATION
 // ============================================================
 // --- HASH ROUTING: zdieľateľné adresy typu #/hokej/sutaze ---
@@ -13438,8 +13456,13 @@ function toggleAdmin(){
   document.getElementById('pwErr').textContent='';
   setTimeout(()=>document.getElementById('pwIn').focus(),100);
 }
-function chkPw(){
-  if(document.getElementById('pwIn').value === DB.password){
+async function chkPw(){
+  const val = document.getElementById('pwIn').value;
+  let ok = false;
+  if(DB.passwordHash){ ok = (await sha256hex(val)) === DB.passwordHash; }
+  else if(DB.password){ ok = (val === DB.password); } // stará záloha bez hashu
+  if(ok){
+    await migratePw(); // ak dáta ešte obsahujú plaintext heslo, preveď na hash
     document.getElementById('pwScreen').classList.remove('open');
     adminMode = true;
     document.getElementById('adminTog').classList.add('on');
@@ -13569,11 +13592,11 @@ function openSettings(){
   document.getElementById('stPw').value    = '';
   document.getElementById('settMo').classList.add('open');
 }
-function saveSett(){
+async function saveSett(){
   DB.title    = document.getElementById('stTitle').value.trim()||DB.title;
   DB.subtitle = document.getElementById('stSub').value.trim();
   const pw    = document.getElementById('stPw').value;
-  if(pw) DB.password = pw;
+  if(pw){ DB.passwordHash = await sha256hex(pw); delete DB.password; }
   document.getElementById('siteSub').textContent = DB.subtitle;
   document.title = DB.title;
   save(); closeMo('settMo');
@@ -13610,6 +13633,7 @@ function importData(e){
       if(!confirm('Importovať? Nahradí všetky aktuálne dáta.')) return;
       DB=d;
       ensureSlugs(); // stará záloha nemusí mať slugy — doplň ich hneď
+      migratePw();   // stará záloha môže mať heslo v čitateľnej podobe — preveď na hash
       save(); render(); renderAktualne(); renderBannerSlot();
       stopRotation(); startRotation(); // rotácia podľa nastavení z importu
       document.getElementById('siteSub').textContent=DB.subtitle;
@@ -13996,6 +14020,7 @@ window.addEventListener('hashchange', checkAdminHash);
 // ============================================================
 load().then(()=>{
   if(ensureSlugs()) save(); // migrácia: doplň trvalé slugy priečinkom bez nich
+  migratePw(); // migrácia: heslo v čitateľnej podobe → hash (staré localStorage)
   if(DB.title){
     document.getElementById('siteSub').textContent = DB.subtitle||'';
     document.title = DB.title;
