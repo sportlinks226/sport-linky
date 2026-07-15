@@ -10,7 +10,7 @@
 <meta property="og:description" content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek."/>
 <meta property="og:type" content="website"/>
 <!--OG_DYNAMIC--><!-- generátor sem pri builde doplní og:url a og:image s absolútnou adresou webu -->
-<!-- Posledná úprava kostry: 2026-07-15 — soc. linky (FB/IG…) ukazujú vlajku/emoji z poľa Emoji namiesto loga siete -->
+<!-- Posledná úprava kostry: 2026-07-15 — soc. linky ukazujú vlajku/emoji; ochrana pred starým oknom (save guard) + odznak verzie v admin lište -->
 
 
 <style>
@@ -441,6 +441,7 @@ footer{
 <!-- ADMIN BAR -->
 <div id="adminBar">
   <span style="font-size:0.78rem;color:var(--muted)">⚙️ ADMIN:</span>
+  <span id="verBadge" style="font-size:0.78rem;font-weight:bold;color:#4caf50" title="Verzia dát, na ktorej práve pracuješ"></span>
   <button class="btn btn-p" onclick="openAdd()">➕ Pridať sem</button>
   <button class="btn btn-s" onclick="openAktualne()">📌 Aktuálne</button>
   <button class="btn btn-s" onclick="openSettings()">🛠 Nastavenia</button>
@@ -13127,9 +13128,30 @@ async function load(){
     DB = JSON.parse(JSON.stringify(DEFAULT));
   }
 }
-function save(){
+function save(force){
+  // OCHRANA pred starým oknom: ak sú v prehliadači uložené NOVŠIE dáta než tie,
+  // na ktorých práve pracuješ, nič neprepíš — okno je zastarané, treba F5.
+  // (force=true preskočí kontrolu — používa Import, kde je nahradenie zámerné)
+  if(!force){
+    try{
+      const s = localStorage.getItem('sportStrom');
+      if(s){
+        const st = JSON.parse(s);
+        if((st.version||0) > (DB.version||0)){
+          alert('POZOR: Úprava sa NEULOŽILA!\n\nV prehliadači sú novšie dáta (v'+st.version+') než v tomto okne (v'+(DB.version||'?')+').\nToto okno je zrejme staré — obnov stránku (F5) a sprav úpravu znova.');
+          return false;
+        }
+      }
+    }catch(e){}
+  }
   localStorage.setItem('sportStrom', JSON.stringify(DB));
   localStorage.setItem('sportStromDirty', '1'); // rozpracované nezverejnené úpravy
+  updateVerBadge();
+  return true;
+}
+function updateVerBadge(){
+  const el = document.getElementById('verBadge');
+  if(el) el.textContent = 'v'+(DB.version||'?');
 }
 function uid(){ return 'n'+Date.now()+Math.random().toString(36).slice(2,5); }
 
@@ -13482,6 +13504,7 @@ async function chkPw(){
     document.body.classList.add('admin-mode');
     render();
     renderAktualne();
+    updateVerBadge();
   } else {
     document.getElementById('pwErr').textContent = 'Nesprávne heslo!';
     document.getElementById('pwIn').value='';
@@ -13631,7 +13654,7 @@ function publishData(){
   // stiahne data.json — pripravený na nahratie na GitHub
   // zvýši verziu dát, aby web aj ostatné prehliadače nové dáta automaticky prevzali
   DB.version = (DB.version||0) + 1;
-  save();
+  if(!save()){ DB.version--; return; } // staré okno — nesťahuj staré dáta
   downloadJSON('data.json');
 }
 function importData(e){
@@ -13645,7 +13668,7 @@ function importData(e){
       DB=d;
       ensureSlugs(); // stará záloha nemusí mať slugy — doplň ich hneď
       migratePw();   // stará záloha môže mať heslo v čitateľnej podobe — preveď na hash
-      save(); render(); renderAktualne(); renderBannerSlot();
+      save(true); render(); renderAktualne(); renderBannerSlot(); // force — import nahrádza dáta zámerne
       stopRotation(); startRotation(); // rotácia podľa nastavení z importu
       document.getElementById('siteSub').textContent=DB.subtitle;
       document.title=DB.title;
