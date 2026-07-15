@@ -10,7 +10,7 @@
 <meta property="og:description" content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek."/>
 <meta property="og:type" content="website"/>
 <!--OG_DYNAMIC--><!-- generátor sem pri builde doplní og:url a og:image s absolútnou adresou webu -->
-<!-- Posledná úprava kostry: 2026-07-06 — bannery (sekcie/kampane/váhy), slug pole, favicona + OG meta -->
+<!-- Posledná úprava kostry: 2026-07-15 — soc. linky (FB/IG…) ukazujú vlajku/emoji z poľa Emoji namiesto loga siete -->
 
 
 <style>
@@ -13364,9 +13364,9 @@ function renderLevel(){
             <button class="ibtn d" onclick="delNode('${n.id}')">🗑</button>
           </div>
           <a href="${n.url}" target="_blank" rel="noopener" ${adminMode?'onclick="return false"':''}>
-            <img class="fav" src="https://www.google.com/s2/favicons?domain=${host}&sz=64" alt="" loading="lazy" data-fallback="${DB.nodes.find(x=>x.id===n.parentId)?.icon||'🔗'}" onerror="favError(this)" onload="favLoaded(this)"/>
+            ${favHtml(n, host)}
             <div>
-              <div class="cl-name">${n.icon?n.icon+' ':''}${n.name}</div>
+              <div class="cl-name">${(n.icon && !SOCIAL_FAV.test(host))?n.icon+' ':''}${n.name}</div>
               <div class="cl-desc">${n.desc||''}</div>
             </div>
           </a>
@@ -13425,7 +13425,7 @@ function renderSearch(q){
       const path = getPath(n.parentId).map(p=>p.name).join(' › ');
       html += `<div class="card-link">
         <a href="${n.url}" target="_blank" rel="noopener">
-          <img class="fav" src="https://www.google.com/s2/favicons?domain=${host}&sz=64" alt="" loading="lazy" data-fallback="${DB.nodes.find(x=>x.id===n.parentId)?.icon||'🔗'}" onerror="favError(this)" onload="favLoaded(this)"/>
+          ${favHtml(n, host)}
           <div><div class="cl-name">${n.name}</div><div class="cl-desc sr-path">${path}</div></div>
         </a></div>`;
     });
@@ -13437,6 +13437,17 @@ function renderSearch(q){
 // ============================================================
 // FAVICON FALLBACK
 // ============================================================
+// Sociálne siete: ich favicona je logo siete (FB/IG…), nie federácie/klubu.
+// Pri týchto doménach faviconu nenačítavame — ukážeme ikonu linky
+// (kód krajiny "gh" → vlajka, alebo emoji), inak ikonu nadradeného priečinka.
+const SOCIAL_FAV = /(^|\.)(facebook\.com|fb\.com|instagram\.com|x\.com|twitter\.com|youtube\.com|youtu\.be|tiktok\.com)$/;
+function favHtml(n, host){
+  const parentIcon = DB.nodes.find(x=>x.id===n.parentId)?.icon || '🔗';
+  if(SOCIAL_FAV.test(host)){
+    return `<span class="fav-fb">${renderIcon(n.icon||parentIcon,'24x18')||'🔗'}</span>`;
+  }
+  return `<img class="fav" src="https://www.google.com/s2/favicons?domain=${host}&sz=64" alt="" loading="lazy" data-fallback="${n.icon||parentIcon}" onerror="favError(this)" onload="favLoaded(this)"/>`;
+}
 function favError(img){
   const fb = img.getAttribute('data-fallback')||'🔗';
   // ak je náhradná ikona kód krajiny ("sk"), ukáž vlajku — nie text
