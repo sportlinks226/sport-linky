@@ -13366,7 +13366,7 @@ function renderLevel(){
           <a href="${n.url}" target="_blank" rel="noopener" ${adminMode?'onclick="return false"':''}>
             ${favHtml(n, host)}
             <div>
-              <div class="cl-name">${(n.icon && !SOCIAL_FAV.test(host))?n.icon+' ':''}${n.name}</div>
+              <div class="cl-name">${(n.icon && !SOCIAL_FAV.test(host) && !/^[a-z]{2}(-[a-z]{2,4})?$/.test(n.icon))?n.icon+' ':''}${n.name}</div>
               <div class="cl-desc">${n.desc||''}</div>
             </div>
           </a>
