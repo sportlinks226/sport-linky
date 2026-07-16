@@ -1,5 +1,5 @@
 {
- "version": 41,
+ "version": 42,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -27941,6 +27941,1836 @@
    "name": "Paris 13 Atletico",
    "desc": "Klub z 13. parížskeho obvodu",
    "url": "https://paris13atletico.fr/",
+   "order": 17
+  },
+  {
+   "id": "f_svk_l1",
+   "parentId": "f_fut_klu_eu_svk",
+   "type": "folder",
+   "icon": "",
+   "name": "Niké liga",
+   "desc": "Najvyššia slovenská futbalová súťaž — 12 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "nike-liga"
+  },
+  {
+   "id": "f_svk_l1_k1",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "ŠK Slovan Bratislava",
+   "desc": "Najúspešnejší slovenský klub z hlavného mesta, rekordný majster a pravidelný účastník európskych pohárov.",
+   "url": "https://www.skslovan.com",
+   "order": 0
+  },
+  {
+   "id": "f_svk_l1_k2",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Spartak Trnava",
+   "desc": "Klub s prezývkou „Bíli andeli\" z Trnavy, jeden z najslávnejších na Slovensku so silnou fanúšikovskou základňou.",
+   "url": "https://www.spartak.sk",
+   "order": 1
+  },
+  {
+   "id": "f_svk_l1_k3",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "MŠK Žilina",
+   "desc": "Žltozelení „šošoni\" zo Žiliny, viacnásobný majster známy výbornou prácou s mládežou.",
+   "url": "https://www.mskzilina.sk",
+   "order": 2
+  },
+  {
+   "id": "f_svk_l1_k4",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC DAC 1904 Dunajská Streda",
+   "desc": "Klub z Dunajskej Stredy s modernou MOL Arénou a početnou fanúšikovskou komunitou z celého Žitného ostrova.",
+   "url": "https://www.dac1904.sk",
+   "order": 3
+  },
+  {
+   "id": "f_svk_l1_k5",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AS Trenčín",
+   "desc": "Trenčiansky klub známy odvážnym ofenzívnym futbalom a výchovou talentov pre veľké európske ligy.",
+   "url": "https://www.astrencin.sk",
+   "order": 4
+  },
+  {
+   "id": "f_svk_l1_k6",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Ružomberok",
+   "desc": "Liptovský klub, majster z roku 2006 a víťaz Slovnaft Cupu, stálica najvyššej súťaže.",
+   "url": "https://www.mfkruzomberok.sk",
+   "order": 5
+  },
+  {
+   "id": "f_svk_l1_k7",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Dukla Banská Bystrica",
+   "desc": "Klub spod Urpína s bohatou vojenskou históriou, do najvyššej súťaže sa vrátil v roku 2022.",
+   "url": "https://www.fkdukla.sk",
+   "order": 6
+  },
+  {
+   "id": "f_svk_l1_k8",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Zemplín Michalovce",
+   "desc": "Zemplínsky klub z Michaloviec, od sezóny 2015/16 stabilný účastník najvyššej ligy.",
+   "url": "https://mfkzemplin.sk",
+   "order": 7
+  },
+  {
+   "id": "f_svk_l1_k9",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Železiarne Podbrezová",
+   "desc": "Klub horehronských železiarní preslávený jednou z najlepších futbalových akadémií na Slovensku.",
+   "url": "https://fkzp.sk",
+   "order": 8
+  },
+  {
+   "id": "f_svk_l1_k10",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Košice",
+   "desc": "Pokračovateľ košickej futbalovej tradície — pôvodný klub bol prvým slovenským účastníkom Ligy majstrov.",
+   "url": "https://www.fckosice.sk",
+   "order": 9
+  },
+  {
+   "id": "f_svk_l1_k11",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KFC Komárno",
+   "desc": "Klub od Dunaja z Komárna, ktorý sa prebojoval z nižších súťaží až do najvyššej ligy.",
+   "url": "https://kfckomarno.sk",
+   "order": 10
+  },
+  {
+   "id": "f_svk_l1_k12",
+   "parentId": "f_svk_l1",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Skalica",
+   "desc": "Záhorácky klub zo Skalice založený v roku 1920, hrá v bielo-zelených farbách.",
+   "url": "https://www.mfkskalica.sk",
+   "order": 11
+  },
+  {
+   "id": "f_svk_l2",
+   "parentId": "f_fut_klu_eu_svk",
+   "type": "folder",
+   "icon": "",
+   "name": "2. liga",
+   "desc": "Druhá najvyššia slovenská futbalová súťaž (MONACObet liga) — 16 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "2-liga"
+  },
+  {
+   "id": "f_svk_l2_k1",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Tatran Prešov",
+   "desc": "Najstarší slovenský futbalový klub (1898) z metropoly Šariša s novým Futbal Tatran Arénou.",
+   "url": "https://www.fctatran.sk",
+   "order": 0
+  },
+  {
+   "id": "f_svk_l2_k2",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Petržalka",
+   "desc": "Druhý najstarší klub Slovenska — ako Artmedia senzačne hral skupinu Ligy majstrov 2005/06.",
+   "url": "https://www.fcpetrzalka.sk",
+   "order": 1
+  },
+  {
+   "id": "f_svk_l2_k3",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Inter Bratislava",
+   "desc": "Legendárny žlto-čierny klub z Bratislavy, dvojnásobný majster Slovenska z prelomu tisícročí.",
+   "url": "https://fkinterbratislava.sk",
+   "order": 2
+  },
+  {
+   "id": "f_svk_l2_k4",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC ViOn Zlaté Moravce-Vráble",
+   "desc": "Klub zo Zlatých Moraviec, víťaz Slovenského pohára 2007 a dlhoročný ligový účastník.",
+   "url": "https://fcvion.sk",
+   "order": 3
+  },
+  {
+   "id": "f_svk_l2_k5",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Tatran Liptovský Mikuláš",
+   "desc": "Liptovský klub, ktorý si v posledných rokoch dvakrát vyskúšal aj najvyššiu súťaž.",
+   "url": "http://www.mfktatran.sk",
+   "order": 4
+  },
+  {
+   "id": "f_svk_l2_k6",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MŠK Žilina B",
+   "desc": "Rezervný B-tím MŠK Žilina — odkaz vedie na web materského klubu.",
+   "url": "https://www.mskzilina.sk",
+   "order": 5
+  },
+  {
+   "id": "f_svk_l2_k7",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "ŠK Slovan Bratislava B",
+   "desc": "Rezervný B-tím ŠK Slovan Bratislava — odkaz vedie na web materského klubu.",
+   "url": "https://www.skslovan.com",
+   "order": 6
+  },
+  {
+   "id": "f_svk_l2_k8",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Lokomotíva Zvolen",
+   "desc": "Klub spod Pustého hradu založený železničiarmi, tradičný účastník druhej ligy.",
+   "url": "https://mfkzvolen.sk",
+   "order": 7
+  },
+  {
+   "id": "f_svk_l2_k9",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC ŠTK 1914 Šamorín",
+   "desc": "Klub zo Šamorína založený v roku 1914, sídli v modernom športovom areáli x-bionic sphere.",
+   "url": "https://stksamorin.sk",
+   "order": 8
+  },
+  {
+   "id": "f_svk_l2_k10",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MŠK Považská Bystrica",
+   "desc": "Považský klub s dlhou históriou, do druhej ligy sa vrátil po rokoch v nižších súťažiach.",
+   "url": "https://mskpb.eu",
+   "order": 9
+  },
+  {
+   "id": "f_svk_l2_k11",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Pohronie",
+   "desc": "Klub zo Žiaru nad Hronom, v rokoch 2019–2022 pôsobil aj v najvyššej súťaži.",
+   "url": "https://www.fkpohronie.sk",
+   "order": 10
+  },
+  {
+   "id": "f_svk_l2_k12",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "OFK Dynamo Malženice",
+   "desc": "Malá obec s veľkým futbalom — Malženice spolupracujú so Spartakom Trnava ako farmársky klub.",
+   "url": "https://www.dynamomalzenice.sk",
+   "order": 11
+  },
+  {
+   "id": "f_svk_l2_k13",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Slovan Galanta",
+   "desc": "Klub z Galanty s históriou od roku 1911, vrátil sa do profesionálneho futbalu.",
+   "url": "https://slovangalanta.sk",
+   "order": 12
+  },
+  {
+   "id": "f_svk_l2_k14",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Bytča",
+   "desc": "Senzácia slovenského futbalu — päť postupov za päť rokov a historicky prvá druhá liga.",
+   "url": "https://www.mfkbytca.sk",
+   "order": 13
+  },
+  {
+   "id": "f_svk_l2_k15",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Humenné",
+   "desc": "Klub zo Zemplína bez vlastného webu — odkaz vedie na oficiálny facebookový profil.",
+   "url": "https://www.facebook.com/FutbalHumenne/",
+   "order": 14
+  },
+  {
+   "id": "f_svk_l2_k16",
+   "parentId": "f_svk_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Baník Lehota pod Vtáčnikom",
+   "desc": "Obecný klub spod Vtáčnika na hornej Nitre, nováčik profesionálnej súťaže.",
+   "url": "https://fkbaniklehota.sk",
+   "order": 15
+  },
+  {
+   "id": "f_cze_l1",
+   "parentId": "f_fut_klu_eu_cze",
+   "type": "folder",
+   "icon": "",
+   "name": "Chance Liga",
+   "desc": "Najvyššia česká futbalová súťaž — 16 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "chance-liga"
+  },
+  {
+   "id": "f_cze_l1_k1",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Slavia Praha",
+   "desc": "Červeno-bieli z pražského Edenu, rekordný počet titulov v samostatnej českej lige v posledných rokoch.",
+   "url": "https://www.slavia.cz",
+   "order": 0
+  },
+  {
+   "id": "f_cze_l1_k2",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AC Sparta Praha",
+   "desc": "Najslávnejší český klub z Letnej, rekordný majster krajiny s obrovskou fanúšikovskou základňou.",
+   "url": "https://sparta.cz",
+   "order": 1
+  },
+  {
+   "id": "f_cze_l1_k3",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Viktoria Plzeň",
+   "desc": "Západočeský klub, ktorý od roku 2011 pravidelne hráva európske poháre a zbiera tituly.",
+   "url": "https://fcviktoria.cz",
+   "order": 2
+  },
+  {
+   "id": "f_cze_l1_k4",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Baník Ostrava",
+   "desc": "Klub baníckeho kraja so slávnou históriou a jednými z najvernejších fanúšikov v Česku.",
+   "url": "https://www.fcb.cz",
+   "order": 3
+  },
+  {
+   "id": "f_cze_l1_k5",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Sigma Olomouc",
+   "desc": "Hanácky klub známy skvelou akadémiou, víťaz českého pohára 2012.",
+   "url": "https://www.sigmafotbal.cz",
+   "order": 4
+  },
+  {
+   "id": "f_cze_l1_k6",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Slovácko",
+   "desc": "Klub z Uherského Hradišťa, víťaz českého pohára 2022 a stabilný účastník najvyššej ligy.",
+   "url": "https://www.fcslovacko.cz",
+   "order": 5
+  },
+  {
+   "id": "f_cze_l1_k7",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Hradec Králové",
+   "desc": "„Votroci\" z Hradca Králové hrajú v novej Malšovickej aréne.",
+   "url": "https://www.fchk.cz",
+   "order": 6
+  },
+  {
+   "id": "f_cze_l1_k8",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Bohemians Praha 1905",
+   "desc": "Kultový klub z Vršovíc s klokanom v znaku a legendárnym Ďolíčkom.",
+   "url": "https://bohemians.cz",
+   "order": 7
+  },
+  {
+   "id": "f_cze_l1_k9",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Zbrojovka Brno",
+   "desc": "Tradičný moravský klub, majster Československa z roku 1978.",
+   "url": "https://www.fczbrno.cz",
+   "order": 8
+  },
+  {
+   "id": "f_cze_l1_k10",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Jablonec",
+   "desc": "Severočeský klub, dvojnásobný víťaz českého pohára a dlhoročný účastník európskych pohárov.",
+   "url": "https://www.fkjablonec.cz",
+   "order": 9
+  },
+  {
+   "id": "f_cze_l1_k11",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Slovan Liberec",
+   "desc": "Klub spod Ještědu, trojnásobný majster Česka zo stadióna U Nisy.",
+   "url": "https://www.fcslovanliberec.cz",
+   "order": 10
+  },
+  {
+   "id": "f_cze_l1_k12",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Mladá Boleslav",
+   "desc": "Klub z automobilového mesta Škody, dvojnásobný víťaz českého pohára.",
+   "url": "https://fkmb.cz",
+   "order": 11
+  },
+  {
+   "id": "f_cze_l1_k13",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Teplice",
+   "desc": "Severočeský klub z lázeňského mesta, víťaz pohára 2003 a 2009 na Stínadlách.",
+   "url": "https://www.fkteplice.cz",
+   "order": 12
+  },
+  {
+   "id": "f_cze_l1_k14",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Zlín",
+   "desc": "Klub z Baťovho mesta, víťaz českého pohára 2017, vrátil sa medzi elitu v roku 2025.",
+   "url": "https://fctrinityzlin.cz",
+   "order": 13
+  },
+  {
+   "id": "f_cze_l1_k15",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Artis Brno",
+   "desc": "Druhý brnenský klub v elite — nástupca Líšne s najväčšou futbalovou akadémiou na Morave.",
+   "url": "https://www.artisbrno.cz",
+   "order": 14
+  },
+  {
+   "id": "f_cze_l1_k16",
+   "parentId": "f_cze_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Pardubice",
+   "desc": "Východočeský klub, ktorý sa v roku 2020 prvýkrát prebojoval do najvyššej súťaže.",
+   "url": "https://fkpardubice.cz",
+   "order": 15
+  },
+  {
+   "id": "f_cze_l2",
+   "parentId": "f_fut_klu_eu_cze",
+   "type": "folder",
+   "icon": "",
+   "name": "Chance Národní Liga",
+   "desc": "Druhá najvyššia česká futbalová súťaž (ChNL) — 16 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "chance-narodni-liga"
+  },
+  {
+   "id": "f_cze_l2_k1",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Dukla Praha",
+   "desc": "Slávny vojenský klub z Julisky, 11-násobný majster Československa z čias Josefa Masopusta.",
+   "url": "https://fkdukla.cz",
+   "order": 0
+  },
+  {
+   "id": "f_cze_l2_k2",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "MFK Karviná",
+   "desc": "Klub zo sliezskeho baníckeho regiónu, pravidelne pendluje medzi prvou a druhou ligou.",
+   "url": "https://www.mfkkarvina.cz",
+   "order": 1
+  },
+  {
+   "id": "f_cze_l2_k3",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SFC Opava",
+   "desc": "Slezský futbalový klub z Opavy s viac než storočnou tradíciou.",
+   "url": "https://www.sfc.cz",
+   "order": 2
+  },
+  {
+   "id": "f_cze_l2_k4",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Vysočina Jihlava",
+   "desc": "Klub z Vysočiny, ktorý viackrát okúsil aj najvyššiu súťaž.",
+   "url": "https://www.fcvysocina.cz",
+   "order": 3
+  },
+  {
+   "id": "f_cze_l2_k5",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FK Příbram",
+   "desc": "Stredočeský klub nadväzujúci na tradíciu slávnej Dukly, známy futbalovou akadémiou.",
+   "url": "https://www.fkpribram.cz",
+   "order": 4
+  },
+  {
+   "id": "f_cze_l2_k6",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Viagem Ústí nad Labem",
+   "desc": "Severočeský klub z brehov Labe založený v roku 1927.",
+   "url": "https://www.fkusti.cz",
+   "order": 5
+  },
+  {
+   "id": "f_cze_l2_k7",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Třinec",
+   "desc": "Klub z oceliarskeho Třinca, po troch rokoch v MSFL sa vrátil do druhej ligy.",
+   "url": "https://fktrinec.cz",
+   "order": 6
+  },
+  {
+   "id": "f_cze_l2_k8",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Kladno",
+   "desc": "Tradičný stredočeský klub z roku 1903 z hokejového mesta.",
+   "url": "https://www.skkladno.cz",
+   "order": 7
+  },
+  {
+   "id": "f_cze_l2_k9",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Viktoria Žižkov",
+   "desc": "Legendárny pražský klub z roku 1903, dvojnásobný víťaz českého pohára v 90. rokoch.",
+   "url": "https://www.fkvz.cz",
+   "order": 8
+  },
+  {
+   "id": "f_cze_l2_k10",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Sellier & Bellot Vlašim",
+   "desc": "Stredočeský klub podporovaný muničnou továrňou, stálica druhej ligy.",
+   "url": "https://www.fcsbvlasim.cz",
+   "order": 9
+  },
+  {
+   "id": "f_cze_l2_k11",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Slavia Praha B",
+   "desc": "Rezervný B-tím SK Slavia Praha — odkaz vedie na web materského klubu.",
+   "url": "https://www.slavia.cz",
+   "order": 10
+  },
+  {
+   "id": "f_cze_l2_k12",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Baník Ostrava B",
+   "desc": "Rezervný B-tím FC Baník Ostrava — odkaz vedie na web materského klubu.",
+   "url": "https://www.fcb.cz",
+   "order": 11
+  },
+  {
+   "id": "f_cze_l2_k13",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Arsenal Česká Lípa",
+   "desc": "Severočeský nováčik — víťaz ČFL 2025/26 a historický postup do druhej ligy.",
+   "url": "https://www.fkceskalipa.cz",
+   "order": 12
+  },
+  {
+   "id": "f_cze_l2_k14",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Hanácká Slavia Kroměříž",
+   "desc": "Hanácky klub z Kroměříža, od roku 2025 účastník druhej najvyššej súťaže.",
+   "url": "https://hanackaslavia.cz",
+   "order": 13
+  },
+  {
+   "id": "f_cze_l2_k15",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "1. SK Prostějov",
+   "desc": "Klub z Hanej s prvoligovou históriou z medzivojnového obdobia.",
+   "url": "https://www.1skprostejov.cz",
+   "order": 14
+  },
+  {
+   "id": "f_cze_l2_k16",
+   "parentId": "f_cze_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Silon Táborsko",
+   "desc": "Juhočeský klub z Tábora, stabilný účastník druhej ligy.",
+   "url": "https://www.fctaborsko.cz",
+   "order": 15
+  },
+  {
+   "id": "f_alb_l1",
+   "parentId": "f_fut_klu_eu_alb",
+   "type": "folder",
+   "icon": "",
+   "name": "Abissnet Superiore",
+   "desc": "Najvyššia albánska futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "abissnet-superiore"
+  },
+  {
+   "id": "f_alb_l1_k1",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Tirana",
+   "desc": "Rekordný majster Albánska z hlavného mesta s najväčším počtom domácich trofejí v krajine.",
+   "url": "https://kftirana.al",
+   "order": 0
+  },
+  {
+   "id": "f_alb_l1_k2",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Partizani Tirana",
+   "desc": "Tradičný tiransky klub s armádnymi koreňmi, viacnásobný majster Albánska.",
+   "url": "https://partizani.al",
+   "order": 1
+  },
+  {
+   "id": "f_alb_l1_k3",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Dinamo City",
+   "desc": "Druhý najtrofejovejší albánsky klub (18 titulov), donedávna známy ako Dinamo Tirana.",
+   "url": "https://fcdinamocity.al",
+   "order": 2
+  },
+  {
+   "id": "f_alb_l1_k4",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Vllaznia Shkodër",
+   "desc": "Klub zo Skadaru založený v roku 1919, jeden z najstarších a najslávnejších v Albánsku.",
+   "url": "https://vllaznia.al",
+   "order": 3
+  },
+  {
+   "id": "f_alb_l1_k5",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Teuta Durrës",
+   "desc": "Klub z prístavného Durrësu pomenovaný po ilýrskej kráľovnej, majster z roku 2021.",
+   "url": "https://kfteuta.al",
+   "order": 4
+  },
+  {
+   "id": "f_alb_l1_k6",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Skënderbeu Korçë",
+   "desc": "Klub z Korçe, ktorý v minulej dekáde ovládol ligu a ako prvý albánsky tím hral skupinu Európskej ligy.",
+   "url": "https://fkskenderbeu.al",
+   "order": 5
+  },
+  {
+   "id": "f_alb_l1_k7",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Egnatia Rrogozhinë",
+   "desc": "Úradujúca sila albánskeho futbalu z Rrogozhiny bez vlastného webu — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/KFEgnatiaAlbania/",
+   "order": 6
+  },
+  {
+   "id": "f_alb_l1_k8",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Laçi",
+   "desc": "Pohárový špecialista z mesta Laç bez funkčného webu — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/KF.Laci1960/",
+   "order": 7
+  },
+  {
+   "id": "f_alb_l1_k9",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Vora",
+   "desc": "Klub z Vory, ktorý si v roku 2025 vybojoval historicky prvý postup do najvyššej súťaže — odkaz na oficiálny Facebook.",
+   "url": "https://www.facebook.com/VORA.Futboll/",
+   "order": 8
+  },
+  {
+   "id": "f_alb_l1_k10",
+   "parentId": "f_alb_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AF Elbasani",
+   "desc": "Mestská futbalová akadémia z Elbasanu založená v roku 2021, nástupca tradičného KF Elbasani.",
+   "url": "https://afelbasani.al",
+   "order": 9
+  },
+  {
+   "id": "f_and_l1",
+   "parentId": "f_fut_klu_eu_and",
+   "type": "folder",
+   "icon": "",
+   "name": "Primera Divisió",
+   "desc": "Najvyššia andorrská futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "primera-divisio"
+  },
+  {
+   "id": "f_and_l1_k1",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Inter Club d’Escaldes",
+   "desc": "Dominantný klub andorrského futbalu posledných rokov a pravidelný účastník kvalifikácií európskych pohárov.",
+   "url": "https://interescaldes.com",
+   "order": 0
+  },
+  {
+   "id": "f_and_l1_k2",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Santa Coloma",
+   "desc": "Najúspešnejší andorrský klub s trinástimi majstrovskými titulmi.",
+   "url": "https://www.fclubsantacoloma.net",
+   "order": 1
+  },
+  {
+   "id": "f_and_l1_k3",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "UE Santa Coloma",
+   "desc": "Druhý klub zo Santa Colomy, viacnásobný víťaz andorrského pohára Copa Constitució.",
+   "url": "https://www.uesantacoloma.com",
+   "order": 2
+  },
+  {
+   "id": "f_and_l1_k4",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Atlètic Club d’Escaldes",
+   "desc": "Klub z Escaldes-Engordany založený v roku 2002, v posledných sezónach bojuje o titul.",
+   "url": "https://www.acescaldes.com",
+   "order": 3
+  },
+  {
+   "id": "f_and_l1_k5",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Rangers",
+   "desc": "Prvý andorrský klub, ktorý sa predstavil v kvalifikácii Ligy majstrov (2008).",
+   "url": "https://www.rangersfc.ad",
+   "order": 4
+  },
+  {
+   "id": "f_and_l1_k6",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Ordino",
+   "desc": "Klub z horského Ordina vzniknutý z futbalovej akadémie — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fcordinoand/",
+   "order": 5
+  },
+  {
+   "id": "f_and_l1_k7",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Penya Encarnada",
+   "desc": "Klub založený fanúšikmi lisabonskej Benficy — odkaz vedie na oficiálny Instagram.",
+   "url": "https://www.instagram.com/fc.penyadeandorra/",
+   "order": 6
+  },
+  {
+   "id": "f_and_l1_k8",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "CE Carroi",
+   "desc": "Klub z Andorry la Vella s úspešnou mládežníckou akadémiou — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/ce.carroi/",
+   "order": 7
+  },
+  {
+   "id": "f_and_l1_k9",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "CF Esperança",
+   "desc": "Mladý klub založený v roku 2020, rýchlo sa prebojoval do prvej divízie — odkaz vedie na oficiálny Instagram.",
+   "url": "https://www.instagram.com/cfesperanca/",
+   "order": 8
+  },
+  {
+   "id": "f_and_l1_k10",
+   "parentId": "f_and_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Pas de la Casa",
+   "desc": "Klub z lyžiarskeho strediska Pas de la Casa pri francúzskych hraniciach.",
+   "url": "https://fcpasdelacasa.com",
+   "order": 9
+  },
+  {
+   "id": "f_blr_l1",
+   "parentId": "f_fut_klu_eu_blr",
+   "type": "folder",
+   "icon": "",
+   "name": "Vyššia liga",
+   "desc": "Najvyššia bieloruská futbalová súťaž — 16 klubov, sezóna 2026.",
+   "order": 0,
+   "slug": "vyssia-liga"
+  },
+  {
+   "id": "f_blr_l1_k1",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Dinamo Minsk",
+   "desc": "Najslávnejší bieloruský klub, majster ZSSR z roku 1982 a rekordér domácej ligy.",
+   "url": "https://dinamo-minsk.by",
+   "order": 0
+  },
+  {
+   "id": "f_blr_l1_k2",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "BATE Borisov",
+   "desc": "Fenomén z Borisova — 13 titulov v rade a pamätné víťazstvá nad Bayernom v Lige majstrov.",
+   "url": "https://www.fcbate.by",
+   "order": 1
+  },
+  {
+   "id": "f_blr_l1_k3",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "ML Vitebsk",
+   "desc": "Úradujúci majster Bieloruska — klub sa do Vitebska presťahoval z Rogačova a premenoval v roku 2024.",
+   "url": "https://fcml.by",
+   "order": 2
+  },
+  {
+   "id": "f_blr_l1_k4",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Dynama Brest",
+   "desc": "Majster z roku 2019, ktorého čestným predsedom bol krátko aj Diego Maradona.",
+   "url": "https://dynamo-brest.by",
+   "order": 3
+  },
+  {
+   "id": "f_blr_l1_k5",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Torpedo-BelAZ Žodzina",
+   "desc": "Klub automobilky BelAZ zo Žodzina, výrobcu obrích banských nákladiakov.",
+   "url": "https://torpedo-belaz.by",
+   "order": 4
+  },
+  {
+   "id": "f_blr_l1_k6",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Isloč",
+   "desc": "Klub z Minského rajónu pomenovaný po rieke Isloč, v elite sa drží od roku 2016.",
+   "url": "https://fcisloch.by",
+   "order": 5
+  },
+  {
+   "id": "f_blr_l1_k7",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Neman Grodno",
+   "desc": "Tradičný klub od rieky Neman z Grodna, v posledných rokoch pravidelne v boji o medaily.",
+   "url": "https://www.fcneman.by",
+   "order": 6
+  },
+  {
+   "id": "f_blr_l1_k8",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Gomeľ",
+   "desc": "Klub z druhého najväčšieho bieloruského mesta, majster z roku 2003.",
+   "url": "https://www.fcgomel.by",
+   "order": 7
+  },
+  {
+   "id": "f_blr_l1_k9",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Minsk",
+   "desc": "Mestský klub z hlavného mesta, víťaz bieloruského pohára 2013.",
+   "url": "https://fcminsk.by",
+   "order": 8
+  },
+  {
+   "id": "f_blr_l1_k10",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Slavia Mozyr",
+   "desc": "Dvojnásobný majster z Mozyra (1996, 2000) z juhovýchodu krajiny.",
+   "url": "https://fcslavia.by",
+   "order": 9
+  },
+  {
+   "id": "f_blr_l1_k11",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Dnepr Mogilev",
+   "desc": "Klub od rieky Dneper z Mogileva, prekvapivý majster z roku 1998.",
+   "url": "https://fc-dnepr.by",
+   "order": 10
+  },
+  {
+   "id": "f_blr_l1_k12",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Belšina Bobrujsk",
+   "desc": "Klub pneumatikárne Belšina z Bobrujska, majster z roku 2001.",
+   "url": "https://fcbelshina.by",
+   "order": 11
+  },
+  {
+   "id": "f_blr_l1_k13",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Vitebsk",
+   "desc": "Tradičný klub z Vitebska, víťaz pohára 1998 a viacnásobný medailista deväťdesiatych rokov.",
+   "url": "https://fc.vitebsk.by",
+   "order": 12
+  },
+  {
+   "id": "f_blr_l1_k14",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Naftan Novopolock",
+   "desc": "Klub rafinérie Naftan z Novopolocka, dvojnásobný víťaz bieloruského pohára.",
+   "url": "https://fcnaftan-novopolotsk.by",
+   "order": 13
+  },
+  {
+   "id": "f_blr_l1_k15",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Arsenal Dzeržinsk",
+   "desc": "Mladý klub založený v roku 2018, rýchlo vystúpal do najvyššej súťaže — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/arsenaldzerzhinsk/",
+   "order": 14
+  },
+  {
+   "id": "f_blr_l1_k16",
+   "parentId": "f_blr_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Baranoviči",
+   "desc": "Klub z Baranovičov v Brestskej oblasti, nováčik medzi bieloruskou elitou.",
+   "url": "https://fcbaranovichi.by",
+   "order": 15
+  },
+  {
+   "id": "f_bel_l1",
+   "parentId": "f_fut_klu_eu_bel",
+   "type": "folder",
+   "icon": "",
+   "name": "Jupiler Pro League",
+   "desc": "Najvyššia belgická futbalová súťaž — 18 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "jupiler-pro-league"
+  },
+  {
+   "id": "f_bel_l1_k1",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Club Brugge",
+   "desc": "Modro-čierny gigant z Brugg, rekordný belgický majster posledných dekád a stálica Ligy majstrov.",
+   "url": "https://www.clubbrugge.be",
+   "order": 0
+  },
+  {
+   "id": "f_bel_l1_k2",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Royale Union Saint-Gilloise",
+   "desc": "Bruselský klub so slávnou predvojnovou históriou, po návrate medzi elitu majster z roku 2025.",
+   "url": "https://rusg.brussels",
+   "order": 1
+  },
+  {
+   "id": "f_bel_l1_k3",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "RSC Anderlecht",
+   "desc": "Najtrofejovejší belgický klub z Bruselu, viacnásobný víťaz európskych pohárov.",
+   "url": "https://www.rsca.be",
+   "order": 2
+  },
+  {
+   "id": "f_bel_l1_k4",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KRC Genk",
+   "desc": "Limburský klub známy skvelou akadémiou — vychoval Courtoisa, De Bruyneho či Oriho.",
+   "url": "https://www.krcgenk.be",
+   "order": 3
+  },
+  {
+   "id": "f_bel_l1_k5",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KAA Gent",
+   "desc": "Klub z Gentu, majster 2015 a pravidelný účastník európskych pohárov.",
+   "url": "https://www.kaagent.be",
+   "order": 4
+  },
+  {
+   "id": "f_bel_l1_k6",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Royal Antwerp FC",
+   "desc": "Najstarší belgický klub (matrikula č. 1) z Antverp, majster a double z roku 2023.",
+   "url": "https://www.rafc.be",
+   "order": 5
+  },
+  {
+   "id": "f_bel_l1_k7",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Standard Liège",
+   "desc": "Klub z Liège s vášnivými fanúšikmi na štadióne Sclessin, desaťnásobný majster.",
+   "url": "https://standard.be",
+   "order": 6
+  },
+  {
+   "id": "f_bel_l1_k8",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Sporting Charleroi",
+   "desc": "Klub čiernej krajiny z Charleroi prezývaný Zebry.",
+   "url": "https://sporting-charleroi.be",
+   "order": 7
+  },
+  {
+   "id": "f_bel_l1_k9",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KV Mechelen",
+   "desc": "Klub z Mechelenu, ktorý v roku 1988 senzačne vyhral Pohár víťazov pohárov.",
+   "url": "https://www.kvmechelen.be",
+   "order": 8
+  },
+  {
+   "id": "f_bel_l1_k10",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KVC Westerlo",
+   "desc": "Klub z kempenského Westerla, stálica najvyššej súťaže.",
+   "url": "https://www.kvcwesterlo.be",
+   "order": 9
+  },
+  {
+   "id": "f_bel_l1_k11",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Sint-Truiden VV",
+   "desc": "Klub z ovocinárskeho regiónu Haspengouw s výraznými japonskými väzbami vo vlastníctve aj kádri.",
+   "url": "https://www.stvv.com",
+   "order": 10
+  },
+  {
+   "id": "f_bel_l1_k12",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "OH Leuven",
+   "desc": "Klub z univerzitného Leuvenu vlastnený thajskou skupinou King Power.",
+   "url": "https://www.ohl.be",
+   "order": 11
+  },
+  {
+   "id": "f_bel_l1_k13",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Cercle Brugge",
+   "desc": "Druhý klub z Brugg zdieľajúci štadión Jana Breydela s mestským rivalom.",
+   "url": "https://cerclebrugge.be",
+   "order": 12
+  },
+  {
+   "id": "f_bel_l1_k14",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SV Zulte Waregem",
+   "desc": "Západoflámsky klub prezývaný Essevee, dvojnásobný víťaz belgického pohára.",
+   "url": "https://www.essevee.be",
+   "order": 13
+  },
+  {
+   "id": "f_bel_l1_k15",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KV Kortrijk",
+   "desc": "Klub z Kortrijku, ktorý sa vrátil medzi elitu hneď po zostupe.",
+   "url": "https://www.kvk.be",
+   "order": 14
+  },
+  {
+   "id": "f_bel_l1_k16",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Lommel SK",
+   "desc": "Limburský klub patriaci do skupiny City Football Group (Manchester City), nováčik elity.",
+   "url": "https://www.lommelsk.be",
+   "order": 15
+  },
+  {
+   "id": "f_bel_l1_k17",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Beveren",
+   "desc": "Klub z Waaslandu s dvomi titulmi zo 80. rokov, vrátil sa do najvyššej súťaže.",
+   "url": "https://www.skbeveren.be",
+   "order": 16
+  },
+  {
+   "id": "f_bel_l1_k18",
+   "parentId": "f_bel_l1",
+   "type": "link",
+   "icon": "",
+   "name": "RAAL La Louvière",
+   "desc": "Obnovený klub z mesta vlkov La Louvière, rýchlo vystúpal až do Pro League.",
+   "url": "https://www.raal.be",
+   "order": 17
+  },
+  {
+   "id": "f_bel_l2",
+   "parentId": "f_fut_klu_eu_bel",
+   "type": "folder",
+   "icon": "",
+   "name": "Challenger Pro League",
+   "desc": "Druhá najvyššia belgická futbalová súťaž — 15 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "challenger-pro-league"
+  },
+  {
+   "id": "f_bel_l2_k1",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Beerschot VA",
+   "desc": "Tradičný antverpský klub s fialovými farbami a siedmimi titulmi z medzivojnovej éry.",
+   "url": "https://www.beerschot.be",
+   "order": 0
+  },
+  {
+   "id": "f_bel_l2_k2",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "K. Lierse SK",
+   "desc": "Klub z Lieru nadväzujúci na štvornásobného majstra Lierse SK.",
+   "url": "https://www.lierse.com",
+   "order": 1
+  },
+  {
+   "id": "f_bel_l2_k3",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "RFC Liège",
+   "desc": "Prvý belgický majster (1896) z Liège — klub, kvôli ktorému vznikol slávny prípad Bosman.",
+   "url": "https://www.rfcl.be",
+   "order": 2
+  },
+  {
+   "id": "f_bel_l2_k4",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "RFC Seraing",
+   "desc": "Klub zo Seraingu pri Liège, dlhoročný partner francúzskeho FC Metz.",
+   "url": "https://www.rfc-seraing.be",
+   "order": 3
+  },
+  {
+   "id": "f_bel_l2_k5",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FCV Dender",
+   "desc": "Klub z Denderleeuw, ktorý si nedávno zahral aj najvyššiu súťaž.",
+   "url": "https://fcvdendereh.be",
+   "order": 4
+  },
+  {
+   "id": "f_bel_l2_k6",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "KAS Eupen",
+   "desc": "Klub z nemecky hovoriaceho Eupenu — prvý z tejto komunity v belgickej elite.",
+   "url": "https://www.as-eupen.be",
+   "order": 5
+  },
+  {
+   "id": "f_bel_l2_k7",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "RE Virton",
+   "desc": "Klub z gaumského Virtonu na juhu valónskeho Luxemburska.",
+   "url": "https://www.revirton.be",
+   "order": 6
+  },
+  {
+   "id": "f_bel_l2_k8",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Royal Francs Borains",
+   "desc": "Klub z baníckeho Borinage pri Monse s bohatou regionálnou tradíciou.",
+   "url": "https://www.francsborains.be",
+   "order": 7
+  },
+  {
+   "id": "f_bel_l2_k9",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Patro Eisden Maasmechelen",
+   "desc": "Klub z bývalej baníckej kolónie Eisden pri holandských hraniciach.",
+   "url": "https://patroeisden.com",
+   "order": 8
+  },
+  {
+   "id": "f_bel_l2_k10",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Sporting Hasselt",
+   "desc": "Klub z limburskej metropoly Hasselt, ktorý kúpili herec Rik Verheye a podnikateľ Sam Kerkhofs.",
+   "url": "https://www.sportinghasselt.be",
+   "order": 9
+  },
+  {
+   "id": "f_bel_l2_k11",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "KSC Lokeren",
+   "desc": "Obnovený klub z Lokeren nadväzujúci na tradičného účastníka najvyššej súťaže.",
+   "url": "https://www.sporting.be",
+   "order": 10
+  },
+  {
+   "id": "f_bel_l2_k12",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Club NXT (Club Brugge U23)",
+   "desc": "Rezervný U23 tím Club Brugge — odkaz vedie na web materského klubu.",
+   "url": "https://www.clubbrugge.be",
+   "order": 11
+  },
+  {
+   "id": "f_bel_l2_k13",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Jong Genk (KRC Genk U23)",
+   "desc": "Rezervný U23 tím KRC Genk — odkaz vedie na web materského klubu.",
+   "url": "https://www.krcgenk.be",
+   "order": 12
+  },
+  {
+   "id": "f_bel_l2_k14",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "RSCA Futures (Anderlecht U23)",
+   "desc": "Rezervný U23 tím RSC Anderlecht — odkaz vedie na web materského klubu.",
+   "url": "https://www.rsca.be",
+   "order": 13
+  },
+  {
+   "id": "f_bel_l2_k15",
+   "parentId": "f_bel_l2",
+   "type": "link",
+   "icon": "",
+   "name": "KAA Gent U23",
+   "desc": "Rezervný U23 tím KAA Gent — odkaz vedie na web materského klubu.",
+   "url": "https://www.kaagent.be",
+   "order": 14
+  },
+  {
+   "id": "f_bih_l1",
+   "parentId": "f_fut_klu_eu_bih",
+   "type": "folder",
+   "icon": "",
+   "name": "Premijer liga BiH",
+   "desc": "Najvyššia bosnianska futbalová súťaž (WWIN liga) — 10 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "premijer-liga-bih"
+  },
+  {
+   "id": "f_bih_l1_k1",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "HŠK Zrinjski Mostar",
+   "desc": "Najstarší klub v krajine (1905) a dominantný majster posledných rokov z Mostaru.",
+   "url": "https://hskzrinjski.ba",
+   "order": 0
+  },
+  {
+   "id": "f_bih_l1_k2",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Željezničar",
+   "desc": "Sarajevský klub železničiarov zo štadióna Grbavica, šesťnásobný majster BiH.",
+   "url": "https://fkzeljeznicar.ba",
+   "order": 1
+  },
+  {
+   "id": "f_bih_l1_k3",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Sarajevo",
+   "desc": "Bordový klub z hlavného mesta, dvojnásobný majster Juhoslávie.",
+   "url": "https://fksarajevo.ba",
+   "order": 2
+  },
+  {
+   "id": "f_bih_l1_k4",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Borac Banja Luka",
+   "desc": "Najslávnejší klub Republiky srbskej, viacnásobný majster BiH z Banja Luky.",
+   "url": "https://www.fkborac.net",
+   "order": 3
+  },
+  {
+   "id": "f_bih_l1_k5",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Velež Mostar",
+   "desc": "Klub prezývaný Rođeni z Mostaru, dvojnásobný víťaz juhoslovanského pohára.",
+   "url": "https://fkvelez.ba",
+   "order": 4
+  },
+  {
+   "id": "f_bih_l1_k6",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "NK Široki Brijeg",
+   "desc": "Hercegovský klub, dvojnásobný majster BiH zo Širokého Brijegu.",
+   "url": "https://www.nk-sirokibrijeg.com",
+   "order": 5
+  },
+  {
+   "id": "f_bih_l1_k7",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "NK Čelik Zenica",
+   "desc": "Oceliarsky klub zo Zenice s kultovým štadiónom Bilino polje.",
+   "url": "https://nkcelik.ba",
+   "order": 6
+  },
+  {
+   "id": "f_bih_l1_k8",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Radnik Bijeljina",
+   "desc": "Klub zo Semberije, víťaz bosnianskeho pohára 2016.",
+   "url": "https://fkradnikbijeljina.com",
+   "order": 7
+  },
+  {
+   "id": "f_bih_l1_k9",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Sloga Meridian",
+   "desc": "Klub z Doboja, ktorý sa po rokoch vrátil medzi bosniansku elitu.",
+   "url": "https://fksloga.ba",
+   "order": 8
+  },
+  {
+   "id": "f_bih_l1_k10",
+   "parentId": "f_bih_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK BSK Banja Luka",
+   "desc": "Druhý klub z Banja Luky, nováčik najvyššej súťaže bez vlastného webu — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/p/FK-Bsk-Banja-Luka-100063521414266/",
+   "order": 9
+  },
+  {
+   "id": "f_bul_l1",
+   "parentId": "f_fut_klu_eu_bgr",
+   "type": "folder",
+   "icon": "",
+   "name": "efbet League (Parva liga)",
+   "desc": "Najvyššia bulharská futbalová súťaž — 14 klubov, sezóna 2026/27.",
+   "order": 0,
+   "slug": "efbet-league-parva-liga"
+  },
+  {
+   "id": "f_bul_l1_k1",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Ludogorec Razgrad",
+   "desc": "Hegemón bulharského futbalu z Razgradu — nepretržitá séria titulov od roku 2012.",
+   "url": "https://ludogorets.com",
+   "order": 0
+  },
+  {
+   "id": "f_bul_l1_k2",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "CSKA Sofia",
+   "desc": "Armádny klub z red-belej Sofie, rekordný 31-násobný majster Bulharska.",
+   "url": "https://cska.bg",
+   "order": 1
+  },
+  {
+   "id": "f_bul_l1_k3",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Levski Sofia",
+   "desc": "Ľudový klub pomenovaný po národnom hrdinovi Vasilovi Levskom, večný rival CSKA.",
+   "url": "https://levski.bg",
+   "order": 2
+  },
+  {
+   "id": "f_bul_l1_k4",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Botev Plovdiv",
+   "desc": "Najstarší bulharský klub (1912) zo žlto-čierneho Plovdivu.",
+   "url": "https://botevplovdiv.bg",
+   "order": 3
+  },
+  {
+   "id": "f_bul_l1_k5",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Lokomotiv Plovdiv",
+   "desc": "Čierno-biely plovdivský rival Boteva, majster z roku 2004.",
+   "url": "https://lokomotivpd.com",
+   "order": 4
+  },
+  {
+   "id": "f_bul_l1_k6",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Cherno More Varna",
+   "desc": "Námornícky klub od Čierneho mora z Varny s prezývkou Moriaci.",
+   "url": "https://www.chernomorepfc.bg",
+   "order": 5
+  },
+  {
+   "id": "f_bul_l1_k7",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Slavia Sofia",
+   "desc": "Najstarší sofijský klub (1913), biela Slavia so siedmimi titulmi.",
+   "url": "https://pfcslavia.com",
+   "order": 6
+  },
+  {
+   "id": "f_bul_l1_k8",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Lokomotiv Sofia",
+   "desc": "Železničiarsky klub zo Sofie, štvornásobný majster Bulharska.",
+   "url": "https://fclokomotivsofia.bg",
+   "order": 7
+  },
+  {
+   "id": "f_bul_l1_k9",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "CSKA 1948 Sofia",
+   "desc": "Klub založený fanúšikmi CSKA v roku 2016, rýchlo vystúpal do najvyššej súťaže.",
+   "url": "https://cska1948.bg",
+   "order": 8
+  },
+  {
+   "id": "f_bul_l1_k10",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Arda Kardžali",
+   "desc": "Klub z Rodop pomenovaný po rieke Arda, objav posledných sezón s európskou premiérou.",
+   "url": "https://fcarda.bg",
+   "order": 9
+  },
+  {
+   "id": "f_bul_l1_k11",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Botev Vraca",
+   "desc": "Klub spod Vračanského Balkánu, tradičný účastník najvyššej súťaže.",
+   "url": "https://botev-vratsa.com",
+   "order": 10
+  },
+  {
+   "id": "f_bul_l1_k12",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Spartak Varna",
+   "desc": "Druhý klub z Varny s modro-bielymi farbami a dlhou prvoligovou históriou.",
+   "url": "https://spartakvarna.bg",
+   "order": 11
+  },
+  {
+   "id": "f_bul_l1_k13",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Septemvri Sofia",
+   "desc": "Sofijský klub známy jednou z najproduktívnejších mládežníckych akadémií v krajine.",
+   "url": "https://fcseptemvri.com",
+   "order": 12
+  },
+  {
+   "id": "f_bul_l1_k14",
+   "parentId": "f_bul_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Dunav Ruse",
+   "desc": "Klub od Dunaja z Ruse, nováčik najvyššej súťaže.",
+   "url": "https://fcdunav.bg",
+   "order": 13
+  },
+  {
+   "id": "f_bul_l2",
+   "parentId": "f_fut_klu_eu_bgr",
+   "type": "folder",
+   "icon": "",
+   "name": "Vtora liga",
+   "desc": "Druhá najvyššia bulharská futbalová súťaž — 18 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "vtora-liga"
+  },
+  {
+   "id": "f_bul_l2_k1",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Beroe Stara Zagora",
+   "desc": "Zeleno-bieli z mesta líp Stara Zagora, majster Bulharska z roku 1986.",
+   "url": "https://beroe.bg",
+   "order": 0
+  },
+  {
+   "id": "f_bul_l2_k2",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Pirin Blagoevgrad",
+   "desc": "Klub spod pohoria Pirin, ktorého akadémia vychovala Dimitara Berbatova.",
+   "url": "https://fcpirin.com",
+   "order": 1
+  },
+  {
+   "id": "f_bul_l2_k3",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Hebar Pazardžik",
+   "desc": "Klub z Pazardžiku pomenovaný po rieke Marica (starým menom Hebros).",
+   "url": "https://hebarfc.com",
+   "order": 2
+  },
+  {
+   "id": "f_bul_l2_k4",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Etar Veliko Tarnovo",
+   "desc": "Klub zo starého hlavného mesta Bulharska nadväzujúci na majstra z roku 1991.",
+   "url": "https://etarvt.bg",
+   "order": 3
+  },
+  {
+   "id": "f_bul_l2_k5",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Montana",
+   "desc": "Storočný klub zo severozápadu Bulharska hrajúci na štadióne Ogosta.",
+   "url": "https://pfcmontana.bg",
+   "order": 4
+  },
+  {
+   "id": "f_bul_l2_k6",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Marek Dupnica",
+   "desc": "Klub z Dupnice, prekvapivý víťaz bulharského pohára 1978.",
+   "url": "https://marek1915.com",
+   "order": 5
+  },
+  {
+   "id": "f_bul_l2_k7",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Spartak Pleven",
+   "desc": "Tradičný klub z Plevenu založený v roku 1919.",
+   "url": "https://spartak-pleven.bg",
+   "order": 6
+  },
+  {
+   "id": "f_bul_l2_k8",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Dobrudža Dobrič",
+   "desc": "Žlto-zelený klub z Dobriča reprezentujúci obilnicu Bulharska.",
+   "url": "https://pfcdobrudzha1919.com",
+   "order": 7
+  },
+  {
+   "id": "f_bul_l2_k9",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Vihren Sandanski",
+   "desc": "Klub z Piemontu juhu — slnečného Sandanski pod najvyšším vrcholom Pirinu.",
+   "url": "https://ofkvihren.com",
+   "order": 8
+  },
+  {
+   "id": "f_bul_l2_k10",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Nesebar",
+   "desc": "Klub z historického prímorského Nesebaru zapísaného v UNESCO.",
+   "url": "https://ofcnesebar.com",
+   "order": 9
+  },
+  {
+   "id": "f_bul_l2_k11",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Rilski Sportist Samokov",
+   "desc": "Klub zo Samokova pod pohorím Rila.",
+   "url": "https://pfcrilskisportist.com",
+   "order": 10
+  },
+  {
+   "id": "f_bul_l2_k12",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Sportist Svoge",
+   "desc": "Klub z Iskarskej tiesňavy prezývaný Čokoládky — v Svoge sídli známa čokoládovňa.",
+   "url": "https://sportist-svoge.net",
+   "order": 11
+  },
+  {
+   "id": "f_bul_l2_k13",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Yantra Gabrovo",
+   "desc": "Klub od rieky Jantra z Gabrova, mesta humoru.",
+   "url": "https://fcyantra.bg",
+   "order": 12
+  },
+  {
+   "id": "f_bul_l2_k14",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Lokomotiv Gorna Orjahovica",
+   "desc": "Železničiarsky klub z dôležitého uzla Gorna Orjahovica.",
+   "url": "https://lokogo.bg",
+   "order": 13
+  },
+  {
+   "id": "f_bul_l2_k15",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Chernomorets 1919 Burgas",
+   "desc": "Obnovený klub z prímorského Burgasu nadväzujúci na tradíciu Černomorca.",
+   "url": "https://www.chernomoretz1919.com",
+   "order": 14
+  },
+  {
+   "id": "f_bul_l2_k16",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Fratria",
+   "desc": "Mladý ambiciózny klub z Varenska založený v roku 2021, hrá v Albene.",
+   "url": "https://fcfratria.com",
+   "order": 15
+  },
+  {
+   "id": "f_bul_l2_k17",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "CSKA Sofia II",
+   "desc": "Rezervný B-tím CSKA Sofia — odkaz vedie na web materského klubu.",
+   "url": "https://cska.bg",
+   "order": 16
+  },
+  {
+   "id": "f_bul_l2_k18",
+   "parentId": "f_bul_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Ludogorec Razgrad II",
+   "desc": "Rezervný B-tím Ludogorca Razgrad — odkaz vedie na web materského klubu.",
+   "url": "https://ludogorets.com",
    "order": 17
   }
  ]
