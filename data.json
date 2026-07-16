@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 39,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -31,24 +31,24 @@
       "icon": "🎾",
       "name": "ATP Bastad",
       "url": "https://www.atptour.com/en/tournaments/bastad/316/overview",
-      "endsAt": "",
+      "endsAt": "2026-07-19",
       "addedAt": 1783874131538
+    },
+    {
+      "id": "a1784199472754",
+      "icon": "🎾",
+      "name": "ATP Umag",
+      "url": "https://www.croatiaopen.hr/en/",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784199472754
     },
     {
       "id": "a1784187149022",
       "icon": "🏃‍➡",
-      "name": "ME v atletike",
+      "name": "ME v atletike U18",
       "url": "https://www.european-athletics.com/home/live-blog",
       "endsAt": "2026-07-19",
       "addedAt": 1784187149022
-    },
-    {
-      "id": "a1784187416215",
-      "icon": "⛳",
-      "name": "The Open Championship",
-      "url": "https://www.theopen.com/",
-      "endsAt": "2026-07-19",
-      "addedAt": 1784187416215
     },
     {
       "id": "a1784187485941",
@@ -62,7 +62,7 @@
       "id": "a1784187654250",
       "icon": "🎯",
       "name": "Šípky World Matchplay",
-      "url": "https://www.pdc.tv/tournaments/world-matchplay",
+      "url": "https://www.pdc.tv/tournaments/betfred-world-matchplay",
       "endsAt": "",
       "addedAt": 1784187654250
     },
@@ -87,15 +87,31 @@
       "icon": "🏀",
       "name": "Basketbal ME U20 div.B",
       "url": "https://www.fiba.basketball/en/events/fiba-u20-eurobasket-2026-division-b",
-      "endsAt": "",
+      "endsAt": "2026-07-19",
       "addedAt": 1784188919546
+    },
+    {
+      "id": "a1784199580592",
+      "icon": "🏀",
+      "name": "Basketbal MS ženy U17",
+      "url": "https://www.fiba.basketball/en/events/fiba-u17-womens-basketball-world-cup-2026",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784199580592
+    },
+    {
+      "id": "a1784199686053",
+      "icon": "🏀",
+      "name": "NBA Summer league",
+      "url": "https://www.nba.com/summer-league/2026",
+      "endsAt": "",
+      "addedAt": 1784199686053
     },
     {
       "id": "a1784189076821",
       "icon": "🤾‍♂",
       "name": "Hádzaná ME U20 div.A",
       "url": "https://www.eurohandball.com/en/competitions/younger-age-competitions/men/m20-ehf-euro-2026/",
-      "endsAt": "",
+      "endsAt": "2026-07-19",
       "addedAt": 1784189076821
     },
     {
@@ -103,8 +119,40 @@
       "icon": "🤾‍♂",
       "name": "Hádzaná ME U20 div.B",
       "url": "https://www.eurohandball.com/en/competitions/younger-age-competitions/men/m20-ehf-championship-ii-2026/",
-      "endsAt": "",
+      "endsAt": "2026-07-19",
       "addedAt": 1784189139425
+    },
+    {
+      "id": "a1784199380776",
+      "icon": "🏐",
+      "name": "Volejbal Liga národov",
+      "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784199380776
+    },
+    {
+      "id": "a1784187416215",
+      "icon": "⛳",
+      "name": "The Open Championship",
+      "url": "https://www.theopen.com/",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784187416215
+    },
+    {
+      "id": "a1784200033308",
+      "icon": "⛳",
+      "name": "Golf Corales championship",
+      "url": "https://www.europeantour.com/dpworld-tour/corales-puntacana-championship-2026/",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784200033308
+    },
+    {
+      "id": "a1784199946756",
+      "icon": "🏸",
+      "name": "Badminton Japan open",
+      "url": "https://daihatsu-japan-open.com/2026/en/index.html",
+      "endsAt": "2026-07-19",
+      "addedAt": 1784199946756
     }
   ],
   "banners": [],
@@ -23034,6 +23082,176 @@
       "desc": "",
       "url": "https://theanalyst.com/",
       "order": 0
+    },
+    {
+      "id": "n1784201729892eop",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Transfermarkt",
+      "desc": "",
+      "url": "https://www.transfermarkt.com/",
+      "order": 1
+    },
+    {
+      "id": "n1784201787990gyi",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Flashscore",
+      "desc": "",
+      "url": "https://www.flashscore.sk/",
+      "order": 2
+    },
+    {
+      "id": "n1784201860550hn3",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Sofascore",
+      "desc": "",
+      "url": "https://www.sofascore.com/sk",
+      "order": 3
+    },
+    {
+      "id": "n17842018890810ne",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Whoscored",
+      "desc": "",
+      "url": "https://www.whoscored.com/",
+      "order": 4
+    },
+    {
+      "id": "n1784201962911f50",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "FBref",
+      "desc": "",
+      "url": "https://fbref.com/en/",
+      "order": 5
+    },
+    {
+      "id": "n1784201985193i3z",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Soccerway",
+      "desc": "",
+      "url": "https://www.soccerway.com/",
+      "order": 6
+    },
+    {
+      "id": "n1784202019084dt0",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Understat",
+      "desc": "",
+      "url": "https://understat.com/",
+      "order": 7
+    },
+    {
+      "id": "n17842020747244lo",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Soccerstats",
+      "desc": "",
+      "url": "https://www.soccerstats.com/",
+      "order": 8
+    },
+    {
+      "id": "n1784202097021f3d",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Footystats",
+      "desc": "",
+      "url": "https://footystats.org/",
+      "order": 9
+    },
+    {
+      "id": "n17842022013536h2",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Squawka",
+      "desc": "",
+      "url": "https://www.squawka.com/en/",
+      "order": 10
+    },
+    {
+      "id": "n1784202231104y80",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Besoccer",
+      "desc": "",
+      "url": "https://www.besoccer.com/",
+      "order": 11
+    },
+    {
+      "id": "n1784202297407epi",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "11v11",
+      "desc": "",
+      "url": "https://www.11v11.com/",
+      "order": 12
+    },
+    {
+      "id": "n17842023527476xp",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Club Elo",
+      "desc": "",
+      "url": "http://clubelo.com/",
+      "order": 13
+    },
+    {
+      "id": "n1784202392436891",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Worldfootball",
+      "desc": "",
+      "url": "worldfootball.net",
+      "order": 14
+    },
+    {
+      "id": "n1784202420066m8d",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "FCtables",
+      "desc": "",
+      "url": "https://www.fctables.com/",
+      "order": 15
+    },
+    {
+      "id": "n1784202515639a4v",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "API-football",
+      "desc": "",
+      "url": "https://www.api-football.com/",
+      "order": 16
+    },
+    {
+      "id": "n1784202658111hlg",
+      "parentId": "f_fut_sta",
+      "type": "link",
+      "icon": "",
+      "name": "Xgstat",
+      "desc": "",
+      "url": "https://www.xgstat.com/",
+      "order": 17
     }
   ]
 }
