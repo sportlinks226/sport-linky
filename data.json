@@ -1,5 +1,5 @@
 {
- "version": 40,
+ "version": 41,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -24962,6 +24962,2986 @@
    "desc": "„Seagulls\" z prímorského Somersetu",
    "url": "https://www.westonsmareafc.co.uk/",
    "order": 23
+  },
+  {
+   "id": "f_esp_l1",
+   "parentId": "f_fut_klu_eu_esp",
+   "type": "folder",
+   "icon": "",
+   "name": "La Liga",
+   "desc": "Najvyššia španielska súťaž — 20 klubov vrátane Realu Madrid a Barcelony. Oficiálne weby účastníkov sezóny 2026/27.",
+   "order": 0,
+   "slug": "la-liga"
+  },
+  {
+   "id": "f_esp_l1_k0",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Real Madrid",
+   "desc": "Najúspešnejší klub sveta, rekordný víťaz Ligy majstrov, Santiago Bernabéu",
+   "url": "https://www.realmadrid.com/",
+   "order": 0
+  },
+  {
+   "id": "f_esp_l1_k1",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Barcelona",
+   "desc": "Katalánsky gigant s legendárnou akadémiou La Masia",
+   "url": "https://www.fcbarcelona.com/",
+   "order": 1
+  },
+  {
+   "id": "f_esp_l1_k2",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Atlético Madrid",
+   "desc": "Tretia sila španielskeho futbalu, štadión Metropolitano",
+   "url": "https://www.atleticodemadrid.com/",
+   "order": 2
+  },
+  {
+   "id": "f_esp_l1_k3",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Athletic Club",
+   "desc": "Baskický unikát z Bilbaa — hrá výhradne s baskickými hráčmi",
+   "url": "https://www.athletic-club.eus/",
+   "order": 3
+  },
+  {
+   "id": "f_esp_l1_k4",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Real Sociedad",
+   "desc": "Baskický klub zo San Sebastiánu, známy prácou s odchovancami",
+   "url": "https://www.realsociedad.eus/",
+   "order": 4
+  },
+  {
+   "id": "f_esp_l1_k5",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Villarreal",
+   "desc": "„Žltá ponorka\" z Kastelónu, víťaz Európskej ligy 2021",
+   "url": "https://villarrealcf.es/",
+   "order": 5
+  },
+  {
+   "id": "f_esp_l1_k6",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Real Betis",
+   "desc": "Sevillský klub s najvášnivejšími fanúšikmi Andalúzie",
+   "url": "https://www.realbetisbalompie.es/",
+   "order": 6
+  },
+  {
+   "id": "f_esp_l1_k7",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Sevilla FC",
+   "desc": "Rekordný víťaz Európskej ligy — 7 trofejí",
+   "url": "https://sevillafc.es/",
+   "order": 7
+  },
+  {
+   "id": "f_esp_l1_k8",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Valencia",
+   "desc": "Šesťnásobný majster Španielska z Mestally",
+   "url": "https://www.valenciacf.com/",
+   "order": 8
+  },
+  {
+   "id": "f_esp_l1_k9",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Celta Vigo",
+   "desc": "Galícijský klub zo štadióna Balaídos",
+   "url": "https://rccelta.es/",
+   "order": 9
+  },
+  {
+   "id": "f_esp_l1_k10",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Espanyol",
+   "desc": "Druhý barcelonský klub v tieni veľkého rivala",
+   "url": "https://www.rcdespanyol.com/",
+   "order": 10
+  },
+  {
+   "id": "f_esp_l1_k11",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Rayo Vallecano",
+   "desc": "Madridský klub z robotníckej štvrte Vallecas",
+   "url": "https://www.rayovallecano.es/",
+   "order": 11
+  },
+  {
+   "id": "f_esp_l1_k12",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Getafe",
+   "desc": "Klub z južného predmestia Madridu",
+   "url": "https://www.getafecf.com/",
+   "order": 12
+  },
+  {
+   "id": "f_esp_l1_k13",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Osasuna",
+   "desc": "Navarrský klub z Pamplony, štadión El Sadar",
+   "url": "https://www.osasuna.es/",
+   "order": 13
+  },
+  {
+   "id": "f_esp_l1_k14",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Alavés",
+   "desc": "Baskický klub z Vitorie-Gasteiz",
+   "url": "https://www.deportivoalaves.com/",
+   "order": 14
+  },
+  {
+   "id": "f_esp_l1_k15",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Levante",
+   "desc": "Druhý valencijský klub",
+   "url": "https://www.levanteud.com/",
+   "order": 15
+  },
+  {
+   "id": "f_esp_l1_k16",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Elche",
+   "desc": "Klub z provincie Alicante, štadión Martínez Valero",
+   "url": "https://www.elchecf.es/",
+   "order": 16
+  },
+  {
+   "id": "f_esp_l1_k17",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Málaga",
+   "desc": "Andalúzsky klub, navrátilec medzi španielsku elitu",
+   "url": "https://www.malagacf.com/",
+   "order": 17
+  },
+  {
+   "id": "f_esp_l1_k18",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Racing Santander",
+   "desc": "Kantábrijsky tradičný klub, nováčik La Ligy",
+   "url": "https://www.realracingclub.es/",
+   "order": 18
+  },
+  {
+   "id": "f_esp_l1_k19",
+   "parentId": "f_esp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Deportivo La Coruña",
+   "desc": "Majster Španielska 2000, návrat galícijskej legendy medzi elitu",
+   "url": "https://www.rcdeportivo.es/",
+   "order": 19
+  },
+  {
+   "id": "f_esp_l2",
+   "parentId": "f_fut_klu_eu_esp",
+   "type": "folder",
+   "icon": "",
+   "name": "La Liga 2",
+   "desc": "Druhá španielska liga (LaLiga Hypermotion) — 22 klubov bojujúcich o postup medzi elitu.",
+   "order": 1,
+   "slug": "la-liga-2"
+  },
+  {
+   "id": "f_esp_l2_k0",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Sporting Gijón",
+   "desc": "Asturský tradičný klub zo štadióna El Molinón",
+   "url": "https://www.realsporting.com/",
+   "order": 0
+  },
+  {
+   "id": "f_esp_l2_k1",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Oviedo",
+   "desc": "Asturský klub, čerstvo zostúpený z La Ligy",
+   "url": "https://www.realoviedo.es/",
+   "order": 1
+  },
+  {
+   "id": "f_esp_l2_k2",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Las Palmas",
+   "desc": "Klub z Kanárskych ostrovov",
+   "url": "https://www.udlaspalmas.es/",
+   "order": 2
+  },
+  {
+   "id": "f_esp_l2_k3",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Tenerife",
+   "desc": "Druhý kanársky klub zo Santa Cruz",
+   "url": "https://www.clubdeportivotenerife.es/",
+   "order": 3
+  },
+  {
+   "id": "f_esp_l2_k4",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Mallorca",
+   "desc": "Klub z Malorky, čerstvo zostúpený z najvyššej súťaže",
+   "url": "https://www.rcdmallorca.es/",
+   "order": 4
+  },
+  {
+   "id": "f_esp_l2_k5",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Girona",
+   "desc": "Katalánsky klub s nedávnou účasťou v Lige majstrov",
+   "url": "https://www.gironafc.cat/",
+   "order": 5
+  },
+  {
+   "id": "f_esp_l2_k6",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Valladolid",
+   "desc": "Kastílsky klub z Estadio José Zorrilla",
+   "url": "https://www.realvalladolid.es/",
+   "order": 6
+  },
+  {
+   "id": "f_esp_l2_k7",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Granada",
+   "desc": "Andalúzsky klub z mesta Alhambry",
+   "url": "https://granadacf.es/",
+   "order": 7
+  },
+  {
+   "id": "f_esp_l2_k8",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Cádiz",
+   "desc": "Andalúzsky prístavný klub s povestným humorom fanúšikov",
+   "url": "https://www.cadizcf.com/",
+   "order": 8
+  },
+  {
+   "id": "f_esp_l2_k9",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Córdoba",
+   "desc": "Andalúzsky klub z mesta Mezquity",
+   "url": "https://www.cordobacf.com/",
+   "order": 9
+  },
+  {
+   "id": "f_esp_l2_k10",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Almería",
+   "desc": "Andalúzsky klub z juhovýchodného pobrežia",
+   "url": "https://www.udalmeriasad.com/",
+   "order": 10
+  },
+  {
+   "id": "f_esp_l2_k11",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Eibar",
+   "desc": "Malý baskický klub s prvoligovou minulosťou",
+   "url": "https://www.sdeibar.com/",
+   "order": 11
+  },
+  {
+   "id": "f_esp_l2_k12",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Castellón",
+   "desc": "Klub z Kastelónu, štadión Castalia",
+   "url": "https://www.cdcastellon.com/",
+   "order": 12
+  },
+  {
+   "id": "f_esp_l2_k13",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Albacete",
+   "desc": "Klub z La Manchy",
+   "url": "https://www.albacetebalompie.es/",
+   "order": 13
+  },
+  {
+   "id": "f_esp_l2_k14",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Burgos",
+   "desc": "Kastílsky klub zo severu Španielska",
+   "url": "https://www.burgoscf.es/",
+   "order": 14
+  },
+  {
+   "id": "f_esp_l2_k15",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Leganés",
+   "desc": "Klub z madridského predmestia, štadión Butarque",
+   "url": "https://www.cdleganes.com/",
+   "order": 15
+  },
+  {
+   "id": "f_esp_l2_k16",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Sabadell",
+   "desc": "Katalánsky tradičný klub s vyše storočnou históriou",
+   "url": "https://www.cesabadell.cat/",
+   "order": 16
+  },
+  {
+   "id": "f_esp_l2_k17",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "AD Ceuta",
+   "desc": "Klub zo španielskej enklávy na africkom pobreží",
+   "url": "https://adceutafc.com/",
+   "order": 17
+  },
+  {
+   "id": "f_esp_l2_k18",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Eldense",
+   "desc": "Najstarší klub provincie Alicante (1921)",
+   "url": "https://www.cdeldense.es/",
+   "order": 18
+  },
+  {
+   "id": "f_esp_l2_k19",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Andorra",
+   "desc": "Klub z Andorrského kniežatstva, vlastní ho Gerard Piqué",
+   "url": "https://fcandorra.com/",
+   "order": 19
+  },
+  {
+   "id": "f_esp_l2_k20",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Sociedad B",
+   "desc": "Rezervný B-tím Realu Sociedad (Sanse) — odkaz vedie na web materského klubu",
+   "url": "https://www.realsociedad.eus/",
+   "order": 20
+  },
+  {
+   "id": "f_esp_l2_k21",
+   "parentId": "f_esp_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Celta Vigo B",
+   "desc": "Rezervný B-tím Celty Vigo — odkaz vedie na web materského klubu",
+   "url": "https://rccelta.es/",
+   "order": 21
+  },
+  {
+   "id": "f_esp_r1",
+   "parentId": "f_fut_klu_eu_esp",
+   "type": "folder",
+   "icon": "",
+   "name": "Primera RFEF – skupina 1",
+   "desc": "Tretia španielska úroveň, skupina 1 (sever a západ) — 20 klubov.",
+   "order": 2,
+   "slug": "primera-rfef-skupina-1"
+  },
+  {
+   "id": "f_esp_r1_k0",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Racing Ferrol",
+   "desc": "Galícijský klub zo štadióna La Malata (1919)",
+   "url": "https://www.racingclubferrol.net/",
+   "order": 0
+  },
+  {
+   "id": "f_esp_r1_k1",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Ponferradina",
+   "desc": "Klub z regiónu El Bierzo v provincii León",
+   "url": "https://www.sdponferradina.com/",
+   "order": 1
+  },
+  {
+   "id": "f_esp_r1_k2",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Cultural Leonesa",
+   "desc": "Storočný klub z Leónu",
+   "url": "https://www.cydleonesa.com/",
+   "order": 2
+  },
+  {
+   "id": "f_esp_r1_k3",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Lugo",
+   "desc": "Galícijský klub z rímskeho mesta Lugo",
+   "url": "https://www.cdlugo.com/",
+   "order": 3
+  },
+  {
+   "id": "f_esp_r1_k4",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Mirandés",
+   "desc": "Klub z Mirandy de Ebro, dlhoročný druholigista",
+   "url": "https://www.cdmirandes.com/",
+   "order": 4
+  },
+  {
+   "id": "f_esp_r1_k5",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Pontevedra",
+   "desc": "Galícijský klub zo štadióna Pasarón",
+   "url": "https://www.pontevedracf.com/",
+   "order": 5
+  },
+  {
+   "id": "f_esp_r1_k6",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Real Unión",
+   "desc": "Historický baskický klub z Irúnu, štvornásobný víťaz pohára z ranej éry",
+   "url": "https://www.realunionclub.com/",
+   "order": 6
+  },
+  {
+   "id": "f_esp_r1_k7",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Barakaldo",
+   "desc": "Baskický klub z priemyselného predmestia Bilbaa",
+   "url": "https://www.barakaldocf.com/",
+   "order": 7
+  },
+  {
+   "id": "f_esp_r1_k8",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Arenas Getxo",
+   "desc": "Baskický klub, víťaz španielskeho pohára 1919",
+   "url": "https://www.arenasclub.com/",
+   "order": 8
+  },
+  {
+   "id": "f_esp_r1_k9",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Zamora",
+   "desc": "Kastílsky klub od rieky Duero",
+   "url": "https://www.zamoracf.es/",
+   "order": 9
+  },
+  {
+   "id": "f_esp_r1_k10",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "UD Logroñés",
+   "desc": "Klub z vinárskej La Riojy",
+   "url": "https://www.udlogrones.com/",
+   "order": 10
+  },
+  {
+   "id": "f_esp_r1_k11",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Real Avilés Industrial",
+   "desc": "Asturský klub založený 1903",
+   "url": "https://www.realavilesindustrial1903.com/",
+   "order": 11
+  },
+  {
+   "id": "f_esp_r1_k12",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "AD Mérida",
+   "desc": "Klub z rímskeho mesta Mérida v Extremadure",
+   "url": "https://admerida.es/",
+   "order": 12
+  },
+  {
+   "id": "f_esp_r1_k13",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Cacereño",
+   "desc": "Najstarší futbalový klub Extremadury",
+   "url": "https://cpcacereno.com/",
+   "order": 13
+  },
+  {
+   "id": "f_esp_r1_k14",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "CD Extremadura",
+   "desc": "Nástupca zaniknutého Extremadura UD z Almendraleja",
+   "url": "https://cdextremadura.es/",
+   "order": 14
+  },
+  {
+   "id": "f_esp_r1_k15",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Unionistas",
+   "desc": "Fanúšikmi založený klub zo Salamanky",
+   "url": "https://www.unionistascf.com/",
+   "order": 15
+  },
+  {
+   "id": "f_esp_r1_k16",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "UD Ourense",
+   "desc": "Galícijský fanúšikovský klub — „jeden člen, jeden hlas\"",
+   "url": "https://udourense.com/",
+   "order": 16
+  },
+  {
+   "id": "f_esp_r1_k17",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "CD Coria",
+   "desc": "Klub z extremadurskej Corie — oficiálny profil na Instagrame",
+   "url": "https://www.instagram.com/cdcoriaoficial/",
+   "order": 17
+  },
+  {
+   "id": "f_esp_r1_k18",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Deportivo Fabril",
+   "desc": "Rezervný B-tím Deportiva La Coruña — odkaz vedie na web materského klubu",
+   "url": "https://www.rcdeportivo.es/",
+   "order": 18
+  },
+  {
+   "id": "f_esp_r1_k19",
+   "parentId": "f_esp_r1",
+   "type": "link",
+   "icon": "",
+   "name": "Athletic Club B",
+   "desc": "Rezervný B-tím Athleticu Bilbao (Bilbao Athletic) — odkaz na web materského klubu",
+   "url": "https://www.athletic-club.eus/",
+   "order": 19
+  },
+  {
+   "id": "f_esp_r2",
+   "parentId": "f_fut_klu_eu_esp",
+   "type": "folder",
+   "icon": "",
+   "name": "Primera RFEF – skupina 2",
+   "desc": "Tretia španielska úroveň, skupina 2 (juh a východ) — 20 klubov.",
+   "order": 3,
+   "slug": "primera-rfef-skupina-2"
+  },
+  {
+   "id": "f_esp_r2_k0",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Zaragoza",
+   "desc": "Slávny aragónsky klub, víťaz Pohára víťazov pohárov 1995",
+   "url": "https://www.realzaragoza.com/",
+   "order": 0
+  },
+  {
+   "id": "f_esp_r2_k1",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Murcia",
+   "desc": "Tradičný klub z Murcie, Estadio Nueva Condomina",
+   "url": "https://www.realmurcia.es/",
+   "order": 1
+  },
+  {
+   "id": "f_esp_r2_k2",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Hércules",
+   "desc": "Storočný klub z Alicante",
+   "url": "https://herculesdealicantecf.com/",
+   "order": 2
+  },
+  {
+   "id": "f_esp_r2_k3",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Cartagena",
+   "desc": "Prístavný klub z murcijského pobrežia",
+   "url": "https://www.fccartagena.es/",
+   "order": 3
+  },
+  {
+   "id": "f_esp_r2_k4",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Huesca",
+   "desc": "Aragónsky klub s prvoligovou epizódou",
+   "url": "https://www.sdhuesca.es/",
+   "order": 4
+  },
+  {
+   "id": "f_esp_r2_k5",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Gimnàstic Tarragona",
+   "desc": "Jeden z najstarších španielskych klubov (1886)",
+   "url": "https://gimnasticdetarragona.cat/",
+   "order": 5
+  },
+  {
+   "id": "f_esp_r2_k6",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Algeciras",
+   "desc": "Klub od Gibraltárskeho prielivu (1909)",
+   "url": "https://algecirasclubdefutbol.com/",
+   "order": 6
+  },
+  {
+   "id": "f_esp_r2_k7",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Alcorcón",
+   "desc": "Klub z madridského predmestia",
+   "url": "https://www.adalcorcon.com/",
+   "order": 7
+  },
+  {
+   "id": "f_esp_r2_k8",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "UD Ibiza",
+   "desc": "Klub z ostrova Ibiza",
+   "url": "https://www.ibizaud.com/",
+   "order": 8
+  },
+  {
+   "id": "f_esp_r2_k9",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Jaén",
+   "desc": "Andalúzsky klub z olivárskeho Jaénu",
+   "url": "https://www.realjaen.com/",
+   "order": 9
+  },
+  {
+   "id": "f_esp_r2_k10",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Antequera",
+   "desc": "Klub z provincie Málaga",
+   "url": "https://antequeraclubdefutbol.com/",
+   "order": 10
+  },
+  {
+   "id": "f_esp_r2_k11",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Rayo Majadahonda",
+   "desc": "Klub z madridskej Majadahondy",
+   "url": "https://www.rayomajadahonda.es/",
+   "order": 11
+  },
+  {
+   "id": "f_esp_r2_k12",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "CD Teruel",
+   "desc": "Aragónsky klub z mesta Teruel",
+   "url": "http://cdteruel.com/",
+   "order": 12
+  },
+  {
+   "id": "f_esp_r2_k13",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Juventud Torremolinos",
+   "desc": "Klub z prímorského letoviska pri Málage",
+   "url": "https://www.jtorremolinoscf.com/",
+   "order": 13
+  },
+  {
+   "id": "f_esp_r2_k14",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "CE Europa",
+   "desc": "Katalánsky klub z barcelonskej štvrte Gràcia (1907)",
+   "url": "https://www.ceeuropa.cat/",
+   "order": 14
+  },
+  {
+   "id": "f_esp_r2_k15",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "UE Sant Andreu",
+   "desc": "Klub z barcelonskej štvrte Sant Andreu (1909)",
+   "url": "https://www.uesantandreu.cat/",
+   "order": 15
+  },
+  {
+   "id": "f_esp_r2_k16",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Águilas FC",
+   "desc": "Klub z murcijského pobrežia",
+   "url": "https://www.aguilasfc.es/",
+   "order": 16
+  },
+  {
+   "id": "f_esp_r2_k17",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Real Madrid Castilla",
+   "desc": "Rezervný B-tím Realu Madrid (Castilla) — odkaz vedie na web materského klubu",
+   "url": "https://www.realmadrid.com/",
+   "order": 17
+  },
+  {
+   "id": "f_esp_r2_k18",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Atlético Madrid B",
+   "desc": "Rezervný B-tím Atlética Madrid — odkaz vedie na web materského klubu",
+   "url": "https://www.atleticodemadrid.com/",
+   "order": 18
+  },
+  {
+   "id": "f_esp_r2_k19",
+   "parentId": "f_esp_r2",
+   "type": "link",
+   "icon": "",
+   "name": "Villarreal B",
+   "desc": "Rezervný B-tím Villarrealu — odkaz vedie na web materského klubu",
+   "url": "https://villarrealcf.es/",
+   "order": 19
+  },
+  {
+   "id": "f_ger_bl",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Bundesliga",
+   "desc": "Najvyššia nemecká súťaž — 18 klubov na čele s Bayernom Mníchov. Oficiálne weby účastníkov sezóny 2026/27.",
+   "order": 0,
+   "slug": "bundesliga"
+  },
+  {
+   "id": "f_ger_bl_k0",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Bayern Mníchov",
+   "desc": "Rekordný nemecký majster z Allianz Arény a viacnásobný víťaz Ligy majstrov",
+   "url": "https://fcbayern.com/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_bl_k1",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Borussia Dortmund",
+   "desc": "Klub so „žltou stenou\" — najväčšou tribúnou Európy",
+   "url": "https://www.bvb.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_bl_k2",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Bayer Leverkusen",
+   "desc": "Majster 2024, prvý titul po desaťročiach „večne druhých\"",
+   "url": "https://www.bayer04.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_bl_k3",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "RB Leipzig",
+   "desc": "Ambiciózny klub zo stajne Red Bullu",
+   "url": "https://rbleipzig.com/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_bl_k4",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Union Berlín",
+   "desc": "Kultový klub z východného Berlína, štadión An der Alten Försterei",
+   "url": "https://www.fc-union-berlin.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_bl_k5",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Eintracht Frankfurt",
+   "desc": "Frankfurtský klub, víťaz Európskej ligy 2022",
+   "url": "https://www.eintracht.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_bl_k6",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Werder Brémy",
+   "desc": "Štvornásobný majster zo severu, Weserstadion",
+   "url": "https://www.werder.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_bl_k7",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Schalke 04",
+   "desc": "Kultový baníčky klub z Gelsenkirchenu, návrat medzi elitu",
+   "url": "https://schalke04.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_bl_k8",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Hamburger SV",
+   "desc": "Hamburský velikán, majster Európy 1983",
+   "url": "https://www.hsv.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_bl_k9",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Borussia Mönchengladbach",
+   "desc": "Päťnásobný majster, dominanta 70. rokov",
+   "url": "https://www.borussia.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_bl_k10",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "VfB Stuttgart",
+   "desc": "Päťnásobný majster zo Švábska",
+   "url": "https://www.vfb.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_bl_k11",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "SC Freiburg",
+   "desc": "Sympatický klub z Čierneho lesa s dlhoročnou stabilitou",
+   "url": "https://www.scfreiburg.com/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_bl_k12",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "TSG Hoffenheim",
+   "desc": "Dedinský klub, ktorý vyniesol mecenáš Dietmar Hopp",
+   "url": "https://www.tsg-hoffenheim.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_bl_k13",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Köln",
+   "desc": "Kolínsky klub s legendárnym maskotom — capom Hennesom",
+   "url": "https://fc.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_bl_k14",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "Mainz 05",
+   "desc": "Karnevalový klub z Porýnia",
+   "url": "https://www.mainz05.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_bl_k15",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "FC Augsburg",
+   "desc": "Bavorský klub z WWK Arény",
+   "url": "https://www.fcaugsburg.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_bl_k16",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "SC Paderborn",
+   "desc": "Vestfálsky klub, nováčik najvyššej súťaže",
+   "url": "https://www.scp07.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_bl_k17",
+   "parentId": "f_ger_bl",
+   "type": "link",
+   "icon": "",
+   "name": "SV Elversberg",
+   "desc": "Malý klub zo Sárska — futbalová senzácia posledných sezón",
+   "url": "https://sv07elversberg.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_bl2",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "2. Bundesliga",
+   "desc": "Druhá nemecká liga — 18 klubov vrátane veľkých tradičných mien.",
+   "order": 1,
+   "slug": "2-bundesliga"
+  },
+  {
+   "id": "f_ger_bl2_k0",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Hertha Berlín",
+   "desc": "„Stará dáma\" zo západného Berlína, Olympiastadion",
+   "url": "https://www.herthabsc.com/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_bl2_k1",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "VfL Wolfsburg",
+   "desc": "Majster 2009, klub Volkswagenu, čerstvo zostúpený",
+   "url": "https://www.vfl-wolfsburg.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_bl2_k2",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "FC St. Pauli",
+   "desc": "Kultový hamburský klub s lebkou a skríženými hnátmi",
+   "url": "https://www.fcstpauli.com/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_bl2_k3",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Heidenheim",
+   "desc": "Švábsky klub, čerstvo zostúpený z Bundesligy",
+   "url": "https://www.fc-heidenheim.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_bl2_k4",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Kaiserslautern",
+   "desc": "Štvornásobný majster z legendárneho Betzenbergu",
+   "url": "https://fck.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_bl2_k5",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Hannover 96",
+   "desc": "Dvojnásobný majster z Dolného Saska",
+   "url": "https://www.hannover96.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_bl2_k6",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Nürnberg",
+   "desc": "„Der Club\" — deväťnásobný majster Nemecka",
+   "url": "https://www.fcn.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_bl2_k7",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Dynamo Drážďany",
+   "desc": "Východonemecká legenda s najvernejšími fanúšikmi",
+   "url": "https://www.dynamo-dresden.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_bl2_k8",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Magdeburg",
+   "desc": "Víťaz PVP 1974 — jediná európska trofej klubu z NDR",
+   "url": "https://www.fc-magdeburg.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_bl2_k9",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Eintracht Braunschweig",
+   "desc": "Majster 1967 z Dolného Saska",
+   "url": "https://www.eintracht.com/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_bl2_k10",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Holstein Kiel",
+   "desc": "Klub od Baltského mora",
+   "url": "https://www.holstein-kiel.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_bl2_k11",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Karlsruher SC",
+   "desc": "Bádenský klub z Wildparku",
+   "url": "https://www.ksc.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_bl2_k12",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "VfL Bochum",
+   "desc": "Húževnatý klub z Porúria",
+   "url": "https://www.vfl-bochum.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_bl2_k13",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Energie Cottbus",
+   "desc": "Lužický klub z východu Nemecka",
+   "url": "https://www.fcenergie.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_bl2_k14",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Arminia Bielefeld",
+   "desc": "Vestfálsky klub zo SchücoArény",
+   "url": "https://www.arminia.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_bl2_k15",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Greuther Fürth",
+   "desc": "Trojnásobný majster z 20. rokov minulého storočia",
+   "url": "https://www.sgf1903.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_bl2_k16",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "VfL Osnabrück",
+   "desc": "Dolnosaský klub z Bremer Brücke",
+   "url": "https://www.vfl.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_bl2_k17",
+   "parentId": "f_ger_bl2",
+   "type": "link",
+   "icon": "",
+   "name": "Darmstadt 98",
+   "desc": "Hesenský klub „Lilien\" — Ľalie",
+   "url": "https://www.sv98.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_l3",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "3. Liga",
+   "desc": "Tretia nemecká liga — 20 profesionálnych klubov.",
+   "order": 2,
+   "slug": "3-liga"
+  },
+  {
+   "id": "f_ger_l3_k0",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Rot-Weiss Essen",
+   "desc": "Víťaz nemeckého pohára 1953, kultový klub Porúria",
+   "url": "https://www.rot-weiss-essen.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_l3_k1",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Fortuna Düsseldorf",
+   "desc": "Majster 1933, po zostupe prvýkrát v tretej lige",
+   "url": "https://www.f95.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_l3_k2",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Hansa Rostock",
+   "desc": "„Koga\" z Baltu, posledný majster NDR",
+   "url": "https://www.fc-hansa.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_l3_k3",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "MSV Duisburg",
+   "desc": "„Zebry\" z Porúria",
+   "url": "https://www.msv-duisburg.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_l3_k4",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Preußen Münster",
+   "desc": "Zakladajúci člen Bundesligy 1963",
+   "url": "https://scpreussen-muenster.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_l3_k5",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Alemannia Aachen",
+   "desc": "Tradičný klub z cisárskeho mesta Aachen",
+   "url": "https://www.alemannia-aachen.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_l3_k6",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Jahn Regensburg",
+   "desc": "Bavorský klub z Dunaja",
+   "url": "https://www.ssv-jahn.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_l3_k7",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "FC Ingolstadt",
+   "desc": "Klub z mesta Audi",
+   "url": "https://www.fcingolstadt.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_l3_k8",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SC Verl",
+   "desc": "Malý vestfálsky klub s vydareným rozvojom",
+   "url": "https://www.sportclub-verl.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_l3_k9",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SV Wehen Wiesbaden",
+   "desc": "Hesenský klub z Wiesbadenu",
+   "url": "https://www.svww.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_l3_k10",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Waldhof Mannheim",
+   "desc": "Trojnásobný... tradičný klub z Mannheimu s vernými fanúšikmi",
+   "url": "https://svw07.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_l3_k11",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Saarbrücken",
+   "desc": "Sársky klub, povestný pohárový zabijak",
+   "url": "https://www.fc-saarbruecken.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_l3_k12",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Viktoria Köln",
+   "desc": "Kolínska Viktoria z Höhenbergu",
+   "url": "https://viktoria1904.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_l3_k13",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Fortuna Köln",
+   "desc": "Druhý kolínsky profiklub, návrat po rokoch",
+   "url": "https://www.fortuna-koeln.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_l3_k14",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SV Meppen",
+   "desc": "Klub z Emslandu na severozápade",
+   "url": "https://www.svmeppen.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_l3_k15",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Havelse",
+   "desc": "Malý klub z Garbsenu pri Hannoveri",
+   "url": "https://tsv-havelse.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_l3_k16",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SG Sonnenhof Großaspach",
+   "desc": "Dedinský klub zo Švábska",
+   "url": "https://www.sg94.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_l3_k17",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Würzburger Kickers",
+   "desc": "Frankónsky klub z Würzburgu",
+   "url": "https://www.wuerzburger-kickers.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_l3_k18",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "VfB Stuttgart II",
+   "desc": "Rezervný B-tím VfB Stuttgart — odkaz vedie na web materského klubu",
+   "url": "https://www.vfb.de/",
+   "order": 18
+  },
+  {
+   "id": "f_ger_l3_k19",
+   "parentId": "f_ger_l3",
+   "type": "link",
+   "icon": "",
+   "name": "TSG Hoffenheim II",
+   "desc": "Rezervný B-tím Hoffenheimu — odkaz vedie na web materského klubu",
+   "url": "https://www.tsg-hoffenheim.de/",
+   "order": 19
+  },
+  {
+   "id": "f_ger_rn",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Regionalliga Nord",
+   "desc": "Štvrtá nemecká úroveň — sever (Hamburg, Brémy, Dolné Sasko, Šlezvicko-Holštajnsko).",
+   "order": 3,
+   "slug": "regionalliga-nord"
+  },
+  {
+   "id": "f_ger_rn_k0",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "VfB Lübeck",
+   "desc": "Zelenobieli z hanzového mesta Lübeck",
+   "url": "https://www.vfb-luebeck.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_rn_k1",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Kickers Emden",
+   "desc": "Prístavný klub z Východného Frízska",
+   "url": "https://www.kickers.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_rn_k2",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "VfB Oldenburg",
+   "desc": "Tradičný dolnosaský klub",
+   "url": "https://www.vfb-oldenburg.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_rn_k3",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Eintracht Norderstedt",
+   "desc": "Klub zo severného predmestia Hamburgu",
+   "url": "https://www.eintrachtnorderstedt.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_rn_k4",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Eimsbütteler TV",
+   "desc": "Hamburský športový spolok s vyše storočnou históriou",
+   "url": "https://etv-fussball.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_rn_k5",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Bremer SV",
+   "desc": "Brémsky klub z Panzenbergu (1906)",
+   "url": "https://www.bremer-sv.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_rn_k6",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "SV Todesfelde",
+   "desc": "Dedinský klub zo Šlezvicka-Holštajnska",
+   "url": "https://www.svtodesfelde.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_rn_k7",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Weiche Flensburg 08",
+   "desc": "Klub od dánskych hraníc",
+   "url": "https://www.weiche-flensburg-08.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_rn_k8",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "SV Drochtersen/Assel",
+   "desc": "Dolnosaský klub od ústia Labe",
+   "url": "https://sv-da.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_rn_k9",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "SSV Jeddeloh",
+   "desc": "„Dedina, ktorá rockuje regionalligu\"",
+   "url": "https://www.ssv-jeddeloh.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_rn_k10",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "SV Atlas Delmenhorst",
+   "desc": "Klub z Delmenhorstu pri Brémach",
+   "url": "https://www.svatlas.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_rn_k11",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "HSC Hannover",
+   "desc": "Hannoverský športový klub z roku 1893",
+   "url": "https://hsc-hannover.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_rn_k12",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Phönix Lübeck",
+   "desc": "Najstarší lübecký klub (1903)",
+   "url": "https://phoenixadler.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_rn_k13",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "FSV Schöningen",
+   "desc": "Dolnosaský klub z okresu Helmstedt",
+   "url": "https://www.fsv-schoeningen.com/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_rn_k14",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Werder Brémy II",
+   "desc": "Rezervný B-tím Werderu Brémy — odkaz vedie na web materského klubu",
+   "url": "https://www.werder.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_rn_k15",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Hamburger SV II",
+   "desc": "Rezervný B-tím HSV — odkaz vedie na web materského klubu",
+   "url": "https://www.hsv.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_rn_k16",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "Hannover 96 II",
+   "desc": "Rezervný B-tím Hannoveru 96 — odkaz vedie na web materského klubu",
+   "url": "https://www.hannover96.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_rn_k17",
+   "parentId": "f_ger_rn",
+   "type": "link",
+   "icon": "",
+   "name": "St. Pauli II",
+   "desc": "Rezervný B-tím St. Pauli — odkaz vedie na web materského klubu",
+   "url": "https://www.fcstpauli.com/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_rno",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Regionalliga Nordost",
+   "desc": "Štvrtá nemecká úroveň — severovýchod, územie bývalej NDR a Berlín.",
+   "order": 4,
+   "slug": "regionalliga-nordost"
+  },
+  {
+   "id": "f_ger_rno_k0",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Rot-Weiß Erfurt",
+   "desc": "Durínsky tradičný klub",
+   "url": "https://www.rot-weiss-erfurt.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_rno_k1",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Carl Zeiss Jena",
+   "desc": "Východonemecká legenda, trojnásobný majster NDR",
+   "url": "https://www.fc-carlzeiss-jena.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_rno_k2",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Erzgebirge Aue",
+   "desc": "Baníci z Krušných hôr",
+   "url": "https://www.fc-erzgebirge.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_rno_k3",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Lokomotive Leipzig",
+   "desc": "Legendárna Lokomotíva, finalista PVP 1987",
+   "url": "https://lok-leipzig.com/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_rno_k4",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Chemie Leipzig",
+   "desc": "Kultový klub z lipského Leutzscha",
+   "url": "https://www.chemie-leipzig.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_rno_k5",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Hallescher FC",
+   "desc": "Klub z Halle nad Sálou",
+   "url": "https://www.hallescherfc.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_rno_k6",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Chemnitzer FC",
+   "desc": "Saský klub z Chemnitzu",
+   "url": "https://www.chemnitzerfc.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_rno_k7",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "FSV Zwickau",
+   "desc": "Saský klub s baníckou tradíciou",
+   "url": "https://www.fsv-zwickau.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_rno_k8",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "SV Babelsberg 03",
+   "desc": "Klub z filmového Postupimu",
+   "url": "https://www.babelsberg03.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_rno_k9",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "BFC Dynamo",
+   "desc": "Desaťnásobný majster NDR z východného Berlína",
+   "url": "https://www.bfcdynamo.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_rno_k10",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Tasmania Berlín",
+   "desc": "Legenda najhoršej bundesligovej sezóny histórie (1965/66)",
+   "url": "https://www.sv-tasmania-berlin.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_rno_k11",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "VSG Altglienicke",
+   "desc": "Berlínsky klub z Treptow-Köpenicku",
+   "url": "https://www.vsg-altglienicke.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_rno_k12",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "BFC Preussen",
+   "desc": "Berlínsky klub z roku 1894",
+   "url": "https://bfc-preussen.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_rno_k13",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "FSV 63 Luckenwalde",
+   "desc": "Brandenburský klub z Luckenwalde",
+   "url": "https://fsv63-luckenwalde.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_rno_k14",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Greifswalder FC",
+   "desc": "Klub z hanzového Greifswaldu",
+   "url": "https://greifswalder-fc.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_rno_k15",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "RSV Eintracht 1949",
+   "desc": "Klub zo Stahnsdorfu pri Berlíne",
+   "url": "https://rsv-eintracht1949.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_rno_k16",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Hertha Berlín II",
+   "desc": "Rezervný B-tím Herthy — odkaz vedie na web materského klubu",
+   "url": "https://www.herthabsc.com/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_rno_k17",
+   "parentId": "f_ger_rno",
+   "type": "link",
+   "icon": "",
+   "name": "Magdeburg II",
+   "desc": "Rezervný B-tím 1. FC Magdeburg — odkaz vedie na web materského klubu",
+   "url": "https://www.fc-magdeburg.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_rw",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Regionalliga West",
+   "desc": "Štvrtá nemecká úroveň — západ, Porúrie a Porýnie.",
+   "order": 5,
+   "slug": "regionalliga-west"
+  },
+  {
+   "id": "f_ger_rw_k0",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Rot-Weiß Oberhausen",
+   "desc": "Tradičný klub z Porúria",
+   "url": "https://www.rwo-online.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_rw_k1",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Sportfreunde Siegen",
+   "desc": "Klub zo Siegerlandu",
+   "url": "https://www.sportfreunde-siegen.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_rw_k2",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "SG Wattenscheid 09",
+   "desc": "Bývalý bundesligista z Bochumu-Wattenscheidu",
+   "url": "https://sgwattenscheid09.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_rw_k3",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Sportfreunde Lotte",
+   "desc": "Klub z Tecklenburskej zeme",
+   "url": "https://www.sportfreunde-lotte.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_rw_k4",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Bonner SC",
+   "desc": "Klub z bývalého hlavného mesta",
+   "url": "https://www.bonner-sc.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_rw_k5",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "SC Wiedenbrück",
+   "desc": "Vestfálsky klub",
+   "url": "https://www.sc-wiedenbrueck.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_rw_k6",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "FC Gütersloh",
+   "desc": "Vestfálsky klub z Heidewaldu",
+   "url": "https://www.fcguetersloh.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_rw_k7",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Bergisch Gladbach 09",
+   "desc": "Klub z Bergisches Land",
+   "url": "https://www.bergischgladbach09.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_rw_k8",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Westfalia Rhynern",
+   "desc": "Klub z mesta Hamm",
+   "url": "https://www.westfalia-rhynern.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_rw_k9",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "VfB 03 Hilden",
+   "desc": "Porýnsky klub z Hildenu",
+   "url": "https://www.vfb-hilden.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_rw_k10",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "SV Rödinghausen",
+   "desc": "Dedinský klub z východného Vestfálska",
+   "url": "https://www.sv-roedinghausen.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_rw_k11",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Bocholt",
+   "desc": "Klub od holandských hraníc",
+   "url": "https://www.1fcbocholt.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_rw_k12",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Borussia Dortmund II",
+   "desc": "Rezervný B-tím Borussie Dortmund — odkaz vedie na web materského klubu",
+   "url": "https://www.bvb.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_rw_k13",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "VfL Bochum II",
+   "desc": "Rezervný B-tím Bochumu — odkaz vedie na web materského klubu",
+   "url": "https://www.vfl-bochum.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_rw_k14",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Schalke 04 II",
+   "desc": "Rezervný B-tím Schalke — odkaz vedie na web materského klubu",
+   "url": "https://schalke04.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_rw_k15",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "Borussia Mönchengladbach II",
+   "desc": "Rezervný B-tím Gladbachu — odkaz vedie na web materského klubu",
+   "url": "https://www.borussia.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_rw_k16",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Köln II",
+   "desc": "Rezervný B-tím 1. FC Köln — odkaz vedie na web materského klubu",
+   "url": "https://fc.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_rw_k17",
+   "parentId": "f_ger_rw",
+   "type": "link",
+   "icon": "",
+   "name": "SC Paderborn II",
+   "desc": "Rezervný B-tím Paderbornu — odkaz vedie na web materského klubu",
+   "url": "https://www.scp07.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_rsw",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Regionalliga Südwest",
+   "desc": "Štvrtá nemecká úroveň — juhozápad (Hesensko, Bádensko-Württembersko, Sársko, Porýnie-Falcko).",
+   "order": 6,
+   "slug": "regionalliga-sudwest"
+  },
+  {
+   "id": "f_ger_rsw_k0",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "VfR Aalen",
+   "desc": "Švábsky klub z Ostalbu",
+   "url": "https://www.vfr-aalen.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_rsw_k1",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "FSV Frankfurt",
+   "desc": "Druhý frankfurtský klub z Bornheimu",
+   "url": "https://www.fsv-frankfurt.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_rsw_k2",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Hessen Kassel",
+   "desc": "Severohesenský tradičný klub",
+   "url": "https://www.ksvhessen.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_rsw_k3",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "SV Sandhausen",
+   "desc": "Dlhoročný druholigista z Bádenska",
+   "url": "https://www.sv-sandhausen.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_rsw_k4",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Stuttgarter Kickers",
+   "desc": "Druhý stuttgartský klub — „Die Blauen\"",
+   "url": "https://www.stuttgarter-kickers.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_rsw_k5",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Eintracht Trier",
+   "desc": "Klub z najstaršieho nemeckého mesta",
+   "url": "https://eintracht-trier.com/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_rsw_k6",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Kickers Offenbach",
+   "desc": "Víťaz nemeckého pohára 1970",
+   "url": "https://www.ofc.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_rsw_k7",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "SSV Ulm 1846",
+   "desc": "„Vrabce\" z Dunaja, nedávno druholigista",
+   "url": "https://www.ssvulm1846-fussball.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_rsw_k8",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "FC 08 Homburg",
+   "desc": "Sársky bývalý bundesligista",
+   "url": "https://www.fc-homburg.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_rsw_k9",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "VfR Mannheim",
+   "desc": "Majster Nemecka 1949, najstarší mannheimský klub",
+   "url": "https://vfr-mannheim.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_rsw_k10",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "SGV Freiberg",
+   "desc": "Klub z Freibergu nad Neckarom",
+   "url": "https://www.sgv-freiberg-fussball.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_rsw_k11",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Astoria Walldorf",
+   "desc": "Bádenský klub z Walldorfu",
+   "url": "https://www.fc-astoria-walldorf.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_rsw_k12",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "SG Barockstadt Fulda-Lehnerz",
+   "desc": "Klub z barokovej Fuldy",
+   "url": "https://sg-barockstadt.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_rsw_k13",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Steinbach Haiger",
+   "desc": "Ambiciózny hesenský klub",
+   "url": "https://tsv-steinbach.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_rsw_k14",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Mainz 05 II",
+   "desc": "Rezervný B-tím Mainzu — odkaz vedie na web materského klubu",
+   "url": "https://www.mainz05.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_rsw_k15",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Kaiserslautern II",
+   "desc": "Rezervný B-tím Kaiserslauternu — odkaz vedie na web materského klubu",
+   "url": "https://fck.de/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_rsw_k16",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "SC Freiburg II",
+   "desc": "Rezervný B-tím Freiburgu — odkaz vedie na web materského klubu",
+   "url": "https://www.scfreiburg.com/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_rsw_k17",
+   "parentId": "f_ger_rsw",
+   "type": "link",
+   "icon": "",
+   "name": "Eintracht Frankfurt II",
+   "desc": "Rezervný B-tím Eintrachtu Frankfurt — odkaz vedie na web materského klubu",
+   "url": "https://www.eintracht.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_rb",
+   "parentId": "f_fut_klu_eu_deu",
+   "type": "folder",
+   "icon": "",
+   "name": "Regionalliga Bayern",
+   "desc": "Štvrtá nemecká úroveň — Bavorsko.",
+   "order": 7,
+   "slug": "regionalliga-bayern"
+  },
+  {
+   "id": "f_ger_rb_k0",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "1860 Mníchov",
+   "desc": "Mníchovskí „Levi\", majster 1966, kultový klub Giesingu",
+   "url": "https://www.tsv1860.de/",
+   "order": 0
+  },
+  {
+   "id": "f_ger_rb_k1",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "SpVgg Unterhaching",
+   "desc": "Klub z mníchovského predmestia",
+   "url": "https://www.spvgg-unterhaching.de/",
+   "order": 1
+  },
+  {
+   "id": "f_ger_rb_k2",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Wacker Burghausen",
+   "desc": "Hornobavorský klub od rieky Salzach",
+   "url": "https://www.sv-wacker.de/",
+   "order": 2
+  },
+  {
+   "id": "f_ger_rb_k3",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "1. FC Schweinfurt 05",
+   "desc": "Frankónsky tradičný klub",
+   "url": "https://www.fcschweinfurt1905.de/",
+   "order": 3
+  },
+  {
+   "id": "f_ger_rb_k4",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "SpVgg Bayreuth",
+   "desc": "Hornofrankónsky klub — „Die Oldschdod\"",
+   "url": "https://www.spvgg-bayreuth.de/",
+   "order": 4
+  },
+  {
+   "id": "f_ger_rb_k5",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "FC Memmingen",
+   "desc": "Švábsky klub z Allgäu",
+   "url": "https://www.fcmemmingen.de/",
+   "order": 5
+  },
+  {
+   "id": "f_ger_rb_k6",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "SpVgg Ansbach",
+   "desc": "Stredofrankónsky klub",
+   "url": "https://www.spvgg-ansbach.de/",
+   "order": 6
+  },
+  {
+   "id": "f_ger_rb_k7",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "DJK Vilzing",
+   "desc": "Dedinský klub z Horného Falcka",
+   "url": "https://www.djk-vilzing.de/",
+   "order": 7
+  },
+  {
+   "id": "f_ger_rb_k8",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Landsberg",
+   "desc": "Klub z Landsbergu nad Lechom, nováčik súťaže",
+   "url": "https://tsv-landsberg-fussball.de/",
+   "order": 8
+  },
+  {
+   "id": "f_ger_rb_k9",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "SC Eltersdorf",
+   "desc": "Klub z Erlangenu",
+   "url": "https://sceltersdorf.de/",
+   "order": 9
+  },
+  {
+   "id": "f_ger_rb_k10",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Buchbach",
+   "desc": "Hornobavorský dedinský stálica regionalligy",
+   "url": "https://www.tsv-buchbach.de/",
+   "order": 10
+  },
+  {
+   "id": "f_ger_rb_k11",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "FV Illertissen",
+   "desc": "Švábsky klub od rieky Iller",
+   "url": "https://www.fv-illertissen.de/",
+   "order": 11
+  },
+  {
+   "id": "f_ger_rb_k12",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "VfB Eichstätt",
+   "desc": "Klub z biskupského mesta v údolí Altmühl",
+   "url": "https://www.vfb-eichstaett.de/",
+   "order": 12
+  },
+  {
+   "id": "f_ger_rb_k13",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Aubstadt",
+   "desc": "Malý dedinský klub z Dolného Frankónska",
+   "url": "https://www.tsv-aubstadt.de/",
+   "order": 13
+  },
+  {
+   "id": "f_ger_rb_k14",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Schwaben Augsburg",
+   "desc": "Druhý augsburský klub — „Rytieri\"",
+   "url": "https://schwabenritter.de/",
+   "order": 14
+  },
+  {
+   "id": "f_ger_rb_k15",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Bayern Mníchov II",
+   "desc": "Rezervný B-tím Bayernu — odkaz vedie na web materského klubu",
+   "url": "https://fcbayern.com/",
+   "order": 15
+  },
+  {
+   "id": "f_ger_rb_k16",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Greuther Fürth II",
+   "desc": "Rezervný B-tím Fürthu — odkaz vedie na web materského klubu",
+   "url": "https://www.sgf1903.de/",
+   "order": 16
+  },
+  {
+   "id": "f_ger_rb_k17",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Nürnberg II",
+   "desc": "Rezervný B-tím Nürnbergu — odkaz vedie na web materského klubu",
+   "url": "https://www.fcn.de/",
+   "order": 17
+  },
+  {
+   "id": "f_ger_rb_k18",
+   "parentId": "f_ger_rb",
+   "type": "link",
+   "icon": "",
+   "name": "Augsburg II",
+   "desc": "Rezervný B-tím FC Augsburg — odkaz vedie na web materského klubu",
+   "url": "https://www.fcaugsburg.de/",
+   "order": 18
+  },
+  {
+   "id": "f_fra_l1",
+   "parentId": "f_fut_klu_eu_fra",
+   "type": "folder",
+   "icon": "",
+   "name": "Ligue 1",
+   "desc": "Najvyššia francúzska súťaž — 18 klubov na čele s PSG. Oficiálne weby účastníkov sezóny 2026/27.",
+   "order": 0,
+   "slug": "ligue-1"
+  },
+  {
+   "id": "f_fra_l1_k0",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Paris Saint-Germain",
+   "desc": "Parížsky gigant z Parku princov, víťaz Ligy majstrov 2025",
+   "url": "https://www.psg.fr/",
+   "order": 0
+  },
+  {
+   "id": "f_fra_l1_k1",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Olympique Marseille",
+   "desc": "Jediný francúzsky majster Európy (1993), búrlivý Vélodrome",
+   "url": "https://www.om.fr/",
+   "order": 1
+  },
+  {
+   "id": "f_fra_l1_k2",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AS Monaco",
+   "desc": "Kniežací klub, osemnásobný majster Francúzska",
+   "url": "https://www.asmonaco.com/",
+   "order": 2
+  },
+  {
+   "id": "f_fra_l1_k3",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Olympique Lyon",
+   "desc": "Sedemnásobný majster z prelomu tisícročí",
+   "url": "https://www.ol.fr/",
+   "order": 3
+  },
+  {
+   "id": "f_fra_l1_k4",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Lille OSC",
+   "desc": "Majster 2021 zo severu Francúzska",
+   "url": "https://www.losc.fr/",
+   "order": 4
+  },
+  {
+   "id": "f_fra_l1_k5",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "OGC Nice",
+   "desc": "Klub z Azúrového pobrežia",
+   "url": "https://www.ogcnice.com/",
+   "order": 5
+  },
+  {
+   "id": "f_fra_l1_k6",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "RC Lens",
+   "desc": "Baníčky klub s famóznou atmosférou na Bollaert-Delelis",
+   "url": "https://www.rclens.fr/",
+   "order": 6
+  },
+  {
+   "id": "f_fra_l1_k7",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Stade Rennais",
+   "desc": "Bretónsky klub s výbornou akadémiou",
+   "url": "https://www.staderennais.com/",
+   "order": 7
+  },
+  {
+   "id": "f_fra_l1_k8",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "RC Strasbourg",
+   "desc": "Alsaský klub z La Meinau",
+   "url": "https://www.rcstrasbourgalsace.fr/",
+   "order": 8
+  },
+  {
+   "id": "f_fra_l1_k9",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Stade Brestois",
+   "desc": "Bretónsky klub, nedávny účastník Ligy majstrov",
+   "url": "https://www.sb29.bzh/",
+   "order": 9
+  },
+  {
+   "id": "f_fra_l1_k10",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Toulouse FC",
+   "desc": "Klub z „ružového mesta\", víťaz pohára 2023",
+   "url": "https://www.toulousefc.com/",
+   "order": 10
+  },
+  {
+   "id": "f_fra_l1_k11",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AJ Auxerre",
+   "desc": "Majster 1996, legendárna éra Guya Rouxa",
+   "url": "https://www.aja.fr/",
+   "order": 11
+  },
+  {
+   "id": "f_fra_l1_k12",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Le Havre AC",
+   "desc": "Najstarší francúzsky klub (1872)",
+   "url": "https://www.hac-foot.com/",
+   "order": 12
+  },
+  {
+   "id": "f_fra_l1_k13",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Angers SCO",
+   "desc": "Klub z údolia Loiry",
+   "url": "https://www.angers-sco.fr/",
+   "order": 13
+  },
+  {
+   "id": "f_fra_l1_k14",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Lorient",
+   "desc": "Bretónske „Merlúzy\" z prístavu Lorient",
+   "url": "https://www.fclorient.bzh/",
+   "order": 14
+  },
+  {
+   "id": "f_fra_l1_k15",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Le Mans FC",
+   "desc": "Klub z mesta 24-hodinových pretekov, nováčik elity",
+   "url": "https://www.lemansfc.fr/",
+   "order": 15
+  },
+  {
+   "id": "f_fra_l1_k16",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "ES Troyes AC",
+   "desc": "Klub zo šampanského Troyes",
+   "url": "https://estac.fr/",
+   "order": 16
+  },
+  {
+   "id": "f_fra_l1_k17",
+   "parentId": "f_fra_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Paris FC",
+   "desc": "Druhý parížsky klub, čerstvo medzi elitou",
+   "url": "https://parisfc.fr/",
+   "order": 17
+  },
+  {
+   "id": "f_fra_l2",
+   "parentId": "f_fut_klu_eu_fra",
+   "type": "folder",
+   "icon": "",
+   "name": "Ligue 2",
+   "desc": "Druhá francúzska liga — 18 klubov vrátane veľkých tradičných mien.",
+   "order": 1,
+   "slug": "ligue-2"
+  },
+  {
+   "id": "f_fra_l2_k0",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Nantes",
+   "desc": "Osemnásobný majster, „Kanáriky\" z Loiry — po zostupe",
+   "url": "https://www.fcnantes.com/",
+   "order": 0
+  },
+  {
+   "id": "f_fra_l2_k1",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "AS Saint-Étienne",
+   "desc": "Desaťnásobný majster — rekordér francúzskeho futbalu",
+   "url": "https://www.asse.fr/",
+   "order": 1
+  },
+  {
+   "id": "f_fra_l2_k2",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Montpellier HSC",
+   "desc": "Majster 2012 z juhu Francúzska",
+   "url": "https://www.mhscfoot.com/",
+   "order": 2
+  },
+  {
+   "id": "f_fra_l2_k3",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Stade de Reims",
+   "desc": "Šesťnásobný majster, dvojnásobný finalista PEM z 50. rokov",
+   "url": "https://stade-de-reims.com/",
+   "order": 3
+  },
+  {
+   "id": "f_fra_l2_k4",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Metz",
+   "desc": "Lotrinský klub, výťah medzi ligami",
+   "url": "https://fcmetz.com/",
+   "order": 4
+  },
+  {
+   "id": "f_fra_l2_k5",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "AS Nancy",
+   "desc": "Lotrinský klub Michela Platiniho",
+   "url": "https://www.asnl.net/",
+   "order": 5
+  },
+  {
+   "id": "f_fra_l2_k6",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Grenoble Foot 38",
+   "desc": "Klub z alpského Grenoblu",
+   "url": "https://www.gf38.fr/",
+   "order": 6
+  },
+  {
+   "id": "f_fra_l2_k7",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "EA Guingamp",
+   "desc": "Malý bretónsky klub s dvoma pohárovými triumfami",
+   "url": "https://www.eaguingamp.com/",
+   "order": 7
+  },
+  {
+   "id": "f_fra_l2_k8",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Dijon FCO",
+   "desc": "Burgundský klub",
+   "url": "https://dfco.fr/",
+   "order": 8
+  },
+  {
+   "id": "f_fra_l2_k9",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Clermont Foot",
+   "desc": "Klub z Auvergne",
+   "url": "https://www.clermontfoot.com/",
+   "order": 9
+  },
+  {
+   "id": "f_fra_l2_k10",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "US Boulogne",
+   "desc": "Prístavný klub od Lamanšského prielivu",
+   "url": "https://www.usbco.com/",
+   "order": 10
+  },
+  {
+   "id": "f_fra_l2_k11",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Stade Lavallois",
+   "desc": "Klub z Mayenne",
+   "url": "https://www.stade-lavallois.com/",
+   "order": 11
+  },
+  {
+   "id": "f_fra_l2_k12",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Pau FC",
+   "desc": "Klub spod Pyrenejí",
+   "url": "https://paufc.fr/",
+   "order": 12
+  },
+  {
+   "id": "f_fra_l2_k13",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Rodez AF",
+   "desc": "Klub z Aveyronu",
+   "url": "https://rodezaveyronfootball.com/",
+   "order": 13
+  },
+  {
+   "id": "f_fra_l2_k14",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Annecy",
+   "desc": "Klub od alpského jazera",
+   "url": "https://www.fc-annecy.fr/",
+   "order": 14
+  },
+  {
+   "id": "f_fra_l2_k15",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Sochaux",
+   "desc": "Dvojnásobný majster, klub Peugeotu",
+   "url": "https://www.fcsochaux.fr/",
+   "order": 15
+  },
+  {
+   "id": "f_fra_l2_k16",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "USL Dunkerque",
+   "desc": "Prístavný klub zo severu",
+   "url": "https://usldunkerque.com/",
+   "order": 16
+  },
+  {
+   "id": "f_fra_l2_k17",
+   "parentId": "f_fra_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Red Star FC",
+   "desc": "Kultový parížsky klub založený Julesom Rimetom (1897)",
+   "url": "https://redstar.fr/",
+   "order": 17
+  },
+  {
+   "id": "f_fra_l3",
+   "parentId": "f_fut_klu_eu_fra",
+   "type": "folder",
+   "icon": "",
+   "name": "Ligue 3",
+   "desc": "Tretia francúzska úroveň (bývalý Championnat National) — 18 klubov.",
+   "order": 2,
+   "slug": "ligue-3"
+  },
+  {
+   "id": "f_fra_l3_k0",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SM Caen",
+   "desc": "Normandský klub, spolumajiteľom Kylian Mbappé",
+   "url": "https://www.smcaen.fr/",
+   "order": 0
+  },
+  {
+   "id": "f_fra_l3_k1",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Valenciennes FC",
+   "desc": "Tradičný klub zo severu",
+   "url": "https://www.va-fc.com/",
+   "order": 1
+  },
+  {
+   "id": "f_fra_l3_k2",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Amiens SC",
+   "desc": "Pikardský klub s prvoligovou minulosťou",
+   "url": "https://amiensfootball.com/",
+   "order": 2
+  },
+  {
+   "id": "f_fra_l3_k3",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "SC Bastia",
+   "desc": "Korzický klub s vášnivými fanúšikmi",
+   "url": "https://www.sc-bastia.corsica/",
+   "order": 3
+  },
+  {
+   "id": "f_fra_l3_k4",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "AS Cannes",
+   "desc": "Klub, kde začínal Zinédine Zidane (1902)",
+   "url": "https://www.as-cannes.com/",
+   "order": 4
+  },
+  {
+   "id": "f_fra_l3_k5",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Quevilly Rouen",
+   "desc": "Normandský klub z metropoly Rouen",
+   "url": "https://www.qrm.fr/",
+   "order": 5
+  },
+  {
+   "id": "f_fra_l3_k6",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "FC Rouen",
+   "desc": "Historický normandský klub",
+   "url": "https://fcrouen.fr/",
+   "order": 6
+  },
+  {
+   "id": "f_fra_l3_k7",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Bourg-en-Bresse",
+   "desc": "Klub z Ain",
+   "url": "https://www.fbbp01.fr/",
+   "order": 7
+  },
+  {
+   "id": "f_fra_l3_k8",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "FC Villefranche Beaujolais",
+   "desc": "Klub z vinárskeho Beaujolais",
+   "url": "https://www.fcvb.fr/",
+   "order": 8
+  },
+  {
+   "id": "f_fra_l3_k9",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "US Concarneau",
+   "desc": "„Tuniaci\" z bretónskeho rybárskeho prístavu",
+   "url": "https://www.usc-concarneau.com/",
+   "order": 9
+  },
+  {
+   "id": "f_fra_l3_k10",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "FC Versailles 78",
+   "desc": "Klub z kráľovského Versailles",
+   "url": "https://fcversailles.com/",
+   "order": 10
+  },
+  {
+   "id": "f_fra_l3_k11",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "US Orléans",
+   "desc": "Klub z mesta Jany z Arku",
+   "url": "https://orleansloiretfoot.com/",
+   "order": 11
+  },
+  {
+   "id": "f_fra_l3_k12",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Thionville Lusitanos",
+   "desc": "Lotrinský klub s portugalskými koreňmi, nováčik",
+   "url": "https://www.ustl.fr/",
+   "order": 12
+  },
+  {
+   "id": "f_fra_l3_k13",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Vendée FC La Roche",
+   "desc": "Klub z Vendée, postúpil pred Bordeaux",
+   "url": "https://vfclaroche.com/",
+   "order": 13
+  },
+  {
+   "id": "f_fra_l3_k14",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Aubagne FC",
+   "desc": "Provensálsky klub od Marseille",
+   "url": "https://www.aubagnefc.org/",
+   "order": 14
+  },
+  {
+   "id": "f_fra_l3_k15",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Le Puy Foot 43",
+   "desc": "Klub z pútnického Le Puy-en-Velay",
+   "url": "https://lepuyfoot43.fr/",
+   "order": 15
+  },
+  {
+   "id": "f_fra_l3_k16",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "FC Fleury 91",
+   "desc": "Ambiciózny klub z Essonne pri Paríži",
+   "url": "https://fcfleury91.fr/",
+   "order": 16
+  },
+  {
+   "id": "f_fra_l3_k17",
+   "parentId": "f_fra_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Paris 13 Atletico",
+   "desc": "Klub z 13. parížskeho obvodu",
+   "url": "https://paris13atletico.fr/",
+   "order": 17
   }
  ]
 }
