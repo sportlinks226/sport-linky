@@ -13279,6 +13279,8 @@ function countAll(id){
   return count;
 }
 function childCount(id){ return getChildren(id).length; }
+// Slovenské skloňovanie: skl(1,'sekcia','sekcie','sekcií') → "sekcia"
+function skl(n, jedna, dvestyri, vela){ return n===1 ? jedna : (n>=2 && n<=4 ? dvestyri : vela); }
 
 // ============================================================
 // ICON HELPER — flagcdn.com pre kódy krajín
@@ -13344,7 +13346,13 @@ function renderLevel(){
       html += `<div class="grid-root anim">`;
       folders.forEach((n,i) => {
         const total = countAll(n.id);
-        const sub   = childCount(n.id);
+        // len skutočné podpriečinky; ak žiadne nie sú, "sekcií" sa vôbec neukáže
+        const sub   = getChildren(n.id).filter(c=>c.type==='folder').length;
+        const sekTxt = `${sub} ${skl(sub,'sekcia','sekcie','sekcií')}`;
+        const linTxt = `${total} ${skl(total,'linka','linky','liniek')}`;
+        const cnt   = sub>0 && total>0 ? `${sekTxt} · ${linTxt}`
+                    : sub>0            ? sekTxt
+                                       : linTxt;
         html += `
           <div class="card-root" onclick="${adminMode?'':''} navigate('${n.id}')">
             <div class="card-admin-bar">
@@ -13355,7 +13363,7 @@ function renderLevel(){
             </div>
             <div class="c-icon">${renderIcon(n.icon,'40x30')||''}</div>
             <div class="c-name">${n.name}</div>
-            <div class="c-count">${sub} sekcií · ${total} liniek</div>
+            <div class="c-count">${cnt}</div>
             <div class="c-arrow">→</div>
           </div>`;
       });
@@ -13363,7 +13371,11 @@ function renderLevel(){
     } else {
       html += `<div class="grid-deep anim">`;
       folders.forEach(n => {
-        const sub = childCount(n.id);
+        const total = countAll(n.id);
+        const sub   = getChildren(n.id).filter(c=>c.type==='folder').length;
+        const cnt   = sub>0 && total>0 ? `${sub} ${skl(sub,'sekcia','sekcie','sekcií')} · ${total} ${skl(total,'linka','linky','liniek')}`
+                    : sub>0            ? `${sub} ${skl(sub,'sekcia','sekcie','sekcií')}`
+                                       : `${total} ${skl(total,'linka','linky','liniek')}`;
         html += `
           <div class="card-folder" onclick="navigate('${n.id}')">
             <div class="card-admin-bar">
@@ -13375,7 +13387,7 @@ function renderLevel(){
             <div class="cf-icon">${renderIcon(n.icon,'24x18')||''}</div>
             <div class="cf-info">
               <div class="cf-name">${n.name}</div>
-              <div class="cf-count">${sub} položiek</div>
+              <div class="cf-count">${cnt}</div>
             </div>
             <div class="cf-arrow">›</div>
           </div>`;
