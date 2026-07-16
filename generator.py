@@ -51,7 +51,7 @@ UI = {
         "links": "Linky",
         "open_app": "Otvoriť v interaktívnej aplikácii",
         "meta_folder": "{name} — športové linky: {nfold} podkategórií, {nlink} liniek.",
-        "footer": "Prehľadný rozcestník športových webov.",
+        "footer": "Prehľadný rozcestník športových webov. Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES); jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.",
         "aktualne": "Aktuálne",
     },
     # "en": { ... }  # doplniť pri realizácii angličtiny

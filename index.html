@@ -337,7 +337,7 @@ footer{
 }
 /* Desktop: Aktuálne sa zalamuje do riadkov — 1 riadok pri málo linkách, max. 3 riadky, zvyšok scroll */
 @media(min-width:561px){
-  #aktualneScroll{flex-wrap:wrap;overflow-x:visible;max-height:120px;overflow-y:auto}
+  #aktualneScroll{flex-wrap:wrap;overflow-x:visible;max-height:132px;overflow-y:auto}
 }
 
 ::-webkit-scrollbar{width:5px}
@@ -427,7 +427,7 @@ footer{
 </div>
 
 <!-- AKTUALNE -->
-<div id="aktualneWrap" style="padding:12px 24px 0">
+<div id="aktualneWrap" style="padding:12px 24px 16px">
   <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
     <span style="display:flex;align-items:center;gap:6px;font-size:0.78rem;font-weight:700;color:#e84242;text-transform:uppercase;letter-spacing:1px">
       <span style="width:8px;height:8px;border-radius:50%;background:#e84242;display:inline-block;animation:pulse 1.5s infinite"></span>
@@ -446,7 +446,8 @@ footer{
 <!-- FOOTER -->
 <footer>
   <span class="f-wordmark" onclick="navigate(null)" title="Domov"><span class="wm-w">ŠPORTOVÉ</span><span class="wm-r">LINKY</span><span class="wm-r">.</span></span>
-  <span class="f-note">© 2026 · Všetky športové weby sveta na jednom mieste</span>
+  <span class="f-note">© 2026 · Všetky športové weby sveta na jednom mieste<br>
+  Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES). Jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.</span>
 </footer>
 
 <!-- ADMIN BAR -->
