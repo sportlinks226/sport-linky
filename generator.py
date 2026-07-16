@@ -199,6 +199,7 @@ PAGE = """<!DOCTYPE html>
 <footer>{site_title} — {footer}</footer>
 </div>
 {dyn_js}
+<script data-goatcounter="https://sportlinky.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
 """

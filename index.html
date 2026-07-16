@@ -314,6 +314,8 @@ footer{
 
 /* AKTUÁLNE SCROLL */
 #aktualneScroll::-webkit-scrollbar{display:none}
+/* Štítok "+N ›" je skrytý všade; ukáže sa len na mobile cez media query nižšie */
+#aktMoreBadge{display:none}
 .akt-card{
   position:relative;
   flex-shrink:0;display:flex;align-items:center;gap:8px;
@@ -333,9 +335,9 @@ footer{
   padding:2px 6px;border-radius:8px;letter-spacing:.5px;
   box-shadow:0 2px 6px rgba(0,0,0,.4);pointer-events:none;
 }
-/* Desktop: Aktuálne sa zalamuje do riadkov, min. výška 2 riadky */
+/* Desktop: Aktuálne sa zalamuje do riadkov — 1 riadok pri málo linkách, max. 3 riadky, zvyšok scroll */
 @media(min-width:561px){
-  #aktualneScroll{flex-wrap:wrap;overflow-x:visible;min-height:76px}
+  #aktualneScroll{flex-wrap:wrap;overflow-x:visible;max-height:120px;overflow-y:auto}
 }
 
 ::-webkit-scrollbar{width:5px}
@@ -366,6 +368,14 @@ footer{
   #aktualneWrap.has-more::after{
     content:'';position:absolute;right:14px;bottom:0;width:44px;height:48px;
     background:linear-gradient(90deg,rgba(15,25,35,0),var(--bg));pointer-events:none;
+  }
+  /* Červený štítok "+N ›" — počet skrytých liniek, klik doscrolluje (len mobil) */
+  #aktualneWrap.has-more #aktMoreBadge{
+    display:flex;align-items:center;
+    position:absolute;right:14px;bottom:12px;z-index:2;
+    background:#e84242;color:#fff;font-size:0.68rem;font-weight:800;
+    padding:3px 8px;border-radius:10px;white-space:nowrap;cursor:pointer;
+    box-shadow:0 2px 6px rgba(0,0,0,.4);
   }
 
   /* Modaly na mobile — full width */
@@ -427,6 +437,7 @@ footer{
   </div>
   <div id="aktualneScroll" style="display:flex;gap:8px;overflow-x:auto;padding:8px 0 6px;scrollbar-width:none">
   </div>
+  <span id="aktMoreBadge" onclick="aktScrollMore()">+0 ›</span>
 </div>
 
 <!-- MAIN -->
@@ -14027,12 +14038,24 @@ function renderAktualne(){
   updateAktFade();
 }
 
-// Gradient pri Aktuálnych (mobil) — zobrazí sa len keď sa dá scrollovať doprava
+// Gradient + štítok "+N ›" pri Aktuálnych (mobil) — zobrazí sa len keď sa dá scrollovať doprava
 function updateAktFade(){
   const s = document.getElementById('aktualneScroll');
   const w = document.getElementById('aktualneWrap');
   const more = s.scrollWidth - s.clientWidth - s.scrollLeft > 8;
   w.classList.toggle('has-more', more);
+  if(more){
+    // spočítaj karty, ktoré sú celé za pravým okrajom (skryté)
+    const rightEdge = s.scrollLeft + s.clientWidth;
+    let hidden = 0;
+    s.querySelectorAll('.akt-card').forEach(c=>{ if(c.offsetLeft >= rightEdge - 8) hidden++; });
+    document.getElementById('aktMoreBadge').textContent = hidden > 0 ? '+'+hidden+' ›' : '›';
+  }
+}
+// Klik na štítok — posunie Aktuálne o jednu obrazovku doprava
+function aktScrollMore(){
+  const s = document.getElementById('aktualneScroll');
+  s.scrollBy({left: s.clientWidth - 40, behavior:'smooth'});
 }
 document.getElementById('aktualneScroll').addEventListener('scroll', updateAktFade);
 window.addEventListener('resize', updateAktFade);
@@ -14067,5 +14090,7 @@ load().then(()=>{
   checkAdminHash();
 });
 </script>
+<!-- GoatCounter — anonymná návštevnosť (bez cookies), štatistiky: sportlinky.goatcounter.com -->
+<script data-goatcounter="https://sportlinky.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
