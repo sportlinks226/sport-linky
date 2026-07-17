@@ -1,5 +1,5 @@
 {
- "version": 44,
+ "version": 45,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -33242,6 +33242,1176 @@
    "desc": "Klub z Drenasu, majster z rokov 2015 a 2019 — bez webu, odkaz vedie na oficiálny Facebook.",
    "url": "https://www.facebook.com/fcf74/",
    "order": 10
+  },
+  {
+   "id": "f_hun_l1",
+   "parentId": "f_fut_klu_eu_hun",
+   "type": "folder",
+   "icon": "",
+   "name": "NB I",
+   "desc": "Najvyššia maďarská futbalová súťaž (Nemzeti Bajnokság I) — 12 klubov, hrá sa systémom jeseň–jar.",
+   "order": 1,
+   "slug": "nb-i"
+  },
+  {
+   "id": "f_hun_l2",
+   "parentId": "f_fut_klu_eu_hun",
+   "type": "folder",
+   "icon": "",
+   "name": "NB II",
+   "desc": "Druhá najvyššia maďarská súťaž (Nemzeti Bajnokság II / Merkantil Bank Liga) — 16 klubov.",
+   "order": 2,
+   "slug": "nb-ii"
+  },
+  {
+   "id": "f_hun_l1_k1",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Győri ETO FC",
+   "desc": "Győr, rekordný majster a obhajca titulu, hrá na štadióne ETO Park.",
+   "url": "https://eto.hu",
+   "order": 1
+  },
+  {
+   "id": "f_hun_l1_k2",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Ferencvárosi TC",
+   "desc": "Budapešť, najúspešnejší a najpopulárnejší maďarský klub s prezývkou „Fradi“.",
+   "url": "https://fradi.hu",
+   "order": 2
+  },
+  {
+   "id": "f_hun_l1_k3",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Paksi FC",
+   "desc": "Mesto Paks, klub tradične spätý s tamojšou atómovou elektrárňou.",
+   "url": "https://paksifc.hu",
+   "order": 3
+  },
+  {
+   "id": "f_hun_l1_k4",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Debreceni VSC",
+   "desc": "Debrecín, viacnásobný majster prezývaný „Loki“.",
+   "url": "https://dvsc.hu",
+   "order": 4
+  },
+  {
+   "id": "f_hun_l1_k5",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Zalaegerszegi TE FC",
+   "desc": "Zalaegerszeg na západe krajiny, klub známy ako ZTE.",
+   "url": "https://ztefc.hu",
+   "order": 5
+  },
+  {
+   "id": "f_hun_l1_k6",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Puskás Akadémia FC",
+   "desc": "Felcsút, klub pri akadémii pomenovanej po Ferencovi Puskásovi.",
+   "url": "https://puskasakademia.hu",
+   "order": 6
+  },
+  {
+   "id": "f_hun_l1_k7",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Újpest FC",
+   "desc": "Budapeštianska štvrť Újpest, tradičný klub v lila-bielych farbách.",
+   "url": "https://ujpestfc.hu",
+   "order": 7
+  },
+  {
+   "id": "f_hun_l1_k8",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Kisvárda FC",
+   "desc": "Kisvárda na severovýchode Maďarska.",
+   "url": "https://kisvardafc.hu",
+   "order": 8
+  },
+  {
+   "id": "f_hun_l1_k9",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Nyíregyháza Spartacus FC",
+   "desc": "Nyíregyháza, klub založený v roku 1928.",
+   "url": "https://nyiregyhazaspartacus.hu",
+   "order": 9
+  },
+  {
+   "id": "f_hun_l1_k10",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "MTK Budapest",
+   "desc": "Budapešť, jeden z najstarších a najtitulovanejších maďarských klubov.",
+   "url": "https://mtkbudapest.hu",
+   "order": 10
+  },
+  {
+   "id": "f_hun_l1_k11",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Vasas FC",
+   "desc": "Budapešť (Angyalföld), tradičný „železiarsky“ klub, nováčik po postupe z NB II.",
+   "url": "https://vasasfc.hu",
+   "order": 11
+  },
+  {
+   "id": "f_hun_l1_k12",
+   "parentId": "f_hun_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Budapest Honvéd FC",
+   "desc": "Budapeštiansky Kispest, niekdajší klub Ferenca Puskása, nováčik po postupe z NB II.",
+   "url": "https://honvedfc.hu",
+   "order": 12
+  },
+  {
+   "id": "f_hun_l2_k1",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Fehérvár FC",
+   "desc": "Székesfehérvár, bývalý maďarský majster známy aj pod názvom Videoton.",
+   "url": "https://fehervarfc.hu",
+   "order": 1
+  },
+  {
+   "id": "f_hun_l2_k2",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Diósgyőri VTK",
+   "desc": "Miškovec, veľký regionálny multišportový klub (DVTK), zostupujúci z NB I.",
+   "url": "https://dvtk.eu",
+   "order": 2
+  },
+  {
+   "id": "f_hun_l2_k3",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Kazincbarcika SC",
+   "desc": "Kazincbarcika na severe krajiny, zostupujúci z NB I.",
+   "url": "https://kbsc.hu",
+   "order": 3
+  },
+  {
+   "id": "f_hun_l2_k4",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Kecskeméti TE",
+   "desc": "Kecskemét v strede Maďarska.",
+   "url": "https://kecskemetite.hu",
+   "order": 4
+  },
+  {
+   "id": "f_hun_l2_k5",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Kozármisleny SE",
+   "desc": "Obec Kozármisleny neďaleko Pécsu.",
+   "url": "https://kozarmislenyfc.hu",
+   "order": 5
+  },
+  {
+   "id": "f_hun_l2_k6",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Mezőkövesd Zsóry FC",
+   "desc": "Mezőkövesd, klub spätý s tamojšími kúpeľmi Zsóry.",
+   "url": "https://mezokovesdzsory.hu",
+   "order": 6
+  },
+  {
+   "id": "f_hun_l2_k7",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Csákvár",
+   "desc": "Obec Csákvár v župe Fejér, hrá pod názvom Aqvital FC.",
+   "url": "https://aqvitalfc.hu",
+   "order": 7
+  },
+  {
+   "id": "f_hun_l2_k8",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "BVSC-Zugló",
+   "desc": "Budapeštianska štvrť Zugló, tradičný železničiarsky klub.",
+   "url": "https://bvsc.hu",
+   "order": 8
+  },
+  {
+   "id": "f_hun_l2_k9",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Szeged-Csanád Grosics Akadémia",
+   "desc": "Segedín, akadémia pomenovaná po brankárovi Gyulovi Grosicsovi.",
+   "url": "https://szeged-grosicsakademia.hu",
+   "order": 9
+  },
+  {
+   "id": "f_hun_l2_k10",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Tiszakécskei LC",
+   "desc": "Tiszakécske na brehu rieky Tisa.",
+   "url": "https://tiszakecskefoci.hu",
+   "order": 10
+  },
+  {
+   "id": "f_hun_l2_k11",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Karcagi SC",
+   "desc": "Karcag na Veľkej maďarskej nížine.",
+   "url": "https://karcagsport.hu",
+   "order": 11
+  },
+  {
+   "id": "f_hun_l2_k12",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Ajka",
+   "desc": "Ajka v Bakonyských vrchoch.",
+   "url": "https://fcajka.hu",
+   "order": 12
+  },
+  {
+   "id": "f_hun_l2_k13",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Soroksár SC",
+   "desc": "Budapeštianska štvrť Soroksár.",
+   "url": "https://soroksarsc.hu",
+   "order": 13
+  },
+  {
+   "id": "f_hun_l2_k14",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Szentlőrinc SE",
+   "desc": "Obec Szentlőrinc neďaleko Pécsu.",
+   "url": "https://szentlorincse.hu",
+   "order": 14
+  },
+  {
+   "id": "f_hun_l2_k15",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Gyirmót FC Győr",
+   "desc": "Mestská časť Győru Gyirmót, nováčik po postupe z NB III.",
+   "url": "https://gyirmotfc.hu",
+   "order": 15
+  },
+  {
+   "id": "f_hun_l2_k16",
+   "parentId": "f_hun_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Nagykanizsa",
+   "desc": "Nagykanizsa na juhozápade krajiny, nováčik po postupe z NB III.",
+   "url": "https://fcnagykanizsa.hu",
+   "order": 16
+  },
+  {
+   "id": "f_pol_l1",
+   "parentId": "f_fut_klu_eu_pol",
+   "type": "folder",
+   "icon": "",
+   "name": "Ekstraklasa",
+   "desc": "Najvyššia poľská futbalová súťaž — 18 klubov, hrá sa systémom jeseň–jar.",
+   "order": 1,
+   "slug": "ekstraklasa"
+  },
+  {
+   "id": "f_pol_l2",
+   "parentId": "f_fut_klu_eu_pol",
+   "type": "folder",
+   "icon": "",
+   "name": "I liga",
+   "desc": "Druhá najvyššia poľská súťaž (I liga / Betclic 1 Liga) — 18 klubov.",
+   "order": 2,
+   "slug": "i-liga"
+  },
+  {
+   "id": "f_pol_l3",
+   "parentId": "f_fut_klu_eu_pol",
+   "type": "folder",
+   "icon": "",
+   "name": "II liga",
+   "desc": "Tretia najvyššia poľská súťaž (II liga / Betclic 2 Liga) — 18 klubov.",
+   "order": 3,
+   "slug": "ii-liga"
+  },
+  {
+   "id": "f_pol_l1_k1",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Cracovia",
+   "desc": "Krakov, najstarší dodnes hrajúci športový klub v Poľsku.",
+   "url": "https://cracovia.pl",
+   "order": 1
+  },
+  {
+   "id": "f_pol_l1_k2",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "GKS Katowice",
+   "desc": "Katovice, tradičný klub z Horného Sliezska.",
+   "url": "https://gkskatowice.eu",
+   "order": 2
+  },
+  {
+   "id": "f_pol_l1_k3",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Górnik Zabrze",
+   "desc": "Zabrze, 14-násobný majster z horníckeho Sliezska („Górnik“ = baník).",
+   "url": "https://gornikzabrze.pl",
+   "order": 3
+  },
+  {
+   "id": "f_pol_l1_k4",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Jagiellonia Białystok",
+   "desc": "Białystok, majster z Podlaského vojvodstva.",
+   "url": "https://jagiellonia.pl",
+   "order": 4
+  },
+  {
+   "id": "f_pol_l1_k5",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Korona Kielce",
+   "desc": "Kielce, klub zo Svätokrížskeho vojvodstva.",
+   "url": "https://korona-kielce.pl",
+   "order": 5
+  },
+  {
+   "id": "f_pol_l1_k6",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Legia Warszawa",
+   "desc": "Varšava, najtitulovanejší a najpopulárnejší poľský klub súčasnosti.",
+   "url": "https://legia.com",
+   "order": 6
+  },
+  {
+   "id": "f_pol_l1_k7",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Lech Poznań",
+   "desc": "Poznaň, viacnásobný majster prezývaný „Kolejorz“.",
+   "url": "https://lechpoznan.pl",
+   "order": 7
+  },
+  {
+   "id": "f_pol_l1_k8",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Motor Lublin",
+   "desc": "Lublin, klub prezývaný „Duma Koziego Grodu“.",
+   "url": "https://motorlublin.eu",
+   "order": 8
+  },
+  {
+   "id": "f_pol_l1_k9",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Piast Gliwice",
+   "desc": "Gliwice, majster Poľska z roku 2019.",
+   "url": "https://piast.gliwice.pl",
+   "order": 9
+  },
+  {
+   "id": "f_pol_l1_k10",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Pogoń Szczecin",
+   "desc": "Štetín, klub zo severozápadu Poľska.",
+   "url": "https://pogonszczecin.pl",
+   "order": 10
+  },
+  {
+   "id": "f_pol_l1_k11",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Radomiak Radom",
+   "desc": "Radom, klub z Mazovského vojvodstva.",
+   "url": "https://rksradomiak.pl",
+   "order": 11
+  },
+  {
+   "id": "f_pol_l1_k12",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Raków Częstochowa",
+   "desc": "Čenstochová, jeden z najúspešnejších poľských klubov uplynulých rokov.",
+   "url": "https://rakow.com",
+   "order": 12
+  },
+  {
+   "id": "f_pol_l1_k13",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Widzew Łódź",
+   "desc": "Lodž, tradičný klub a dvojnásobný majster Poľska.",
+   "url": "https://widzew.com",
+   "order": 13
+  },
+  {
+   "id": "f_pol_l1_k14",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Wisła Płock",
+   "desc": "Płock na brehu Visly v Mazovskom vojvodstve.",
+   "url": "https://wisla-plock.pl",
+   "order": 14
+  },
+  {
+   "id": "f_pol_l1_k15",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Zagłębie Lubin",
+   "desc": "Lubin, klub spätý s ťažbou medi (skupina KGHM).",
+   "url": "https://zaglebie.com",
+   "order": 15
+  },
+  {
+   "id": "f_pol_l1_k16",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Wisła Kraków",
+   "desc": "Krakov, jeden z najtitulovanejších poľských klubov, nováčik po postupe z I. ligy.",
+   "url": "https://wislakrakow.com",
+   "order": 16
+  },
+  {
+   "id": "f_pol_l1_k17",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Śląsk Wrocław",
+   "desc": "Vroclav, majster z Dolného Sliezska, nováčik po postupe.",
+   "url": "https://slaskwroclaw.pl",
+   "order": 17
+  },
+  {
+   "id": "f_pol_l1_k18",
+   "parentId": "f_pol_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Wieczysta Kraków",
+   "desc": "Krakov, ambiciózny klub, ktorý sa do najvyššej súťaže prebojoval prvýkrát v histórii.",
+   "url": "https://kswieczysta.com",
+   "order": 18
+  },
+  {
+   "id": "f_pol_l2_k1",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Chrobry Głogów",
+   "desc": "Głogów v Dolnom Sliezsku.",
+   "url": "https://chrobry-glogow.pl",
+   "order": 1
+  },
+  {
+   "id": "f_pol_l2_k2",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "ŁKS Łódź",
+   "desc": "Lodž, historický majster Poľska.",
+   "url": "https://lkslodz.pl",
+   "order": 2
+  },
+  {
+   "id": "f_pol_l2_k3",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Miedź Legnica",
+   "desc": "Legnica, klub spätý s ťažbou medi v Dolnom Sliezsku.",
+   "url": "https://miedzlegnica.eu",
+   "order": 3
+  },
+  {
+   "id": "f_pol_l2_k4",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Odra Opole",
+   "desc": "Opole na rieke Odra.",
+   "url": "https://odraopole.pl",
+   "order": 4
+  },
+  {
+   "id": "f_pol_l2_k5",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Pogoń Grodzisk Mazowiecki",
+   "desc": "Grodzisk Mazowiecki neďaleko Varšavy.",
+   "url": "https://pogongrodzisk.pl",
+   "order": 5
+  },
+  {
+   "id": "f_pol_l2_k6",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Pogoń Siedlce",
+   "desc": "Siedlce na východe Mazovského vojvodstva.",
+   "url": "https://mkppogonsiedlce.pl",
+   "order": 6
+  },
+  {
+   "id": "f_pol_l2_k7",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Polonia Bytom",
+   "desc": "Bytom, tradičný sliezsky klub a dvojnásobný majster Poľska.",
+   "url": "https://bs.poloniabytom.com.pl",
+   "order": 7
+  },
+  {
+   "id": "f_pol_l2_k8",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Polonia Warszawa",
+   "desc": "Varšava, majster Poľska z rokov 1946 a 2000.",
+   "url": "https://kspolonia.pl",
+   "order": 8
+  },
+  {
+   "id": "f_pol_l2_k9",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Puszcza Niepołomice",
+   "desc": "Niepołomice neďaleko Krakova.",
+   "url": "https://puszcza-niepolomice.pl",
+   "order": 9
+  },
+  {
+   "id": "f_pol_l2_k10",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Ruch Chorzów",
+   "desc": "Chorzów, historicky 14-násobný majster Poľska.",
+   "url": "https://ksruch.com",
+   "order": 10
+  },
+  {
+   "id": "f_pol_l2_k11",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Stal Mielec",
+   "desc": "Mielec, dvojnásobný majster z Podkarpatského vojvodstva.",
+   "url": "https://stalmielec.com",
+   "order": 11
+  },
+  {
+   "id": "f_pol_l2_k12",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Stal Rzeszów",
+   "desc": "Rzeszów, klub z Podkarpatského vojvodstva.",
+   "url": "https://stalrzeszow.pl",
+   "order": 12
+  },
+  {
+   "id": "f_pol_l2_k13",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Lechia Gdańsk",
+   "desc": "Gdansk, pobrežný klub, zostupujúci z Ekstraklasy.",
+   "url": "https://lechia.pl",
+   "order": 13
+  },
+  {
+   "id": "f_pol_l2_k14",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Arka Gdynia",
+   "desc": "Gdyňa, pobrežný rival Lechie Gdansk, zostupujúci z Ekstraklasy.",
+   "url": "https://arka.gdynia.pl",
+   "order": 14
+  },
+  {
+   "id": "f_pol_l2_k15",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Bruk-Bet Termalica Nieciecza",
+   "desc": "Obec Nieciecza, klub z malej dediny, zostupujúci z Ekstraklasy.",
+   "url": "https://termalica.brukbet.com",
+   "order": 15
+  },
+  {
+   "id": "f_pol_l2_k16",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Unia Skierniewice",
+   "desc": "Skierniewice, nováčik po prvom postupe do I. ligy.",
+   "url": "https://uniaskierniewice.pl",
+   "order": 16
+  },
+  {
+   "id": "f_pol_l2_k17",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Warta Poznań",
+   "desc": "Poznaň, najstarší klub mesta, nováčik po postupe.",
+   "url": "https://wartapoznan.pl",
+   "order": 17
+  },
+  {
+   "id": "f_pol_l2_k18",
+   "parentId": "f_pol_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Podbeskidzie Bielsko-Biała",
+   "desc": "Bielsko-Biała, nováčik po víťaznej baráži o postup.",
+   "url": "https://tspodbeskidzie.pl",
+   "order": 18
+  },
+  {
+   "id": "f_pol_l3_k1",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Chojniczanka Chojnice",
+   "desc": "Chojnice v Pomoranskom vojvodstve.",
+   "url": "https://mkschojniczanka.pl",
+   "order": 1
+  },
+  {
+   "id": "f_pol_l3_k2",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Hutnik Kraków",
+   "desc": "Krakov, klub z priemyselnej štvrte Nowa Huta.",
+   "url": "https://hutnikkrakow.com",
+   "order": 2
+  },
+  {
+   "id": "f_pol_l3_k3",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Podhale Nowy Targ",
+   "desc": "Nowy Targ v regióne Podhalie pod Tatrami.",
+   "url": "https://nkp.podhale.pl",
+   "order": 3
+  },
+  {
+   "id": "f_pol_l3_k4",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Rekord Bielsko-Biała",
+   "desc": "Bielsko-Biała, klub známy aj z futsalu.",
+   "url": "https://bts.rekord.com.pl",
+   "order": 4
+  },
+  {
+   "id": "f_pol_l3_k5",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Stal Stalowa Wola",
+   "desc": "Stalowa Wola v Podkarpatskom vojvodstve.",
+   "url": "https://stal1938.pl",
+   "order": 5
+  },
+  {
+   "id": "f_pol_l3_k6",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Świt Szczecin",
+   "desc": "Štetín, klub zo štvrte Skolwin.",
+   "url": "https://swit.szczecin.pl",
+   "order": 6
+  },
+  {
+   "id": "f_pol_l3_k7",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Zawisza Bydgoszcz",
+   "desc": "Bydhošť, tradičný klub s bohatou históriou.",
+   "url": "https://zawiszabydgoszcz.pl",
+   "order": 7
+  },
+  {
+   "id": "f_pol_l3_k8",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Avia Świdnik",
+   "desc": "Świdnik pri Lubline, klub spätý s leteckým priemyslom.",
+   "url": "https://avia-swidnik.pl",
+   "order": 8
+  },
+  {
+   "id": "f_pol_l3_k9",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Lechia Zielona Góra",
+   "desc": "Zielona Góra v Lubušskom vojvodstve.",
+   "url": "https://lechia-zg.pl",
+   "order": 9
+  },
+  {
+   "id": "f_pol_l3_k10",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Legia II Warszawa",
+   "desc": "Rezervný B-tím Legie Varšava — odkaz vedie na web materského klubu.",
+   "url": "https://legia.com",
+   "order": 10
+  },
+  {
+   "id": "f_pol_l3_k11",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Olimpia Grudziądz",
+   "desc": "Grudziądz v Kujavsko-pomoranskom vojvodstve.",
+   "url": "https://olimpiagrudziadz.com",
+   "order": 11
+  },
+  {
+   "id": "f_pol_l3_k12",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Sandecja Nowy Sącz",
+   "desc": "Nowy Sącz v Malopoľskom vojvodstve.",
+   "url": "https://sandecja.pl",
+   "order": 12
+  },
+  {
+   "id": "f_pol_l3_k13",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Śląsk II Wrocław",
+   "desc": "Rezervný B-tím Śląsku Vroclav — odkaz vedie na web materského klubu.",
+   "url": "https://slaskwroclaw.pl",
+   "order": 13
+  },
+  {
+   "id": "f_pol_l3_k14",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "GKS Tychy",
+   "desc": "Tychy na Sliezsku, zostupujúci z I. ligy.",
+   "url": "https://kp-gkstychy.pl",
+   "order": 14
+  },
+  {
+   "id": "f_pol_l3_k15",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Górnik Łęczna",
+   "desc": "Łęczna v Lublinskom vojvodstve, zostupujúci z I. ligy.",
+   "url": "https://gornik.leczna.pl",
+   "order": 15
+  },
+  {
+   "id": "f_pol_l3_k16",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Znicz Pruszków",
+   "desc": "Pruszków neďaleko Varšavy, zostupujúci z I. ligy.",
+   "url": "https://zniczpruszkow.com.pl",
+   "order": 16
+  },
+  {
+   "id": "f_pol_l3_k17",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Resovia Rzeszów",
+   "desc": "Rzeszów, tradičný klub CWKS Resovia, nováčik po postupe z III. ligy.",
+   "url": "https://cwks-resovia.pl",
+   "order": 17
+  },
+  {
+   "id": "f_pol_l3_k18",
+   "parentId": "f_pol_l3",
+   "type": "link",
+   "icon": "",
+   "name": "Sokół Kleczew",
+   "desc": "Obec Kleczew vo Veľkopoľskom vojvodstve, nováčik po postupe z III. ligy.",
+   "url": "https://sokolkleczew.pl",
+   "order": 18
+  },
+  {
+   "id": "f_aut_l1",
+   "parentId": "f_fut_klu_eu_aut",
+   "type": "folder",
+   "icon": "",
+   "name": "Bundesliga",
+   "desc": "Najvyššia rakúska futbalová súťaž — 12 klubov, hrá sa systémom jeseň–jar.",
+   "order": 1,
+   "slug": "bundesliga"
+  },
+  {
+   "id": "f_aut_l2",
+   "parentId": "f_fut_klu_eu_aut",
+   "type": "folder",
+   "icon": "",
+   "name": "2. Liga",
+   "desc": "Druhá najvyššia rakúska súťaž — 16 klubov.",
+   "order": 2,
+   "slug": "2-liga"
+  },
+  {
+   "id": "f_aut_l1_k1",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "LASK",
+   "desc": "Linz, tradičný klub z Horného Rakúska.",
+   "url": "https://lask.at",
+   "order": 1
+  },
+  {
+   "id": "f_aut_l1_k2",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Sturm Graz",
+   "desc": "Graz, viacnásobný majster zo Štajerska.",
+   "url": "https://sksturm.at",
+   "order": 2
+  },
+  {
+   "id": "f_aut_l1_k3",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Red Bull Salzburg",
+   "desc": "Salzburg, dominantný rakúsky majster ostatnej éry.",
+   "url": "https://redbullsalzburg.at",
+   "order": 3
+  },
+  {
+   "id": "f_aut_l1_k4",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Rapid Wien",
+   "desc": "Viedeň, rekordný 32-násobný majster Rakúska.",
+   "url": "https://skrapid.at",
+   "order": 4
+  },
+  {
+   "id": "f_aut_l1_k5",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Austria Wien",
+   "desc": "Viedeň, jeden z najúspešnejších rakúskych klubov a rival Rapidu.",
+   "url": "https://fk-austria.at",
+   "order": 5
+  },
+  {
+   "id": "f_aut_l1_k6",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "TSV Hartberg",
+   "desc": "Hartberg vo východnom Štajersku.",
+   "url": "https://tsv-hartberg.at",
+   "order": 6
+  },
+  {
+   "id": "f_aut_l1_k7",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SV Ried",
+   "desc": "Ried im Innkreis v Hornom Rakúsku.",
+   "url": "https://svried.at",
+   "order": 7
+  },
+  {
+   "id": "f_aut_l1_k8",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SCR Altach",
+   "desc": "Altach vo Vorarlbersku.",
+   "url": "https://scra.at",
+   "order": 8
+  },
+  {
+   "id": "f_aut_l1_k9",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "WSG Tirol",
+   "desc": "Tirolský klub sídliaci v Innsbrucku a Wattens.",
+   "url": "https://wsg-fussball.at",
+   "order": 9
+  },
+  {
+   "id": "f_aut_l1_k10",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Grazer AK",
+   "desc": "Graz, tradičný klub „GAK“ založený v roku 1902.",
+   "url": "https://grazerak.at",
+   "order": 10
+  },
+  {
+   "id": "f_aut_l1_k11",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Wolfsberger AC",
+   "desc": "Wolfsberg v Korutánsku.",
+   "url": "https://rzpelletswac.at",
+   "order": 11
+  },
+  {
+   "id": "f_aut_l1_k12",
+   "parentId": "f_aut_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SC Austria Lustenau",
+   "desc": "Lustenau vo Vorarlbersku, nováčik po postupe z 2. ligy.",
+   "url": "https://austria-lustenau.at",
+   "order": 12
+  },
+  {
+   "id": "f_aut_l2_k1",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Blau-Weiß Linz",
+   "desc": "Linz, zostupujúci z Bundesligy.",
+   "url": "https://blauweiss-linz.at",
+   "order": 1
+  },
+  {
+   "id": "f_aut_l2_k2",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SKN St. Pölten",
+   "desc": "Sankt Pölten, hlavné mesto Dolného Rakúska.",
+   "url": "https://skn-stpoelten.at",
+   "order": 2
+  },
+  {
+   "id": "f_aut_l2_k3",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Admira Wacker",
+   "desc": "Maria Enzersdorf pri Mödlingu, tradičný dolnorakúsky klub.",
+   "url": "https://admirawacker.at",
+   "order": 3
+  },
+  {
+   "id": "f_aut_l2_k4",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Floridsdorfer AC",
+   "desc": "Viedenská štvrť Floridsdorf (FAC).",
+   "url": "https://fac.at",
+   "order": 4
+  },
+  {
+   "id": "f_aut_l2_k5",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Liefering",
+   "desc": "Salzburg, farmársky tím Red Bull Salzburg.",
+   "url": "https://fc-liefering.at",
+   "order": 5
+  },
+  {
+   "id": "f_aut_l2_k6",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SKU Amstetten",
+   "desc": "Amstetten v Dolnom Rakúsku.",
+   "url": "https://sku-amstetten.at",
+   "order": 6
+  },
+  {
+   "id": "f_aut_l2_k7",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "First Vienna FC",
+   "desc": "Viedeň, najstarší futbalový klub Rakúska (zal. 1894).",
+   "url": "https://firstviennafc.at",
+   "order": 7
+  },
+  {
+   "id": "f_aut_l2_k8",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Young Violets Austria Wien",
+   "desc": "Rezervný tím FK Austria Wien — odkaz vedie na web materského klubu.",
+   "url": "https://fk-austria.at",
+   "order": 8
+  },
+  {
+   "id": "f_aut_l2_k9",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SV Austria Salzburg",
+   "desc": "Salzburg, tradičný klub „Austria“ z Mozartovho mesta.",
+   "url": "https://austria-salzburg.at",
+   "order": 9
+  },
+  {
+   "id": "f_aut_l2_k10",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Hertha Wels",
+   "desc": "Wels v Hornom Rakúsku.",
+   "url": "https://fc-hertha.at",
+   "order": 10
+  },
+  {
+   "id": "f_aut_l2_k11",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Rapid Wien II",
+   "desc": "Rezervný tím SK Rapid Wien — odkaz vedie na web materského klubu.",
+   "url": "https://skrapid.at",
+   "order": 11
+  },
+  {
+   "id": "f_aut_l2_k12",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Kapfenberger SV",
+   "desc": "Kapfenberg v Štajersku.",
+   "url": "https://ksv1919.at",
+   "order": 12
+  },
+  {
+   "id": "f_aut_l2_k13",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Sturm Graz II",
+   "desc": "Rezervný tím SK Sturm Graz — odkaz vedie na web materského klubu.",
+   "url": "https://sksturm.at",
+   "order": 13
+  },
+  {
+   "id": "f_aut_l2_k14",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Schwarz-Weiß Bregenz",
+   "desc": "Bregenz na brehu Bodamského jazera vo Vorarlbersku.",
+   "url": "https://sw-bregenz.at",
+   "order": 14
+  },
+  {
+   "id": "f_aut_l2_k15",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Wacker Innsbruck",
+   "desc": "Innsbruck, obnovený tradičný tirolský klub, nováčik po postupe.",
+   "url": "https://fc-wacker-innsbruck.at",
+   "order": 15
+  },
+  {
+   "id": "f_aut_l2_k16",
+   "parentId": "f_aut_l2",
+   "type": "link",
+   "icon": "",
+   "name": "ASK Voitsberg",
+   "desc": "Voitsberg v Štajersku, nováčik po postupe.",
+   "url": "https://ask-voitsberg.at",
+   "order": 16
   }
  ]
 }
