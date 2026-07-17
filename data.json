@@ -1,5 +1,5 @@
 {
- "version": 45,
+ "version": 46,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -34411,6 +34411,926 @@
    "name": "ASK Voitsberg",
    "desc": "Voitsberg v Štajersku, nováčik po postupe.",
    "url": "https://ask-voitsberg.at",
+   "order": 16
+  },
+  {
+   "id": "f_che_l1",
+   "parentId": "f_fut_klu_eu_che",
+   "type": "folder",
+   "icon": "",
+   "name": "Super League",
+   "desc": "Najvyššia švajčiarska futbalová liga (sezóna 2026/27) – 12 klubov.",
+   "order": 1,
+   "slug": "super-league"
+  },
+  {
+   "id": "f_che_l2",
+   "parentId": "f_fut_klu_eu_che",
+   "type": "folder",
+   "icon": "",
+   "name": "Challenge League",
+   "desc": "Druhá najvyššia švajčiarska liga (2026/27) – 10 klubov.",
+   "order": 2,
+   "slug": "challenge-league"
+  },
+  {
+   "id": "f_swe_l1",
+   "parentId": "f_fut_klu_eu_swe",
+   "type": "folder",
+   "icon": "",
+   "name": "Allsvenskan",
+   "desc": "Najvyššia švédska futbalová liga (sezóna 2026) – 16 klubov.",
+   "order": 1,
+   "slug": "allsvenskan"
+  },
+  {
+   "id": "f_swe_l2",
+   "parentId": "f_fut_klu_eu_swe",
+   "type": "folder",
+   "icon": "",
+   "name": "Superettan",
+   "desc": "Druhá najvyššia švédska liga (2026) – 16 klubov.",
+   "order": 2,
+   "slug": "superettan"
+  },
+  {
+   "id": "f_swe_l3n",
+   "parentId": "f_fut_klu_eu_swe",
+   "type": "folder",
+   "icon": "",
+   "name": "Ettan Norra",
+   "desc": "Tretia švédska liga, severná skupina (2026) – 16 klubov.",
+   "order": 3,
+   "slug": "ettan-norra"
+  },
+  {
+   "id": "f_swe_l3s",
+   "parentId": "f_fut_klu_eu_swe",
+   "type": "folder",
+   "icon": "",
+   "name": "Ettan Södra",
+   "desc": "Tretia švédska liga, južná skupina (2026) – 16 klubov.",
+   "order": 4,
+   "slug": "ettan-sodra"
+  },
+  {
+   "id": "f_che_l1_k1",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Basel",
+   "desc": "Bazilej; najúspešnejší švajčiarsky klub 21. storočia, hrá na štadióne St. Jakob-Park.",
+   "url": "https://www.fcb.ch/",
+   "order": 1
+  },
+  {
+   "id": "f_che_l1_k2",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Grasshopper Club Zürich",
+   "desc": "Zürich; rekordný majster Švajčiarska s najviac titulmi, založený 1886.",
+   "url": "https://www.gcz.ch/",
+   "order": 2
+  },
+  {
+   "id": "f_che_l1_k3",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Lausanne-Sport",
+   "desc": "Lausanne; tradičný klub od Ženevského jazera, hrá na modernom štadióne Tuilière.",
+   "url": "https://www.lausanne-sport.ch/",
+   "order": 3
+  },
+  {
+   "id": "f_che_l1_k4",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Lugano",
+   "desc": "Lugano; popredný klub taliansky hovoriaceho kantónu Ticino, častý účastník európskych pohárov.",
+   "url": "https://fclugano.com/",
+   "order": 4
+  },
+  {
+   "id": "f_che_l1_k5",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Luzern",
+   "desc": "Lucern; klub z centrálneho Švajčiarska a víťaz švajčiarskeho pohára.",
+   "url": "https://www.fcl.ch/",
+   "order": 5
+  },
+  {
+   "id": "f_che_l1_k6",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Servette FC",
+   "desc": "Ženeva; najstarší a najúspešnejší ženevský klub.",
+   "url": "https://servettefc.ch/",
+   "order": 6
+  },
+  {
+   "id": "f_che_l1_k7",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Sion",
+   "desc": "Sion; klub z kantónu Valais známy rekordnými víťazstvami vo švajčiarskom pohári.",
+   "url": "https://www.fcsion.ch/",
+   "order": 7
+  },
+  {
+   "id": "f_che_l1_k8",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC St. Gallen",
+   "desc": "Sankt Gallen; najstarší futbalový klub Švajčiarska (1879) z východu krajiny.",
+   "url": "https://www.fcsg.ch/",
+   "order": 8
+  },
+  {
+   "id": "f_che_l1_k9",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Thun",
+   "desc": "Thun; klub z Bernského Oberlandu a prekvapivý majster sezóny 2025/26.",
+   "url": "https://fcthun.ch/",
+   "order": 9
+  },
+  {
+   "id": "f_che_l1_k10",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Vaduz",
+   "desc": "Vaduz; jediný lichtenštajnský klub v švajčiarskej lige, nováčik Super League.",
+   "url": "https://www.fcvaduz.li/",
+   "order": 10
+  },
+  {
+   "id": "f_che_l1_k11",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "BSC Young Boys",
+   "desc": "Bern; jeden z najúspešnejších klubov krajiny, domáci na štadióne Wankdorf.",
+   "url": "https://www.bscyb.ch/",
+   "order": 11
+  },
+  {
+   "id": "f_che_l1_k12",
+   "parentId": "f_che_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Zürich",
+   "desc": "Zürich; tradičný veľkoklub, viacnásobný majster a víťaz pohára.",
+   "url": "https://www.fcz.ch/",
+   "order": 12
+  },
+  {
+   "id": "f_che_l2_k1",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Aarau",
+   "desc": "Aarau; niekdajší majster z kantónu Aargau, dnes stálica druhej ligy.",
+   "url": "https://fcaarau.ch/",
+   "order": 1
+  },
+  {
+   "id": "f_che_l2_k2",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Étoile Carouge FC",
+   "desc": "Carouge pri Ženeve; tradičný klub s charakteristickými čierno-bordovými farbami.",
+   "url": "https://etoile-carouge.ch/",
+   "order": 2
+  },
+  {
+   "id": "f_che_l2_k3",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SC Kriens",
+   "desc": "Kriens pri Lucerne; klub z centrálneho Švajčiarska.",
+   "url": "https://sckriens.ch/",
+   "order": 3
+  },
+  {
+   "id": "f_che_l2_k4",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Stade Lausanne-Ouchy",
+   "desc": "Lausanne; druhý klub mesta z mestskej časti Ouchy.",
+   "url": "https://fcslo.ch/",
+   "order": 4
+  },
+  {
+   "id": "f_che_l2_k5",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Neuchâtel Xamax FCS",
+   "desc": "Neuchâtel; tradičný klub od Neuchâtelského jazera, bývalý majster.",
+   "url": "https://xamax.ch/",
+   "order": 5
+  },
+  {
+   "id": "f_che_l2_k6",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Stade Nyonnais",
+   "desc": "Nyon; klub z mesta pri Ženevskom jazere, kde sídli UEFA.",
+   "url": "https://stadenyonnais.ch/",
+   "order": 6
+  },
+  {
+   "id": "f_che_l2_k7",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Rapperswil-Jona",
+   "desc": "Rapperswil-Jona; klub od Zürišského jazera.",
+   "url": "https://fcrj.ch/",
+   "order": 7
+  },
+  {
+   "id": "f_che_l2_k8",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Wil 1900",
+   "desc": "Wil; klub z kantónu St. Gallen, víťaz švajčiarskeho pohára 2004.",
+   "url": "https://fcwil.ch/",
+   "order": 8
+  },
+  {
+   "id": "f_che_l2_k9",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Winterthur",
+   "desc": "Winterthur; jeden z najstarších klubov krajiny, čerstvý zostupujúci zo Super League.",
+   "url": "https://fcwinterthur.ch/",
+   "order": 9
+  },
+  {
+   "id": "f_che_l2_k10",
+   "parentId": "f_che_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Yverdon Sport FC",
+   "desc": "Yverdon-les-Bains; klub z kantónu Vaud.",
+   "url": "https://www.yverdonsport.ch/",
+   "order": 10
+  },
+  {
+   "id": "f_swe_l1_k1",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "AIK",
+   "desc": "Solna pri Štokholme; jeden z najväčších švédskych klubov, hrá na Národnej aréne.",
+   "url": "https://www.aikfotboll.se/",
+   "order": 1
+  },
+  {
+   "id": "f_swe_l1_k2",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "BK Häcken",
+   "desc": "Göteborg (Hisingen); moderný klub a majster z roku 2022.",
+   "url": "https://bkhacken.se/",
+   "order": 2
+  },
+  {
+   "id": "f_swe_l1_k3",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Degerfors IF",
+   "desc": "Degerfors; tradičný klub z regiónu Värmland.",
+   "url": "https://degerforsif.se/",
+   "order": 3
+  },
+  {
+   "id": "f_swe_l1_k4",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Djurgårdens IF",
+   "desc": "Štokholm; jeden z najúspešnejších švédskych klubov, hrá na 3Arena.",
+   "url": "https://www.dif.se/",
+   "order": 4
+  },
+  {
+   "id": "f_swe_l1_k5",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "GAIS",
+   "desc": "Göteborg; jeden z najstarších klubov mesta (1894).",
+   "url": "https://www.gais.se/",
+   "order": 5
+  },
+  {
+   "id": "f_swe_l1_k6",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Halmstads BK",
+   "desc": "Halmstad; viacnásobný švédsky majster z 90. rokov.",
+   "url": "https://www.hbk.se/",
+   "order": 6
+  },
+  {
+   "id": "f_swe_l1_k7",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Hammarby IF",
+   "desc": "Štokholm; populárny klub s vášnivými fanúšikmi z južného Štokholmu.",
+   "url": "https://www.hammarbyfotboll.se/",
+   "order": 7
+  },
+  {
+   "id": "f_swe_l1_k8",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "IF Brommapojkarna",
+   "desc": "Štokholm (Bromma); klub známy jednou z najväčších mládežníckych akadémií v Európe.",
+   "url": "https://bpfotboll.se/",
+   "order": 8
+  },
+  {
+   "id": "f_swe_l1_k9",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "IF Elfsborg",
+   "desc": "Borås; tradičný veľkoklub a viacnásobný majster.",
+   "url": "https://elfsborg.se/",
+   "order": 9
+  },
+  {
+   "id": "f_swe_l1_k10",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "IFK Göteborg",
+   "desc": "Göteborg; najúspešnejší göteborský klub a víťaz Pohára UEFA.",
+   "url": "https://ifkgoteborg.se/",
+   "order": 10
+  },
+  {
+   "id": "f_swe_l1_k11",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "IK Sirius",
+   "desc": "Uppsala; klub z univerzitného mesta severne od Štokholmu.",
+   "url": "https://www.siriusfotboll.se/",
+   "order": 11
+  },
+  {
+   "id": "f_swe_l1_k12",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Kalmar FF",
+   "desc": "Kalmar; klub z juhovýchodu krajiny, majster z roku 2008.",
+   "url": "https://kalmarff.se/",
+   "order": 12
+  },
+  {
+   "id": "f_swe_l1_k13",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Malmö FF",
+   "desc": "Malmö; rekordný švédsky majster a finalista Pohára majstrov 1979.",
+   "url": "https://www.mff.se/",
+   "order": 13
+  },
+  {
+   "id": "f_swe_l1_k14",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Mjällby AIF",
+   "desc": "Hällevik (Blekinge); klub z juhu krajiny a obhajca majstrovského titulu.",
+   "url": "https://maif.se/",
+   "order": 14
+  },
+  {
+   "id": "f_swe_l1_k15",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Västerås SK",
+   "desc": "Västerås; tradičný klub západne od Štokholmu.",
+   "url": "https://www.vskfotboll.nu/",
+   "order": 15
+  },
+  {
+   "id": "f_swe_l1_k16",
+   "parentId": "f_swe_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Örgryte IS",
+   "desc": "Göteborg; najstarší futbalový klub Švédska (1887).",
+   "url": "https://oisfotboll.se/",
+   "order": 16
+  },
+  {
+   "id": "f_swe_l2_k1",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Falkenbergs FF",
+   "desc": "Falkenberg (Halland); klub s prezývkou „tím pri mori“.",
+   "url": "https://falkenbergsff.se/",
+   "order": 1
+  },
+  {
+   "id": "f_swe_l2_k2",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "GIF Sundsvall",
+   "desc": "Sundsvall; popredný klub severného Švédska.",
+   "url": "https://gifsundsvall.se/",
+   "order": 2
+  },
+  {
+   "id": "f_swe_l2_k3",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Helsingborgs IF",
+   "desc": "Helsingborg; tradičný veľkoklub a viacnásobný majster.",
+   "url": "https://www.hif.se/",
+   "order": 3
+  },
+  {
+   "id": "f_swe_l2_k4",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "IFK Norrköping",
+   "desc": "Norrköping; jeden z najúspešnejších švédskych klubov, čerstvý zostupujúci z Allsvenskan.",
+   "url": "https://ifknorrkoping.se/",
+   "order": 4
+  },
+  {
+   "id": "f_swe_l2_k5",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "IFK Värnamo",
+   "desc": "Värnamo; klub z regiónu Småland.",
+   "url": "https://ifkvarnamo.se/",
+   "order": 5
+  },
+  {
+   "id": "f_swe_l2_k6",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "IK Brage",
+   "desc": "Borlänge (Dalarna); tradičný klub s oranžovými farbami.",
+   "url": "https://ikbrage.se/",
+   "order": 6
+  },
+  {
+   "id": "f_swe_l2_k7",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "IK Oddevold",
+   "desc": "Uddevalla; klub zo západného pobrežia.",
+   "url": "https://oddevold.se/",
+   "order": 7
+  },
+  {
+   "id": "f_swe_l2_k8",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Landskrona BoIS",
+   "desc": "Landskrona; tradičný klub zo Skåne.",
+   "url": "https://landskronabois.se/",
+   "order": 8
+  },
+  {
+   "id": "f_swe_l2_k9",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Ljungskile SK",
+   "desc": "Ljungskile; klub z pobrežia Bohuslän.",
+   "url": "https://www.lsk.se/",
+   "order": 9
+  },
+  {
+   "id": "f_swe_l2_k10",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Nordic United FC",
+   "desc": "Södertälje; mladý klub a nováčik druhej ligy.",
+   "url": "https://www.nordicunitedfc.se/",
+   "order": 10
+  },
+  {
+   "id": "f_swe_l2_k11",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Norrby IF",
+   "desc": "Borås; druhý klub mesta Borås.",
+   "url": "https://www.norrbyif.se/",
+   "order": 11
+  },
+  {
+   "id": "f_swe_l2_k12",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Sandvikens IF",
+   "desc": "Sandviken; klub z regiónu Gästrikland.",
+   "url": "https://sandvikensif.se/",
+   "order": 12
+  },
+  {
+   "id": "f_swe_l2_k13",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Varbergs BoIS",
+   "desc": "Varberg (Halland); pobrežný klub zo západu krajiny.",
+   "url": "https://boisfc.nu/",
+   "order": 13
+  },
+  {
+   "id": "f_swe_l2_k14",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Örebro SK",
+   "desc": "Örebro; tradičný veľkoklub zo stredného Švédska.",
+   "url": "https://oskfotboll.se/",
+   "order": 14
+  },
+  {
+   "id": "f_swe_l2_k15",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Östers IF",
+   "desc": "Växjö (Småland); viacnásobný majster zo 70. a 80. rokov.",
+   "url": "https://ostersif.se/",
+   "order": 15
+  },
+  {
+   "id": "f_swe_l2_k16",
+   "parentId": "f_swe_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Östersunds FK",
+   "desc": "Östersund; klub, ktorý sa preslávil európskym ťažením v Európskej lige 2017/18.",
+   "url": "https://ostersundsfk.se/",
+   "order": 16
+  },
+  {
+   "id": "f_swe_l3n_k1",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "AFC Eskilstuna",
+   "desc": "Eskilstuna; klub západne od Štokholmu, hrá na štadióne Tunavallen.",
+   "url": "https://www.afc-eskilstuna.se/",
+   "order": 1
+  },
+  {
+   "id": "f_swe_l3n_k2",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Assyriska FF",
+   "desc": "Södertälje; klub s asýrskymi koreňmi, symbol asýrskej diaspóry.",
+   "url": "https://assyriska.se/",
+   "order": 2
+  },
+  {
+   "id": "f_swe_l3n_k3",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Enköpings SK",
+   "desc": "Enköping; klub z regiónu Uppland.",
+   "url": "https://esk.nu/",
+   "order": 3
+  },
+  {
+   "id": "f_swe_l3n_k4",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "FBK Karlstad",
+   "desc": "Karlstad; futbalový klub z Värmlandu spätý so značkou Färjestad.",
+   "url": "https://www.fbkkarlstad.se/",
+   "order": 4
+  },
+  {
+   "id": "f_swe_l3n_k5",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "FC Arlanda",
+   "desc": "Märsta pri letisku Arlanda; mladý ambiciózny klub.",
+   "url": "https://www.arlandafotboll.se/",
+   "order": 5
+  },
+  {
+   "id": "f_swe_l3n_k6",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "FC Järfälla",
+   "desc": "Jakobsberg/Järfälla; klub zo severozápadu Štokholmu.",
+   "url": "https://www.fcjarfalla.se/",
+   "order": 6
+  },
+  {
+   "id": "f_swe_l3n_k7",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "FC Stockholm",
+   "desc": "Štokholm; klub z Kungsholmenu, ktorý rýchlo stúpal ligami.",
+   "url": "https://www.fcsthlm.com/",
+   "order": 7
+  },
+  {
+   "id": "f_swe_l3n_k8",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Gefle IF",
+   "desc": "Gävle; tradičný klub a bývalý účastník Allsvenskan.",
+   "url": "https://gefleiffotboll.se/",
+   "order": 8
+  },
+  {
+   "id": "f_swe_l3n_k9",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Hammarby TFF",
+   "desc": "Štokholm; talentový (farmársky) tím Hammarby IF.",
+   "url": "https://www.htff.se/",
+   "order": 9
+  },
+  {
+   "id": "f_swe_l3n_k10",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "IF Karlstad",
+   "desc": "Karlstad; klub vzniknutý zlúčením karlstadských klubov v roku 2019.",
+   "url": "https://www.karlstadfotboll.com/",
+   "order": 10
+  },
+  {
+   "id": "f_swe_l3n_k11",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "IFK Stocksund",
+   "desc": "Stocksund (Danderyd); klub zo severných predmestí Štokholmu.",
+   "url": "https://www.ifkstocksund.se/",
+   "order": 11
+  },
+  {
+   "id": "f_swe_l3n_k12",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Karlbergs BK",
+   "desc": "Štokholm; klub z Vasastanu na Kungsholmene.",
+   "url": "https://www.karlbergsbk.se/",
+   "order": 12
+  },
+  {
+   "id": "f_swe_l3n_k13",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Piteå IF",
+   "desc": "Piteå; klub z ďalekého severu Švédska.",
+   "url": "https://www.piteaif.se/",
+   "order": 13
+  },
+  {
+   "id": "f_swe_l3n_k14",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Sollentuna FK",
+   "desc": "Sollentuna; klub zo severného Štokholmu s veľkou mládežníckou základňou.",
+   "url": "https://www.sollentunafk.se/",
+   "order": 14
+  },
+  {
+   "id": "f_swe_l3n_k15",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Umeå FC",
+   "desc": "Umeå; klub zo severného mesta Umeå.",
+   "url": "https://www.ufc.se/",
+   "order": 15
+  },
+  {
+   "id": "f_swe_l3n_k16",
+   "parentId": "f_swe_l3n",
+   "type": "link",
+   "icon": "",
+   "name": "Vasalunds IF",
+   "desc": "Solna pri Štokholme; klub známy výchovou mladých talentov.",
+   "url": "https://www.vasalund.com/",
+   "order": 16
+  },
+  {
+   "id": "f_swe_l3s_k1",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "AFC Malmö",
+   "desc": "Malmö; klub s rekordnými siedmimi postupmi za sebou.",
+   "url": "https://www.afcmalmo.se/",
+   "order": 1
+  },
+  {
+   "id": "f_swe_l3s_k2",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "BK Olympic",
+   "desc": "Malmö; tradičný malmöský klub.",
+   "url": "https://www.bkolympic.se/",
+   "order": 2
+  },
+  {
+   "id": "f_swe_l3s_k3",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Eskilsminne IF",
+   "desc": "Helsingborg; klub s jednou z najväčších skånskych akadémií.",
+   "url": "https://eskils.nu/",
+   "order": 3
+  },
+  {
+   "id": "f_swe_l3s_k4",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "FC Rosengård",
+   "desc": "Malmö; známy predovšetkým úspešným ženským tímom, mužský tím hrá tretiu ligu.",
+   "url": "https://www.fcrosengard.se/",
+   "order": 4
+  },
+  {
+   "id": "f_swe_l3s_k5",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "FC Trollhättan",
+   "desc": "Trollhättan; klub zo západného Švédska.",
+   "url": "https://www.fct.nu/",
+   "order": 5
+  },
+  {
+   "id": "f_swe_l3s_k6",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Hässleholms IF",
+   "desc": "Hässleholm; tradičný klub severného Skåne.",
+   "url": "https://www.hassleholmsif.se/",
+   "order": 6
+  },
+  {
+   "id": "f_swe_l3s_k7",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Jönköpings Södra IF",
+   "desc": "Jönköping; „J-Södra“, tradičný klub od jazera Vättern.",
+   "url": "https://www.jonkopingssodra.se/",
+   "order": 7
+  },
+  {
+   "id": "f_swe_l3s_k8",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Kristianstad FC",
+   "desc": "Kristianstad; najväčší futbalový klub mesta.",
+   "url": "https://www.svenskalag.se/kristianstadfc",
+   "order": 8
+  },
+  {
+   "id": "f_swe_l3s_k9",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Laholms FK",
+   "desc": "Laholm (Halland); klub z južnej Hallandu.",
+   "url": "https://www.svenskalag.se/laholmsfk",
+   "order": 9
+  },
+  {
+   "id": "f_swe_l3s_k10",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Lunds BK",
+   "desc": "Lund; klub z univerzitného mesta.",
+   "url": "https://www.lundsbk.se/",
+   "order": 10
+  },
+  {
+   "id": "f_swe_l3s_k11",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Skövde AIK",
+   "desc": "Skövde; klub zo Västergötlandu.",
+   "url": "https://www.skovdeaik.se/",
+   "order": 11
+  },
+  {
+   "id": "f_swe_l3s_k12",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Trelleborgs FF",
+   "desc": "Trelleborg; tradičný klub z najjužnejšieho Švédska.",
+   "url": "https://trelleborgsff.se/",
+   "order": 12
+  },
+  {
+   "id": "f_swe_l3s_k13",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Tvååkers IF",
+   "desc": "Tvååker (Varberg); malý klub z Hallandu.",
+   "url": "https://www.tvaakersif.se/",
+   "order": 13
+  },
+  {
+   "id": "f_swe_l3s_k14",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Utsiktens BK",
+   "desc": "Göteborg; klub z göteborskej štvrte, ktorý stúpal ligami.",
+   "url": "https://www.utsiktensbk.se/",
+   "order": 14
+  },
+  {
+   "id": "f_swe_l3s_k15",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Åtvidabergs FF",
+   "desc": "Åtvidaberg; dvojnásobný švédsky majster zo 70. rokov.",
+   "url": "https://www.atvidabergsff.se/",
+   "order": 15
+  },
+  {
+   "id": "f_swe_l3s_k16",
+   "parentId": "f_swe_l3s",
+   "type": "link",
+   "icon": "",
+   "name": "Ängelholms FF",
+   "desc": "Ängelholm (Skåne); klub zo severozápadného Skåne.",
+   "url": "https://www.angelholmsff.se/",
    "order": 16
   }
  ]
