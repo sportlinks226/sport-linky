@@ -43,6 +43,8 @@ header{
 .h-wordmark .wm-w{color:#fff}
 .h-wordmark .wm-r{color:var(--accent)}
 .h-subtitle{font-size:0.78rem;color:var(--muted);margin-top:2px}
+.h-count{font-size:0.72rem;color:var(--muted);margin-top:1px}
+.h-count b{color:#e84242;font-weight:700}
 .h-search{flex:1;max-width:420px;margin-left:auto}
 .h-search input{
   width:100%;padding:9px 16px;border-radius:30px;
@@ -407,6 +409,7 @@ footer{
     <div>
       <div class="h-wordmark"><span class="wm-w">ŠPORTOVÉ</span><span class="wm-r">LINKY</span><span class="wm-r">.</span></div>
       <div class="h-subtitle" id="siteSub">Naviguj sa cez kategórie</div>
+      <div class="h-count" id="linkCount"></div>
     </div>
   </div>
   <div class="h-search"><input type="text" id="srch" placeholder="🔍  Hľadaj kdekoľvek v strome..." oninput="onSearch()"/></div>
@@ -13283,6 +13286,15 @@ function childCount(id){ return getChildren(id).length; }
 // Slovenské skloňovanie: skl(1,'sekcia','sekcie','sekcií') → "sekcia"
 function skl(n, jedna, dvestyri, vela){ return n===1 ? jedna : (n>=2 && n<=4 ? dvestyri : vela); }
 
+// celkový počet liniek v hlavičke — počíta sa vždy nanovo z DB
+function updateLinkCount(){
+  const el = document.getElementById('linkCount');
+  if(!el || !window.DB || !DB.nodes) return;
+  let l=0;
+  for(const n of DB.nodes){ if(n.type==='link') l++; }
+  el.innerHTML = '<b>'+l+'</b> '+skl(l,'linka','linky','liniek');
+}
+
 // ============================================================
 // ICON HELPER — flagcdn.com pre kódy krajín
 // ============================================================
@@ -13299,6 +13311,7 @@ function renderIcon(icon, flagSize){
 // RENDER
 // ============================================================
 function render(){
+  updateLinkCount();
   renderBreadcrumb();
   const q = document.getElementById('srch').value.trim().toLowerCase();
   if(q){ renderSearch(q); return; }
