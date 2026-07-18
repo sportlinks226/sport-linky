@@ -13933,7 +13933,9 @@ function saveBanner(){
     if(!DB.bannerSettings.activeId) DB.bannerSettings.activeId=newB.id;
   }
   closeMo('bannerEditMo');
+  save();               // ulož do localStorage — predtým sa banner pri obnovení stránky stratil
   renderBannerFarmGrid();
+  renderBannerSlot();   // hneď prekresli sloty, nech je banner vidno bez čakania
 }
 
 function saveBannerSettings(){
