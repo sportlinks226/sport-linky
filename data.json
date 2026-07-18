@@ -1,5 +1,5 @@
 {
- "version": 46,
+ "version": 47,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -778,7 +778,7 @@
    "type": "folder",
    "icon": "📊",
    "name": "Štatistiky",
-   "desc": "",
+   "desc": "Futbalové štatistické portály — dáta, tabuľky a analytika.",
    "order": 3,
    "slug": "statistiky"
   },
@@ -788,7 +788,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Globálne",
-   "desc": "",
+   "desc": "Globálne futbalové súťaže FIFA — majstrovstvá sveta a klubové turnaje.",
    "order": 0,
    "slug": "globalne"
   },
@@ -798,7 +798,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Európa",
-   "desc": "",
+   "desc": "Európske futbalové súťaže UEFA — Liga majstrov, EURO a ďalšie.",
    "order": 1,
    "slug": "europa"
   },
@@ -808,7 +808,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Severná a Stredná Amerika",
-   "desc": "",
+   "desc": "Futbalové súťaže regiónu CONCACAF.",
    "order": 5,
    "slug": "severna-a-stredna-amerika"
   },
@@ -818,7 +818,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Južná Amerika",
-   "desc": "",
+   "desc": "Juhoamerické futbalové súťaže CONMEBOL.",
    "order": 3,
    "slug": "juzna-amerika"
   },
@@ -828,7 +828,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Afrika",
-   "desc": "",
+   "desc": "Africké futbalové súťaže CAF.",
    "order": 4,
    "slug": "afrika"
   },
@@ -838,7 +838,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Ázia",
-   "desc": "",
+   "desc": "Ázijské futbalové súťaže AFC.",
    "order": 2,
    "slug": "azia"
   },
@@ -848,7 +848,7 @@
    "type": "folder",
    "icon": "⚽",
    "name": "Oceánia",
-   "desc": "",
+   "desc": "Futbalové súťaže Oceánie (OFC).",
    "order": 6,
    "slug": "oceania"
   },
@@ -10958,7 +10958,7 @@
    "type": "folder",
    "icon": "bt",
    "name": "Bhután",
-   "desc": "",
+   "desc": "Bhutánske športové médiá a národné federácie.",
    "order": 3,
    "slug": "bhutan"
   },
@@ -10968,7 +10968,7 @@
    "type": "folder",
    "icon": "bn",
    "name": "Brunej",
-   "desc": "",
+   "desc": "Brunejské športové médiá a spravodajské rubriky.",
    "order": 4,
    "slug": "brunej"
   },
@@ -10978,7 +10978,7 @@
    "type": "folder",
    "icon": "cn",
    "name": "Čína",
-   "desc": "",
+   "desc": "Čínske športové portály, médiá a streamovacie platformy.",
    "order": 5,
    "slug": "cina"
   },
@@ -10988,7 +10988,7 @@
    "type": "folder",
    "icon": "ph",
    "name": "Filipíny",
-   "desc": "",
+   "desc": "Filipínske športové médiá, portály a ligové weby.",
    "order": 6,
    "slug": "filipiny"
   },
@@ -10998,7 +10998,7 @@
    "type": "folder",
    "icon": "in",
    "name": "India",
-   "desc": "",
+   "desc": "Indické športové médiá, portály a zväzové weby.",
    "order": 7,
    "slug": "india"
   },
@@ -23091,7 +23091,7 @@
    "name": "Transfermarkt",
    "desc": "Prestupy, trhové hodnoty hráčov, súpisky a zmluvy z celého sveta",
    "url": "https://www.transfermarkt.com/",
-   "order": 1
+   "order": 2
   },
   {
    "id": "n1784201787990gyi",
@@ -23101,7 +23101,7 @@
    "name": "Flashscore",
    "desc": "Live výsledky zo stoviek súťaží v reálnom čase — slovenská verzia",
    "url": "https://www.flashscore.sk/",
-   "order": 2
+   "order": 3
   },
   {
    "id": "n1784201860550hn3",
@@ -23111,7 +23111,7 @@
    "name": "Sofascore",
    "desc": "Live výsledky, hodnotenia hráčov, heatmapy a xG zo stoviek líg",
    "url": "https://www.sofascore.com/sk",
-   "order": 3
+   "order": 4
   },
   {
    "id": "n17842018890810ne",
@@ -23121,7 +23121,7 @@
    "name": "Whoscored",
    "desc": "Detailné hodnotenia hráčov 0–10, heatmapy a taktické štatistiky",
    "url": "https://www.whoscored.com/",
-   "order": 4
+   "order": 5
   },
   {
    "id": "n1784201962911f50",
@@ -23131,7 +23131,7 @@
    "name": "FBref",
    "desc": "Obrovská databáza štatistík a histórie tisícok súťaží od Sports Reference",
    "url": "https://fbref.com/en/",
-   "order": 5
+   "order": 6
   },
   {
    "id": "n1784201985193i3z",
@@ -23141,7 +23141,7 @@
    "name": "Soccerway",
    "desc": "Tabuľky, výsledky a súpisky prakticky všetkých líg sveta",
    "url": "https://www.soccerway.com/",
-   "order": 6
+   "order": 7
   },
   {
    "id": "n1784202019084dt0",
@@ -23151,7 +23151,7 @@
    "name": "Understat",
    "desc": "Expected goals (xG) štatistiky top 5 európskych líg s grafmi",
    "url": "https://understat.com/",
-   "order": 7
+   "order": 8
   },
   {
    "id": "n17842020747244lo",
@@ -23161,7 +23161,7 @@
    "name": "Soccerstats",
    "desc": "Formové tabuľky, doma/vonku štatistiky a góly v stovkách líg",
    "url": "https://www.soccerstats.com/",
-   "order": 8
+   "order": 9
   },
   {
    "id": "n1784202097021f3d",
@@ -23171,7 +23171,7 @@
    "name": "Footystats",
    "desc": "Štatistiky vyše 1000 súťaží — over/under, rohy, H2H porovnania",
    "url": "https://footystats.org/",
-   "order": 9
+   "order": 10
   },
   {
    "id": "n17842022013536h2",
@@ -23181,7 +23181,7 @@
    "name": "Squawka",
    "desc": "Futbalové štatistiky, porovnania hráčov a analytické články",
    "url": "https://www.squawka.com/en/",
-   "order": 10
+   "order": 11
   },
   {
    "id": "n1784202231104y80",
@@ -23191,7 +23191,7 @@
    "name": "Besoccer",
    "desc": "Španielsky futbalový portál s výsledkami a štatistikami celého sveta",
    "url": "https://www.besoccer.com/",
-   "order": 11
+   "order": 12
   },
   {
    "id": "n1784202297407epi",
@@ -23201,7 +23201,7 @@
    "name": "11v11",
    "desc": "Anglický futbalový archív — historické zostavy, výsledky a rekordy",
    "url": "https://www.11v11.com/",
-   "order": 12
+   "order": 13
   },
   {
    "id": "n17842023527476xp",
@@ -23211,7 +23211,7 @@
    "name": "Club Elo",
    "desc": "Elo rebríček európskych klubov počítaný z výsledkov od roku 1938",
    "url": "http://clubelo.com/",
-   "order": 13
+   "order": 14
   },
   {
    "id": "n1784202392436891",
@@ -23221,7 +23221,7 @@
    "name": "Worldfootball",
    "desc": "Nemecká databáza výsledkov, súpisiek a tabuliek z celého sveta",
    "url": "https://www.worldfootball.net/",
-   "order": 14
+   "order": 15
   },
   {
    "id": "n1784202420066m8d",
@@ -23231,7 +23231,7 @@
    "name": "FCtables",
    "desc": "Tabuľky, vzájomné zápasy a štatistiky tímov zo všetkých líg sveta",
    "url": "https://www.fctables.com/",
-   "order": 15
+   "order": 16
   },
   {
    "id": "n1784202515639a4v",
@@ -23241,7 +23241,7 @@
    "name": "API-football",
    "desc": "Futbalové dáta cez API pre vývojárov — súťaže, výsledky, štatistiky",
    "url": "https://www.api-football.com/",
-   "order": 16
+   "order": 17
   },
   {
    "id": "n1784202658111hlg",
@@ -23251,7 +23251,7 @@
    "name": "Xgstat",
    "desc": "xG štatistiky, shot mapy a „reálne\" tabuľky Premier League",
    "url": "https://www.xgstat.com/",
-   "order": 17
+   "order": 18
   },
   {
    "id": "f_ang_pl",
@@ -35331,6 +35331,2266 @@
    "name": "Ängelholms FF",
    "desc": "Ängelholm (Skåne); klub zo severozápadného Skåne.",
    "url": "https://www.angelholmsff.se/",
+   "order": 16
+  },
+  {
+   "id": "n17843180313429b0",
+   "parentId": "f_med_as_bt",
+   "type": "link",
+   "icon": "",
+   "name": "BBS sports",
+   "desc": "Športová rubrika bhutánskeho verejnoprávneho vysielateľa Bhutan Broadcasting Service.",
+   "url": "https://www.bbs.bt/category/sports/",
+   "order": 0
+  },
+  {
+   "id": "n17843181162574wi",
+   "parentId": "f_med_as_bt",
+   "type": "link",
+   "icon": "",
+   "name": "Kuensel sports",
+   "desc": "Športové správy najstarších bhutánskych novín Kuensel.",
+   "url": "https://kuenselonline.com/news/sports",
+   "order": 1
+  },
+  {
+   "id": "n1784318218666omi",
+   "parentId": "f_med_as_bt",
+   "type": "link",
+   "icon": "",
+   "name": "Daily Bhutan sports",
+   "desc": "Športová sekcia spravodajského portálu Daily Bhutan.",
+   "url": "https://www.dailybhutan.com/category/sports",
+   "order": 2
+  },
+  {
+   "id": "n17843182972543uu",
+   "parentId": "f_med_as_bt",
+   "type": "link",
+   "icon": "",
+   "name": "Bhutan cricket",
+   "desc": "Oficiálny web Bhutánskej kriketovej rady — reprezentácie a domáce súťaže.",
+   "url": "https://cricketbhutan.org/",
+   "order": 3
+  },
+  {
+   "id": "n1784318324589wds",
+   "parentId": "f_med_as_bt",
+   "type": "link",
+   "icon": "",
+   "name": "Bhutan Athletics",
+   "desc": "Oficiálny web Bhutánskej atletickej federácie.",
+   "url": "https://bhutanathletics.org/",
+   "order": 4
+  },
+  {
+   "id": "n1784318447248rf4",
+   "parentId": "f_med_as_bn",
+   "type": "link",
+   "icon": "bn",
+   "name": "Brunej sport news",
+   "desc": "Športové správy z Bruneja — odkaz vedie na oficiálny Instagram.",
+   "url": "https://www.instagram.com/brusportsnews/",
+   "order": 3
+  },
+  {
+   "id": "n1784318526218o0n",
+   "parentId": "f_med_as_bn",
+   "type": "link",
+   "icon": "",
+   "name": "Borneo Bulletin",
+   "desc": "Športové spravodajstvo najčítanejšieho anglického denníka v Bruneji.",
+   "url": "https://borneobulletin.com.bn/category/sports/",
+   "order": 0
+  },
+  {
+   "id": "n178431859730885q",
+   "parentId": "f_med_as_bn",
+   "type": "link",
+   "icon": "",
+   "name": "Media Permata sports",
+   "desc": "Športová rubrika malajsky písaného brunejského denníka Media Permata.",
+   "url": "https://mediapermata.com.bn/category/sukan/",
+   "order": 1
+  },
+  {
+   "id": "n1784318884657x9f",
+   "parentId": "f_med_as_bn",
+   "type": "link",
+   "icon": "",
+   "name": "Pelita Brunei sport",
+   "desc": "Športové správy vládnych novín Pelita Brunei.",
+   "url": "https://www.pelitabrunei.gov.bn/berita/sukan",
+   "order": 2
+  },
+  {
+   "id": "n1784318981282epl",
+   "parentId": "f_med_as_bn",
+   "type": "link",
+   "icon": "",
+   "name": "Borneo Post sports",
+   "desc": "Športová sekcia denníka Borneo Post — pokrýva celé Borneo vrátane Bruneja.",
+   "url": "https://www.theborneopost.com/sports/",
+   "order": 4
+  },
+  {
+   "id": "n17843190925472qe",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Sina sports",
+   "desc": "Jeden z najväčších čínskych športových spravodajských portálov (Sina).",
+   "url": "https://sports.sina.com.cn/",
+   "order": 0
+  },
+  {
+   "id": "n1784319124391eqk",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Tencent sports",
+   "desc": "Športový portál technologického giganta Tencent — správy aj prenosy.",
+   "url": "https://sports.qq.com/",
+   "order": 1
+  },
+  {
+   "id": "n17843191506963ea",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "CCTV Sports",
+   "desc": "Športová sekcia čínskej štátnej televízie CCTV.",
+   "url": "https://sports.cctv.com/",
+   "order": 2
+  },
+  {
+   "id": "n1784319201421e94",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Zhibo8",
+   "desc": "Populárny čínsky rozcestník športových prenosov a výsledkov.",
+   "url": "https://www.zhibo8.cc/",
+   "order": 3
+  },
+  {
+   "id": "n1784319249371nmq",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Xinhua sports",
+   "desc": "Športové spravodajstvo štátnej tlačovej agentúry Xinhua.",
+   "url": "http://www.news.cn/sports/",
+   "order": 4
+  },
+  {
+   "id": "n178431928341054v",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "China Daily sports",
+   "desc": "Športová rubrika anglicky písaného denníka China Daily.",
+   "url": "https://www.chinadaily.com.cn/sports",
+   "order": 5
+  },
+  {
+   "id": "n17843193479719ht",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Titan sports",
+   "desc": "Online platforma najznámejších čínskych športových novín Titan Sports.",
+   "url": "https://www.ttplus.cn/",
+   "order": 6
+  },
+  {
+   "id": "n17843194829138eo",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "People daily sports",
+   "desc": "Športová sekcia denníka People's Daily (Žen-min ž'-pao).",
+   "url": "http://sports.people.com.cn/",
+   "order": 7
+  },
+  {
+   "id": "n1784319573441lle",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Net Ease sports",
+   "desc": "Športový kanál čínskeho portálu NetEase.",
+   "url": "https://sports.163.com/",
+   "order": 8
+  },
+  {
+   "id": "n1784319595732ogc",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Hupu",
+   "desc": "Najväčšia čínska športová komunita a diskusné fórum — basketbal aj futbal.",
+   "url": "https://www.hupu.com/",
+   "order": 9
+  },
+  {
+   "id": "n1784366783555uoy",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Opta stats perform",
+   "desc": "Hráčske a tímové futbalové štatistiky od spoločnosti Opta (Stats Perform).",
+   "url": "https://optaplayerstats.statsperform.com/en_GB/soccer",
+   "order": 1
+  },
+  {
+   "id": "n1784366887968w2h",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Windrawwin",
+   "desc": "Futbalové štatistiky, forma tímov a predikcie výsledkov.",
+   "url": "https://www.windrawwin.com/",
+   "order": 19
+  },
+  {
+   "id": "n1784366981836sgh",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Playerstats",
+   "desc": "Databáza futbalových hráčskych štatistík naprieč ligami.",
+   "url": "https://playerstats.football/",
+   "order": 20
+  },
+  {
+   "id": "n17843670020433kq",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Statbunker",
+   "desc": "Štatistický portál — futbalové tabuľky, strelci a historické dáta.",
+   "url": "https://www.statbunker.com/",
+   "order": 21
+  },
+  {
+   "id": "n17843671722860ka",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Skill corner",
+   "desc": "Futbalová dátová spoločnosť — trackingové dáta a analytika z videa.",
+   "url": "https://skillcorner.com/",
+   "order": 22
+  },
+  {
+   "id": "n1784367320992hd9",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Football benchmark",
+   "desc": "Portál o financiách a trhovej hodnote futbalových klubov.",
+   "url": "https://footballbenchmark.com/en/home",
+   "order": 23
+  },
+  {
+   "id": "n1784367374097cw5",
+   "parentId": "f_fut_sta",
+   "type": "link",
+   "icon": "",
+   "name": "Futbalnet",
+   "desc": "Futbalnet — oficiálne výsledky a tabuľky všetkých slovenských súťaží SFZ.",
+   "url": "https://sportnet.sme.sk/futbalnet/",
+   "order": 24
+  },
+  {
+   "id": "n1784367859330pb8",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Dongquidi",
+   "desc": "Najpopulárnejší čínsky futbalový portál a aplikácia Dongqiudi.",
+   "url": "https://www.dongqiudi.com/",
+   "order": 10
+  },
+  {
+   "id": "n1784367891397amf",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Leisu sports",
+   "desc": "Čínsky portál so živými futbalovými výsledkami a dátami.",
+   "url": "https://www.leisu.com/",
+   "order": 11
+  },
+  {
+   "id": "n1784367926720p87",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "PPsport",
+   "desc": "Čínska platforma športových prenosov PP Sports.",
+   "url": "https://www.ppsport.com/",
+   "order": 12
+  },
+  {
+   "id": "n1784367958599up6",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "CGTN sports",
+   "desc": "Športové správy anglickej štátnej televízie CGTN.",
+   "url": "https://www.cgtn.com/sports",
+   "order": 13
+  },
+  {
+   "id": "n1784368122715bu9",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "SCMP sport",
+   "desc": "Športová sekcia hongkonského denníka South China Morning Post.",
+   "url": "https://www.scmp.com/sport",
+   "order": 14
+  },
+  {
+   "id": "n178436831147033b",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Yangzi Wanbao sport",
+   "desc": "Športové správy denníka Yangtse Evening Post (Jang-c' wan-pao).",
+   "url": "https://www.yzwb.net/news/ty/",
+   "order": 15
+  },
+  {
+   "id": "n1784368371594ozp",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "China news sport",
+   "desc": "Športová rubrika tlačovej agentúry China News Service.",
+   "url": "https://www.chinanews.com.cn/sports/",
+   "order": 16
+  },
+  {
+   "id": "n1784368583865z1y",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Guangming daily sport",
+   "desc": "Športová sekcia denníka Guangming Daily.",
+   "url": "https://sports.gmw.cn/",
+   "order": 17
+  },
+  {
+   "id": "n17843686425677js",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Cankao Xiaoxi sport",
+   "desc": "Športové správy denníka Cankao Xiaoxi (Reference News).",
+   "url": "https://www.cankaoxiaoxi.com/#/generalColumns/tiyujk",
+   "order": 18
+  },
+  {
+   "id": "n1784368685512rm4",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Sohu sports",
+   "desc": "Športový kanál čínskeho portálu Sohu.",
+   "url": "https://sports.sohu.com/",
+   "order": 19
+  },
+  {
+   "id": "n1784369187967nkj",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "7M Sports",
+   "desc": "Čínsky servis živých futbalových výsledkov a štatistík 7M.",
+   "url": "https://www.7m.com.cn/",
+   "order": 20
+  },
+  {
+   "id": "n1784369227254v8v",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "Baidu sports",
+   "desc": "Športová sekcia vyhľadávača Baidu — výsledky a správy.",
+   "url": "https://tiyu.baidu.com/",
+   "order": 21
+  },
+  {
+   "id": "n17843693688071vr",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "IQIYI sport",
+   "desc": "Športová sekcia čínskej streamovacej platformy iQIYI.",
+   "url": "https://sports.iqiyi.com/sport/index.html",
+   "order": 22
+  },
+  {
+   "id": "n1784369742958btk",
+   "parentId": "f_med_as_cn",
+   "type": "link",
+   "icon": "",
+   "name": "JF daily sport",
+   "desc": "Športová rubrika šanghajského denníka Jiefang Daily.",
+   "url": "https://www.jfdaily.com/staticsg/res/html/web/section.html?id=48&v=2.2",
+   "order": 25
+  },
+  {
+   "id": "n1784369971830tn4",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "SPIN",
+   "desc": "Popredný filipínsky športový portál Sports Interactive Network.",
+   "url": "https://www.spin.ph/",
+   "order": 0
+  },
+  {
+   "id": "n1784369998158pcq",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Tiebreaker times",
+   "desc": "Filipínsky športový web zameraný na domáce súťaže a univerzitný šport.",
+   "url": "https://tiebreakertimes.com.ph/",
+   "order": 1
+  },
+  {
+   "id": "n1784370025005rch",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Rappler sports",
+   "desc": "Športová sekcia filipínskeho spravodajského portálu Rappler.",
+   "url": "https://www.rappler.com/sports",
+   "order": 2
+  },
+  {
+   "id": "n1784370054414l8r",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "One Sports",
+   "desc": "Web filipínskeho športového televízneho kanála One Sports.",
+   "url": "https://www.onesports.ph/",
+   "order": 3
+  },
+  {
+   "id": "n1784370084327ldt",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "ABS-CBN sports",
+   "desc": "Športové spravodajstvo filipínskej mediálnej siete ABS-CBN.",
+   "url": "https://www.abs-cbn.com/sports",
+   "order": 4
+  },
+  {
+   "id": "n178437012547276z",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "GMA news sports",
+   "desc": "Športová rubrika filipínskej televíznej siete GMA.",
+   "url": "https://www.gmanetwork.com/news/sports/",
+   "order": 5
+  },
+  {
+   "id": "n1784370190080dju",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Inquirer sports",
+   "desc": "Športová sekcia denníka Philippine Daily Inquirer.",
+   "url": "https://sports.inquirer.net/",
+   "order": 6
+  },
+  {
+   "id": "n17843702387370a2",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Philstar sports",
+   "desc": "Športové správy denníka The Philippine Star.",
+   "url": "https://www.philstar.com/sports",
+   "order": 7
+  },
+  {
+   "id": "n1784370268012zvv",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Manila Bulletin sports",
+   "desc": "Športová rubrika denníka Manila Bulletin.",
+   "url": "https://mb.com.ph/category/sports",
+   "order": 8
+  },
+  {
+   "id": "n1784370306131dlf",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "PNA sports",
+   "desc": "Športové správy štátnej agentúry Philippine News Agency.",
+   "url": "https://www.pna.gov.ph/categories/sports",
+   "order": 9
+  },
+  {
+   "id": "n1784370332254qfi",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Sun Star sports",
+   "desc": "Športová sekcia regionálnej siete novín SunStar.",
+   "url": "https://www.sunstar.com.ph/more-articles/sports",
+   "order": 10
+  },
+  {
+   "id": "n1784370379989rof",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Freeman Cebu sports",
+   "desc": "Športová rubrika cebuánskeho denníka The Freeman (skupina Philstar).",
+   "url": "https://www.philstar.com/the-freeman/cebu-sports",
+   "order": 11
+  },
+  {
+   "id": "n1784370624320ql6",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Manila Times sport",
+   "desc": "Športová sekcia najstaršieho anglického denníka The Manila Times.",
+   "url": "https://www.manilatimes.net/sports",
+   "order": 12
+  },
+  {
+   "id": "n17843706580961wk",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Daily Tribune sports",
+   "desc": "Športové správy filipínskeho denníka Daily Tribune.",
+   "url": "https://tribune.net.ph/sports",
+   "order": 13
+  },
+  {
+   "id": "n1784370694065ji0",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Manila Standard sports",
+   "desc": "Športová rubrika denníka Manila Standard.",
+   "url": "https://manilastandard.net/category/sports",
+   "order": 14
+  },
+  {
+   "id": "n1784370732958w2t",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Business Mirror",
+   "desc": "Športová sekcia ekonomického denníka BusinessMirror.",
+   "url": "https://businessmirror.com.ph/category/sports/",
+   "order": 15
+  },
+  {
+   "id": "n1784370781077hha",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Philboxing",
+   "desc": "Filipínsky portál venovaný boxu — správy, rebríčky a výsledky.",
+   "url": "https://philboxing.com/",
+   "order": 16
+  },
+  {
+   "id": "n1784370808904igq",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Fastbreak",
+   "desc": "Filipínsky basketbalový spravodajský web.",
+   "url": "https://fastbreak.com.ph/",
+   "order": 17
+  },
+  {
+   "id": "n1784370837022lmz",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Dugout",
+   "desc": "Filipínsky futbalový portál Dugout Philippines.",
+   "url": "https://www.dugout.ph/",
+   "order": 18
+  },
+  {
+   "id": "n1784370935689qw1",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Fullcourtfresh",
+   "desc": "Filipínsky basketbalový web o lige PBA a reprezentácii.",
+   "url": "https://fullcourtfresh.com/",
+   "order": 19
+  },
+  {
+   "id": "n1784371989447pbu",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "PVL volejbal",
+   "desc": "Oficiálny web filipínskej volejbalovej ligy Premier Volleyball League.",
+   "url": "https://pvl.ph/",
+   "order": 20
+  },
+  {
+   "id": "n1784372051336mye",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "Pinoyliga",
+   "desc": "Portál filipínskeho amatérskeho a mládežníckeho basketbalu.",
+   "url": "https://www.pinoyliga.com/",
+   "order": 21
+  },
+  {
+   "id": "n17843720929378bu",
+   "parentId": "f_med_as_ph",
+   "type": "link",
+   "icon": "",
+   "name": "SBP basketbal",
+   "desc": "Oficiálny web filipínskej basketbalovej federácie SBP.",
+   "url": "https://sbp.ph/",
+   "order": 22
+  },
+  {
+   "id": "n17843722264532nv",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "ESPNcricinfo",
+   "desc": "Najväčší svetový kriketový portál — správy, výsledky a štatistiky.",
+   "url": "https://www.espncricinfo.com/",
+   "order": 0
+  },
+  {
+   "id": "n1784372835591t3d",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Cricbuzz",
+   "desc": "Populárny indický portál so živým skóre a správami z kriketu.",
+   "url": "https://www.cricbuzz.com/",
+   "order": 1
+  },
+  {
+   "id": "n1784372869791ulj",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Sportskeeda",
+   "desc": "Veľký indický multišportový portál Sportskeeda.",
+   "url": "https://www.sportskeeda.com/",
+   "order": 2
+  },
+  {
+   "id": "n1784372896432gt3",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Khel Now",
+   "desc": "Indický portál o futbale a ďalších športoch Khel Now.",
+   "url": "https://khelnow.com/",
+   "order": 3
+  },
+  {
+   "id": "n178437291476186u",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Bridge",
+   "desc": "Indický web The Bridge o olympijských a menších športoch.",
+   "url": "https://thebridge.in/",
+   "order": 4
+  },
+  {
+   "id": "n1784373050053fmv",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "IPL cricket",
+   "desc": "Oficiálny web kriketovej Indian Premier League.",
+   "url": "https://www.iplt20.com/en",
+   "order": 5
+  },
+  {
+   "id": "n1784373075919lr3",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Pro Kabaddi",
+   "desc": "Oficiálny web profesionálnej ligy kabaddi Pro Kabaddi League.",
+   "url": "https://www.prokabaddi.com/",
+   "order": 6
+  },
+  {
+   "id": "n1784373099795h28",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "ISL futbal",
+   "desc": "Oficiálny web futbalovej Indian Super League.",
+   "url": "https://www.indiansuperleague.com/",
+   "order": 7
+  },
+  {
+   "id": "n1784373122286ge4",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Hockey India",
+   "desc": "Oficiálny web indickej federácie pozemného hokeja.",
+   "url": "https://www.hockeyindia.org/",
+   "order": 8
+  },
+  {
+   "id": "n1784373157541grz",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Ultimate Tabletennis",
+   "desc": "Oficiálny web indickej stolnotenisovej ligy Ultimate Table Tennis.",
+   "url": "https://ultimatetabletennis.in/",
+   "order": 9
+  },
+  {
+   "id": "n1784373182110dqk",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "News18 sports",
+   "desc": "Športová sekcia indickej spravodajskej siete News18.",
+   "url": "https://www.news18.com/sports/",
+   "order": 10
+  },
+  {
+   "id": "n17843732071756vy",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Scroll",
+   "desc": "Športová rubrika The Field indického portálu Scroll.in.",
+   "url": "https://scroll.in/field/",
+   "order": 11
+  },
+  {
+   "id": "n17843747065941lu",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Times of India sports",
+   "desc": "Športové spravodajstvo denníka The Times of India.",
+   "url": "https://timesofindia.indiatimes.com/sports",
+   "order": 12
+  },
+  {
+   "id": "n1784374734739rgr",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Hindu sport",
+   "desc": "Športová sekcia rešpektovaného denníka The Hindu.",
+   "url": "https://www.thehindu.com/sport/",
+   "order": 13
+  },
+  {
+   "id": "n1784374796138ux6",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Indian Express sports",
+   "desc": "Športová rubrika denníka The Indian Express.",
+   "url": "https://indianexpress.com/section/sports/",
+   "order": 14
+  },
+  {
+   "id": "n17843748577237zr",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Press Trust of India",
+   "desc": "Športové správy najväčšej indickej tlačovej agentúry PTI.",
+   "url": "https://www.ptinews.com/sports",
+   "order": 15
+  },
+  {
+   "id": "n1784374885364752",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Telegraph sports",
+   "desc": "Športová sekcia kalkatského denníka The Telegraph.",
+   "url": "https://www.telegraphindia.com/sports",
+   "order": 16
+  },
+  {
+   "id": "n1784374910653f9e",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Deccan Herald sports",
+   "desc": "Športová rubrika bengalúrskeho denníka Deccan Herald.",
+   "url": "https://www.deccanherald.com/sports",
+   "order": 17
+  },
+  {
+   "id": "n17843749371639wa",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Onmanorama sports",
+   "desc": "Športové správy anglickej verzie denníka Malayala Manorama.",
+   "url": "https://www.onmanorama.com/sports.html",
+   "order": 18
+  },
+  {
+   "id": "n178437495910276c",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Sportstar",
+   "desc": "Online verzia tradičného indického športového magazínu Sportstar.",
+   "url": "https://sportstar.thehindu.com/",
+   "order": 19
+  },
+  {
+   "id": "n1784375132251xxz",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "NDTV sports",
+   "desc": "Športový portál indickej televíznej siete NDTV.",
+   "url": "https://sports.ndtv.com/",
+   "order": 20
+  },
+  {
+   "id": "n1784375152435avv",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Inside sport",
+   "desc": "Indický portál InsideSport — kriket, futbal a športový biznis.",
+   "url": "https://www.insidesport.in/",
+   "order": 21
+  },
+  {
+   "id": "n1784375178186wbs",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "MyKhel",
+   "desc": "Indický multišportový portál MyKhel.",
+   "url": "https://www.mykhel.com/",
+   "order": 22
+  },
+  {
+   "id": "n1784375203085b4h",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "BCCI",
+   "desc": "Oficiálny web indickej kriketovej rady BCCI.",
+   "url": "https://www.bcci.tv/",
+   "order": 23
+  },
+  {
+   "id": "n17843752274140g6",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "AIFF futbal",
+   "desc": "Oficiálny web Celoindickej futbalovej federácie AIFF.",
+   "url": "https://www.the-aiff.com/",
+   "order": 24
+  },
+  {
+   "id": "n1784375249764klh",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Hindustan times sports",
+   "desc": "Športová sekcia denníka Hindustan Times.",
+   "url": "https://www.hindustantimes.com/sports",
+   "order": 25
+  },
+  {
+   "id": "n17843752747973c5",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "India Today sports",
+   "desc": "Športová rubrika mediálnej skupiny India Today.",
+   "url": "https://www.indiatoday.in/sports",
+   "order": 26
+  },
+  {
+   "id": "n17843753004852aq",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Firstpost sports",
+   "desc": "Športové správy indického portálu Firstpost.",
+   "url": "https://www.firstpost.com/sports/",
+   "order": 27
+  },
+  {
+   "id": "n1784375323118zwr",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Livemint sports",
+   "desc": "Športová sekcia ekonomického portálu Mint.",
+   "url": "https://www.livemint.com/sports",
+   "order": 28
+  },
+  {
+   "id": "n17843753797122ud",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "SportsCafe",
+   "desc": "Indický športový spravodajský web SportsCafe.",
+   "url": "https://sportscafe.in/",
+   "order": 29
+  },
+  {
+   "id": "n17843754286259z9",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Anandabazar sports",
+   "desc": "Športová rubrika bengálskeho denníka Anandabazar Patrika.",
+   "url": "https://www.anandabazar.com/sports",
+   "order": 30
+  },
+  {
+   "id": "n1784375465554fux",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Mathrubhumi sports",
+   "desc": "Športové správy malajálamského denníka Mathrubhumi.",
+   "url": "https://www.mathrubhumi.com/sports",
+   "order": 31
+  },
+  {
+   "id": "n17843754872343ex",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Lokmat sports",
+   "desc": "Športová sekcia maráthskeho denníka Lokmat.",
+   "url": "https://www.lokmat.com/sports/",
+   "order": 32
+  },
+  {
+   "id": "n178437552162986s",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "AITA tennis",
+   "desc": "Oficiálny web Celoindickej tenisovej asociácie AITA.",
+   "url": "https://aitatennis.com/",
+   "order": 33
+  },
+  {
+   "id": "n1784375541570fba",
+   "parentId": "f_med_as_in",
+   "type": "link",
+   "icon": "",
+   "name": "Badminton India",
+   "desc": "Oficiálny web Indickej bedmintonovej asociácie.",
+   "url": "https://www.badmintonindia.org/",
+   "order": 34
+  },
+  {
+   "id": "f_ltu_l1",
+   "parentId": "f_fut_klu_eu_ltu",
+   "type": "folder",
+   "icon": "",
+   "name": "TOPLYGA",
+   "desc": "Najvyššia litovská futbalová súťaž — 10 klubov, hrá sa v kalendárnom roku (do roku 2025 známa ako A lyga).",
+   "order": 1,
+   "slug": "toplyga"
+  },
+  {
+   "id": "f_ltu_l2",
+   "parentId": "f_fut_klu_eu_ltu",
+   "type": "folder",
+   "icon": "",
+   "name": "I lyga",
+   "desc": "Druhá najvyššia litovská súťaž (TOPsport pirma lyga) — 16 klubov, hrá sa v kalendárnom roku.",
+   "order": 2,
+   "slug": "i-lyga"
+  },
+  {
+   "id": "f_ltu_l1_k1",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Džiugas",
+   "desc": "Klub z mesta Telšiai v Žemaitsku, do najvyššej súťaže sa prebojoval v roku 2021.",
+   "url": "https://www.fcdziugas.lt/",
+   "order": 1
+  },
+  {
+   "id": "f_ltu_l1_k2",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Kauno Žalgiris",
+   "desc": "Kaunaský klub z rodiny športovej značky Žalgiris — odkaz vedie na futbalovú sekciu spoločného webu.",
+   "url": "https://zalgiris.lt/komandos/fk-kauno-zalgiris",
+   "order": 2
+  },
+  {
+   "id": "f_ltu_l1_k3",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK TransINVEST",
+   "desc": "Klub z obce Galinė pri Vilniuse založený v roku 2021, vrátil sa ako majster I lygy 2025.",
+   "url": "https://fktransinvest.lt/",
+   "order": 3
+  },
+  {
+   "id": "f_ltu_l1_k4",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Sūduva",
+   "desc": "Klub z Marijampolė, trojnásobný majster Litvy 2017–2019.",
+   "url": "https://fksuduva.lt/",
+   "order": 4
+  },
+  {
+   "id": "f_ltu_l1_k5",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Banga",
+   "desc": "Klub z mesta Gargždai pri Klaipėde založený v roku 1966.",
+   "url": "https://www.fkbanga.lt/",
+   "order": 5
+  },
+  {
+   "id": "f_ltu_l1_k6",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Žalgiris Vilnius",
+   "desc": "Rekordný majster nezávislej Litvy z hlavného mesta, pravidelný účastník európskych pohárov.",
+   "url": "https://fkzalgiris.lt/",
+   "order": 6
+  },
+  {
+   "id": "f_ltu_l1_k7",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Panevėžys",
+   "desc": "Klub z mesta Panevėžys, majster Litvy 2023.",
+   "url": "https://fk-panevezys.lt/",
+   "order": 7
+  },
+  {
+   "id": "f_ltu_l1_k8",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Hegelmann",
+   "desc": "Klub z Raudondvarisu pri Kaunase, založila ho nemecká logistická firma Hegelmann v roku 2009.",
+   "url": "https://fchegelmann.com/",
+   "order": 8
+  },
+  {
+   "id": "f_ltu_l1_k9",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FA Šiauliai",
+   "desc": "Futbalová akadémia zo Šiauliai, jej A-tím hrá najvyššiu litovskú súťaž.",
+   "url": "https://siauliufa.lt/",
+   "order": 9
+  },
+  {
+   "id": "f_ltu_l1_k10",
+   "parentId": "f_ltu_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Riteriai",
+   "desc": "Vilniuský klub, do roku 2019 pôsobil v Trakai pod názvom FK Trakai.",
+   "url": "https://fkriteriai.lt/",
+   "order": 10
+  },
+  {
+   "id": "f_ltu_l2_k1",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Minija",
+   "desc": "Klub z Kretingy s históriou od roku 1962, v roku 2025 ho prevzal francúzsky útočník Moussa Dembélé.",
+   "url": "https://fkminija.com/",
+   "order": 1
+  },
+  {
+   "id": "f_ltu_l2_k2",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Babrungas",
+   "desc": "Klub z mesta Plungė v Žemaitsku, nadväzuje na futbalovú tradíciu od roku 1935.",
+   "url": "https://www.fkbabrungas.lt/",
+   "order": 2
+  },
+  {
+   "id": "f_ltu_l2_k3",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Be1",
+   "desc": "Tím národnej futbalovej akadémie Be1 NFA z Kaunasu.",
+   "url": "https://be1.lt/",
+   "order": 3
+  },
+  {
+   "id": "f_ltu_l2_k4",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Neptūnas",
+   "desc": "Futbalový klub z prístavnej Klaipėdy založený v roku 2020.",
+   "url": "https://www.fcneptunas.lt/",
+   "order": 4
+  },
+  {
+   "id": "f_ltu_l2_k5",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Tauras",
+   "desc": "Tradičný klub z Tauragė založený v roku 1942.",
+   "url": "https://fktauras.lt/",
+   "order": 5
+  },
+  {
+   "id": "f_ltu_l2_k6",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "DFK Dainava",
+   "desc": "Klub z Alytusu, v rokoch 2023–2025 pôsobil v najvyššej litovskej súťaži.",
+   "url": "https://dfkdainava.lt/",
+   "order": 6
+  },
+  {
+   "id": "f_ltu_l2_k7",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Garliava",
+   "desc": "Komunitný klub FKG z Garliavy pri Kaunase založený v roku 2008.",
+   "url": "https://fkg.lt/",
+   "order": 7
+  },
+  {
+   "id": "f_ltu_l2_k8",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Vilniaus BFA",
+   "desc": "Tím Baltskej futbalovej akadémie (BFA) z Vilniusu.",
+   "url": "https://bfavilnius.lt/",
+   "order": 8
+  },
+  {
+   "id": "f_ltu_l2_k9",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Atmosfera",
+   "desc": "Klub z mesta Mažeikiai na severozápade Litvy.",
+   "url": "https://www.fkatmosfera.eu/",
+   "order": 9
+  },
+  {
+   "id": "f_ltu_l2_k10",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Žalgiris B",
+   "desc": "Rezervný B-tím vilniuského Žalgirisu — odkaz vedie na web materského klubu.",
+   "url": "https://fkzalgiris.lt/",
+   "order": 10
+  },
+  {
+   "id": "f_ltu_l2_k11",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Jonava",
+   "desc": "Klub z Jonavy, v minulosti známy pod názvami Azotas a Lietava.",
+   "url": "https://www.fkjonava.lt/",
+   "order": 11
+  },
+  {
+   "id": "f_ltu_l2_k12",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK TransINVEST B",
+   "desc": "Rezervný B-tím klubu TransINVEST — odkaz vedie na web materského klubu.",
+   "url": "https://fktransinvest.lt/",
+   "order": 12
+  },
+  {
+   "id": "f_ltu_l2_k13",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Hegelmann B",
+   "desc": "Rezervný B-tím klubu Hegelmann — odkaz vedie na web materského klubu.",
+   "url": "https://fchegelmann.com/",
+   "order": 13
+  },
+  {
+   "id": "f_ltu_l2_k14",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "lt",
+   "name": "FK Ekranas",
+   "desc": "Obnovený klub slávneho Ekranasu Panevėžys, sedemnásobného majstra Litvy — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fkekranas/",
+   "order": 14
+  },
+  {
+   "id": "f_ltu_l2_k15",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Kauno Žalgiris B",
+   "desc": "Rezervný B-tím Kauno Žalgirisu — odkaz vedie na stránku tímu na spoločnom webe Žalgirisu.",
+   "url": "https://zalgiris.lt/komandos/fk-kauno-zalgiris-b",
+   "order": 15
+  },
+  {
+   "id": "f_ltu_l2_k16",
+   "parentId": "f_ltu_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FA Šiauliai B",
+   "desc": "Rezervný B-tím akadémie FA Šiauliai — odkaz vedie na web materského klubu.",
+   "url": "https://siauliufa.lt/",
+   "order": 16
+  },
+  {
+   "id": "f_lva_l1",
+   "parentId": "f_fut_klu_eu_lva",
+   "type": "folder",
+   "icon": "",
+   "name": "Virslīga",
+   "desc": "Najvyššia lotyšská futbalová súťaž (TonyBet Virslīga) — 10 klubov, hrá sa v kalendárnom roku.",
+   "order": 1,
+   "slug": "virsliga"
+  },
+  {
+   "id": "f_lva_l2",
+   "parentId": "f_fut_klu_eu_lva",
+   "type": "folder",
+   "icon": "",
+   "name": "Nākotnes līga",
+   "desc": "Druhá najvyššia lotyšská súťaž (LVBET līga) — 14 klubov vrátane rezervných tímov, hrá sa v kalendárnom roku.",
+   "order": 2,
+   "slug": "nakotnes-liga"
+  },
+  {
+   "id": "f_lva_l1_k1",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC RFS",
+   "desc": "Klub z Rigy, viacnásobný majster Lotyšska a účastník hlavnej fázy európskych pohárov.",
+   "url": "https://fkrfs.lv/",
+   "order": 1
+  },
+  {
+   "id": "f_lva_l1_k2",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Auda",
+   "desc": "Klub z Ķekavy pri Rige s koreňmi v roku 1969, víťaz Lotyšského pohára 2022.",
+   "url": "https://fkauda.lv/",
+   "order": 2
+  },
+  {
+   "id": "f_lva_l1_k3",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Riga FC",
+   "desc": "Klub z hlavného mesta založený v roku 2014, viacnásobný majster Lotyšska posledných rokov.",
+   "url": "https://rigafc.lv/",
+   "order": 3
+  },
+  {
+   "id": "f_lva_l1_k4",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "BFC Daugavpils",
+   "desc": "Klub z Daugavpilsu, druhého najväčšieho mesta Lotyšska.",
+   "url": "https://www.fcdaugavpils.lv/",
+   "order": 4
+  },
+  {
+   "id": "f_lva_l1_k5",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "SK Super Nova",
+   "desc": "Klub zo Salaspilsu pri Rige založený v roku 2000.",
+   "url": "https://supernova.lv/",
+   "order": 5
+  },
+  {
+   "id": "f_lva_l1_k6",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Liepāja",
+   "desc": "Klub z prístavnej Liepāje, majster Lotyšska 2015.",
+   "url": "https://fkliepaja.lv/",
+   "order": 6
+  },
+  {
+   "id": "f_lva_l1_k7",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Grobiņa",
+   "desc": "Klub z mestečka Grobiņa pri Liepāji, hráva na liepājskom štadióne Daugava.",
+   "url": "https://www.fkgrobina.com/",
+   "order": 7
+  },
+  {
+   "id": "f_lva_l1_k8",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Tukums 2000",
+   "desc": "Klub z Tukumsu založený v roku 2000.",
+   "url": "https://fktukums2000.lv/",
+   "order": 8
+  },
+  {
+   "id": "f_lva_l1_k9",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FS Jelgava",
+   "desc": "Futbalová škola z Jelgavy, nástupca tradičného FK Jelgava.",
+   "url": "https://www.fsjelgava.lv/",
+   "order": 9
+  },
+  {
+   "id": "f_lva_l1_k10",
+   "parentId": "f_lva_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Ogre United",
+   "desc": "Klub z mesta Ogre, do Virslīgy postúpil ako majster druhej ligy 2025.",
+   "url": "https://ogreunited.lv/",
+   "order": 10
+  },
+  {
+   "id": "f_lva_l2_k1",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Valmiera FC",
+   "desc": "Majster Lotyšska 2022 z Valmiery, po finančných problémoch pôsobí v druhej lige.",
+   "url": "https://valmierafc.com/",
+   "order": 1
+  },
+  {
+   "id": "f_lva_l2_k2",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Metta",
+   "desc": "Rižský klub futbalovej školy Metta, známy výchovou mládeže.",
+   "url": "https://www.fsmetta.lv/",
+   "order": 2
+  },
+  {
+   "id": "f_lva_l2_k3",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "JFK Ventspils",
+   "desc": "Tím futbalovej školy Ventspils, nástupca slávneho FK Ventspils — odkaz vedie na stránku tímu na webe školy.",
+   "url": "https://www.fsventspils.lv/jfk-ventspils",
+   "order": 3
+  },
+  {
+   "id": "f_lva_l2_k4",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "JDFS Alberts",
+   "desc": "Rižská futbalová škola založená v roku 2008 na pamiatku trénera Jura Docenka.",
+   "url": "https://jdfs.lv/",
+   "order": 4
+  },
+  {
+   "id": "f_lva_l2_k5",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Smiltene/BJSS",
+   "desc": "Klub zo Smiltene spojený s miestnou mládežníckou športovou školou.",
+   "url": "http://www.fksmiltene.lv/",
+   "order": 5
+  },
+  {
+   "id": "f_lva_l2_k6",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "lv",
+   "name": "Rēzeknes FA",
+   "desc": "Futbalová akadémia z Rēzekne v Latgalsku — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/rezeknesfa/",
+   "order": 6
+  },
+  {
+   "id": "f_lva_l2_k7",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Riga Mariners",
+   "desc": "Súkromný rižský klub založený v roku 2024 na rozvoj mladých hráčov.",
+   "url": "https://rigamariners.lv/",
+   "order": 7
+  },
+  {
+   "id": "f_lva_l2_k8",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "lv",
+   "name": "Skanstes SK",
+   "desc": "Mladý rižský klub zo štvrte Skanste, vznikol pod krídlami FK Metta — odkaz vedie na oficiálny Instagram.",
+   "url": "https://www.instagram.com/skanstessk/",
+   "order": 8
+  },
+  {
+   "id": "f_lva_l2_k9",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Mārupes SC",
+   "desc": "Športové centrum z Mārupe pri Rige, jeho mužský tím hrá pod značkou Mārupes futbols.",
+   "url": "https://marupesfutbols.lv/",
+   "order": 9
+  },
+  {
+   "id": "f_lva_l2_k10",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Leevon PPK",
+   "desc": "Klub vzniknutý spojením značky Leevon a futbalovej školy PPK.",
+   "url": "https://leevonppk.com/",
+   "order": 10
+  },
+  {
+   "id": "f_lva_l2_k11",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Riga FC-2",
+   "desc": "Rezervný tím Riga FC — odkaz vedie na web materského klubu.",
+   "url": "https://rigafc.lv/",
+   "order": 11
+  },
+  {
+   "id": "f_lva_l2_k12",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "RFS-2",
+   "desc": "Rezervný tím FC RFS — odkaz vedie na web materského klubu.",
+   "url": "https://fkrfs.lv/",
+   "order": 12
+  },
+  {
+   "id": "f_lva_l2_k13",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Tukums 2000-2/TSS",
+   "desc": "Rezervný tím FK Tukums 2000 — odkaz vedie na web materského klubu.",
+   "url": "https://fktukums2000.lv/",
+   "order": 13
+  },
+  {
+   "id": "f_lva_l2_k14",
+   "parentId": "f_lva_l2",
+   "type": "link",
+   "icon": "",
+   "name": "SK Super Nova-2",
+   "desc": "Rezervný tím SK Super Nova — odkaz vedie na web materského klubu.",
+   "url": "https://supernova.lv/",
+   "order": 14
+  },
+  {
+   "id": "f_lux_l1",
+   "parentId": "f_fut_klu_eu_lux",
+   "type": "folder",
+   "icon": "",
+   "name": "BGL Ligue",
+   "desc": "Najvyššia luxemburská futbalová súťaž (National Division) — 16 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "bgl-ligue"
+  },
+  {
+   "id": "f_lux_l1_k1",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Atert Bissen",
+   "desc": "Senzačný majster Luxemburska 2025/26 — titul získal hneď v prvej sezóne medzi elitou.",
+   "url": "https://www.fcbissen.lu/",
+   "order": 1
+  },
+  {
+   "id": "f_lux_l1_k2",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Differdange 03",
+   "desc": "Klub z Differdange založený v roku 2003, viacnásobný majster posledných rokov.",
+   "url": "https://www.fcd03.lu/",
+   "order": 2
+  },
+  {
+   "id": "f_lux_l1_k3",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "F91 Dudelange",
+   "desc": "Rekordný 16-násobný majster Luxemburska, ako prvý klub krajiny hral skupinovú fázu európskych pohárov.",
+   "url": "https://www.f91.lu/",
+   "order": 3
+  },
+  {
+   "id": "f_lux_l1_k4",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "US Mondorf-les-Bains",
+   "desc": "Klub z kúpeľného mesta Mondorf-les-Bains založený v roku 1915.",
+   "url": "https://www.usmondorf.lu/",
+   "order": 4
+  },
+  {
+   "id": "f_lux_l1_k5",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC UNA Strassen",
+   "desc": "Klub zo Strassenu pri hlavnom meste s koreňmi v roku 1922.",
+   "url": "https://www.fcuna-strassen.lu/",
+   "order": 5
+  },
+  {
+   "id": "f_lux_l1_k6",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Progrès Niederkorn",
+   "desc": "Tradičný klub z Niederkornu založený v roku 1919, trojnásobný majster.",
+   "url": "https://www.fcprogresniederkorn.lu/",
+   "order": 6
+  },
+  {
+   "id": "f_lux_l1_k7",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Racing FC Union Luxembourg",
+   "desc": "Klub z hlavného mesta, vznikol v roku 2005 fúziou troch tradičných rivalov.",
+   "url": "https://www.racing-union.lu/",
+   "order": 7
+  },
+  {
+   "id": "f_lux_l1_k8",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Jeunesse Esch",
+   "desc": "Najúspešnejší klub krajiny s 28 titulmi, sídli v Esch-sur-Alzette.",
+   "url": "https://www.jeunesse-esch.lu/",
+   "order": 8
+  },
+  {
+   "id": "f_lux_l1_k9",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "UN Käerjéng '97",
+   "desc": "Klub z Bascharage, vznikol v roku 1997 spojením dvoch miestnych klubov.",
+   "url": "https://www.un-kaerjeng.lu/",
+   "order": 9
+  },
+  {
+   "id": "f_lux_l1_k10",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Victoria Rosport",
+   "desc": "Klub z mestečka Rosport pri nemeckých hraniciach, založený v roku 1928.",
+   "url": "https://www.fcvictoria.lu/",
+   "order": 10
+  },
+  {
+   "id": "f_lux_l1_k11",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "US Hostert",
+   "desc": "Klub z Hostertu založený v roku 1946.",
+   "url": "https://www.ushostert.lu/",
+   "order": 11
+  },
+  {
+   "id": "f_lux_l1_k12",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Swift Hesperange",
+   "desc": "Ambiciózny klub z Hesperange založený v roku 1916.",
+   "url": "https://www.swifthesper.lu/",
+   "order": 12
+  },
+  {
+   "id": "f_lux_l1_k13",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Etzella Ettelbruck",
+   "desc": "Klub z Ettelbrucku založený v roku 1917, medzi elitu sa vrátil po troch rokoch.",
+   "url": "https://www.fcetzella.lu/",
+   "order": 13
+  },
+  {
+   "id": "f_lux_l1_k14",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "US Rumelange",
+   "desc": "Klub z baníckeho Rumelange (1908), postúpil ako majster druhej ligy.",
+   "url": "https://www.usrumelange.lu/",
+   "order": 14
+  },
+  {
+   "id": "f_lux_l1_k15",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Wiltz 71",
+   "desc": "Klub z ardenského Wiltzu, návrat medzi elitu si vybojoval v baráži.",
+   "url": "https://www.fcwiltz.com/",
+   "order": 15
+  },
+  {
+   "id": "f_lux_l1_k16",
+   "parentId": "f_lux_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Résidence Walferdange",
+   "desc": "Klub z Walferdange (1908), historicky prvý postup do najvyššej súťaže vybojoval v baráži 2026.",
+   "url": "https://www.fcresidence.lu/",
+   "order": 16
+  },
+  {
+   "id": "f_mkd_l1",
+   "parentId": "f_fut_klu_eu_mkd",
+   "type": "folder",
+   "icon": "",
+   "name": "1. MFL",
+   "desc": "Najvyššia severomacedónska súťaž (Prva makedonska fudbalska liga) — 10 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "1-mfl"
+  },
+  {
+   "id": "f_mkd_l2",
+   "parentId": "f_fut_klu_eu_mkd",
+   "type": "folder",
+   "icon": "",
+   "name": "2. MFL",
+   "desc": "Druhá najvyššia severomacedónska súťaž (Vtora MFL) — 14 klubov, sezóna 2026/27.",
+   "order": 2,
+   "slug": "2-mfl"
+  },
+  {
+   "id": "f_mkd_l1_k1",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FK Vardar",
+   "desc": "Najúspešnejší klub krajiny so sídlom v Skopje — 12 titulov, prvý macedónsky klub v skupinovej fáze európskych pohárov.",
+   "url": "https://fcvardar.com/",
+   "order": 1
+  },
+  {
+   "id": "f_mkd_l1_k2",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "",
+   "name": "KF Shkëndija",
+   "desc": "Klub z Tetova reprezentujúci albánsku komunitu, viacnásobný majster.",
+   "url": "https://kfshkendija.com/",
+   "order": 2
+  },
+  {
+   "id": "f_mkd_l1_k3",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "",
+   "name": "FC Struga",
+   "desc": "Klub zo Strugy pri Ohridskom jazere, dvojnásobný majster posledných rokov.",
+   "url": "https://fcstruga.com/",
+   "order": 3
+  },
+  {
+   "id": "f_mkd_l1_k4",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Sileks",
+   "desc": "Klub z Kratova, trojnásobný majster z 90. rokov a víťaz pohára 2025/26 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fcsileks/",
+   "order": 4
+  },
+  {
+   "id": "f_mkd_l1_k5",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "GFK Tikvesh",
+   "desc": "Klub z vinárskeho Kavadarci založený v roku 1930 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/FCTikves1930Kavadarci/",
+   "order": 5
+  },
+  {
+   "id": "f_mkd_l1_k6",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "KF Arsimi",
+   "desc": "Klub z obce Čegrane pri Gostivare založený v roku 1973 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/kfaresimi/",
+   "order": 6
+  },
+  {
+   "id": "f_mkd_l1_k7",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "KF Bashkimi 1947",
+   "desc": "Albánsky klub z Kumanova s koreňmi v roku 1947 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/p/KF-Bashkimi-1947-FC-Bashkimi-1947-100063574330486/",
+   "order": 7
+  },
+  {
+   "id": "f_mkd_l1_k8",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Bregalnica Štip",
+   "desc": "Tradičný klub zo Štipu (1921), do elity sa vrátil ako majster druhej ligy — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fkbregalnicaofficial/",
+   "order": 8
+  },
+  {
+   "id": "f_mkd_l1_k9",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Skopje",
+   "desc": "Klub z hlavného mesta, medzi elitu postúpil cez baráž — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fk.skopje/",
+   "order": 9
+  },
+  {
+   "id": "f_mkd_l1_k10",
+   "parentId": "f_mkd_l1",
+   "type": "link",
+   "icon": "mk",
+   "name": "KF Shkëndija Haraçinë 77",
+   "desc": "Klub z obce Aračinovo založený v roku 1977, nováčik v najvyššej súťaži — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/p/KF-Shk%C3%ABndija-Hara%C3%A7in%C3%AB-77-100071357267631/",
+   "order": 10
+  },
+  {
+   "id": "f_mkd_l2_k1",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Belasica",
+   "desc": "Tradičný klub zo Strumice — odkaz vedie na oficiálny Facebook (starý web klubu je dávno neaktuálny).",
+   "url": "https://www.facebook.com/belasicafc/",
+   "order": 1
+  },
+  {
+   "id": "f_mkd_l2_k2",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Brera Strumica",
+   "desc": "Klub založený Goranom Pandevom ako Akademija Pandev, dnes súčasť skupiny Brera Holdings.",
+   "url": "https://brerastrumica.com/",
+   "order": 2
+  },
+  {
+   "id": "f_mkd_l2_k3",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Detonit Plachkovica",
+   "desc": "Klub z Radoviša s históriou od roku 1942 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/p/%D0%A4%D0%9A-%D0%94%D0%B5%D1%82%D0%BE%D0%BD%D0%B8%D1%82-%D0%9F%D0%BB%D0%B0%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B0-61558155457604/",
+   "order": 3
+  },
+  {
+   "id": "f_mkd_l2_k4",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Euromilk",
+   "desc": "Klub zo skopského predmestia Gorno Lisiče — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/FKEuromilkGornoLisiche/",
+   "order": 4
+  },
+  {
+   "id": "f_mkd_l2_k5",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "KF Kamjani",
+   "desc": "Albánsky klub z obce Kamjane pri Tetove založený v roku 1978 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/KF.Kamjani78/",
+   "order": 5
+  },
+  {
+   "id": "f_mkd_l2_k6",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Kozhuf",
+   "desc": "Najstarší futbalový klub z Gevgelije (1921) — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/fckozuf/",
+   "order": 6
+  },
+  {
+   "id": "f_mkd_l2_k7",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Makedonija GjP",
+   "desc": "Klub zo skopskej štvrte Ǵorče Petrov, majster Macedónska 2008/09.",
+   "url": "https://fkmakedonija.mk/",
+   "order": 7
+  },
+  {
+   "id": "f_mkd_l2_k8",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Novaci",
+   "desc": "Dedinský klub z Novaci pri Bitole založený v roku 1956 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/novacifk/",
+   "order": 8
+  },
+  {
+   "id": "f_mkd_l2_k9",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "GFK Ohrid Lychnidos",
+   "desc": "Klub z Ohridu nesúci antické meno mesta Lychnidos — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/gfkohrid/",
+   "order": 9
+  },
+  {
+   "id": "f_mkd_l2_k10",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "mk",
+   "name": "FK Osogovo",
+   "desc": "Klub z Kočian pod pohorím Osogovo založený v roku 1924 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/gfkosogovo/",
+   "order": 10
+  },
+  {
+   "id": "f_mkd_l2_k11",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Pelister",
+   "desc": "Kultový klub z Bitoly so slávnym fanúšikovským táborom Čkembari, do druhej ligy spadol po prehratej baráži.",
+   "url": "https://fcpelister.com.mk/",
+   "order": 11
+  },
+  {
+   "id": "f_mkd_l2_k12",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Rabotnički",
+   "desc": "Štvornásobný majster zo Skopje, hráva na Národnej aréne Toše Proeski.",
+   "url": "http://www.fkrabotnicki.com/",
+   "order": 12
+  },
+  {
+   "id": "f_mkd_l2_k13",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FC Shkupi",
+   "desc": "Albánsky klub zo skopskej štvrte Čair, majster Macedónska 2021/22.",
+   "url": "https://fcshkupi.com/",
+   "order": 13
+  },
+  {
+   "id": "f_mkd_l2_k14",
+   "parentId": "f_mkd_l2",
+   "type": "link",
+   "icon": "",
+   "name": "FK Teteks",
+   "desc": "Tradičný klub textilného Tetova založený v roku 1953.",
+   "url": "https://fkteteks.mk/",
+   "order": 14
+  },
+  {
+   "id": "f_mlt_l1",
+   "parentId": "f_fut_klu_eu_mlt",
+   "type": "folder",
+   "icon": "",
+   "name": "Premier League",
+   "desc": "Najvyššia maltská súťaž (Malta Premier League) — 12 klubov, sezóna 2026/27.",
+   "order": 1,
+   "slug": "premier-league"
+  },
+  {
+   "id": "f_mlt_l2",
+   "parentId": "f_fut_klu_eu_mlt",
+   "type": "folder",
+   "icon": "",
+   "name": "Challenge League",
+   "desc": "Druhá najvyššia maltská súťaž (BOV Challenge League) — 16 klubov, sezóna 2026/27.",
+   "order": 2,
+   "slug": "challenge-league"
+  },
+  {
+   "id": "f_mlt_l1_k1",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Floriana FC",
+   "desc": "Najstarší maltský klub (1894) od hradieb Valletty, majster 2025/26.",
+   "url": "https://www.florianafootballclub.com/",
+   "order": 1
+  },
+  {
+   "id": "f_mlt_l1_k2",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Ħamrun Spartans",
+   "desc": "Klub z Ħamrunu, majster rokov 2023–2025 a prvý maltský účastník hlavnej fázy Konferenčnej ligy.",
+   "url": "https://hamrunspartansfc.com/",
+   "order": 2
+  },
+  {
+   "id": "f_mlt_l1_k3",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Marsaxlokk FC",
+   "desc": "Klub z rybárskej dediny Marsaxlokk na juhu ostrova.",
+   "url": "https://marsaxlokkfc.com/",
+   "order": 3
+  },
+  {
+   "id": "f_mlt_l1_k4",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Valletta FC",
+   "desc": "Klub z hlavného mesta s 25 majstrovskými titulmi.",
+   "url": "https://vallettafc.net/",
+   "order": 4
+  },
+  {
+   "id": "f_mlt_l1_k5",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Sliema Wanderers",
+   "desc": "Najtrofejovejší klub maltskej histórie zo Sliemy (1909) — 26 titulov.",
+   "url": "https://sliemawfc.com/",
+   "order": 5
+  },
+  {
+   "id": "f_mlt_l1_k6",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Gżira United",
+   "desc": "Klub z Gżiry pri Sliema, medzi elitou od roku 2016.",
+   "url": "https://www.gziraunitedfc.com/",
+   "order": 6
+  },
+  {
+   "id": "f_mlt_l1_k7",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Hibernians FC",
+   "desc": "Klub z Paoly (1922), viacnásobný majster, hráva na štadióne Tony Bezzina.",
+   "url": "https://www.hiberniansfc.mt/",
+   "order": 7
+  },
+  {
+   "id": "f_mlt_l1_k8",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Birkirkara FC",
+   "desc": "Štvornásobný majster z najľudnatejšieho mesta Malty.",
+   "url": "https://www.birkirkarafc.com/",
+   "order": 8
+  },
+  {
+   "id": "f_mlt_l1_k9",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "mt",
+   "name": "Żabbar St. Patrick",
+   "desc": "Klub zo Żabbaru — odkaz vedie na oficiálny Facebook (doménu klubu obsadil nesúvisiaci web).",
+   "url": "https://www.facebook.com/zabbarsaints/",
+   "order": 9
+  },
+  {
+   "id": "f_mlt_l1_k10",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "mt",
+   "name": "Mosta FC",
+   "desc": "Klub z Mosty, miestenku v elite obhájil v baráži — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/mosta.fc/",
+   "order": 10
+  },
+  {
+   "id": "f_mlt_l1_k11",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Balzan FC",
+   "desc": "Klub z Balzanu (1937), vracia sa ako majster Challenge League.",
+   "url": "https://balzanfc1937.com/",
+   "order": 11
+  },
+  {
+   "id": "f_mlt_l1_k12",
+   "parentId": "f_mlt_l1",
+   "type": "link",
+   "icon": "mt",
+   "name": "Birżebbuġa St. Peter's",
+   "desc": "Klub z juhu Malty (1946), historicky prvý postup medzi elitu — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/Birzebbugafc/",
+   "order": 12
+  },
+  {
+   "id": "f_mlt_l2_k1",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Swieqi United",
+   "desc": "Komunitný klub zo Swieqi založený v roku 2009, o postup prišiel až v rozstrele.",
+   "url": "https://swieqiunitedfc.com/",
+   "order": 1
+  },
+  {
+   "id": "f_mlt_l2_k2",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Melita FC",
+   "desc": "Jeden z najstarších maltských klubov (1907) zo St. Julian's — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/melitafootballclub/",
+   "order": 2
+  },
+  {
+   "id": "f_mlt_l2_k3",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Sirens FC",
+   "desc": "Klub zo St. Paul's Bay založený v roku 1968 — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/SirensFCOfficialPage/",
+   "order": 3
+  },
+  {
+   "id": "f_mlt_l2_k4",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Pietà Hotspurs",
+   "desc": "Klub z prístavnej Pietà — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/pietahfc/",
+   "order": 4
+  },
+  {
+   "id": "f_mlt_l2_k5",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Fgura United",
+   "desc": "Klub z Fgury — odkaz vedie na oficiálny Facebook (web klubu je v rekonštrukcii).",
+   "url": "https://www.facebook.com/fguraunitedfc/",
+   "order": 5
+  },
+  {
+   "id": "f_mlt_l2_k6",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "St. Andrews FC",
+   "desc": "Tím multišportového Luxol Sports Clubu zo St. Andrew's — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/standrewsfcmalta/",
+   "order": 6
+  },
+  {
+   "id": "f_mlt_l2_k7",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Mġarr United",
+   "desc": "Klub z vidieckej Mġarry založený v roku 1967.",
+   "url": "https://www.mgarrutd.com/",
+   "order": 7
+  },
+  {
+   "id": "f_mlt_l2_k8",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Gudja United",
+   "desc": "Klub z Gudje pri letisku, založený v roku 1945.",
+   "url": "https://www.gudjaunitedfc.com/",
+   "order": 8
+  },
+  {
+   "id": "f_mlt_l2_k9",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Santa Lucia FC",
+   "desc": "Klub zo Santa Luċije založený v roku 1974.",
+   "url": "https://santaluciafc.com/",
+   "order": 9
+  },
+  {
+   "id": "f_mlt_l2_k10",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Żurrieq FC",
+   "desc": "Klub zo Żurrieq na juhu Malty — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/ZurrieqFC/",
+   "order": 10
+  },
+  {
+   "id": "f_mlt_l2_k11",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Vittoriosa Stars",
+   "desc": "Klub z historického prístavného Birgu (Vittoriosa) — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/vittoriosa.stars/",
+   "order": 11
+  },
+  {
+   "id": "f_mlt_l2_k12",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Żebbuġ Rangers",
+   "desc": "Klub z Ħaż-Żebbuġ — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/zbgrangers/",
+   "order": 12
+  },
+  {
+   "id": "f_mlt_l2_k13",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Tarxien Rainbows",
+   "desc": "Klub z Tarxienu, čerstvo zostúpil z Premier League — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/p/Tarxien-Rainbows-FC-100057501307308/",
+   "order": 13
+  },
+  {
+   "id": "f_mlt_l2_k14",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Naxxar Lions",
+   "desc": "Klub z Naxxaru založený v roku 1920, o elitu prišiel v baráži — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/naxxarlions/",
+   "order": 14
+  },
+  {
+   "id": "f_mlt_l2_k15",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "mt",
+   "name": "Attard FC",
+   "desc": "Majster amatérskej ligy 2025/26 z Attardu — odkaz vedie na oficiálny Facebook.",
+   "url": "https://www.facebook.com/Attardfc/",
+   "order": 15
+  },
+  {
+   "id": "f_mlt_l2_k16",
+   "parentId": "f_mlt_l2",
+   "type": "link",
+   "icon": "",
+   "name": "Victoria Hotspurs",
+   "desc": "Klub z Victorie na ostrove Gozo (1948), vzácny gozitský účastník celoštátnej súťaže.",
+   "url": "https://www.victoriahotspursfc.com/",
    "order": 16
   }
  ]
