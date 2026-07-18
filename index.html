@@ -13289,7 +13289,7 @@ function skl(n, jedna, dvestyri, vela){ return n===1 ? jedna : (n>=2 && n<=4 ? d
 // celkový počet liniek v hlavičke — počíta sa vždy nanovo z DB
 function updateLinkCount(){
   const el = document.getElementById('linkCount');
-  if(!el || !window.DB || !DB.nodes) return;
+  if(!el || typeof DB==='undefined' || !DB.nodes) return;
   let l=0;
   for(const n of DB.nodes){ if(n.type==='link') l++; }
   el.innerHTML = '<b>'+l+'</b> '+skl(l,'linka','linky','liniek');
