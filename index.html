@@ -257,6 +257,7 @@ footer{
 .mo-box{
   background:#1a2a3a;border:1.5px solid var(--border);border-radius:14px;
   padding:26px;width:100%;max-width:440px;
+  max-height:calc(100vh - 40px);overflow-y:auto;
   transform:translateY(16px);transition:.2s;
 }
 .mo.open .mo-box{transform:translateY(0)}
@@ -13749,7 +13750,7 @@ function bannerWeight(b){ return Math.max(1, Math.min(10, parseInt(b.weight)||1)
 function renderOneSlot(el, slotNum){
   const banners = eligibleBanners(slotNum);
   if(!banners.length){
-    el.innerHTML = '<div class="banner-placeholder">📢 Banner 468 × 60</div>';
+    if(el.dataset.bid !== 'ph'){ el.dataset.bid = 'ph'; el.innerHTML = '<div class="banner-placeholder">📢 Banner 468 × 60</div>'; }
     return;
   }
   let banner;
@@ -13762,8 +13763,18 @@ function renderOneSlot(el, slotNum){
   } else {
     banner = banners.find(b=>b.id===DB.bannerSettings.activeId) || banners[0];
   }
+  // ten istý banner už je zobrazený → neprekresľuj (partnerský skript sa nenačítava dokola)
+  if(String(el.dataset.bid||'') === String(banner.id)) return;
+  el.dataset.bid = String(banner.id);
   if(banner.html){
     el.innerHTML = banner.html;
+    // <script> vložený cez innerHTML sa sám nespustí — vytvoríme ho nanovo, tým sa aktivuje
+    el.querySelectorAll('script').forEach(old=>{
+      const s = document.createElement('script');
+      for(const a of old.attributes) s.setAttribute(a.name, a.value);
+      s.text = old.text || '';
+      old.parentNode.replaceChild(s, old);
+    });
   } else {
     el.innerHTML = `<a href="${banner.linkUrl||'#'}" target="_blank" rel="noopener sponsored">
       <img src="${banner.imageUrl}" alt="${banner.alt||'Reklama'}" style="width:100%;height:100%;object-fit:cover;display:block"/>

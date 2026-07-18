@@ -235,6 +235,15 @@ DYN_JS = """<script>
       var el=document.getElementById(elId);
       el.hidden=false;
       el.innerHTML=b.html?b.html:'<a href="'+(b.linkUrl||"#")+'" target="_blank" rel="noopener sponsored"><img src="'+b.imageUrl+'" alt="'+(b.alt||"Reklama")+'"></a>';
+      if(b.html){
+        var scr=el.querySelectorAll("script");
+        for(var i=0;i<scr.length;i++){
+          var old=scr[i],s=document.createElement("script");
+          for(var j=0;j<old.attributes.length;j++)s.setAttribute(old.attributes[j].name,old.attributes[j].value);
+          s.text=old.text||"";
+          old.parentNode.replaceChild(s,old);
+        }
+      }
     }
     showSlot("bslot",1);
     showSlot("bslot2",2);
