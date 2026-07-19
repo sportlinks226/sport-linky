@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -3668,16 +3668,6 @@
       "desc": "MS mužov — 1. divízia, skupina B",
       "url": "https://www.iihf.com/en/events/2026/wmib",
       "order": 2
-    },
-    {
-      "id": "n1779966054647eii",
-      "parentId": "f_hok_sut_gl",
-      "type": "link",
-      "icon": "",
-      "name": "MS divízia 2A",
-      "desc": "MS mužov — 2. divízia, skupina A",
-      "url": "https://www.iihf.com/en/events/2026/wm",
-      "order": 3
     },
     {
       "id": "n17799729180786j4",
@@ -41009,6 +40999,1056 @@
       "desc": "Športová sekcia iránskeho denníka Javan",
       "url": "https://www.javanonline.ir/fa/varzeshi",
       "order": 14
+    },
+    {
+      "id": "f_sco_l1",
+      "parentId": "f_fut_klu_eu_sco",
+      "type": "folder",
+      "icon": "",
+      "name": "Premiership",
+      "desc": "Najvyššia škótska súťaž — 12 klubov, dlhodobo ju ovládajú Celtic a Rangers.",
+      "order": 1,
+      "slug": "premiership"
+    },
+    {
+      "id": "f_sco_l2",
+      "parentId": "f_fut_klu_eu_sco",
+      "type": "folder",
+      "icon": "",
+      "name": "Championship",
+      "desc": "Druhá najvyššia škótska súťaž — 10 klubov, víťaz postupuje do Premiership.",
+      "order": 2,
+      "slug": "championship"
+    },
+    {
+      "id": "f_sco_l3",
+      "parentId": "f_fut_klu_eu_sco",
+      "type": "folder",
+      "icon": "",
+      "name": "League One",
+      "desc": "Tretia úroveň škótskeho profesionálneho futbalu — 10 klubov.",
+      "order": 3,
+      "slug": "league-one"
+    },
+    {
+      "id": "f_sco_l4",
+      "parentId": "f_fut_klu_eu_sco",
+      "type": "folder",
+      "icon": "",
+      "name": "League Two",
+      "desc": "Štvrtá a najnižšia profesionálna úroveň škótskeho futbalu — 10 klubov.",
+      "order": 4,
+      "slug": "league-two"
+    },
+    {
+      "id": "f_sco_l1_k1",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aberdeen FC",
+      "desc": "Klub z Aberdeenu (štadión Pittodrie), víťaz Pohára víťazov pohárov 1983.",
+      "url": "https://www.afc.co.uk/en",
+      "order": 1
+    },
+    {
+      "id": "f_sco_l1_k2",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Celtic FC",
+      "desc": "Glasgowský gigant z Celtic Parku, prvý britský víťaz Pohára majstrov (1967) a rekordný škótsky majster.",
+      "url": "https://www.celticfc.com/",
+      "order": 2
+    },
+    {
+      "id": "f_sco_l1_k3",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dundee FC",
+      "desc": "Klub z mesta Dundee (štadión Dens Park), tradičný účastník najvyššej súťaže.",
+      "url": "https://dundeefc.co.uk/",
+      "order": 3
+    },
+    {
+      "id": "f_sco_l1_k4",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dundee United FC",
+      "desc": "Druhý klub Dundee (štadión Tannadice), finalista Pohára UEFA 1987.",
+      "url": "https://www.dundeeunitedfc.co.uk/",
+      "order": 4
+    },
+    {
+      "id": "f_sco_l1_k5",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Falkirk FC",
+      "desc": "Klub z mesta Falkirk, prezývaný The Bairns.",
+      "url": "https://falkirkfc.co.uk/",
+      "order": 5
+    },
+    {
+      "id": "f_sco_l1_k6",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Heart of Midlothian FC",
+      "desc": "Edinburský klub Hearts zo štadióna Tynecastle, jeden z najstarších v Škótsku.",
+      "url": "https://www.heartsfc.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_sco_l1_k7",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hibernian FC",
+      "desc": "Druhý edinburský klub Hibs z Easter Road, rivali Hearts v derby hlavného mesta.",
+      "url": "https://www.hibernianfc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_sco_l1_k8",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kilmarnock FC",
+      "desc": "Najstarší klub škótskej najvyššej súťaže (založený 1869), z mesta Kilmarnock.",
+      "url": "https://kilmarnockfc.co.uk/",
+      "order": 8
+    },
+    {
+      "id": "f_sco_l1_k9",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Motherwell FC",
+      "desc": "Klub z Motherwellu (štadión Fir Park), majster Škótska 1932.",
+      "url": "https://www.motherwellfc.co.uk/",
+      "order": 9
+    },
+    {
+      "id": "f_sco_l1_k10",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Rangers FC",
+      "desc": "Glasgowský gigant z Ibroxu, rekordný škótsky majster a rival Celticu (Old Firm).",
+      "url": "https://www.rangers.co.uk/",
+      "order": 10
+    },
+    {
+      "id": "f_sco_l1_k11",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "St Johnstone FC",
+      "desc": "Klub z Perthu (McDiarmid Park), víťaz oboch domácich pohárov v roku 2021.",
+      "url": "https://www.perthstjohnstonefc.co.uk/",
+      "order": 11
+    },
+    {
+      "id": "f_sco_l1_k12",
+      "parentId": "f_sco_l1",
+      "type": "link",
+      "icon": "",
+      "name": "St Mirren FC",
+      "desc": "Klub z Paisley (St Mirren Park), prezývaný The Buddies.",
+      "url": "https://www.stmirren.com/",
+      "order": 12
+    },
+    {
+      "id": "f_sco_l2_k1",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Arbroath FC",
+      "desc": "Klub z Arbroathu, držiteľ svetového rekordu v najvyššej výhre (36:0 z roku 1885).",
+      "url": "https://arbroathfc.co.uk/",
+      "order": 1
+    },
+    {
+      "id": "f_sco_l2_k2",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ayr United FC",
+      "desc": "Klub z prímorského Ayru (štadión Somerset Park).",
+      "url": "https://ayrunitedfc.co.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_sco_l2_k3",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Dunfermline Athletic FC",
+      "desc": "Klub z Dunfermline (East End Park), dvojnásobný víťaz Škótskeho pohára.",
+      "url": "https://www.dafc.co.uk/",
+      "order": 3
+    },
+    {
+      "id": "f_sco_l2_k4",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Greenock Morton FC",
+      "desc": "Klub z Greenocku (štadión Cappielow), prezývaný The Ton.",
+      "url": "https://gmfc.net/",
+      "order": 4
+    },
+    {
+      "id": "f_sco_l2_k5",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Inverness Caledonian Thistle FC",
+      "desc": "Klub z Inverness, prekvapivý víťaz Škótskeho pohára 2015.",
+      "url": "https://ictfc.com/",
+      "order": 5
+    },
+    {
+      "id": "f_sco_l2_k6",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Livingston FC",
+      "desc": "Klub zo západného Lothianu, víťaz Ligového pohára 2004.",
+      "url": "https://livingstonfc.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_sco_l2_k7",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Partick Thistle FC",
+      "desc": "Glasgowský klub The Jags zo štadióna Firhill.",
+      "url": "https://ptfc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_sco_l2_k8",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Queen's Park FC",
+      "desc": "Najstarší škótsky klub (1867), donedávna amatérsky, hráva na Hampdene.",
+      "url": "https://queensparkfc.co.uk/",
+      "order": 8
+    },
+    {
+      "id": "f_sco_l2_k9",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Raith Rovers FC",
+      "desc": "Klub z Kirkcaldy (Stark’s Park) vo Fife.",
+      "url": "https://www.raithrovers.net/",
+      "order": 9
+    },
+    {
+      "id": "f_sco_l2_k10",
+      "parentId": "f_sco_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Stenhousemuir FC",
+      "desc": "Klub zo Stenhousemuiru (Ochilview Park), prezývaný The Warriors.",
+      "url": "https://www.stenhousemuirfc.com/",
+      "order": 10
+    },
+    {
+      "id": "f_sco_l3_k1",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Airdrieonians FC",
+      "desc": "Klub z Airdrie (Excelsior Stadium), prezývaný The Diamonds.",
+      "url": "https://www.airdriefc.com/",
+      "order": 1
+    },
+    {
+      "id": "f_sco_l3_k2",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Alloa Athletic FC",
+      "desc": "Klub z Alloa (Indodrill Stadium), prezývaný The Wasps.",
+      "url": "https://www.alloaathletic.co.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_sco_l3_k3",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Cove Rangers FC",
+      "desc": "Klub z aberdeenskej štvrte Cove Bay (Balmoral Stadium).",
+      "url": "https://coverangersfc.com/",
+      "order": 3
+    },
+    {
+      "id": "f_sco_l3_k4",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "East Fife FC",
+      "desc": "Klub z Methilu vo Fife, víťaz Škótskeho pohára 1938 z nižšej ligy.",
+      "url": "https://eastfifefc.co.uk/",
+      "order": 4
+    },
+    {
+      "id": "f_sco_l3_k5",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "East Kilbride FC",
+      "desc": "Klub z East Kilbride, ktorý do SPFL postúpil v roku 2025.",
+      "url": "https://eastkilbridefootballclub.co.uk/",
+      "order": 5
+    },
+    {
+      "id": "f_sco_l3_k6",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Hamilton Academical FC",
+      "desc": "Klub z Hamiltonu, prezývaný The Accies.",
+      "url": "https://hamiltonacciesfc.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_sco_l3_k7",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Montrose FC",
+      "desc": "Klub z prímorského Montrose (Links Park).",
+      "url": "https://montrosefc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_sco_l3_k8",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Peterhead FC",
+      "desc": "Najsevernejší škótsky profesionálny klub, z rybárskeho Peterheadu.",
+      "url": "https://www.peterheadfc.co.uk/",
+      "order": 8
+    },
+    {
+      "id": "f_sco_l3_k9",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Queen of the South FC",
+      "desc": "Klub z Dumfries (Palmerston Park), prezývaný The Doonhamers.",
+      "url": "https://www.qosfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_sco_l3_k10",
+      "parentId": "f_sco_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Ross County FC",
+      "desc": "Klub z Dingwallu na severe Škótska (Victoria Park).",
+      "url": "https://www.rosscountyfootballclub.co.uk/",
+      "order": 10
+    },
+    {
+      "id": "f_sco_l4_k1",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Annan Athletic FC",
+      "desc": "Klub z mestečka Annan pri anglických hraniciach (štadión Galabank).",
+      "url": "https://www.annanathleticfc.com/",
+      "order": 1
+    },
+    {
+      "id": "f_sco_l4_k2",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Clyde FC",
+      "desc": "Historický glasgowský klub The Bully Wee, dnes hráva v Hamiltone.",
+      "url": "https://www.clydefc.co.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_sco_l4_k3",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Dumbarton FC",
+      "desc": "Klub spod Dumbartonskej skaly, majster Škótska z konca 19. storočia.",
+      "url": "https://dumbartonfootballclub.com/",
+      "order": 3
+    },
+    {
+      "id": "f_sco_l4_k4",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Edinburgh City FC",
+      "desc": "Edinburský klub z Meadowbank (donedávna FC Edinburgh).",
+      "url": "https://edinburghcityfc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_sco_l4_k5",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Elgin City FC",
+      "desc": "Klub z Elginu na severe Škótska (Borough Briggs).",
+      "url": "https://www.elgincity.net/",
+      "order": 5
+    },
+    {
+      "id": "f_sco_l4_k6",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Forfar Athletic FC",
+      "desc": "Klub z Forfaru v Angusu (Station Park), prezývaný The Loons.",
+      "url": "https://forfarathletic.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_sco_l4_k7",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Kelty Hearts FC",
+      "desc": "Klub z Kelty vo Fife, ktorý sa do SPFL prebojoval z nižších líg.",
+      "url": "https://keltyhearts.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_sco_l4_k8",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Spartans FC",
+      "desc": "Edinburský klub z Ainslie Parku, ktorý postúpil do SPFL z Lowland League.",
+      "url": "https://spartansfc.com/",
+      "order": 8
+    },
+    {
+      "id": "f_sco_l4_k9",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Stirling Albion FC",
+      "desc": "Klub zo Stirlingu (Forthbank Stadium), prezývaný The Binos.",
+      "url": "https://stirlingalbionfc.co.uk/",
+      "order": 9
+    },
+    {
+      "id": "f_sco_l4_k10",
+      "parentId": "f_sco_l4",
+      "type": "link",
+      "icon": "",
+      "name": "Stranraer FC",
+      "desc": "Klub z prístavného Stranraeru na juhozápade Škótska (Stair Park).",
+      "url": "https://stranraerfc.org/",
+      "order": 10
+    },
+    {
+      "id": "f_svn_l1",
+      "parentId": "f_fut_klu_eu_svn",
+      "type": "folder",
+      "icon": "",
+      "name": "Prva liga",
+      "desc": "Najvyššia slovinská súťaž (1. SNL) — 10 klubov.",
+      "order": 1,
+      "slug": "prva-liga"
+    },
+    {
+      "id": "f_svn_l2",
+      "parentId": "f_fut_klu_eu_svn",
+      "type": "folder",
+      "icon": "",
+      "name": "2. SNL",
+      "desc": "Druhá najvyššia slovinská súťaž — 16 klubov.",
+      "order": 2,
+      "slug": "2-snl"
+    },
+    {
+      "id": "f_svn_l1_k1",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Aluminij",
+      "desc": "Klub z Kidričeva, pomenovaný podľa miestneho hlinikárskeho priemyslu.",
+      "url": "https://nkaluminij.net/",
+      "order": 1
+    },
+    {
+      "id": "f_svn_l1_k2",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Bravo",
+      "desc": "Ľubľanský klub, ktorý sa vyšvihol medzi slovinskú elitu.",
+      "url": "https://www.nk-bravo.si/",
+      "order": 2
+    },
+    {
+      "id": "f_svn_l1_k3",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Brinje Grosuplje",
+      "desc": "Nováčik najvyššej súťaže z Grosuplja pri Ľubľane.",
+      "url": "https://www.nogometniklub-brinje.si/",
+      "order": 3
+    },
+    {
+      "id": "f_svn_l1_k4",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Celje",
+      "desc": "Klub z Celja, majster Slovinska 2024.",
+      "url": "https://www.nk-celje.si/sl/",
+      "order": 4
+    },
+    {
+      "id": "f_svn_l1_k5",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Koper",
+      "desc": "Prímorský klub z Kopru, majster Slovinska 2010.",
+      "url": "https://fckoper.si/",
+      "order": 5
+    },
+    {
+      "id": "f_svn_l1_k6",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Maribor",
+      "desc": "Najúspešnejší slovinský klub z Mariboru (štadión Ljudski vrt), rekordný majster.",
+      "url": "https://www.nkmaribor.com/",
+      "order": 6
+    },
+    {
+      "id": "f_svn_l1_k7",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NŠ Mura",
+      "desc": "Klub z Murskej Soboty v Prekmurí, majster Slovinska 2021.",
+      "url": "https://nsmura.si/",
+      "order": 7
+    },
+    {
+      "id": "f_svn_l1_k8",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Nafta 1903",
+      "desc": "Tradičný klub z Lendavy, jeden z najstarších v Slovinsku.",
+      "url": "https://www.nafta1903.si/",
+      "order": 8
+    },
+    {
+      "id": "f_svn_l1_k9",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Olimpija Ljubljana",
+      "desc": "Ľubľanský klub zo Stožíc, jeden z dvoch veľkých slovinských gigantov.",
+      "url": "https://nkolimpija.si/",
+      "order": 9
+    },
+    {
+      "id": "f_svn_l1_k10",
+      "parentId": "f_svn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "NK Radomlje",
+      "desc": "Klub z Radomlje pri Kamniku severne od Ľubľany.",
+      "url": "https://www.nk-radomlje.si/",
+      "order": 10
+    },
+    {
+      "id": "f_svn_l2_k1",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ND Beltinci",
+      "desc": "Klub z Beltincov v Prekmurí.",
+      "url": "https://www.ndbeltinci.net/",
+      "order": 1
+    },
+    {
+      "id": "f_svn_l2_k2",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Bistrica",
+      "desc": "Klub zo Slovenskej Bistrice (štadión Bistrica).",
+      "url": "https://nk-bistrica.si/",
+      "order": 2
+    },
+    {
+      "id": "f_svn_l2_k3",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ND Bilje",
+      "desc": "Klub z dediny Bilje pri Novej Gorici (založený 1946).",
+      "url": "https://ndbilje.si/",
+      "order": 3
+    },
+    {
+      "id": "f_svn_l2_k4",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Brežice 1919",
+      "desc": "Klub z Brežíc na juhovýchode Slovinska.",
+      "url": "https://www.nkbrezice.si/",
+      "order": 4
+    },
+    {
+      "id": "f_svn_l2_k5",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ND Dravinja",
+      "desc": "Klub zo Slovenských Koníc, pomenovaný podľa rieky Dravinja.",
+      "url": "https://nd-dravinja.si/",
+      "order": 5
+    },
+    {
+      "id": "f_svn_l2_k6",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "si",
+      "name": "ND Ilirija 1911",
+      "desc": "Historický ľubľanský klub s dlhou tradíciou — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/NDIlirija1911/",
+      "order": 6
+    },
+    {
+      "id": "f_svn_l2_k7",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "si",
+      "name": "NK Jadran Dekani",
+      "desc": "Klub z Dekanov pri Kopri — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/nkdekani/",
+      "order": 7
+    },
+    {
+      "id": "f_svn_l2_k8",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Jesenice",
+      "desc": "Klub z hornogorenjských Jeseníc.",
+      "url": "https://nkjesenice.si/",
+      "order": 8
+    },
+    {
+      "id": "f_svn_l2_k9",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Krka",
+      "desc": "Klub z Nového Mesta, pomenovaný podľa rieky Krka.",
+      "url": "https://www.nkkrka.com/",
+      "order": 9
+    },
+    {
+      "id": "f_svn_l2_k10",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Krško Posavje",
+      "desc": "Klub z Krškého v regióne Posavje.",
+      "url": "https://nkkrskoposavje.si/",
+      "order": 10
+    },
+    {
+      "id": "f_svn_l2_k11",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ND Primorje",
+      "desc": "Obnovený klub z Ajdovščiny v regióne Primorska.",
+      "url": "https://ndprimorje.si/",
+      "order": 11
+    },
+    {
+      "id": "f_svn_l2_k12",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Rudar Velenje",
+      "desc": "Banícky klub z Velenja (Rudar = baník).",
+      "url": "https://nkrudarvelenje.com/",
+      "order": 12
+    },
+    {
+      "id": "f_svn_l2_k13",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ND Slovan",
+      "desc": "Najstarší slovinský športový klub, ľubľanský Slovan (od 1919).",
+      "url": "https://nd-slovan.si/",
+      "order": 13
+    },
+    {
+      "id": "f_svn_l2_k14",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Tabor Sežana",
+      "desc": "Klub zo Sežany na krase pri talianskych hraniciach.",
+      "url": "https://www.nktabor.si/",
+      "order": 14
+    },
+    {
+      "id": "f_svn_l2_k15",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Triglav Kranj",
+      "desc": "Najväčší gorenjský klub z Kranja, jeden z najstarších v Slovinsku.",
+      "url": "https://www.nktriglav.si/",
+      "order": 15
+    },
+    {
+      "id": "f_svn_l2_k16",
+      "parentId": "f_svn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NK Vrhnika",
+      "desc": "Klub z Vrhniky pri Ľubľane, čerstvý víťaz 3. SNL Západ.",
+      "url": "https://www.nkvrhnika.si/",
+      "order": 16
+    },
+    {
+      "id": "f_arm_l1",
+      "parentId": "f_fut_klu_eu_arm",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "Najvyššia arménska súťaž (Fastex Premier League) — 12 klubov.",
+      "order": 1,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_arm_l2",
+      "parentId": "f_fut_klu_eu_arm",
+      "type": "folder",
+      "icon": "",
+      "name": "First League",
+      "desc": "Druhá najvyššia arménska súťaž — 16 tímov vrátane rezervných „2\"-tímov klubov Premier League.",
+      "order": 2,
+      "slug": "first-league"
+    },
+    {
+      "id": "f_arm_l1_k1",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Alashkert",
+      "desc": "Jerevanský klub, viacnásobný majster Arménska z druhej polovice 2010-tych rokov.",
+      "url": "https://fcalashkert.com/",
+      "order": 1
+    },
+    {
+      "id": "f_arm_l1_k2",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Ararat Yerevan",
+      "desc": "Legendárny jerevanský klub, majster ZSSR z roku 1973.",
+      "url": "https://fcararat.am/en/",
+      "order": 2
+    },
+    {
+      "id": "f_arm_l1_k3",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Ararat-Armenia",
+      "desc": "Jerevanský klub založený 2017, ktorý sa rýchlo stal majstrom Arménska — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/araratarmeniafc",
+      "order": 3
+    },
+    {
+      "id": "f_arm_l1_k4",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "am",
+      "name": "BKMA Yerevan",
+      "desc": "Jerevanský klub s koreňmi v armádnom športe — odkaz vedie na oficiálny Facebook (vlastná doména je fanúšikovská).",
+      "url": "https://www.facebook.com/bkmayerevan/",
+      "order": 4
+    },
+    {
+      "id": "f_arm_l1_k5",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Gandzasar Kapan",
+      "desc": "Klub z banského mesta Kapan na juhu Arménska — odkaz vedie na oficiálny Instagram.",
+      "url": "https://www.instagram.com/fcgandzasarkapanofficial/",
+      "order": 5
+    },
+    {
+      "id": "f_arm_l1_k6",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Noah",
+      "desc": "Ambiciózny jerevanský klub (Abovjan), čerstvý majster Arménska.",
+      "url": "https://noah.am/en",
+      "order": 6
+    },
+    {
+      "id": "f_arm_l1_k7",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Pyunik",
+      "desc": "Rekordný majster Arménska z Jerevanu.",
+      "url": "https://fcpyunik.am/en",
+      "order": 7
+    },
+    {
+      "id": "f_arm_l1_k8",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Sardarapat",
+      "desc": "Klub z Armaviru spolupracujúci s francúzskym RC Lens.",
+      "url": "https://www.sardarapatfc.am/",
+      "order": 8
+    },
+    {
+      "id": "f_arm_l1_k9",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Shirak",
+      "desc": "Klub z Gjumri, tradičný majster Arménska zo severu krajiny.",
+      "url": "https://fcshirak.am/",
+      "order": 9
+    },
+    {
+      "id": "f_arm_l1_k10",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Syunik",
+      "desc": "Klub z Kapanu v Sjunickej oblasti — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/syunikfc/",
+      "order": 10
+    },
+    {
+      "id": "f_arm_l1_k11",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Urartu",
+      "desc": "Jerevanský klub (bývalý Banants), majster Arménska 2014.",
+      "url": "https://www.fcurartu.am/en/",
+      "order": 11
+    },
+    {
+      "id": "f_arm_l1_k12",
+      "parentId": "f_arm_l1",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Van",
+      "desc": "Klub z Charencavanu v Kotajskej oblasti — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/FCVAN2019/",
+      "order": 12
+    },
+    {
+      "id": "f_arm_l2_k1",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Andranik",
+      "desc": "Klub zo Sevanu — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/p/Andranik-FC-61556898674836/",
+      "order": 1
+    },
+    {
+      "id": "f_arm_l2_k2",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Araks Ararat",
+      "desc": "Klub z mesta Ararat (bývalý cementársky klub) — odkaz vedie na oficiálny Instagram.",
+      "url": "https://www.instagram.com/araksararat/",
+      "order": 2
+    },
+    {
+      "id": "f_arm_l2_k3",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Bentonit",
+      "desc": "Klub z Vanadzoru pomenovaný podľa nerastu bentonit — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/fcbentonit/",
+      "order": 3
+    },
+    {
+      "id": "f_arm_l2_k4",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Hayq",
+      "desc": "Arménsky druholigový klub — odkaz vedie na profil klubu (klub nemá vlastný web).",
+      "url": "https://us.soccerway.com/teams/armenia/hayq/69835/",
+      "order": 4
+    },
+    {
+      "id": "f_arm_l2_k5",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "Lernayin Artsakh",
+      "desc": "Klub s koreňmi v Karabachu, dnes registrovaný vo Vajku — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/LernayinArtsakh/",
+      "order": 5
+    },
+    {
+      "id": "f_arm_l2_k6",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Mika",
+      "desc": "Obnovený jerevanský klub, bývalý účastník najvyššej súťaže — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/p/FC-MIKA-Yerevan-100057351464466/",
+      "order": 6
+    },
+    {
+      "id": "f_arm_l2_k7",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "Olympia Yerevan",
+      "desc": "Mladý jerevanský klub — odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/p/Olympia-FC-Armenia-61553209914742/",
+      "order": 7
+    },
+    {
+      "id": "f_arm_l2_k8",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "Ararat-Armenia 2",
+      "desc": "Rezervný B-tím FC Ararat-Armenia — odkaz vedie na oficiálny Facebook materského klubu.",
+      "url": "https://www.facebook.com/araratarmeniafc",
+      "order": 8
+    },
+    {
+      "id": "f_arm_l2_k9",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ararat Yerevan 2",
+      "desc": "Rezervný B-tím FC Ararat Yerevan — odkaz vedie na web materského klubu.",
+      "url": "https://fcararat.am/en/",
+      "order": 9
+    },
+    {
+      "id": "f_arm_l2_k10",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "BKMA 2",
+      "desc": "Rezervný B-tím BKMA Yerevan — odkaz vedie na oficiálny Facebook materského klubu.",
+      "url": "https://www.facebook.com/bkmayerevan/",
+      "order": 10
+    },
+    {
+      "id": "f_arm_l2_k11",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "am",
+      "name": "FC Gandzasar 2",
+      "desc": "Rezervný B-tím FC Gandzasar Kapan — odkaz vedie na oficiálny Instagram materského klubu.",
+      "url": "https://www.instagram.com/fcgandzasarkapanofficial/",
+      "order": 11
+    },
+    {
+      "id": "f_arm_l2_k12",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Noah 2",
+      "desc": "Rezervný B-tím FC Noah — odkaz vedie na web materského klubu.",
+      "url": "https://noah.am/en",
+      "order": 12
+    },
+    {
+      "id": "f_arm_l2_k13",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Pyunik Yerevan 2",
+      "desc": "Rezervný B-tím FC Pyunik — odkaz vedie na web materského klubu.",
+      "url": "https://fcpyunik.am/en",
+      "order": 13
+    },
+    {
+      "id": "f_arm_l2_k14",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sardarapat 2",
+      "desc": "Rezervný B-tím FC Sardarapat — odkaz vedie na web materského klubu.",
+      "url": "https://www.sardarapatfc.am/",
+      "order": 14
+    },
+    {
+      "id": "f_arm_l2_k15",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Shirak Gyumri 2",
+      "desc": "Rezervný B-tím FC Shirak — odkaz vedie na web materského klubu.",
+      "url": "https://fcshirak.am/",
+      "order": 15
+    },
+    {
+      "id": "f_arm_l2_k16",
+      "parentId": "f_arm_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Urartu 2",
+      "desc": "Rezervný B-tím FC Urartu — odkaz vedie na web materského klubu.",
+      "url": "https://www.fcurartu.am/en/",
+      "order": 16
+    },
+    {
+      "id": "n1779966054647eii",
+      "parentId": "f_hok_sut_gl",
+      "type": "link",
+      "icon": "",
+      "name": "MS divízia 2A",
+      "desc": "MS mužov — 2. divízia, skupina A",
+      "url": "https://www.iihf.com/en/events/2026/wm",
+      "order": 3
     }
   ]
 }
