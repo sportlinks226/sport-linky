@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -42049,6 +42049,1776 @@
       "desc": "MS mužov — 2. divízia, skupina A",
       "url": "https://www.iihf.com/en/events/2026/wm",
       "order": 3
+    },
+    {
+      "id": "f_ita_l1",
+      "parentId": "f_fut_klu_eu_ita",
+      "type": "folder",
+      "icon": "",
+      "name": "Serie A",
+      "desc": "Najvyššia talianska súťaž — 20 klubov, jedna z piatich najsilnejších líg Európy.",
+      "order": 1,
+      "slug": "serie-a"
+    },
+    {
+      "id": "f_ita_l2",
+      "parentId": "f_fut_klu_eu_ita",
+      "type": "folder",
+      "icon": "",
+      "name": "Serie B",
+      "desc": "Druhá najvyššia talianska súťaž — 20 klubov, tzv. „cadetteria“.",
+      "order": 2,
+      "slug": "serie-b"
+    },
+    {
+      "id": "f_ita_l3a",
+      "parentId": "f_fut_klu_eu_ita",
+      "type": "folder",
+      "icon": "",
+      "name": "Serie C – skupina A",
+      "desc": "Tretia úroveň, severná skupina A — kluby zo severného Talianska (sezóna 2026/27, provizórne zloženie).",
+      "order": 3,
+      "slug": "serie-c-skupina-a"
+    },
+    {
+      "id": "f_ita_l3b",
+      "parentId": "f_fut_klu_eu_ita",
+      "type": "folder",
+      "icon": "",
+      "name": "Serie C – skupina B",
+      "desc": "Tretia úroveň, stredná skupina B — kluby zo stredného Talianska (sezóna 2026/27, provizórne zloženie).",
+      "order": 4,
+      "slug": "serie-c-skupina-b"
+    },
+    {
+      "id": "f_ita_l3c",
+      "parentId": "f_fut_klu_eu_ita",
+      "type": "folder",
+      "icon": "",
+      "name": "Serie C – skupina C",
+      "desc": "Tretia úroveň, južná skupina C — kluby z južného Talianska a ostrovov (sezóna 2026/27, provizórne zloženie).",
+      "order": 5,
+      "slug": "serie-c-skupina-c"
+    },
+    {
+      "id": "f_ita_l1_k1",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Atalanta",
+      "desc": "Bergamo, „La Dea“ — pravidelný účastník európskych pohárov a víťaz Európskej ligy 2024.",
+      "url": "https://www.atalanta.it/",
+      "order": 1
+    },
+    {
+      "id": "f_ita_l1_k2",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bologna",
+      "desc": "Bologna, „rossoblù“ — jeden z najstarších klubov a sedemnásobný majster Talianska.",
+      "url": "https://www.bolognafc.it/",
+      "order": 2
+    },
+    {
+      "id": "f_ita_l1_k3",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Cagliari",
+      "desc": "Hlavné mesto Sardínie; majster z roku 1970 z éry Gigiho Rivu.",
+      "url": "https://cagliaricalcio.com/",
+      "order": 3
+    },
+    {
+      "id": "f_ita_l1_k4",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Como 1907",
+      "desc": "Mesto pri Comskom jazere; po návrate medzi elitu s ambicióznymi majiteľmi.",
+      "url": "https://comofootball.com/",
+      "order": 4
+    },
+    {
+      "id": "f_ita_l1_k5",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Fiorentina",
+      "desc": "Florencia, „Viola“ — dvojnásobný majster Talianska.",
+      "url": "https://www.acffiorentina.com/",
+      "order": 5
+    },
+    {
+      "id": "f_ita_l1_k6",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Frosinone",
+      "desc": "Mesto v Lazie, „canarini“ — po postupe späť v najvyššej súťaži.",
+      "url": "https://www.frosinonecalcio.com/",
+      "order": 6
+    },
+    {
+      "id": "f_ita_l1_k7",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Genoa",
+      "desc": "Najstarší taliansky klub (1893), deväťnásobný majster, „il Grifone“.",
+      "url": "https://genoacfc.it/",
+      "order": 7
+    },
+    {
+      "id": "f_ita_l1_k8",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Inter",
+      "desc": "Miláno, „Nerazzurri“ — rekordne úspešný klub, majster Európy 2010.",
+      "url": "https://www.inter.it/",
+      "order": 8
+    },
+    {
+      "id": "f_ita_l1_k9",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Juventus",
+      "desc": "Turín, „Stará dáma“ — rekordný majster Talianska.",
+      "url": "https://www.juventus.com/",
+      "order": 9
+    },
+    {
+      "id": "f_ita_l1_k10",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Lazio",
+      "desc": "Rím, „biancocelesti“ — dvojnásobný majster Talianska.",
+      "url": "https://www.sslazio.it/",
+      "order": 10
+    },
+    {
+      "id": "f_ita_l1_k11",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Lecce",
+      "desc": "Apúlia, „giallorossi“ — klub z päty talianskej čižmy.",
+      "url": "https://uslecce.it/",
+      "order": 11
+    },
+    {
+      "id": "f_ita_l1_k12",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AC Milan",
+      "desc": "Miláno, „Rossoneri“ — sedemnásobný víťaz Ligy majstrov/PMEZ.",
+      "url": "https://www.acmilan.com/",
+      "order": 12
+    },
+    {
+      "id": "f_ita_l1_k13",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Monza",
+      "desc": "Lombardsko; po postupe návrat do Serie A.",
+      "url": "https://www.acmonza.com/",
+      "order": 13
+    },
+    {
+      "id": "f_ita_l1_k14",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Napoli",
+      "desc": "Neapol, „Partenopei“ — majster Talianska a klub spätý s Diegom Maradonom.",
+      "url": "https://sscnapoli.it/",
+      "order": 14
+    },
+    {
+      "id": "f_ita_l1_k15",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Parma",
+      "desc": "Emilia, „gialloblù“ — víťaz Pohára UEFA 1995 a 1999.",
+      "url": "https://www.parmacalcio1913.com/",
+      "order": 15
+    },
+    {
+      "id": "f_ita_l1_k16",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Roma",
+      "desc": "Rím, „giallorossi“ — trojnásobný majster Talianska.",
+      "url": "https://www.asroma.com/",
+      "order": 16
+    },
+    {
+      "id": "f_ita_l1_k17",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sassuolo",
+      "desc": "Mestečko v Emilii, „neroverdi“ — po postupe návrat do Serie A.",
+      "url": "https://www.sassuolocalcio.it/",
+      "order": 17
+    },
+    {
+      "id": "f_ita_l1_k18",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Torino",
+      "desc": "Turín, „il Toro“ — sedemnásobný majster a dedičstvo Grande Torino.",
+      "url": "https://www.torinofc.it/",
+      "order": 18
+    },
+    {
+      "id": "f_ita_l1_k19",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Udinese",
+      "desc": "Furlansko, „zebrette“ — dlhodobo stabilný prvoligista.",
+      "url": "https://www.udinese.it/",
+      "order": 19
+    },
+    {
+      "id": "f_ita_l1_k20",
+      "parentId": "f_ita_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Venezia",
+      "desc": "Benátky, „arancioneroverdi“ — po postupe návrat do Serie A.",
+      "url": "https://www.veneziafc.it/",
+      "order": 20
+    },
+    {
+      "id": "f_ita_l2_k1",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Arezzo",
+      "desc": "Toskánsko, „amaranto“.",
+      "url": "https://ssarezzo.it/",
+      "order": 1
+    },
+    {
+      "id": "f_ita_l2_k2",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ascoli",
+      "desc": "Marky; jeden z najstarších klubov (1898), „bianconeri“.",
+      "url": "https://www.ascolicalcio1898.it/",
+      "order": 2
+    },
+    {
+      "id": "f_ita_l2_k3",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Avellino",
+      "desc": "Kampánia (Irpinia), „lupi“ (vlci).",
+      "url": "https://www.usavellino1912.com/",
+      "order": 3
+    },
+    {
+      "id": "f_ita_l2_k4",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Benevento",
+      "desc": "Kampánia, „stregoni“ (čarodejníci).",
+      "url": "https://www.beneventocalcio.club/",
+      "order": 4
+    },
+    {
+      "id": "f_ita_l2_k5",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Carrarese",
+      "desc": "Carrara (Toskánsko), mesto mramoru, „azzurri“.",
+      "url": "https://carraresecalcio1908.it/",
+      "order": 5
+    },
+    {
+      "id": "f_ita_l2_k6",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Catanzaro",
+      "desc": "Kalábria, „le Aquile“ (orly).",
+      "url": "https://www.uscatanzaro1929.com/",
+      "order": 6
+    },
+    {
+      "id": "f_ita_l2_k7",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Cesena",
+      "desc": "Emilia-Romagna, „bianconeri“.",
+      "url": "https://cesenafc.com/",
+      "order": 7
+    },
+    {
+      "id": "f_ita_l2_k8",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Cremonese",
+      "desc": "Cremona, „grigiorossi“.",
+      "url": "https://www.uscremonese.it/",
+      "order": 8
+    },
+    {
+      "id": "f_ita_l2_k9",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Empoli",
+      "desc": "Toskánsko, „azzurri“ — klub známy výchovou mladých talentov.",
+      "url": "https://www.empolifc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_ita_l2_k10",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Hellas Verona",
+      "desc": "Verona, „gialloblù“ — prekvapivý majster Talianska 1985.",
+      "url": "https://www.hellasverona.it/",
+      "order": 10
+    },
+    {
+      "id": "f_ita_l2_k11",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Juve Stabia",
+      "desc": "Castellammare di Stabia, „le vespe“ (osy).",
+      "url": "https://www.ssjuvestabia.it/",
+      "order": 11
+    },
+    {
+      "id": "f_ita_l2_k12",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Mantova",
+      "desc": "Lombardsko, „virgiliani“.",
+      "url": "https://www.mantova1911.club/",
+      "order": 12
+    },
+    {
+      "id": "f_ita_l2_k13",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Modena",
+      "desc": "Emilia, „canarini“ (kanáriky).",
+      "url": "https://modenacalcio.com/",
+      "order": 13
+    },
+    {
+      "id": "f_ita_l2_k14",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Padova",
+      "desc": "Veneto, „biancoscudati“.",
+      "url": "https://www.padovacalcio.it/",
+      "order": 14
+    },
+    {
+      "id": "f_ita_l2_k15",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Palermo",
+      "desc": "Sicília, „rosanero“.",
+      "url": "https://www.palermofc.com/",
+      "order": 15
+    },
+    {
+      "id": "f_ita_l2_k16",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Pisa",
+      "desc": "Toskánsko, mesto šikmej veže, „nerazzurri“.",
+      "url": "https://pisasportingclub.com/",
+      "order": 16
+    },
+    {
+      "id": "f_ita_l2_k17",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sampdoria",
+      "desc": "Janov, „blucerchiati“ — majster Talianska 1991.",
+      "url": "https://www.sampdoria.it/",
+      "order": 17
+    },
+    {
+      "id": "f_ita_l2_k18",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Südtirol",
+      "desc": "Bolzano (Južné Tirolsko), „biancorossi“.",
+      "url": "https://www.fc-suedtirol.com/",
+      "order": 18
+    },
+    {
+      "id": "f_ita_l2_k19",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Vicenza",
+      "desc": "Veneto, „biancorossi“ — víťaz Pohára Talianska 1997.",
+      "url": "https://www.lrvicenza.net/",
+      "order": 19
+    },
+    {
+      "id": "f_ita_l2_k20",
+      "parentId": "f_ita_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Virtus Entella",
+      "desc": "Chiavari (Ligúria), „biancocelesti“.",
+      "url": "https://www.entella.it/",
+      "order": 20
+    },
+    {
+      "id": "f_ita_l3a_k1",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "AlbinoLeffe",
+      "desc": "Kluby Albino a Leffe v provincii Bergamo (Lombardsko).",
+      "url": "https://www.albinoleffe.com/",
+      "order": 1
+    },
+    {
+      "id": "f_ita_l3a_k2",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Alcione Milano",
+      "desc": "Miláno, „orange“ — nováčik v profesionálnom futbale.",
+      "url": "https://www.alcionemilano.it/",
+      "order": 2
+    },
+    {
+      "id": "f_ita_l3a_k3",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Arzignano Valchiampo",
+      "desc": "Provincia Vicenza (Veneto).",
+      "url": "https://www.arzignanovalchiampo.it/",
+      "order": 3
+    },
+    {
+      "id": "f_ita_l3a_k4",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Carpi",
+      "desc": "Emilia, „biancorossi“.",
+      "url": "https://www.carpicalcio.it/",
+      "order": 4
+    },
+    {
+      "id": "f_ita_l3a_k5",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Cittadella",
+      "desc": "Veneto, „granata“.",
+      "url": "https://www.ascittadella.it/",
+      "order": 5
+    },
+    {
+      "id": "f_ita_l3a_k6",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Desenzano",
+      "desc": "Desenzano del Garda (Lombardsko).",
+      "url": "https://www.calciodesenzano.it/",
+      "order": 6
+    },
+    {
+      "id": "f_ita_l3a_k7",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Dolomiti Bellunesi",
+      "desc": "Belluno, klub v srdci Dolomít.",
+      "url": "https://www.dolomitibellunesicalcio.com/",
+      "order": 7
+    },
+    {
+      "id": "f_ita_l3a_k8",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Folgore Caratese",
+      "desc": "Carate Brianza (Lombardsko).",
+      "url": "https://www.folgorecaratese.it/",
+      "order": 8
+    },
+    {
+      "id": "f_ita_l3a_k9",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Giana Erminio",
+      "desc": "Gorgonzola pri Miláne.",
+      "url": "https://www.asgiana.com/",
+      "order": 9
+    },
+    {
+      "id": "f_ita_l3a_k10",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Juventus Next Gen",
+      "desc": "Rezervný B-tím Juventusu — odkaz vedie na web materského klubu.",
+      "url": "https://www.juventus.com/",
+      "order": 10
+    },
+    {
+      "id": "f_ita_l3a_k11",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Lecco",
+      "desc": "Mesto pri jazere Como, „blucelesti“.",
+      "url": "https://calciolecco1912.com/",
+      "order": 11
+    },
+    {
+      "id": "f_ita_l3a_k12",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Lumezzane",
+      "desc": "Provincia Brescia (Lombardsko).",
+      "url": "https://www.fclumezzane.it/",
+      "order": 12
+    },
+    {
+      "id": "f_ita_l3a_k13",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Novara",
+      "desc": "Piemont, „azzurri“.",
+      "url": "https://www.novarafootballclub.it/",
+      "order": 13
+    },
+    {
+      "id": "f_ita_l3a_k14",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Ospitaletto",
+      "desc": "Franciacorta (provincia Brescia).",
+      "url": "https://www.acospitalettofranciacorta.com/",
+      "order": 14
+    },
+    {
+      "id": "f_ita_l3a_k15",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Pergolettese",
+      "desc": "Crema (provincia Cremona).",
+      "url": "https://www.uspergolettese1932.it/",
+      "order": 15
+    },
+    {
+      "id": "f_ita_l3a_k16",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Pro Vercelli",
+      "desc": "Piemont; sedemnásobný majster z počiatkov talianskej ligy.",
+      "url": "https://www.fcprovercelli.it/",
+      "order": 16
+    },
+    {
+      "id": "f_ita_l3a_k17",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Renate",
+      "desc": "Brianza (Lombardsko), „pantere“ (pantery).",
+      "url": "https://www.acrenate.it/",
+      "order": 17
+    },
+    {
+      "id": "f_ita_l3a_k18",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Trento",
+      "desc": "Trentino, „gialloblù“.",
+      "url": "https://www.actrento.com/",
+      "order": 18
+    },
+    {
+      "id": "f_ita_l3a_k19",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Treviso",
+      "desc": "Veneto, „biancocelesti“.",
+      "url": "https://trevisocalcio.tv/",
+      "order": 19
+    },
+    {
+      "id": "f_ita_l3a_k20",
+      "parentId": "f_ita_l3a",
+      "type": "link",
+      "icon": "",
+      "name": "Union Brescia",
+      "desc": "Brescia; klub vzniknutý presunom Feralpisalò po zániku Brescia Calcio.",
+      "url": "https://unionbrescia.com/",
+      "order": 20
+    },
+    {
+      "id": "f_ita_l3b_k1",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Atalanta U23",
+      "desc": "Rezervný tím Atalanty — odkaz vedie na web materského klubu.",
+      "url": "https://www.atalanta.it/",
+      "order": 1
+    },
+    {
+      "id": "f_ita_l3b_k2",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Campobasso",
+      "desc": "Molise, „lupi“ (vlci).",
+      "url": "https://cb1919.com/",
+      "order": 2
+    },
+    {
+      "id": "f_ita_l3b_k3",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Forlì",
+      "desc": "Emilia-Romagna, „galletti“.",
+      "url": "https://www.forlifc.com/",
+      "order": 3
+    },
+    {
+      "id": "f_ita_l3b_k4",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "it",
+      "name": "Grosseto",
+      "desc": "Toskánsko; provizórne zaradený do Serie C (aktuálne Serie D, čaká na ripescaggio) — oficiálny Facebook.",
+      "url": "https://www.facebook.com/usgrosseto1912official/",
+      "order": 4
+    },
+    {
+      "id": "f_ita_l3b_k5",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Gubbio",
+      "desc": "Umbria, „rossoblù“.",
+      "url": "https://www.asgubbio1910.net/",
+      "order": 5
+    },
+    {
+      "id": "f_ita_l3b_k6",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Guidonia Montecelio",
+      "desc": "Lazio.",
+      "url": "https://www.guidoniamonteceliofc.it/",
+      "order": 6
+    },
+    {
+      "id": "f_ita_l3b_k7",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Latina",
+      "desc": "Lazio, „nerazzurri“.",
+      "url": "https://latinacalcio1932.it/",
+      "order": 7
+    },
+    {
+      "id": "f_ita_l3b_k8",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Livorno",
+      "desc": "Toskánsko, „amaranto“.",
+      "url": "https://www.uslivorno.com/",
+      "order": 8
+    },
+    {
+      "id": "f_ita_l3b_k9",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Ostiamare",
+      "desc": "Ostia (Rím); návrat do profi futbalu po 35 rokoch.",
+      "url": "https://www.ostiamare.it/",
+      "order": 9
+    },
+    {
+      "id": "f_ita_l3b_k10",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Perugia",
+      "desc": "Umbria, „il Grifo“.",
+      "url": "https://acperugiacalcio.com/",
+      "order": 10
+    },
+    {
+      "id": "f_ita_l3b_k11",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Pescara",
+      "desc": "Abruzzo, „il Delfino“ (delfín).",
+      "url": "https://www.pescaracalcio.com/",
+      "order": 11
+    },
+    {
+      "id": "f_ita_l3b_k12",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Pianese",
+      "desc": "Piancastagnaio (provincia Siena).",
+      "url": "https://uspianese.it/",
+      "order": 12
+    },
+    {
+      "id": "f_ita_l3b_k13",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Pineto",
+      "desc": "Abruzzo.",
+      "url": "https://www.pinetocalcio.it/",
+      "order": 13
+    },
+    {
+      "id": "f_ita_l3b_k14",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Ravenna",
+      "desc": "Emilia-Romagna, „giallorossi“.",
+      "url": "https://www.ravennafc.it/",
+      "order": 14
+    },
+    {
+      "id": "f_ita_l3b_k15",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Reggiana",
+      "desc": "Reggio Emilia, „granata“.",
+      "url": "https://reggianacalcio.it/",
+      "order": 15
+    },
+    {
+      "id": "f_ita_l3b_k16",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Sambenedettese",
+      "desc": "San Benedetto del Tronto (Marky), „rossoblù“.",
+      "url": "https://www.ussambenedettese.it/",
+      "order": 16
+    },
+    {
+      "id": "f_ita_l3b_k17",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Spezia",
+      "desc": "La Spezia (Ligúria), „aquilotti“.",
+      "url": "https://www.speziacalcio.com/",
+      "order": 17
+    },
+    {
+      "id": "f_ita_l3b_k18",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Torres",
+      "desc": "Sassari (Sardínia), „rossoblù“.",
+      "url": "https://seftorrescalcio.it/",
+      "order": 18
+    },
+    {
+      "id": "f_ita_l3b_k19",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Vado",
+      "desc": "Ligúria; víťaz historicky prvého Pohára Talianska (1922).",
+      "url": "https://www.vadofc.it/",
+      "order": 19
+    },
+    {
+      "id": "f_ita_l3b_k20",
+      "parentId": "f_ita_l3b",
+      "type": "link",
+      "icon": "",
+      "name": "Vis Pesaro",
+      "desc": "Marky, „biancorossi“.",
+      "url": "https://www.vispesaro1898.it/",
+      "order": 20
+    },
+    {
+      "id": "f_ita_l3c_k1",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Audace Cerignola",
+      "desc": "Apúlia, „gialloblù“.",
+      "url": "https://www.audacecerignola.it/",
+      "order": 1
+    },
+    {
+      "id": "f_ita_l3c_k2",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "AZ Picerno",
+      "desc": "Basilicata (provincia Potenza).",
+      "url": "https://www.azpicerno.com/",
+      "order": 2
+    },
+    {
+      "id": "f_ita_l3c_k3",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Bari",
+      "desc": "Apúlia, „galletti“ — tradičný klub a bývalý prvoligista.",
+      "url": "https://www.sscalciobari.it/",
+      "order": 3
+    },
+    {
+      "id": "f_ita_l3c_k4",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Barletta",
+      "desc": "Apúlia, „biancorossi“.",
+      "url": "https://www.barletta1922.com/",
+      "order": 4
+    },
+    {
+      "id": "f_ita_l3c_k5",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Casarano",
+      "desc": "Apúlia (Salento).",
+      "url": "https://www.casaranocalcio.com/",
+      "order": 5
+    },
+    {
+      "id": "f_ita_l3c_k6",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Casertana",
+      "desc": "Kampánia, „falchetti“.",
+      "url": "https://www.casertanafc.it/",
+      "order": 6
+    },
+    {
+      "id": "f_ita_l3c_k7",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Catania",
+      "desc": "Sicília, „rossazzurri“ — klub s veľkou fanúšikovskou základňou.",
+      "url": "https://www.cataniafc.it/",
+      "order": 7
+    },
+    {
+      "id": "f_ita_l3c_k8",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Cavese",
+      "desc": "Cava de' Tirreni (Kampánia), „aquilotti“.",
+      "url": "https://www.cavese1919.com/",
+      "order": 8
+    },
+    {
+      "id": "f_ita_l3c_k9",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Cosenza",
+      "desc": "Kalábria, „lupi silani“.",
+      "url": "https://www.ilcosenza.it/",
+      "order": 9
+    },
+    {
+      "id": "f_ita_l3c_k10",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Crotone",
+      "desc": "Kalábria, „pitagorici“ — bývalý prvoligista.",
+      "url": "https://www.fccrotone.it/",
+      "order": 10
+    },
+    {
+      "id": "f_ita_l3c_k11",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Foggia",
+      "desc": "Apúlia, „satanelli“; provizórne — admisia do Serie C ešte nepotvrdená.",
+      "url": "https://www.calciofoggia1920.net/",
+      "order": 11
+    },
+    {
+      "id": "f_ita_l3c_k12",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Giugliano",
+      "desc": "Giugliano in Campania (Kampánia).",
+      "url": "https://www.giugliano1928.it/",
+      "order": 12
+    },
+    {
+      "id": "f_ita_l3c_k13",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Inter U23",
+      "desc": "Rezervný tím Interu — odkaz vedie na web materského klubu.",
+      "url": "https://www.inter.it/",
+      "order": 13
+    },
+    {
+      "id": "f_ita_l3c_k14",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Monopoli",
+      "desc": "Apúlia, „gabbiani“ (čajky).",
+      "url": "https://www.monopolicalcio.it/",
+      "order": 14
+    },
+    {
+      "id": "f_ita_l3c_k15",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Potenza",
+      "desc": "Basilicata, „leoni“ (levy).",
+      "url": "https://www.potenzacalcio.eu/",
+      "order": 15
+    },
+    {
+      "id": "f_ita_l3c_k16",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Salernitana",
+      "desc": "Salerno (Kampánia), „granata“ — bývalý prvoligista.",
+      "url": "https://salernitana.it/",
+      "order": 16
+    },
+    {
+      "id": "f_ita_l3c_k17",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "it",
+      "name": "Savoia",
+      "desc": "Torre Annunziata (Neapol); provizórne zaradený do Serie C (aktuálne Serie D, čaká na ripescaggio) — oficiálny Facebook.",
+      "url": "https://www.facebook.com/savoia1908officialpage/",
+      "order": 17
+    },
+    {
+      "id": "f_ita_l3c_k18",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Scafatese",
+      "desc": "Scafati (Kampánia).",
+      "url": "https://www.scafatesecalcio.it/",
+      "order": 18
+    },
+    {
+      "id": "f_ita_l3c_k19",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Sorrento",
+      "desc": "Sorrentský polostrov (Kampánia).",
+      "url": "https://www.fcsorrento.com/",
+      "order": 19
+    },
+    {
+      "id": "f_ita_l3c_k20",
+      "parentId": "f_ita_l3c",
+      "type": "link",
+      "icon": "",
+      "name": "Team Altamura",
+      "desc": "Altamura (Apúlia).",
+      "url": "https://teamaltamura.com/",
+      "order": 20
+    },
+    {
+      "id": "f_tur_l1",
+      "parentId": "f_fut_klu_eu_tur",
+      "type": "folder",
+      "icon": "",
+      "name": "Süper Lig",
+      "desc": "Najvyššia turecká súťaž — 18 klubov, jedna z najsilnejších líg mimo veľkej päťky (sezóna 2026/27).",
+      "order": 1,
+      "slug": "super-lig"
+    },
+    {
+      "id": "f_tur_l2",
+      "parentId": "f_fut_klu_eu_tur",
+      "type": "folder",
+      "icon": "",
+      "name": "1. Lig",
+      "desc": "Druhá najvyššia turecká súťaž (TFF 1. Lig) — 20 klubov (sezóna 2026/27).",
+      "order": 2,
+      "slug": "1-lig"
+    },
+    {
+      "id": "f_tur_l1_k1",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Alanyaspor",
+      "desc": "Alanya (Antalya), „Akdeniz Fırtınası“ — klub z turistického letoviska, stabilný účastník Süper Ligy.",
+      "url": "https://www.alanyaspor.org.tr/",
+      "order": 1
+    },
+    {
+      "id": "f_tur_l1_k2",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Amedspor",
+      "desc": "Diyarbakır, symbol kurdského juhovýchodu — do Süper Ligy postúpil prvýkrát v histórii (2026).",
+      "url": "https://www.amedspor.com.tr/",
+      "order": 2
+    },
+    {
+      "id": "f_tur_l1_k3",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Beşiktaş",
+      "desc": "Istanbul, „Kara Kartallar“ (Čierne orly) — jeden z troch veľkoklubov, hrá na štadióne Tüpraş.",
+      "url": "https://bjk.com.tr/",
+      "order": 3
+    },
+    {
+      "id": "f_tur_l1_k4",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Çorum FK",
+      "desc": "Çorum v strednej Anatólii — nováčik, ktorý postúpil do Süper Ligy prvýkrát v histórii (2026).",
+      "url": "https://corumfk.com.tr/",
+      "order": 4
+    },
+    {
+      "id": "f_tur_l1_k5",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Erzurumspor FK",
+      "desc": "Erzurum vo východnej Anatólii — po piatich rokoch sa vrátil do Süper Ligy.",
+      "url": "https://erzurumsporfk.org/",
+      "order": 5
+    },
+    {
+      "id": "f_tur_l1_k6",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Eyüpspor",
+      "desc": "Istanbulská štvrť Eyüpsultan — mladý ambiciózny klub, ktorý sa etabloval v Süper Lige.",
+      "url": "https://www.eyupspor.org.tr/",
+      "order": 6
+    },
+    {
+      "id": "f_tur_l1_k7",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Fenerbahçe",
+      "desc": "Istanbul (Kadıköy), „Sarı Kanaryalar“ — jeden z najúspešnejších a najpopulárnejších tureckých klubov.",
+      "url": "https://www.fenerbahce.org/",
+      "order": 7
+    },
+    {
+      "id": "f_tur_l1_k8",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Galatasaray",
+      "desc": "Istanbul, „Cim Bom“ — rekordný majster Turecka a jediný turecký víťaz Pohára UEFA (2000).",
+      "url": "https://www.galatasaray.org/",
+      "order": 8
+    },
+    {
+      "id": "f_tur_l1_k9",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Gaziantep FK",
+      "desc": "Gaziantep pri sýrskej hranici — klub založený 2010 ako nástupca zaniknutého Gaziantepsporu.",
+      "url": "https://www.gaziantepfk.org/",
+      "order": 9
+    },
+    {
+      "id": "f_tur_l1_k10",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Gençlerbirliği",
+      "desc": "Ankara, „Ankara Rüzgârı“ — tradičný hlavnomestský klub červeno-čiernych.",
+      "url": "https://genclerbirligi.org.tr/",
+      "order": 10
+    },
+    {
+      "id": "f_tur_l1_k11",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Göztepe",
+      "desc": "İzmir, „Göz-Göz“ — historický egejský klub s vášnivými fanúšikmi.",
+      "url": "https://www.goztepe.org.tr/",
+      "order": 11
+    },
+    {
+      "id": "f_tur_l1_k12",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "İstanbul Başakşehir",
+      "desc": "Istanbulská štvrť Başakşehir — majster Turecka 2020, klub podporovaný mestom.",
+      "url": "https://ibfk.com.tr/",
+      "order": 12
+    },
+    {
+      "id": "f_tur_l1_k13",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kasımpaşa",
+      "desc": "Istanbulská štvrť Kasımpaşa — stabilný člen najvyššej súťaže z brehu Zlatého rohu.",
+      "url": "https://www.kasimpasa.com.tr/",
+      "order": 13
+    },
+    {
+      "id": "f_tur_l1_k14",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kocaelispor",
+      "desc": "İzmit (Kocaeli), „Körfez Fırtınası“ — tradičný klub, ktorý sa vrátil medzi elitu.",
+      "url": "https://kocaelispor.com.tr/",
+      "order": 14
+    },
+    {
+      "id": "f_tur_l1_k15",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Konyaspor",
+      "desc": "Konya v strednej Anatólii, „Anadolu Kartalı“ — majster Turecka 2017 a víťaz Superpohára.",
+      "url": "https://www.konyaspor.org.tr/",
+      "order": 15
+    },
+    {
+      "id": "f_tur_l1_k16",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Çaykur Rizespor",
+      "desc": "Rize pri Čiernom mori — klub spätý s čajovým regiónom (sponzor Çaykur), zeleno-modrí.",
+      "url": "https://www.caykurrizespor.org.tr/",
+      "order": 16
+    },
+    {
+      "id": "f_tur_l1_k17",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Samsunspor",
+      "desc": "Samsun pri Čiernom mori, „Yılport Samsunspor“ — jeden z najstarších klubov severného pobrežia.",
+      "url": "https://www.samsunspor.org.tr/",
+      "order": 17
+    },
+    {
+      "id": "f_tur_l1_k18",
+      "parentId": "f_tur_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Trabzonspor",
+      "desc": "Trabzon pri Čiernom mori, „Bordo-Mavi“ — šesťnásobný majster a prvý titul mimo Istanbulu.",
+      "url": "https://www.trabzonspor.org.tr/",
+      "order": 18
+    },
+    {
+      "id": "f_tur_l2_k1",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Antalyaspor",
+      "desc": "Antalya na stredomorskom pobreží — zostúpil zo Süper Ligy, hrá o rýchly návrat.",
+      "url": "https://www.antalyaspor.com.tr/",
+      "order": 1
+    },
+    {
+      "id": "f_tur_l2_k2",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bandırmaspor",
+      "desc": "Bandırma pri Marmarskom mori (Balıkesir) — stabilný druholigista.",
+      "url": "https://www.bandirmaspor.com.tr/",
+      "order": 2
+    },
+    {
+      "id": "f_tur_l2_k3",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Batman Petrolspor",
+      "desc": "Batman na juhovýchode — klub späť medzi profesionálmi po postupe.",
+      "url": "https://www.batmanpetrolsk.org/",
+      "order": 3
+    },
+    {
+      "id": "f_tur_l2_k4",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bodrum FK",
+      "desc": "Bodrum na egejskom pobreží (Muğla), „Sipay Bodrum FK“ — po zostupe zo Süper Ligy.",
+      "url": "https://bodrumspor.com/",
+      "order": 4
+    },
+    {
+      "id": "f_tur_l2_k5",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Boluspor",
+      "desc": "Bolu medzi Istanbulom a Ankarou — tradičný klub s dlhou druholigovou históriou.",
+      "url": "https://boluspor.org.tr/",
+      "order": 5
+    },
+    {
+      "id": "f_tur_l2_k6",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bursaspor",
+      "desc": "Bursa, „Yeşil Timsahlar“ (Zelené krokodíly) — majster Turecka 2010, stavia po finančnom páde.",
+      "url": "https://www.bursaspor.org.tr/",
+      "order": 6
+    },
+    {
+      "id": "f_tur_l2_k7",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Esenler Erokspor",
+      "desc": "Istanbulská štvrť Esenler — rýchlo stúpajúci klub, nováčik 1. Ligy.",
+      "url": "https://www.eroksporfk.com/",
+      "order": 7
+    },
+    {
+      "id": "f_tur_l2_k8",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Iğdır FK",
+      "desc": "Iğdır na krajnom východe pri arménskej hranici — mladý klub sponzora Alagöz Holding.",
+      "url": "https://igdirspor.com/",
+      "order": 8
+    },
+    {
+      "id": "f_tur_l2_k9",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "İstanbulspor",
+      "desc": "Istanbul — jeden z najstarších klubov mesta (1926), čierno-žltí z Büyükçekmece.",
+      "url": "https://www.istanbulspor.com.tr/",
+      "order": 9
+    },
+    {
+      "id": "f_tur_l2_k10",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Fatih Karagümrük",
+      "desc": "Istanbulská štvrť Fatih — tradičný klub červeno-čiernych, „Karagümrük“.",
+      "url": "https://www.karagumruk.com/",
+      "order": 10
+    },
+    {
+      "id": "f_tur_l2_k11",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kayserispor",
+      "desc": "Kayseri v strednej Anatólii, „Zecorner Kayserispor“ — po zostupe zo Süper Ligy.",
+      "url": "https://kayserispor.org.tr/",
+      "order": 11
+    },
+    {
+      "id": "f_tur_l2_k12",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Keçiörengücü",
+      "desc": "Ankarská štvrť Keçiören — hlavnomestský klub bordovo-modrých.",
+      "url": "https://www.keciorengucu.org.tr/",
+      "order": 12
+    },
+    {
+      "id": "f_tur_l2_k13",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Manisa FK",
+      "desc": "Manisa pri İzmire — čierno-biely egejský klub.",
+      "url": "https://manisafk.com/",
+      "order": 13
+    },
+    {
+      "id": "f_tur_l2_k14",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Mardin 1969 Spor",
+      "desc": "Mardin na juhovýchode — nováčik, ktorý postúpil cez play-off do 1. Ligy.",
+      "url": "https://www.mardin1969spor.com/",
+      "order": 14
+    },
+    {
+      "id": "f_tur_l2_k15",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Muğlaspor",
+      "desc": "Muğla na juhozápade — historický klub, ktorý sa vrátil medzi profesionálov.",
+      "url": "https://www.muglaspor.tr/",
+      "order": 15
+    },
+    {
+      "id": "f_tur_l2_k16",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Pendikspor",
+      "desc": "Istanbulská štvrť Pendik — klub z ázijskej strany mesta.",
+      "url": "https://www.pendikspor.org.tr/",
+      "order": 16
+    },
+    {
+      "id": "f_tur_l2_k17",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sarıyer",
+      "desc": "Istanbulská štvrť Sarıyer pri Bospore — tradičný klub, ktorý sa vrátil do 1. Ligy.",
+      "url": "https://www.sariyersporkulubu.com.tr/",
+      "order": 17
+    },
+    {
+      "id": "f_tur_l2_k18",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sivasspor",
+      "desc": "Sivas v strednej Anatólii, „Yiğidolar“ — po zostupe zo Süper Ligy, hral aj európske poháre.",
+      "url": "https://sivasspor.org.tr/",
+      "order": 18
+    },
+    {
+      "id": "f_tur_l2_k19",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ümraniyespor",
+      "desc": "Istanbulská štvrť Ümraniye — červeno-bieli z ázijskej strany mesta.",
+      "url": "https://www.umraniyespor.com.tr/",
+      "order": 19
+    },
+    {
+      "id": "f_tur_l2_k20",
+      "parentId": "f_tur_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Vanspor FK",
+      "desc": "Van na krajnom východe pri jazere Van, „Sizin Takımınız“ — klub východnej Anatólie.",
+      "url": "https://www.vansporfk.org.tr/",
+      "order": 20
+    },
+    {
+      "id": "f_cyp_l1",
+      "parentId": "f_fut_klu_eu_cyp",
+      "type": "folder",
+      "icon": "",
+      "name": "1. liga",
+      "desc": "Najvyššia cyperská súťaž (Cypriot First Division) — 14 klubov (sezóna 2026/27).",
+      "order": 1,
+      "slug": "1-liga"
+    },
+    {
+      "id": "f_cyp_l2",
+      "parentId": "f_fut_klu_eu_cyp",
+      "type": "folder",
+      "icon": "",
+      "name": "2. liga",
+      "desc": "Druhá najvyššia cyperská súťaž (Cypriot Second Division) — 16 klubov (sezóna 2026/27).",
+      "order": 2,
+      "slug": "2-liga"
+    },
+    {
+      "id": "f_cyp_l1_k1",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AEK Larnaca",
+      "desc": "Larnaka — vicemajster 2025/26 a pravidelný účastník európskych pohárov.",
+      "url": "https://www.aek.com.cy/",
+      "order": 1
+    },
+    {
+      "id": "f_cyp_l1_k2",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AEL Limassol",
+      "desc": "Limassol, „Athletic Union of Limassol“ — jeden z najstarších klubov ostrova, šesťnásobný majster.",
+      "url": "https://www.aelimassol.com/",
+      "order": 2
+    },
+    {
+      "id": "f_cyp_l1_k3",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Anorthosis Famagusta",
+      "desc": "Utečenecký klub z Famagusty (hrá v Larnake) — prvý cyperský tím v skupinovej fáze Ligy majstrov (2005).",
+      "url": "https://anorthosisfc.com.cy/",
+      "order": 3
+    },
+    {
+      "id": "f_cyp_l1_k4",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "APOEL",
+      "desc": "Nikózia — rekordný 29-násobný majster Cypru a najúspešnejší klub ostrova.",
+      "url": "https://apoelfc.com.cy/",
+      "order": 4
+    },
+    {
+      "id": "f_cyp_l1_k5",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Apollon Limassol",
+      "desc": "Limassol — štvornásobný majster, tradičný účastník európskych pohárov.",
+      "url": "https://www.apollon.com.cy/",
+      "order": 5
+    },
+    {
+      "id": "f_cyp_l1_k6",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aris Limassol",
+      "desc": "Limassol — majster 2022/23 (prvý titul), prekvapenie posledných rokov.",
+      "url": "https://arisfc.com/",
+      "order": 6
+    },
+    {
+      "id": "f_cyp_l1_k7",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Karmiotissa",
+      "desc": "Pano Polemidia pri Limassole — malý klub, ktorý sa prebojoval do najvyššej súťaže.",
+      "url": "https://karmiotissafc.football/",
+      "order": 7
+    },
+    {
+      "id": "f_cyp_l1_k8",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Krasava ENY Ypsonas",
+      "desc": "Ypsonas pri Limassole — klub s ruskými koreňmi (zal. 2021 v Moskve), nováčik najvyššej súťaže.",
+      "url": "https://krasavafc.com/",
+      "order": 8
+    },
+    {
+      "id": "f_cyp_l1_k9",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Nea Salamis Famagusta",
+      "desc": "Utečenecký klub z Famagusty (hrá v Larnake) — postúpil ako majster 2. ligy 2025/26.",
+      "url": "https://neasalamina.com/",
+      "order": 9
+    },
+    {
+      "id": "f_cyp_l1_k10",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "cy",
+      "name": "Olympiakos Nicosia",
+      "desc": "Nikózia — jeden zo zakladajúcich klubov cyperského futbalu (1931), trojnásobný majster.",
+      "url": "https://www.facebook.com/olympiakosnicosiafc/",
+      "order": 10
+    },
+    {
+      "id": "f_cyp_l1_k11",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Omonia 29M",
+      "desc": "Nikózia — klub založený 2018 fanúšikmi Omonie (Brána 9), rýchlo stúpa súťažami.",
+      "url": "https://o29m.com/",
+      "order": 11
+    },
+    {
+      "id": "f_cyp_l1_k12",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Omonia Aradippou",
+      "desc": "Aradippou pri Larnake — zeleno-bieli, ktorí sa prebojovali medzi elitu.",
+      "url": "https://omonoiaaradippou.com/",
+      "order": 12
+    },
+    {
+      "id": "f_cyp_l1_k13",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Omonia Nicosia",
+      "desc": "Nikózia, „mavroprasini“ (zeleno-čierni) — 22-násobný majster a jeden z najpopulárnejších klubov.",
+      "url": "https://www.omonoiafc.com.cy/",
+      "order": 13
+    },
+    {
+      "id": "f_cyp_l1_k14",
+      "parentId": "f_cyp_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Pafos FC",
+      "desc": "Paphos na západe — majster 2024/25 (prvý titul), účastník Ligy majstrov 2026/27.",
+      "url": "https://pafosfc.com.cy/",
+      "order": 14
+    },
+    {
+      "id": "f_cyp_l2_k1",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "AEP Polemidion",
+      "desc": "Pano Polemidia pri Limassole (zal. 2012) — po postupe medzi druholigistov.",
+      "url": "https://www.facebook.com/AeppAthlitikiEnosiPanoPolemidion/",
+      "order": 1
+    },
+    {
+      "id": "f_cyp_l2_k2",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Akritas Chlorakas",
+      "desc": "Chloraka pri Paphose — po zostupe z najvyššej súťaže.",
+      "url": "https://akritasfc.com/",
+      "order": 2
+    },
+    {
+      "id": "f_cyp_l2_k3",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Anagennisi Deryneia",
+      "desc": "Deryneia pri Famaguste — majster 3. ligy 2025/26, postup do 2. ligy.",
+      "url": "https://www.facebook.com/anagennisisfc1920/",
+      "order": 3
+    },
+    {
+      "id": "f_cyp_l2_k4",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "APEA Akrotiri",
+      "desc": "Akrotiri pri Limassole — prvýkrát v 2. lige po 70 rokoch, symbolom je ružový plameniak.",
+      "url": "https://akrotirifc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_cyp_l2_k5",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ASIL Lysi",
+      "desc": "Utečenecký klub z Lýsi (hrá v Larnake) — tradičný účastník nižších súťaží.",
+      "url": "http://asil-fc.com/",
+      "order": 5
+    },
+    {
+      "id": "f_cyp_l2_k6",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Ayia Napa",
+      "desc": "Turistické letovisko Ayia Napa pri Famaguste — klub založený 1990.",
+      "url": "https://www.facebook.com/ayianapafcofficial/",
+      "order": 6
+    },
+    {
+      "id": "f_cyp_l2_k7",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Chalkanoras Idaliou",
+      "desc": "Dali pri Nikózii — dedinský klub s dlhou históriou v nižších súťažiach.",
+      "url": "https://www.facebook.com/113526195324753",
+      "order": 7
+    },
+    {
+      "id": "f_cyp_l2_k8",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Digenis Akritas Morphou",
+      "desc": "Utečenecký klub z Morfou (hrá v Nikózii), zal. 1931 — pomenovaný po hrdinovi Digenisovi Akritasovi.",
+      "url": "https://www.facebook.com/digenisakritasmorfou/",
+      "order": 8
+    },
+    {
+      "id": "f_cyp_l2_k9",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Doxa Katokopias",
+      "desc": "Utečenecký klub z Katokopie — v minulosti aj účastník najvyššej súťaže.",
+      "url": "https://doxafc.com.cy/",
+      "order": 9
+    },
+    {
+      "id": "f_cyp_l2_k10",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Enosis Neon Paralimni",
+      "desc": "Paralimni pri Famaguste, „ENP“ — po zostupe z najvyššej súťaže.",
+      "url": "https://www.enpfc.cy/",
+      "order": 10
+    },
+    {
+      "id": "f_cyp_l2_k11",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Ermis Aradippou",
+      "desc": "Aradippou pri Larnake — víťaz cyperského Superpohára 2014.",
+      "url": "https://www.facebook.com/ermisaradippoufc/",
+      "order": 11
+    },
+    {
+      "id": "f_cyp_l2_k12",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ethnikos Achna",
+      "desc": "Dasaki Achnas — po zostupe z najvyššej súťaže, zal. 1968.",
+      "url": "https://www.ethnikosachnasfc.com/",
+      "order": 12
+    },
+    {
+      "id": "f_cyp_l2_k13",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Iraklis Gerolakkou",
+      "desc": "Utečenecký klub z Gerolakku (hrá v Nikózii), žlto-modrí.",
+      "url": "https://www.cfa.com.cy/Gr/clubprofile/55836250/40999",
+      "order": 13
+    },
+    {
+      "id": "f_cyp_l2_k14",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "MEAP Nisou",
+      "desc": "Pera Chorio Nisou pri Nikózii — dedinský klub červeno-bielych.",
+      "url": "https://www.facebook.com/meapfc/",
+      "order": 14
+    },
+    {
+      "id": "f_cyp_l2_k15",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "PAEEK",
+      "desc": "Utečenecký klub z Kyrenie (hrá v Nikózii), zal. 1953.",
+      "url": "https://www.facebook.com/paeekfc/",
+      "order": 15
+    },
+    {
+      "id": "f_cyp_l2_k16",
+      "parentId": "f_cyp_l2",
+      "type": "link",
+      "icon": "cy",
+      "name": "Spartakos Kitiou",
+      "desc": "Kiti pri Larnake — dedinský klub, zal. 1958.",
+      "url": "https://www.facebook.com/spartakosfcofficial/",
+      "order": 16
     }
   ]
 }
