@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 57,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -105,6 +105,14 @@
       "url": "https://www.mlb.com/",
       "endsAt": "",
       "addedAt": 1784541193793
+    },
+    {
+      "id": "a1784581601256",
+      "icon": "🎱",
+      "name": "Snooker Shenzhen open",
+      "url": "https://www.wst.tv/matches/?",
+      "endsAt": "2026-07-26",
+      "addedAt": 1784581601256
     },
     {
       "id": "a1784187485941",
@@ -43811,6 +43819,1086 @@
       "desc": "Kiti pri Larnake — dedinský klub, zal. 1958.",
       "url": "https://www.facebook.com/spartakosfcofficial/",
       "order": 16
+    },
+    {
+      "id": "n1784551934340o0q",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Sports Navi",
+      "desc": "",
+      "url": "https://sports.yahoo.co.jp/",
+      "order": 0
+    },
+    {
+      "id": "n1784551973561eia",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Nikkan Sports",
+      "desc": "",
+      "url": "https://www.nikkansports.com/",
+      "order": 1
+    },
+    {
+      "id": "n1784552017597igz",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Sponichi Annex",
+      "desc": "",
+      "url": "https://www.sponichi.co.jp/",
+      "order": 2
+    },
+    {
+      "id": "n17845521690575t8",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Hochi sports",
+      "desc": "",
+      "url": "https://hochi.news/",
+      "order": 3
+    },
+    {
+      "id": "n1784552190011vlt",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Sanspo",
+      "desc": "",
+      "url": "https://www.sanspo.com/",
+      "order": 4
+    },
+    {
+      "id": "n1784552255733n74",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Tokyo sports",
+      "desc": "",
+      "url": "https://www.tokyo-sports.co.jp/",
+      "order": 5
+    },
+    {
+      "id": "n1784552347038qht",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Number Web",
+      "desc": "",
+      "url": "https://number.bunshun.jp/",
+      "order": 6
+    },
+    {
+      "id": "n1784552372152eu4",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Answer",
+      "desc": "",
+      "url": "https://the-ans.jp/",
+      "order": 7
+    },
+    {
+      "id": "n1784552403256s6s",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "BBM Sports",
+      "desc": "",
+      "url": "https://www.bbm-japan.com/",
+      "order": 8
+    },
+    {
+      "id": "n1784552435090tvx",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "J SPORTS",
+      "desc": "",
+      "url": "https://www.jsports.co.jp/",
+      "order": 9
+    },
+    {
+      "id": "n1784552458155pi2",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Gekisaka",
+      "desc": "",
+      "url": "https://web.gekisaka.jp/",
+      "order": 10
+    },
+    {
+      "id": "n1784552479636cjj",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Soccer King",
+      "desc": "",
+      "url": "https://www.soccer-king.jp/",
+      "order": 11
+    },
+    {
+      "id": "n1784552498418rfm",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "J League",
+      "desc": "",
+      "url": "https://www.jleague.jp/",
+      "order": 12
+    },
+    {
+      "id": "n17845525193472bc",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Baseball King",
+      "desc": "",
+      "url": "https://baseballking.jp/",
+      "order": 13
+    },
+    {
+      "id": "n1784552539979g47",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Full Count",
+      "desc": "",
+      "url": "https://full-count.jp/",
+      "order": 14
+    },
+    {
+      "id": "n1784552561469s8z",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "NPB Baseball",
+      "desc": "",
+      "url": "https://npb.jp/",
+      "order": 15
+    },
+    {
+      "id": "n1784552590389gwi",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Tennis365",
+      "desc": "",
+      "url": "https://tennis365.net/",
+      "order": 16
+    },
+    {
+      "id": "n1784552622927agh",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Netkeiba dostihy",
+      "desc": "",
+      "url": "https://www.netkeiba.com/",
+      "order": 17
+    },
+    {
+      "id": "n17845527192017rx",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Web Sportiva",
+      "desc": "",
+      "url": "https://sportiva.shueisha.co.jp/",
+      "order": 18
+    },
+    {
+      "id": "n1784552742442200",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "The Digest",
+      "desc": "",
+      "url": "https://thedigestweb.com/",
+      "order": 19
+    },
+    {
+      "id": "n1784552769843iom",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Dmenu Sports",
+      "desc": "",
+      "url": "https://service.smt.docomo.ne.jp/portal/sports/index.html?prd_check=1",
+      "order": 20
+    },
+    {
+      "id": "n1784552791083lax",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Spread sports",
+      "desc": "",
+      "url": "https://spread-sports.jp/",
+      "order": 21
+    },
+    {
+      "id": "n1784552825852bnf",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Efight",
+      "desc": "",
+      "url": "https://efight.jp/",
+      "order": 22
+    },
+    {
+      "id": "n17845528846464vi",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "NHK sports",
+      "desc": "",
+      "url": "https://www.nhk.jp/g/sports/",
+      "order": 23
+    },
+    {
+      "id": "n1784552989279a77",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Yomiuri sports",
+      "desc": "",
+      "url": "https://www.yomiuri.co.jp/sports/",
+      "order": 24
+    },
+    {
+      "id": "n1784553028874etq",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Asahi sports",
+      "desc": "",
+      "url": "https://www.asahi.com/sports/",
+      "order": 25
+    },
+    {
+      "id": "n1784553053177ijm",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Mainichi sports",
+      "desc": "",
+      "url": "https://mainichi.jp/sports/",
+      "order": 26
+    },
+    {
+      "id": "n1784553091084daw",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Japan Times sports",
+      "desc": "",
+      "url": "https://www.japantimes.co.jp/sports/",
+      "order": 27
+    },
+    {
+      "id": "n1784553117156tnk",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Kyodo News sports",
+      "desc": "",
+      "url": "https://english.kyodonews.net/list/news/sports",
+      "order": 28
+    },
+    {
+      "id": "n1784553223767fyc",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Sankei sports",
+      "desc": "",
+      "url": "https://www.sankei.com/sports/",
+      "order": 29
+    },
+    {
+      "id": "n178455325810729s",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Nikkei sports",
+      "desc": "",
+      "url": "https://www.nikkei.com/sports/",
+      "order": 30
+    },
+    {
+      "id": "n1784553297239ugn",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Japan Today sports",
+      "desc": "",
+      "url": "https://japantoday.com/category/sports",
+      "order": 31
+    },
+    {
+      "id": "n178455335539436q",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Doshinsports",
+      "desc": "",
+      "url": "https://www.doshinsports.com/",
+      "order": 32
+    },
+    {
+      "id": "n1784553390451upr",
+      "parentId": "f_med_as_jp",
+      "type": "link",
+      "icon": "",
+      "name": "Nishinippon sports",
+      "desc": "",
+      "url": "https://www.nishinippon.co.jp/theme/sports/",
+      "order": 33
+    },
+    {
+      "id": "n17845576378184ql",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Al Ghad sport",
+      "desc": "",
+      "url": "https://alghad.com/Category/17/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 0
+    },
+    {
+      "id": "n17845576938924mv",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Al Rai sport",
+      "desc": "",
+      "url": "https://alrai.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 1
+    },
+    {
+      "id": "n1784557758451jvn",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Ad-Dustour sport",
+      "desc": "",
+      "url": "https://www.addustour.com/categories/7-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 2
+    },
+    {
+      "id": "n1784557777741gh6",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Jordan Times sport",
+      "desc": "",
+      "url": "https://jordantimes.com/news/sports",
+      "order": 3
+    },
+    {
+      "id": "n1784557817213oxp",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Jordan News sport",
+      "desc": "",
+      "url": "https://www.jordannews.jo/Section-73/Local-Sports",
+      "order": 4
+    },
+    {
+      "id": "n1784557970218pz0",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Khaberni sport",
+      "desc": "",
+      "url": "https://www.khaberni.com/category/3-%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+      "order": 5
+    },
+    {
+      "id": "n178455801199507n",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Al Anbat sport",
+      "desc": "",
+      "url": "https://alanbatnews.net/category-8/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9#google_vignette",
+      "order": 6
+    },
+    {
+      "id": "n1784558064588m35",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Jfra news sport",
+      "desc": "",
+      "url": "https://jfranews.com.jo/category-9",
+      "order": 7
+    },
+    {
+      "id": "n17845581593179hy",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Saraya news sport",
+      "desc": "",
+      "url": "https://www.sarayanews.com/category/9",
+      "order": 8
+    },
+    {
+      "id": "n17845582986364wa",
+      "parentId": "f_med_as_jo",
+      "type": "link",
+      "icon": "",
+      "name": "Maraya news sport",
+      "desc": "",
+      "url": "https://marayanews.com/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 9
+    },
+    {
+      "id": "n17845587965279j4",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "Sabay news sport",
+      "desc": "",
+      "url": "https://news.sabay.com.kh/topics/sport",
+      "order": 0
+    },
+    {
+      "id": "n1784558864189at8",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "ThmeyThmey sport",
+      "desc": "",
+      "url": "https://thmeythmey.com/category/31",
+      "order": 1
+    },
+    {
+      "id": "n1784558949946x6g",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "Khmer Times sport",
+      "desc": "",
+      "url": "khmertimeskh.com/category/sports/",
+      "order": 2
+    },
+    {
+      "id": "n17845590233408h6",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "Phnom PenhPost sport",
+      "desc": "",
+      "url": "https://phnompenhpost.com/category/sport/",
+      "order": 3
+    },
+    {
+      "id": "n1784559100766zhp",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "Koh Santepheap sport",
+      "desc": "",
+      "url": "https://kohsantepheapdaily.com.kh/category/sport",
+      "order": 4
+    },
+    {
+      "id": "n17845591964986ou",
+      "parentId": "f_med_as_kh",
+      "type": "link",
+      "icon": "",
+      "name": "Kampuchea Thmey sport",
+      "desc": "",
+      "url": "https://www.kampucheathmey.com/category/sports",
+      "order": 5
+    },
+    {
+      "id": "n1784562356783pn4",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Stad Doha",
+      "desc": "",
+      "url": "https://staddoha.com/",
+      "order": 0
+    },
+    {
+      "id": "n1784562411420ux0",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Doha Stadium Plus",
+      "desc": "",
+      "url": "https://www.dohastadiumplusqatar.com/",
+      "order": 1
+    },
+    {
+      "id": "n1784562535308n0j",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Gulf Times sport",
+      "desc": "",
+      "url": "https://www.gulf-times.com/sport",
+      "order": 2
+    },
+    {
+      "id": "n1784562564950waq",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Peninsula sport",
+      "desc": "",
+      "url": "https://thepeninsulaqatar.com/category/sports",
+      "order": 3
+    },
+    {
+      "id": "n1784562591463m7c",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Qatar Tribune sport",
+      "desc": "",
+      "url": "https://www.qatar-tribune.com/sports",
+      "order": 4
+    },
+    {
+      "id": "n1784562652209zsy",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Al Sharq sport",
+      "desc": "",
+      "url": "https://al-sharq.com/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 5
+    },
+    {
+      "id": "n1784562689498127",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Al Watan sport",
+      "desc": "",
+      "url": "https://www.alwatanalakbar.com/category/Sports",
+      "order": 6
+    },
+    {
+      "id": "n17845627366758xk",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Al Rayah sport",
+      "desc": "",
+      "url": "https://www.raya.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 7
+    },
+    {
+      "id": "n17845629253597hb",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "QNA sport",
+      "desc": "",
+      "url": "https://qna.org.qa/en/sport",
+      "order": 8
+    },
+    {
+      "id": "n1784563019452j83",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Al Arab sport",
+      "desc": "",
+      "url": "https://alarab.qa/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 9
+    },
+    {
+      "id": "n1784563045667z68",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Doha news sport",
+      "desc": "",
+      "url": "https://dohanews.co/category/sports/",
+      "order": 10
+    },
+    {
+      "id": "n17845734968838or",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "AKIpress sport",
+      "desc": "",
+      "url": "https://sport.akipress.org/",
+      "order": 0
+    },
+    {
+      "id": "n1784573522472mo3",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Sport",
+      "desc": "",
+      "url": "https://sport.kg/",
+      "order": 1
+    },
+    {
+      "id": "n178457354499464q",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Prosport",
+      "desc": "",
+      "url": "https://prosports.kg/",
+      "order": 2
+    },
+    {
+      "id": "n1784573805639t0e",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Super sport",
+      "desc": "",
+      "url": "https://www.super.kg/kabar/category/11",
+      "order": 3
+    },
+    {
+      "id": "n1784573833447u9n",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "24.kg",
+      "desc": "",
+      "url": "https://24.kg/sport/",
+      "order": 4
+    },
+    {
+      "id": "n17845739414396uf",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Kabar sport",
+      "desc": "",
+      "url": "https://kabar.kg/cat/sport/",
+      "order": 5
+    },
+    {
+      "id": "n1784574071367eou",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Mir24 sport",
+      "desc": "",
+      "url": "https://kg.mir24.tv/news-category/sport",
+      "order": 6
+    },
+    {
+      "id": "n1784574216828yoy",
+      "parentId": "f_med_as_kg",
+      "type": "link",
+      "icon": "",
+      "name": "Reporter sport",
+      "desc": "",
+      "url": "https://reporter.kg/ru/category/news/sport-ru/",
+      "order": 7
+    },
+    {
+      "id": "n178457472959333x",
+      "parentId": "f_med_as_kp",
+      "type": "link",
+      "icon": "",
+      "name": "Ministrerstvo športu",
+      "desc": "",
+      "url": "http://www.sdprk.org.kp/",
+      "order": 0
+    },
+    {
+      "id": "n1784574781763k61",
+      "parentId": "f_med_as_kp",
+      "type": "link",
+      "icon": "",
+      "name": "KCNA",
+      "desc": "",
+      "url": "http://www.kcna.kp/",
+      "order": 1
+    },
+    {
+      "id": "n1784574849725n0s",
+      "parentId": "f_med_as_kp",
+      "type": "link",
+      "icon": "",
+      "name": "NK news",
+      "desc": "",
+      "url": "https://www.nknews.org/",
+      "order": 2
+    },
+    {
+      "id": "n17845748842198ro",
+      "parentId": "f_med_as_kp",
+      "type": "link",
+      "icon": "",
+      "name": "Naenara",
+      "desc": "",
+      "url": "http://www.naenara.com.kp/main/index/en/society",
+      "order": 3
+    },
+    {
+      "id": "n17845755811592pz",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Naver Sports",
+      "desc": "",
+      "url": "https://m.sports.naver.com/index",
+      "order": 0
+    },
+    {
+      "id": "n1784575637811ygk",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Daum Sports",
+      "desc": "",
+      "url": "https://sports.daum.net/",
+      "order": 1
+    },
+    {
+      "id": "n1784575704519x2q",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Chosun sports",
+      "desc": "",
+      "url": "https://www.chosun.com/english/sports-en/",
+      "order": 2
+    },
+    {
+      "id": "n1784575917844h56",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Sports Seoul",
+      "desc": "",
+      "url": "https://www.sportsseoul.com/",
+      "order": 3
+    },
+    {
+      "id": "n1784575953389ngl",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Spotvnews",
+      "desc": "",
+      "url": "https://www.spotvnews.co.kr/",
+      "order": 4
+    },
+    {
+      "id": "n17845761131782hf",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "KBS sports",
+      "desc": "",
+      "url": "https://sports.kbs.co.kr/",
+      "order": 5
+    },
+    {
+      "id": "n1784576141042bd3",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "SBS sports",
+      "desc": "",
+      "url": "https://sports.sbs.co.kr/",
+      "order": 6
+    },
+    {
+      "id": "n17845763288308l9",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Interfootball",
+      "desc": "",
+      "url": "https://www.interfootball.co.kr/",
+      "order": 7
+    },
+    {
+      "id": "n1784576358007qg9",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Footballist",
+      "desc": "",
+      "url": "https://www.footballist.co.kr/",
+      "order": 8
+    },
+    {
+      "id": "n1784576403694rbc",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "OSEN sports",
+      "desc": "",
+      "url": "https://www.osen.co.kr/sports",
+      "order": 9
+    },
+    {
+      "id": "n178457644310967i",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Stn sports",
+      "desc": "",
+      "url": "https://www.stnsports.co.kr/",
+      "order": 10
+    },
+    {
+      "id": "n1784576505232nzw",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Jumpball",
+      "desc": "",
+      "url": "https://www.jumpball.co.kr/",
+      "order": 11
+    },
+    {
+      "id": "n1784576532412nq3",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "KBL basketbal",
+      "desc": "",
+      "url": "https://www.kbl.or.kr/",
+      "order": 12
+    },
+    {
+      "id": "n17845767157262cp",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "MK Sports",
+      "desc": "",
+      "url": "https://www.mksports.co.kr/",
+      "order": 13
+    },
+    {
+      "id": "n1784576752729mwx",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Xportsnews",
+      "desc": "",
+      "url": "https://www.xportsnews.com/",
+      "order": 14
+    },
+    {
+      "id": "n17845768094550ml",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "JoyNews24 sports",
+      "desc": "",
+      "url": "https://www.joynews24.com/list/sports",
+      "order": 15
+    },
+    {
+      "id": "n1784577844376923",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Yonhap news sports",
+      "desc": "",
+      "url": "https://en.yna.co.kr/sports/index",
+      "order": 16
+    },
+    {
+      "id": "n1784577872175hjv",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Korea Herald sports",
+      "desc": "",
+      "url": "https://www.koreaherald.com/Sports",
+      "order": 17
+    },
+    {
+      "id": "n1784577905068qlu",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Korea Times sports",
+      "desc": "",
+      "url": "https://www.koreatimes.co.kr/sports",
+      "order": 18
+    },
+    {
+      "id": "n1784577980958ec3",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "JoongAng sports",
+      "desc": "",
+      "url": "https://www.joongang.co.kr/sports",
+      "order": 19
+    },
+    {
+      "id": "n1784578188479hu4",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Khan sports",
+      "desc": "",
+      "url": "https://www.khan.co.kr/sports",
+      "order": 20
+    },
+    {
+      "id": "n1784578228085m2d",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Hankook ilbo sports",
+      "desc": "",
+      "url": "https://www.hankookilbo.com/news/sports",
+      "order": 21
+    },
+    {
+      "id": "n1784578260189roc",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Donga sports",
+      "desc": "",
+      "url": "https://www.donga.com/news/Sports",
+      "order": 22
+    },
+    {
+      "id": "n1784578292740d54",
+      "parentId": "f_med_as_kr",
+      "type": "link",
+      "icon": "",
+      "name": "Hankyoreh sports",
+      "desc": "",
+      "url": "https://www.hani.co.kr/arti/sports",
+      "order": 23
+    },
+    {
+      "id": "n1784579653606yn6",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Kuwait Times sport",
+      "desc": "",
+      "url": "https://kuwaittimes.com/sports/",
+      "order": 0
+    },
+    {
+      "id": "n1784579739754ec5",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Arab Times sport",
+      "desc": "",
+      "url": "https://www.arabtimesonline.com/news/category/sports/",
+      "order": 1
+    },
+    {
+      "id": "n1784579860126s1n",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Al Qabas sports",
+      "desc": "",
+      "url": "https://www.alqabas.com/categories/7-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/",
+      "order": 2
+    },
+    {
+      "id": "n1784579927960twm",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Al Anba sports",
+      "desc": "",
+      "url": "https://www.alanba.com.kw/ar/sport-news/",
+      "order": 3
+    },
+    {
+      "id": "n17845799776183gv",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Al Watan sports",
+      "desc": "",
+      "url": "https://alwatan.kuwait.tt/categoryhome.aspx?catid=42",
+      "order": 4
+    },
+    {
+      "id": "n17845800325717sl",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Al Aan sports",
+      "desc": "",
+      "url": "https://www.alaan.cc/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/",
+      "order": 5
+    },
+    {
+      "id": "n1784581702325ndc",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Al Jareeda sport",
+      "desc": "",
+      "url": "https://www.aljarida.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 6
+    },
+    {
+      "id": "n1784581863500f2q",
+      "parentId": "f_med_as_kw",
+      "type": "link",
+      "icon": "",
+      "name": "Timeskuwait sports",
+      "desc": "",
+      "url": "https://timeskuwait.com/category/news/sports/",
+      "order": 7
+    },
+    {
+      "id": "n1784582056358fj8",
+      "parentId": "f_med_as_la",
+      "type": "link",
+      "icon": "",
+      "name": "KPL sports",
+      "desc": "",
+      "url": "https://kpl.gov.la/En/News.aspx?cat=23",
+      "order": 0
+    },
+    {
+      "id": "n17845822104034fq",
+      "parentId": "f_med_as_la",
+      "type": "link",
+      "icon": "",
+      "name": "LNTV sport",
+      "desc": "",
+      "url": "https://lntv.gov.la/categories/36",
+      "order": 1
+    },
+    {
+      "id": "n17845824403546e8",
+      "parentId": "f_med_as_la",
+      "type": "link",
+      "icon": "",
+      "name": "Lao Phattana news",
+      "desc": "",
+      "url": "https://laophattananews.com/category/%e0%ba%81%e0%ba%b4%e0%ba%a5%e0%ba%b2/",
+      "order": 2
     }
   ]
 }
