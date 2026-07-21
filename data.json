@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 61,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -9,6 +9,30 @@
       "icon": "🚴",
       "name": "Tour de France",
       "url": "https://www.letour.fr"
+    },
+    {
+      "id": "a1784634574866",
+      "icon": "⚽",
+      "name": "Liga Majstrov",
+      "url": "https://www.uefa.com/uefachampionsleague/",
+      "endsAt": "2026-07-22",
+      "addedAt": 1784634574866
+    },
+    {
+      "id": "a1784634663367",
+      "icon": "⚽",
+      "name": "Európska liga",
+      "url": "https://www.uefa.com/uefaeuropaleague/",
+      "endsAt": "2026-07-23",
+      "addedAt": 1784634663367
+    },
+    {
+      "id": "a1784634702063",
+      "icon": "⚽",
+      "name": "Konferenčná liga",
+      "url": "https://www.uefa.com/uefaconferenceleague/",
+      "endsAt": "2026-07-23",
+      "addedAt": 1784634702063
     },
     {
       "id": "a1784538636873",
@@ -105,6 +129,14 @@
       "url": "https://www.mlb.com/",
       "endsAt": "",
       "addedAt": 1784541193793
+    },
+    {
+      "id": "a1784634859111",
+      "icon": "🎯",
+      "name": "PDC World Matchplay",
+      "url": "https://www.pdc.tv/tournament-hub/10864",
+      "endsAt": "2026-07-26",
+      "addedAt": 1784634859111
     },
     {
       "id": "a1784581601256",
@@ -926,7 +958,7 @@
       "icon": "⚽",
       "name": "Severná a Stredná Amerika",
       "desc": "",
-      "order": 1,
+      "order": 4,
       "slug": "severna-a-stredna-amerika"
     },
     {
@@ -956,7 +988,7 @@
       "icon": "⚽",
       "name": "Ázia",
       "desc": "",
-      "order": 4,
+      "order": 1,
       "slug": "azia"
     },
     {
