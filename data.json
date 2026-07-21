@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -46739,6 +46739,656 @@
       "desc": "Klub z mesta Tovuz — oficiálny web sa nenašiel, odkaz vedie na Facebook.",
       "url": "https://www.facebook.com/TuranTovuzPFK/",
       "order": 12
+    },
+    {
+      "id": "f_aus_l1",
+      "parentId": "f_fut_klu_az_aus",
+      "type": "folder",
+      "icon": "",
+      "name": "A-League Men",
+      "desc": "Najvyššia austrálska profesionálna súťaž — 12 klubov z Austrálie a Nového Zélandu, hrá sa systémom jeseň-jar s finálovou sériou.",
+      "order": 1,
+      "slug": "a-league-men"
+    },
+    {
+      "id": "f_aus_l1_k1",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Newcastle Jets",
+      "desc": "Mesto Newcastle (Nový Južný Wales) — premiéri základnej časti sezóny 2025/26, na titul majstra však ešte čakajú.",
+      "url": "https://www.newcastlejetsfc.com.au",
+      "order": 1
+    },
+    {
+      "id": "f_aus_l1_k2",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Adelaide United",
+      "desc": "Mesto Adelaide (Južná Austrália) — jediný profesionálny klub v meste, hráva na Coopers Stadium.",
+      "url": "https://www.adelaideunited.com.au",
+      "order": 2
+    },
+    {
+      "id": "f_aus_l1_k3",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Auckland FC",
+      "desc": "Mesto Auckland (Nový Zéland) — najnovší klub súťaže, hneď vo svojej druhej sezóne 2025/26 sa stal majstrom.",
+      "url": "https://www.aucklandfc.co.nz",
+      "order": 3
+    },
+    {
+      "id": "f_aus_l1_k4",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Melbourne Victory",
+      "desc": "Mesto Melbourne — jeden z historicky najúspešnejších klubov A-League, domovský štadión AAMI Park.",
+      "url": "https://www.melbournevictory.com.au",
+      "order": 4
+    },
+    {
+      "id": "f_aus_l1_k5",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sydney FC",
+      "desc": "Mesto Sydney — najpopulárnejší klub súťaže podľa počtu fanúšikov, viacnásobný majster.",
+      "url": "https://www.sydneyfc.com",
+      "order": 5
+    },
+    {
+      "id": "f_aus_l1_k6",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Melbourne City",
+      "desc": "Mesto Melbourne — súčasť skupiny City Football Group (Manchester City), predtým hrával pod menom Melbourne Heart.",
+      "url": "https://www.melbournecityfc.com.au",
+      "order": 6
+    },
+    {
+      "id": "f_aus_l1_k7",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Macarthur FC",
+      "desc": "Mesto Sydney (predmestie Campbelltown) — prezývka „Bulls“, najmladší pôvodný klub A-League (vstup 2021).",
+      "url": "https://www.macarthurfc.com.au",
+      "order": 7
+    },
+    {
+      "id": "f_aus_l1_k8",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Wellington Phoenix",
+      "desc": "Mesto Wellington (Nový Zéland) — jediný klub z hlavného mesta Nového Zélandu v súťaži.",
+      "url": "https://www.wellingtonphoenix.com",
+      "order": 8
+    },
+    {
+      "id": "f_aus_l1_k9",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Central Coast Mariners",
+      "desc": "Mesto Gosford (Central Coast, NSW) — klub známy dlhodobo kvalitnou výchovou mladých hráčov.",
+      "url": "https://www.ccmariners.com.au",
+      "order": 9
+    },
+    {
+      "id": "f_aus_l1_k10",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Perth Glory",
+      "desc": "Mesto Perth (Západná Austrália) — geograficky najizolovanejší klub súťaže.",
+      "url": "https://www.perthglory.com.au",
+      "order": 10
+    },
+    {
+      "id": "f_aus_l1_k11",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Brisbane Roar",
+      "desc": "Mesto Brisbane (Queensland) — viacnásobný majster spred rokov 2010 – 2014.",
+      "url": "https://www.brisbaneroar.com.au",
+      "order": 11
+    },
+    {
+      "id": "f_aus_l1_k12",
+      "parentId": "f_aus_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Western Sydney Wanderers",
+      "desc": "Mesto Sydney (západné predmestia) — založený 2012, rýchlo si vybudoval veľmi silnú fanúšikovskú základňu.",
+      "url": "https://www.wswanderersfc.com.au",
+      "order": 12
+    },
+    {
+      "id": "f_aus_l2",
+      "parentId": "f_fut_klu_az_aus",
+      "type": "folder",
+      "icon": "",
+      "name": "Australian Championship",
+      "desc": "Druhá najvyššia austrálska súťaž, zavedená v roku 2025 — 16 klubov v skupinovej a vyraďovacej fáze, cesta k profesionálnemu futbalu pre kluby mimo A-League.",
+      "order": 2,
+      "slug": "australian-championship"
+    },
+    {
+      "id": "f_aus_l2_k1",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "South Melbourne FC",
+      "desc": "Mesto Melbourne — prezývka „Hellas“, klub s gréckymi koreňmi, inaugoračný víťaz Australian Championship 2025.",
+      "url": "https://www.smfc.com.au",
+      "order": 1
+    },
+    {
+      "id": "f_aus_l2_k2",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Marconi Stallions FC",
+      "desc": "Mesto Sydney (Bossley Park) — klub s talianskymi koreňmi, finalista prvého ročníka Australian Championship 2025.",
+      "url": "https://www.clubmarconi.com.au/marconi-stallions/",
+      "order": 2
+    },
+    {
+      "id": "f_aus_l2_k3",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Heidelberg United FC",
+      "desc": "Mesto Melbourne — klub s gréckymi koreňmi, semifinalista Australian Championship 2025.",
+      "url": "https://www.hufc.com.au",
+      "order": 3
+    },
+    {
+      "id": "f_aus_l2_k4",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Moreton City Excelsior FC",
+      "desc": "Mesto Brisbane (Albany Creek) — klub vznikol zlúčením dvoch klubov v roku 2023.",
+      "url": "https://www.moretoncityexcelsiorfc.com",
+      "order": 4
+    },
+    {
+      "id": "f_aus_l2_k5",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Wests APIA FC",
+      "desc": "Mesto Sydney (Leichhardt) — klub s talianskymi koreňmi, víťaz základnej skupiny D v roku 2025.",
+      "url": "https://www.apialeichhardt.football",
+      "order": 5
+    },
+    {
+      "id": "f_aus_l2_k6",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Avondale FC",
+      "desc": "Mesto Melbourne — jeden zo zakladajúcich klubov Australian Championship.",
+      "url": "https://www.avondalefc.com.au",
+      "order": 6
+    },
+    {
+      "id": "f_aus_l2_k7",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "North Eastern MetroStars",
+      "desc": "Mesto Adelaide — do súťaže postúpil ako premiér National Premier Leagues South Australia 2025.",
+      "url": "https://www.metrostars.com.au",
+      "order": 7
+    },
+    {
+      "id": "f_aus_l2_k8",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "NWS Spirit FC",
+      "desc": "Mesto Sydney (Macquarie Park) — reprezentačný klub oblasti Severozápadný Sydney.",
+      "url": "https://www.spiritfootballclub.com",
+      "order": 8
+    },
+    {
+      "id": "f_aus_l2_k9",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Wollongong Wolves FC",
+      "desc": "Mesto Wollongong (Nový Južný Wales) — bývalý klub zaniknutej Národnej ligy (NSL), zakladajúci klub Australian Championship.",
+      "url": "https://www.wollongongwolves.com.au",
+      "order": 9
+    },
+    {
+      "id": "f_aus_l2_k10",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bayswater City SC",
+      "desc": "Mesto Perth (Západná Austrália) — viacnásobný majster súťaže NPL Western Australia.",
+      "url": "https://www.bayswatercitysc.com.au",
+      "order": 10
+    },
+    {
+      "id": "f_aus_l2_k11",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Preston Lions FC",
+      "desc": "Mesto Melbourne (Reservoir) — založený 1947, jeden z najstarších klubov štátu Viktória.",
+      "url": "https://www.plfc.com.au",
+      "order": 11
+    },
+    {
+      "id": "f_aus_l2_k12",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sydney Olympic FC",
+      "desc": "Mesto Sydney — klub s gréckymi koreňmi, bývalý účastník zaniknutej Národnej ligy (NSL).",
+      "url": "https://www.sydneyolympicfc.com",
+      "order": 12
+    },
+    {
+      "id": "f_aus_l2_k13",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Canberra Croatia FC",
+      "desc": "Mesto Canberra — klub s chorvátskymi koreňmi, v roku 2018 získal trojnásobný triumf (liga, finále aj pohár).",
+      "url": "https://croatiadeakinsoccerclub.com.au/canberra-croatia-football-club/",
+      "order": 13
+    },
+    {
+      "id": "f_aus_l2_k14",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Broadmeadow Magic FC",
+      "desc": "Mesto Newcastle (Nový Južný Wales) — hráva v National Premier Leagues Northern NSW.",
+      "url": "https://bmagicfc.square.site/",
+      "order": 14
+    },
+    {
+      "id": "f_aus_l2_k15",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sydney United 58 FC",
+      "desc": "Mesto Sydney (Edensor Park) — klub s chorvátskymi koreňmi, založený v roku 1958.",
+      "url": "https://www.sydneyunited58fc.com",
+      "order": 15
+    },
+    {
+      "id": "f_aus_l2_k16",
+      "parentId": "f_aus_l2",
+      "type": "link",
+      "icon": "",
+      "name": "South Hobart FC",
+      "desc": "Mesto Hobart (Tasmánia) — založený 1910, klub je známy aj tým, že jeho vedenie dlhodobo tvoria najmä ženy.",
+      "url": "http://southhobartfc.com/",
+      "order": 16
+    },
+    {
+      "id": "f_bhr_l1",
+      "parentId": "f_fut_klu_az_bhr",
+      "type": "folder",
+      "icon": "",
+      "name": "Nasser bin Hamad Premier League",
+      "desc": "Najvyššia bahrajnská súťaž — 12 klubov, hrá sa systémom jeseň-jar.",
+      "order": 1,
+      "slug": "nasser-bin-hamad-premier-league"
+    },
+    {
+      "id": "f_bhr_l1_k1",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Muharraq",
+      "desc": "Mesto Muharraq — najúspešnejší bahrajnský klub s rekordným počtom titulov (35), obhajca titulu zo sezóny 2025/26.",
+      "url": "https://www.facebook.com/MuharraqClub/",
+      "order": 1
+    },
+    {
+      "id": "f_bhr_l1_k2",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Khaldiya",
+      "desc": "Mesto Hamad Town — najnovšie založený (2020) a finančne najsilnejší klub Bahrajnu.",
+      "url": "https://www.facebook.com/alkhaldiyafc/",
+      "order": 2
+    },
+    {
+      "id": "f_bhr_l1_k3",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Riffa",
+      "desc": "Mesto Riffa — druhý najúspešnejší klub krajiny so 14 titulmi.",
+      "url": "https://www.facebook.com/p/Riffa-Club-100066557890169/",
+      "order": 3
+    },
+    {
+      "id": "f_bhr_l1_k4",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Malkiya",
+      "desc": "Mesto Malkiya — majster bahrajnskej ligy v sezóne 2016/17.",
+      "url": "https://www.instagram.com/malkiyaclub/",
+      "order": 4
+    },
+    {
+      "id": "f_bhr_l1_k5",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "A'Ali",
+      "desc": "Mesto A'ali — klub zo severného Bahrajnu.",
+      "url": "https://www.instagram.com/aali.club/",
+      "order": 5
+    },
+    {
+      "id": "f_bhr_l1_k6",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Hidd",
+      "desc": "Mesto Al Hidd (ostrov Muharraq) — prezývka „Tsunami“, založený v roku 1945.",
+      "url": "https://www.instagram.com/hiddclub_bh/",
+      "order": 6
+    },
+    {
+      "id": "f_bhr_l1_k7",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Ahli",
+      "desc": "Mesto Manama — spolu s Al-Muharraq patrí medzi piliere bahrajnského futbalu, päťnásobný majster.",
+      "url": "https://www.instagram.com/alahliclub.bh/",
+      "order": 7
+    },
+    {
+      "id": "f_bhr_l1_k8",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Sitra",
+      "desc": "Mesto Sitra — klub založený v roku 1957.",
+      "url": "https://www.instagram.com/sitraclub/",
+      "order": 8
+    },
+    {
+      "id": "f_bhr_l1_k9",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Budaiya",
+      "desc": "Mesto Budaiya — do najvyššej súťaže sa vrátil po ročnej prestávke.",
+      "url": "https://www.instagram.com/budaiyaclub/",
+      "order": 9
+    },
+    {
+      "id": "f_bhr_l1_k10",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Najma",
+      "desc": "Mesto Manama — viacšportový klub, jeho futbalová sekcia má na konte jeden titul (1974/75).",
+      "url": "https://www.facebook.com/najmaclub/",
+      "order": 10
+    },
+    {
+      "id": "f_bhr_l1_k11",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Al-Shabab",
+      "desc": "Mesto Manama (hráva v Jidhafse) — po sezóne 2025/26 zostúpil z najvyššej súťaže.",
+      "url": "https://www.instagram.com/alshabab_club/",
+      "order": 11
+    },
+    {
+      "id": "f_bhr_l1_k12",
+      "parentId": "f_bhr_l1",
+      "type": "link",
+      "icon": "bh",
+      "name": "Bahrain SC",
+      "desc": "Mesto Muharraq — jeden z najstarších klubov krajiny (založený 1936), zdieľa štadión so susedom Al-Muharraq, po sezóne 2025/26 zostúpil z najvyššej súťaže.",
+      "url": "https://www.instagram.com/bahrainclub.fb/",
+      "order": 12
+    },
+    {
+      "id": "f_bgd_l1",
+      "parentId": "f_fut_klu_az_bgd",
+      "type": "folder",
+      "icon": "",
+      "name": "Bangladesh Football League (BFL)",
+      "desc": "Najvyššia bangladéšska súťaž — 10 klubov, hrá sa systémom jeseň-jar.",
+      "order": 1,
+      "slug": "bangladesh-football-league"
+    },
+    {
+      "id": "f_bgd_l1_k1",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "Bashundhara Kings",
+      "desc": "Mesto Dháka — klub vlastní konglomerát Bashundhara Group, v sezóne 2025/26 získal rekordný 6. titul v rade.",
+      "url": "https://www.facebook.com/BashundharaKings/",
+      "order": 1
+    },
+    {
+      "id": "f_bgd_l1_k2",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "Dhaka Abahani",
+      "desc": "Mesto Dháka (hráva v Comille) — historicky najúspešnejší bangladéšsky klub, súper Mohammedan SC v tzv. Dháckom derby.",
+      "url": "https://www.facebook.com/abahaniofficial/",
+      "order": 2
+    },
+    {
+      "id": "f_bgd_l1_k3",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Fortis FC",
+      "desc": "Mesto Dháka — mladý klub založený v roku 2020, do najvyššej súťaže postúpil priamo z druhej ligy.",
+      "url": "https://fortisfc.org/",
+      "order": 3
+    },
+    {
+      "id": "f_bgd_l1_k4",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bangladesh Police FC",
+      "desc": "Mesto Gazipur — klub Bangladéšskej polície, do najvyššej súťaže postúpil v sezóne 2018/19.",
+      "url": "http://www.bdpolicefc.club/",
+      "order": 4
+    },
+    {
+      "id": "f_bgd_l1_k5",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "Mohammedan SC",
+      "desc": "Mesto Dháka (hráva v Comille) — založený 1936, jeden z najstarších klubov krajiny, tradičný súper Abahani.",
+      "url": "https://www.facebook.com/mohammedan.sporting.club.limited/",
+      "order": 5
+    },
+    {
+      "id": "f_bgd_l1_k6",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "Rahmatganj MFS",
+      "desc": "Mesto Dháka — jeden z najstarších klubov krajiny, založený v roku 1933.",
+      "url": "https://www.facebook.com/RahmatganjMFSofficial/",
+      "order": 6
+    },
+    {
+      "id": "f_bgd_l1_k7",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Brothers Union",
+      "desc": "Mesto Dháka (hráva v Munšigandži) — prezývka „Oranges“, založený v roku 1949.",
+      "url": "https://www.brothersunionbd.com/",
+      "order": 7
+    },
+    {
+      "id": "f_bgd_l1_k8",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "PWD Sports Club",
+      "desc": "Mesto Gazipur — klub Odboru verejných prác (Public Works Department), založený 1954, do najvyššej súťaže debutoval v sezóne 2025/26.",
+      "url": "https://us.soccerway.com/team/pwd-sports-club/WMZvNPvn/",
+      "order": 8
+    },
+    {
+      "id": "f_bgd_l1_k9",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "bd",
+      "name": "Arambagh KS",
+      "desc": "Mesto Dháka (hráva v Manikgandži) — prezývka „Rising Strength“, založený v roku 1958.",
+      "url": "https://www.facebook.com/Arambag.KS/",
+      "order": 9
+    },
+    {
+      "id": "f_bgd_l1_k10",
+      "parentId": "f_bgd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Fakirerpool YMC",
+      "desc": "Mesto Dháka (hráva v Manikgandži) — do najvyššej súťaže postúpil z druhej ligy v sezóne 2023/24.",
+      "url": "https://fakirerpoolyoungmensclub.com/",
+      "order": 10
+    },
+    {
+      "id": "f_btn_l1",
+      "parentId": "f_fut_klu_az_btn",
+      "type": "folder",
+      "icon": "",
+      "name": "BOB Bhutan Premier League",
+      "desc": "Najvyššia bhutánska súťaž — 10 klubov, hrá sa v kalendárnom roku.",
+      "order": 1,
+      "slug": "bob-bhutan-premier-league"
+    },
+    {
+      "id": "f_btn_l1_k1",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Thimphu City FC",
+      "desc": "Mesto Thimphu — nástupca klubu Zimdra FC, majster národnej ligy v rokoch 2016 a 2020.",
+      "url": "https://thimphucityfc.com/",
+      "order": 1
+    },
+    {
+      "id": "f_btn_l1_k2",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Paro FC",
+      "desc": "Mesto Paro — obhajca titulu, priebežný líder tabuľky sezóny 2026.",
+      "url": "https://parofc.com/",
+      "order": 2
+    },
+    {
+      "id": "f_btn_l1_k3",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Transport United FC",
+      "desc": "Mesto Thimphu — viacnásobný majster národnej ligy (2004 – 2007, 2017).",
+      "url": "https://transportunitedfc.com/",
+      "order": 3
+    },
+    {
+      "id": "f_btn_l1_k4",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "bt",
+      "name": "Royal Thimphu College FC",
+      "desc": "Mesto Thimphu — klub pôsobiaci pri univerzite Royal Thimphu College.",
+      "url": "https://www.facebook.com/rtcfootballclub/",
+      "order": 4
+    },
+    {
+      "id": "f_btn_l1_k5",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "bt",
+      "name": "Thimphu FC",
+      "desc": "Mesto Thimphu — prezývka „Thunderbolts“, založený v roku 2015.",
+      "url": "https://www.facebook.com/thimphufc/",
+      "order": 5
+    },
+    {
+      "id": "f_btn_l1_k6",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "bt",
+      "name": "Tsirang FC",
+      "desc": "Mesto Damphu (dzongkhag Tsirang) — klub založený súkromnými podnikateľmi v roku 2023.",
+      "url": "https://www.facebook.com/p/Tsirang-FC-100091522223630/",
+      "order": 6
+    },
+    {
+      "id": "f_btn_l1_k7",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "BFF Academy FC",
+      "desc": "Mesto Thimphu — akadémia Bhutánskej futbalovej federácie, v najvyššej súťaži hráva pod hlavičkou výberu do 20 rokov.",
+      "url": "https://bhutanfootball.org/bff-academy/",
+      "order": 7
+    },
+    {
+      "id": "f_btn_l1_k8",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Drukpa FC",
+      "desc": "Mesto Thimphu — nový klub vzniknutý v roku 2026 transformáciou klubu Namlha FC.",
+      "url": "https://www.drukpafc.com/",
+      "order": 8
+    },
+    {
+      "id": "f_btn_l1_k9",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "bt",
+      "name": "Tensung FC",
+      "desc": "Mesto Thimphu — futbalová sekcia Kráľovskej bhutánskej armády, založená v roku 2016.",
+      "url": "https://www.facebook.com/tensungfc2003/",
+      "order": 9
+    },
+    {
+      "id": "f_btn_l1_k10",
+      "parentId": "f_btn_l1",
+      "type": "link",
+      "icon": "bt",
+      "name": "Ugyen Academy FC",
+      "desc": "Mesto Punakha — založený 2002, majster národnej ligy v roku 2013.",
+      "url": "https://www.facebook.com/p/Ugyen-Academy-Football-Club-100049820030163/",
+      "order": 10
     }
   ]
 }
