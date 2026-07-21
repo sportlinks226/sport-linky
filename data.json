@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -11085,7 +11085,7 @@
       "type": "folder",
       "icon": "jp",
       "name": "Japonsko",
-      "desc": "",
+      "desc": "Japonské športové médiá — denníky, portály a ligové weby.",
       "order": 11,
       "slug": "japonsko"
     },
@@ -11095,7 +11095,7 @@
       "type": "folder",
       "icon": "jo",
       "name": "Jordánsko",
-      "desc": "",
+      "desc": "Jordánske športové médiá a denníky.",
       "order": 12,
       "slug": "jordansko"
     },
@@ -11105,7 +11105,7 @@
       "type": "folder",
       "icon": "kh",
       "name": "Kambodža",
-      "desc": "",
+      "desc": "Kambodžské športové médiá a spravodajské rubriky.",
       "order": 13,
       "slug": "kambodza"
     },
@@ -11115,7 +11115,7 @@
       "type": "folder",
       "icon": "qa",
       "name": "Katar",
-      "desc": "",
+      "desc": "Katarské športové médiá a denníky.",
       "order": 14,
       "slug": "katar"
     },
@@ -11125,7 +11125,7 @@
       "type": "folder",
       "icon": "kg",
       "name": "Kirgizsko",
-      "desc": "",
+      "desc": "Kirgizské športové médiá a portály.",
       "order": 15,
       "slug": "kirgizsko"
     },
@@ -11135,7 +11135,7 @@
       "type": "folder",
       "icon": "kp",
       "name": "Severná Kórea",
-      "desc": "",
+      "desc": "Severokórejské štátne médiá a weby o KĽDR.",
       "order": 16,
       "slug": "severna-korea"
     },
@@ -11145,7 +11145,7 @@
       "type": "folder",
       "icon": "kr",
       "name": "Južná Kórea",
-      "desc": "",
+      "desc": "Juhokórejské športové médiá, portály a denníky.",
       "order": 17,
       "slug": "juzna-korea"
     },
@@ -11155,7 +11155,7 @@
       "type": "folder",
       "icon": "kw",
       "name": "Kuvajt",
-      "desc": "",
+      "desc": "Kuvajtské športové médiá a denníky.",
       "order": 18,
       "slug": "kuvajt"
     },
@@ -11165,7 +11165,7 @@
       "type": "folder",
       "icon": "la",
       "name": "Laos",
-      "desc": "",
+      "desc": "Laoské štátne médiá a športové rubriky.",
       "order": 19,
       "slug": "laos"
     },
@@ -43826,7 +43826,7 @@
       "type": "link",
       "icon": "",
       "name": "Sports Navi",
-      "desc": "",
+      "desc": "Športový portál Yahoo! Japan — najväčší agregátor športových správ v Japonsku",
       "url": "https://sports.yahoo.co.jp/",
       "order": 0
     },
@@ -43836,7 +43836,7 @@
       "type": "link",
       "icon": "",
       "name": "Nikkan Sports",
-      "desc": "",
+      "desc": "Najstarší japonský športový denník (vychádza od 1946)",
       "url": "https://www.nikkansports.com/",
       "order": 1
     },
@@ -43846,7 +43846,7 @@
       "type": "link",
       "icon": "",
       "name": "Sponichi Annex",
-      "desc": "",
+      "desc": "Web japonského športového denníka Sports Nippon (Sponichi)",
       "url": "https://www.sponichi.co.jp/",
       "order": 2
     },
@@ -43856,7 +43856,7 @@
       "type": "link",
       "icon": "",
       "name": "Hochi sports",
-      "desc": "",
+      "desc": "Športový denník Sports Hochi zo skupiny Yomiuri",
       "url": "https://hochi.news/",
       "order": 3
     },
@@ -43866,7 +43866,7 @@
       "type": "link",
       "icon": "",
       "name": "Sanspo",
-      "desc": "",
+      "desc": "Web japonského športového denníka Sankei Sports",
       "url": "https://www.sanspo.com/",
       "order": 4
     },
@@ -43876,7 +43876,7 @@
       "type": "link",
       "icon": "",
       "name": "Tokyo sports",
-      "desc": "",
+      "desc": "Bulvárny športový denník Tokyo Sports („Tospo“)",
       "url": "https://www.tokyo-sports.co.jp/",
       "order": 5
     },
@@ -43886,7 +43886,7 @@
       "type": "link",
       "icon": "",
       "name": "Number Web",
-      "desc": "",
+      "desc": "Web prestížneho športového magazínu Number vydavateľstva Bunshun",
       "url": "https://number.bunshun.jp/",
       "order": 6
     },
@@ -43896,7 +43896,7 @@
       "type": "link",
       "icon": "",
       "name": "Answer",
-      "desc": "",
+      "desc": "Japonský online športový magazín The Answer",
       "url": "https://the-ans.jp/",
       "order": 7
     },
@@ -43906,7 +43906,7 @@
       "type": "link",
       "icon": "",
       "name": "BBM Sports",
-      "desc": "",
+      "desc": "Portál vydavateľstva Baseball Magazine Sha — bejzbal a ďalšie športy",
       "url": "https://www.bbm-japan.com/",
       "order": 8
     },
@@ -43916,7 +43916,7 @@
       "type": "link",
       "icon": "",
       "name": "J SPORTS",
-      "desc": "",
+      "desc": "Najväčšia japonská športová televízna skupina J SPORTS",
       "url": "https://www.jsports.co.jp/",
       "order": 9
     },
@@ -43926,7 +43926,7 @@
       "type": "link",
       "icon": "",
       "name": "Gekisaka",
-      "desc": "",
+      "desc": "Popredný japonský futbalový spravodajský portál Gekisaka",
       "url": "https://web.gekisaka.jp/",
       "order": 10
     },
@@ -43936,7 +43936,7 @@
       "type": "link",
       "icon": "",
       "name": "Soccer King",
-      "desc": "",
+      "desc": "Japonský futbalový magazín a portál Soccer King",
       "url": "https://www.soccer-king.jp/",
       "order": 11
     },
@@ -43946,7 +43946,7 @@
       "type": "link",
       "icon": "",
       "name": "J League",
-      "desc": "",
+      "desc": "Oficiálny web japonskej profesionálnej futbalovej J.League",
       "url": "https://www.jleague.jp/",
       "order": 12
     },
@@ -43956,7 +43956,7 @@
       "type": "link",
       "icon": "",
       "name": "Baseball King",
-      "desc": "",
+      "desc": "Japonský bejzbalový spravodajský portál Baseball King",
       "url": "https://baseballking.jp/",
       "order": 13
     },
@@ -43966,7 +43966,7 @@
       "type": "link",
       "icon": "",
       "name": "Full Count",
-      "desc": "",
+      "desc": "Japonský bejzbalový portál Full-Count — NPB aj MLB",
       "url": "https://full-count.jp/",
       "order": 14
     },
@@ -43976,7 +43976,7 @@
       "type": "link",
       "icon": "",
       "name": "NPB Baseball",
-      "desc": "",
+      "desc": "Oficiálny web japonskej profesionálnej bejzbalovej ligy NPB",
       "url": "https://npb.jp/",
       "order": 15
     },
@@ -43986,7 +43986,7 @@
       "type": "link",
       "icon": "",
       "name": "Tennis365",
-      "desc": "",
+      "desc": "Japonský tenisový portál Tennis365",
       "url": "https://tennis365.net/",
       "order": 16
     },
@@ -43996,7 +43996,7 @@
       "type": "link",
       "icon": "",
       "name": "Netkeiba dostihy",
-      "desc": "",
+      "desc": "Najväčší japonský portál o konských dostihoch Netkeiba",
       "url": "https://www.netkeiba.com/",
       "order": 17
     },
@@ -44006,7 +44006,7 @@
       "type": "link",
       "icon": "",
       "name": "Web Sportiva",
-      "desc": "",
+      "desc": "Športový magazín Sportiva vydavateľstva Šúeiša",
       "url": "https://sportiva.shueisha.co.jp/",
       "order": 18
     },
@@ -44016,7 +44016,7 @@
       "type": "link",
       "icon": "",
       "name": "The Digest",
-      "desc": "",
+      "desc": "Japonský online športový magazín The Digest",
       "url": "https://thedigestweb.com/",
       "order": 19
     },
@@ -44026,7 +44026,7 @@
       "type": "link",
       "icon": "",
       "name": "Dmenu Sports",
-      "desc": "",
+      "desc": "Športový portál japonského operátora NTT Docomo",
       "url": "https://service.smt.docomo.ne.jp/portal/sports/index.html?prd_check=1",
       "order": 20
     },
@@ -44036,7 +44036,7 @@
       "type": "link",
       "icon": "",
       "name": "Spread sports",
-      "desc": "",
+      "desc": "Japonský športový spravodajský web Spread",
       "url": "https://spread-sports.jp/",
       "order": 21
     },
@@ -44046,7 +44046,7 @@
       "type": "link",
       "icon": "",
       "name": "Efight",
-      "desc": "",
+      "desc": "Japonský portál o bojových športoch eFight",
       "url": "https://efight.jp/",
       "order": 22
     },
@@ -44056,7 +44056,7 @@
       "type": "link",
       "icon": "",
       "name": "NHK sports",
-      "desc": "",
+      "desc": "Športová sekcia japonskej verejnoprávnej televízie NHK",
       "url": "https://www.nhk.jp/g/sports/",
       "order": 23
     },
@@ -44066,7 +44066,7 @@
       "type": "link",
       "icon": "",
       "name": "Yomiuri sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Jomiuri šimbun — najčítanejších novín sveta",
       "url": "https://www.yomiuri.co.jp/sports/",
       "order": 24
     },
@@ -44076,7 +44076,7 @@
       "type": "link",
       "icon": "",
       "name": "Asahi sports",
-      "desc": "",
+      "desc": "Športová rubrika japonského denníka Asahi šimbun",
       "url": "https://www.asahi.com/sports/",
       "order": 25
     },
@@ -44086,7 +44086,7 @@
       "type": "link",
       "icon": "",
       "name": "Mainichi sports",
-      "desc": "",
+      "desc": "Športová rubrika japonského denníka Mainiči šimbun",
       "url": "https://mainichi.jp/sports/",
       "order": 26
     },
@@ -44096,7 +44096,7 @@
       "type": "link",
       "icon": "",
       "name": "Japan Times sports",
-      "desc": "",
+      "desc": "Šport najstaršieho anglickojazyčného denníka v Japonsku The Japan Times",
       "url": "https://www.japantimes.co.jp/sports/",
       "order": 27
     },
@@ -44106,7 +44106,7 @@
       "type": "link",
       "icon": "",
       "name": "Kyodo News sports",
-      "desc": "",
+      "desc": "Športové správy japonskej tlačovej agentúry Kjódó (anglicky)",
       "url": "https://english.kyodonews.net/list/news/sports",
       "order": 28
     },
@@ -44116,7 +44116,7 @@
       "type": "link",
       "icon": "",
       "name": "Sankei sports",
-      "desc": "",
+      "desc": "Športová rubrika japonského denníka Sankei šimbun",
       "url": "https://www.sankei.com/sports/",
       "order": 29
     },
@@ -44126,7 +44126,7 @@
       "type": "link",
       "icon": "",
       "name": "Nikkei sports",
-      "desc": "",
+      "desc": "Športová rubrika japonského ekonomického denníka Nikkei",
       "url": "https://www.nikkei.com/sports/",
       "order": 30
     },
@@ -44136,7 +44136,7 @@
       "type": "link",
       "icon": "",
       "name": "Japan Today sports",
-      "desc": "",
+      "desc": "Šport anglickojazyčného portálu Japan Today",
       "url": "https://japantoday.com/category/sports",
       "order": 31
     },
@@ -44146,7 +44146,7 @@
       "type": "link",
       "icon": "",
       "name": "Doshinsports",
-      "desc": "",
+      "desc": "Športový web denníka Hokkaidó šimbun",
       "url": "https://www.doshinsports.com/",
       "order": 32
     },
@@ -44156,7 +44156,7 @@
       "type": "link",
       "icon": "",
       "name": "Nishinippon sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Nišinippon šimbun z ostrova Kjúšú",
       "url": "https://www.nishinippon.co.jp/theme/sports/",
       "order": 33
     },
@@ -44166,7 +44166,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Ghad sport",
-      "desc": "",
+      "desc": "Športová sekcia jordánskeho denníka Al Ghad",
       "url": "https://alghad.com/Category/17/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 0
     },
@@ -44176,7 +44176,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Rai sport",
-      "desc": "",
+      "desc": "Šport najstaršieho jordánskeho denníka Al Rai",
       "url": "https://alrai.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 1
     },
@@ -44186,7 +44186,7 @@
       "type": "link",
       "icon": "",
       "name": "Ad-Dustour sport",
-      "desc": "",
+      "desc": "Športová rubrika tradičného denníka Ad-Dustour",
       "url": "https://www.addustour.com/categories/7-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 2
     },
@@ -44196,7 +44196,7 @@
       "type": "link",
       "icon": "",
       "name": "Jordan Times sport",
-      "desc": "",
+      "desc": "Šport anglickojazyčného denníka The Jordan Times",
       "url": "https://jordantimes.com/news/sports",
       "order": 3
     },
@@ -44206,7 +44206,7 @@
       "type": "link",
       "icon": "",
       "name": "Jordan News sport",
-      "desc": "",
+      "desc": "Športová sekcia anglickojazyčného portálu Jordan News",
       "url": "https://www.jordannews.jo/Section-73/Local-Sports",
       "order": 4
     },
@@ -44216,7 +44216,7 @@
       "type": "link",
       "icon": "",
       "name": "Khaberni sport",
-      "desc": "",
+      "desc": "Šport populárneho jordánskeho spravodajského portálu Khaberni",
       "url": "https://www.khaberni.com/category/3-%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
       "order": 5
     },
@@ -44226,8 +44226,8 @@
       "type": "link",
       "icon": "",
       "name": "Al Anbat sport",
-      "desc": "",
-      "url": "https://alanbatnews.net/category-8/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9#google_vignette",
+      "desc": "Športová rubrika jordánskeho denníka Al Anbat",
+      "url": "https://alanbatnews.net/category-8/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 6
     },
     {
@@ -44236,7 +44236,7 @@
       "type": "link",
       "icon": "",
       "name": "Jfra news sport",
-      "desc": "",
+      "desc": "Šport jordánskeho spravodajského portálu JFRA News",
       "url": "https://jfranews.com.jo/category-9",
       "order": 7
     },
@@ -44246,7 +44246,7 @@
       "type": "link",
       "icon": "",
       "name": "Saraya news sport",
-      "desc": "",
+      "desc": "Športová sekcia jordánskeho portálu Saraya News",
       "url": "https://www.sarayanews.com/category/9",
       "order": 8
     },
@@ -44256,7 +44256,7 @@
       "type": "link",
       "icon": "",
       "name": "Maraya news sport",
-      "desc": "",
+      "desc": "Šport jordánskeho portálu Maraya News",
       "url": "https://marayanews.com/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 9
     },
@@ -44266,7 +44266,7 @@
       "type": "link",
       "icon": "",
       "name": "Sabay news sport",
-      "desc": "",
+      "desc": "Šport populárneho kambodžského portálu Sabay",
       "url": "https://news.sabay.com.kh/topics/sport",
       "order": 0
     },
@@ -44276,7 +44276,7 @@
       "type": "link",
       "icon": "",
       "name": "ThmeyThmey sport",
-      "desc": "",
+      "desc": "Športová sekcia khmérskeho portálu ThmeyThmey",
       "url": "https://thmeythmey.com/category/31",
       "order": 1
     },
@@ -44286,8 +44286,8 @@
       "type": "link",
       "icon": "",
       "name": "Khmer Times sport",
-      "desc": "",
-      "url": "khmertimeskh.com/category/sports/",
+      "desc": "Šport anglickojazyčného denníka Khmer Times",
+      "url": "https://khmertimeskh.com/category/sports/",
       "order": 2
     },
     {
@@ -44296,7 +44296,7 @@
       "type": "link",
       "icon": "",
       "name": "Phnom PenhPost sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka The Phnom Penh Post",
       "url": "https://phnompenhpost.com/category/sport/",
       "order": 3
     },
@@ -44306,7 +44306,7 @@
       "type": "link",
       "icon": "",
       "name": "Koh Santepheap sport",
-      "desc": "",
+      "desc": "Šport tradičného khmérskeho denníka Koh Santepheap",
       "url": "https://kohsantepheapdaily.com.kh/category/sport",
       "order": 4
     },
@@ -44316,7 +44316,7 @@
       "type": "link",
       "icon": "",
       "name": "Kampuchea Thmey sport",
-      "desc": "",
+      "desc": "Športová sekcia khmérskeho denníka Kampuchea Thmey",
       "url": "https://www.kampucheathmey.com/category/sports",
       "order": 5
     },
@@ -44326,7 +44326,7 @@
       "type": "link",
       "icon": "",
       "name": "Stad Doha",
-      "desc": "",
+      "desc": "Katarský športový portál Stad Doha",
       "url": "https://staddoha.com/",
       "order": 0
     },
@@ -44336,7 +44336,7 @@
       "type": "link",
       "icon": "",
       "name": "Doha Stadium Plus",
-      "desc": "",
+      "desc": "Katarský športový magazín Doha Stadium Plus",
       "url": "https://www.dohastadiumplusqatar.com/",
       "order": 1
     },
@@ -44346,7 +44346,7 @@
       "type": "link",
       "icon": "",
       "name": "Gulf Times sport",
-      "desc": "",
+      "desc": "Šport anglickojazyčného denníka Gulf Times",
       "url": "https://www.gulf-times.com/sport",
       "order": 2
     },
@@ -44356,7 +44356,7 @@
       "type": "link",
       "icon": "",
       "name": "Peninsula sport",
-      "desc": "",
+      "desc": "Športová sekcia katarského denníka The Peninsula",
       "url": "https://thepeninsulaqatar.com/category/sports",
       "order": 3
     },
@@ -44366,7 +44366,7 @@
       "type": "link",
       "icon": "",
       "name": "Qatar Tribune sport",
-      "desc": "",
+      "desc": "Šport anglickojazyčného denníka Qatar Tribune",
       "url": "https://www.qatar-tribune.com/sports",
       "order": 4
     },
@@ -44376,7 +44376,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Sharq sport",
-      "desc": "",
+      "desc": "Športová rubrika arabského denníka Al Sharq",
       "url": "https://al-sharq.com/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 5
     },
@@ -44386,7 +44386,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Watan sport",
-      "desc": "",
+      "desc": "Šport katarského denníka Al Watan",
       "url": "https://www.alwatanalakbar.com/category/Sports",
       "order": 6
     },
@@ -44396,7 +44396,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Rayah sport",
-      "desc": "",
+      "desc": "Športová rubrika katarského denníka Al Raya",
       "url": "https://www.raya.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 7
     },
@@ -44406,7 +44406,7 @@
       "type": "link",
       "icon": "",
       "name": "QNA sport",
-      "desc": "",
+      "desc": "Športové správy katarskej štátnej tlačovej agentúry QNA",
       "url": "https://qna.org.qa/en/sport",
       "order": 8
     },
@@ -44416,7 +44416,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Arab sport",
-      "desc": "",
+      "desc": "Šport katarského denníka Al Arab",
       "url": "https://alarab.qa/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 9
     },
@@ -44426,7 +44426,7 @@
       "type": "link",
       "icon": "",
       "name": "Doha news sport",
-      "desc": "",
+      "desc": "Športová sekcia anglickojazyčného portálu Doha News",
       "url": "https://dohanews.co/category/sports/",
       "order": 10
     },
@@ -44436,7 +44436,7 @@
       "type": "link",
       "icon": "",
       "name": "AKIpress sport",
-      "desc": "",
+      "desc": "Športová sekcia kirgizskej tlačovej agentúry AKIpress",
       "url": "https://sport.akipress.org/",
       "order": 0
     },
@@ -44446,7 +44446,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport",
-      "desc": "",
+      "desc": "Kirgizský športový portál Sport.kg",
       "url": "https://sport.kg/",
       "order": 1
     },
@@ -44456,7 +44456,7 @@
       "type": "link",
       "icon": "",
       "name": "Prosport",
-      "desc": "",
+      "desc": "Kirgizský športový web ProSports.kg",
       "url": "https://prosports.kg/",
       "order": 2
     },
@@ -44466,7 +44466,7 @@
       "type": "link",
       "icon": "",
       "name": "Super sport",
-      "desc": "",
+      "desc": "Športová rubrika populárneho kirgizského portálu Super.kg",
       "url": "https://www.super.kg/kabar/category/11",
       "order": 3
     },
@@ -44476,7 +44476,7 @@
       "type": "link",
       "icon": "",
       "name": "24.kg",
-      "desc": "",
+      "desc": "Šport kirgizskej spravodajskej agentúry 24.kg",
       "url": "https://24.kg/sport/",
       "order": 4
     },
@@ -44486,7 +44486,7 @@
       "type": "link",
       "icon": "",
       "name": "Kabar sport",
-      "desc": "",
+      "desc": "Športové správy kirgizskej štátnej agentúry Kabar",
       "url": "https://kabar.kg/cat/sport/",
       "order": 5
     },
@@ -44496,7 +44496,7 @@
       "type": "link",
       "icon": "",
       "name": "Mir24 sport",
-      "desc": "",
+      "desc": "Kirgizská športová sekcia televízie Mir24",
       "url": "https://kg.mir24.tv/news-category/sport",
       "order": 6
     },
@@ -44506,7 +44506,7 @@
       "type": "link",
       "icon": "",
       "name": "Reporter sport",
-      "desc": "",
+      "desc": "Šport kirgizského portálu Reporter.kg",
       "url": "https://reporter.kg/ru/category/news/sport-ru/",
       "order": 7
     },
@@ -44515,8 +44515,8 @@
       "parentId": "f_med_as_kp",
       "type": "link",
       "icon": "",
-      "name": "Ministrerstvo športu",
-      "desc": "",
+      "name": "Ministerstvo športu",
+      "desc": "Oficiálny web severokórejského ministerstva športu",
       "url": "http://www.sdprk.org.kp/",
       "order": 0
     },
@@ -44526,7 +44526,7 @@
       "type": "link",
       "icon": "",
       "name": "KCNA",
-      "desc": "",
+      "desc": "Oficiálna severokórejská štátna tlačová agentúra KCNA",
       "url": "http://www.kcna.kp/",
       "order": 1
     },
@@ -44536,7 +44536,7 @@
       "type": "link",
       "icon": "",
       "name": "NK news",
-      "desc": "",
+      "desc": "Nezávislý web o dianí v KĽDR so sídlom v Soule",
       "url": "https://www.nknews.org/",
       "order": 2
     },
@@ -44546,7 +44546,7 @@
       "type": "link",
       "icon": "",
       "name": "Naenara",
-      "desc": "",
+      "desc": "Oficiálny severokórejský štátny portál Naenara",
       "url": "http://www.naenara.com.kp/main/index/en/society",
       "order": 3
     },
@@ -44556,7 +44556,7 @@
       "type": "link",
       "icon": "",
       "name": "Naver Sports",
-      "desc": "",
+      "desc": "Športový portál najväčšieho kórejského vyhľadávača Naver",
       "url": "https://m.sports.naver.com/index",
       "order": 0
     },
@@ -44566,7 +44566,7 @@
       "type": "link",
       "icon": "",
       "name": "Daum Sports",
-      "desc": "",
+      "desc": "Športová sekcia kórejského portálu Daum (Kakao)",
       "url": "https://sports.daum.net/",
       "order": 1
     },
@@ -44576,7 +44576,7 @@
       "type": "link",
       "icon": "",
       "name": "Chosun sports",
-      "desc": "",
+      "desc": "Šport denníka Chosun Ilbo (anglická verzia)",
       "url": "https://www.chosun.com/english/sports-en/",
       "order": 2
     },
@@ -44586,7 +44586,7 @@
       "type": "link",
       "icon": "",
       "name": "Sports Seoul",
-      "desc": "",
+      "desc": "Tradičný kórejský športový denník Sports Seoul",
       "url": "https://www.sportsseoul.com/",
       "order": 3
     },
@@ -44596,7 +44596,7 @@
       "type": "link",
       "icon": "",
       "name": "Spotvnews",
-      "desc": "",
+      "desc": "Spravodajský web kórejskej športovej televízie SPOTV",
       "url": "https://www.spotvnews.co.kr/",
       "order": 4
     },
@@ -44606,7 +44606,7 @@
       "type": "link",
       "icon": "",
       "name": "KBS sports",
-      "desc": "",
+      "desc": "Športová sekcia verejnoprávnej televízie KBS",
       "url": "https://sports.kbs.co.kr/",
       "order": 5
     },
@@ -44616,7 +44616,7 @@
       "type": "link",
       "icon": "",
       "name": "SBS sports",
-      "desc": "",
+      "desc": "Šport kórejskej komerčnej televízie SBS",
       "url": "https://sports.sbs.co.kr/",
       "order": 6
     },
@@ -44626,7 +44626,7 @@
       "type": "link",
       "icon": "",
       "name": "Interfootball",
-      "desc": "",
+      "desc": "Kórejský futbalový spravodajský web Interfootball",
       "url": "https://www.interfootball.co.kr/",
       "order": 7
     },
@@ -44636,7 +44636,7 @@
       "type": "link",
       "icon": "",
       "name": "Footballist",
-      "desc": "",
+      "desc": "Kórejský futbalový portál Footballist",
       "url": "https://www.footballist.co.kr/",
       "order": 8
     },
@@ -44646,7 +44646,7 @@
       "type": "link",
       "icon": "",
       "name": "OSEN sports",
-      "desc": "",
+      "desc": "Šport kórejskej spravodajskej agentúry OSEN",
       "url": "https://www.osen.co.kr/sports",
       "order": 9
     },
@@ -44656,7 +44656,7 @@
       "type": "link",
       "icon": "",
       "name": "Stn sports",
-      "desc": "",
+      "desc": "Kórejský športový spravodajský web STN Sports",
       "url": "https://www.stnsports.co.kr/",
       "order": 10
     },
@@ -44666,7 +44666,7 @@
       "type": "link",
       "icon": "",
       "name": "Jumpball",
-      "desc": "",
+      "desc": "Kórejský basketbalový portál Jumpball",
       "url": "https://www.jumpball.co.kr/",
       "order": 11
     },
@@ -44676,7 +44676,7 @@
       "type": "link",
       "icon": "",
       "name": "KBL basketbal",
-      "desc": "",
+      "desc": "Oficiálny web kórejskej basketbalovej ligy KBL",
       "url": "https://www.kbl.or.kr/",
       "order": 12
     },
@@ -44686,7 +44686,7 @@
       "type": "link",
       "icon": "",
       "name": "MK Sports",
-      "desc": "",
+      "desc": "Športový web denníka Maeil Business Newspaper (MK)",
       "url": "https://www.mksports.co.kr/",
       "order": 13
     },
@@ -44696,7 +44696,7 @@
       "type": "link",
       "icon": "",
       "name": "Xportsnews",
-      "desc": "",
+      "desc": "Kórejský športovo-zábavný spravodajský web Xports News",
       "url": "https://www.xportsnews.com/",
       "order": 14
     },
@@ -44706,7 +44706,7 @@
       "type": "link",
       "icon": "",
       "name": "JoyNews24 sports",
-      "desc": "",
+      "desc": "Športová sekcia kórejského portálu JoyNews24",
       "url": "https://www.joynews24.com/list/sports",
       "order": 15
     },
@@ -44716,7 +44716,7 @@
       "type": "link",
       "icon": "",
       "name": "Yonhap news sports",
-      "desc": "",
+      "desc": "Športové správy juhokórejskej tlačovej agentúry Yonhap (anglicky)",
       "url": "https://en.yna.co.kr/sports/index",
       "order": 16
     },
@@ -44726,7 +44726,7 @@
       "type": "link",
       "icon": "",
       "name": "Korea Herald sports",
-      "desc": "",
+      "desc": "Šport anglickojazyčného denníka The Korea Herald",
       "url": "https://www.koreaherald.com/Sports",
       "order": 17
     },
@@ -44736,7 +44736,7 @@
       "type": "link",
       "icon": "",
       "name": "Korea Times sports",
-      "desc": "",
+      "desc": "Športová rubrika anglickojazyčného denníka The Korea Times",
       "url": "https://www.koreatimes.co.kr/sports",
       "order": 18
     },
@@ -44746,7 +44746,7 @@
       "type": "link",
       "icon": "",
       "name": "JoongAng sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka JoongAng Ilbo",
       "url": "https://www.joongang.co.kr/sports",
       "order": 19
     },
@@ -44756,7 +44756,7 @@
       "type": "link",
       "icon": "",
       "name": "Khan sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Kyunghyang Shinmun",
       "url": "https://www.khan.co.kr/sports",
       "order": 20
     },
@@ -44766,7 +44766,7 @@
       "type": "link",
       "icon": "",
       "name": "Hankook ilbo sports",
-      "desc": "",
+      "desc": "Šport kórejského denníka Hankook Ilbo",
       "url": "https://www.hankookilbo.com/news/sports",
       "order": 21
     },
@@ -44776,7 +44776,7 @@
       "type": "link",
       "icon": "",
       "name": "Donga sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Dong-A Ilbo",
       "url": "https://www.donga.com/news/Sports",
       "order": 22
     },
@@ -44786,7 +44786,7 @@
       "type": "link",
       "icon": "",
       "name": "Hankyoreh sports",
-      "desc": "",
+      "desc": "Šport kórejského denníka Hankyoreh",
       "url": "https://www.hani.co.kr/arti/sports",
       "order": 23
     },
@@ -44796,7 +44796,7 @@
       "type": "link",
       "icon": "",
       "name": "Kuwait Times sport",
-      "desc": "",
+      "desc": "Šport najstaršieho anglickojazyčného denníka v Perzskom zálive Kuwait Times",
       "url": "https://kuwaittimes.com/sports/",
       "order": 0
     },
@@ -44806,7 +44806,7 @@
       "type": "link",
       "icon": "",
       "name": "Arab Times sport",
-      "desc": "",
+      "desc": "Športová sekcia anglickojazyčného denníka Arab Times",
       "url": "https://www.arabtimesonline.com/news/category/sports/",
       "order": 1
     },
@@ -44816,7 +44816,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Qabas sports",
-      "desc": "",
+      "desc": "Šport kuvajtského denníka Al Qabas",
       "url": "https://www.alqabas.com/categories/7-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/",
       "order": 2
     },
@@ -44826,7 +44826,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Anba sports",
-      "desc": "",
+      "desc": "Športová rubrika kuvajtského denníka Al Anba",
       "url": "https://www.alanba.com.kw/ar/sport-news/",
       "order": 3
     },
@@ -44836,7 +44836,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Watan sports",
-      "desc": "",
+      "desc": "Šport kuvajtského denníka Al Watan",
       "url": "https://alwatan.kuwait.tt/categoryhome.aspx?catid=42",
       "order": 4
     },
@@ -44846,7 +44846,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Aan sports",
-      "desc": "",
+      "desc": "Športová sekcia kuvajtského portálu Al Aan",
       "url": "https://www.alaan.cc/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/",
       "order": 5
     },
@@ -44856,7 +44856,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Jareeda sport",
-      "desc": "",
+      "desc": "Šport kuvajtského denníka Al Jarida",
       "url": "https://www.aljarida.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 6
     },
@@ -44866,7 +44866,7 @@
       "type": "link",
       "icon": "",
       "name": "Timeskuwait sports",
-      "desc": "",
+      "desc": "Športová rubrika anglickojazyčného týždenníka The Times Kuwait",
       "url": "https://timeskuwait.com/category/news/sports/",
       "order": 7
     },
@@ -44876,7 +44876,7 @@
       "type": "link",
       "icon": "",
       "name": "KPL sports",
-      "desc": "",
+      "desc": "Športové správy laoskej štátnej tlačovej agentúry KPL",
       "url": "https://kpl.gov.la/En/News.aspx?cat=23",
       "order": 0
     },
@@ -44886,7 +44886,7 @@
       "type": "link",
       "icon": "",
       "name": "LNTV sport",
-      "desc": "",
+      "desc": "Šport laoskej národnej televízie LNTV",
       "url": "https://lntv.gov.la/categories/36",
       "order": 1
     },
@@ -44896,9 +44896,1849 @@
       "type": "link",
       "icon": "",
       "name": "Lao Phattana news",
-      "desc": "",
+      "desc": "Športová rubrika portálu Lao Phattana News",
       "url": "https://laophattananews.com/category/%e0%ba%81%e0%ba%b4%e0%ba%a5%e0%ba%b2/",
       "order": 2
+    },
+    {
+      "id": "f_ukr_l1",
+      "parentId": "f_fut_klu_eu_ukr",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier liha",
+      "desc": "Najvyššia ukrajinská súťaž (Ukrajinska Premjer-liha) — 16 klubov (sezóna 2026/27).",
+      "order": 1,
+      "slug": "premier-liha"
+    },
+    {
+      "id": "f_ukr_l2",
+      "parentId": "f_fut_klu_eu_ukr",
+      "type": "folder",
+      "icon": "",
+      "name": "Perša liha",
+      "desc": "Druhá najvyššia ukrajinská súťaž — 16 klubov (sezóna 2026/27).",
+      "order": 2,
+      "slug": "persa-liha"
+    },
+    {
+      "id": "f_wal_l1",
+      "parentId": "f_fut_klu_eu_wal",
+      "type": "folder",
+      "icon": "",
+      "name": "Cymru Premier",
+      "desc": "Najvyššia waleská súťaž (Novira Cymru Premier) — od sezóny 2026/27 rozšírená z 12 na 16 klubov.",
+      "order": 1,
+      "slug": "cymru-premier"
+    },
+    {
+      "id": "f_wal_l2n",
+      "parentId": "f_fut_klu_eu_wal",
+      "type": "folder",
+      "icon": "",
+      "name": "Cymru North",
+      "desc": "Druhá waleská liga — severná skupina, 16 klubov (sezóna 2026/27).",
+      "order": 2,
+      "slug": "cymru-north"
+    },
+    {
+      "id": "f_wal_l2s",
+      "parentId": "f_fut_klu_eu_wal",
+      "type": "folder",
+      "icon": "",
+      "name": "Cymru South",
+      "desc": "Druhá waleská liga — južná skupina, 16 klubov (sezóna 2026/27).",
+      "order": 3,
+      "slug": "cymru-south"
+    },
+    {
+      "id": "f_ukr_l1_k1",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Šachtar Doneck",
+      "desc": "Doneck — 15-násobný majster a obhajca titulu, pre vojnu hráva domáce zápasy na Arene Ľviv.",
+      "url": "https://shakhtar.com/",
+      "order": 1
+    },
+    {
+      "id": "f_ukr_l1_k2",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dynamo Kyjiv",
+      "desc": "Kyjiv — rekordný 16-násobný majster Ukrajiny a najslávnejší klub krajiny.",
+      "url": "https://fcdynamo.com/",
+      "order": 2
+    },
+    {
+      "id": "f_ukr_l1_k3",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Čornomorec Odesa",
+      "desc": "Odesa — tradičný prístavný klub, do UPL sa vrátil po roku z druhého miesta Peršej lihy.",
+      "url": "https://chornomorets.ua/",
+      "order": 3
+    },
+    {
+      "id": "f_ukr_l1_k4",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Zorja Luhansk",
+      "desc": "Luhansk — pre vojnu hráva v Kyjive, v uplynulej dekáde stály účastník európskych pohárov.",
+      "url": "https://fczorya.com/",
+      "order": 4
+    },
+    {
+      "id": "f_ukr_l1_k5",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Obolon Kyjiv",
+      "desc": "Kyjiv — klub pivovaru Obolon, domáce zápasy hráva na Obolon Arene.",
+      "url": "https://fc.obolon.ua/",
+      "order": 5
+    },
+    {
+      "id": "f_ukr_l1_k6",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bukovyna Černivci",
+      "desc": "Černivci — víťaz Peršej lihy 2025/26, do najvyššej súťaže sa vrátil po 32 rokoch.",
+      "url": "https://bukfc.com/",
+      "order": 6
+    },
+    {
+      "id": "f_ukr_l1_k7",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kryvbas Kryvyj Rih",
+      "desc": "Kryvyj Rih — banícky klub obnovený v roku 2020, stabilná súčasť UPL.",
+      "url": "https://fckryvbas.com/",
+      "order": 7
+    },
+    {
+      "id": "f_ukr_l1_k8",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Polissja Žytomyr",
+      "desc": "Žytomyr — ambiciózny klub podnikateľa Hennadija Butkevyča, v UPL od roku 2023.",
+      "url": "https://polissyafc.com/",
+      "order": 8
+    },
+    {
+      "id": "f_ukr_l1_k9",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Veres Rivne",
+      "desc": "Rivne — klub so silnou fanúšikovskou tradíciou, medzi elitou pôsobí od roku 2021.",
+      "url": "https://nkveres.com/",
+      "order": 9
+    },
+    {
+      "id": "f_ukr_l1_k10",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kolos Kovalivka",
+      "desc": "Kovalivka — dedinský klub z Kyjivskej oblasti, ktorý sa prebojoval až do európskych pohárov.",
+      "url": "https://koloskovalivka.com/",
+      "order": 10
+    },
+    {
+      "id": "f_ukr_l1_k11",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Kharkiv",
+      "desc": "Charkiv — do júna 2026 hral ako Metalist 1925, pre vojnu hráva na Arene Livyj Bereh pri Kyjive.",
+      "url": "https://fckharkiv.com/",
+      "order": 11
+    },
+    {
+      "id": "f_ukr_l1_k12",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "LNZ Čerkasy",
+      "desc": "Čerkasy — klub agroholdingu LNZ, v UPL debutoval 2023 a rýchlo sa usadil v hornej polovici tabuľky.",
+      "url": "https://fc-lnz.com/",
+      "order": 12
+    },
+    {
+      "id": "f_ukr_l1_k13",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Epicentr Kamjanec-Podiľskyj",
+      "desc": "Kamjanec-Podiľskyj — klub siete hobbymarketov Epicentr, v UPL od sezóny 2025/26.",
+      "url": "https://fcepicentr.com.ua/",
+      "order": 13
+    },
+    {
+      "id": "f_ukr_l1_k14",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Livyj Bereh Kyjiv",
+      "desc": "Kyjiv — víťaz baráže 2025/26, na jeho Arene Livyj Bereh hráva aj FC Kharkiv.",
+      "url": "https://fclb.com.ua/",
+      "order": 14
+    },
+    {
+      "id": "f_ukr_l1_k15",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Karpaty Ľviv",
+      "desc": "Ľviv — obnovená legenda západnej Ukrajiny, víťaz sovietskeho pohára z roku 1969.",
+      "url": "https://fckarpaty.org.ua/",
+      "order": 15
+    },
+    {
+      "id": "f_ukr_l1_k16",
+      "parentId": "f_ukr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Kudrivka",
+      "desc": "Kudrivka — klub z malej obce v Černihivskej oblasti, v UPL od 2025, hráva na Obolon Arene.",
+      "url": "https://fckudrivka.com/",
+      "order": 16
+    },
+    {
+      "id": "f_ukr_l2_k1",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Oleksandrija",
+      "desc": "Oleksandrija — po jedenástich sezónach v UPL zostúpil po prehratej baráži 2025/26.",
+      "url": "https://www.fco.com.ua/",
+      "order": 1
+    },
+    {
+      "id": "f_ukr_l2_k2",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "SC Poltava",
+      "desc": "Poltava — z UPL zostúpil po jedinej sezóne medzi elitou.",
+      "url": "https://scpoltava.com/",
+      "order": 2
+    },
+    {
+      "id": "f_ukr_l2_k3",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Metalist Charkiv",
+      "desc": "Charkiv — nositeľ slávnej značky Metalist; iný klub než premenovaný FC Kharkiv (ex-Metalist 1925).",
+      "url": "https://fcmetalist.com.ua/",
+      "order": 3
+    },
+    {
+      "id": "f_ukr_l2_k4",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Prykarpattia-Blaho",
+      "desc": "Ivano-Frankivsk — klub z Prykarpatia, od roku 2026 vystupuje s názvom Prykarpattia-Blaho.",
+      "url": "https://fc.if.ua/",
+      "order": 4
+    },
+    {
+      "id": "f_ukr_l2_k5",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Lokomotyv Kyjiv",
+      "desc": "Kyjiv — najstarší profesionálny klub mesta (1919), postúpil ako víťaz skupiny B Druhej lihy.",
+      "url": "https://lokomotyv.com/",
+      "order": 5
+    },
+    {
+      "id": "f_ukr_l2_k6",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Inhulec Petrove",
+      "desc": "Petrove — klub z Kirovohradskej oblasti, ako druholigista si zahral finále ukrajinského pohára 2019.",
+      "url": "https://ingulets.club/",
+      "order": 6
+    },
+    {
+      "id": "f_ukr_l2_k7",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ahrobiznes Voločysk",
+      "desc": "Voločysk — agropodnikový klub z Chmeľnyckej oblasti, stálica Peršej lihy.",
+      "url": "https://fcab.com.ua/",
+      "order": 7
+    },
+    {
+      "id": "f_ukr_l2_k8",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Viktorija Sumy",
+      "desc": "Sumy — klub založený 2015, profesionálny štatút získal 2021 a rýchlo vystúpal do Peršej lihy.",
+      "url": "https://fcviktoria.com.ua/",
+      "order": 8
+    },
+    {
+      "id": "f_ukr_l2_k9",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Feniks Mariupoľ",
+      "desc": "Klub reprezentujúci Mariupoľ, pre vojnu pôsobí mimo svojho mesta.",
+      "url": "https://fcfeniks.org.ua/",
+      "order": 9
+    },
+    {
+      "id": "f_ukr_l2_k10",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Černihiv",
+      "desc": "Černihiv — klub s prezývkou „tigre“ a vlastnou mládežníckou akadémiou.",
+      "url": "http://chernigiv.ua/",
+      "order": 10
+    },
+    {
+      "id": "f_ukr_l2_k11",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "UCSA Tarasivka",
+      "desc": "Tarasivka — klub Ukrajinskej kresťanskej športovej akadémie z Kyjivskej oblasti.",
+      "url": "https://fcucsa.github.io/ucsa/",
+      "order": 11
+    },
+    {
+      "id": "f_ukr_l2_k12",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Nyva Ternopiľ",
+      "desc": "Ternopiľ — tradičný klub západnej Ukrajiny, v 90. rokoch účastník najvyššej súťaže.",
+      "url": "https://fcnyva.com/",
+      "order": 12
+    },
+    {
+      "id": "f_ukr_l2_k13",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Polissja-2 Žytomyr",
+      "desc": "Rezervný tím Polissje Žytomyr — odkaz vedie na web materského klubu; nováčik z Druhej lihy.",
+      "url": "https://polissyafc.com/",
+      "order": 13
+    },
+    {
+      "id": "f_ukr_l2_k14",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kolos-2 Kovalivka",
+      "desc": "Rezervný tím Kolosu Kovalivka — odkaz vedie na web materského klubu; nováčik z Druhej lihy.",
+      "url": "https://koloskovalivka.com/",
+      "order": 14
+    },
+    {
+      "id": "f_ukr_l2_k15",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kulykiv-Bilka",
+      "desc": "Kulykiv — víťaz skupiny A Druhej lihy 2025/26, debutant druhej najvyššej súťaže.",
+      "url": "https://fckulykiv-bilka.com.ua/",
+      "order": 15
+    },
+    {
+      "id": "f_ukr_l2_k16",
+      "parentId": "f_ukr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Probij Horodenka",
+      "desc": "Horodenka — malomestský klub z Ivano-Frankivskej oblasti, pevná súčasť Peršej lihy.",
+      "url": "https://nkprobiy.if.ua/",
+      "order": 16
+    },
+    {
+      "id": "f_wal_l1_k1",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "The New Saints",
+      "desc": "Oswestry — rekordný majster Walesu a prvý waleský klub v hlavnej fáze európskeho pohára (2023/24).",
+      "url": "https://tnsfc.co.uk/",
+      "order": 1
+    },
+    {
+      "id": "f_wal_l1_k2",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Connah’s Quay Nomads",
+      "desc": "Connah’s Quay — dvojnásobný majster (2020, 2021) a najvážnejší vyzývateľ TNS.",
+      "url": "https://www.the-nomads.co.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_wal_l1_k3",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Caernarfon Town",
+      "desc": "Caernarfon — „Kanárici“ spod hradu, v lete 2026 si zahrali kvalifikáciu Konferenčnej ligy.",
+      "url": "https://www.caernarfontownfc.co.uk/",
+      "order": 3
+    },
+    {
+      "id": "f_wal_l1_k4",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Penybont",
+      "desc": "Bridgend — klub založený 2013, rýchlo vyrástol na účastníka európskych kvalifikácií.",
+      "url": "https://www.penybontfc.cymru/",
+      "order": 4
+    },
+    {
+      "id": "f_wal_l1_k5",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Haverfordwest County",
+      "desc": "Haverfordwest — klub z Pembrokeshiru, v roku 2023 postúpil v Konferenčnej lige cez penalty.",
+      "url": "https://haverfordwestcountyafc.com/",
+      "order": 5
+    },
+    {
+      "id": "f_wal_l1_k6",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Barry Town United",
+      "desc": "Barry — dominátor waleskej ligy 90. rokov, po krachu obnovený fanúšikmi v roku 2013.",
+      "url": "https://barrytown.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_wal_l1_k7",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Cardiff Metropolitan",
+      "desc": "Cardiff — univerzitný klub, prvá univerzita v histórii v kvalifikácii Európskej ligy (2019).",
+      "url": "https://cardiffmetfc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_wal_l1_k8",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Colwyn Bay",
+      "desc": "Colwyn Bay — dlhé roky hrával v anglickom systéme, do Cymru Premier postúpil 2023.",
+      "url": "https://cbfc.wales/",
+      "order": 8
+    },
+    {
+      "id": "f_wal_l1_k9",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Airbus UK Broughton",
+      "desc": "Broughton — „Wingmakers“, tovární klub výrobcu lietadiel Airbus, vrátil sa po rozšírení ligy.",
+      "url": "https://www.airbusukfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_wal_l1_k10",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Flint Town United",
+      "desc": "Flint — „Silkmen“ hrávajú na Cae-y-Castell neďaleko hradu.",
+      "url": "https://flinttownunited.co.uk/",
+      "order": 10
+    },
+    {
+      "id": "f_wal_l1_k11",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Briton Ferry Llansawel",
+      "desc": "Briton Ferry — klub vznikol 2009 zlúčením Briton Ferry Athletic a Llansawelu.",
+      "url": "https://www.britonferryllansawelafc.com/",
+      "order": 11
+    },
+    {
+      "id": "f_wal_l1_k12",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Llandudno",
+      "desc": "Llandudno — prímorský klub, do najvyššej súťaže sa vrátil po ôsmich rokoch.",
+      "url": "https://www.llandudnofc.co.uk/",
+      "order": 12
+    },
+    {
+      "id": "f_wal_l1_k13",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ammanford",
+      "desc": "Ammanford — nováčik z Cymru South, historicky prvý postup klubu medzi elitu.",
+      "url": "https://ammanfordafc.co.uk/",
+      "order": 13
+    },
+    {
+      "id": "f_wal_l1_k14",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Cambrian United",
+      "desc": "Clydach Vale — jediný zástupca Rhondda Cynon Taf v najvyššej súťaži, postúpil 2026.",
+      "url": "https://cambrianunited.cymru/",
+      "order": 14
+    },
+    {
+      "id": "f_wal_l1_k15",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Holywell Town",
+      "desc": "Holywell — „Wellmen“, jeden z nováčikov po rozšírení ligy na 16 tímov.",
+      "url": "https://www.holywelltownfc.co.uk/",
+      "order": 15
+    },
+    {
+      "id": "f_wal_l1_k16",
+      "parentId": "f_wal_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Trefelin BGC",
+      "desc": "Port Talbot — komunitný klub založený 1984, historický postup do Cymru Premier.",
+      "url": "https://trefelinbgc.com/",
+      "order": 16
+    },
+    {
+      "id": "f_wal_l2n_k1",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Bala Town",
+      "desc": "Bala — dlhoročný účastník Cymru Premier, po sezóne 2025/26 zostúpil.",
+      "url": "https://www.balatownfc.net/",
+      "order": 1
+    },
+    {
+      "id": "f_wal_l2n_k2",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Newtown",
+      "desc": "Newtown — tradičný klub zo stredného Walesu, zakladajúci člen ligy z roku 1992.",
+      "url": "https://www.newtownafc.co.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_wal_l2n_k3",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Caersws",
+      "desc": "Caersws — dedinský klub s bohatou históriou vo waleskej lige.",
+      "url": "https://www.pitchero.com/clubs/caerswsfc2/",
+      "order": 3
+    },
+    {
+      "id": "f_wal_l2n_k4",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Porthmadog",
+      "desc": "Porthmadog — jeden z najstarších klubov Walesu (1872), hráva na Y Traeth.",
+      "url": "https://cpdporthmadogfc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_wal_l2n_k5",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Guilsfield",
+      "desc": "Guilsfield — dedinský klub pri Welshpoole, stálica Cymru North.",
+      "url": "https://www.pitchero.com/clubs/guilsfieldfc/",
+      "order": 5
+    },
+    {
+      "id": "f_wal_l2n_k6",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Holyhead Hotspur",
+      "desc": "Holyhead — „Včely“ z ostrova Anglesey.",
+      "url": "https://holyheadhotspur.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_wal_l2n_k7",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Rhyl 1879",
+      "desc": "Rhyl — pokračovateľ slávneho Rhyl FC, obnovený v roku 2020.",
+      "url": "https://www.rhylfc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_wal_l2n_k8",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Gresford Athletic",
+      "desc": "Gresford — klub z okolia Wrexhamu založený 1946.",
+      "url": "https://gresfordathleticfc.co.uk/",
+      "order": 8
+    },
+    {
+      "id": "f_wal_l2n_k9",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Penrhyncoch",
+      "desc": "Penrhyncoch — „Roosters“ z dediny pri Aberystwythe.",
+      "url": "https://penrhyncochfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_wal_l2n_k10",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Denbigh Town",
+      "desc": "Denbigh — klub založený 1876, domáce zápasy hráva v Central Parku.",
+      "url": "https://www.denbightownfc.co.uk/",
+      "order": 10
+    },
+    {
+      "id": "f_wal_l2n_k11",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Buckley Town",
+      "desc": "Buckley — „Bucks“ z Flintshiru, hrávajú na štadióne The Globe.",
+      "url": "https://btfc.cymru/",
+      "order": 11
+    },
+    {
+      "id": "f_wal_l2n_k12",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Brickfield Rangers",
+      "desc": "Wrexham — mestský klub hrávajúci v Clywedog Parku.",
+      "url": "https://brickfieldrangers.co.uk/",
+      "order": 12
+    },
+    {
+      "id": "f_wal_l2n_k13",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Mold Alexandra",
+      "desc": "Mold — klub zo správneho centra Flintshiru.",
+      "url": "https://www.pitchero.com/clubs/moldalex/",
+      "order": 13
+    },
+    {
+      "id": "f_wal_l2n_k14",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Ruthin Town",
+      "desc": "Ruthin — v súťaži zostal vďaka reprieve po dobrovoľnom odstúpení Flint Mountain.",
+      "url": "https://www.pitchero.com/clubs/ruthintown/",
+      "order": 14
+    },
+    {
+      "id": "f_wal_l2n_k15",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Llanuwchllyn",
+      "desc": "Llanuwchllyn — majster Ardal NE 2025/26, dedinský nováčik od jazera Bala.",
+      "url": "https://www.pitchero.com/clubs/cpdllanuwchllyn/",
+      "order": 15
+    },
+    {
+      "id": "f_wal_l2n_k16",
+      "parentId": "f_wal_l2n",
+      "type": "link",
+      "icon": "",
+      "name": "Bangor City 1876",
+      "desc": "Bangor — fanúšikovský nástupca slávneho Bangor City, postúpil z Ardal NW.",
+      "url": "https://www.bangor1876.com/",
+      "order": 16
+    },
+    {
+      "id": "f_wal_l2s_k1",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Llanelli Town",
+      "desc": "Llanelli — majster Walesu 2008, po sezóne 2025/26 zostúpil z Cymru Premier.",
+      "url": "https://llanellitownafc.com/",
+      "order": 1
+    },
+    {
+      "id": "f_wal_l2s_k2",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Aberystwyth Town",
+      "desc": "Aberystwyth — stálica waleského futbalu od roku 1884, dlhé roky pôsobil v najvyššej súťaži.",
+      "url": "https://www.atfc.org.uk/",
+      "order": 2
+    },
+    {
+      "id": "f_wal_l2s_k3",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Carmarthen Town",
+      "desc": "Carmarthen — „Old Gold“, v minulosti účastník európskych pohárov.",
+      "url": "https://carmarthentownafc.co.uk/",
+      "order": 3
+    },
+    {
+      "id": "f_wal_l2s_k4",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Pontypridd United",
+      "desc": "Pontypridd — klub z údolia rieky Taff, nedávno hrával aj Cymru Premier.",
+      "url": "https://www.pontypriddunited.co.uk/",
+      "order": 4
+    },
+    {
+      "id": "f_wal_l2s_k5",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Afan Lido",
+      "desc": "Port Talbot — klub založený 1967 pri športovom centre Afan Lido.",
+      "url": "https://afanlido.com/",
+      "order": 5
+    },
+    {
+      "id": "f_wal_l2s_k6",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Caerau Ely",
+      "desc": "Cardiff — komunitný klub zo západu hlavného mesta založený 1955.",
+      "url": "https://www.caerauelyfc.co.uk/",
+      "order": 6
+    },
+    {
+      "id": "f_wal_l2s_k7",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Pontardawe Town",
+      "desc": "Pontardawe — nováčik z Ardal SW z údolia rieky Tawe.",
+      "url": "https://www.pontardawetownafc.co.uk/",
+      "order": 7
+    },
+    {
+      "id": "f_wal_l2s_k8",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Treowen Stars",
+      "desc": "Treowen — dedinský klub pri Newbridgi založený 1926.",
+      "url": "https://treowenstarsfc.co.uk/",
+      "order": 8
+    },
+    {
+      "id": "f_wal_l2s_k9",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Llantwit Major",
+      "desc": "Llantwit Major — pobrežný klub z Vale of Glamorgan (1962).",
+      "url": "https://llantwitmajorafc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_wal_l2s_k10",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Trethomas Bluebirds",
+      "desc": "Trethomas — klub s koreňmi z roku 1903 z okresu Caerphilly.",
+      "url": "https://trethomasbluebirdsafc.co.uk/",
+      "order": 10
+    },
+    {
+      "id": "f_wal_l2s_k11",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Cardiff Draconians",
+      "desc": "Cardiff — „Dracs“, majster Ardal SW 2024/25.",
+      "url": "https://cardiffdracs.com/",
+      "order": 11
+    },
+    {
+      "id": "f_wal_l2s_k12",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "gb-wls",
+      "name": "Caerphilly Athletic",
+      "desc": "Caerphilly — nováčik z Ardal SE bez vlastného webu, odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/caerphillyathleticfc/",
+      "order": 12
+    },
+    {
+      "id": "f_wal_l2s_k13",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Pure Swansea",
+      "desc": "Swansea — klub pod týmto názvom od 2025, hráva na Sketty Lane; nováčik Cymru South.",
+      "url": "https://pureswanseafc.com/",
+      "order": 13
+    },
+    {
+      "id": "f_wal_l2s_k14",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "gb-wls",
+      "name": "Ynyshir Albions",
+      "desc": "Ynyshir — klub z údolia Rhondda (1992) bez vlastného webu, odkaz vedie na oficiálny Facebook.",
+      "url": "https://www.facebook.com/ynyshiralbionsfc/",
+      "order": 14
+    },
+    {
+      "id": "f_wal_l2s_k15",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Baglan Dragons",
+      "desc": "Baglan — „Draci“ z Port Talbotu.",
+      "url": "https://www.baglandragons.com/",
+      "order": 15
+    },
+    {
+      "id": "f_wal_l2s_k16",
+      "parentId": "f_wal_l2s",
+      "type": "link",
+      "icon": "",
+      "name": "Newport City",
+      "desc": "Newport — mestský klub, v sezóne 2024/25 dosiahol historické tretie miesto v Cymru South.",
+      "url": "https://www.newportcityfootballclub.com/",
+      "order": 16
+    },
+    {
+      "id": "f_geo_l1",
+      "parentId": "f_fut_klu_eu_geo",
+      "type": "folder",
+      "icon": "",
+      "name": "Crystalbet Erovnuli Liga",
+      "desc": "Najvyššia gruzínska súťaž, 10 klubov (sezóna 2026, hrá sa v kalendárnom roku).",
+      "order": 1,
+      "slug": "crystalbet-erovnuli-liga"
+    },
+    {
+      "id": "f_geo_l2",
+      "parentId": "f_fut_klu_eu_geo",
+      "type": "folder",
+      "icon": "",
+      "name": "Crystalbet Erovnuli Liga 2",
+      "desc": "Druhá najvyššia gruzínska súťaž, 10 klubov (sezóna 2026).",
+      "order": 2,
+      "slug": "crystalbet-erovnuli-liga-2"
+    },
+    {
+      "id": "f_geo_l1_k1",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dinamo Batumi",
+      "desc": "Klub z prístavného mesta Batumi na pobreží Čierneho mora, v posledných sezónach jeden z najsilnejších v gruzínskej lige.",
+      "url": "https://dinamobatumi.com/",
+      "order": 1
+    },
+    {
+      "id": "f_geo_l1_k2",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Gagra",
+      "desc": "Tbilisijský klub pomenovaný podľa abcházskeho mesta Gagra, odkiaľ museli jeho zakladatelia po vojne o Abcházsko odísť.",
+      "url": "https://gagrafc.ge/en/",
+      "order": 2
+    },
+    {
+      "id": "f_geo_l1_k3",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Iberia 1999",
+      "desc": "Klub zo štvrte Saburtalo v Tbilisi, do roku 2023 hral pod menom FC Saburtalo.",
+      "url": "https://fciberia1999.ge/en/",
+      "order": 3
+    },
+    {
+      "id": "f_geo_l1_k4",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dila Gori",
+      "desc": "Klub z mesta Gori, viacnásobný gruzínsky majster z 90. rokov 20. storočia.",
+      "url": "https://fcdila.ge/en/home-2/",
+      "order": 4
+    },
+    {
+      "id": "f_geo_l1_k5",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Meshakhte Tkibuli",
+      "desc": "Klub z banského mesta Tkibuli — názov „mešachte\" po gruzínsky znamená baník.",
+      "url": "https://www.instagram.com/meshakhte/",
+      "order": 5
+    },
+    {
+      "id": "f_geo_l1_k6",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Samgurali",
+      "desc": "Klub z kúpeľného mesta Tskaltubo, pomenovaný podľa okolitého regiónu Samgurali.",
+      "url": "https://fcsamgurali.ge/",
+      "order": 6
+    },
+    {
+      "id": "f_geo_l1_k7",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Rustavi",
+      "desc": "Priemyselné mesto južne od Tbilisi, klub bol založený v roku 2015.",
+      "url": "https://fcrustavi.com/en",
+      "order": 7
+    },
+    {
+      "id": "f_geo_l1_k8",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Torpedo Kutaisi",
+      "desc": "Jeden z najstarších gruzínskych klubov (1946), pochádza z druhého najväčšieho mesta krajiny Kutaisi.",
+      "url": "https://torpedo.ge/en",
+      "order": 8
+    },
+    {
+      "id": "f_geo_l1_k9",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Spaeri",
+      "desc": "Tbilisijský klub založený v roku 2017 zamestnancami Štátnej ochrannej služby, do najvyššej ligy postúpil po sezóne 2025.",
+      "url": "https://www.facebook.com/SpaeriFC/",
+      "order": 9
+    },
+    {
+      "id": "f_geo_l1_k10",
+      "parentId": "f_geo_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dinamo Tbilisi",
+      "desc": "Najúspešnejší gruzínsky klub histórie, v roku 1981 ako jediný gruzínsky tím získal európsky pohár (PVP).",
+      "url": "https://fcdinamo.ge/",
+      "order": 10
+    },
+    {
+      "id": "f_geo_l2_k1",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Gareji Sagarejo",
+      "desc": "Klub z mesta Sagarejo vo východnom Gruzínsku, pomenovaný podľa neďalekého kláštorného komplexu Dávida Garedžu.",
+      "url": "https://fcgareji.ge/",
+      "order": 1
+    },
+    {
+      "id": "f_geo_l2_k2",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Telavi",
+      "desc": "Klub z hlavného mesta vinárskeho regiónu Kachetia, založený v roku 2016.",
+      "url": "https://fctelavi.ge/",
+      "order": 2
+    },
+    {
+      "id": "f_geo_l2_k3",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Merani Martvili",
+      "desc": "Klub zo západogruzínskeho mesta Martvili, založený v roku 1979.",
+      "url": "https://merani-martvili-fc.ge/en/",
+      "order": 3
+    },
+    {
+      "id": "f_geo_l2_k4",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Shturmi",
+      "desc": "Klub z mesta Gali v Abcházsku, kvôli konfliktu v regióne dnes hráva domáce zápasy mimo neho.",
+      "url": "https://www.facebook.com/SFCSHTURMI/",
+      "order": 4
+    },
+    {
+      "id": "f_geo_l2_k5",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Dusheti",
+      "desc": "Klub z mesta Dušeti pri rieke Aragvi, po ktorej je pomenovaný (Aragvi Dušeti) — domáce zápasy hráva v Mccheta či Tbilisi.",
+      "url": "https://www.facebook.com/dushetisaragvi/",
+      "order": 5
+    },
+    {
+      "id": "f_geo_l2_k6",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bolnisi",
+      "desc": "Klub Sioni z mesta Bolnisi, gruzínsky majster v sezóne 2005/06.",
+      "url": "https://sioni-fc.ge/en/",
+      "order": 6
+    },
+    {
+      "id": "f_geo_l2_k7",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Odishi 1919",
+      "desc": "Klub z mesta Zugdidi v regióne Samegrelo, pomenovaný podľa historického názvu regiónu Odiši.",
+      "url": "https://www.facebook.com/p/FC-Odishi-1919-61558080410880/",
+      "order": 7
+    },
+    {
+      "id": "f_geo_l2_k8",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kolkheti 1913",
+      "desc": "Jeden z najstarších gruzínskych klubov, založený v roku 1913 v prístavnom meste Poti.",
+      "url": "https://www.facebook.com/fcKolkheti1913/",
+      "order": 8
+    },
+    {
+      "id": "f_geo_l2_k9",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Gori",
+      "desc": "Druhý klub z mesta Gori popri Dile, do 2. ligy postúpil po sezóne 2025.",
+      "url": "https://fcgori.ge/",
+      "order": 9
+    },
+    {
+      "id": "f_geo_l2_k10",
+      "parentId": "f_geo_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Samtredia",
+      "desc": "Klub zo železničného mesta Samtredia, založený v roku 1936.",
+      "url": "https://fcsamtredia.ge/team/fc-samtredia/",
+      "order": 10
+    },
+    {
+      "id": "f_isr_l1",
+      "parentId": "f_fut_klu_eu_isr",
+      "type": "folder",
+      "icon": "",
+      "name": "Ligat ha'Al",
+      "desc": "Najvyššia izraelská súťaž, 14 klubov (sezóna 2026/27).",
+      "order": 1,
+      "slug": "ligat-haal"
+    },
+    {
+      "id": "f_isr_l2",
+      "parentId": "f_fut_klu_eu_isr",
+      "type": "folder",
+      "icon": "",
+      "name": "Leumit League",
+      "desc": "Druhá najvyššia izraelská súťaž, 16 klubov (sezóna 2026/27).",
+      "order": 2,
+      "slug": "leumit-league"
+    },
+    {
+      "id": "f_isr_l1_k1",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Beer Sheva",
+      "desc": "Klub z južného mesta Beerševa, izraelský majster v sezónach 2015/16 a 2016/17.",
+      "url": "https://hbsfc.co.il/",
+      "order": 1
+    },
+    {
+      "id": "f_isr_l1_k2",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Haifa",
+      "desc": "Klub prezývaný „Žraloky\" z prístavného mesta Haifa.",
+      "url": "https://www.hapoelhaifa.co.il/",
+      "order": 2
+    },
+    {
+      "id": "f_isr_l1_k3",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Jerusalem",
+      "desc": "Klub vlastnený vlastnými fanúšikmi, obnovený v roku 2020 pod historickým menom po zániku pôvodného klubu Hapoel Jerusalem.",
+      "url": "https://www.hjfc.co.il/?lang=en",
+      "order": 3
+    },
+    {
+      "id": "f_isr_l1_k4",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Tel Aviv",
+      "desc": "Rekordný izraelský majster (26 titulov, stav k sezóne 2024/25).",
+      "url": "https://www.maccabi-tlv.co.il/en/",
+      "order": 4
+    },
+    {
+      "id": "f_isr_l1_k5",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Tel Aviv",
+      "desc": "Klub hrajúci na štadióne Bloomfield, v sezóne 2001/02 ako prvý izraelský tím postúpil do štvrťfinále Pohára UEFA.",
+      "url": "https://www.htafc.co.il/en/",
+      "order": 5
+    },
+    {
+      "id": "f_isr_l1_k6",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Beitar Jerusalem",
+      "desc": "Klub z Jeruzalema, v roku 1996 ako prvý izraelský klub spustil vlastnú oficiálnu webstránku.",
+      "url": "https://www.beitar-jerusalem.org.il/",
+      "order": 6
+    },
+    {
+      "id": "f_isr_l1_k7",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ironi Tiberias",
+      "desc": "Klub z mesta Tiberias na brehu Galilejského jazera.",
+      "url": "https://idtiberias.com/",
+      "order": 7
+    },
+    {
+      "id": "f_isr_l1_k8",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Petah Tikva",
+      "desc": "Jeden z najstarších izraelských klubov, založený v roku 1926 v meste Petach Tikva.",
+      "url": "https://www.hapoelpt.com/",
+      "order": 8
+    },
+    {
+      "id": "f_isr_l1_k9",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Haifa",
+      "desc": "Klub, ktorý ako jediný izraelský tím opakovane postúpil do skupinovej fázy Ligy majstrov (naposledy v sezóne 2022/23).",
+      "url": "https://en.mhaifafc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_isr_l1_k10",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Ramat Gan",
+      "desc": "Klub z mesta Ramat Gan pri Tel Avive, založený v roku 1927.",
+      "url": "https://www.facebook.com/hapoelrg/",
+      "order": 10
+    },
+    {
+      "id": "f_isr_l1_k11",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Petah Tikva",
+      "desc": "Klub z Petach Tikvy hrajúci na štadióne Ha-Mošava.",
+      "url": "https://m-pt.co.il/",
+      "order": 11
+    },
+    {
+      "id": "f_isr_l1_k12",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ironi Kiryat Shmona",
+      "desc": "Klub zo severného mesta Kirjat Šmona pri libanonských hraniciach, prekvapivo získal svoj jediný titul v sezóne 2011/12.",
+      "url": "https://iturank8.co.il/",
+      "order": 12
+    },
+    {
+      "id": "f_isr_l1_k13",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Netanya",
+      "desc": "Klub z pobrežného mesta Netanja, založený v roku 1934.",
+      "url": "https://fcmn.co.il/",
+      "order": 13
+    },
+    {
+      "id": "f_isr_l1_k14",
+      "parentId": "f_isr_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bnei Sakhnin",
+      "desc": "Klub z arabského mesta Sachnin, jediný arabsko-izraelský tím, ktorý vyhral Štátny pohár (2004).",
+      "url": "https://www.facebook.com/sakhnin.fc/",
+      "order": 14
+    },
+    {
+      "id": "f_isr_l2_k1",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Akko",
+      "desc": "Klub z prístavného mesta Akko na severe krajiny, založený v roku 1946.",
+      "url": "https://www.fc-akko.com/about",
+      "order": 1
+    },
+    {
+      "id": "f_isr_l2_k2",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kiryat Gat",
+      "desc": "Klub Maccabi z južného mesta Kirjat Gat.",
+      "url": "https://www.facebook.com/p/%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%94%D7%9B%D7%93%D7%95%D7%A8%D7%92%D7%9C-%D7%9E%D7%9B%D7%91%D7%99-%D7%A7%D7%A8%D7%99%D7%99%D7%AA-%D7%92%D7%AA-%D7%94%D7%93%D7%A3-%D7%94%D7%A8%D7%A9%D7%9E%D7%99-FC-Maccabi-Kiryat-Gat-100083117177909/",
+      "order": 2
+    },
+    {
+      "id": "f_isr_l2_k3",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "H. Ironi Rishon",
+      "desc": "Klub Hapoel Ironi z mesta Rišon le-Cijon južne od Tel Avivu.",
+      "url": "https://www.facebook.com/hapoelrishonfc/",
+      "order": 3
+    },
+    {
+      "id": "f_isr_l2_k4",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Kfar Saba",
+      "desc": "Klub z mesta Kfar Sava, založený v roku 1928.",
+      "url": "https://www.facebook.com/HapoelKfarSaba.FC/",
+      "order": 4
+    },
+    {
+      "id": "f_isr_l2_k5",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "H. Raanana",
+      "desc": "Klub Hapoel z mesta Ra'anana, v roku 2018 oslávil 80 rokov od založenia.",
+      "url": "https://www.hapoel-raanana.co.il/",
+      "order": 5
+    },
+    {
+      "id": "f_isr_l2_k6",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "M. Nazareth",
+      "desc": "Klub Maccabi Achi z mesta Nazaret, založený v roku 1967 zlúčením dvoch miestnych klubov.",
+      "url": "https://www.instagram.com/maccabiakhinazareth/",
+      "order": 6
+    },
+    {
+      "id": "f_isr_l2_k7",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Afula",
+      "desc": "Klub z mesta Afula v Jezreelskom údolí.",
+      "url": "https://www.facebook.com/p/%D7%94%D7%A4%D7%95%D7%A2%D7%9C-%D7%A2%D7%A4%D7%95%D7%9C%D7%94-%D7%A8%D7%A9%D7%9E%D7%99-100009798258775/",
+      "order": 7
+    },
+    {
+      "id": "f_isr_l2_k8",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "SC Ashdod",
+      "desc": "Klub z prístavného mesta Ašdod, založený v roku 1999.",
+      "url": "https://www.fcashdod.co.il/",
+      "order": 8
+    },
+    {
+      "id": "f_isr_l2_k9",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Hapoel Kfar Shalem",
+      "desc": "Klub zo štvrte Kfar Šalem v Tel Avive, hráva na štadióne v susednej štvrti Ha-Tikva.",
+      "url": "https://www.facebook.com/HapoelKfarShalem/",
+      "order": 9
+    },
+    {
+      "id": "f_isr_l2_k10",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "MS Kafr Qasim",
+      "desc": "Klub z arabského mesta Kafr Kásim, vznikol v roku 2002 zlúčením miestnych klubov Hapoel a Maccabi.",
+      "url": "https://www.instagram.com/kqsfc/",
+      "order": 10
+    },
+    {
+      "id": "f_isr_l2_k11",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Ironi Modiin",
+      "desc": "Klub z mesta Modiin-Maccabim-Reut, založený v roku 2009, do Leumit League postúpil po sezóne 2024/25.",
+      "url": "https://www.facebook.com/imodiin/",
+      "order": 11
+    },
+    {
+      "id": "f_isr_l2_k12",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "M. Herzliya",
+      "desc": "Klub Maccabi z pobrežného mesta Herzliya, založený v roku 1932.",
+      "url": "http://www.maccabiherzeliya.com/",
+      "order": 12
+    },
+    {
+      "id": "f_isr_l2_k13",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Bnei Raina",
+      "desc": "Klub z arabskej obce Rejna pri Nazarete.",
+      "url": "https://www.facebook.com/maccabibneireineh/",
+      "order": 13
+    },
+    {
+      "id": "f_isr_l2_k14",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Bnei Yehuda",
+      "desc": "Klub zo štvrte Šapira v Tel Avive, jediný titul izraelského majstra získal v sezóne 1989/90.",
+      "url": "https://bneiyehuda.co.il/",
+      "order": 14
+    },
+    {
+      "id": "f_isr_l2_k15",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Maccabi Jaffa",
+      "desc": "Klub zo starobylej štvrte Jafa v Tel Avive.",
+      "url": "https://www.facebook.com/maccabijaffafc/",
+      "order": 15
+    },
+    {
+      "id": "f_isr_l2_k16",
+      "parentId": "f_isr_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kiryat Yam",
+      "desc": "Klub z pobrežného mesta Kirjat Jam pri Haife, založený v roku 2008.",
+      "url": "https://www.facebook.com/KIRYATYAMFC/",
+      "order": 16
+    },
+    {
+      "id": "f_kaz_l1",
+      "parentId": "f_fut_klu_eu_kaz",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "Najvyššia kazašská súťaž, 16 klubov (sezóna 2026).",
+      "order": 1,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_kaz_l2",
+      "parentId": "f_fut_klu_eu_kaz",
+      "type": "folder",
+      "icon": "",
+      "name": "First League",
+      "desc": "Druhá najvyššia kazašská súťaž, 14 klubov vrátane rezervných tímov top klubov (sezóna 2026).",
+      "order": 2,
+      "slug": "first-league"
+    },
+    {
+      "id": "f_kaz_l1_k1",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ordabasy Shymkent",
+      "desc": "Klub z južného mesta Šymkent, na čele tabuľky sezóny 2026.",
+      "url": "https://fcordabasy.kz/en",
+      "order": 1
+    },
+    {
+      "id": "f_kaz_l1_k2",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kairat Almaty",
+      "desc": "Klub z najväčšieho kazašského mesta Almaty, v sezóne 2026/27 sa prebojoval do skupinovej fázy Ligy majstrov UEFA.",
+      "url": "https://fckairat.com/en/",
+      "order": 2
+    },
+    {
+      "id": "f_kaz_l1_k3",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Okzhetpes Kokshetau",
+      "desc": "Klub z mesta Kokšetau — pôvodná doména okzhetpes.kz je dnes stránka online kasína, preto odkaz vedie na Facebook.",
+      "url": "https://www.facebook.com/okzhetpes/",
+      "order": 3
+    },
+    {
+      "id": "f_kaz_l1_k4",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Astana",
+      "desc": "Klub z hlavného mesta Astana, s rekordnými siedmimi titulmi majstra krajiny.",
+      "url": "https://fcastana.kz/",
+      "order": 4
+    },
+    {
+      "id": "f_kaz_l1_k5",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aktobe",
+      "desc": "Klub zo západokazašského mesta Aktobe, päťnásobný majster krajiny.",
+      "url": "https://fc-aktobe.kz/en",
+      "order": 5
+    },
+    {
+      "id": "f_kaz_l1_k6",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ulytau Zhezkazgan",
+      "desc": "Klub z ťažobného mesta Žezkazgan, založený v roku 2022 a odvtedy postúpil až do najvyššej súťaže.",
+      "url": "https://fculytau.kz/en",
+      "order": 6
+    },
+    {
+      "id": "f_kaz_l1_k7",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Yelimay Semey",
+      "desc": "Klub z mesta Semej (pôvodne Elimai), trojnásobný majster Kazachstanu z 90. rokov (1994, 1995, 1998).",
+      "url": "https://fcelimai.kz/",
+      "order": 7
+    },
+    {
+      "id": "f_kaz_l1_k8",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Zhenis Astana",
+      "desc": "Ďalší klub z hlavného mesta Astana, založený v roku 1964.",
+      "url": "https://jenisfk.kz/",
+      "order": 8
+    },
+    {
+      "id": "f_kaz_l1_k9",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Tobol Kostanay",
+      "desc": "Klub z mesta Kostanaj, pomenovaný podľa rieky Tobol.",
+      "url": "https://fctobol.kz/",
+      "order": 9
+    },
+    {
+      "id": "f_kaz_l1_k10",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kaisar Kyzylorda",
+      "desc": "Klub z mesta Kyzylorda, zakladajúci člen Kazašskej Premiér ligy.",
+      "url": "https://kaysar.kz/",
+      "order": 10
+    },
+    {
+      "id": "f_kaz_l1_k11",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Atyrau",
+      "desc": "Klub z ropného mesta Atyrau, pôvodne založený v roku 1980 pod menom Prikaspiec.",
+      "url": "https://rfcatyrau.kz/",
+      "order": 11
+    },
+    {
+      "id": "f_kaz_l1_k12",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Zhetysu Taldykorgan",
+      "desc": "Klub z mesta Taldykorgan v regióne Žetysu.",
+      "url": "https://fcjetisu.kz/",
+      "order": 12
+    },
+    {
+      "id": "f_kaz_l1_k13",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kaspiy Aktau",
+      "desc": "Klub z prístavného mesta Aktau na brehu Kaspického mora, do najvyššej ligy postúpil ako minuloročný víťaz First League.",
+      "url": "https://caspiyfc.kz/",
+      "order": 13
+    },
+    {
+      "id": "f_kaz_l1_k14",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kyzylzhar Petropavlovsk",
+      "desc": "Klub zo severokazašského mesta Petropavlovsk.",
+      "url": "https://qyzyljarfc.kz/",
+      "order": 14
+    },
+    {
+      "id": "f_kaz_l1_k15",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Altai Oskemen",
+      "desc": "Klub z mesta Öskemen, vznikol v roku 2016 zlúčením klubov Spartak Semej a Vostok.",
+      "url": "https://altai-fc.kz/",
+      "order": 15
+    },
+    {
+      "id": "f_kaz_l1_k16",
+      "parentId": "f_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ertis Pavlodar",
+      "desc": "Klub z mesta Pavlodar pri rieke Irtyš — oficiálna stránka fcirtysh.kz bola počas overovania nedostupná (chyba servera 522), preto odkaz vedie na Facebook.",
+      "url": "https://www.facebook.com/fc.ertis/",
+      "order": 16
+    },
+    {
+      "id": "f_kaz_l2_k1",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Akademiya Ontustik",
+      "desc": "Klub zo Šymkentu zložený z absolventov futbalovej akadémie Ontustik — oficiálny web sa nenašiel, odkaz vedie na Instagram.",
+      "url": "https://www.instagram.com/fca_ontustik/",
+      "order": 1
+    },
+    {
+      "id": "f_kaz_l2_k2",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Astana-2",
+      "desc": "Rezervný B-tím Astany — odkaz vedie na web materského klubu.",
+      "url": "https://fcastana.kz/",
+      "order": 2
+    },
+    {
+      "id": "f_kaz_l2_k3",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Zhaiyq Oral",
+      "desc": "Klub z mesta Oral (Uralsk), založený v roku 2025 ako nástupca zaniknutého klubu Akžajyk — oficiálny web sa nenašiel, odkaz vedie na Instagram (nezamieňať so samostatným pôvodným klubom Akžajyk).",
+      "url": "https://www.instagram.com/fc_jaiyq/",
+      "order": 3
+    },
+    {
+      "id": "f_kaz_l2_k4",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Khan Tengri Almaty",
+      "desc": "Almatynský klub pomenovaný podľa najvyššieho vrchu pohoria Ťan-Šan, založený v roku 2022.",
+      "url": "https://hantaniri-fc.kz/",
+      "order": 4
+    },
+    {
+      "id": "f_kaz_l2_k5",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kaspiy Aktau-2",
+      "desc": "Rezervný B-tím Kaspiy Aktau — odkaz vedie na web materského klubu.",
+      "url": "https://caspiyfc.kz/",
+      "order": 5
+    },
+    {
+      "id": "f_kaz_l2_k6",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Batyr",
+      "desc": "Klub z mesta Ekibastuz, v roku 2026 premenovaný z Ekibastuz na Batyr.",
+      "url": "https://ekibastuz-fc.kz/",
+      "order": 6
+    },
+    {
+      "id": "f_kaz_l2_k7",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Yelimay Semey-2",
+      "desc": "Rezervný B-tím Yelimay Semey — odkaz vedie na web materského klubu.",
+      "url": "https://fcelimai.kz/",
+      "order": 7
+    },
+    {
+      "id": "f_kaz_l2_k8",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Taraz",
+      "desc": "Klub z južného mesta Taraz, majster Kazachstanu v roku 1996.",
+      "url": "https://tarazfc.kz/ru/",
+      "order": 8
+    },
+    {
+      "id": "f_kaz_l2_k9",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Aktobe-2",
+      "desc": "Rezervný B-tím Aktobe — odkaz vedie na web materského klubu.",
+      "url": "https://fc-aktobe.kz/en",
+      "order": 9
+    },
+    {
+      "id": "f_kaz_l2_k10",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Kairat Almaty-2",
+      "desc": "Rezervný B-tím Kairatu Almaty — odkaz vedie na web materského klubu.",
+      "url": "https://fckairat.com/en/",
+      "order": 10
+    },
+    {
+      "id": "f_kaz_l2_k11",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Shakhter Karagandy",
+      "desc": "Banícky klub z mesta Karagandy.",
+      "url": "https://shakhter.kz/",
+      "order": 11
+    },
+    {
+      "id": "f_kaz_l2_k12",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Arys",
+      "desc": "Klub z mesta Arys v Turkestanskom regióne — oficiálny web sa nenašiel, odkaz vedie na Instagram.",
+      "url": "https://www.instagram.com/fc.arys/",
+      "order": 12
+    },
+    {
+      "id": "f_kaz_l2_k13",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Turan Turkistan",
+      "desc": "Klub z mesta Turkestan — pôvodná doména fc-turan.kz je dnes stránka lotérie, preto odkaz vedie na Instagram.",
+      "url": "https://www.instagram.com/fc.turan/",
+      "order": 13
+    },
+    {
+      "id": "f_kaz_l2_k14",
+      "parentId": "f_kaz_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Tobol-2",
+      "desc": "Rezervný B-tím Tobolu Kostanaj — odkaz vedie na web materského klubu.",
+      "url": "https://fctobol.kz/",
+      "order": 14
+    },
+    {
+      "id": "f_aze_l1",
+      "parentId": "f_fut_klu_eu_aze",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "Najvyššia azerbajdžanská súťaž, 12 klubov (sezóna 2026/27).",
+      "order": 1,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_aze_l1_k1",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Qarabag",
+      "desc": "Klub pôvodne z mesta Agdam v Náhornom Karabachu, od vojenského konfliktu hráva v Baku — viacnásobný azerbajdžanský majster a pravidelný účastník skupinovej fázy európskych pohárov.",
+      "url": "https://qarabagh.com/",
+      "order": 1
+    },
+    {
+      "id": "f_aze_l1_k2",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sabah Baku",
+      "desc": "Klub z Baku, v sezóne 2026/27 hráva 2. predkolo Ligy majstrov UEFA.",
+      "url": "https://sabahfc.az/",
+      "order": 2
+    },
+    {
+      "id": "f_aze_l1_k3",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Neftçi Baku",
+      "desc": "Klub z Baku spájaný s ropným priemyslom, deväťnásobný azerbajdžanský majster.",
+      "url": "https://neftchi.az/",
+      "order": 3
+    },
+    {
+      "id": "f_aze_l1_k4",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kapaz",
+      "desc": "Klub z mesta Gandža, trojnásobný majster z 90. rokov (1994/95, 1997/98, 1998/99).",
+      "url": "https://www.kapazpfc.az/",
+      "order": 4
+    },
+    {
+      "id": "f_aze_l1_k5",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sumqayit",
+      "desc": "Klub z priemyselného mesta Sumgait.",
+      "url": "https://sfc.az/",
+      "order": 5
+    },
+    {
+      "id": "f_aze_l1_k6",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Zira",
+      "desc": "Klub z osady Zire neďaleko Baku.",
+      "url": "https://fczire.az/",
+      "order": 6
+    },
+    {
+      "id": "f_aze_l1_k7",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Araz-Naxçıvan",
+      "desc": "Klub z exklávy Nachičevaň, do najvyššej ligy postúpil v roku 2023 — oficiálne domény anpfc.az aj arazpfk.com sa ukázali nefunkčné/prevzaté (mailový server), preto odkaz vedie na Facebook.",
+      "url": "https://www.facebook.com/ArazNaxcivanPFK/",
+      "order": 7
+    },
+    {
+      "id": "f_aze_l1_k8",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Gabala",
+      "desc": "Klub z mesta Gabala v podhorí Kaukazu.",
+      "url": "https://gabalafc.az/az/",
+      "order": 8
+    },
+    {
+      "id": "f_aze_l1_k9",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Shamakhi",
+      "desc": "Klub z historického mesta Šamachy.",
+      "url": "https://shamakhifc.az/",
+      "order": 9
+    },
+    {
+      "id": "f_aze_l1_k10",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Imisli FK",
+      "desc": "Klub z mesta Imišli, založený v roku 2004.",
+      "url": "https://imishli-pfk.com/en/",
+      "order": 10
+    },
+    {
+      "id": "f_aze_l1_k11",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Safa Baku",
+      "desc": "Klub Şəfa z Baku.",
+      "url": "https://shafa-fc.com/",
+      "order": 11
+    },
+    {
+      "id": "f_aze_l1_k12",
+      "parentId": "f_aze_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Turan Tovuz",
+      "desc": "Klub z mesta Tovuz — oficiálny web sa nenašiel, odkaz vedie na Facebook.",
+      "url": "https://www.facebook.com/TuranTovuzPFK/",
+      "order": 12
     }
   ]
 }
