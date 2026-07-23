@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -182,7 +182,7 @@
       "id": "a1784540759131",
       "icon": "🛶",
       "name": "MS vo vodnom slalome",
-      "url": "https://www.canoeicf.com/canoe-slalom-world-championships/oklahoma-city-2026",
+      "url": "https://siwidata.com/CanoeLive/#/live/icf/2393",
       "endsAt": "2026-07-26",
       "addedAt": 1784540759131
     }
@@ -44350,7 +44350,7 @@
       "name": "Stad Doha",
       "desc": "Katarský športový portál Stad Doha",
       "url": "https://staddoha.com/",
-      "order": 0
+      "order": 1
     },
     {
       "id": "n1784562411420ux0",
@@ -44360,7 +44360,7 @@
       "name": "Doha Stadium Plus",
       "desc": "Katarský športový magazín Doha Stadium Plus",
       "url": "https://www.dohastadiumplusqatar.com/",
-      "order": 1
+      "order": 2
     },
     {
       "id": "n1784562535308n0j",
@@ -44370,7 +44370,7 @@
       "name": "Gulf Times sport",
       "desc": "Šport anglickojazyčného denníka Gulf Times",
       "url": "https://www.gulf-times.com/sport",
-      "order": 2
+      "order": 3
     },
     {
       "id": "n1784562564950waq",
@@ -44380,7 +44380,7 @@
       "name": "Peninsula sport",
       "desc": "Športová sekcia katarského denníka The Peninsula",
       "url": "https://thepeninsulaqatar.com/category/sports",
-      "order": 3
+      "order": 4
     },
     {
       "id": "n1784562591463m7c",
@@ -44390,7 +44390,7 @@
       "name": "Qatar Tribune sport",
       "desc": "Šport anglickojazyčného denníka Qatar Tribune",
       "url": "https://www.qatar-tribune.com/sports",
-      "order": 4
+      "order": 5
     },
     {
       "id": "n1784562652209zsy",
@@ -44400,7 +44400,7 @@
       "name": "Al Sharq sport",
       "desc": "Športová rubrika arabského denníka Al Sharq",
       "url": "https://al-sharq.com/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
-      "order": 5
+      "order": 6
     },
     {
       "id": "n1784562689498127",
@@ -44410,7 +44410,7 @@
       "name": "Al Watan sport",
       "desc": "Šport katarského denníka Al Watan",
       "url": "https://www.alwatanalakbar.com/category/Sports",
-      "order": 6
+      "order": 7
     },
     {
       "id": "n17845627366758xk",
@@ -44420,7 +44420,7 @@
       "name": "Al Rayah sport",
       "desc": "Športová rubrika katarského denníka Al Raya",
       "url": "https://www.raya.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
-      "order": 7
+      "order": 8
     },
     {
       "id": "n17845629253597hb",
@@ -44430,7 +44430,7 @@
       "name": "QNA sport",
       "desc": "Športové správy katarskej štátnej tlačovej agentúry QNA",
       "url": "https://qna.org.qa/en/sport",
-      "order": 8
+      "order": 9
     },
     {
       "id": "n1784563019452j83",
@@ -44440,7 +44440,7 @@
       "name": "Al Arab sport",
       "desc": "Šport katarského denníka Al Arab",
       "url": "https://alarab.qa/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
-      "order": 9
+      "order": 10
     },
     {
       "id": "n1784563045667z68",
@@ -44450,7 +44450,7 @@
       "name": "Doha news sport",
       "desc": "Športová sekcia anglickojazyčného portálu Doha News",
       "url": "https://dohanews.co/category/sports/",
-      "order": 10
+      "order": 11
     },
     {
       "id": "n17845734968838or",
@@ -49052,6 +49052,686 @@
       "desc": "",
       "url": "https://www.vivalanka.com/news/pagelist.jsp?categoryid=102",
       "order": 15
+    },
+    {
+      "id": "n17848333686773e8",
+      "parentId": "f_med_as_sy",
+      "type": "link",
+      "icon": "",
+      "name": "SANA sport",
+      "desc": "",
+      "url": "https://sana.sy/en/sport/",
+      "order": 0
+    },
+    {
+      "id": "n178483342442369v",
+      "parentId": "f_med_as_sy",
+      "type": "link",
+      "icon": "",
+      "name": "Al Thawra sport",
+      "desc": "",
+      "url": "https://thawra.sy/local_category/%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/",
+      "order": 1
+    },
+    {
+      "id": "n1784833523432b3z",
+      "parentId": "f_med_as_sy",
+      "type": "link",
+      "icon": "",
+      "name": "Enab Baladi sport",
+      "desc": "",
+      "url": "https://www.enabbaladi.net/category/sport/",
+      "order": 2
+    },
+    {
+      "id": "n1784833774457d6n",
+      "parentId": "f_med_as_sy",
+      "type": "link",
+      "icon": "",
+      "name": "Syria news sport",
+      "desc": "",
+      "url": "https://syria.news/?cat=sport-news",
+      "order": 3
+    },
+    {
+      "id": "n1784833864843pkf",
+      "parentId": "f_med_as_sy",
+      "type": "link",
+      "icon": "",
+      "name": "Al Ayam sport",
+      "desc": "",
+      "url": "https://www.alayam.com/online/sport",
+      "order": 4
+    },
+    {
+      "id": "n1784834287702iz6",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "SPORTS",
+      "desc": "",
+      "url": "https://sports.tj/",
+      "order": 0
+    },
+    {
+      "id": "n1784834407724rdf",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "Asia plus sport",
+      "desc": "",
+      "url": "https://asiaplus.news/category/tematika/sport/",
+      "order": 1
+    },
+    {
+      "id": "n1784834492974txo",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "Jumhuriyat sport",
+      "desc": "",
+      "url": "https://jumhuriyat.tj/bahsho/varzish/",
+      "order": 2
+    },
+    {
+      "id": "n1784834622930zfk",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "Javonon sport",
+      "desc": "",
+      "url": "http://javonon.tj/news/sport/",
+      "order": 3
+    },
+    {
+      "id": "n17848346852850ej",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "Avesta sport",
+      "desc": "",
+      "url": "https://en.avesta.tj/news/sport/",
+      "order": 4
+    },
+    {
+      "id": "n17848347620444pe",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "Varzish TV",
+      "desc": "",
+      "url": "https://varzishtv.tj/tj/",
+      "order": 5
+    },
+    {
+      "id": "n17848349097723is",
+      "parentId": "f_med_as_tj",
+      "type": "link",
+      "icon": "",
+      "name": "TV Futbol",
+      "desc": "",
+      "url": "https://ftv.tj/",
+      "order": 6
+    },
+    {
+      "id": "n1784835047149ytk",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "TSNA",
+      "desc": "",
+      "url": "https://tsna.com/",
+      "order": 0
+    },
+    {
+      "id": "n1784835094697fxw",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Yahoo sports Taiwan",
+      "desc": "",
+      "url": "https://tw.sports.yahoo.com/",
+      "order": 1
+    },
+    {
+      "id": "n17848351301890qf",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "CPBL",
+      "desc": "",
+      "url": "https://www.cpbl.com.tw/",
+      "order": 2
+    },
+    {
+      "id": "n17848351584723ye",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "P League basketbal",
+      "desc": "",
+      "url": "https://pleagueofficial.com/",
+      "order": 3
+    },
+    {
+      "id": "n1784835704529j49",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Liberta Times sports",
+      "desc": "",
+      "url": "https://sports.ltn.com.tw/",
+      "order": 4
+    },
+    {
+      "id": "n1784835734253jds",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "ET Today sports",
+      "desc": "",
+      "url": "https://sports.ettoday.net/",
+      "order": 5
+    },
+    {
+      "id": "n1784835785755g6i",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "UDN sports",
+      "desc": "",
+      "url": "https://udn.com/news/cate/2/7227",
+      "order": 6
+    },
+    {
+      "id": "n178483583782691j",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "China Times sports",
+      "desc": "",
+      "url": "https://www.chinatimes.com/sports",
+      "order": 7
+    },
+    {
+      "id": "n1784835860732ten",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Taipei Times sport",
+      "desc": "",
+      "url": "https://www.taipeitimes.com/News/sport",
+      "order": 8
+    },
+    {
+      "id": "n1784836117651x37",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Focus Taiwan sports",
+      "desc": "",
+      "url": "https://focustaiwan.tw/sports/",
+      "order": 9
+    },
+    {
+      "id": "n1784836222536nzd",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Sportsv",
+      "desc": "",
+      "url": "https://www.sportsv.net/",
+      "order": 10
+    },
+    {
+      "id": "n17848362652399fz",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "NOW news sport",
+      "desc": "",
+      "url": "https://www.nownews.com/cat/sport/",
+      "order": 11
+    },
+    {
+      "id": "n17848362966480qt",
+      "parentId": "f_med_as_tw",
+      "type": "link",
+      "icon": "",
+      "name": "Taiwan plus sport",
+      "desc": "",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/sports",
+      "order": 12
+    },
+    {
+      "id": "n1784836567448ylx",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Siam sport",
+      "desc": "",
+      "url": "https://www.siamsport.co.th/",
+      "order": 0
+    },
+    {
+      "id": "n1784836618338p7h",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Ballthai",
+      "desc": "",
+      "url": "https://www.ballthai.com/",
+      "order": 1
+    },
+    {
+      "id": "n17848366585630js",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Main Stand",
+      "desc": "",
+      "url": "https://mainstand.co.th/en",
+      "order": 2
+    },
+    {
+      "id": "n17848366865951kc",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Thai league offiacial",
+      "desc": "",
+      "url": "https://thaileague.co.th/",
+      "order": 3
+    },
+    {
+      "id": "n17848367994940ae",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Sanook sport",
+      "desc": "",
+      "url": "https://www.sanook.com/sport/",
+      "order": 4
+    },
+    {
+      "id": "n1784836847176w2e",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Kapook football",
+      "desc": "",
+      "url": "https://football.kapook.com/",
+      "order": 5
+    },
+    {
+      "id": "n1784836919681r97",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Thairath sport",
+      "desc": "",
+      "url": "https://www.thairath.co.th/sport",
+      "order": 6
+    },
+    {
+      "id": "n1784836947339hnh",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Bangkok Post sport",
+      "desc": "",
+      "url": "https://www.bangkokpost.com/sports",
+      "order": 7
+    },
+    {
+      "id": "n1784836977917vdf",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Matichon sport",
+      "desc": "",
+      "url": "https://www.matichon.co.th/sport",
+      "order": 8
+    },
+    {
+      "id": "n1784837056222h9m",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Daily news sport",
+      "desc": "",
+      "url": "https://www.dailynews.co.th/sport/",
+      "order": 9
+    },
+    {
+      "id": "n1784837087376cuh",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Nation Thailand sport",
+      "desc": "",
+      "url": "https://www.nationthailand.com/category/news/sport",
+      "order": 10
+    },
+    {
+      "id": "n178483712571055o",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "MGR online sport",
+      "desc": "",
+      "url": "https://mgronline.com/sport",
+      "order": 11
+    },
+    {
+      "id": "n1784837355583z22",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Naewna sport",
+      "desc": "",
+      "url": "https://www.naewna.com/sport",
+      "order": 12
+    },
+    {
+      "id": "n1784837773442vfh",
+      "parentId": "f_med_as_th",
+      "type": "link",
+      "icon": "",
+      "name": "Khaosod sports",
+      "desc": "",
+      "url": "https://www.khaosod.co.th/sports",
+      "order": 13
+    },
+    {
+      "id": "n1784838049618cjv",
+      "parentId": "f_med_as_tm",
+      "type": "link",
+      "icon": "",
+      "name": "Turkmenportal sport",
+      "desc": "",
+      "url": "https://turkmenportal.com/en/news/category/25-sport",
+      "order": 0
+    },
+    {
+      "id": "n17848380905590s8",
+      "parentId": "f_med_as_tm",
+      "type": "link",
+      "icon": "",
+      "name": "Orient TM sport",
+      "desc": "",
+      "url": "https://orient.tm/en/news/sport",
+      "order": 1
+    },
+    {
+      "id": "n1784838115364m1m",
+      "parentId": "f_med_as_tm",
+      "type": "link",
+      "icon": "",
+      "name": "TDH sport",
+      "desc": "",
+      "url": "https://tdh.gov.tm/ru/category/sport",
+      "order": 2
+    },
+    {
+      "id": "n17848382504388d5",
+      "parentId": "f_med_as_tm",
+      "type": "link",
+      "icon": "",
+      "name": "Arzuw news sport",
+      "desc": "",
+      "url": "https://arzuw.news/category/sports",
+      "order": 3
+    },
+    {
+      "id": "n17848384588286f2",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Sport360",
+      "desc": "",
+      "url": "https://sport360.com/",
+      "order": 0
+    },
+    {
+      "id": "n1784838499333a2p",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Dubai sports",
+      "desc": "",
+      "url": "https://www.dubaisports.ae/content/dubaisports/home.html",
+      "order": 1
+    },
+    {
+      "id": "n1784838542967r2g",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Gulf news sport",
+      "desc": "",
+      "url": "https://gulfnews.com/sport",
+      "order": 2
+    },
+    {
+      "id": "n17848385766489bd",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Khaleej Times sports",
+      "desc": "",
+      "url": "https://www.khaleejtimes.com/sports",
+      "order": 3
+    },
+    {
+      "id": "n1784838597930fb5",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Al Bayan sports",
+      "desc": "",
+      "url": "https://www.albayan.ae/sports",
+      "order": 4
+    },
+    {
+      "id": "n178483863871737e",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Al Etihad sports",
+      "desc": "",
+      "url": "https://www.aletihad.ae/category/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+      "order": 5
+    },
+    {
+      "id": "n1784838685201odo",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Emarat Al Youm sports",
+      "desc": "",
+      "url": "https://www.emaratalyoum.com/sports",
+      "order": 6
+    },
+    {
+      "id": "n1784838746089e7x",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Al Khaleej sport",
+      "desc": "",
+      "url": "https://www.alkhaleej.ae/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "order": 7
+    },
+    {
+      "id": "n1784838811038uwt",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "The National sport",
+      "desc": "",
+      "url": "https://www.thenationalnews.com/sport/",
+      "order": 8
+    },
+    {
+      "id": "n17848388426315ku",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Gulf Today sport",
+      "desc": "",
+      "url": "https://www.gulftoday.ae/sport",
+      "order": 9
+    },
+    {
+      "id": "n178483887738434a",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "ARM news sports",
+      "desc": "",
+      "url": "https://www.arnnewscentre.ae/news/sports/",
+      "order": 10
+    },
+    {
+      "id": "n1784838902026q20",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Emirates247",
+      "desc": "",
+      "url": "https://www.emirates247.com/sports",
+      "order": 11
+    },
+    {
+      "id": "n17848390002531rc",
+      "parentId": "f_med_as_ae",
+      "type": "link",
+      "icon": "",
+      "name": "Erem news sports",
+      "desc": "",
+      "url": "https://www.eremnews.com/sports",
+      "order": 12
+    },
+    {
+      "id": "n1784839115733wnm",
+      "parentId": "f_med_as_qa",
+      "type": "link",
+      "icon": "",
+      "name": "Al Jazeera sports",
+      "desc": "",
+      "url": "https://www.aljazeera.com/sports",
+      "order": 0
+    },
+    {
+      "id": "n1784839198680m6j",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "SPORTS",
+      "desc": "",
+      "url": "https://sports.uz/",
+      "order": 0
+    },
+    {
+      "id": "n1784839218889h5m",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "PFL futbal",
+      "desc": "",
+      "url": "https://pfl.uz/",
+      "order": 1
+    },
+    {
+      "id": "n1784839243444ecd",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Olamsport",
+      "desc": "",
+      "url": "https://olamsport.com/",
+      "order": 2
+    },
+    {
+      "id": "n178483926131648x",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Championat",
+      "desc": "",
+      "url": "https://championat.asia/",
+      "order": 3
+    },
+    {
+      "id": "n17848393311188u6",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Tribuna",
+      "desc": "",
+      "url": "https://tribuna.uz/",
+      "order": 4
+    },
+    {
+      "id": "n1784839347618bfv",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Stadion",
+      "desc": "",
+      "url": "https://stadion.uz/",
+      "order": 5
+    },
+    {
+      "id": "n1784839392352acu",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Interfutbol",
+      "desc": "",
+      "url": "https://iff.uz/",
+      "order": 6
+    },
+    {
+      "id": "n1784839467674nt0",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Kun sport",
+      "desc": "",
+      "url": "https://kun.uz/en/news/category/sport-en",
+      "order": 7
+    },
+    {
+      "id": "n1784839485240s6r",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Gazeta sport",
+      "desc": "",
+      "url": "https://www.gazeta.uz/ru/sport/",
+      "order": 8
+    },
+    {
+      "id": "n17848395024197a0",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Daryo sport",
+      "desc": "",
+      "url": "https://daryo.uz/category/sport/",
+      "order": 9
+    },
+    {
+      "id": "n1784839614680k90",
+      "parentId": "f_med_as_uz",
+      "type": "link",
+      "icon": "",
+      "name": "Fergana sport",
+      "desc": "",
+      "url": "https://fergana.agency/sport/",
+      "order": 10
     }
   ]
 }
