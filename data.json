@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 65,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -102,7 +102,7 @@
       "id": "a1784188919546",
       "icon": "🏀",
       "name": "Basketbal ME U18 div.B",
-      "url": "https://www.fiba.basketball/en/events/fiba-u20-eurobasket-2026-division-b",
+      "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026-division-b",
       "endsAt": "2026-08-02",
       "addedAt": 1784188919546
     },
