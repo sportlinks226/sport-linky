@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -49732,6 +49732,1126 @@
       "desc": "",
       "url": "https://fergana.agency/sport/",
       "order": 10
+    },
+    {
+      "id": "f_chn_l1",
+      "parentId": "f_fut_klu_az_chn",
+      "type": "folder",
+      "icon": "",
+      "name": "Super League",
+      "desc": "Najvyššia čínska súťaž, 16 klubov, sezóna 2026 (kalendárny rok).",
+      "order": 1,
+      "slug": "super-league"
+    },
+    {
+      "id": "f_chn_l1_k1",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Chengdu Rongcheng",
+      "desc": "Mesto Čcheng-tu (S'-čchuan) — v roku 2023 obsadil historicky najlepšie 4. miesto, hráva na 60-tisícovom štadióne Fénix Hill.",
+      "url": "https://weibo.com/6487273451",
+      "order": 1
+    },
+    {
+      "id": "f_chn_l1_k2",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Chongqing Tonglianglong",
+      "desc": "Mesto Čchung-čching — mladý klub (založený 2021), do Super League postúpil po zisku 2. ligy v roku 2023.",
+      "url": "https://weibo.com/u/1833967471",
+      "order": 2
+    },
+    {
+      "id": "f_chn_l1_k3",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Dalian Yingbo",
+      "desc": "Mesto Ta-lien — hráva na 63-tisícovom štadióne Suoyuwan, do najvyššej súťaže postúpil v roku 2025.",
+      "url": "http://www.yingbofc.com/",
+      "order": 3
+    },
+    {
+      "id": "f_chn_l1_k4",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Yunnan Yukun",
+      "desc": "Provincia Jün-nan (mesto Jü-si) — prvý klub z tejto provincie v histórii čínskej Super League.",
+      "url": "https://weibo.com/u/7765448322",
+      "order": 4
+    },
+    {
+      "id": "f_chn_l1_k5",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Qingdao West Coast",
+      "desc": "Mesto Čching-tao — hráva vo štvrti Chuang-tao.",
+      "url": "https://weibo.com/u/6603410430",
+      "order": 5
+    },
+    {
+      "id": "f_chn_l1_k6",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shandong Taishan",
+      "desc": "Mesto Ťi-nan — jeden z najúspešnejších čínskych klubov, viacnásobný majster aj víťaz Ázijskej ligy majstrov.",
+      "url": "https://www.lnts.com.cn/",
+      "order": 6
+    },
+    {
+      "id": "f_chn_l1_k7",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Beijing Guoan",
+      "desc": "Hlavné mesto Peking — zakladajúci člen Super League, majster z roku 2009, hráva na Robotníckom štadióne.",
+      "url": "http://www.fcguoan.com/",
+      "order": 7
+    },
+    {
+      "id": "f_chn_l1_k8",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Zhejiang Professional",
+      "desc": "Provincia Če-ťiang (mesto Chang-čou) — predtým známy ako Zhejiang Lücheng/Greentown, založený v roku 1998.",
+      "url": "https://www.zhejiangfc1998.com/",
+      "order": 8
+    },
+    {
+      "id": "f_chn_l1_k9",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Liaoning Tieren",
+      "desc": "Mesto Šen-jang — do najvyššej súťaže postúpil v roku 2025, nadväzuje na tradíciu zaniknutého klubu Liaoning Hongyun.",
+      "url": "https://www.lnsycsfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_chn_l1_k10",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shenzhen Xinpengcheng",
+      "desc": "Mesto Šen-čen — súčasť medzinárodnej skupiny City Football Group (vlastníka Manchestru City).",
+      "url": "https://www.cityfootballgroup.com/clubs/shenzhen-peng-city",
+      "order": 10
+    },
+    {
+      "id": "f_chn_l1_k11",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shanghai Shenhua",
+      "desc": "Mesto Šanghaj — jeden zo zakladajúcich klubov čínskej ligy (1993), majster z roku 1995.",
+      "url": "https://weibo.com/u/1650107735",
+      "order": 11
+    },
+    {
+      "id": "f_chn_l1_k12",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Henan Songshan Longmen",
+      "desc": "Provincia Che-nan (mesto Čeng-čou) — predtým hráva pod menom Henan Jianye.",
+      "url": "http://www.jianyefc.com/",
+      "order": 12
+    },
+    {
+      "id": "f_chn_l1_k13",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shanghai Port",
+      "desc": "Mesto Šanghaj — predtým Shanghai SIPG, viacnásobný majster Super League, vlastní ho prístavná spoločnosť SIPG.",
+      "url": "https://www.fcshanghaiport.com/",
+      "order": 13
+    },
+    {
+      "id": "f_chn_l1_k14",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Qingdao Hainiu",
+      "desc": "Mesto Čching-tao — nadväzuje na tradíciu klubu Qingdao Zhongneng/Jonoon.",
+      "url": "https://weibo.com/jonoon",
+      "order": 14
+    },
+    {
+      "id": "f_chn_l1_k15",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Tianjin Jinmen Tiger",
+      "desc": "Mesto Tchien-ťin — predtým Tianjin Teda, jeden zo zakladajúcich klubov čínskej ligy.",
+      "url": "https://jmtfc.com.cn/",
+      "order": 15
+    },
+    {
+      "id": "f_chn_l1_k16",
+      "parentId": "f_chn_l1",
+      "type": "link",
+      "icon": "cn",
+      "name": "Wuhan Three Towns",
+      "desc": "Mesto Wu-chan — mladý, ale úspešný klub, majster Super League v roku 2023.",
+      "url": "https://weibo.com/6637434462",
+      "order": 16
+    },
+    {
+      "id": "f_chn_l2",
+      "parentId": "f_fut_klu_az_chn",
+      "type": "folder",
+      "icon": "",
+      "name": "League One",
+      "desc": "Druhá čínska súťaž, 16 klubov, sezóna 2026.",
+      "order": 2,
+      "slug": "league-one"
+    },
+    {
+      "id": "f_chn_l2_k1",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Guangdong GZ-Power",
+      "desc": "Mesto Kanton (Guangzhou) — víťaz 2. ligy v roku 2024, predtým hral pod menom Guangzhou E-Power.",
+      "url": "https://weibo.com/u/7830274764",
+      "order": 1
+    },
+    {
+      "id": "f_chn_l2_k2",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shenzhen Juniors",
+      "desc": "Mesto Šen-čen — mladý klub založený v roku 2022.",
+      "url": "https://weibo.com/u/7826105285",
+      "order": 2
+    },
+    {
+      "id": "f_chn_l2_k3",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Nantong Zhiyun",
+      "desc": "Mesto Žu-kao (provincia Ťiang-su) — meno Zhiyun odkazuje na historickú vežu Zhiyun v Nan-tchungu.",
+      "url": "https://www.nantongzhiyunfc.com",
+      "order": 3
+    },
+    {
+      "id": "f_chn_l2_k4",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Guangxi Hengchen",
+      "desc": "Mesto Nan-ning (provincia Kuang-si) — klub založený v roku 2021.",
+      "url": "https://weibo.com/u/7844349787",
+      "order": 4
+    },
+    {
+      "id": "f_chn_l2_k5",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Yanbian Longding",
+      "desc": "Mesto Jen-ťi (Jenpiansky kórejský autonómny obvod) — nadväzuje na tradíciu klubu Yanbian Funde.",
+      "url": "https://weibo.com/u/6590941064",
+      "order": 5
+    },
+    {
+      "id": "f_chn_l2_k6",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Ningbo Professional",
+      "desc": "Mesto Ning-po (provincia Če-ťiang).",
+      "url": "http://www.bojifc.com",
+      "order": 6
+    },
+    {
+      "id": "f_chn_l2_k7",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Wuxi Wugou",
+      "desc": "Mesto Wu-si (provincia Ťiang-su).",
+      "url": "https://weibo.com/u/7009630709",
+      "order": 7
+    },
+    {
+      "id": "f_chn_l2_k8",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shaanxi Union",
+      "desc": "Provincia Šen-si (mesto Sian) — predtým Xi'an Chanba/Shaanxi Chang'an Athletic.",
+      "url": "https://weibo.com/u/7839541023",
+      "order": 8
+    },
+    {
+      "id": "f_chn_l2_k9",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Nanjing City",
+      "desc": "Mesto Nan-ťing (provincia Ťiang-su).",
+      "url": "https://weibo.com/u/7266596722",
+      "order": 9
+    },
+    {
+      "id": "f_chn_l2_k10",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Dingnan Ganlian",
+      "desc": "Mesto Kan-čou (provincia Ťiang-si) — klub sa v roku 2025 presťahoval do Ting-nanu.",
+      "url": "https://weibo.com/u/7322753496",
+      "order": 10
+    },
+    {
+      "id": "f_chn_l2_k11",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Dalian K'un City",
+      "desc": "Mesto Ta-lien — jeden z dvoch profesionálnych klubov mesta popri Dalian Yingbo.",
+      "url": "https://weibo.com/u/7764099020",
+      "order": 11
+    },
+    {
+      "id": "f_chn_l2_k12",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Changchun Yatai",
+      "desc": "Mesto Čchang-čchun (provincia Ťi-lin) — tradičný klub čínskej ligy, víťaz Poháru CFA 2010.",
+      "url": "http://www.yataifc.cn/",
+      "order": 12
+    },
+    {
+      "id": "f_chn_l2_k13",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Meizhou Hakka",
+      "desc": "Mesto Mej-čou (provincia Kuang-tung) — reprezentuje etnikum Hakka.",
+      "url": "https://weibo.com/3211113322",
+      "order": 13
+    },
+    {
+      "id": "f_chn_l2_k14",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Shijiazhuang Gongfu",
+      "desc": "Mesto Š'-ťia-čuang (provincia Che-pej).",
+      "url": "https://weibo.com/u/5075302049",
+      "order": 14
+    },
+    {
+      "id": "f_chn_l2_k15",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Foshan Nanshi",
+      "desc": "Mesto Fo-šan (provincia Kuang-tung).",
+      "url": "https://weibo.com/u/7834538336",
+      "order": 15
+    },
+    {
+      "id": "f_chn_l2_k16",
+      "parentId": "f_chn_l2",
+      "type": "link",
+      "icon": "cn",
+      "name": "Suzhou Dongwu",
+      "desc": "Mesto Su-čou (provincia Ťiang-su) — meno Dongwu odkazuje na starobylé kráľovstvo Wu.",
+      "url": "https://weibo.com/u/5804172181",
+      "order": 16
+    },
+    {
+      "id": "f_phl_l1",
+      "parentId": "f_fut_klu_az_phl",
+      "type": "folder",
+      "icon": "",
+      "name": "PFL",
+      "desc": "Philippines Football League, najvyššia filipínska súťaž, 11 klubov, sezóna 2025/26.",
+      "order": 1,
+      "slug": "pfl"
+    },
+    {
+      "id": "f_phl_l1_k1",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Manila Digger",
+      "desc": "Mesto Taguig — klub založený komunitou čínskych migrantov v Manile, v sezóne 2025/26 získal svoj prvý titul PFL.",
+      "url": "https://maniladiggerfc.com",
+      "order": 1
+    },
+    {
+      "id": "f_phl_l1_k2",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "One Taguig",
+      "desc": "Mesto Taguig — mladý klub založený v roku 2024.",
+      "url": "https://www.facebook.com/onetaguigfc/",
+      "order": 2
+    },
+    {
+      "id": "f_phl_l1_k3",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Cebu FC",
+      "desc": "Mesto Talisay (ostrov Cebu) — známy aj ako Dynamic Herb Cebu.",
+      "url": "https://cebufootballclub.com",
+      "order": 3
+    },
+    {
+      "id": "f_phl_l1_k4",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Kaya",
+      "desc": "Mesto Iloilo — jeden z tradičných klubov filipínskeho futbalu, predtým hrával v Manile ako Kaya FC-Makati.",
+      "url": "https://www.kayafc.com",
+      "order": 4
+    },
+    {
+      "id": "f_phl_l1_k5",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Stallion",
+      "desc": "Mesto Biñan (provincia Laguna) — klub založený v roku 2002.",
+      "url": "https://www.facebook.com/StallionLagunaFootball/",
+      "order": 5
+    },
+    {
+      "id": "f_phl_l1_k6",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Davao Aguilas",
+      "desc": "Mesto Davao — reprezentant ostrova Mindanao v najvyššej súťaži.",
+      "url": "http://davaoaguilasfc.com/",
+      "order": 6
+    },
+    {
+      "id": "f_phl_l1_k7",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Maharlika",
+      "desc": "Mesto Taguig — hráva na štadióne McKinley Hill, od sezóny 2025/26 vlastnený taiwanskou spoločnosťou M1 International.",
+      "url": "https://maharlikafc.com",
+      "order": 7
+    },
+    {
+      "id": "f_phl_l1_k8",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Don Bosco Garelli",
+      "desc": "Mesto Makati — klub previazaný so školou Don Bosco.",
+      "url": "https://www.instagram.com/garelliunited/",
+      "order": 8
+    },
+    {
+      "id": "f_phl_l1_k9",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Tuloy",
+      "desc": "Mesto Muntinlupa (Alabang) — prepojený s nadáciou Tuloy pre deti ulice, väčšina hráčov pochádza priamo z nadácie.",
+      "url": "https://tuloyfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_phl_l1_k10",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Mendiola FC 1991",
+      "desc": "Mesto Manila — jeden z najstarších stále fungujúcich filipínskych klubov, založený v roku 1991.",
+      "url": "https://www.facebook.com/MendiolaFootballClub/",
+      "order": 10
+    },
+    {
+      "id": "f_phl_l1_k11",
+      "parentId": "f_phl_l1",
+      "type": "link",
+      "icon": "ph",
+      "name": "Philippine Army",
+      "desc": "Klub filipínskej armády, prezývka „The Troopers“, založený v roku 1960.",
+      "url": "https://www.facebook.com/p/Philippine-Army-FC-100044695131603/",
+      "order": 11
+    },
+    {
+      "id": "f_ind_l1",
+      "parentId": "f_fut_klu_az_ind",
+      "type": "folder",
+      "icon": "",
+      "name": "Indian Super League",
+      "desc": "Najvyššia indická súťaž (ISL), 14 klubov, sezóna 2025/26.",
+      "order": 1,
+      "slug": "indian-super-league"
+    },
+    {
+      "id": "f_ind_l1_k1",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "East Bengal",
+      "desc": "Mesto Kalkata — historický klub, v sezóne 2025/26 získal po 22 rokoch svoj prvý titul ISL.",
+      "url": "https://www.emamieastbengal.com",
+      "order": 1
+    },
+    {
+      "id": "f_ind_l1_k2",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Mohun Bagan",
+      "desc": "Mesto Kalkata — najstarší športový klub Indie (1889), aktuálny názov Mohun Bagan Super Giant.",
+      "url": "https://mohunbaganclub.com",
+      "order": 2
+    },
+    {
+      "id": "f_ind_l1_k3",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Mumbai City",
+      "desc": "Mesto Bombaj — súčasť City Football Group, viacnásobný majster ISL.",
+      "url": "https://www.mumbaicityfc.com",
+      "order": 3
+    },
+    {
+      "id": "f_ind_l1_k4",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Bengaluru FC",
+      "desc": "Mesto Bengaluru — jeden z najúspešnejších indických klubov, majster ISL 2018/19.",
+      "url": "https://www.bengalurufc.com",
+      "order": 4
+    },
+    {
+      "id": "f_ind_l1_k5",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Jamshedpur",
+      "desc": "Mesto Jamshedpur (Džhárkhand) — klub oceliarskej spoločnosti Tata Steel.",
+      "url": "https://www.fcjamshedpur.com",
+      "order": 5
+    },
+    {
+      "id": "f_ind_l1_k6",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Punjab",
+      "desc": "Mesto Mohali — prvý klub, ktorý postúpil do ISL cez I-League (2022/23), predtým RoundGlass Punjab FC.",
+      "url": "https://rgpunjabfc.com",
+      "order": 6
+    },
+    {
+      "id": "f_ind_l1_k7",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Goa",
+      "desc": "Štát Goa — klub známy útočným štýlom futbalu, viacnásobný finalista ISL.",
+      "url": "https://fcgoa.in",
+      "order": 7
+    },
+    {
+      "id": "f_ind_l1_k8",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Kerala Blasters",
+      "desc": "Mesto Kočin — klub s jednou z najväčších fanúšikovských základní v ISL.",
+      "url": "https://www.keralablastersfc.in",
+      "order": 8
+    },
+    {
+      "id": "f_ind_l1_k9",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "North East Utd",
+      "desc": "Mesto Guwahati — reprezentuje sedem štátov severovýchodnej Indie.",
+      "url": "https://www.neutdfc.com",
+      "order": 9
+    },
+    {
+      "id": "f_ind_l1_k10",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Inter Kashi",
+      "desc": "Mesto Váránasí — mladý klub reprezentujúci posvätné mesto na rieke Ganga.",
+      "url": "https://interkashi.com",
+      "order": 10
+    },
+    {
+      "id": "f_ind_l1_k11",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Odisha FC",
+      "desc": "Mesto Bhubaneswar — hráva na štadióne Kalinga, do ISL vstúpil v roku 2019.",
+      "url": "https://www.odishafc.com",
+      "order": 11
+    },
+    {
+      "id": "f_ind_l1_k12",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "SC Delhi",
+      "desc": "Hlavné mesto Dillí — od sezóny 2025/26 nový názov a domovské mesto klubu, predtým Hyderabad FC.",
+      "url": "https://scdelhi.in",
+      "order": 12
+    },
+    {
+      "id": "f_ind_l1_k13",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Chennaiyin",
+      "desc": "Mesto Chennai — dvojnásobný majster ISL (2015, 2018).",
+      "url": "https://chennaiyinfc.com",
+      "order": 13
+    },
+    {
+      "id": "f_ind_l1_k14",
+      "parentId": "f_ind_l1",
+      "type": "link",
+      "icon": "in",
+      "name": "Mohammedan",
+      "desc": "Mesto Kalkata — jeden z najstarších futbalových klubov Ázie, založený v roku 1891.",
+      "url": "https://www.mohammedansportingindia.com",
+      "order": 14
+    },
+    {
+      "id": "f_ind_l2",
+      "parentId": "f_fut_klu_az_ind",
+      "type": "folder",
+      "icon": "",
+      "name": "I-League",
+      "desc": "Druhá indická súťaž (I-League), 10 klubov, sezóna 2025/26.",
+      "order": 2,
+      "slug": "i-league"
+    },
+    {
+      "id": "f_ind_l2_k1",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Diamond Harbour",
+      "desc": "Mesto Diamond Harbour (Západné Bengálsko) — do I-League postúpil po zisku 2. ligy v sezóne 2024/25.",
+      "url": "https://diamondharbourfc.com/",
+      "order": 1
+    },
+    {
+      "id": "f_ind_l2_k2",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Lajong",
+      "desc": "Mesto Shillong (Meghálaja) — tradičný klub severovýchodnej Indie, celým menom Shillong Lajong.",
+      "url": "https://www.shillonglajong.com",
+      "order": 2
+    },
+    {
+      "id": "f_ind_l2_k3",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Rajasthan United",
+      "desc": "Mesto Jaipur — prvý klub zo štátu Rádžastán, ktorý sa prebojoval do I-League.",
+      "url": "https://rajasthanunitedfc.in",
+      "order": 3
+    },
+    {
+      "id": "f_ind_l2_k4",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Sreenidi Deccan",
+      "desc": "Mesto Hyderabad — mladší klub reprezentujúci región Dekan.",
+      "url": "https://www.sreenidideccanfc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_ind_l2_k5",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Chanmari",
+      "desc": "Mesto Aizawl (Mizoram) — klub založený v roku 2011.",
+      "url": "https://www.facebook.com/ChanmariFC/",
+      "order": 5
+    },
+    {
+      "id": "f_ind_l2_k6",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Dempo",
+      "desc": "Štát Goa — historicky úspešný klub, viacnásobný majster indickej ligy.",
+      "url": "https://demposportsclub.com",
+      "order": 6
+    },
+    {
+      "id": "f_ind_l2_k7",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Aizawl",
+      "desc": "Mesto Aizawl (Mizoram) — prvý klub zo severovýchodnej Indie, ktorý vyhral I-League (2016/17).",
+      "url": "https://aizawlfc.in/",
+      "order": 7
+    },
+    {
+      "id": "f_ind_l2_k8",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Real Kashmir",
+      "desc": "Mesto Šrínagar — prezývka „Snežné levy“, klub reprezentujúci Džammú a Kašmír.",
+      "url": "https://realkashmirfc.in",
+      "order": 8
+    },
+    {
+      "id": "f_ind_l2_k9",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Gokulam",
+      "desc": "Mesto Kožikode (Kerala) — celým menom Gokulam Kerala, dvojnásobný majster I-League.",
+      "url": "https://gokulamkeralafc.com",
+      "order": 9
+    },
+    {
+      "id": "f_ind_l2_k10",
+      "parentId": "f_ind_l2",
+      "type": "link",
+      "icon": "in",
+      "name": "Namdhari",
+      "desc": "Dedina Bhaini Sahib (Pandžáb) — klub založený spoločnosťou Namdhari Seeds.",
+      "url": "https://namdharisports.in",
+      "order": 10
+    },
+    {
+      "id": "f_idn_l1",
+      "parentId": "f_fut_klu_az_idn",
+      "type": "folder",
+      "icon": "",
+      "name": "Super League",
+      "desc": "Najvyššia indonézska súťaž (Liga 1), 18 klubov, sezóna 2026/27.",
+      "order": 1,
+      "slug": "super-league"
+    },
+    {
+      "id": "f_idn_l1_k1",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Adhyaksa Banten",
+      "desc": "Provincia Banten (Serang) — prvýkrát v histórii postúpil do najvyššej súťaže v sezóne 2026/27.",
+      "url": "https://adhyaksa-fc.id/",
+      "order": 1
+    },
+    {
+      "id": "f_idn_l1_k2",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Arema",
+      "desc": "Mesto Malang (Východná Jáva) — prezývka „Singo Edan“, viacnásobný majster Indonézie.",
+      "url": "https://aremafc.com",
+      "order": 2
+    },
+    {
+      "id": "f_idn_l1_k3",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Bali United",
+      "desc": "Provincia Bali (Gianyar) — moderný klub známy profesionálnym vedením a vlastným tréningovým centrom.",
+      "url": "https://www.baliutd.com",
+      "order": 3
+    },
+    {
+      "id": "f_idn_l1_k4",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Bhayangkara Presisi",
+      "desc": "Mesto Bandar Lampung — klub previazaný s indonézskou políciou (Bhayangkara), majster ligy 2016/17.",
+      "url": "https://bhayangkarafc.id/",
+      "order": 4
+    },
+    {
+      "id": "f_idn_l1_k5",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Borneo Samarinda",
+      "desc": "Mesto Samarinda (Východný Kalimantan) — prezývka „Pesut Etam“ (naše delfíny).",
+      "url": "https://borneofc.id",
+      "order": 5
+    },
+    {
+      "id": "f_idn_l1_k6",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Dewa United Banten",
+      "desc": "Provincia Banten (Serang) — súčasť športovej skupiny Dewa United (aj basketbal a e-šport).",
+      "url": "https://dewaunited.com",
+      "order": 6
+    },
+    {
+      "id": "f_idn_l1_k7",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Garudayaksa",
+      "desc": "Mesto Bogor (Západná Jáva) — nový názov klubu Persikoci, prvýkrát v najvyššej súťaži od sezóny 2026/27.",
+      "url": "https://www.gfa-indonesia.com",
+      "order": 7
+    },
+    {
+      "id": "f_idn_l1_k8",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Madura United",
+      "desc": "Mesto Pamekasan (ostrov Madura).",
+      "url": "https://maduraunitedfc.id",
+      "order": 8
+    },
+    {
+      "id": "f_idn_l1_k9",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Malut United",
+      "desc": "Provincia Severné Moluky (Ternate) — mladý klub založený v roku 2023.",
+      "url": "https://www.malutunitedfc.com",
+      "order": 9
+    },
+    {
+      "id": "f_idn_l1_k10",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persebaya",
+      "desc": "Mesto Surabaya — historický rival Persiby, fanúšikovia „Bonek“.",
+      "url": "https://www.persebaya.id",
+      "order": 10
+    },
+    {
+      "id": "f_idn_l1_k11",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persib",
+      "desc": "Mesto Bandung — jeden z najpopulárnejších klubov Indonézie, majster sezóny 2025/26 (tretí titul v rade).",
+      "url": "https://persib.co.id",
+      "order": 11
+    },
+    {
+      "id": "f_idn_l1_k12",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persija",
+      "desc": "Hlavné mesto Jakarta — najstarší profesionálny klub krajiny (1928), prezývka „Macan Kemayoran“.",
+      "url": "https://persija.id",
+      "order": 12
+    },
+    {
+      "id": "f_idn_l1_k13",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persijap",
+      "desc": "Mesto Jepara (Stredná Jáva).",
+      "url": "https://persijap.id",
+      "order": 13
+    },
+    {
+      "id": "f_idn_l1_k14",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persik",
+      "desc": "Mesto Kediri (Východná Jáva) — prezývka „Macan Putih“ (biele tigre).",
+      "url": "https://www.persikkediri.com",
+      "order": 14
+    },
+    {
+      "id": "f_idn_l1_k15",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "Persita",
+      "desc": "Mesto Tangerang (Banten).",
+      "url": "https://persitafc.com",
+      "order": 15
+    },
+    {
+      "id": "f_idn_l1_k16",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "PSIM",
+      "desc": "Mesto Yogyakarta — prezývka „Laskar Mataram“.",
+      "url": "https://psimjogja.id",
+      "order": 16
+    },
+    {
+      "id": "f_idn_l1_k17",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "PSM",
+      "desc": "Mesto Makassar — najstarší futbalový klub Indonézie (1915), domáce zápasy hráva v Parepare.",
+      "url": "https://www.psmmakassar.co.id",
+      "order": 17
+    },
+    {
+      "id": "f_idn_l1_k18",
+      "parentId": "f_idn_l1",
+      "type": "link",
+      "icon": "id",
+      "name": "PSS",
+      "desc": "Okres Sleman (Yogyakarta) — hráva na štadióne Maguwoharjo.",
+      "url": "https://pssleman.id",
+      "order": 18
+    },
+    {
+      "id": "f_idn_l2",
+      "parentId": "f_fut_klu_az_idn",
+      "type": "folder",
+      "icon": "",
+      "name": "Championship",
+      "desc": "Druhá indonézska súťaž (Liga 2), 20 klubov, sezóna 2026/27.",
+      "order": 2,
+      "slug": "championship"
+    },
+    {
+      "id": "f_idn_l2_k1",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Barito Putera",
+      "desc": "Mesto Banjarmasin (Južný Kalimantan) — zostúpil z najvyššej súťaže po sezóne 2025/26.",
+      "url": "https://baritoputera.co.id",
+      "order": 1
+    },
+    {
+      "id": "f_idn_l2_k2",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Bekasi City",
+      "desc": "Mesto Bekasi (Západná Jáva).",
+      "url": "https://fcbekasiofficial.com",
+      "order": 2
+    },
+    {
+      "id": "f_idn_l2_k3",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Dejan",
+      "desc": "Mesto Depok (Západná Jáva) — postúpil z Liga Nusantara ako finalista sezóny 2025/26.",
+      "url": "https://www.instagram.com/dejan_fc/",
+      "order": 3
+    },
+    {
+      "id": "f_idn_l2_k4",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Deltras",
+      "desc": "Mesto Sidoarjo (Východná Jáva) — hráva na štadióne Gelora Delta.",
+      "url": "https://deltrasfc.com",
+      "order": 4
+    },
+    {
+      "id": "f_idn_l2_k5",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Kendal Tornado",
+      "desc": "Mesto Kendal (Stredná Jáva) — predtým Tornado FC Pekanbaru.",
+      "url": "http://www.kendaltornado.id",
+      "order": 5
+    },
+    {
+      "id": "f_idn_l2_k6",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persela",
+      "desc": "Mesto Lamongan (Východná Jáva).",
+      "url": "https://perselalamongan.com",
+      "order": 6
+    },
+    {
+      "id": "f_idn_l2_k7",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persiba",
+      "desc": "Mesto Balikpapan (Východný Kalimantan) — vrátil sa do 2. ligy po víťazstve v baráži.",
+      "url": "https://persiba.id",
+      "order": 7
+    },
+    {
+      "id": "f_idn_l2_k8",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persikad",
+      "desc": "Mesto Depok (Západná Jáva).",
+      "url": "https://persikad.id",
+      "order": 8
+    },
+    {
+      "id": "f_idn_l2_k9",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persiku",
+      "desc": "Mesto Kudus (Stredná Jáva) — prezývka „Macan Muria“.",
+      "url": "https://www.persiku.com",
+      "order": 9
+    },
+    {
+      "id": "f_idn_l2_k10",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persipura",
+      "desc": "Mesto Jayapura (Papua) — prezývka „Čierna perla“, viacnásobný majster Indonézie, vlastný web spustil až v auguste 2025.",
+      "url": "https://www.persipura.id",
+      "order": 10
+    },
+    {
+      "id": "f_idn_l2_k11",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persiraja",
+      "desc": "Mesto Banda Aceh (provincia Aceh).",
+      "url": "https://persiraja.id",
+      "order": 11
+    },
+    {
+      "id": "f_idn_l2_k12",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Persis",
+      "desc": "Mesto Surakarta/Solo (Stredná Jáva) — zostúpil z najvyššej súťaže po sezóne 2025/26.",
+      "url": "https://www.persissolo.id",
+      "order": 12
+    },
+    {
+      "id": "f_idn_l2_k13",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "PSBS",
+      "desc": "Mesto Biak (Papua) — prezývka „Badai Pasifik“ (Pacifický tajfún), zostúpil z najvyššej súťaže po sezóne 2025/26.",
+      "url": "https://www.psbsbiak.co.id",
+      "order": 13
+    },
+    {
+      "id": "f_idn_l2_k14",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "PSGC",
+      "desc": "Okres Ciamis (Západná Jáva) — postúpil do 2. ligy v sezóne 2026/27.",
+      "url": "https://psgcciamis.co.id/",
+      "order": 14
+    },
+    {
+      "id": "f_idn_l2_k15",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "PSIS",
+      "desc": "Mesto Semarang (Stredná Jáva) — založený v roku 1932, zostúpil z najvyššej súťaže po sezóne 2025/26.",
+      "url": "https://www.psis.co.id",
+      "order": 15
+    },
+    {
+      "id": "f_idn_l2_k16",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "PSMS",
+      "desc": "Mesto Medan (Severná Sumatra).",
+      "url": "https://kinantan.id",
+      "order": 16
+    },
+    {
+      "id": "f_idn_l2_k17",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "PSPS",
+      "desc": "Mesto Pekanbaru (Riau) — najstarší klub provincie Riau (1955).",
+      "url": "https://www.pspspekanbaru.co.id",
+      "order": 17
+    },
+    {
+      "id": "f_idn_l2_k18",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "RANS Nusantara",
+      "desc": "Mesto Cilegon/Depok — klub mediálnej skupiny RANS, postúpil z Liga Nusantara ako majster sezóny 2025/26.",
+      "url": "https://www.ransfc.co.id",
+      "order": 18
+    },
+    {
+      "id": "f_idn_l2_k19",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Semen Padang",
+      "desc": "Mesto Padang (Západná Sumatra) — klub cementárenskej spoločnosti Semen Padang, zostúpil z najvyššej súťaže po sezóne 2025/26.",
+      "url": "https://www.semenpadangfc.co.id",
+      "order": 19
+    },
+    {
+      "id": "f_idn_l2_k20",
+      "parentId": "f_idn_l2",
+      "type": "link",
+      "icon": "id",
+      "name": "Sumsel United",
+      "desc": "Mesto Palembang (Južná Sumatra) — nový klub, nenadväzuje na Sriwijaya FC.",
+      "url": "https://sumsel-united-fc.id",
+      "order": 20
     }
   ]
 }
