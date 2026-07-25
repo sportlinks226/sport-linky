@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -50852,6 +50852,1226 @@
       "desc": "Mesto Palembang (Južná Sumatra) — nový klub, nenadväzuje na Sriwijaya FC.",
       "url": "https://sumsel-united-fc.id",
       "order": 20
+    },
+    {
+      "id": "f_irq_l1",
+      "parentId": "f_fut_klu_az_irq",
+      "type": "folder",
+      "icon": "",
+      "name": "Stars League",
+      "desc": "Najvyššia iracká súťaž, 20 klubov, sezóna 2025/26 (kompletná tabuľka).",
+      "order": 1,
+      "slug": "stars-league"
+    },
+    {
+      "id": "f_irq_l1_k1",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Quwa Al Jawiya",
+      "desc": "Bagdad — klub Iráckych vzdušných síl, rekordný 8-násobný majster ligy, aktuálny obhajca titulu.",
+      "url": "https://www.facebook.com/AirForcesc1931",
+      "order": 1
+    },
+    {
+      "id": "f_irq_l1_k2",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Shorta",
+      "desc": "Bagdad — klub iráckej polície, v poslednej sezóne skončil na 2. mieste.",
+      "url": "https://www.alshortasc.com",
+      "order": 2
+    },
+    {
+      "id": "f_irq_l1_k3",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Erbil",
+      "desc": "mesto Erbíl v Kurdistane — v poslednej sezóne obsadil 3. miesto, hrá na štadióne Franso Hariri.",
+      "url": "https://www.facebook.com/ErbilSportClub1968",
+      "order": 3
+    },
+    {
+      "id": "f_irq_l1_k4",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Zawraa",
+      "desc": "Bagdad (Karch) — najúspešnejší klub Iraku, 14-násobný ligový majster.",
+      "url": "https://www.facebook.com/alzawraasc",
+      "order": 4
+    },
+    {
+      "id": "f_irq_l1_k5",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al-Karma",
+      "desc": "mesto Al-Karma v provincii Anbár — mladý klub založený v roku 2020, do najvyššej súťaže postúpil po víťazstve v 1. lige.",
+      "url": "https://www.facebook.com/garmasport",
+      "order": 5
+    },
+    {
+      "id": "f_irq_l1_k6",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Talaba",
+      "desc": "Bagdad — univerzitný klub (\"Študenti\"), 5-násobný majster iráckej ligy.",
+      "url": "https://www.facebook.com/Talaba.Sport.Club.Official.Page",
+      "order": 6
+    },
+    {
+      "id": "f_irq_l1_k7",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Karkh",
+      "desc": "Bagdad (Karch) — klub založený v roku 1963, súčasť školského športového systému.",
+      "url": "https://www.facebook.com/alkarkh.sport",
+      "order": 7
+    },
+    {
+      "id": "f_irq_l1_k8",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Newroz",
+      "desc": "mesto Sulejmánija v Kurdistane — klub s vlastným moderným webom a novým štadiónom.",
+      "url": "https://www.newrozsportsclub.com",
+      "order": 8
+    },
+    {
+      "id": "f_irq_l1_k9",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Zakho",
+      "desc": "mesto Zachu v Kurdistane — fanúšikovia klubu získali cenu FIFA Fan Award 2025 za hod plyšovými hračkami na ihrisko pre choré deti.",
+      "url": "https://zakhoclub.com",
+      "order": 9
+    },
+    {
+      "id": "f_irq_l1_k10",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Duhok",
+      "desc": "mesto Dohuk v Kurdistane — založený v roku 1970.",
+      "url": "https://duhoksc.com",
+      "order": 10
+    },
+    {
+      "id": "f_irq_l1_k11",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Diyala",
+      "desc": "mesto Bakúba, provincia Dijála — do Stars League sa vrátil po postupe v sezóne 2023/24.",
+      "url": "https://www.diyalaclub.com",
+      "order": 11
+    },
+    {
+      "id": "f_irq_l1_k12",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Naft",
+      "desc": "Bagdad — klub iráckeho ropného priemyslu, založený v roku 1979.",
+      "url": "https://www.facebook.com/alnaftfc",
+      "order": 12
+    },
+    {
+      "id": "f_irq_l1_k13",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Mosul",
+      "desc": "mesto Mósul — klub založený v roku 1947.",
+      "url": "https://www.facebook.com/mosul1947",
+      "order": 13
+    },
+    {
+      "id": "f_irq_l1_k14",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Gharraf",
+      "desc": "provincia Dhí Kár — klub založený v roku 1994.",
+      "url": "https://www.facebook.com/Garraf.Club",
+      "order": 14
+    },
+    {
+      "id": "f_irq_l1_k15",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Naft Missan",
+      "desc": "mesto Amára, provincia Majsán — klub ropného priemyslu, založený v roku 2003.",
+      "url": "https://www.instagram.com/naft_missan_sc/",
+      "order": 15
+    },
+    {
+      "id": "f_irq_l1_k16",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Minaa",
+      "desc": "prístavné mesto Basra — klub založený v roku 1931.",
+      "url": "https://www.facebook.com/alminaaclub1931",
+      "order": 16
+    },
+    {
+      "id": "f_irq_l1_k17",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Kahraba",
+      "desc": "Bagdad — klub Ministerstva elektriny, založený v roku 2001.",
+      "url": "https://www.facebook.com/Kahrabaa.SC",
+      "order": 17
+    },
+    {
+      "id": "f_irq_l1_k18",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Baghdad",
+      "desc": "Bagdad (Amanat Baghdad) — klub bagdadskej mestskej samosprávy, založený v roku 1957.",
+      "url": "https://baghdad-club.net",
+      "order": 18
+    },
+    {
+      "id": "f_irq_l1_k19",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al Najaf",
+      "desc": "mesto Nadžaf, jedno z posvätných miest šiitského islamu — hrá na 30-tisícovom štadióne.",
+      "url": "https://www.instagram.com/najaf_sports_18/",
+      "order": 19
+    },
+    {
+      "id": "f_irq_l1_k20",
+      "parentId": "f_irq_l1",
+      "type": "link",
+      "icon": "iq",
+      "name": "Al-Qassim",
+      "desc": "mesto Al-Kásim, provincia Bábil — klub založený v roku 1973.",
+      "url": "https://www.facebook.com/ALQasim.FC",
+      "order": 20
+    },
+    {
+      "id": "f_irn_l1",
+      "parentId": "f_fut_klu_az_irn",
+      "type": "folder",
+      "icon": "",
+      "name": "Persian Gulf Pro League",
+      "desc": "Najvyššia iránska súťaž, 16 klubov, sezóna 2025/26.",
+      "order": 1,
+      "slug": "persian-gulf-pro-league"
+    },
+    {
+      "id": "f_irn_l1_k1",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Esteghlal F.C.",
+      "desc": "Teherán — spolu s Persepolisom najúspešnejší iránsky klub, súper vo večnom teheránskom derby.",
+      "url": "https://fcesteghlal.ir",
+      "order": 1
+    },
+    {
+      "id": "f_irn_l1_k2",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Tractor",
+      "desc": "Tabríz — klub s obrovskou fanúšikovskou základňou v azerbajdžánskej časti Iránu, meno odkazuje na tabríckú traktorovú továreň.",
+      "url": "https://tractor-club.com/en",
+      "order": 2
+    },
+    {
+      "id": "f_irn_l1_k3",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Sepahan",
+      "desc": "Isfahán — klub oceliarskej skupiny Foolad Mobarakeh, viacnásobný iránsky majster.",
+      "url": "https://www.sepahansc.com",
+      "order": 3
+    },
+    {
+      "id": "f_irn_l1_k4",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Gol Gohar",
+      "desc": "mesto Sirdžán — klub ťažobno-priemyselného komplexu Gol Gohar.",
+      "url": "https://golgoharsport.ir",
+      "order": 4
+    },
+    {
+      "id": "f_irn_l1_k5",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Chadormalu",
+      "desc": "mesto Ardakán, provincia Jazd — klub baníckej spoločnosti Chadormalu.",
+      "url": "https://www.instagram.com/chadormalu_sc/",
+      "order": 5
+    },
+    {
+      "id": "f_irn_l1_k6",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Persepolis",
+      "desc": "Teherán — historicky najúspešnejší klub Iránu, hrá na štadióne Azadi.",
+      "url": "https://fc-perspolis.com",
+      "order": 6
+    },
+    {
+      "id": "f_irn_l1_k7",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Foolad",
+      "desc": "mesto Ahváz — klub oceliarne Foolad Khuzestan.",
+      "url": "https://www.fooladfc.ir",
+      "order": 7
+    },
+    {
+      "id": "f_irn_l1_k8",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Fajr Sepasi",
+      "desc": "mesto Šíráz — klub založený v roku 1988.",
+      "url": "https://www.instagram.com/fcfajrsepasi_official/",
+      "order": 8
+    },
+    {
+      "id": "f_irn_l1_k9",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Kheybar Khorramabad",
+      "desc": "mesto Chorramabád, provincia Lorestán.",
+      "url": "https://www.instagram.com/kheybarofficial/",
+      "order": 9
+    },
+    {
+      "id": "f_irn_l1_k10",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Malavan",
+      "desc": "prístavné mesto Bandar-e Anzali pri Kaspickom mori.",
+      "url": "https://malavanfc.com",
+      "order": 10
+    },
+    {
+      "id": "f_irn_l1_k11",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Esteghlal Khuzestan",
+      "desc": "mesto Ahváz, provincia Chúzestán — klub založený v roku 2011.",
+      "url": "https://esteghlalkhuzestanfc.com",
+      "order": 11
+    },
+    {
+      "id": "f_irn_l1_k12",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Paykan",
+      "desc": "Teherán — klub automobilky Iran Khodro, pomenovaný po modeli Paykan.",
+      "url": "https://ikcosport.com",
+      "order": 12
+    },
+    {
+      "id": "f_irn_l1_k13",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Shams Azar Qazvin",
+      "desc": "mesto Kazvín — klub založený v roku 2012.",
+      "url": "https://shamsazarfc.ir",
+      "order": 13
+    },
+    {
+      "id": "f_irn_l1_k14",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Aluminium Arak",
+      "desc": "mesto Arak — klub hlinikárenskej spoločnosti Iralco.",
+      "url": "https://www.instagram.com/fciralco/",
+      "order": 14
+    },
+    {
+      "id": "f_irn_l1_k15",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Zob Ahan",
+      "desc": "mesto Fuládšahr pri Isfaháne — klub oceliarne.",
+      "url": "https://zobahanclub.com",
+      "order": 15
+    },
+    {
+      "id": "f_irn_l1_k16",
+      "parentId": "f_irn_l1",
+      "type": "link",
+      "icon": "ir",
+      "name": "Mes Rafsanjan",
+      "desc": "mesto Rafsandžán — klub medenej ťažobnej spoločnosti, hrá vo Stars League od sezóny 2020/21.",
+      "url": "https://mesrafsanjan.com",
+      "order": 16
+    },
+    {
+      "id": "f_jpn_l1",
+      "parentId": "f_fut_klu_az_jpn",
+      "type": "folder",
+      "icon": "",
+      "name": "J1 League",
+      "desc": "Najvyššia japonská súťaž, 20 klubov, prvá sezóna 2026/27 v novom formáte leto–jar (august 2026 – jún 2027).",
+      "order": 1,
+      "slug": "j1-league"
+    },
+    {
+      "id": "f_jpn_l1_k1",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Kashima Antlers",
+      "desc": "prefektúra Ibaraki — obhajca titulu, rekordný 9-násobný japonský majster.",
+      "url": "https://www.antlers.co.jp",
+      "order": 1
+    },
+    {
+      "id": "f_jpn_l1_k2",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Urawa Red Diamonds",
+      "desc": "mesto Saitama — klub s najväčšou a najhlučnejšou fanúšikovskou základňou v Japonsku.",
+      "url": "https://www.urawa-reds.co.jp/en/",
+      "order": 2
+    },
+    {
+      "id": "f_jpn_l1_k3",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "JEF United Chiba",
+      "desc": "prefektúra Chiba — do J1 sa vrátil po výhre v postupových play-off, prvýkrát od roku 2008.",
+      "url": "https://jefunited.co.jp",
+      "order": 3
+    },
+    {
+      "id": "f_jpn_l1_k4",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "FC Tokyo",
+      "desc": "Tokio — hrá na štadióne Ajinomoto.",
+      "url": "https://www.fctokyo.co.jp",
+      "order": 4
+    },
+    {
+      "id": "f_jpn_l1_k5",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Kawasaki Frontale",
+      "desc": "mesto Kawasaki pri Tokiu — viacnásobný japonský majster posledného desaťročia.",
+      "url": "https://www.frontale.co.jp",
+      "order": 5
+    },
+    {
+      "id": "f_jpn_l1_k6",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Shimizu S-Pulse",
+      "desc": "mesto Šizuoka — jeden z pôvodných desiatich klubov J-League z roku 1993.",
+      "url": "https://www.s-pulse.co.jp",
+      "order": 6
+    },
+    {
+      "id": "f_jpn_l1_k7",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Nagoya Grampus",
+      "desc": "Nagoja — jeden z pôvodných desiatich klubov J-League.",
+      "url": "https://nagoya-grampus.jp",
+      "order": 7
+    },
+    {
+      "id": "f_jpn_l1_k8",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Kyoto Sanga",
+      "desc": "Kjóto — hrá na novom štadióne Sanga Stadium by Kyocera.",
+      "url": "https://www.sanga-fc.jp",
+      "order": 8
+    },
+    {
+      "id": "f_jpn_l1_k9",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Gamba Osaka",
+      "desc": "mesto Suita pri Osake — viacnásobný japonský majster a víťaz Ázijskej Ligy majstrov.",
+      "url": "https://www.gamba-osaka.net",
+      "order": 9
+    },
+    {
+      "id": "f_jpn_l1_k10",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Vissel Kobe",
+      "desc": "Kóbe — klub, za ktorý hrával Andrés Iniesta, majster J1 2023 aj 2024.",
+      "url": "https://www.vissel-kobe.co.jp",
+      "order": 10
+    },
+    {
+      "id": "f_jpn_l1_k11",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Fagiano Okayama",
+      "desc": "prefektúra Okajama — do najvyššej súťaže postúpil po prvý raz v histórii.",
+      "url": "https://www.fagiano-okayama.com",
+      "order": 11
+    },
+    {
+      "id": "f_jpn_l1_k12",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Sanfrecce Hiroshima",
+      "desc": "Hirošima — meno \"tri šípy\" odkazuje na legendu rodu Móri, viacnásobný japonský majster.",
+      "url": "https://www.sanfrecce.co.jp",
+      "order": 12
+    },
+    {
+      "id": "f_jpn_l1_k13",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Avispa Fukuoka",
+      "desc": "mesto Fukuoka — klub s prezývkou \"Osy\" (avispa = talianska osa).",
+      "url": "https://www.avispa.co.jp",
+      "order": 13
+    },
+    {
+      "id": "f_jpn_l1_k14",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "V-Varen Nagasaki",
+      "desc": "mesto Nagasaki — do J1 postúpil po ôsmich sezónach v druhej lige.",
+      "url": "https://www.v-varen.com",
+      "order": 14
+    },
+    {
+      "id": "f_jpn_l1_k15",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Cerezo Osaka",
+      "desc": "Osaka — akadémia klubu vychovala viacero japonských reprezentantov.",
+      "url": "https://www.cerezo.jp",
+      "order": 15
+    },
+    {
+      "id": "f_jpn_l1_k16",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Mito HollyHock",
+      "desc": "mesto Mito, prefektúra Ibaraki — do J1 postúpil vôbec prvýkrát v histórii po zisku titulu v J2 2025.",
+      "url": "https://www.mito-hollyhock.net",
+      "order": 16
+    },
+    {
+      "id": "f_jpn_l1_k17",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Tokyo Verdy",
+      "desc": "Tokio — v 90. rokoch dvojnásobný japonský majster, návrat do J1 po rokoch v nižších súťažiach.",
+      "url": "https://www.verdy.co.jp",
+      "order": 17
+    },
+    {
+      "id": "f_jpn_l1_k18",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Machida Zelvia",
+      "desc": "mesto Machida pri Tokiu — jediný japonský klub, ktorý prešiel cestou od najnižšej prefektúrnej súťaže až po J1.",
+      "url": "https://www.zelvia.co.jp",
+      "order": 18
+    },
+    {
+      "id": "f_jpn_l1_k19",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Yokohama F. Marinos",
+      "desc": "Jokohama — viacnásobný japonský majster, súčasť skupiny City Football Group.",
+      "url": "https://www.f-marinos.com",
+      "order": 19
+    },
+    {
+      "id": "f_jpn_l1_k20",
+      "parentId": "f_jpn_l1",
+      "type": "link",
+      "icon": "jp",
+      "name": "Kashiwa Reysol",
+      "desc": "mesto Kašiwa, prefektúra Chiba — pôvodne firemný klub spoločnosti Hitachi.",
+      "url": "https://www.reysol.co.jp",
+      "order": 20
+    },
+    {
+      "id": "f_jpn_l2",
+      "parentId": "f_fut_klu_az_jpn",
+      "type": "folder",
+      "icon": "",
+      "name": "J2 League",
+      "desc": "Druhá japonská súťaž, 20 klubov, prvá sezóna 2026/27 v novom formáte leto–jar (august 2026 – máj 2027).",
+      "order": 2,
+      "slug": "j2-league"
+    },
+    {
+      "id": "f_jpn_l2_k1",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Albirex Niigata",
+      "desc": "mesto Niigata — do J2 zostúpil po troch sezónach v najvyššej súťaži.",
+      "url": "https://www.albirex.co.jp/en/",
+      "order": 1
+    },
+    {
+      "id": "f_jpn_l2_k2",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Blaublitz Akita",
+      "desc": "prefektúra Akita na severe Honšú.",
+      "url": "https://blaublitz.jp",
+      "order": 2
+    },
+    {
+      "id": "f_jpn_l2_k3",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "FC Imabari",
+      "desc": "mesto Imabari, prefektúra Ehime — klub spoluzaložil bývalý reprezentačný brankár Jaidžiro Okada.",
+      "url": "https://www.fcimabari.com",
+      "order": 3
+    },
+    {
+      "id": "f_jpn_l2_k4",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Fujieda MYFC",
+      "desc": "mesto Fudžieda, prefektúra Šizuoka.",
+      "url": "https://myfc.co.jp",
+      "order": 4
+    },
+    {
+      "id": "f_jpn_l2_k5",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Hokkaido Consadole Sapporo",
+      "desc": "Sapporo na ostrove Hokkaidó — zostúpil z J1 v sezóne 2025.",
+      "url": "https://www.consadole-sapporo.jp",
+      "order": 5
+    },
+    {
+      "id": "f_jpn_l2_k6",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Iwaki FC",
+      "desc": "mesto Iwaki, prefektúra Fukušima — klub známy dôrazom na fyzickú kondíciu hráčov.",
+      "url": "https://iwakifc.com",
+      "order": 6
+    },
+    {
+      "id": "f_jpn_l2_k7",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Júbilo Iwata",
+      "desc": "mesto Iwata, prefektúra Šizuoka — bývalý japonský majster z 90. rokov, pôvodne klub Yamaha.",
+      "url": "https://jubilo-iwata.co.jp",
+      "order": 7
+    },
+    {
+      "id": "f_jpn_l2_k8",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Kataller Toyama",
+      "desc": "prefektúra Tojama — v J-League hrá od roku 2009.",
+      "url": "https://www.kataller.co.jp",
+      "order": 8
+    },
+    {
+      "id": "f_jpn_l2_k9",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Montedio Yamagata",
+      "desc": "mesto Tendó, prefektúra Jamagata.",
+      "url": "https://www.montedioyamagata.jp",
+      "order": 9
+    },
+    {
+      "id": "f_jpn_l2_k10",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Oita Trinita",
+      "desc": "prefektúra Oita na ostrove Kjúšú.",
+      "url": "https://www.oita-trinita.co.jp",
+      "order": 10
+    },
+    {
+      "id": "f_jpn_l2_k11",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "RB Omiya Ardija",
+      "desc": "mesto Saitama — v roku 2024 klub prevzala spoločnosť Red Bull a premenovala ho na RB Omiya Ardija.",
+      "url": "https://www.rbomiya.com",
+      "order": 11
+    },
+    {
+      "id": "f_jpn_l2_k12",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Sagan Tosu",
+      "desc": "mesto Tosu, prefektúra Saga na ostrove Kjúšú.",
+      "url": "https://www.sagan-tosu.net",
+      "order": 12
+    },
+    {
+      "id": "f_jpn_l2_k13",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Shonan Bellmare",
+      "desc": "mesto Hiracuka, prefektúra Kanagawa — zostúpil z J1 po deviatich sezónach v najvyššej súťaži.",
+      "url": "https://www.bellmare.co.jp",
+      "order": 13
+    },
+    {
+      "id": "f_jpn_l2_k14",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Tegevajaro Miyazaki",
+      "desc": "mesto Šintomi, prefektúra Mijazaki — do J2 postúpil prvýkrát v histórii cez play-off.",
+      "url": "https://tegevajaro.com",
+      "order": 14
+    },
+    {
+      "id": "f_jpn_l2_k15",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Tochigi City",
+      "desc": "mesto Točigi — do J2 postúpil ako víťaz J3 2025, druhý postup v rade po postupe z regionálnej ligy.",
+      "url": "https://tochigi-city.com",
+      "order": 15
+    },
+    {
+      "id": "f_jpn_l2_k16",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Tokushima Vortis",
+      "desc": "mesto Tokušima na ostrove Šikoku.",
+      "url": "https://www.vortis.jp",
+      "order": 16
+    },
+    {
+      "id": "f_jpn_l2_k17",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Vanraure Hachinohe",
+      "desc": "mesto Hačinohe, prefektúra Aomori — do J2 postúpil prvýkrát v histórii klubu.",
+      "url": "https://vanraure.net",
+      "order": 17
+    },
+    {
+      "id": "f_jpn_l2_k18",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Vegalta Sendai",
+      "desc": "mesto Sendai, prefektúra Mijagi.",
+      "url": "https://www.vegalta.co.jp",
+      "order": 18
+    },
+    {
+      "id": "f_jpn_l2_k19",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Ventforet Kofu",
+      "desc": "mesto Kófu, prefektúra Jamanaši — meno odkazuje na vojenskú zástavu Fúrinkazan feudála Takedu Šingena.",
+      "url": "https://www.ventforet.jp",
+      "order": 19
+    },
+    {
+      "id": "f_jpn_l2_k20",
+      "parentId": "f_jpn_l2",
+      "type": "link",
+      "icon": "jp",
+      "name": "Yokohama FC",
+      "desc": "Jokohama — zostúpil z J1 po jednej sezóne, za klub hrával aj Kazuyoshi Miura.",
+      "url": "https://yokohamafc.com",
+      "order": 20
+    },
+    {
+      "id": "f_jor_l1",
+      "parentId": "f_fut_klu_az_jor",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "Najvyššia jordánska súťaž, 10 klubov, sezóna 2025/26.",
+      "order": 1,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_jor_l1_k1",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Hussein",
+      "desc": "mesto Irbid — víťaz jordánskej ligy v sezóne 2025/26.",
+      "url": "https://www.facebook.com/AlhusseinJOSC/",
+      "order": 1
+    },
+    {
+      "id": "f_jor_l1_k2",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al-Faisaly Amman",
+      "desc": "Ammán — klub s prezývkou \"Modré orly\", rekordný jordánsky majster (35 titulov).",
+      "url": "https://www.facebook.com/ALFAISALYSCJO/",
+      "order": 2
+    },
+    {
+      "id": "f_jor_l1_k3",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Wehdat",
+      "desc": "Ammán — klub reprezentujúci palestínsky utečenecký tábor Al-Wehdat, založený v roku 1956.",
+      "url": "https://www.facebook.com/wehdatclubjo/",
+      "order": 3
+    },
+    {
+      "id": "f_jor_l1_k4",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Ramtha",
+      "desc": "mesto Ar-Ramtha na severe Jordánska.",
+      "url": "https://www.facebook.com/ramthaclubjo/",
+      "order": 4
+    },
+    {
+      "id": "f_jor_l1_k5",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Salt",
+      "desc": "mesto As-Salt — v najvyššej súťaži hrá od sezóny 2018/19.",
+      "url": "https://www.facebook.com/Alsalt.club.officials/",
+      "order": 5
+    },
+    {
+      "id": "f_jor_l1_k6",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Jazeera Amman",
+      "desc": "Ammán — klub s prezývkou \"Červení diabli\", založený v roku 1947.",
+      "url": "https://www.facebook.com/jazeeraclubjo/",
+      "order": 6
+    },
+    {
+      "id": "f_jor_l1_k7",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Shabab Al Ordon",
+      "desc": "Ammán — klub založený v roku 2002.",
+      "url": "https://www.facebook.com/p/Shabab-alordon-club-%D9%86%D8%A7%D8%AF%D9%8A-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-100064802643983/",
+      "order": 7
+    },
+    {
+      "id": "f_jor_l1_k8",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Buqaa",
+      "desc": "klub reprezentujúci palestínsky utečenecký tábor Al-Baqa'a, založený v roku 1968.",
+      "url": "https://www.facebook.com/Baqaa.clob/",
+      "order": 8
+    },
+    {
+      "id": "f_jor_l1_k9",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Al Ahli",
+      "desc": "Ammán — klub oslávil v roku 2024 osemdesiate výročie založenia.",
+      "url": "https://www.ahliclub.jo",
+      "order": 9
+    },
+    {
+      "id": "f_jor_l1_k10",
+      "parentId": "f_jor_l1",
+      "type": "link",
+      "icon": "jo",
+      "name": "Sama Al Sarhan",
+      "desc": "obec Badija Gharbíja — klub založený v roku 1977.",
+      "url": "https://www.facebook.com/alsrhansport1977/",
+      "order": 10
+    },
+    {
+      "id": "f_kor_l1",
+      "parentId": "f_fut_klu_az_kor",
+      "type": "folder",
+      "icon": "",
+      "name": "K League 1",
+      "desc": "Najvyššia juhokórejská súťaž, 12 klubov, sezóna 2026.",
+      "order": 1,
+      "slug": "k-league-1"
+    },
+    {
+      "id": "f_kor_l2",
+      "parentId": "f_fut_klu_az_kor",
+      "type": "folder",
+      "icon": "",
+      "name": "K League 2",
+      "desc": "Druhá juhokórejská súťaž, 17 klubov, sezóna 2026.",
+      "order": 2,
+      "slug": "k-league-2"
+    },
+    {
+      "id": "f_kor_l1_k1",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Daejeon Hana Citizen",
+      "desc": "mesto Daejeon — klub založený 1997, po prevzatí finančnou skupinou Hana zmenil názov aj farby.",
+      "url": "https://www.dhcfc.kr/",
+      "order": 1
+    },
+    {
+      "id": "f_kor_l1_k2",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gimcheon Sangmu",
+      "desc": "mesto Gimcheon — armádny klub, kde odohráva základnú vojenskú službu väčšina juhokórejských profesionálnych futbalistov.",
+      "url": "https://www.gimcheonfc.com/",
+      "order": 2
+    },
+    {
+      "id": "f_kor_l1_k3",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Pohang Steelers",
+      "desc": "oceliarske mesto Pohang (sídlo POSCO) — najstarší profesionálny klub v Kórei, založený 1973.",
+      "url": "https://www.steelers.co.kr/",
+      "order": 3
+    },
+    {
+      "id": "f_kor_l1_k4",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Jeonbuk Hyundai Motors",
+      "desc": "mesto Čonču — klub sponzorovaný automobilkou Hyundai, dlhodobo najúspešnejší tím K League.",
+      "url": "https://hyundai-motorsfc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_kor_l1_k5",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Incheon United",
+      "desc": "prístavné mesto Incheon — klub založený 2003, hrá na štadióne postavenom pre MS 2002.",
+      "url": "https://incheonutd.com/",
+      "order": 5
+    },
+    {
+      "id": "f_kor_l1_k6",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gangwon FC",
+      "desc": "provincia Gangwon — regionálny klub strieda domáce zápasy medzi mestami Chuncheon a Gangneung.",
+      "url": "https://gangwon-fc.com/",
+      "order": 6
+    },
+    {
+      "id": "f_kor_l1_k7",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "FC Seoul",
+      "desc": "hlavné mesto Soul — jeden z najsledovanejších klubov krajiny, predtým hral pod menom LG Cheetahs.",
+      "url": "https://www.fcseoul.com/",
+      "order": 7
+    },
+    {
+      "id": "f_kor_l1_k8",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Jeju SK FC",
+      "desc": "ostrov Jeju — jediný ostrovný klub v lige, po novom sponzorovi SK zmenil v roku 2025 názov z Jeju United.",
+      "url": "https://www.jejuskfc.com/",
+      "order": 8
+    },
+    {
+      "id": "f_kor_l1_k9",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Ulsan HD",
+      "desc": "priemyselné mesto Ulsan (lodenice Hyundai) — v poslednej dekáde najúspešnejší klub K League.",
+      "url": "https://www.uhdfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_kor_l1_k10",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gwangju FC",
+      "desc": "mesto Gwangju — občiansky klub založený 2010, hrá na futbalovom štadióne priamo v centre mesta.",
+      "url": "https://www.gwangjufc.com/",
+      "order": 10
+    },
+    {
+      "id": "f_kor_l1_k11",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "FC Anyang",
+      "desc": "mesto Anyang v provincii Gyeonggi — do K League 1 postúpil v roku 2025.",
+      "url": "https://www.fc-anyang.com/",
+      "order": 11
+    },
+    {
+      "id": "f_kor_l1_k12",
+      "parentId": "f_kor_l1",
+      "type": "link",
+      "icon": "kr",
+      "name": "Bucheon FC 1995",
+      "desc": "mesto Bucheon v provincii Gyeonggi — občiansky klub s rokom založenia priamo v názve.",
+      "url": "https://bfc1995.com/",
+      "order": 12
+    },
+    {
+      "id": "f_kor_l2_k1",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Busan IPark",
+      "desc": "prístavné mesto Busan — druhé najväčšie mesto Kórey, klub vlastnený stavebnou skupinou HDC.",
+      "url": "https://www.busanipark.com/",
+      "order": 1
+    },
+    {
+      "id": "f_kor_l2_k2",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Daegu FC",
+      "desc": "mesto Daegu — v sezóne 2026 zostúpil z K League 1 do druhej ligy.",
+      "url": "http://www.daegufc.co.kr/",
+      "order": 2
+    },
+    {
+      "id": "f_kor_l2_k3",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gimpo FC",
+      "desc": "mesto Gimpo v provincii Gyeonggi — občiansky klub, do profesionálnej súťaže vstúpil v roku 2023.",
+      "url": "https://gimpofc.com/main",
+      "order": 3
+    },
+    {
+      "id": "f_kor_l2_k4",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Chungnam Asan",
+      "desc": "mesto Asan v provincii Chungcheongnam — klub s podporou miestnej samosprávy.",
+      "url": "https://www.asanfc.com/",
+      "order": 4
+    },
+    {
+      "id": "f_kor_l2_k5",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gyeongnam FC",
+      "desc": "mesto Changwon v provincii Gyeongsangnam — jeden z klubov s najdlhšou históriou v druhej lige.",
+      "url": "http://www.gyeongnamfc.com/",
+      "order": 5
+    },
+    {
+      "id": "f_kor_l2_k6",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Cheonan City FC",
+      "desc": "mesto Cheonan v provincii Chungcheongnam — občiansky klub hrajúci profesionálnu súťaž od roku 2023.",
+      "url": "https://www.cheonancityfc.kr/",
+      "order": 6
+    },
+    {
+      "id": "f_kor_l2_k7",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Chungbuk Cheongju FC",
+      "desc": "mesto Cheongju v provincii Chungcheongbuk — najnovší z krajských \"mestských\" klubov, založený 2023.",
+      "url": "https://www.chfc.kr/",
+      "order": 7
+    },
+    {
+      "id": "f_kor_l2_k8",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Paju Frontier FC",
+      "desc": "mesto Paju pri hranici so Severnou Kóreou — nováčik súťaže, do K League 2 vstúpil v sezóne 2026.",
+      "url": "https://www.instagram.com/pajufrontierfc/",
+      "order": 8
+    },
+    {
+      "id": "f_kor_l2_k9",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Hwaseong FC",
+      "desc": "mesto Hwaseong v provincii Gyeonggi — do profesionálnej ligy postúpil v roku 2024.",
+      "url": "https://www.hwaseongfc.com/",
+      "order": 9
+    },
+    {
+      "id": "f_kor_l2_k10",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Seoul E-Land FC",
+      "desc": "hlavné mesto Soul — druhý soulský profiklub, vlastnený maloobchodnou skupinou E-Land.",
+      "url": "https://www.seoulelandfc.com/",
+      "order": 10
+    },
+    {
+      "id": "f_kor_l2_k11",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Suwon Samsung Bluewings",
+      "desc": "mesto Suwon — klub podporovaný Samsungom, historicky jeden z najúspešnejších v krajine, po zostupe hrá druhú ligu.",
+      "url": "https://bluewings1995.com/",
+      "order": 11
+    },
+    {
+      "id": "f_kor_l2_k12",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Suwon FC",
+      "desc": "mesto Suwon — mestský rival Bluewings v tom istom meste, vznikol z amatérskeho klubu v roku 2003.",
+      "url": "https://www.suwonfc.com/",
+      "order": 12
+    },
+    {
+      "id": "f_kor_l2_k13",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Seongnam FC",
+      "desc": "mesto Seongnam v provincii Gyeonggi — občiansky klub, predtým slávny armádny tím Seongnam Ilhwa Chunma.",
+      "url": "https://seongnamfc.com/",
+      "order": 13
+    },
+    {
+      "id": "f_kor_l2_k14",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Ansan Greeners FC",
+      "desc": "mesto Ansan v provincii Gyeonggi — občiansky klub založený 2017.",
+      "url": "https://www.greenersfc.com/",
+      "order": 14
+    },
+    {
+      "id": "f_kor_l2_k15",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Jeonnam Dragons",
+      "desc": "mesto Gwangyang v provincii Jeollanam — klub sponzorovaný oceliarňou POSCO, sídli pri jej gwangyanskom závode.",
+      "url": "https://www.dragons.co.kr/",
+      "order": 15
+    },
+    {
+      "id": "f_kor_l2_k16",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Gimhae FC 2008",
+      "desc": "mesto Gimhae v provincii Gyeongsangnam — do K League 2 postúpil v sezóne 2025.",
+      "url": "https://www.gimhaefc2008.com/",
+      "order": 16
+    },
+    {
+      "id": "f_kor_l2_k17",
+      "parentId": "f_kor_l2",
+      "type": "link",
+      "icon": "kr",
+      "name": "Yongin FC",
+      "desc": "mesto Yongin v provincii Gyeonggi — jeden z najnovších členov ligy, mestský klub s vlastným zázemím.",
+      "url": "https://yonginfc.co.kr/",
+      "order": 17
     }
   ]
 }
