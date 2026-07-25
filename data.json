@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 69,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -52072,6 +52072,336 @@
       "desc": "mesto Yongin v provincii Gyeonggi — jeden z najnovších členov ligy, mestský klub s vlastným zázemím.",
       "url": "https://yonginfc.co.kr/",
       "order": 17
+    },
+    {
+      "id": "n17849977104680d4",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Thethao247",
+      "desc": "",
+      "url": "https://thethao247.vn/",
+      "order": 0
+    },
+    {
+      "id": "n17849977532655g0",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Bongdaplus",
+      "desc": "",
+      "url": "https://bongdaplus.vn/",
+      "order": 1
+    },
+    {
+      "id": "n1784997802190xfw",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Webthethao",
+      "desc": "",
+      "url": "https://webthethao.vn/",
+      "order": 2
+    },
+    {
+      "id": "n1784997830799mdc",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Tinthethao",
+      "desc": "",
+      "url": "https://yeuthethao.net.vn/",
+      "order": 3
+    },
+    {
+      "id": "n1784997946535oy1",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Bongda",
+      "desc": "",
+      "url": "https://bongda.com.vn/",
+      "order": 4
+    },
+    {
+      "id": "n1784997972849orf",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Bongda24",
+      "desc": "",
+      "url": "https://bongda24h.vn/",
+      "order": 5
+    },
+    {
+      "id": "n1784997997852eew",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Thethao Vietnam plus",
+      "desc": "",
+      "url": "https://thethaovietnamplus.vn/",
+      "order": 6
+    },
+    {
+      "id": "n1784998061263bk3",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "VTV Thethao",
+      "desc": "",
+      "url": "https://thethao.vtv.vn/",
+      "order": 7
+    },
+    {
+      "id": "n1784998084754i6k",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "VOV thethao",
+      "desc": "",
+      "url": "https://vov.vn/the-thao",
+      "order": 8
+    },
+    {
+      "id": "n1784999085469ikr",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "VN Express thethao",
+      "desc": "",
+      "url": "https://vnexpress.net/the-thao",
+      "order": 9
+    },
+    {
+      "id": "n178499912688404r",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Thanhnien thethao",
+      "desc": "",
+      "url": "https://thanhnien.vn/the-thao.htm",
+      "order": 10
+    },
+    {
+      "id": "n1784999149198u73",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Dantri thethao",
+      "desc": "",
+      "url": "https://dantri.com.vn/the-thao.htm",
+      "order": 11
+    },
+    {
+      "id": "n1784999229555gtq",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Hanoimoi thethao",
+      "desc": "",
+      "url": "https://hanoimoi.vn/van-hoa/the-thao",
+      "order": 12
+    },
+    {
+      "id": "n1784999276169fy5",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Laodong thethao",
+      "desc": "",
+      "url": "https://laodong.vn/the-thao",
+      "order": 13
+    },
+    {
+      "id": "n1784999375605mgb",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Vietnamnet thethao",
+      "desc": "",
+      "url": "https://vietnamnet.vn/the-thao",
+      "order": 14
+    },
+    {
+      "id": "n17849994052768wk",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Tienphong thethao",
+      "desc": "",
+      "url": "https://tienphong.vn/the-thao/",
+      "order": 15
+    },
+    {
+      "id": "n17849994462237u8",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "NLD thethao",
+      "desc": "",
+      "url": "https://tuoitre.vn/nld/the-thao.htm",
+      "order": 16
+    },
+    {
+      "id": "n1784999483104kem",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Znews thethao",
+      "desc": "",
+      "url": "https://znews.vn/the-thao.html",
+      "order": 17
+    },
+    {
+      "id": "n1784999520787x3n",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "24h",
+      "desc": "",
+      "url": "https://www.24h.com.vn/",
+      "order": 18
+    },
+    {
+      "id": "n1784999687658xdh",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Nguoiviet thethao",
+      "desc": "",
+      "url": "https://www.nguoi-viet.com/the-thao/",
+      "order": 19
+    },
+    {
+      "id": "n1784999733847x9j",
+      "parentId": "f_med_as_vn",
+      "type": "link",
+      "icon": "",
+      "name": "Vietnam news sports",
+      "desc": "",
+      "url": "https://vietnamnews.vn/sports",
+      "order": 20
+    },
+    {
+      "id": "n1785001743689cua",
+      "parentId": "f_med_as_tl",
+      "type": "link",
+      "icon": "",
+      "name": "Tatoli desportu",
+      "desc": "",
+      "url": "https://tatoli.tl/category/desportu/",
+      "order": 0
+    },
+    {
+      "id": "n1785001800211yz3",
+      "parentId": "f_med_as_tl",
+      "type": "link",
+      "icon": "",
+      "name": "Independente desportu",
+      "desc": "",
+      "url": "https://www.independente.tl/desportu",
+      "order": 1
+    },
+    {
+      "id": "n17850018490905sb",
+      "parentId": "f_med_as_tl",
+      "type": "link",
+      "icon": "",
+      "name": "RTTL desportu",
+      "desc": "",
+      "url": "https://rttlep.tl/desportu/",
+      "order": 2
+    },
+    {
+      "id": "n17850020609473dz",
+      "parentId": "f_med_as_tl",
+      "type": "link",
+      "icon": "",
+      "name": "STL news desportu",
+      "desc": "",
+      "url": "https://stltimorleste.com/desportu/",
+      "order": 3
+    },
+    {
+      "id": "n1785002099943eyt",
+      "parentId": "f_med_as_tl",
+      "type": "link",
+      "icon": "",
+      "name": "Timor post desportu",
+      "desc": "",
+      "url": "https://timorpost.com/desportu/",
+      "order": 4
+    },
+    {
+      "id": "n1785006250377c5s",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "Yemen Shabab",
+      "desc": "",
+      "url": "https://yemenshabab.net/sections/NEWS/Yemeni%20League",
+      "order": 0
+    },
+    {
+      "id": "n17850063214892qe",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "Yemen TV sport",
+      "desc": "",
+      "url": "https://yementv.tv/category/insports/",
+      "order": 1
+    },
+    {
+      "id": "n17850064675823zq",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "SABA sport",
+      "desc": "",
+      "url": "https://www.sabanew.net/category/ar/4/",
+      "order": 2
+    },
+    {
+      "id": "n1785006529335ymj",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "Al Thawra sport",
+      "desc": "",
+      "url": "https://althawrah.ye/archives/category/%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9",
+      "order": 3
+    },
+    {
+      "id": "n17850065651840ex",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "26 september sport",
+      "desc": "",
+      "url": "https://26sep.net/index.php/sports",
+      "order": 4
+    },
+    {
+      "id": "n1785006621490y78",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "Sahafah24 sport",
+      "desc": "",
+      "url": "https://sahafah24.net/topic5.html",
+      "order": 5
+    },
+    {
+      "id": "n1785006703805m43",
+      "parentId": "f_med_as_ye",
+      "type": "link",
+      "icon": "",
+      "name": "Al Wahdawi sport",
+      "desc": "",
+      "url": "https://alwahdawi.net/news/6",
+      "order": 6
     }
   ]
 }
