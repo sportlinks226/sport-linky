@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -47420,7 +47420,7 @@
       "type": "link",
       "icon": "",
       "name": "Elsport",
-      "desc": "",
+      "desc": "Libanonský športový portál so zameraním na futbal a miestnu ligu.",
       "url": "https://elsport.com/",
       "order": 0
     },
@@ -47430,7 +47430,7 @@
       "type": "link",
       "icon": "",
       "name": "LBCI Sports",
-      "desc": "",
+      "desc": "Športová sekcia libanonskej televízie LBCI.",
       "url": "https://www.lbcgroup.tv/news/category/127/sports-news/en",
       "order": 1
     },
@@ -47440,7 +47440,7 @@
       "type": "link",
       "icon": "",
       "name": "MTV Lebanon sports",
-      "desc": "",
+      "desc": "Športová sekcia libanonskej televízie MTV Lebanon.",
       "url": "https://www.mtv.com.lb/en/news/Sports",
       "order": 2
     },
@@ -47450,7 +47450,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Jadded sports",
-      "desc": "",
+      "desc": "Športová sekcia libanonskej televízie Al Jadeed.",
       "url": "https://www.aljadeed.tv/news/category/1064/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 3
     },
@@ -47460,7 +47460,7 @@
       "type": "link",
       "icon": "",
       "name": "An Nahar sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka An-Nahar, jedného z najstarších libanonských periodík.",
       "url": "https://www.annahar.com/sports",
       "order": 4
     },
@@ -47470,7 +47470,7 @@
       "type": "link",
       "icon": "",
       "name": "L Orient Le Jour sport",
-      "desc": "",
+      "desc": "Športová rubrika frankofónneho libanonského denníka L'Orient-Le Jour.",
       "url": "https://www.lorientlejour.com/rubrique/8-sport",
       "order": 5
     },
@@ -47480,7 +47480,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Joumhouria sport",
-      "desc": "",
+      "desc": "Športová sekcia libanonského denníka Al Joumhouria.",
       "url": "https://www.aljoumhouria.com/ar/news/no-politics",
       "order": 6
     },
@@ -47490,7 +47490,7 @@
       "type": "link",
       "icon": "",
       "name": "Malaeeb",
-      "desc": "",
+      "desc": "Libanonský športový portál (názov v arabčine znamená \"ihriská\").",
       "url": "https://www.malaeeb.com/",
       "order": 7
     },
@@ -47500,7 +47500,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Akhbar sports",
-      "desc": "",
+      "desc": "Športová sekcia libanonského denníka Al-Akhbar.",
       "url": "https://www.al-akhbar.com/category/sports",
       "order": 8
     },
@@ -47510,7 +47510,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Liwaa",
-      "desc": "",
+      "desc": "Športová rubrika libanonského denníka Al-Liwaa.",
       "url": "https://aliwaa.com.lb/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 9
     },
@@ -47520,7 +47520,7 @@
       "type": "link",
       "icon": "",
       "name": "Nidaa Al Watan sport",
-      "desc": "",
+      "desc": "Športová sekcia libanonského denníka Nidaa Al-Watan.",
       "url": "https://www.nidaalwatan.com/section/21-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 10
     },
@@ -47530,8 +47530,8 @@
       "type": "link",
       "icon": "",
       "name": "Lebanon24 sports",
-      "desc": "",
-      "url": "lebanon24.com/channels/sports/",
+      "desc": "Športová sekcia libanonského spravodajského portálu Lebanon24.",
+      "url": "https://lebanon24.com/channels/sports/",
       "order": 11
     },
     {
@@ -47540,7 +47540,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Anbaa sports",
-      "desc": "",
+      "desc": "Športová sekcia libanonského portálu Al-Anbaa.",
       "url": "https://anbaaonline.com/search/categories/7",
       "order": 12
     },
@@ -47550,7 +47550,7 @@
       "type": "link",
       "icon": "",
       "name": "Kataeb",
-      "desc": "",
+      "desc": "Športová rubrika webu libanonskej politickej strany Kataeb.",
       "url": "https://www.kataeb.org/category/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 13
     },
@@ -47560,7 +47560,7 @@
       "type": "link",
       "icon": "",
       "name": "Walnews",
-      "desc": "",
+      "desc": "Libanonský spravodajský portál Walnews so športovou rubrikou.",
       "url": "https://walnews.com/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
       "order": 14
     },
@@ -47570,7 +47570,7 @@
       "type": "link",
       "icon": "",
       "name": "Naharnet",
-      "desc": "",
+      "desc": "Anglický spravodajský portál Naharnet prepojený s denníkom An-Nahar, so športovou sekciou.",
       "url": "https://www.naharnet.com/sports",
       "order": 15
     },
@@ -47580,7 +47580,7 @@
       "type": "link",
       "icon": "",
       "name": "NNA sports",
-      "desc": "",
+      "desc": "Športová sekcia Libanonskej národnej tlačovej agentúry (NNA).",
       "url": "https://www.nna-leb.gov.lb/ar/categories/9/sports",
       "order": 16
     },
@@ -47590,7 +47590,7 @@
       "type": "link",
       "icon": "",
       "name": "Sidonia news sport",
-      "desc": "",
+      "desc": "Športovo-mládežnícka rubrika libanonského regionálneho portálu Sidonia News (mesto Sidon).",
       "url": "https://www.sidonianews.net/cat6/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 17
     },
@@ -47600,7 +47600,7 @@
       "type": "link",
       "icon": "",
       "name": "Makanbola",
-      "desc": "",
+      "desc": "Malajzijský športový portál zameraný na futbal.",
       "url": "https://makanbola.com/",
       "order": 0
     },
@@ -47610,7 +47610,7 @@
       "type": "link",
       "icon": "",
       "name": "Semuanya Bola",
-      "desc": "",
+      "desc": "Malajzijský futbalový portál (názov v malajčine znamená približne \"všetko o futbale\").",
       "url": "https://semuanyabola.com/",
       "order": 1
     },
@@ -47620,7 +47620,7 @@
       "type": "link",
       "icon": "",
       "name": "Harimau Malaya",
-      "desc": "",
+      "desc": "Fanúšikovský portál venovaný malajzijskej futbalovej reprezentácii, prezývanej \"Malajský tiger\".",
       "url": "https://harimaumalaya.com.my/",
       "order": 2
     },
@@ -47630,7 +47630,7 @@
       "type": "link",
       "icon": "",
       "name": "Stadium Astro",
-      "desc": "",
+      "desc": "Športový portál malajzijskej mediálnej skupiny Astro.",
       "url": "https://stadiumastro.com/",
       "order": 3
     },
@@ -47640,7 +47640,7 @@
       "type": "link",
       "icon": "",
       "name": "Astro Awani sukan",
-      "desc": "",
+      "desc": "Športová sekcia spravodajskej televízie Astro Awani.",
       "url": "https://www.astroawani.com/berita-sukan",
       "order": 4
     },
@@ -47650,7 +47650,7 @@
       "type": "link",
       "icon": "",
       "name": "Vocket FC",
-      "desc": "",
+      "desc": "Malajzijský futbalový portál.",
       "url": "https://vocketfc.com/",
       "order": 5
     },
@@ -47660,7 +47660,7 @@
       "type": "link",
       "icon": "",
       "name": "Sukanz",
-      "desc": "",
+      "desc": "Malajzijský športový portál (sukan = šport v malajčine).",
       "url": "https://sukanz.com/",
       "order": 6
     },
@@ -47670,7 +47670,7 @@
       "type": "link",
       "icon": "",
       "name": "Cakap Sukan",
-      "desc": "",
+      "desc": "Malajzijský športový portál a podcast Cakap Sukan.",
       "url": "https://cakapsukan.com/",
       "order": 7
     },
@@ -47680,7 +47680,7 @@
       "type": "link",
       "icon": "",
       "name": "Flashsukan",
-      "desc": "",
+      "desc": "Malajzijský športový spravodajský portál.",
       "url": "https://www.flashsukan.com.my/",
       "order": 8
     },
@@ -47690,7 +47690,7 @@
       "type": "link",
       "icon": "",
       "name": "The Star sport",
-      "desc": "",
+      "desc": "Športová sekcia popredného malajzijského anglického denníka The Star.",
       "url": "https://www.thestar.com.my/sport",
       "order": 9
     },
@@ -47700,7 +47700,7 @@
       "type": "link",
       "icon": "",
       "name": "NST sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka New Straits Times.",
       "url": "https://www.nst.com.my/sports",
       "order": 10
     },
@@ -47710,7 +47710,7 @@
       "type": "link",
       "icon": "",
       "name": "Harian Metro arena",
-      "desc": "",
+      "desc": "Športová rubrika (Arena) populárneho malajského denníka Harian Metro.",
       "url": "https://www.hmetro.com.my/arena",
       "order": 11
     },
@@ -47720,7 +47720,7 @@
       "type": "link",
       "icon": "",
       "name": "Berita Harian sukan",
-      "desc": "",
+      "desc": "Športová rubrika malajského denníka Berita Harian.",
       "url": "https://www.bharian.com.my/sukan",
       "order": 12
     },
@@ -47730,7 +47730,7 @@
       "type": "link",
       "icon": "",
       "name": "Sin Chew daily sport",
-      "desc": "",
+      "desc": "Športová rubrika čínskojazyčného malajzijského denníka Sin Chew Daily.",
       "url": "https://www.sinchew.com.my/category/%E4%BD%93%E8%82%B2",
       "order": 13
     },
@@ -47740,7 +47740,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Express sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily Express (Sabah, Východná Malajzia).",
       "url": "https://www.dailyexpress.com.my/sports/",
       "order": 14
     },
@@ -47750,7 +47750,7 @@
       "type": "link",
       "icon": "",
       "name": "Utusan Malaysia sukan",
-      "desc": "",
+      "desc": "Športová rubrika malajského denníka Utusan Malaysia.",
       "url": "https://www.utusan.com.my/sukan/",
       "order": 15
     },
@@ -47760,8 +47760,8 @@
       "type": "link",
       "icon": "",
       "name": "Sinar Harian sukan",
-      "desc": "",
-      "url": "sinarharian.com.my/sukan",
+      "desc": "Športová rubrika denníka Sinar Harian.",
+      "url": "https://sinarharian.com.my/sukan",
       "order": 16
     },
     {
@@ -47770,7 +47770,7 @@
       "type": "link",
       "icon": "",
       "name": "Kosmo sukan",
-      "desc": "",
+      "desc": "Športová rubrika populárneho malajzijského denníka Kosmo!.",
       "url": "https://www.kosmo.com.my/sukan/",
       "order": 17
     },
@@ -47780,7 +47780,7 @@
       "type": "link",
       "icon": "",
       "name": "Malay Mail sports",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Malay Mail.",
       "url": "https://www.malaymail.com/sports",
       "order": 18
     },
@@ -47790,7 +47790,7 @@
       "type": "link",
       "icon": "",
       "name": "Free Malaysia sports",
-      "desc": "",
+      "desc": "Športová sekcia nezávislého malajzijského portálu Free Malaysia Today.",
       "url": "https://www.freemalaysiatoday.com/category/category/sports",
       "order": 19
     },
@@ -47800,7 +47800,7 @@
       "type": "link",
       "icon": "",
       "name": "China press sports",
-      "desc": "",
+      "desc": "Športová rubrika čínskojazyčného malajzijského denníka China Press.",
       "url": "https://www.chinapress.com.my/category/体育/",
       "order": 20
     },
@@ -47810,7 +47810,7 @@
       "type": "link",
       "icon": "",
       "name": "PSM news sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivskej verejnoprávnej televízie PSM News.",
       "url": "https://psmnews.mv/en/sports",
       "order": 3
     },
@@ -47820,7 +47820,7 @@
       "type": "link",
       "icon": "",
       "name": "Raaje TV sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivskej televízie Raajje TV.",
       "url": "https://raajje.mv/en/category/sports",
       "order": 4
     },
@@ -47830,7 +47830,7 @@
       "type": "link",
       "icon": "",
       "name": "Mihaaru sports",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho maldivského denníka Mihaaru.",
       "url": "https://mihaaru.com/sports",
       "order": 0
     },
@@ -47840,7 +47840,7 @@
       "type": "link",
       "icon": "",
       "name": "The Edition sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivského spravodajského portálu The Edition.",
       "url": "https://edition.mv/sports",
       "order": 1
     },
@@ -47850,7 +47850,7 @@
       "type": "link",
       "icon": "",
       "name": "Sun Online sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivského portálu Sun Online.",
       "url": "https://sun.mv/sports",
       "order": 2
     },
@@ -47860,7 +47860,7 @@
       "type": "link",
       "icon": "",
       "name": "Avas sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivského spravodajského portálu Avas.",
       "url": "https://avas.mv/sports",
       "order": 5
     },
@@ -47870,7 +47870,7 @@
       "type": "link",
       "icon": "",
       "name": "Vaguthu sport",
-      "desc": "",
+      "desc": "Športová sekcia maldivského portálu Vaguthu.",
       "url": "https://vaguthu.mv/sport/",
       "order": 6
     },
@@ -47880,7 +47880,7 @@
       "type": "link",
       "icon": "",
       "name": "One online sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivského portálu One Online.",
       "url": "https://oneonline.mv/sports",
       "order": 7
     },
@@ -47890,7 +47890,7 @@
       "type": "link",
       "icon": "",
       "name": "Dhiyares sports",
-      "desc": "",
+      "desc": "Športová sekcia maldivského spravodajského portálu Dhiyares.",
       "url": "https://dhiyares.com/sports",
       "order": 8
     },
@@ -47900,7 +47900,7 @@
       "type": "link",
       "icon": "",
       "name": "Duwun sport",
-      "desc": "",
+      "desc": "Športová sekcia mjanmarského portálu Duwun.",
       "url": "https://www.duwun.com.mm/sport",
       "order": 0
     },
@@ -47910,7 +47910,7 @@
       "type": "link",
       "icon": "",
       "name": "MNL futbal",
-      "desc": "",
+      "desc": "Web venovaný mjanmarskej Národnej lige (MNL), najvyššej futbalovej súťaži krajiny.",
       "url": "https://themnl.com/",
       "order": 1
     },
@@ -47920,7 +47920,7 @@
       "type": "link",
       "icon": "",
       "name": "Eleven sports",
-      "desc": "",
+      "desc": "Športová sekcia mjanmarského spravodajského portálu Eleven Myanmar.",
       "url": "https://elevenmyanmar.com/sports",
       "order": 2
     },
@@ -47930,7 +47930,7 @@
       "type": "link",
       "icon": "",
       "name": "GNLM sports",
-      "desc": "",
+      "desc": "Športová sekcia štátneho denníka Global New Light of Myanmar.",
       "url": "https://www.gnlm.com.mm/category/sports/",
       "order": 3
     },
@@ -47940,7 +47940,7 @@
       "type": "link",
       "icon": "",
       "name": "Myawady daily sport",
-      "desc": "",
+      "desc": "Športová sekcia mjanmarského denníka Myawady.",
       "url": "https://www.myawady.net.mm/sport_news",
       "order": 4
     },
@@ -47950,7 +47950,7 @@
       "type": "link",
       "icon": "",
       "name": "Msports",
-      "desc": "",
+      "desc": "Mongolský športový spravodajský portál.",
       "url": "https://www.msports.mn/",
       "order": 0
     },
@@ -47960,7 +47960,7 @@
       "type": "link",
       "icon": "",
       "name": "MNB sport",
-      "desc": "",
+      "desc": "Športová sekcia mongolskej verejnoprávnej televízie MNB.",
       "url": "https://www.mnb.mn/c/1",
       "order": 1
     },
@@ -47970,7 +47970,7 @@
       "type": "link",
       "icon": "",
       "name": "Unuudur sport",
-      "desc": "",
+      "desc": "Športová sekcia mongolského denníka Unuudur.",
       "url": "https://www.unuudur.mn/as/sport",
       "order": 2
     },
@@ -47980,7 +47980,7 @@
       "type": "link",
       "icon": "",
       "name": "Eguur sport",
-      "desc": "",
+      "desc": "Mongolský športový portál Eguur.",
       "url": "https://eguur.mn/category/%d0%bd%d0%b8%d0%b9%d0%b3%d1%8d%d0%bc/%d1%81%d0%bf%d0%be%d1%80%d1%82/",
       "order": 3
     },
@@ -47990,7 +47990,7 @@
       "type": "link",
       "icon": "",
       "name": "DNN sport",
-      "desc": "",
+      "desc": "Športová sekcia mongolského spravodajského portálu DNN.",
       "url": "https://dnn.mn/category/693fe64e22af1049b18ee76f",
       "order": 4
     },
@@ -48000,7 +48000,7 @@
       "type": "link",
       "icon": "",
       "name": "Zindaa sport",
-      "desc": "",
+      "desc": "Športová sekcia mongolského portálu Zindaa.",
       "url": "https://news.zindaa.mn/%D1%81%D0%BF%D0%BE%D1%80%D1%82",
       "order": 5
     },
@@ -48010,7 +48010,7 @@
       "type": "link",
       "icon": "",
       "name": "Eagle sport",
-      "desc": "",
+      "desc": "Mongolský športový portál Eagle.",
       "url": "https://eagle.mn/c/8",
       "order": 6
     },
@@ -48020,7 +48020,7 @@
       "type": "link",
       "icon": "",
       "name": "Mongolian Football",
-      "desc": "",
+      "desc": "Portál venovaný mongolskému futbalu.",
       "url": "https://www.mongolianfootball.com/",
       "order": 7
     },
@@ -48030,7 +48030,7 @@
       "type": "link",
       "icon": "",
       "name": "Goal Nepal",
-      "desc": "",
+      "desc": "Popredný nepálsky futbalový portál Goal Nepal.",
       "url": "https://www.goalnepal.com/",
       "order": 3
     },
@@ -48040,7 +48040,7 @@
       "type": "link",
       "icon": "",
       "name": "HamroKhelkud",
-      "desc": "",
+      "desc": "Nepálsky športový portál (khelkud = šport).",
       "url": "https://www.hamrokhelkud.com/",
       "order": 0
     },
@@ -48050,7 +48050,7 @@
       "type": "link",
       "icon": "",
       "name": "Khelpati",
-      "desc": "",
+      "desc": "Nepálsky športový portál Khelpati.",
       "url": "https://khelpati.com/",
       "order": 1
     },
@@ -48060,7 +48060,7 @@
       "type": "link",
       "icon": "",
       "name": "CricNepal",
-      "desc": "",
+      "desc": "Nepálsky portál venovaný kriketu.",
       "url": "https://www.cricnepal.com/",
       "order": 2
     },
@@ -48070,7 +48070,7 @@
       "type": "link",
       "icon": "",
       "name": "Nepal Sportz",
-      "desc": "",
+      "desc": "Nepálsky športový spravodajský portál.",
       "url": "https://nepalsportz.com/",
       "order": 4
     },
@@ -48080,7 +48080,7 @@
       "type": "link",
       "icon": "",
       "name": "MeroKhel",
-      "desc": "",
+      "desc": "Nepálsky športový portál (mero khel = \"moja hra\").",
       "url": "https://merokhel.com/",
       "order": 5
     },
@@ -48090,7 +48090,7 @@
       "type": "link",
       "icon": "",
       "name": "Kantipur Tv sports",
-      "desc": "",
+      "desc": "Športová sekcia nepálskej televízie Kantipur.",
       "url": "https://kantipurtv.com/sports",
       "order": 6
     },
@@ -48100,7 +48100,7 @@
       "type": "link",
       "icon": "",
       "name": "Nepal TV sports",
-      "desc": "",
+      "desc": "Športová sekcia nepálskej televízie NTV.",
       "url": "https://nepaltvonline.com/sports/",
       "order": 7
     },
@@ -48110,7 +48110,7 @@
       "type": "link",
       "icon": "",
       "name": "Kathmandu Post sports",
-      "desc": "",
+      "desc": "Športová sekcia popredného anglického denníka Kathmandu Post.",
       "url": "https://kathmandupost.com/sports",
       "order": 8
     },
@@ -48120,7 +48120,7 @@
       "type": "link",
       "icon": "",
       "name": "Himalayan Times sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Himalayan Times.",
       "url": "https://thehimalayantimes.com/sports",
       "order": 9
     },
@@ -48130,7 +48130,7 @@
       "type": "link",
       "icon": "",
       "name": "Online Khabar sports",
-      "desc": "",
+      "desc": "Športová sekcia nepálskeho spravodajského portálu OnlineKhabar.",
       "url": "https://english.onlinekhabar.com/category/sports",
       "order": 10
     },
@@ -48140,7 +48140,7 @@
       "type": "link",
       "icon": "",
       "name": "My Republica sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Republica.",
       "url": "https://myrepublica.nagariknetwork.com/category/sports",
       "order": 11
     },
@@ -48150,7 +48150,7 @@
       "type": "link",
       "icon": "",
       "name": "Nagarik news sport",
-      "desc": "",
+      "desc": "Športová sekcia nepálskeho denníka Nagarik.",
       "url": "https://nagariknews.nagariknetwork.com/sports",
       "order": 12
     },
@@ -48160,7 +48160,7 @@
       "type": "link",
       "icon": "",
       "name": "Naya Patrika sports",
-      "desc": "",
+      "desc": "Športová sekcia nepálskeho denníka Naya Patrika.",
       "url": "https://www.nayapatrikadaily.com/news-article/14/Sports",
       "order": 13
     },
@@ -48170,7 +48170,7 @@
       "type": "link",
       "icon": "",
       "name": "Nepal news sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu NepalNews.",
       "url": "https://nepalnews.com/category/sports/",
       "order": 14
     },
@@ -48180,7 +48180,7 @@
       "type": "link",
       "icon": "",
       "name": "News of Nepal sport",
-      "desc": "",
+      "desc": "Športová sekcia portálu News of Nepal.",
       "url": "https://newsofnepal.com/category/sport/",
       "order": 15
     },
@@ -48190,7 +48190,7 @@
       "type": "link",
       "icon": "",
       "name": "Rising Nepal sports",
-      "desc": "",
+      "desc": "Športová sekcia štátneho denníka The Rising Nepal.",
       "url": "https://risingnepaldaily.com/categories/sports",
       "order": 16
     },
@@ -48200,7 +48200,7 @@
       "type": "link",
       "icon": "",
       "name": "Tooofa",
-      "desc": "",
+      "desc": "Ománsky futbalový portál.",
       "url": "https://tooofa.com/",
       "order": 0
     },
@@ -48210,7 +48210,7 @@
       "type": "link",
       "icon": "",
       "name": "LO3btna",
-      "desc": "",
+      "desc": "Ománsky športový portál (v arabčine približne \"naša hra\").",
       "url": "https://lo3btna.com/",
       "order": 1
     },
@@ -48220,7 +48220,7 @@
       "type": "link",
       "icon": "",
       "name": "Kooora",
-      "desc": "",
+      "desc": "Populárny arabský športový portál so zameraním na futbal, sledovaný aj v Ománe.",
       "url": "https://www.kooora.com/",
       "order": 2
     },
@@ -48230,7 +48230,7 @@
       "type": "link",
       "icon": "",
       "name": "Oman Cricket",
-      "desc": "",
+      "desc": "Oficiálny web Ománskeho kriketového zväzu.",
       "url": "https://www.omancricket.org/",
       "order": 3
     },
@@ -48240,7 +48240,7 @@
       "type": "link",
       "icon": "",
       "name": "Oman Observer sports",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Oman Observer.",
       "url": "https://www.omanobserver.om/sports",
       "order": 4
     },
@@ -48250,7 +48250,7 @@
       "type": "link",
       "icon": "",
       "name": "Times of Oman sports",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Times of Oman.",
       "url": "https://timesofoman.com/category/sports",
       "order": 5
     },
@@ -48260,7 +48260,7 @@
       "type": "link",
       "icon": "",
       "name": "Muscat daily sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Muscat Daily.",
       "url": "https://www.muscatdaily.com/category/sports/",
       "order": 6
     },
@@ -48270,7 +48270,7 @@
       "type": "link",
       "icon": "",
       "name": "Oman daily sports",
-      "desc": "",
+      "desc": "Športová sekcia arabského denníka Oman Daily.",
       "url": "https://www.omandaily.om/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
       "order": 7
     },
@@ -48280,7 +48280,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Roya sports",
-      "desc": "",
+      "desc": "Športová sekcia ománskeho denníka Al Roya.",
       "url": "https://alroya.om/category/69/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 8
     },
@@ -48290,7 +48290,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Watan sports",
-      "desc": "",
+      "desc": "Športová sekcia ománskeho denníka Al Watan.",
       "url": "https://alwatan.om/sports",
       "order": 9
     },
@@ -48300,7 +48300,7 @@
       "type": "link",
       "icon": "",
       "name": "Muscat daily sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Muscat Daily.",
       "url": "https://www.muscatdaily.com/category/sports/",
       "order": 10
     },
@@ -48310,7 +48310,7 @@
       "type": "link",
       "icon": "",
       "name": "Siraj daily sports",
-      "desc": "",
+      "desc": "Športová sekcia ománskeho denníka Siraj.",
       "url": "https://www.sirajlive.com/category/sports",
       "order": 11
     },
@@ -48320,7 +48320,7 @@
       "type": "link",
       "icon": "",
       "name": "Geo Super",
-      "desc": "",
+      "desc": "Pakistanská športová televízia zameraná najmä na kriket.",
       "url": "https://www.geosuper.tv/",
       "order": 0
     },
@@ -48330,7 +48330,7 @@
       "type": "link",
       "icon": "",
       "name": "PakPassion",
-      "desc": "",
+      "desc": "Popredný pakistanský portál venovaný kriketu.",
       "url": "https://pakpassion.com/",
       "order": 1
     },
@@ -48340,7 +48340,7 @@
       "type": "link",
       "icon": "",
       "name": "PCB cricket",
-      "desc": "",
+      "desc": "Oficiálny web Pakistanského kriketového výboru (PCB).",
       "url": "https://www.pcb.com.pk/",
       "order": 2
     },
@@ -48350,7 +48350,7 @@
       "type": "link",
       "icon": "",
       "name": "Scoreline",
-      "desc": "",
+      "desc": "Pakistanský športový portál Scoreline.",
       "url": "https://www.scoreline.org/",
       "order": 3
     },
@@ -48360,7 +48360,7 @@
       "type": "link",
       "icon": "",
       "name": "Cricket Pakistan",
-      "desc": "",
+      "desc": "Pakistanský portál venovaný kriketu.",
       "url": "https://cricketpakistan.com.pk/",
       "order": 4
     },
@@ -48370,7 +48370,7 @@
       "type": "link",
       "icon": "",
       "name": "A sports TV",
-      "desc": "",
+      "desc": "Pakistanská športová televízia A Sports.",
       "url": "https://a-sports.tv/",
       "order": 5
     },
@@ -48380,7 +48380,7 @@
       "type": "link",
       "icon": "",
       "name": "Dawn sport",
-      "desc": "",
+      "desc": "Športová sekcia popredného pakistanského denníka Dawn.",
       "url": "https://www.dawn.com/sport",
       "order": 6
     },
@@ -48390,7 +48390,7 @@
       "type": "link",
       "icon": "",
       "name": "Express Tribune sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka The Express Tribune.",
       "url": "https://tribune.com.pk/sports",
       "order": 7
     },
@@ -48400,7 +48400,7 @@
       "type": "link",
       "icon": "",
       "name": "The news sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka The News International.",
       "url": "https://www.thenews.com.pk/latest/category/sports",
       "order": 8
     },
@@ -48410,7 +48410,7 @@
       "type": "link",
       "icon": "",
       "name": "The Nation sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka The Nation (Pakistan).",
       "url": "https://www.nation.com.pk/sports",
       "order": 9
     },
@@ -48420,7 +48420,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Jang sports",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho urdského denníka Daily Jang.",
       "url": "https://jang.com.pk/en/category/sports",
       "order": 10
     },
@@ -48430,7 +48430,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Times sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily Times (Pakistan).",
       "url": "https://dailytimes.com.pk/category/sports/",
       "order": 11
     },
@@ -48440,7 +48440,7 @@
       "type": "link",
       "icon": "",
       "name": "Brecorder sports",
-      "desc": "",
+      "desc": "Športová sekcia ekonomického denníka Business Recorder.",
       "url": "https://www.brecorder.com/sports",
       "order": 12
     },
@@ -48450,7 +48450,7 @@
       "type": "link",
       "icon": "",
       "name": "Pakistan Observer sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Pakistan Observer.",
       "url": "https://pakobserver.net/sports/",
       "order": 13
     },
@@ -48460,7 +48460,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Express sports",
-      "desc": "",
+      "desc": "Športová sekcia urdského denníka Daily Express (Pakistan).",
       "url": "https://www.express.pk/sports/",
       "order": 14
     },
@@ -48470,7 +48470,7 @@
       "type": "link",
       "icon": "",
       "name": "Nawa-i-Waqt sports",
-      "desc": "",
+      "desc": "Športová sekcia urdského denníka Nawa-i-Waqt.",
       "url": "https://www.nawaiwaqt.com.pk/sports",
       "order": 15
     },
@@ -48480,7 +48480,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Dunya sports",
-      "desc": "",
+      "desc": "Športová sekcia urdského denníka Daily Dunya.",
       "url": "https://dunya.com.pk/index.php/sports",
       "order": 16
     },
@@ -48490,7 +48490,7 @@
       "type": "link",
       "icon": "",
       "name": "Khyber news sports",
-      "desc": "",
+      "desc": "Športová sekcia pakistanskej televízie Khyber News.",
       "url": "https://khybernews.tv/category/sports-news/",
       "order": 17
     },
@@ -48500,7 +48500,7 @@
       "type": "link",
       "icon": "",
       "name": "AAJ Daily sports",
-      "desc": "",
+      "desc": "Športová sekcia urdského denníka Daily Aaj.",
       "url": "https://www.dailyaaj.com.pk/category/sports",
       "order": 18
     },
@@ -48510,7 +48510,7 @@
       "type": "link",
       "icon": "",
       "name": "K2 times sports",
-      "desc": "",
+      "desc": "Športová sekcia pakistanského portálu K2 Times (región Gilgit-Baltistan).",
       "url": "https://k2times.com/category/sports/",
       "order": 19
     },
@@ -48520,7 +48520,7 @@
       "type": "link",
       "icon": "",
       "name": "Nawaiwaqt sports",
-      "desc": "",
+      "desc": "Športová sekcia urdského denníka Nawa-i-Waqt.",
       "url": "https://www.nawaiwaqt.com.pk/sports",
       "order": 20
     },
@@ -48530,7 +48530,7 @@
       "type": "link",
       "icon": "",
       "name": "Pakistan Today sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Pakistan Today.",
       "url": "https://www.pakistantoday.com.pk/category/sports",
       "order": 21
     },
@@ -48540,7 +48540,7 @@
       "type": "link",
       "icon": "",
       "name": "Samaa sports",
-      "desc": "",
+      "desc": "Športová sekcia pakistanskej televízie Samaa TV.",
       "url": "https://www.samaa.tv/sports",
       "order": 22
     },
@@ -48550,7 +48550,7 @@
       "type": "link",
       "icon": "",
       "name": "Palsport",
-      "desc": "",
+      "desc": "Palestínsky športový portál Palsport.",
       "url": "https://www.palsport.com/",
       "order": 0
     },
@@ -48560,7 +48560,7 @@
       "type": "link",
       "icon": "",
       "name": "Atlas Sport",
-      "desc": "",
+      "desc": "Palestínsky športový portál Atlas Sport.",
       "url": "https://atlassport.ps/",
       "order": 1
     },
@@ -48570,7 +48570,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Ayyam sport",
-      "desc": "",
+      "desc": "Športová rubrika palestínskeho denníka Al-Ayyam.",
       "url": "https://www.al-ayyam.ps/ar/Category/53/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
       "order": 2
     },
@@ -48580,7 +48580,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Quds sport",
-      "desc": "",
+      "desc": "Športová rubrika palestínskeho denníka Al-Quds.",
       "url": "https://www.alquds.com/ar/categories/sport",
       "order": 3
     },
@@ -48590,7 +48590,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Haya sport",
-      "desc": "",
+      "desc": "Športová rubrika palestínskeho denníka Al-Hayat al-Jadida.",
       "url": "https://www.alhaya.ps/ar/Category/47/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 4
     },
@@ -48600,7 +48600,7 @@
       "type": "link",
       "icon": "",
       "name": "Wattan news sports",
-      "desc": "",
+      "desc": "Športová sekcia palestínskeho spravodajského portálu Wattan.",
       "url": "https://www.wattan.net/ar/news/sports",
       "order": 5
     },
@@ -48610,7 +48610,7 @@
       "type": "link",
       "icon": "",
       "name": "Felesteen sports",
-      "desc": "",
+      "desc": "Športová sekcia palestínskeho portálu Felesteen.",
       "url": "https://felesteen.news/post/category/6/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 6
     },
@@ -48620,7 +48620,7 @@
       "type": "link",
       "icon": "",
       "name": "Arriyadiyad",
-      "desc": "",
+      "desc": "Saudskoarabský športový portál (ar-riyada = šport).",
       "url": "https://arriyadiyah.com/",
       "order": 0
     },
@@ -48630,7 +48630,7 @@
       "type": "link",
       "icon": "",
       "name": "Saudi Pro league",
-      "desc": "",
+      "desc": "Oficiálny web Saudskej profesionálnej ligy (Saudi Pro League).",
       "url": "https://www.spl.com.sa/ar",
       "order": 1
     },
@@ -48640,7 +48640,7 @@
       "type": "link",
       "icon": "",
       "name": "Kooora",
-      "desc": "",
+      "desc": "Populárny arabský športový portál so zameraním na futbal, sledovaný aj v Saudskej Arábii.",
       "url": "https://www.kooora.com/",
       "order": 2
     },
@@ -48650,7 +48650,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Arabiya sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajskej televízie Al Arabiya.",
       "url": "https://www.alarabiya.net/sport",
       "order": 3
     },
@@ -48660,7 +48660,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport KSA",
-      "desc": "",
+      "desc": "Saudskoarabský športový portál Sport KSA.",
       "url": "https://www.sportksa.net/main/",
       "order": 4
     },
@@ -48670,7 +48670,7 @@
       "type": "link",
       "icon": "",
       "name": "Saudi esports",
-      "desc": "",
+      "desc": "Oficiálny portál saudskoarabského esportu (Saudi Esports Federation).",
       "url": "https://saudiesports.sa/",
       "order": 5
     },
@@ -48680,7 +48680,7 @@
       "type": "link",
       "icon": "",
       "name": "Arab news sport",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Arab News.",
       "url": "https://www.arabnews.com/sport",
       "order": 6
     },
@@ -48690,7 +48690,7 @@
       "type": "link",
       "icon": "",
       "name": "Saudi Gazette sports",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Saudi Gazette.",
       "url": "https://saudigazette.com.sa/sports",
       "order": 7
     },
@@ -48700,7 +48700,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Awsat sport",
-      "desc": "",
+      "desc": "Športová sekcia panarabského denníka Asharq Al-Awsat.",
       "url": "https://english.aawsat.com/home/sport/section/2561",
       "order": 8
     },
@@ -48710,7 +48710,7 @@
       "type": "link",
       "icon": "",
       "name": "Okaz sports",
-      "desc": "",
+      "desc": "Športová rubrika saudskoarabského denníka Okaz.",
       "url": "https://www.okaz.com.sa/sports",
       "order": 9
     },
@@ -48720,7 +48720,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Riyadh sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Al-Riyadh.",
       "url": "https://www.alriyadh.com/sport",
       "order": 10
     },
@@ -48730,7 +48730,7 @@
       "type": "link",
       "icon": "",
       "name": "Sabq sports",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Sabq.",
       "url": "https://sabq.org/category/sports",
       "order": 11
     },
@@ -48740,7 +48740,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Eqtisadiah sports",
-      "desc": "",
+      "desc": "Športová rubrika ekonomického denníka Al-Eqtisadiah.",
       "url": "https://www.aleqt.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 12
     },
@@ -48750,7 +48750,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Watan sports",
-      "desc": "",
+      "desc": "Športová rubrika saudskoarabského denníka Al-Watan.",
       "url": "https://www.alwatan.com.sa/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 13
     },
@@ -48760,7 +48760,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Bilad sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Al-Bilad.",
       "url": "https://albiladdaily.com/category/%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/",
       "order": 14
     },
@@ -48770,7 +48770,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Yaum sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Al-Yaum.",
       "url": "https://www.alyaum.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 15
     },
@@ -48780,7 +48780,7 @@
       "type": "link",
       "icon": "",
       "name": "Elaph sports",
-      "desc": "",
+      "desc": "Športová sekcia panarabského online denníka Elaph.",
       "url": "https://elaph.com/sports.html",
       "order": 16
     },
@@ -48790,7 +48790,7 @@
       "type": "link",
       "icon": "",
       "name": "Saudi Press Agency",
-      "desc": "",
+      "desc": "Športová kategória Saudskoarabskej tlačovej agentúry (SPA).",
       "url": "https://www.spa.gov.sa/news/categories-news/4?page=1",
       "order": 17
     },
@@ -48800,7 +48800,7 @@
       "type": "link",
       "icon": "",
       "name": "Me watch sports",
-      "desc": "",
+      "desc": "Športová sekcia streamovacej platformy Mediacorp meWATCH.",
       "url": "https://www.mewatch.sg/sports",
       "order": 8
     },
@@ -48810,7 +48810,7 @@
       "type": "link",
       "icon": "",
       "name": "SPL futbal",
-      "desc": "",
+      "desc": "Oficiálny web Singapurskej Premier League.",
       "url": "https://spl.sg/",
       "order": 0
     },
@@ -48820,7 +48820,7 @@
       "type": "link",
       "icon": "",
       "name": "Singapore olympics",
-      "desc": "",
+      "desc": "Oficiálny web Singapurského olympijského výboru.",
       "url": "https://singaporeolympics.com/",
       "order": 1
     },
@@ -48830,7 +48830,7 @@
       "type": "link",
       "icon": "",
       "name": "Singapore athletics",
-      "desc": "",
+      "desc": "Oficiálny web Singapurskej atletickej federácie.",
       "url": "https://www.singaporeathletics.org.sg/",
       "order": 2
     },
@@ -48840,7 +48840,7 @@
       "type": "link",
       "icon": "",
       "name": "Straits Times sport",
-      "desc": "",
+      "desc": "Športová sekcia popredného denníka The Straits Times.",
       "url": "https://www.straitstimes.com/sport",
       "order": 3
     },
@@ -48850,7 +48850,7 @@
       "type": "link",
       "icon": "",
       "name": "Zaobao sports",
-      "desc": "",
+      "desc": "Športová sekcia čínskojazyčného denníka Lianhe Zaobao.",
       "url": "https://www.zaobao.com.sg/news/sports",
       "order": 4
     },
@@ -48860,7 +48860,7 @@
       "type": "link",
       "icon": "",
       "name": "Berita Harian sukan",
-      "desc": "",
+      "desc": "Športová rubrika malajského denníka Berita Harian (Singapur).",
       "url": "https://www.beritaharian.sg/sukan",
       "order": 5
     },
@@ -48870,7 +48870,7 @@
       "type": "link",
       "icon": "",
       "name": "Tamil Murasu sports",
-      "desc": "",
+      "desc": "Športová sekcia tamilského denníka Tamil Murasu.",
       "url": "https://www.tamilmurasu.com.sg/sports",
       "order": 6
     },
@@ -48880,7 +48880,7 @@
       "type": "link",
       "icon": "",
       "name": "Asia One sports",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu AsiaOne.",
       "url": "https://www.asiaone.com/sports",
       "order": 7
     },
@@ -48890,7 +48890,7 @@
       "type": "link",
       "icon": "",
       "name": "The Papare",
-      "desc": "",
+      "desc": "Popredný srílanský športový portál The Papare.",
       "url": "https://www.thepapare.com/",
       "order": 0
     },
@@ -48900,7 +48900,7 @@
       "type": "link",
       "icon": "",
       "name": "Sri Lanka cricket",
-      "desc": "",
+      "desc": "Oficiálny web Srílanského kriketového výboru.",
       "url": "https://srilankacricket.lk/",
       "order": 1
     },
@@ -48910,7 +48910,7 @@
       "type": "link",
       "icon": "",
       "name": "Hiru news sports",
-      "desc": "",
+      "desc": "Športová sekcia televízie Hiru News.",
       "url": "https://hirunews.lk/en/news_listing.php?category=Sports",
       "order": 2
     },
@@ -48931,7 +48931,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily Mirror sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily Mirror (Srí Lanka).",
       "url": "https://www.dailymirror.lk/sports",
       "order": 3
     },
@@ -48941,7 +48941,7 @@
       "type": "link",
       "icon": "",
       "name": "The Island sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka The Island.",
       "url": "https://island.lk/category/sports/",
       "order": 4
     },
@@ -48951,7 +48951,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily FT sports",
-      "desc": "",
+      "desc": "Športová sekcia ekonomického denníka Daily FT (Srí Lanka).",
       "url": "https://www.ft.lk/sports/23",
       "order": 5
     },
@@ -48961,7 +48961,7 @@
       "type": "link",
       "icon": "",
       "name": "Dinamina sports",
-      "desc": "",
+      "desc": "Športová rubrika sinhalského denníka Dinamina.",
       "url": "https://www.dinamina.lk/category/sports/",
       "order": 6
     },
@@ -48971,7 +48971,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily news sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily News (Srí Lanka).",
       "url": "https://dailynews.lk/category/sports/",
       "order": 7
     },
@@ -48981,7 +48981,7 @@
       "type": "link",
       "icon": "",
       "name": "Sunday Observer sports",
-      "desc": "",
+      "desc": "Športová sekcia týždenníka Sunday Observer.",
       "url": "https://www.sundayobserver.lk/category/sport/",
       "order": 8
     },
@@ -48991,7 +48991,7 @@
       "type": "link",
       "icon": "",
       "name": "Ada Derana sports",
-      "desc": "",
+      "desc": "Športová sekcia popredného spravodajského portálu Ada Derana.",
       "url": "https://adaderana.lk/categories/sports",
       "order": 9
     },
@@ -49001,7 +49001,7 @@
       "type": "link",
       "icon": "",
       "name": "Kelimandala",
-      "desc": "",
+      "desc": "Srílanský športový portál Kelimandala.",
       "url": "https://www.kelimandala.lk/",
       "order": 10
     },
@@ -49011,7 +49011,7 @@
       "type": "link",
       "icon": "",
       "name": "Divaina sports",
-      "desc": "",
+      "desc": "Športová rubrika sinhalského denníka Divaina.",
       "url": "https://www.divaina.lk/category/sports-news",
       "order": 11
     },
@@ -49021,7 +49021,7 @@
       "type": "link",
       "icon": "",
       "name": "Silumina sport",
-      "desc": "",
+      "desc": "Športová rubrika sinhalského týždenníka Silumina.",
       "url": "https://www.silumina.lk/category/sport/",
       "order": 12
     },
@@ -49031,7 +49031,7 @@
       "type": "link",
       "icon": "",
       "name": "Sri Lanka Mirror sports",
-      "desc": "",
+      "desc": "Športová sekcia portálu Sri Lanka Mirror.",
       "url": "https://srilankamirror.com/category/sports/",
       "order": 13
     },
@@ -49041,7 +49041,7 @@
       "type": "link",
       "icon": "",
       "name": "Virakesari sports",
-      "desc": "",
+      "desc": "Športová rubrika tamilského denníka Virakesari.",
       "url": "https://www.virakesari.lk/category/sports",
       "order": 14
     },
@@ -49051,7 +49051,7 @@
       "type": "link",
       "icon": "",
       "name": "Viva Lanka sports",
-      "desc": "",
+      "desc": "Športová sekcia portálu Viva Lanka.",
       "url": "https://www.vivalanka.com/news/pagelist.jsp?categoryid=102",
       "order": 15
     },
@@ -49061,7 +49061,7 @@
       "type": "link",
       "icon": "",
       "name": "SANA sport",
-      "desc": "",
+      "desc": "Športová sekcia oficiálnej Sýrskej arabskej tlačovej agentúry (SANA).",
       "url": "https://sana.sy/en/sport/",
       "order": 0
     },
@@ -49071,7 +49071,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Thawra sport",
-      "desc": "",
+      "desc": "Športová rubrika štátneho denníka Al-Thawra (Sýria).",
       "url": "https://thawra.sy/local_category/%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/",
       "order": 1
     },
@@ -49081,7 +49081,7 @@
       "type": "link",
       "icon": "",
       "name": "Enab Baladi sport",
-      "desc": "",
+      "desc": "Športová sekcia nezávislého sýrskeho portálu Enab Baladi.",
       "url": "https://www.enabbaladi.net/category/sport/",
       "order": 2
     },
@@ -49091,7 +49091,7 @@
       "type": "link",
       "icon": "",
       "name": "Syria news sport",
-      "desc": "",
+      "desc": "Športová sekcia portálu Syria News.",
       "url": "https://syria.news/?cat=sport-news",
       "order": 3
     },
@@ -49101,7 +49101,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Ayam sport",
-      "desc": "",
+      "desc": "Športová rubrika sýrskeho denníka Al-Ayam.",
       "url": "https://www.alayam.com/online/sport",
       "order": 4
     },
@@ -49111,7 +49111,7 @@
       "type": "link",
       "icon": "",
       "name": "SPORTS",
-      "desc": "",
+      "desc": "Tadžický športový spravodajský portál.",
       "url": "https://sports.tj/",
       "order": 0
     },
@@ -49121,7 +49121,7 @@
       "type": "link",
       "icon": "",
       "name": "Asia plus sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Asia-Plus.",
       "url": "https://asiaplus.news/category/tematika/sport/",
       "order": 1
     },
@@ -49131,7 +49131,7 @@
       "type": "link",
       "icon": "",
       "name": "Jumhuriyat sport",
-      "desc": "",
+      "desc": "Športová rubrika štátneho denníka Jumhuriyat.",
       "url": "https://jumhuriyat.tj/bahsho/varzish/",
       "order": 2
     },
@@ -49141,7 +49141,7 @@
       "type": "link",
       "icon": "",
       "name": "Javonon sport",
-      "desc": "",
+      "desc": "Športová rubrika mládežníckeho denníka Javonon.",
       "url": "http://javonon.tj/news/sport/",
       "order": 3
     },
@@ -49151,7 +49151,7 @@
       "type": "link",
       "icon": "",
       "name": "Avesta sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajskej agentúry Avesta.",
       "url": "https://en.avesta.tj/news/sport/",
       "order": 4
     },
@@ -49161,7 +49161,7 @@
       "type": "link",
       "icon": "",
       "name": "Varzish TV",
-      "desc": "",
+      "desc": "Tadžická športová televízia (varzish = šport).",
       "url": "https://varzishtv.tj/tj/",
       "order": 5
     },
@@ -49171,7 +49171,7 @@
       "type": "link",
       "icon": "",
       "name": "TV Futbol",
-      "desc": "",
+      "desc": "Tadžický portál venovaný futbalu.",
       "url": "https://ftv.tj/",
       "order": 6
     },
@@ -49181,7 +49181,7 @@
       "type": "link",
       "icon": "",
       "name": "TSNA",
-      "desc": "",
+      "desc": "Taiwanská športová spravodajská agentúra TSNA.",
       "url": "https://tsna.com/",
       "order": 0
     },
@@ -49191,7 +49191,7 @@
       "type": "link",
       "icon": "",
       "name": "Yahoo sports Taiwan",
-      "desc": "",
+      "desc": "Športová sekcia taiwanského portálu Yahoo.",
       "url": "https://tw.sports.yahoo.com/",
       "order": 1
     },
@@ -49201,7 +49201,7 @@
       "type": "link",
       "icon": "",
       "name": "CPBL",
-      "desc": "",
+      "desc": "Oficiálny web taiwanskej profesionálnej bejzbalovej ligy (CPBL).",
       "url": "https://www.cpbl.com.tw/",
       "order": 2
     },
@@ -49211,7 +49211,7 @@
       "type": "link",
       "icon": "",
       "name": "P League basketbal",
-      "desc": "",
+      "desc": "Oficiálny web taiwanskej profesionálnej basketbalovej ligy P. LEAGUE+.",
       "url": "https://pleagueofficial.com/",
       "order": 3
     },
@@ -49221,7 +49221,7 @@
       "type": "link",
       "icon": "",
       "name": "Liberta Times sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Liberty Times.",
       "url": "https://sports.ltn.com.tw/",
       "order": 4
     },
@@ -49231,7 +49231,7 @@
       "type": "link",
       "icon": "",
       "name": "ET Today sports",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu ET Today.",
       "url": "https://sports.ettoday.net/",
       "order": 5
     },
@@ -49241,7 +49241,7 @@
       "type": "link",
       "icon": "",
       "name": "UDN sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka United Daily News.",
       "url": "https://udn.com/news/cate/2/7227",
       "order": 6
     },
@@ -49251,7 +49251,7 @@
       "type": "link",
       "icon": "",
       "name": "China Times sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka China Times (Taiwan).",
       "url": "https://www.chinatimes.com/sports",
       "order": 7
     },
@@ -49261,7 +49261,7 @@
       "type": "link",
       "icon": "",
       "name": "Taipei Times sport",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Taipei Times.",
       "url": "https://www.taipeitimes.com/News/sport",
       "order": 8
     },
@@ -49271,7 +49271,7 @@
       "type": "link",
       "icon": "",
       "name": "Focus Taiwan sports",
-      "desc": "",
+      "desc": "Športová sekcia anglickej agentúry Focus Taiwan (CNA).",
       "url": "https://focustaiwan.tw/sports/",
       "order": 9
     },
@@ -49281,7 +49281,7 @@
       "type": "link",
       "icon": "",
       "name": "Sportsv",
-      "desc": "",
+      "desc": "Taiwanský športový portál Sportsv.net.",
       "url": "https://www.sportsv.net/",
       "order": 10
     },
@@ -49291,7 +49291,7 @@
       "type": "link",
       "icon": "",
       "name": "NOW news sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu NOWnews.",
       "url": "https://www.nownews.com/cat/sport/",
       "order": 11
     },
@@ -49301,7 +49301,7 @@
       "type": "link",
       "icon": "",
       "name": "Taiwan plus sport",
-      "desc": "",
+      "desc": "Športová sekcia verejnoprávnej streamovacej platformy TaiwanPlus.",
       "url": "https://www.taiwanplus.com/news/taiwan-news/sports",
       "order": 12
     },
@@ -49311,7 +49311,7 @@
       "type": "link",
       "icon": "",
       "name": "Siam sport",
-      "desc": "",
+      "desc": "Popredný thajský športový portál Siamsport.",
       "url": "https://www.siamsport.co.th/",
       "order": 0
     },
@@ -49321,7 +49321,7 @@
       "type": "link",
       "icon": "",
       "name": "Ballthai",
-      "desc": "",
+      "desc": "Thajský futbalový portál Ballthai.",
       "url": "https://www.ballthai.com/",
       "order": 1
     },
@@ -49331,7 +49331,7 @@
       "type": "link",
       "icon": "",
       "name": "Main Stand",
-      "desc": "",
+      "desc": "Thajský športový portál Main Stand.",
       "url": "https://mainstand.co.th/en",
       "order": 2
     },
@@ -49341,7 +49341,7 @@
       "type": "link",
       "icon": "",
       "name": "Thai league offiacial",
-      "desc": "",
+      "desc": "Oficiálny web thajskej Thai League.",
       "url": "https://thaileague.co.th/",
       "order": 3
     },
@@ -49351,7 +49351,7 @@
       "type": "link",
       "icon": "",
       "name": "Sanook sport",
-      "desc": "",
+      "desc": "Športová sekcia populárneho portálu Sanook.",
       "url": "https://www.sanook.com/sport/",
       "order": 4
     },
@@ -49361,7 +49361,7 @@
       "type": "link",
       "icon": "",
       "name": "Kapook football",
-      "desc": "",
+      "desc": "Futbalová sekcia portálu Kapook.",
       "url": "https://football.kapook.com/",
       "order": 5
     },
@@ -49371,7 +49371,7 @@
       "type": "link",
       "icon": "",
       "name": "Thairath sport",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho thajského denníka Thairath.",
       "url": "https://www.thairath.co.th/sport",
       "order": 6
     },
@@ -49381,7 +49381,7 @@
       "type": "link",
       "icon": "",
       "name": "Bangkok Post sport",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Bangkok Post.",
       "url": "https://www.bangkokpost.com/sports",
       "order": 7
     },
@@ -49391,7 +49391,7 @@
       "type": "link",
       "icon": "",
       "name": "Matichon sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Matichon.",
       "url": "https://www.matichon.co.th/sport",
       "order": 8
     },
@@ -49401,7 +49401,7 @@
       "type": "link",
       "icon": "",
       "name": "Daily news sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Daily News (Thajsko).",
       "url": "https://www.dailynews.co.th/sport/",
       "order": 9
     },
@@ -49411,7 +49411,7 @@
       "type": "link",
       "icon": "",
       "name": "Nation Thailand sport",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka The Nation Thailand.",
       "url": "https://www.nationthailand.com/category/news/sport",
       "order": 10
     },
@@ -49421,7 +49421,7 @@
       "type": "link",
       "icon": "",
       "name": "MGR online sport",
-      "desc": "",
+      "desc": "Športová sekcia portálu MGR Online (Manager).",
       "url": "https://mgronline.com/sport",
       "order": 11
     },
@@ -49431,7 +49431,7 @@
       "type": "link",
       "icon": "",
       "name": "Naewna sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Naewna.",
       "url": "https://www.naewna.com/sport",
       "order": 12
     },
@@ -49441,7 +49441,7 @@
       "type": "link",
       "icon": "",
       "name": "Khaosod sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Khaosod.",
       "url": "https://www.khaosod.co.th/sports",
       "order": 13
     },
@@ -49451,7 +49451,7 @@
       "type": "link",
       "icon": "",
       "name": "Turkmenportal sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Turkmenportal.",
       "url": "https://turkmenportal.com/en/news/category/25-sport",
       "order": 0
     },
@@ -49461,7 +49461,7 @@
       "type": "link",
       "icon": "",
       "name": "Orient TM sport",
-      "desc": "",
+      "desc": "Športová sekcia portálu Orient.tm.",
       "url": "https://orient.tm/en/news/sport",
       "order": 1
     },
@@ -49471,7 +49471,7 @@
       "type": "link",
       "icon": "",
       "name": "TDH sport",
-      "desc": "",
+      "desc": "Športová sekcia štátnej tlačovej agentúry Turkmenistanu (TDH).",
       "url": "https://tdh.gov.tm/ru/category/sport",
       "order": 2
     },
@@ -49481,7 +49481,7 @@
       "type": "link",
       "icon": "",
       "name": "Arzuw news sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Arzuw News.",
       "url": "https://arzuw.news/category/sports",
       "order": 3
     },
@@ -49491,7 +49491,7 @@
       "type": "link",
       "icon": "",
       "name": "Sport360",
-      "desc": "",
+      "desc": "Anglický športový portál so zameraním na Blízky východ, sídliaci v Dubaji.",
       "url": "https://sport360.com/",
       "order": 0
     },
@@ -49501,7 +49501,7 @@
       "type": "link",
       "icon": "",
       "name": "Dubai sports",
-      "desc": "",
+      "desc": "Oficiálny web Dubajskej športovej rady.",
       "url": "https://www.dubaisports.ae/content/dubaisports/home.html",
       "order": 1
     },
@@ -49511,7 +49511,7 @@
       "type": "link",
       "icon": "",
       "name": "Gulf news sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Gulf News.",
       "url": "https://gulfnews.com/sport",
       "order": 2
     },
@@ -49521,7 +49521,7 @@
       "type": "link",
       "icon": "",
       "name": "Khaleej Times sports",
-      "desc": "",
+      "desc": "Športová sekcia denníka Khaleej Times.",
       "url": "https://www.khaleejtimes.com/sports",
       "order": 3
     },
@@ -49531,7 +49531,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Bayan sports",
-      "desc": "",
+      "desc": "Športová rubrika arabského denníka Al Bayan.",
       "url": "https://www.albayan.ae/sports",
       "order": 4
     },
@@ -49541,7 +49541,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Etihad sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Al Ittihad (Abú Zabí).",
       "url": "https://www.aletihad.ae/category/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
       "order": 5
     },
@@ -49551,7 +49551,7 @@
       "type": "link",
       "icon": "",
       "name": "Emarat Al Youm sports",
-      "desc": "",
+      "desc": "Športová rubrika denníka Emarat Al Youm.",
       "url": "https://www.emaratalyoum.com/sports",
       "order": 6
     },
@@ -49561,7 +49561,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Khaleej sport",
-      "desc": "",
+      "desc": "Športová rubrika denníka Al Khaleej.",
       "url": "https://www.alkhaleej.ae/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
       "order": 7
     },
@@ -49571,7 +49571,7 @@
       "type": "link",
       "icon": "",
       "name": "The National sport",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka The National (SAE).",
       "url": "https://www.thenationalnews.com/sport/",
       "order": 8
     },
@@ -49581,7 +49581,7 @@
       "type": "link",
       "icon": "",
       "name": "Gulf Today sport",
-      "desc": "",
+      "desc": "Športová sekcia denníka Gulf Today.",
       "url": "https://www.gulftoday.ae/sport",
       "order": 9
     },
@@ -49591,7 +49591,7 @@
       "type": "link",
       "icon": "",
       "name": "ARM news sports",
-      "desc": "",
+      "desc": "Športová sekcia televízie Al Arabiya News Centre (ARN).",
       "url": "https://www.arnnewscentre.ae/news/sports/",
       "order": 10
     },
@@ -49601,7 +49601,7 @@
       "type": "link",
       "icon": "",
       "name": "Emirates247",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Emirates 24|7.",
       "url": "https://www.emirates247.com/sports",
       "order": 11
     },
@@ -49611,7 +49611,7 @@
       "type": "link",
       "icon": "",
       "name": "Erem news sports",
-      "desc": "",
+      "desc": "Športová sekcia panarabského portálu Erem News.",
       "url": "https://www.eremnews.com/sports",
       "order": 12
     },
@@ -49621,7 +49621,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Jazeera sports",
-      "desc": "",
+      "desc": "Športová sekcia katarskej spravodajskej stanice Al Jazeera, jedného z najvplyvnejších médií arabského sveta.",
       "url": "https://www.aljazeera.com/sports",
       "order": 0
     },
@@ -49631,7 +49631,7 @@
       "type": "link",
       "icon": "",
       "name": "SPORTS",
-      "desc": "",
+      "desc": "Uzbecký športový spravodajský portál Sports.uz.",
       "url": "https://sports.uz/",
       "order": 0
     },
@@ -49641,7 +49641,7 @@
       "type": "link",
       "icon": "",
       "name": "PFL futbal",
-      "desc": "",
+      "desc": "Oficiálny web Profesionálnej futbalovej ligy Uzbekistanu (PFL).",
       "url": "https://pfl.uz/",
       "order": 1
     },
@@ -49651,7 +49651,7 @@
       "type": "link",
       "icon": "",
       "name": "Olamsport",
-      "desc": "",
+      "desc": "Uzbecký športový portál Olam Sport.",
       "url": "https://olamsport.com/",
       "order": 2
     },
@@ -49661,7 +49661,7 @@
       "type": "link",
       "icon": "",
       "name": "Championat",
-      "desc": "",
+      "desc": "Ázijská mutácia športového portálu Championat.",
       "url": "https://championat.asia/",
       "order": 3
     },
@@ -49671,7 +49671,7 @@
       "type": "link",
       "icon": "",
       "name": "Tribuna",
-      "desc": "",
+      "desc": "Uzbecká mutácia športového portálu Tribuna.com.",
       "url": "https://tribuna.uz/",
       "order": 4
     },
@@ -49681,7 +49681,7 @@
       "type": "link",
       "icon": "",
       "name": "Stadion",
-      "desc": "",
+      "desc": "Uzbecký športový portál Stadion.uz.",
       "url": "https://stadion.uz/",
       "order": 5
     },
@@ -49691,7 +49691,7 @@
       "type": "link",
       "icon": "",
       "name": "Interfutbol",
-      "desc": "",
+      "desc": "Portál Uzbeckej futbalovej federácie (IFF).",
       "url": "https://iff.uz/",
       "order": 6
     },
@@ -49701,7 +49701,7 @@
       "type": "link",
       "icon": "",
       "name": "Kun sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Kun.uz.",
       "url": "https://kun.uz/en/news/category/sport-en",
       "order": 7
     },
@@ -49711,7 +49711,7 @@
       "type": "link",
       "icon": "",
       "name": "Gazeta sport",
-      "desc": "",
+      "desc": "Športová sekcia portálu Gazeta.uz.",
       "url": "https://www.gazeta.uz/ru/sport/",
       "order": 8
     },
@@ -49721,7 +49721,7 @@
       "type": "link",
       "icon": "",
       "name": "Daryo sport",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Daryo.",
       "url": "https://daryo.uz/category/sport/",
       "order": 9
     },
@@ -49731,7 +49731,7 @@
       "type": "link",
       "icon": "",
       "name": "Fergana sport",
-      "desc": "",
+      "desc": "Športová sekcia regionálnej spravodajskej agentúry Fergana News.",
       "url": "https://fergana.agency/sport/",
       "order": 10
     },
@@ -52081,7 +52081,7 @@
       "type": "link",
       "icon": "",
       "name": "Thethao247",
-      "desc": "",
+      "desc": "Vietnamský športový portál Thể Thao 247.",
       "url": "https://thethao247.vn/",
       "order": 0
     },
@@ -52091,7 +52091,7 @@
       "type": "link",
       "icon": "",
       "name": "Bongdaplus",
-      "desc": "",
+      "desc": "Vietnamský futbalový portál Bongdaplus.",
       "url": "https://bongdaplus.vn/",
       "order": 1
     },
@@ -52101,7 +52101,7 @@
       "type": "link",
       "icon": "",
       "name": "Webthethao",
-      "desc": "",
+      "desc": "Vietnamský športový portál Webthethao.",
       "url": "https://webthethao.vn/",
       "order": 2
     },
@@ -52111,7 +52111,7 @@
       "type": "link",
       "icon": "",
       "name": "Tinthethao",
-      "desc": "",
+      "desc": "Vietnamský športový spravodajský portál.",
       "url": "https://yeuthethao.net.vn/",
       "order": 3
     },
@@ -52121,7 +52121,7 @@
       "type": "link",
       "icon": "",
       "name": "Bongda",
-      "desc": "",
+      "desc": "Vietnamský futbalový portál Bongda.com.vn.",
       "url": "https://bongda.com.vn/",
       "order": 4
     },
@@ -52131,7 +52131,7 @@
       "type": "link",
       "icon": "",
       "name": "Bongda24",
-      "desc": "",
+      "desc": "Vietnamský futbalový portál Bongda24h.",
       "url": "https://bongda24h.vn/",
       "order": 5
     },
@@ -52141,7 +52141,7 @@
       "type": "link",
       "icon": "",
       "name": "Thethao Vietnam plus",
-      "desc": "",
+      "desc": "Športová sekcia spravodajskej agentúry Vietnam+.",
       "url": "https://thethaovietnamplus.vn/",
       "order": 6
     },
@@ -52151,7 +52151,7 @@
       "type": "link",
       "icon": "",
       "name": "VTV Thethao",
-      "desc": "",
+      "desc": "Športová sekcia vietnamskej verejnoprávnej televízie VTV.",
       "url": "https://thethao.vtv.vn/",
       "order": 7
     },
@@ -52161,7 +52161,7 @@
       "type": "link",
       "icon": "",
       "name": "VOV thethao",
-      "desc": "",
+      "desc": "Športová sekcia vietnamského rozhlasu VOV (Hlas Vietnamu).",
       "url": "https://vov.vn/the-thao",
       "order": 8
     },
@@ -52171,7 +52171,7 @@
       "type": "link",
       "icon": "",
       "name": "VN Express thethao",
-      "desc": "",
+      "desc": "Športová sekcia najčítanejšieho vietnamského portálu VnExpress.",
       "url": "https://vnexpress.net/the-thao",
       "order": 9
     },
@@ -52181,7 +52181,7 @@
       "type": "link",
       "icon": "",
       "name": "Thanhnien thethao",
-      "desc": "",
+      "desc": "Športová sekcia denníka Thanh Niên.",
       "url": "https://thanhnien.vn/the-thao.htm",
       "order": 10
     },
@@ -52191,7 +52191,7 @@
       "type": "link",
       "icon": "",
       "name": "Dantri thethao",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu Dân Trí.",
       "url": "https://dantri.com.vn/the-thao.htm",
       "order": 11
     },
@@ -52201,7 +52201,7 @@
       "type": "link",
       "icon": "",
       "name": "Hanoimoi thethao",
-      "desc": "",
+      "desc": "Športová sekcia denníka Hà Nội Mới.",
       "url": "https://hanoimoi.vn/van-hoa/the-thao",
       "order": 12
     },
@@ -52211,7 +52211,7 @@
       "type": "link",
       "icon": "",
       "name": "Laodong thethao",
-      "desc": "",
+      "desc": "Športová sekcia denníka Lao Động.",
       "url": "https://laodong.vn/the-thao",
       "order": 13
     },
@@ -52221,7 +52221,7 @@
       "type": "link",
       "icon": "",
       "name": "Vietnamnet thethao",
-      "desc": "",
+      "desc": "Športová sekcia portálu VietNamNet.",
       "url": "https://vietnamnet.vn/the-thao",
       "order": 14
     },
@@ -52231,7 +52231,7 @@
       "type": "link",
       "icon": "",
       "name": "Tienphong thethao",
-      "desc": "",
+      "desc": "Športová sekcia denníka Tiền Phong.",
       "url": "https://tienphong.vn/the-thao/",
       "order": 15
     },
@@ -52241,7 +52241,7 @@
       "type": "link",
       "icon": "",
       "name": "NLD thethao",
-      "desc": "",
+      "desc": "Športová sekcia vietnamského denníka (Người Lao Động/Tuổi Trẻ).",
       "url": "https://tuoitre.vn/nld/the-thao.htm",
       "order": 16
     },
@@ -52251,7 +52251,7 @@
       "type": "link",
       "icon": "",
       "name": "Znews thethao",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu ZNews (Zing).",
       "url": "https://znews.vn/the-thao.html",
       "order": 17
     },
@@ -52261,7 +52261,7 @@
       "type": "link",
       "icon": "",
       "name": "24h",
-      "desc": "",
+      "desc": "Vietnamský spravodajský portál 24h.com.vn so športovou sekciou.",
       "url": "https://www.24h.com.vn/",
       "order": 18
     },
@@ -52271,7 +52271,7 @@
       "type": "link",
       "icon": "",
       "name": "Nguoiviet thethao",
-      "desc": "",
+      "desc": "Športová sekcia krajanského denníka Người Việt (vietnamská diaspóra, USA).",
       "url": "https://www.nguoi-viet.com/the-thao/",
       "order": 19
     },
@@ -52281,7 +52281,7 @@
       "type": "link",
       "icon": "",
       "name": "Vietnam news sports",
-      "desc": "",
+      "desc": "Športová sekcia anglického denníka Vietnam News.",
       "url": "https://vietnamnews.vn/sports",
       "order": 20
     },
@@ -52291,7 +52291,7 @@
       "type": "link",
       "icon": "",
       "name": "Tatoli desportu",
-      "desc": "",
+      "desc": "Športová sekcia štátnej tlačovej agentúry Východného Timoru Tatoli.",
       "url": "https://tatoli.tl/category/desportu/",
       "order": 0
     },
@@ -52301,7 +52301,7 @@
       "type": "link",
       "icon": "",
       "name": "Independente desportu",
-      "desc": "",
+      "desc": "Športová sekcia denníka Independente (Východný Timor).",
       "url": "https://www.independente.tl/desportu",
       "order": 1
     },
@@ -52311,7 +52311,7 @@
       "type": "link",
       "icon": "",
       "name": "RTTL desportu",
-      "desc": "",
+      "desc": "Športová sekcia verejnoprávnej televízie RTTL (Radio Televisão Timor-Leste).",
       "url": "https://rttlep.tl/desportu/",
       "order": 2
     },
@@ -52321,7 +52321,7 @@
       "type": "link",
       "icon": "",
       "name": "STL news desportu",
-      "desc": "",
+      "desc": "Športová sekcia spravodajského portálu STL Timor-Leste.",
       "url": "https://stltimorleste.com/desportu/",
       "order": 3
     },
@@ -52331,7 +52331,7 @@
       "type": "link",
       "icon": "",
       "name": "Timor post desportu",
-      "desc": "",
+      "desc": "Športová sekcia denníka Timor Post.",
       "url": "https://timorpost.com/desportu/",
       "order": 4
     },
@@ -52341,7 +52341,7 @@
       "type": "link",
       "icon": "",
       "name": "Yemen Shabab",
-      "desc": "",
+      "desc": "Športová sekcia jemenskej televízie Yemen Shabab, so zameraním na jemenskú ligu.",
       "url": "https://yemenshabab.net/sections/NEWS/Yemeni%20League",
       "order": 0
     },
@@ -52351,7 +52351,7 @@
       "type": "link",
       "icon": "",
       "name": "Yemen TV sport",
-      "desc": "",
+      "desc": "Športová sekcia jemenskej štátnej televízie.",
       "url": "https://yementv.tv/category/insports/",
       "order": 1
     },
@@ -52361,7 +52361,7 @@
       "type": "link",
       "icon": "",
       "name": "SABA sport",
-      "desc": "",
+      "desc": "Športová sekcia oficiálnej jemenskej tlačovej agentúry SABA.",
       "url": "https://www.sabanew.net/category/ar/4/",
       "order": 2
     },
@@ -52371,7 +52371,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Thawra sport",
-      "desc": "",
+      "desc": "Športová rubrika štátneho denníka Al-Thawra (Jemen).",
       "url": "https://althawrah.ye/archives/category/%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9",
       "order": 3
     },
@@ -52381,7 +52381,7 @@
       "type": "link",
       "icon": "",
       "name": "26 september sport",
-      "desc": "",
+      "desc": "Športová sekcia jemenského vojenského spravodajského portálu 26sep.net.",
       "url": "https://26sep.net/index.php/sports",
       "order": 4
     },
@@ -52391,7 +52391,7 @@
       "type": "link",
       "icon": "",
       "name": "Sahafah24 sport",
-      "desc": "",
+      "desc": "Športová sekcia jemenského spravodajského portálu Sahafah24.",
       "url": "https://sahafah24.net/topic5.html",
       "order": 5
     },
@@ -52401,7 +52401,7 @@
       "type": "link",
       "icon": "",
       "name": "Al Wahdawi sport",
-      "desc": "",
+      "desc": "Športová sekcia jemenského portálu Al-Wahdawi.",
       "url": "https://alwahdawi.net/news/6",
       "order": 6
     },
@@ -56844,6 +56844,876 @@
       "desc": "Klub z mesta Paraguarí, vznikol v roku 2025 zjednotením klubov regionálnej ligy Paraguarí a je najmladším tímom v División Intermedia 2026.",
       "url": "https://www.facebook.com/p/Paraguar%C3%AD-Atl%C3%A9tico-Club-61583442458563/",
       "order": 16
+    },
+    {
+      "id": "f_alg_l1",
+      "parentId": "f_fut_klu_af_alg",
+      "type": "folder",
+      "icon": "",
+      "name": "Ligue 1",
+      "desc": "",
+      "order": 0,
+      "slug": "ligue-1"
+    },
+    {
+      "id": "f_alg_l1_k1",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "MC Alger",
+      "desc": "Najúspešnejší alžírsky klub (prezývka Doyen), aktuálny majster Ligue 1 2025/26 z hlavného mesta Alžír.",
+      "url": "https://www.facebook.com/mcalger.officiel/",
+      "order": 0
+    },
+    {
+      "id": "f_alg_l1_k2",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "JS Saoura",
+      "desc": "Klub zo saharského mesta Béchar, ktorý sa v poslednej dekáde stal jedným z najúspešnejších v krajine.",
+      "url": "https://www.facebook.com/LOVE.JSSAOURA/",
+      "order": 1
+    },
+    {
+      "id": "f_alg_l1_k3",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CR Belouizdad",
+      "desc": "Klub zo štvrte Belouizdad v Alžíre, viacnásobný majster poslednej dekády s prezývkou Chabab.",
+      "url": "https://cr-belouizdad.com/",
+      "order": 2
+    },
+    {
+      "id": "f_alg_l1_k4",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "MC Oran",
+      "desc": "Jeden z najstarších a najúspešnejších klubov krajiny z prístavného mesta Oran, prezývka Hamraoua.",
+      "url": "https://www.facebook.com/mouloudiacom/",
+      "order": 3
+    },
+    {
+      "id": "f_alg_l1_k5",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "JS Kabylie",
+      "desc": "Klub z kabylského mesta Tizi Ouzou, dvojnásobný víťaz Africkej ligy majstrov (1981, 1990).",
+      "url": "https://jskabylie.dz/",
+      "order": 4
+    },
+    {
+      "id": "f_alg_l1_k6",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Olympique Akbou",
+      "desc": "Klub z mesta Akbou v údolí Soummam (Bejaia), ktorý sa medzi elitu prebojoval v poslednej dekáde.",
+      "url": "https://www.facebook.com/olakbou/",
+      "order": 5
+    },
+    {
+      "id": "f_alg_l1_k7",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "USM Khenchela",
+      "desc": "Klub z východoalžírskeho mesta Khenchela, založený v roku 1943.",
+      "url": "https://www.instagram.com/usmk_officiel/",
+      "order": 6
+    },
+    {
+      "id": "f_alg_l1_k8",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ES Ben Aknoun",
+      "desc": "Klub z alžírskeho predmestia Ben Aknoun, ktorý sa vrátil do najvyššej ligy po roku v druhej lige.",
+      "url": "https://www.facebook.com/ESBAofficiel/",
+      "order": 7
+    },
+    {
+      "id": "f_alg_l1_k9",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CS Constantine",
+      "desc": "Najstarší alžírsky klub (založený 1898), prezývaný Doyen des clubs algériens, fanúšikovia sa volajú Sanafirs.",
+      "url": "https://www.csconstantine.dz/",
+      "order": 8
+    },
+    {
+      "id": "f_alg_l1_k10",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "USM Alger",
+      "desc": "Klub z alžírskej Kasbahu, víťaz africkej Konfederačnej ligy 2025/26.",
+      "url": "https://www.facebook.com/usmaofficielle/",
+      "order": 9
+    },
+    {
+      "id": "f_alg_l1_k11",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ES Sétif",
+      "desc": "Klub z východoalžírskeho mesta Sétif, dvojnásobný víťaz Africkej ligy majstrov (1988, 2007).",
+      "url": "https://www.facebook.com/officielESSETIF/",
+      "order": 10
+    },
+    {
+      "id": "f_alg_l1_k12",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "MB Rouissat",
+      "desc": "Saharský klub z Rouissatu pri meste Ouargla, ktorý si v roku 2025 vybojoval historicky prvý postup do Ligue 1.",
+      "url": "https://www.facebook.com/MBRouissat30/",
+      "order": 11
+    },
+    {
+      "id": "f_alg_l1_k13",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASO Chlef",
+      "desc": "Klub zo severozápadného mesta Chlef, majster alžírskej ligy z roku 2011.",
+      "url": "https://www.facebook.com/asochlef1/",
+      "order": 12
+    },
+    {
+      "id": "f_alg_l1_k14",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "JS El Biar",
+      "desc": "Klub z alžírskej štvrte El Biar, ktorý sa do najvyššej ligy dostal historicky prvýkrát po 82 rokoch existencie.",
+      "url": "https://www.facebook.com/elbiar16alger/",
+      "order": 13
+    },
+    {
+      "id": "f_alg_l1_k15",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "US Biskra",
+      "desc": "Saharský klub z oázového mesta Biskra, návrat medzi elitu po sezóne v druhej lige.",
+      "url": "https://www.facebook.com/USBofficielle/",
+      "order": 14
+    },
+    {
+      "id": "f_alg_l1_k16",
+      "parentId": "f_alg_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CR Témouchent",
+      "desc": "Klub zo severozápadného mesta Ain Témouchent, ktorý si v sezóne 2025/26 vybojoval historicky prvý postup do Ligue 1.",
+      "url": "https://www.facebook.com/crtofficiell/",
+      "order": 15
+    },
+    {
+      "id": "f_bwa_l1",
+      "parentId": "f_fut_klu_af_bwa",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "",
+      "order": 0,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_bwa_l1_k1",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Gaborone United FC",
+      "desc": "Klub z hlavného mesta Gaborone, založený 1967, prezývka The Reds/Moyagoleele, obhajca titulu z 2024/25.",
+      "url": "https://gaboroneunited.co.bw/",
+      "order": 0
+    },
+    {
+      "id": "f_bwa_l1_k2",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Mochudi Centre Chiefs SC",
+      "desc": "Klub z veľkej dediny Mochudi, prezývka Magosi/Maaparankwe, historický rival Township Rollers.",
+      "url": "https://www.facebook.com/mccfco",
+      "order": 1
+    },
+    {
+      "id": "f_bwa_l1_k3",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Jwaneng Galaxy FC",
+      "desc": "Klub z diamantového ťažobného mesta Jwaneng, vznikol 2014/15 zlúčením Jwaneng Comets a Debswana Youngsters.",
+      "url": "https://www.facebook.com/JwanengGalaxy",
+      "order": 2
+    },
+    {
+      "id": "f_bwa_l1_k4",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Township Rollers FC",
+      "desc": "Historicky najúspešnejší klub Botswany, prezývka Popa, hrá slávne Gaborone Derby proti Gaborone United.",
+      "url": "https://www.facebook.com/TownshipRollersFC",
+      "order": 3
+    },
+    {
+      "id": "f_bwa_l1_k5",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Nico United SC",
+      "desc": "Klub z banského mesta Selebi-Phikwe (bývalá ťažba medi/niklu), založený 1969.",
+      "url": "https://www.facebook.com/NICOUNITEDFC",
+      "order": 4
+    },
+    {
+      "id": "f_bwa_l1_k6",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Morupule Wanderers FC",
+      "desc": "Klub spojený s uhoľnou baňou Morupule Colliery v Palapye, prezývka Bafana Ba Magala.",
+      "url": "https://www.facebook.com/wandy18area.co.bw",
+      "order": 5
+    },
+    {
+      "id": "f_bwa_l1_k7",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sua Flamingoes FC",
+      "desc": "Klub zo Sowa Town pomenovaný podľa plameniakov soľnej panvy Sua Pan, podporovaný ťažobnou spoločnosťou Botswana Ash.",
+      "url": "https://www.facebook.com/FlamaBoys",
+      "order": 6
+    },
+    {
+      "id": "f_bwa_l1_k8",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Orapa United FC",
+      "desc": "Klub z diamantového mesta Orapa (Debswana), vznikol 2012 zlúčením 5 klubov, prezývka The Ostriches.",
+      "url": "https://www.orapaunitedfc.com/",
+      "order": 7
+    },
+    {
+      "id": "f_bwa_l1_k9",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Botswana Defence Force XI FC",
+      "desc": "Vojenský tím Botswanských obranných síl, založený 1978.",
+      "url": "https://www.facebook.com/camoboys",
+      "order": 8
+    },
+    {
+      "id": "f_bwa_l1_k10",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Black Lions FC",
+      "desc": "Novozaložený klub (2024) z Gaborone, do ligy sa dostal kúpou licencie od VTM FC pre sezónu 2025/26.",
+      "url": "https://www.facebook.com/p/Black-Lions-Football-Club-61578545476915/",
+      "order": 9
+    },
+    {
+      "id": "f_bwa_l1_k11",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Botswana Police XI SC",
+      "desc": "Tím Botswanskej polície založený 1977, prezývka Jungle Kings.",
+      "url": "https://www.facebook.com/p/Police-XI-Football-Club-100057627813799/",
+      "order": 10
+    },
+    {
+      "id": "f_bwa_l1_k12",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Matebele FC",
+      "desc": "Mladý klub z Kgatleng District založený 2021 (nástupca zaniknutého Masters Blackpool), prezývka Kuka Ntsu.",
+      "url": "https://www.facebook.com/p/Matebele-FC-100037033099295/",
+      "order": 11
+    },
+    {
+      "id": "f_bwa_l1_k13",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Santa Green FC",
+      "desc": "Debutant v najvyššej lige z Mahalapye, majster First Division North 2024/25.",
+      "url": "https://www.facebook.com/santagreenfootballbw",
+      "order": 12
+    },
+    {
+      "id": "f_bwa_l1_k14",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "TAFIC FC",
+      "desc": "Jeden z najstarších klubov (1959/61) z druhého najväčšieho mesta Francistown, prezývka Matjimenyenga.",
+      "url": "https://www.facebook.com/TaficSC",
+      "order": 13
+    },
+    {
+      "id": "f_bwa_l1_k15",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Extension Gunners FC",
+      "desc": "Klub z Lobatse založený 1962, historicky jediný klub Botswany, ktorý nikdy nevypadol z najvyššej ligy.",
+      "url": "https://www.facebook.com/extgunnersfc",
+      "order": 14
+    },
+    {
+      "id": "f_bwa_l1_k16",
+      "parentId": "f_bwa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Calendar Stars FC",
+      "desc": "Debutant 2025/26 z Francistown, postúpil cez baráž proti Jwaneng Young Stars.",
+      "url": "https://www.facebook.com/calendarstarsfc",
+      "order": 15
+    },
+    {
+      "id": "f_bfa_l1",
+      "parentId": "f_fut_klu_af_bfa",
+      "type": "folder",
+      "icon": "",
+      "name": "Premier League",
+      "desc": "",
+      "order": 0,
+      "slug": "premier-league"
+    },
+    {
+      "id": "f_bfa_l1_k1",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Rahimo FC",
+      "desc": "Akadémia z Bamy pri Bobo-Dioulasso založená 2012 bývalým reprezentantom, obhajca titulu 2024/25, vychovala Issu Kaboré (Man City).",
+      "url": "https://rahimo-fc.com/",
+      "order": 0
+    },
+    {
+      "id": "f_bfa_l1_k2",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "SC Majestic",
+      "desc": "Futbalová akadémia zo Saponé pri Ouagadougou, viacnásobný vicemajster (2020, 2022, 2024) preslávený výchovou mladých talentov.",
+      "url": "https://scmajestic.com/",
+      "order": 1
+    },
+    {
+      "id": "f_bfa_l1_k3",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASFB Bobo-Dioulasso",
+      "desc": "Historický klub z roku 1948 z Bobo-Dioulasso, prezývka Les Buffles, tradičný rival Racing Clubu de Bobo.",
+      "url": "https://int.soccerway.com/teams/burkina-faso/asfb-bobo-dioulasso/21260/",
+      "order": 2
+    },
+    {
+      "id": "f_bfa_l1_k4",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "US des Forces Armées",
+      "desc": "Vojenský klub z Ouagadougou hrajúci na Stade de l'USFA, 5-násobný majster krajiny.",
+      "url": "https://www.facebook.com/usfaburkina",
+      "order": 3
+    },
+    {
+      "id": "f_bfa_l1_k5",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASFA-Yennenga",
+      "desc": "Klub z Ouagadougou, spolu s Étoile Filante rekordný 13-násobný majster krajiny, pomenovaný po princeznej Yennenge.",
+      "url": "https://www.facebook.com/AsfaYennengaFC",
+      "order": 4
+    },
+    {
+      "id": "f_bfa_l1_k6",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Douanes",
+      "desc": "Klub colnej správy z Ouagadougou, obhajca dvoch titulov v rade (2022/23, 2023/24).",
+      "url": "https://www.facebook.com/AS-Douanes-football-Burkina-Faso-100057161091255/",
+      "order": 5
+    },
+    {
+      "id": "f_bfa_l1_k7",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sporting Football des Cascades de Tenakourou",
+      "desc": "Klub z Banfory pomenovaný po vrchu Tenakourou, hrá na mestskom štadióne v Banfore.",
+      "url": "https://www.facebook.com/SFCTENAKOUROU",
+      "order": 6
+    },
+    {
+      "id": "f_bfa_l1_k8",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Salitas FC",
+      "desc": "Klub z Ouagadougou aktuálne v strede tabuľky.",
+      "url": "https://www.facebook.com/salitas.ouagadougou",
+      "order": 7
+    },
+    {
+      "id": "f_bfa_l1_k9",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS de la SONABEL",
+      "desc": "Klub štátnej elektrárenskej spoločnosti SONABEL z Ouagadougou, majster 2020/21.",
+      "url": "https://www.facebook.com/assonabelfoot",
+      "order": 8
+    },
+    {
+      "id": "f_bfa_l1_k10",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Rail Club de Kadiogo",
+      "desc": "Klub železničiarov z Ouagadougou, viacnásobný majster (2004/05, 2015/16, 2016/17, 2021/22).",
+      "url": "https://www.facebook.com/rckbf1967",
+      "order": 9
+    },
+    {
+      "id": "f_bfa_l1_k11",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Réal du Faso",
+      "desc": "Mladý klub z roku 2014 (pôvodne Tanga-Kouliga a Ali FC) z Ouagadougou, do najvyššej ligy sa vrátil v sezóne 2024/25.",
+      "url": "https://realdufaso.com/",
+      "order": 10
+    },
+    {
+      "id": "f_bfa_l1_k12",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CFFEB",
+      "desc": "Futbalová akadémia a tréningové centrum mladých talentov v Ouagadougou (Tampouy).",
+      "url": "https://www.facebook.com/Centre-De-Formation-De-Football-Espoir-Du-Burkina",
+      "order": 11
+    },
+    {
+      "id": "f_bfa_l1_k13",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AJEB",
+      "desc": "Akadémia z Bobo-Dioulasso založená bratmi Alainom a Bertrandom Traoré, bývalými reprezentantmi.",
+      "url": "https://www.facebook.com/AJEB-FC-Association-des-Jeunes-Espoirs-de-Bobo",
+      "order": 12
+    },
+    {
+      "id": "f_bfa_l1_k14",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Racing Club de Bobo",
+      "desc": "Klub z Bobo-Dioulasso z roku 1949, historický rival ASFB Bobo-Dioulasso.",
+      "url": "https://www.facebook.com/racingclubBobo",
+      "order": 13
+    },
+    {
+      "id": "f_bfa_l1_k15",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Vitesse FC",
+      "desc": "Mladý klub z Bobo-Dioulasso (2015), v júni 2026 získal svoj vôbec prvý veľký titul (Coupe du Faso).",
+      "url": "https://www.facebook.com/Vitesse-Football-Club-Officiel-VFC-100076336240196",
+      "order": 14
+    },
+    {
+      "id": "f_bfa_l1_k16",
+      "parentId": "f_bfa_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Étoile Filante de Ouagadougou",
+      "desc": "Prezývka Les Stellistes, spolu s ASFA Yennenga rekordný 13-násobný majster, no v sezóne 2025/26 zažíva historický prepad.",
+      "url": "https://www.facebook.com/people/Etoile-Filante-de-Ouagadougou/61560426652787/",
+      "order": 15
+    },
+    {
+      "id": "f_ago_l1",
+      "parentId": "f_fut_klu_af_ang",
+      "type": "folder",
+      "icon": "",
+      "name": "Girabola",
+      "desc": "",
+      "order": 0,
+      "slug": "girabola"
+    },
+    {
+      "id": "f_ago_l1_k1",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Petro Atlético de Luanda",
+      "desc": "Klub z hlavného mesta Luanda, rekordný angolský šampión, prezývka Petroleiros, aktuálny majster Girabola 2025/26.",
+      "url": "https://petroatletico.co.ao/",
+      "order": 0
+    },
+    {
+      "id": "f_ago_l1_k2",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Wiliete Sport Clube de Benguela",
+      "desc": "Mladý klub z Benguely založený 2018, v roku 2026 získal Angolský pohár a v lige skončil druhý.",
+      "url": "https://wilietesc.ao/",
+      "order": 1
+    },
+    {
+      "id": "f_ago_l1_k3",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CD Primeiro de Agosto",
+      "desc": "Viacšportový klub z Luandy spätý s angolskou armádou, tri ligové tituly v rade (1979-1981).",
+      "url": "https://www.facebook.com/clube1deagosto/",
+      "order": 2
+    },
+    {
+      "id": "f_ago_l1_k4",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Clube Desportivo da Huíla",
+      "desc": "Klub z mesta Lubango spojený s angolskou armádou, do najvyššej ligy postúpil v sezóne 2011/12.",
+      "url": "https://www.facebook.com/CDhuila/",
+      "order": 3
+    },
+    {
+      "id": "f_ago_l1_k5",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Bravos do Maquis",
+      "desc": "Klub z východného mesta Luena v provincii Moxico, víťaz Angolského pohára z roku 2015.",
+      "url": "https://www.facebook.com/p/FC-Bravos-Do-Maquis-100063893773795/",
+      "order": 4
+    },
+    {
+      "id": "f_ago_l1_k6",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kabuscorp Sport Clube do Palanca",
+      "desc": "Klub z Luandy založený 1994, víťaz Angolského pohára 2025.",
+      "url": "https://www.facebook.com/kabuscorpscp/",
+      "order": 5
+    },
+    {
+      "id": "f_ago_l1_k7",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Grupo Desportivo Interclube",
+      "desc": "Viacšportový klub z Luandy, jeden z tradičných klubov angolskej Girabola.",
+      "url": "https://interclube.co.ao/",
+      "order": 6
+    },
+    {
+      "id": "f_ago_l1_k8",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Estrela Clube Primeiro de Maio",
+      "desc": "Klub z Benguely, dvojnásobný ligový majster (1983, 1985), prvý angolský klub vo finále africkej súťaže (1994).",
+      "url": "https://www.facebook.com/EstrelaClube1oDeMaio/",
+      "order": 7
+    },
+    {
+      "id": "f_ago_l1_k9",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Progresso da Lunda Sul",
+      "desc": "Klub zo Saurima v diamantovej provincii Lunda Sul na východe Angoly.",
+      "url": "https://www.facebook.com/p/Progresso-Da-Lunda-Sul-100077680301520/",
+      "order": 8
+    },
+    {
+      "id": "f_ago_l1_k10",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Grupo Desportivo Sagrada Esperança",
+      "desc": "Klub z mesta Dundo v provincii Lunda Norte, dvojnásobný ligový majster (2005, 2021).",
+      "url": "https://www.facebook.com/sagradaesperancaln/",
+      "order": 9
+    },
+    {
+      "id": "f_ago_l1_k11",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "CD São Salvador do Kongo",
+      "desc": "Klub z mesta Mbanza Kongo v provincii Zaire, v najvyššej lige od roku 2023.",
+      "url": "https://www.facebook.com/profile.php?id=100080180605881",
+      "order": 10
+    },
+    {
+      "id": "f_ago_l1_k12",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Académica Petróleos do Lobito",
+      "desc": "Klub z prístavného mesta Lobito založený v roku 1970.",
+      "url": "https://www.facebook.com/academicadolobito/",
+      "order": 11
+    },
+    {
+      "id": "f_ago_l1_k13",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Clube Recreativo e Desportivo do Libolo",
+      "desc": "Klub z dediny Calulo v provincii Cuanza Sul, víťaz Angolského ligového pohára 2016.",
+      "url": "https://www.facebook.com/CRDLibolo/",
+      "order": 12
+    },
+    {
+      "id": "f_ago_l1_k14",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "RSD Guelson FC",
+      "desc": "Klub z diamantovej oblasti Lunda, do Girabola postúpil v roku 2025.",
+      "url": "https://www.facebook.com/rsdguelsonfc/",
+      "order": 13
+    },
+    {
+      "id": "f_ago_l1_k15",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Redonda FC",
+      "desc": "Mladý klub z provincie Bengo založený 2021, víťaz druhej ligy (Segundona) 2024/25.",
+      "url": "https://redondafc.com/",
+      "order": 14
+    },
+    {
+      "id": "f_ago_l1_k16",
+      "parentId": "f_ago_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Luanda City FC",
+      "desc": "Mladý klub z hlavného mesta Luanda založený v roku 2022.",
+      "url": "https://www.facebook.com/luandacityfootballclub/",
+      "order": 15
+    },
+    {
+      "id": "f_ben_l1",
+      "parentId": "f_fut_klu_af_ben",
+      "type": "folder",
+      "icon": "",
+      "name": "Ligue 1 (Championnat National)",
+      "desc": "",
+      "order": 0,
+      "slug": "ligue-1"
+    },
+    {
+      "id": "f_ben_l1_k1",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Sobemap",
+      "desc": "Klub z Cotonou spätý so spoločnosťou pre prístavnú manipuláciu SOBEMAP, získal prvý titul v histórii v sezóne 2025/26.",
+      "url": "https://www.facebook.com/p/Sobemap-Sport-Officiel-61552901550047/",
+      "order": 0
+    },
+    {
+      "id": "f_ben_l1_k2",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Coton FC",
+      "desc": "Klub z historického mesta Ouidah, majster ligy v sezónach 2021/22 aj 2022/23.",
+      "url": "https://www.facebook.com/p/Coton-Football-Club-100077902882162/",
+      "order": 1
+    },
+    {
+      "id": "f_ben_l1_k3",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASPAC Cotonou FC",
+      "desc": "Klub Prístavnej správy Cotonou (Port Autonome de Cotonou), majster ligy z roku 2010.",
+      "url": "https://www.facebook.com/Aspacbenin/",
+      "order": 2
+    },
+    {
+      "id": "f_ben_l1_k4",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Loto-Popo FC",
+      "desc": "Klub mestečka Grand-Popo na pobreží, spravovaný Národnou lotériou Beninu, majster ligy 2020/21.",
+      "url": "https://lotopopo.bj/",
+      "order": 3
+    },
+    {
+      "id": "f_ben_l1_k5",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Buffles FC du Borgou",
+      "desc": "Klub z mesta Parakou, päťnásobný majster Beninu.",
+      "url": "https://www.facebook.com/Bufflesfc/",
+      "order": 4
+    },
+    {
+      "id": "f_ben_l1_k6",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dynamo Abomey",
+      "desc": "Klub z historického mesta Abomey, bývalého sídla kráľovstva Dahomey.",
+      "url": "https://www.facebook.com/dynamodabomey/",
+      "order": 5
+    },
+    {
+      "id": "f_ben_l1_k7",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Espoir FC de Savalou",
+      "desc": "Klub z mesta Savalou založený v roku 1959.",
+      "url": "https://www.facebook.com/p/Espoir-FC-de-Savalou-Officiel-100077664336058/",
+      "order": 6
+    },
+    {
+      "id": "f_ben_l1_k8",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Cotonou",
+      "desc": "Klub z hlavného mesta Cotonou, majster ligy z roku 1971.",
+      "url": "https://www.facebook.com/ascotonou/",
+      "order": 7
+    },
+    {
+      "id": "f_ben_l1_k9",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Damissa FC",
+      "desc": "Klub zo severobeninského mesta N'Dali.",
+      "url": "https://www.facebook.com/p/Damissa-Fc-100067701816508/",
+      "order": 8
+    },
+    {
+      "id": "f_ben_l1_k10",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hodio FC de Comè",
+      "desc": "Klub z pobrežného mesta Comè v departemente Mono.",
+      "url": "https://www.facebook.com/p/HODIO-FC-100067591223021/",
+      "order": 9
+    },
+    {
+      "id": "f_ben_l1_k11",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASVO FC",
+      "desc": "Klub z mesta Adjohoun v údolí rieky Ouémé.",
+      "url": "https://au.soccerway.com/teams/benin/asvo/45454/",
+      "order": 10
+    },
+    {
+      "id": "f_ben_l1_k12",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ayema FC",
+      "desc": "Klub z mesta Pobè v departemente Plateau, založený v roku 2008.",
+      "url": "https://www.facebook.com/p/AYEMA-Football-club-100083111692292/",
+      "order": 11
+    },
+    {
+      "id": "f_ben_l1_k13",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bani Ganse FC",
+      "desc": "Klub zo severobeninského mesta Banikoara, do najvyššej ligy postúpil v sezóne 2022/23.",
+      "url": "https://www.facebook.com/banigansefc/",
+      "order": 12
+    },
+    {
+      "id": "f_ben_l1_k14",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "USS Kraké",
+      "desc": "Klub z pohraničného mesta Sèmè-Kraké pri hranici s Nigériou.",
+      "url": "https://www.facebook.com/ussemekrake.org/",
+      "order": 13
+    },
+    {
+      "id": "f_ben_l1_k15",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Dragons FC de l'Ouémé",
+      "desc": "Klub z mesta Porto-Novo, hlavného mesta Beninu, založený v roku 1972.",
+      "url": "https://www.facebook.com/Dragonsdeloueme/",
+      "order": 14
+    },
+    {
+      "id": "f_ben_l1_k16",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Cavaliers FC de Nikki",
+      "desc": "Klub zo severobeninského mesta Nikki.",
+      "url": "https://www.facebook.com/uscavaliers/",
+      "order": 15
+    },
+    {
+      "id": "f_ben_l1_k17",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "JS Pobè FC",
+      "desc": "Klub z mesta Pobè založený v roku 1993.",
+      "url": "https://www.footlive.fr/equipe/jeunesse-sportive-pobe-fc/",
+      "order": 16
+    },
+    {
+      "id": "f_ben_l1_k18",
+      "parentId": "f_ben_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dadjè FC d'Aplahoué",
+      "desc": "Klub z mesta Aplahoué, obhajca titulu ako majster sezóny 2024/25.",
+      "url": "https://www.facebook.com/dadjefc12/",
+      "order": 17
     }
   ]
 }
