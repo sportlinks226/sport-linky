@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -57713,6 +57713,1076 @@
       "name": "Dadjè FC d'Aplahoué",
       "desc": "Klub z mesta Aplahoué, obhajca titulu ako majster sezóny 2024/25.",
       "url": "https://www.facebook.com/dadjefc12/",
+      "order": 17
+    },
+    {
+      "id": "f_bdi_l1",
+      "parentId": "f_fut_klu_af_bdi",
+      "type": "folder",
+      "icon": "",
+      "name": "Primus League (Ligue A)",
+      "desc": "",
+      "order": 0,
+      "slug": "primus-league"
+    },
+    {
+      "id": "f_bdi_l1_k1",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aigle Noir CS",
+      "desc": "Klub z mesta Makamba, obhájca titulu a aktuálny (2025/26) majster Burundi.",
+      "url": "https://www.facebook.com/p/AIGLE-NOIR-CLUB-SPORTIF-100063611924878/",
+      "order": 0
+    },
+    {
+      "id": "f_bdi_l1_k2",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Musongati FC de Gitega",
+      "desc": "Klub z politického hlavného mesta Gitega, v sezóne 2025/26 skončil na 2. mieste.",
+      "url": "https://www.facebook.com/musongatigikundiro/",
+      "order": 1
+    },
+    {
+      "id": "f_bdi_l1_k3",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Flambeau du Centre FC",
+      "desc": "Klub z Gitegy vzniknutý z akadémie Le Messager, prvý ligový titul získal v sezóne 2021/22.",
+      "url": "https://www.facebook.com/p/Flambeau-du-Centre-Fc-100087161663132/",
+      "order": 2
+    },
+    {
+      "id": "f_bdi_l1_k4",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Vision FC",
+      "desc": "Klub z komúny Buganda (provincia Cibitoke, predtým hrával pod menom Royal Vision), hráva na štadióne Urunani.",
+      "url": "https://int.soccerway.com/teams/burundi/royal-vision/66203/",
+      "order": 3
+    },
+    {
+      "id": "f_bdi_l1_k5",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Rukinzo FC",
+      "desc": "Klub bujumburskej polície založený v roku 2015, v roku 2026 vyhral Pohár prezidenta.",
+      "url": "https://www.facebook.com/FCRukinzo/",
+      "order": 4
+    },
+    {
+      "id": "f_bdi_l1_k6",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Vital'O FC",
+      "desc": "Najúspešnejší klub burundskej histórie z Bujumbury, rekordných 21 ligových titulov (naposledy 2023/24).",
+      "url": "https://www.facebook.com/p/Vitalo-Footbal-Club-100063374281632/",
+      "order": 5
+    },
+    {
+      "id": "f_bdi_l1_k7",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bumamuru FC",
+      "desc": "Klub z komúny Buganda v provincii Cibitoke, v roku 2021 vyhral Pohár prezidenta.",
+      "url": "https://www.facebook.com/p/Bumamuru-Football-Club-61564708285522/",
+      "order": 6
+    },
+    {
+      "id": "f_bdi_l1_k8",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Muzinga FC",
+      "desc": "Klub z Bujumbury hrajúci na 22-tisícovom štadióne Prince Louis Rwagasore, do najvyššej súťaže postúpil pred sezónou 2025/26.",
+      "url": "https://www.facebook.com/61578659142707",
+      "order": 7
+    },
+    {
+      "id": "f_bdi_l1_k9",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Olympic Star de Muyinga",
+      "desc": "Klub zo severovýchodného mesta Muyinga, v sezóne 2016/17 vyhral Pohár prezidenta.",
+      "url": "https://www.facebook.com/p/Olympic-Star-100083709216331/",
+      "order": 8
+    },
+    {
+      "id": "f_bdi_l1_k10",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kayanza United FC",
+      "desc": "Klub z mesta Kayanza, v sezóne 2020/21 obsadil 2. miesto len na rozdiel skóre.",
+      "url": "https://www.facebook.com/p/Kayanza-United-100063679674251/",
+      "order": 9
+    },
+    {
+      "id": "f_bdi_l1_k11",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Le Messager FC de Ngozi",
+      "desc": "Klub zo severného mesta Ngozi, trojnásobný majster Burundi (naposledy 2020/21).",
+      "url": "https://www.facebook.com/276621679162817",
+      "order": 10
+    },
+    {
+      "id": "f_bdi_l1_k12",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ngozi City FC",
+      "desc": "Druhý klub z mesta Ngozi, hráva na 5-tisícovom štadióne Urukundo.",
+      "url": "https://www.facebook.com/p/Ngozi-city-official-61552066472751/",
+      "order": 11
+    },
+    {
+      "id": "f_bdi_l1_k13",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Inter Star",
+      "desc": "Klub z Bujumbury založený v roku 1977, hráva na štadióne Prince Louis Rwagasore.",
+      "url": "https://www.facebook.com/asinterstar/",
+      "order": 12
+    },
+    {
+      "id": "f_bdi_l1_k14",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Burundi Sport Dynamik",
+      "desc": "Klub z Bujumbury, po sezóne 2025/26 zostúpil z najvyššej súťaže.",
+      "url": "https://www.facebook.com/p/Burundi-Sport-Dynamik-100050330208733/",
+      "order": 13
+    },
+    {
+      "id": "f_bdi_l1_k15",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Garage Express FC",
+      "desc": "Klub, ktorý pred sezónou 2025/26 postúpil cez baráž do Primus League a hneď po sezóne opäť zostúpil.",
+      "url": "https://www.flashscore.com/team/garage-express/MavEG09p/",
+      "order": 14
+    },
+    {
+      "id": "f_bdi_l1_k16",
+      "parentId": "f_bdi_l1",
+      "type": "link",
+      "icon": "",
+      "name": "BG Green Farmers FC",
+      "desc": "Nováčik sezóny 2025/26, ktorý po prvom ročníku v najvyššej súťaži opäť zostúpil.",
+      "url": "https://www.flashscore.com/team/green-farmers/rJY1oieJ/",
+      "order": 15
+    },
+    {
+      "id": "f_tcd_l1",
+      "parentId": "f_fut_klu_af_tcd",
+      "type": "folder",
+      "icon": "",
+      "name": "Ligue Nationale de Football (Championnat National)",
+      "desc": "",
+      "order": 0,
+      "slug": "ligue-nationale"
+    },
+    {
+      "id": "f_tcd_l1_k1",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aiglons FC de Ndjamena",
+      "desc": "Klub z hlavného mesta N'Djamena, prvý majster novej Ligue Nationale v sezóne 2025/26 s gólovým rozdielom +65.",
+      "url": "https://www.facebook.com/100086938149173",
+      "order": 0
+    },
+    {
+      "id": "f_tcd_l1_k2",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS PSI",
+      "desc": "Tím protiteroristickej jednotky čadskej armády z N'Djameny, majster Čadu zo sezóny 2022/23.",
+      "url": "https://www.facebook.com/Aspsifc/",
+      "order": 1
+    },
+    {
+      "id": "f_tcd_l1_k3",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "TP Elect Sport de Ndjamena",
+      "desc": "Klub Národnej elektrárenskej spoločnosti z N'Djameny (prezývka Les Electriciens), majster z roku 2022.",
+      "url": "https://www.facebook.com/tpelectsport/",
+      "order": 2
+    },
+    {
+      "id": "f_tcd_l1_k4",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Santé d'Abéché",
+      "desc": "Klub z východného mesta Abéché založený v roku 2020, dvojnásobný šampión mestskej ligy.",
+      "url": "https://www.facebook.com/profile.php?id=100058185224011",
+      "order": 3
+    },
+    {
+      "id": "f_tcd_l1_k5",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "UDM FC",
+      "desc": "Klub Univerzity v Moundou, meste na juhu Čadu.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/udm-fc/61953/",
+      "order": 4
+    },
+    {
+      "id": "f_tcd_l1_k6",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Espoir FC de Bongor",
+      "desc": "Klub z mesta Bongor pri hranici s Kamerunom.",
+      "url": "https://www.facebook.com/100088885477826/",
+      "order": 5
+    },
+    {
+      "id": "f_tcd_l1_k7",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Eland de Derby FC",
+      "desc": "Klub (Élan de Derby) z mesta Pala na juhozápade Čadu.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/eland-de-derby-fc/73511/",
+      "order": 6
+    },
+    {
+      "id": "f_tcd_l1_k8",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aiglons FC de Hadjer Lamis",
+      "desc": "Klub z provincie Hadjer-Lamis severne od N'Djameny, založený v roku 2020.",
+      "url": "https://www.facebook.com/61564766850514/",
+      "order": 7
+    },
+    {
+      "id": "f_tcd_l1_k9",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC Onape de Doba",
+      "desc": "Klub z mesta Doba na juhu Čadu.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/fc-onape-de-doba/73514/",
+      "order": 8
+    },
+    {
+      "id": "f_tcd_l1_k10",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Eléphant FC d'Am Timan",
+      "desc": "Klub z mesta Am Timan v provincii Salamat, známy aj pod menom Éléphant de Zakouma.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/elephant-fc-dam-timan/61957/",
+      "order": 9
+    },
+    {
+      "id": "f_tcd_l1_k11",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Foullah Edifice FC",
+      "desc": "Klub z N'Djameny založený v roku 2007, trojnásobný majster Čadu (2011, 2013, 2014).",
+      "url": "https://www.facebook.com/p/Foullah-%C3%89difice-FC-100063674046114/",
+      "order": 10
+    },
+    {
+      "id": "f_tcd_l1_k12",
+      "parentId": "f_tcd_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Scorpion FC de Borkou",
+      "desc": "Klub zo saharskej provincie Borkou (mesto Faya-Largeau), najsevernejší klub súťaže.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/scorpion-fc-de-borkou/73513/",
+      "order": 11
+    },
+    {
+      "id": "f_eth_l1",
+      "parentId": "f_fut_klu_af_eth",
+      "type": "folder",
+      "icon": "",
+      "name": "Ethiopian Premier League",
+      "desc": "",
+      "order": 0,
+      "slug": "ethiopian-premier-league"
+    },
+    {
+      "id": "f_eth_l1_k1",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sidama Bunna SC",
+      "desc": "Klub z mesta Hawassa (predtým Sidama Coffee), aktuálny majster Etiópie zo sezóny 2025/26.",
+      "url": "https://www.facebook.com/Sidama.Buna.net/",
+      "order": 0
+    },
+    {
+      "id": "f_eth_l1_k2",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Negele Arsi FC",
+      "desc": "Klub z mesta Negele Arsi v regióne Oromia, do najvyššej súťaže postúpil pred sezónou 2025/26.",
+      "url": "https://www.facebook.com/p/Negelle-Arsi-Football-Club-61575542789615/",
+      "order": 1
+    },
+    {
+      "id": "f_eth_l1_k3",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Mechal SC",
+      "desc": "Klub etiópskej armády z Addis Abeby (pôvodne Army SC), druhý najúspešnejší klub etiópskej histórie s 11 ligovými titulmi.",
+      "url": "https://www.facebook.com/p/%E1%88%98%E1%89%BB%E1%88%8D-%E1%88%B5%E1%8D%96%E1%88%AD%E1%89%B5-%E1%8A%AD%E1%88%88%E1%89%A5_Mechal-Sport-Club-100090209540614/",
+      "order": 2
+    },
+    {
+      "id": "f_eth_l1_k4",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Fasil Kenema FC",
+      "desc": "Klub z historického mesta Gondar pomenovaný po cisárovi Fasilidesovi, prezývka Cisári.",
+      "url": "https://fasilkenemasc.et/",
+      "order": 3
+    },
+    {
+      "id": "f_eth_l1_k5",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ethio Electric SC",
+      "desc": "Klub etiópskej elektrárenskej spoločnosti z Addis Abeby, prezývka Červení diabli, dvojnásobný majster (1998, 2001).",
+      "url": "https://globalsportsarchive.com/en/soccer/team/ethio-electric-sc/16134/",
+      "order": 4
+    },
+    {
+      "id": "f_eth_l1_k6",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kidus Giorgis SA",
+      "desc": "Klub Saint George z Addis Abeby založený v roku 1935, najúspešnejší klub etiópskeho futbalu s rekordnými 16 ligovými titulmi.",
+      "url": "https://saintgeorgesa.com/",
+      "order": 5
+    },
+    {
+      "id": "f_eth_l1_k7",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Wolaita Dicha SC",
+      "desc": "Klub z mesta Sodo založený v roku 2009, víťaz etiópskeho pohára z roku 2017.",
+      "url": "https://www.facebook.com/wolaitasport",
+      "order": 6
+    },
+    {
+      "id": "f_eth_l1_k8",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ethiopia Bunna SC",
+      "desc": "Klub etiópskej kávovej spoločnosti (Ethiopian Coffee) z Addis Abeby.",
+      "url": "https://www.facebook.com/p/Ethiopian-Coffee-SC-100063825095546/",
+      "order": 7
+    },
+    {
+      "id": "f_eth_l1_k9",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hawassa Ketema FC",
+      "desc": "Mestský klub z Hawassy na brehu rovnomenného jazera, hráva na štadióne Hawassa Kenema.",
+      "url": "https://www.facebook.com/Hawassasc/",
+      "order": 8
+    },
+    {
+      "id": "f_eth_l1_k10",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Sheger Ketema SC",
+      "desc": "Klub z predmestia Addis Abeby, ktorý po postupe pred sezónou 2025/26 investoval do etiópskych reprezentantov do 17 rokov.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/sheger-ketema-sc/63743/",
+      "order": 9
+    },
+    {
+      "id": "f_eth_l1_k11",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bahir Dar Ketema FC",
+      "desc": "Klub z mesta Bahir Dar pri jazere Tana, prezývka Vlny Tany.",
+      "url": "https://bahirdarcitysc.com/",
+      "order": 10
+    },
+    {
+      "id": "f_eth_l1_k12",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Hadiya Hossana FC",
+      "desc": "Klub z mesta Hosaena založený v roku 2006, prezývka Tigre.",
+      "url": "https://www.facebook.com/hadiyaHossanaOfficial/",
+      "order": 11
+    },
+    {
+      "id": "f_eth_l1_k13",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ethiopia Nigd Bank SA",
+      "desc": "Klub Komerčnej banky Etiópie z Addis Abeby, predtým pôsobiaci pod menom Banks SC.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/ethiopia-nigd-bank-sa/16132/",
+      "order": 12
+    },
+    {
+      "id": "f_eth_l1_k14",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ethiopia Medin SC",
+      "desc": "Klub Etiópskej poisťovne z Addis Abeby, obhajca titulu zo sezóny 2024/25.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/ethiopia-medin-sc/24732/",
+      "order": 13
+    },
+    {
+      "id": "f_eth_l1_k15",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Adama Ketema FC",
+      "desc": "Klub z mesta Adama (Nazret) v regióne Oromia, prezývka Čierne levy.",
+      "url": "https://www.facebook.com/adamacfc/",
+      "order": 14
+    },
+    {
+      "id": "f_eth_l1_k16",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Wolwalo Adigrat University FC",
+      "desc": "Klub Univerzity v Adigrate v regióne Tigraj, prezývka Žltí králi.",
+      "url": "https://www.facebook.com/100076221240811",
+      "order": 15
+    },
+    {
+      "id": "f_eth_l1_k17",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Midre Genet Shire SC",
+      "desc": "Klub z mesta Šire (Endaselassie) v regióne Tigraj.",
+      "url": "https://www.facebook.com/p/Midre-Genet-Shire-fc-100057853611768/",
+      "order": 16
+    },
+    {
+      "id": "f_eth_l1_k18",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Dire Dawa Ketema SC",
+      "desc": "Mestský klub z Dire Dawy, druhého najväčšieho etiópskeho mesta.",
+      "url": "https://www.facebook.com/Direcity/",
+      "order": 17
+    },
+    {
+      "id": "f_eth_l1_k19",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Mekele 70 Enderta SC",
+      "desc": "Klub z mesta Mekele v regióne Tigraj, majster Etiópie zo sezóny 2018/19.",
+      "url": "https://www.facebook.com/mekelle70enderta/",
+      "order": 18
+    },
+    {
+      "id": "f_eth_l1_k20",
+      "parentId": "f_eth_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Arba Minch Ketema FC",
+      "desc": "Klub z jazerného mesta Arba Minch na juhu Etiópie, prezývka Krokodíly.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/arba-minch-ketema-fc/16147/",
+      "order": 19
+    },
+    {
+      "id": "f_gab_l1",
+      "parentId": "f_fut_klu_af_gab",
+      "type": "folder",
+      "icon": "",
+      "name": "National Foot 1",
+      "desc": "",
+      "order": 0,
+      "slug": "national-foot-1"
+    },
+    {
+      "id": "f_gab_l1_k1",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Mangasport",
+      "desc": "Klub baníckej spoločnosti Comilog z mesta Moanda, rekordný 11-násobný majster Gabonu (naposledy 2025/26).",
+      "url": "https://www.facebook.com/asmangasport",
+      "order": 0
+    },
+    {
+      "id": "f_gab_l1_k2",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ASS Mandji",
+      "desc": "Klub z prístavného mesta Port-Gentil, vicemajster sezóny 2025/26.",
+      "url": "https://www.facebook.com/p/Aso-Stade-Mandji-officiel-100066300086547/",
+      "order": 1
+    },
+    {
+      "id": "f_gab_l1_k3",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Vautour Club",
+      "desc": "Klub z Libreville spätý s políciou, majster Gabonu v rokoch 1976 a 1977.",
+      "url": "https://www.facebook.com/p/Vautour-Club-100089999537357/",
+      "order": 2
+    },
+    {
+      "id": "f_gab_l1_k4",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Oyem AC",
+      "desc": "Klub zo severného mesta Oyem, do najvyššej súťaže postúpil v roku 2025.",
+      "url": "https://www.facebook.com/pages/category/Sports-Team/OYEM-Athletic-CLUB-527709460718638/",
+      "order": 3
+    },
+    {
+      "id": "f_gab_l1_k5",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Cercle Mbéri Sportif",
+      "desc": "Klub z Libreville založený v roku 1996, prvý titul získal v sezóne 2018/19.",
+      "url": "https://int.soccerway.com/teams/gabon/cercle-mberi-sportif/17362/",
+      "order": 4
+    },
+    {
+      "id": "f_gab_l1_k6",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ogooue FC",
+      "desc": "Klub z mesta Franceville, do najvyššej súťaže postúpil pred sezónou 2025/26.",
+      "url": "https://www.facebook.com/p/Ogooue-Fc-100088017816356/",
+      "order": 5
+    },
+    {
+      "id": "f_gab_l1_k7",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "US Oyem",
+      "desc": "Druhý klub zo severného mesta Oyem, založený v roku 2002.",
+      "url": "https://int.soccerway.com/teams/gabon/us-oyem/17368/",
+      "order": 6
+    },
+    {
+      "id": "f_gab_l1_k8",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "FC 105 Libreville",
+      "desc": "Klub gabonskej armády a polície z Libreville, hráva na 40-tisícovom štadióne Omar-Bongo.",
+      "url": "https://www.facebook.com/fc105/",
+      "order": 7
+    },
+    {
+      "id": "f_gab_l1_k9",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Stade Migovéen",
+      "desc": "Klub z mesta Lambaréné, do najvyššej súťaže postúpil pred sezónou 2025/26.",
+      "url": "https://www.facebook.com/pages/stade-migoveen-fc/803180603069203",
+      "order": 8
+    },
+    {
+      "id": "f_gab_l1_k10",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Lambaréné AC",
+      "desc": "Druhý klub z mesta Lambaréné, premenovaný z pôvodného AS Pélican v roku 2022.",
+      "url": "https://www.facebook.com/ASPELICAN/",
+      "order": 9
+    },
+    {
+      "id": "f_gab_l1_k11",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Lozo Sport",
+      "desc": "Klub z mesta Lastoursville založený v roku 1980.",
+      "url": "https://www.facebook.com/people/As-Lozo-Sport/100087269857482/",
+      "order": 10
+    },
+    {
+      "id": "f_gab_l1_k12",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "US Bitam",
+      "desc": "Klub zo severozápadného mesta Bitam, trojnásobný majster Gabonu (2003, 2010, 2013).",
+      "url": "https://www.facebook.com/USBitamOssou/",
+      "order": 11
+    },
+    {
+      "id": "f_gab_l1_k13",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Bouenguidi Sports",
+      "desc": "Klub z mesta Koulamoutou, po sezóne 2025/26 zostúpil z najvyššej súťaže.",
+      "url": "https://www.facebook.com/BOUENGUIDISPORTS/",
+      "order": 12
+    },
+    {
+      "id": "f_gab_l1_k14",
+      "parentId": "f_gab_l1",
+      "type": "link",
+      "icon": "",
+      "name": "AS Dikaki",
+      "desc": "Klub z provincie Ngounié hrajúci v meste Mouila, po sezóne 2025/26 zostúpil z najvyššej súťaže.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/as-dikaki/35453/",
+      "order": 13
+    },
+    {
+      "id": "f_egy_l1",
+      "parentId": "f_fut_klu_af_egy",
+      "type": "folder",
+      "icon": "",
+      "name": "Egyptian Premier League",
+      "desc": "",
+      "order": 0,
+      "slug": "egyptian-premier-league"
+    },
+    {
+      "id": "f_egy_l2",
+      "parentId": "f_fut_klu_af_egy",
+      "type": "folder",
+      "icon": "",
+      "name": "Egyptian Second Division A",
+      "desc": "",
+      "order": 1,
+      "slug": "egyptian-second-division-a"
+    },
+    {
+      "id": "f_egy_l1_k1",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Al Ahly",
+      "desc": "Najúspešnejší klub Afriky z Káhiry, rekordný počet afrických aj egyptských titulov.",
+      "url": "https://www.alahlyegypt.com/en",
+      "order": 0
+    },
+    {
+      "id": "f_egy_l1_k2",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Zamalek",
+      "desc": "Klub z káhirskej štvrte Zamalek, aktuálny (2025/26) 15-násobný majster Egypta.",
+      "url": "https://www.facebook.com/ZSCOfficial/",
+      "order": 1
+    },
+    {
+      "id": "f_egy_l1_k3",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Pyramids FC",
+      "desc": "Mladý klub z Nového Káhiry, vicemajster sezóny 2025/26.",
+      "url": "https://www.pyramidsfc.com",
+      "order": 2
+    },
+    {
+      "id": "f_egy_l1_k4",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ismaily SC",
+      "desc": "Klub z Ismaílie pri Suezskom prieplave, viacnásobný majster Egypta.",
+      "url": "https://www.facebook.com/Officialismailysc/",
+      "order": 3
+    },
+    {
+      "id": "f_egy_l1_k5",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Al Masry",
+      "desc": "Klub z Port Saidu, spätý s tragickými štadiónovými nepokojmi z roku 2012.",
+      "url": "https://www.facebook.com/Almasryofficial/",
+      "order": 4
+    },
+    {
+      "id": "f_egy_l1_k6",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Smouha SC",
+      "desc": "Klub z Alexandrie hrajúci na 86-tisícovom štadióne Borg El Arab.",
+      "url": "https://www.smouhaclub.com/en/",
+      "order": 5
+    },
+    {
+      "id": "f_egy_l1_k7",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ENPPI",
+      "desc": "Klub egyptskej ropnej inžinierskej spoločnosti z Káhiry.",
+      "url": "https://www.facebook.com/Enppi.Club/",
+      "order": 6
+    },
+    {
+      "id": "f_egy_l1_k8",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ceramica Cleopatra",
+      "desc": "Klub z Gízy spätý s keramickou spoločnosťou, založený v roku 2007.",
+      "url": "https://www.facebook.com/ceramicaclub/",
+      "order": 7
+    },
+    {
+      "id": "f_egy_l1_k9",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Al Ittihad Alexandria",
+      "desc": "Jeden z najstarších egyptských klubov, založený v roku 1914 v Alexandrii.",
+      "url": "https://itthadalexsc.com",
+      "order": 8
+    },
+    {
+      "id": "f_egy_l1_k10",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Haras El Hodoud",
+      "desc": "Klub egyptskej pobrežnej stráže z Alexandrie.",
+      "url": "https://www.facebook.com/harraselhodoudfc/",
+      "order": 9
+    },
+    {
+      "id": "f_egy_l1_k11",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Ghazl El Mahalla",
+      "desc": "Klub z textilného mesta El Mahalla El Kubra.",
+      "url": "https://www.facebook.com/ghazlelmahallaofficial/",
+      "order": 10
+    },
+    {
+      "id": "f_egy_l1_k12",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "El Gouna FC",
+      "desc": "Klub z turistického strediska El Gouna na pobreží Červeného mora.",
+      "url": "https://www.facebook.com/GounaFC/",
+      "order": 11
+    },
+    {
+      "id": "f_egy_l1_k13",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Kahraba Ismailia",
+      "desc": "Klub elektrárenskej spoločnosti z Ismaílie, do najvyššej súťaže postúpil pred sezónou 2025/26.",
+      "url": "https://www.facebook.com/www.kahrbaclub/",
+      "order": 12
+    },
+    {
+      "id": "f_egy_l1_k14",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Modern Sport",
+      "desc": "Klub z Mokattamu (predtým Future FC) v Káhire.",
+      "url": "https://www.facebook.com/ModernSportFC/",
+      "order": 13
+    },
+    {
+      "id": "f_egy_l1_k15",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Al Mokawloon Al Arab",
+      "desc": "Klub staviteľskej spoločnosti Arab Contractors z Káhiry, prezývka Horské vlky.",
+      "url": "https://arabcontclub.com",
+      "order": 14
+    },
+    {
+      "id": "f_egy_l1_k16",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "National Bank of Egypt",
+      "desc": "Klub Národnej banky Egypta z Gízy.",
+      "url": "https://www.facebook.com/NBEFootballClub/",
+      "order": 15
+    },
+    {
+      "id": "f_egy_l1_k17",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Petrojet",
+      "desc": "Klub ropnej spoločnosti zo Suezu.",
+      "url": "https://www.facebook.com/PJSCOfficial/",
+      "order": 16
+    },
+    {
+      "id": "f_egy_l1_k18",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Pharco FC",
+      "desc": "Klub farmaceutickej spoločnosti Pharco z Alexandrie.",
+      "url": "https://www.facebook.com/PharcoFC/",
+      "order": 17
+    },
+    {
+      "id": "f_egy_l1_k19",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Tala'ea El Gaish",
+      "desc": "Klub egyptskej armády z Káhiry.",
+      "url": "https://www.tgclub.com.eg",
+      "order": 18
+    },
+    {
+      "id": "f_egy_l1_k20",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Wadi Degla",
+      "desc": "Klub z káhirskej štvrte Maadi, návrat do najvyššej súťaže po 5 rokoch.",
+      "url": "https://www.facebook.com/WadiDeglaFC/",
+      "order": 19
+    },
+    {
+      "id": "f_egy_l1_k21",
+      "parentId": "f_egy_l1",
+      "type": "link",
+      "icon": "",
+      "name": "ZED FC",
+      "desc": "Mladý klub z mesta Sheikh Zayed pri Gíze.",
+      "url": "https://www.facebook.com/p/ZED-FC-100068068745651/",
+      "order": 20
+    },
+    {
+      "id": "f_egy_l2_k1",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "El Qanah",
+      "desc": "Klub z Ismaílie pri Suezskom prieplave, majster 2. ligy 2025/26 s postupom do Premier League.",
+      "url": "https://www.facebook.com/CanalSCeg/",
+      "order": 0
+    },
+    {
+      "id": "f_egy_l2_k2",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Asyut Petroleum",
+      "desc": "Klub ropnej spoločnosti z Asjútu, po 16 rokoch postúpil do najvyššej súťaže.",
+      "url": "https://www.facebook.com/assiutpetrolumclub/",
+      "order": 1
+    },
+    {
+      "id": "f_egy_l2_k3",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Abou Qir Fertilizers",
+      "desc": "Klub hnojivárskej spoločnosti z Alexandrie, prvý postup do Premier League v histórii klubu.",
+      "url": "https://abuqir.net/abu-qir-club/club-teams/",
+      "order": 2
+    },
+    {
+      "id": "f_egy_l2_k4",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "FC Masar",
+      "desc": "Mladý rozvojový klub z Káhiry, súčasť medzinárodnej siete Right To Dream.",
+      "url": "https://fcmasar.com/",
+      "order": 3
+    },
+    {
+      "id": "f_egy_l2_k5",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Proxy",
+      "desc": "Klub z obce Abú al-Matámir v provincii Behéra.",
+      "url": "https://www.facebook.com/ProxyEgypt/",
+      "order": 4
+    },
+    {
+      "id": "f_egy_l2_k6",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "La Viena",
+      "desc": "Klub z Beni Suefu, nástupca zaniknutého klubu Al-Assiouty SC.",
+      "url": "https://lavienafc.com/",
+      "order": 5
+    },
+    {
+      "id": "f_egy_l2_k7",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Telecom Egypt",
+      "desc": "Klub telekomunikačnej spoločnosti z Káhiry (istý čas hrával pod menom WE).",
+      "url": "https://www.facebook.com/p/Telecom-Egypt-Football-Club-100068009227096/",
+      "order": 6
+    },
+    {
+      "id": "f_egy_l2_k8",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "El Sekka El Hadid",
+      "desc": "Najstarší futbalový klub Egypta a Blízkeho východu, založený v roku 1903 železničiarmi.",
+      "url": "https://www.facebook.com/elsekaalhaded/",
+      "order": 7
+    },
+    {
+      "id": "f_egy_l2_k9",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "El Mansoura",
+      "desc": "Klub z mesta Mansúra v Nílskej delte, založený v roku 1932.",
+      "url": "https://www.facebook.com/AlMansouraSportsClub/",
+      "order": 8
+    },
+    {
+      "id": "f_egy_l2_k10",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Maleyat Kafr El Zayat",
+      "desc": "Klub z mesta Kafr El Zayat, v minulosti hrával aj v najvyššej súťaži (1957 – 1964).",
+      "url": "https://globalsportsarchive.com/en/soccer/team/maleyet-kafr-el-zayat-sc/12059/",
+      "order": 9
+    },
+    {
+      "id": "f_egy_l2_k11",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Tersana",
+      "desc": "Klub z Gízy, šesťnásobný víťaz Egyptského pohára.",
+      "url": "https://www.facebook.com/AlTersanaOfficial/",
+      "order": 10
+    },
+    {
+      "id": "f_egy_l2_k12",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "El Entag El Harby",
+      "desc": "Klub egyptského Ministerstva vojenskej výroby z Káhiry.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/el-entag-el-harby-sc/16958/",
+      "order": 11
+    },
+    {
+      "id": "f_egy_l2_k13",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "El Dakhleya",
+      "desc": "Klub egyptského ministerstva vnútra z káhirskej štvrte Abbásíja.",
+      "url": "https://globalsportsarchive.com/en/soccer/team/el-dakhleya-sc/16962/",
+      "order": 12
+    },
+    {
+      "id": "f_egy_l2_k14",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Dayrout",
+      "desc": "Klub z mesta Dayrout v provincii Asjút.",
+      "url": "https://www.facebook.com/DayroutSC/",
+      "order": 13
+    },
+    {
+      "id": "f_egy_l2_k15",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Tanta",
+      "desc": "Klub z mesta Tanta, jeden z najstarších afrických klubov (založený 1928).",
+      "url": "https://www.facebook.com/tantasc.net/",
+      "order": 14
+    },
+    {
+      "id": "f_egy_l2_k16",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Baladiyat El Mahalla",
+      "desc": "Druhý klub z mesta El Mahalla El Kubra, založený v roku 1931.",
+      "url": "https://www.facebook.com/BaladiyaSC/",
+      "order": 15
+    },
+    {
+      "id": "f_egy_l2_k17",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Aswan",
+      "desc": "Klub z juhoegyptského mesta Asuán, po sezóne 2025/26 zostúpil z 2. ligy.",
+      "url": "https://www.facebook.com/egaswansc/",
+      "order": 16
+    },
+    {
+      "id": "f_egy_l2_k18",
+      "parentId": "f_egy_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Raya Ghazl Kafr El Dawar",
+      "desc": "Klub z mesta Kafr El Dawar, po sezóne 2025/26 zostúpil z 2. ligy.",
+      "url": "https://www.facebook.com/p/Raya-SC-61574538794311/",
       "order": 17
     }
   ]
