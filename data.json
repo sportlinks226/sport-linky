@@ -1,21 +1,23 @@
 {
-  "version": 71,
+  "version": 72,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
     {
-      "id": "a2",
-      "icon": "🚴",
-      "name": "Tour de France",
-      "url": "https://www.letour.fr"
+      "id": "a1785146467190",
+      "icon": "🥇",
+      "name": "FISU America games",
+      "url": "https://hayllisports.com/es/events/7-iv-fisu-america-games-lima-2026",
+      "endsAt": "2026-08-02",
+      "addedAt": 1785146467190
     },
     {
       "id": "a1784634574866",
       "icon": "⚽",
       "name": "Liga Majstrov",
       "url": "https://www.uefa.com/uefachampionsleague/",
-      "endsAt": "2026-07-22",
+      "endsAt": "2026-07-30",
       "addedAt": 1784634574866
     },
     {
@@ -23,7 +25,7 @@
       "icon": "⚽",
       "name": "Európska liga",
       "url": "https://www.uefa.com/uefaeuropaleague/",
-      "endsAt": "2026-07-23",
+      "endsAt": "2026-07-30",
       "addedAt": 1784634663367
     },
     {
@@ -31,7 +33,7 @@
       "icon": "⚽",
       "name": "Konferenčná liga",
       "url": "https://www.uefa.com/uefaconferenceleague/",
-      "endsAt": "2026-07-23",
+      "endsAt": "2026-07-30",
       "addedAt": 1784634702063
     },
     {
@@ -53,42 +55,50 @@
     {
       "id": "a1783874131538",
       "icon": "🏸",
-      "name": "ATP Kitzbuhel",
-      "url": "https://www.generaliopen.com/",
-      "endsAt": "2026-07-26",
+      "name": "ATP Washington",
+      "url": "https://www.mubadaladcopen.com/en",
+      "endsAt": "2026-08-02",
       "addedAt": 1783874131538
     },
     {
       "id": "a1784539283085",
       "icon": "🏸",
-      "name": "ATP Estoril",
-      "url": "https://www.millenniumestorilopen.com/en",
-      "endsAt": "2026-07-26",
+      "name": "ATP Los Cabos",
+      "url": "https://loscabostennisopen.com/en/home/",
+      "endsAt": "2026-08-02",
       "addedAt": 1784539283085
     },
     {
       "id": "a1783874074020",
       "icon": "🎾",
-      "name": "WTA Hamburg",
-      "url": "https://hamburg-open.com/",
-      "endsAt": "2026-07-26",
+      "name": "WTA  Washington",
+      "url": "https://www.mubadaladcopen.com/en",
+      "endsAt": "2026-08-02",
       "addedAt": 1783874074020
     },
     {
       "id": "a1784539405181",
       "icon": "🎾",
-      "name": "WTA Praha",
-      "url": "https://livesportpragueopen.cz/",
-      "endsAt": "2026-07-26",
+      "name": "WTA Targu Mures",
+      "url": "https://www.wtatennis.com/tournaments/1163/targu-mures-125/2026",
+      "endsAt": "2026-08-02",
       "addedAt": 1784539405181
     },
     {
       "id": "a1784539509754",
       "icon": "🎾",
-      "name": "WTA Palermo",
-      "url": "https://www.palermoladiesopen.it/en/",
-      "endsAt": "2026-07-26",
+      "name": "WTA Memphis",
+      "url": "https://www.memphisclassic.com/",
+      "endsAt": "2026-08-02",
       "addedAt": 1784539509754
+    },
+    {
+      "id": "a1785146518456",
+      "icon": "🎾",
+      "name": "WTA Vancouver",
+      "url": "https://vanopen.com/",
+      "endsAt": "2026-08-02",
+      "addedAt": 1785146518456
     },
     {
       "id": "a1784188884337",
@@ -105,14 +115,6 @@
       "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026-division-b",
       "endsAt": "2026-08-02",
       "addedAt": 1784188919546
-    },
-    {
-      "id": "a1784199686053",
-      "icon": "🏀",
-      "name": "NBA Summer league",
-      "url": "https://www.nba.com/summer-league/2026",
-      "endsAt": "",
-      "addedAt": 1784199686053
     },
     {
       "id": "a1784541154016",
@@ -141,33 +143,25 @@
     {
       "id": "a1784581601256",
       "icon": "🎱",
-      "name": "Snooker Shenzhen open",
-      "url": "https://www.wst.tv/matches/?",
-      "endsAt": "2026-07-26",
+      "name": "Snooker Shanghai Masters",
+      "url": "https://www.wst.tv/matches",
+      "endsAt": "2026-08-02",
       "addedAt": 1784581601256
-    },
-    {
-      "id": "a1784187485941",
-      "icon": "🏎️",
-      "name": "VeĽká cena Maďarska",
-      "url": "https://www.formula1.com/",
-      "endsAt": "2026-07-26",
-      "addedAt": 1784187485941
     },
     {
       "id": "a1784199946756",
       "icon": "🏸",
-      "name": "Badminton China open",
-      "url": "https://bwfworldtour.bwfbadminton.com/tournament/5622/victor-china-open-2026/draws/",
-      "endsAt": "2026-07-26",
+      "name": "Badminton Taipei open",
+      "url": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/2026-07-28",
+      "endsAt": "2026-08-02",
       "addedAt": 1784199946756
     },
     {
       "id": "a1784187416215",
       "icon": "⛳",
-      "name": "3M Open",
-      "url": "https://3mopen.com/",
-      "endsAt": "2026-07-26",
+      "name": "Rocket Classic",
+      "url": "https://www.rocketclassic.com/",
+      "endsAt": "2026-08-02",
       "addedAt": 1784187416215
     },
     {
@@ -179,12 +173,20 @@
       "addedAt": 1784540386811
     },
     {
-      "id": "a1784540759131",
-      "icon": "🛶",
-      "name": "MS vo vodnom slalome",
-      "url": "https://siwidata.com/CanoeLive/#/live/icf/2393",
-      "endsAt": "2026-07-26",
-      "addedAt": 1784540759131
+      "id": "a1785147664719",
+      "icon": "🏓",
+      "name": "TT Star series",
+      "url": "https://ttstar.cz/en/results/",
+      "endsAt": "",
+      "addedAt": 1785147664719
+    },
+    {
+      "id": "a1785148099926",
+      "icon": "🏐",
+      "name": "Volejbal Liga národov",
+      "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/schedule/#fromDate=2026-07-27",
+      "endsAt": "2026-08-02",
+      "addedAt": 1785148099926
     }
   ],
   "banners": [
