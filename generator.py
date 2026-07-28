@@ -15,11 +15,13 @@ Použitie:
 BASE_URL (absolútna adresa webu pre sitemap/canonical) sa berie z premennej
 prostredia BASE_URL — v GitHub Actions ju dodá configure-pages automaticky.
 
-PRÍPRAVA NA ANGLIČTINU (zatiaľ nerealizované):
-  - všetky UI texty sú v slovníku UI nižšie — stačí doplniť UI["en"]
-  - popisy: pre LANG="en" sa použije pole "desc_en" s fallbackom na "desc"
-  - anglická vetva sa vygeneruje spustením s LANG="en" a OUT_PREFIX="en"
-  - slugy (adresy) sa VŽDY tvoria zo slovenských názvov — nemenia sa
+ANGLIČTINA (sportlinking.com):
+  - jazyk sa prepína premennou prostredia SITE_LANG ("sk" | "en"), default "sk"
+  - EN používa polia name_en/desc_en/slug_en s fallbackom na SK
+  - uzly s "en": false sa na EN webe nezobrazia (aj s celým podstromom)
+  - EN má modrý akcent (#4287e8), vlastný GoatCounter (GOAT_CODE) a bannery
+    filtrované podľa poľa lang (bez lang = SK banner)
+  - krajiny vnútri kontinentov sa v EN radia podľa anglickej abecedy
 
 DYNAMICKÉ ČASTI (banner + Aktuálne) — každá vygenerovaná stránka obsahuje
 malý skript, ktorý ich načíta z data.json pri otvorení stránky. Denná
@@ -40,8 +42,8 @@ from html import escape
 # ------------------------------------------------------------
 # KONFIGURÁCIA
 # ------------------------------------------------------------
-LANG = "sk"          # jazyk výstupu (budúce: "en")
-OUT_PREFIX = ""      # podpriečinok výstupu (budúce: "en" pre /en/ vetvu)
+LANG = os.environ.get("SITE_LANG", "sk")   # "sk" alebo "en"
+OUT_PREFIX = os.environ.get("OUT_PREFIX", "")
 BASE_URL = os.environ.get("BASE_URL", "").rstrip("/")
 
 UI = {
@@ -54,9 +56,28 @@ UI = {
         "footer": "Prehľadný rozcestník športových webov. Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES); jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.",
         "aktualne": "Aktuálne",
     },
-    # "en": { ... }  # doplniť pri realizácii angličtiny
+    "en": {
+        "home": "Home",
+        "folders": "Categories",
+        "links": "Links",
+        "open_app": "Open in the interactive app",
+        "meta_folder": "{name} — sports links: {nfold} subcategories, {nlink} links.",
+        "footer": "A clear directory of sports websites. The link database is protected by database rights (Directive 96/9/EC); copying or systematic extraction without the operator's consent is prohibited.",
+        "aktualne": "Trending",
+    },
 }
 T = UI[LANG]
+
+# akcentová farba: SK červená, EN modrá
+ACCENT = "#e84242" if LANG == "sk" else "#4287e8"
+ACCENT_HOVER = "#c73535" if LANG == "sk" else "#2f6bc4"
+
+# priečinky, ktorých deti (krajiny) sa v EN verzii radia podľa anglickej abecedy
+CONTINENTS = {"Európa", "Ázia", "Afrika", "Južná Amerika", "Severná Amerika",
+              "Severná a Stredná Amerika", "Oceánia", "Ázia & Oceánia"}
+
+# GoatCounter kód (oddelené štatistiky pre SK a EN web)
+GOAT = os.environ.get("GOAT_CODE", "sportlinky" if LANG == "sk" else "sportlinking")
 
 # ------------------------------------------------------------
 # POMOCNÉ FUNKCIE
@@ -80,6 +101,20 @@ def node_desc(node: dict) -> str:
     return (node.get("desc") or "").strip()
 
 
+def node_name(node: dict) -> str:
+    """Názov v aktuálnom jazyku s fallbackom na slovenčinu."""
+    if LANG != "sk":
+        v = (node.get("name_" + LANG) or "").strip()
+        if v:
+            return v
+    return (node.get("name") or "").strip()
+
+
+def visible(node: dict) -> bool:
+    """en:false skryje uzol (aj s podstromom) na anglickom webe."""
+    return LANG == "sk" or node.get("en") is not False
+
+
 def load_data(path: str) -> dict:
     with open(path, encoding="utf-8") as f:
         return json.load(f)
@@ -95,9 +130,15 @@ def build_tree(nodes: list):
     by_id = {}
     for n in nodes:
         by_id[n["id"]] = n
+        if not visible(n):
+            continue          # en:false — uzol aj celý podstrom mimo EN webu
         children.setdefault(n.get("parentId"), []).append(n)
-    for lst in children.values():
+    for pid, lst in children.items():
         lst.sort(key=lambda x: x.get("order", 0))
+        # EN: krajiny vnútri kontinentov podľa anglickej abecedy
+        parent = by_id.get(pid)
+        if LANG == "en" and parent is not None and parent.get("name") in CONTINENTS:
+            lst.sort(key=lambda x: node_name(x).lower())
     return children, by_id
 
 
@@ -117,9 +158,14 @@ def folder_paths(children: dict):
         for n in children.get(parent_id, []):
             if n.get("type") != "folder":
                 continue
-            slug = (n.get("slug")
-                    or slugify(n.get("name", ""))
-                    or "kat-" + slugify(n["id"]))
+            if LANG == "en":
+                slug = (n.get("slug_en")
+                        or slugify(node_name(n))
+                        or "cat-" + slugify(n["id"]))
+            else:
+                slug = (n.get("slug")
+                        or slugify(n.get("name", ""))
+                        or "kat-" + slugify(n["id"]))
             base, i = slug, 2
             while slug in used:          # súrodenci s rovnakým slugom
                 slug = f"{base}-{i}"
@@ -166,6 +212,7 @@ h2{font-size:1.05rem;color:#e84242;margin:26px 0 10px;text-transform:uppercase;l
 .akt a{background:#182635;border:1px solid #24364a;border-radius:20px;padding:6px 12px;font-size:.85rem}
 .akt a:hover{border-color:#e84242}
 """
+CSS = CSS.replace("#e84242", ACCENT).replace("#c73535", ACCENT_HOVER)
 
 FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E"
            "%3Crect width='64' height='64' rx='12' fill='%230f1923'/%3E"
@@ -173,6 +220,7 @@ FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox
            "%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-size='32' font-weight='800'"
            " font-style='italic' text-anchor='middle' fill='%23ffffff'%3ES"
            "%3Ctspan fill='%23e84242'%3EL%3C/tspan%3E%3C/text%3E%3C/svg%3E")
+FAVICON = FAVICON.replace("%23e84242", "%23" + ACCENT[1:])
 
 PAGE = """<!DOCTYPE html>
 <html lang="{lang}">
@@ -199,7 +247,7 @@ PAGE = """<!DOCTYPE html>
 <footer>{site_title} — {footer}</footer>
 </div>
 {dyn_js}
-<script data-goatcounter="https://sportlinky.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://{goat}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
 """
@@ -213,6 +261,7 @@ DYN_JS = """<script>
   fetch("__ROOT__data.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
     var today=new Date().toISOString().slice(0,10);
     var bs=(d.banners||[]).filter(function(b){
+      if((b.lang||"sk")!=="__LANG__")return false;
       if(b.active===false)return false;
       if(b.startsAt&&today<b.startsAt)return false;
       if(b.endsAt&&today>b.endsAt)return false;
@@ -247,7 +296,7 @@ DYN_JS = """<script>
     }
     showSlot("bslot",1);
     showSlot("bslot2",2);
-    var ak=(d.aktualne||[]).filter(function(a){return !(a.endsAt&&today>a.endsAt)});
+    var ak=(d.aktualne||[]).filter(function(a){return (a.lang||"sk")==="__LANG__"&&!(a.endsAt&&today>a.endsAt)});
     if(ak.length){
       var el2=document.getElementById("akt");
       el2.hidden=false;
@@ -263,7 +312,7 @@ DYN_JS = """<script>
 def render_page(node, path, children, by_id, paths, site_title):
     depth = len(path)
     root = "../" * depth
-    name = escape(node.get("name", ""))
+    name = escape(node_name(node))
     icon = escape(node.get("icon", "") or "")
     desc = escape(node_desc(node))
 
@@ -279,7 +328,7 @@ def render_page(node, path, children, by_id, paths, site_title):
             crumbs.append(name)
         else:
             up = "../" * (depth - i - 1)
-            crumbs.append(f'<a href="{up}">{escape(anc.get("name",""))}</a>')
+            crumbs.append(f'<a href="{up}">{escape(node_name(anc))}</a>')
     crumbs_html = " › ".join(crumbs)
 
     kids = children.get(node["id"], [])
@@ -296,7 +345,7 @@ def render_page(node, path, children, by_id, paths, site_title):
             ds = f'<div class="ds">{d}</div>' if d else ""
             cards.append(
                 f'<a class="card" href="{slug}/">'
-                f'<div class="nm">{escape(f.get("icon","") or "")} {escape(f.get("name",""))}</div>{ds}</a>'
+                f'<div class="nm">{escape(f.get("icon","") or "")} {escape(node_name(f))}</div>{ds}</a>'
             )
         fold_cards = f'<h2>{T["folders"]}</h2><div class="grid">' + "".join(cards) + "</div>"
 
@@ -310,12 +359,15 @@ def render_page(node, path, children, by_id, paths, site_title):
             host = re.sub(r"^https?://(www\.)?", "", l.get("url", "")).split("/")[0]
             cards.append(
                 f'<a class="card" href="{url}" target="_blank" rel="noopener">'
-                f'<div class="nm">{escape(l.get("icon","") or "")} {escape(l.get("name",""))}</div>{ds}'
+                f'<div class="nm">{escape(l.get("icon","") or "")} {escape(node_name(l))}</div>{ds}'
                 f'<div class="ur">{escape(host)}</div></a>'
             )
         link_cards = f'<h2>{T["links"]}</h2><div class="grid">' + "".join(cards) + "</div>"
 
-    meta = desc or T["meta_folder"].format(name=name, nfold=len(folders), nlink=len(links))
+    # meta popis z NEescapovaného textu (escapuje sa až pri vložení do šablóny,
+    # inak by apostrofy skončili dvojito escapované, napr. Europe&amp;#x27;s)
+    meta = node_desc(node) or T["meta_folder"].format(
+        name=node_name(node), nfold=len(folders), nlink=len(links))
     url_path = "/".join(path) + "/"
     canonical = f'<link rel="canonical" href="{BASE_URL}/{url_path}">' if BASE_URL else ""
 
@@ -334,6 +386,7 @@ def render_page(node, path, children, by_id, paths, site_title):
     dyn_js = (DYN_JS
               .replace("__ANC__", json.dumps(anc_ids))
               .replace("__ROOT__", root)
+              .replace("__LANG__", LANG)
               .replace("__AKT_LABEL__", escape(T["aktualne"])))
 
     return PAGE.format(
@@ -355,6 +408,7 @@ def render_page(node, path, children, by_id, paths, site_title):
         footer=T["footer"],
         site_title=escape(site_title),
         dyn_js=dyn_js,
+        goat=GOAT,
     )
 
 
@@ -370,7 +424,10 @@ def main():
         out = os.path.join(out, OUT_PREFIX)
 
     data = load_data("data.json")
-    site_title = data.get("title", "Športové Linky")
+    if LANG == "en":
+        site_title = data.get("title_en") or data.get("title", "Sportlinking")
+    else:
+        site_title = data.get("title", "Športové Linky")
     nodes = data.get("nodes", [])
     children, by_id = build_tree(nodes)
     paths = folder_paths(children)
@@ -429,13 +486,41 @@ def main():
         # (marker <!--OG_DYNAMIC--> — absolútna adresa je známa až pri builde)
         if os.path.exists("index.html"):
             html = open("index.html", encoding="utf-8").read()
+            if LANG == "en":
+                # EN build: prepni jazyk aplikácie, texty, farby a analytiku
+                for a, b in (
+                    ('const SITE_LANG = "sk";', 'const SITE_LANG = "en";'),
+                    ('<html lang="sk">', '<html lang="en">'),
+                    ('<title>Športové Linky</title>', '<title>Sportlinking</title>'),
+                    ('content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek pre každý šport a krajinu."',
+                     'content="All the world\'s sports websites in one place — a clear directory of verified links for every sport and country."'),
+                    ('<meta property="og:title" content="Športové Linky"/>',
+                     '<meta property="og:title" content="Sportlinking"/>'),
+                    ('content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek."',
+                     'content="All the world\'s sports websites in one place — a clear directory of verified links."'),
+                    ('<span class="wm-w">ŠPORTOVÉ</span><span class="wm-r">LINKY</span>',
+                     '<span class="wm-w">SPORT</span><span class="wm-r">LINKING</span>'),
+                    ('Naviguj sa cez kategórie', 'Navigate through the categories'),
+                    ('🔍  Hľadaj kdekoľvek v strome...', '🔍  Search anywhere in the tree...'),
+                    ('animation:pulse 1.5s infinite"></span>\n      Aktuálne',
+                     'animation:pulse 1.5s infinite"></span>\n      Trending'),
+                    ('© 2026 · Všetky športové weby sveta na jednom mieste<br>\n  Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES). Jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.',
+                     '© 2026 · All the world\'s sports websites in one place<br>\n  The link database is protected by database rights (Directive 96/9/EC). Copying or systematic extraction without the operator\'s consent is prohibited.'),
+                    ('https://sportlinky.goatcounter.com/count',
+                     f'https://{GOAT}.goatcounter.com/count'),
+                    ('e84242', ACCENT[1:]),       # akcent (aj vo favicone %23...)
+                    ('#c03030', ACCENT_HOVER),    # tmavší odtieň akcentu
+                    ('232,66,66', '66,135,232'),  # rgba() odtiene akcentu
+                ):
+                    html = html.replace(a, b)
             if BASE_URL and "<!--OG_DYNAMIC-->" in html:
                 og_dyn = (f'<meta property="og:url" content="{BASE_URL}/"/>\n'
                           f'<meta property="og:image" content="{BASE_URL}/og-image.png"/>')
                 html = html.replace("<!--OG_DYNAMIC-->", og_dyn, 1)
             with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
                 f.write(html)
-        for fname in ("data.json", "og-image.png"):
+        for fname in ("data.json", "og-image.png",
+                      "banner-sportlinking-1.png", "banner-sportlinking-2.png"):
             if os.path.exists(fname):
                 shutil.copy(fname, os.path.join(out, fname))
 

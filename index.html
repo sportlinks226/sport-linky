@@ -148,12 +148,13 @@ footer{
 .admin-mode footer{margin-bottom:64px} /* nech ju neprekrýva admin lišta */
 
 /* ===== CARDS (root level - big) ===== */
+/* flexbox namiesto grid-u: neúplný posledný riadok dlaždíc je vycentrovaný */
 .grid-root{
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
+  display:flex;flex-wrap:wrap;justify-content:center;
   gap:14px;
 }
 .card-root{
+  flex:0 1 200px;min-width:170px;
   background:var(--surface);border:1.5px solid var(--border);
   border-radius:var(--radius);padding:24px 16px;
   display:flex;flex-direction:column;align-items:center;gap:10px;
@@ -353,7 +354,8 @@ footer{
   .h-wordmark{font-size:1.2rem}
   .h-search{flex:1 1 100%;max-width:none;margin:6px 0 0}
   main{padding:16px 12px 100px}
-  .grid-root{grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+  .grid-root{gap:10px}
+  .card-root{flex:0 1 150px;min-width:130px}
 
   /* Admin bar na mobile — 2 riadky, menšie tlačidlá */
   #adminBar{padding:8px 12px;gap:6px;flex-wrap:wrap}
@@ -547,6 +549,8 @@ footer{
     <div class="fg" id="urlGroup"><label>URL *</label><input type="url" id="nUrl" placeholder="https://..."/></div>
     <div class="fg"><label>Názov *</label><input type="text" id="nName" placeholder="napr. Futbal"/></div>
     <div class="fg"><label>Popis</label><input type="text" id="nDesc" placeholder="Krátky popis"/></div>
+    <div class="fg"><label>Názov (EN)</label><input type="text" id="nNameEn" placeholder="len ak sa líši od slovenského"/></div>
+    <div class="fg"><label>Popis (EN)</label><input type="text" id="nDescEn" placeholder="anglický popis pre sportlinking.com"/></div>
     <div class="fg"><label>Emoji ikona</label><input type="text" id="nIcon" placeholder="⚽" maxlength="4"/></div>
     <div class="mo-acts">
       <button class="btn btn-s" onclick="closeMo('nodeMo')">Zrušiť</button>
@@ -13190,6 +13194,20 @@ async function migratePw(){
 }
 
 // ============================================================
+// JAZYK — anglická verzia (sportlinking.com)
+// ============================================================
+// Generátor pri EN builde nahradí "sk" za "en". EN používa polia
+// name_en/desc_en/slug_en s fallbackom na slovenčinu; uzly s en:false
+// sa na EN webe nezobrazujú (aj s celým podstromom).
+const SITE_LANG = "sk";
+const IS_EN = SITE_LANG === "en";
+function nName(n){ return (IS_EN && n.name_en) ? n.name_en : (n.name||''); }
+function nDesc(n){ return (IS_EN && n.desc_en) ? n.desc_en : (n.desc||''); }
+// priečinky, ktorých deti (krajiny) sa v EN radia podľa anglickej abecedy
+const CONTINENTS_SK = new Set(["Európa","Ázia","Afrika","Južná Amerika",
+  "Severná Amerika","Severná a Stredná Amerika","Oceánia","Ázia & Oceánia"]);
+
+// ============================================================
 // NAVIGATION
 // ============================================================
 // --- HASH ROUTING: zdieľateľné adresy typu #/hokej/sutaze ---
@@ -13199,7 +13217,10 @@ function slugify(name){
 }
 // TRVALÝ SLUG: adresa priečinka sa priradí raz a pri premenovaní sa NEMENÍ
 // (inak by premenovanie po spustení webu rozbilo URL pre Google aj uložené linky)
-function nodeSlug(n){ return n.slug || slugify(n.name); }
+function nodeSlug(n){
+  if(IS_EN) return n.slug_en || slugify(nName(n));
+  return n.slug || slugify(n.name);
+}
 // Migrácia: doplní slug všetkým priečinkom, ktoré ho ešte nemajú.
 // Deterministická (prechádza deti podľa order) — rovnaký výsledok pre každého.
 function ensureSlugs(){
@@ -13260,7 +13281,16 @@ window.addEventListener('popstate', function(e){
 });
 
 function getChildren(parentId){
-  return DB.nodes.filter(n=>n.parentId===parentId).sort((a,b)=>a.order-b.order);
+  let arr = DB.nodes.filter(n=>n.parentId===parentId);
+  if(IS_EN) arr = arr.filter(n=>n.en!==false); // en:false — skryté na EN webe
+  arr.sort((a,b)=>a.order-b.order);
+  if(IS_EN && parentId !== null){
+    const p = DB.nodes.find(n=>n.id===parentId);
+    if(p && CONTINENTS_SK.has(p.name)){
+      arr = arr.slice().sort((a,b)=>nName(a).localeCompare(nName(b),'en'));
+    }
+  }
+  return arr;
 }
 function getPath(id){
   const path = [];
@@ -13284,7 +13314,13 @@ function countAll(id){
 }
 function childCount(id){ return getChildren(id).length; }
 // Slovenské skloňovanie: skl(1,'sekcia','sekcie','sekcií') → "sekcia"
-function skl(n, jedna, dvestyri, vela){ return n===1 ? jedna : (n>=2 && n<=4 ? dvestyri : vela); }
+// V EN verzii sa slovenské tvary automaticky mapujú na section/sections, link/links.
+const SKL_EN = {'sekcia':'section','sekcie':'sections','sekcií':'sections',
+                'linka':'link','linky':'links','liniek':'links'};
+function skl(n, jedna, dvestyri, vela){
+  if(IS_EN) return n===1 ? (SKL_EN[jedna]||jedna) : (SKL_EN[vela]||vela);
+  return n===1 ? jedna : (n>=2 && n<=4 ? dvestyri : vela);
+}
 
 // celkový počet liniek v hlavičke — počíta sa vždy nanovo z DB
 function updateLinkCount(){
@@ -13327,14 +13363,14 @@ function renderBreadcrumb(){
   const parentId = curId !== null ? (DB.nodes.find(n=>n.id===curId)?.parentId ?? null) : null;
   const backVis = curId !== null;
   const backTarget = parentId === null ? 'null' : `'${parentId}'`;
-  html += `<button class="bc-back ${backVis?'visible':''}" onclick="navigate(${backTarget})">← Späť</button>`;
+  html += `<button class="bc-back ${backVis?'visible':''}" onclick="navigate(${backTarget})">← ${IS_EN?'Back':'Späť'}</button>`;
 
   // Home
-  html += `<span class="bc-item ${curId===null?'active':''}" onclick="navigate(null)">🏠 Domov</span>`;
+  html += `<span class="bc-item ${curId===null?'active':''}" onclick="navigate(null)">🏠 ${IS_EN?'Home':'Domov'}</span>`;
 
   path.forEach(node => {
     html += `<span class="bc-sep">›</span>`;
-    html += `<span class="bc-item ${node.id===curId?'active':''}" onclick="navigate('${node.id}')">${renderIcon(node.icon,'16x12')} ${node.name}</span>`;
+    html += `<span class="bc-item ${node.id===curId?'active':''}" onclick="navigate('${node.id}')">${renderIcon(node.icon,'16x12')} ${nName(node)}</span>`;
   });
 
   bc.innerHTML = html;
@@ -13346,7 +13382,7 @@ function renderLevel(){
   const isRoot = curId === null;
 
   if(children.length === 0 && !adminMode){
-    main.innerHTML = `<div class="empty"><div class="e-icon">📂</div><p>Táto sekcia je prázdna.</p></div>`;
+    main.innerHTML = `<div class="empty"><div class="e-icon">📂</div><p>${IS_EN?'This section is empty.':'Táto sekcia je prázdna.'}</p></div>`;
     return;
   }
 
@@ -13355,7 +13391,7 @@ function renderLevel(){
   let html = '';
 
   if(folders.length > 0){
-    if(links.length > 0) html += `<div class="section-label">Kategórie</div>`;
+    if(links.length > 0) html += `<div class="section-label">${IS_EN?'Categories':'Kategórie'}</div>`;
     if(folders.length <= 10){
       html += `<div class="grid-root anim">`;
       folders.forEach((n,i) => {
@@ -13376,7 +13412,7 @@ function renderLevel(){
               <button class="ibtn d" title="Zmazať" onclick="event.stopPropagation();delNode('${n.id}')">🗑</button>
             </div>
             <div class="c-icon">${renderIcon(n.icon,'40x30')||''}</div>
-            <div class="c-name">${n.name}</div>
+            <div class="c-name">${nName(n)}</div>
             <div class="c-count">${cnt}</div>
             <div class="c-arrow">→</div>
           </div>`;
@@ -13400,7 +13436,7 @@ function renderLevel(){
             </div>
             <div class="cf-icon">${renderIcon(n.icon,'24x18')||''}</div>
             <div class="cf-info">
-              <div class="cf-name">${n.name}</div>
+              <div class="cf-name">${nName(n)}</div>
               <div class="cf-count">${cnt}</div>
             </div>
             <div class="cf-arrow">›</div>
@@ -13411,7 +13447,7 @@ function renderLevel(){
   }
 
   if(links.length > 0){
-    if(folders.length > 0) html += `<div class="section-label" style="margin-top:24px">Linky</div>`;
+    if(folders.length > 0) html += `<div class="section-label" style="margin-top:24px">${IS_EN?'Links':'Linky'}</div>`;
     html += `<div class="grid-deep anim">`;
     links.forEach(n => {
       const host = (() => { try { return new URL(n.url).hostname; } catch(e){ return ''; }})();
@@ -13426,8 +13462,8 @@ function renderLevel(){
           <a href="${n.url}" target="_blank" rel="noopener" ${adminMode?'onclick="return false"':''}>
             ${favHtml(n, host)}
             <div>
-              <div class="cl-name">${(n.icon && !SOCIAL_FAV.test(host) && !/^[a-z]{2}(-[a-z]{2,4})?$/.test(n.icon))?n.icon+' ':''}${n.name}</div>
-              <div class="cl-desc">${n.desc||''}</div>
+              <div class="cl-name">${(n.icon && !SOCIAL_FAV.test(host) && !/^[a-z]{2}(-[a-z]{2,4})?$/.test(n.icon))?n.icon+' ':''}${nName(n)}</div>
+              <div class="cl-desc">${nDesc(n)}</div>
             </div>
           </a>
         </div>`;
@@ -13454,13 +13490,23 @@ function norm(s){
 
 function renderSearch(q){
   const nq = norm(q);
-  const results = DB.nodes.filter(n =>
+  let pool = DB.nodes;
+  if(IS_EN){
+    // skryté podstromy (en:false) sa nesmú objaviť ani vo vyhľadávaní
+    const hidden = new Set();
+    const markHidden = (id)=>{ hidden.add(id);
+      DB.nodes.forEach(k=>{ if(k.parentId===id) markHidden(k.id); }); };
+    DB.nodes.forEach(n=>{ if(n.en===false) markHidden(n.id); });
+    pool = DB.nodes.filter(n=>!hidden.has(n.id));
+  }
+  const results = pool.filter(n =>
     norm(n.name).includes(nq) ||
-    norm(n.desc).includes(nq)
+    norm(n.desc).includes(nq) ||
+    (IS_EN && (norm(n.name_en).includes(nq) || norm(n.desc_en).includes(nq)))
   );
   const main = document.getElementById('main');
   if(results.length === 0){
-    main.innerHTML = `<div class="empty"><div class="e-icon">🔍</div><p>Žiadne výsledky pre "<strong>${q}</strong>"</p></div>`;
+    main.innerHTML = `<div class="empty"><div class="e-icon">🔍</div><p>${IS_EN?'No results for':'Žiadne výsledky pre'} "<strong>${q}</strong>"</p></div>`;
     return;
   }
   const folders = results.filter(n=>n.type==='folder');
@@ -13468,25 +13514,25 @@ function renderSearch(q){
   let html = '';
 
   if(folders.length){
-    html += `<div class="section-label">Kategórie (${folders.length})</div><div class="grid-deep">`;
+    html += `<div class="section-label">${IS_EN?'Categories':'Kategórie'} (${folders.length})</div><div class="grid-deep">`;
     folders.forEach(n=>{
-      const path = getPath(n.id).map(p=>p.name).join(' › ');
+      const path = getPath(n.id).map(p=>nName(p)).join(' › ');
       html += `<div class="card-folder" onclick="navigate('${n.id}')">
         <div class="cf-icon">${renderIcon(n.icon,'24x18')||''}</div>
-        <div class="cf-info"><div class="cf-name">${n.name}</div><div class="cf-count sr-path">${path}</div></div>
+        <div class="cf-info"><div class="cf-name">${nName(n)}</div><div class="cf-count sr-path">${path}</div></div>
         <div class="cf-arrow">›</div></div>`;
     });
     html += `</div>`;
   }
   if(links.length){
-    html += `<div class="section-label" style="margin-top:20px">Linky (${links.length})</div><div class="grid-deep">`;
+    html += `<div class="section-label" style="margin-top:20px">${IS_EN?'Links':'Linky'} (${links.length})</div><div class="grid-deep">`;
     links.forEach(n=>{
       const host = (() => { try { return new URL(n.url).hostname; } catch(e){ return ''; }})();
-      const path = getPath(n.parentId).map(p=>p.name).join(' › ');
+      const path = getPath(n.parentId).map(p=>nName(p)).join(' › ');
       html += `<div class="card-link">
         <a href="${n.url}" target="_blank" rel="noopener">
           ${favHtml(n, host)}
-          <div><div class="cl-name">${n.name}</div><div class="cl-desc sr-path">${path}</div></div>
+          <div><div class="cl-name">${nName(n)}</div><div class="cl-desc sr-path">${path}</div></div>
         </a></div>`;
     });
     html += `</div>`;
@@ -13574,6 +13620,8 @@ function openAdd(){
   document.getElementById('nIcon').value='';
   document.getElementById('nName').value='';
   document.getElementById('nDesc').value='';
+  document.getElementById('nNameEn').value='';
+  document.getElementById('nDescEn').value='';
   document.getElementById('nUrl').value='';
   document.getElementById('typeBtnFolder').style.display='';
   document.getElementById('typeBtnLink').style.display='';
@@ -13589,6 +13637,8 @@ function openEdit(id){
   document.getElementById('nIcon').value = n.icon||'';
   document.getElementById('nName').value = n.name;
   document.getElementById('nDesc').value = n.desc||'';
+  document.getElementById('nNameEn').value = n.name_en||'';
+  document.getElementById('nDescEn').value = n.desc_en||'';
   document.getElementById('nUrl').value  = n.url||'';
   document.getElementById('typeBtnFolder').style.display='none';
   document.getElementById('typeBtnLink').style.display='none';
@@ -13599,13 +13649,19 @@ function saveNode(){
   const name = document.getElementById('nName').value.trim();
   const icon = document.getElementById('nIcon').value.trim();
   const desc = document.getElementById('nDesc').value.trim();
+  const nameEn = document.getElementById('nNameEn').value.trim();
+  const descEn = document.getElementById('nDescEn').value.trim();
   const url  = document.getElementById('nUrl').value.trim();
   if(!name){ alert('Vyplň názov!'); return; }
   if(nodeType==='link' && !url){ alert('Vyplň URL!'); return; }
 
   if(editNodeId){
     const n = DB.nodes.find(x=>x.id===editNodeId);
-    if(n){ n.name=name; n.icon=icon; n.desc=desc; if(n.type==='link') n.url=url; }
+    if(n){
+      n.name=name; n.icon=icon; n.desc=desc; if(n.type==='link') n.url=url;
+      if(nameEn) n.name_en=nameEn; else delete n.name_en;
+      if(descEn) n.desc_en=descEn; else delete n.desc_en;
+    }
   } else {
     const siblings = getChildren(curId);
     const node = {
@@ -13613,6 +13669,8 @@ function saveNode(){
       icon, name, desc, url: nodeType==='link'?url:null,
       order: siblings.length
     };
+    if(nameEn) node.name_en=nameEn;
+    if(descEn) node.desc_en=descEn;
     if(nodeType==='folder'){
       // trvalý slug — priradí sa raz, adresa sa už nikdy nezmení (ani pri premenovaní)
       const used = new Set(siblings.filter(s=>s.type==='folder').map(nodeSlug));
@@ -13620,6 +13678,12 @@ function saveNode(){
       const base = s; let i = 2;
       while(used.has(s)){ s = base+'-'+(i++); }
       node.slug = s;
+      // trvalý anglický slug pre sportlinking.com (z EN názvu, inak zo SK)
+      const usedEn = new Set(siblings.filter(x=>x.type==='folder').map(x=>x.slug_en||slugify(x.name_en||x.name)));
+      let se = slugify(nameEn||name) || 'cat-'+slugify(node.id);
+      const baseEn = se; let j = 2;
+      while(usedEn.has(se)){ se = baseEn+'-'+(j++); }
+      node.slug_en = se;
     }
     DB.nodes.push(node);
   }
@@ -13755,7 +13819,7 @@ function bannerSectionOk(b, folderId){
 // Bannery, ktoré sa smú práve teraz a práve tu zobraziť (filtrované podľa slotu 1/2)
 function bannerSlotNum(b){ return b.slot===2 || b.slot==='2' ? 2 : 1; }
 function eligibleBanners(slotNum){
-  return (DB.banners||[]).filter(b=>b.active!==false && bannerSlotNum(b)===slotNum && bannerDateOk(b) && bannerSectionOk(b, curId));
+  return (DB.banners||[]).filter(b=>(b.lang||'sk')===SITE_LANG && b.active!==false && bannerSlotNum(b)===slotNum && bannerDateOk(b) && bannerSectionOk(b, curId));
 }
 function bannerWeight(b){ return Math.max(1, Math.min(10, parseInt(b.weight)||1)); }
 
@@ -14055,12 +14119,13 @@ function renderAktualne(){
   const now = Date.now();
   // "Platné do": po tomto dni (vrátane) sa linka verejnosti skryje; admin ju vidí vysivenú. Bez dátumu = visí navždy.
   const isExpired = a => a.endsAt && now > new Date(a.endsAt+'T23:59:59').getTime();
-  const items = adminMode ? DB.aktualne : DB.aktualne.filter(a=>!isExpired(a));
+  const byLang = a => (a.lang||'sk')===SITE_LANG;
+  const items = adminMode ? DB.aktualne : DB.aktualne.filter(a=>byLang(a)&&!isExpired(a));
   const scroll = document.getElementById('aktualneScroll');
   const count  = document.getElementById('aktualneCount');
   count.textContent = items.length ? `(${items.length})` : '';
   if(!items.length){
-    scroll.innerHTML='<span style="font-size:0.78rem;color:var(--muted);padding:6px 0">Žiadne aktuálne udalosti</span>';
+    scroll.innerHTML='<span style="font-size:0.78rem;color:var(--muted);padding:6px 0">'+(IS_EN?'No current events':'Žiadne aktuálne udalosti')+'</span>';
     updateAktFade();
     return;
   }
@@ -14118,8 +14183,9 @@ load().then(()=>{
   if(ensureSlugs()) save(); // migrácia: doplň trvalé slugy priečinkom bez nich
   migratePw(); // migrácia: heslo v čitateľnej podobe → hash (staré localStorage)
   if(DB.title){
-    document.getElementById('siteSub').textContent = DB.subtitle||'';
-    document.title = DB.title;
+    document.getElementById('siteSub').textContent =
+      (IS_EN ? (DB.subtitle_en||DB.subtitle) : DB.subtitle)||'';
+    document.title = IS_EN ? (DB.title_en||DB.title) : DB.title;
   }
   initFromHash(); // ak adresa obsahuje #/cestu, otvor rovno daný priečinok
   render();
