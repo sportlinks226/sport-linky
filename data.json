@@ -1,5 +1,5 @@
 {
-  "version": 75,
+  "version": 76,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -18,7 +18,8 @@
       "name": "Liga Majstrov",
       "url": "https://www.uefa.com/uefachampionsleague/",
       "endsAt": "2026-07-30",
-      "addedAt": 1784634574866
+      "addedAt": 1784634574866,
+      "name_en": "Champions league"
     },
     {
       "id": "a1784634663367",
@@ -26,7 +27,8 @@
       "name": "Európska liga",
       "url": "https://www.uefa.com/uefaeuropaleague/",
       "endsAt": "2026-07-30",
-      "addedAt": 1784634663367
+      "addedAt": 1784634663367,
+      "name_en": "European league"
     },
     {
       "id": "a1784634702063",
@@ -34,7 +36,8 @@
       "name": "Konferenčná liga",
       "url": "https://www.uefa.com/uefaconferenceleague/",
       "endsAt": "2026-07-30",
-      "addedAt": 1784634702063
+      "addedAt": 1784634702063,
+      "name_en": "Conference league"
     },
     {
       "id": "a1784538636873",
@@ -106,15 +109,17 @@
       "name": "ME Basketbal U18 div.A",
       "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026",
       "endsAt": "2026-08-02",
-      "addedAt": 1784188884337
+      "addedAt": 1784188884337,
+      "name_en": "ECH Basketball U18 div.A"
     },
     {
       "id": "a1784188919546",
       "icon": "🏀",
-      "name": "Basketbal ME U18 div.B",
+      "name": "ME Basketbal U18 div.B",
       "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026-division-b",
       "endsAt": "2026-08-02",
-      "addedAt": 1784188919546
+      "addedAt": 1784188919546,
+      "name_en": "ECH Basketball U18 div.B"
     },
     {
       "id": "a1784541154016",
@@ -131,14 +136,6 @@
       "url": "https://www.mlb.com/",
       "endsAt": "",
       "addedAt": 1784541193793
-    },
-    {
-      "id": "a1784634859111",
-      "icon": "🎯",
-      "name": "PDC World Matchplay",
-      "url": "https://www.pdc.tv/tournament-hub/10864",
-      "endsAt": "2026-07-26",
-      "addedAt": 1784634859111
     },
     {
       "id": "a1784581601256",
@@ -170,7 +167,8 @@
       "name": "MS v šerme",
       "url": "https://fie.org/tournaments/2026/86",
       "endsAt": "2026-07-30",
-      "addedAt": 1784540386811
+      "addedAt": 1784540386811,
+      "name_en": "Fencing WCH"
     },
     {
       "id": "a1785147664719",
@@ -186,7 +184,16 @@
       "name": "Volejbal Liga národov",
       "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/schedule/#fromDate=2026-07-27",
       "endsAt": "2026-08-02",
-      "addedAt": 1785148099926
+      "addedAt": 1785148099926,
+      "name_en": "Volleyball Nations league"
+    },
+    {
+      "id": "a1785314541247",
+      "icon": "🥇",
+      "name": "Commomwealth games",
+      "url": "https://www.glasgow2026.com/",
+      "endsAt": "2026-08-02",
+      "addedAt": 1785314541247
     }
   ],
   "banners": [
