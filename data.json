@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -5002,7 +5002,9 @@
       "name": "FIS alpské lyžovanie",
       "desc": "Oficiálna stránka FIS pre zjazdové lyžovanie",
       "url": "https://www.fis-ski.com/alpine-skiing",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official FIS website for alpine skiing",
+      "name_en": "FIS Alpine Skiing"
     },
     {
       "id": "n1780504146611ybo",
@@ -5012,7 +5014,9 @@
       "name": "FIS kalendár a results",
       "desc": "Oficiálny kalendár a výsledky Svetového pohára v zjazde",
       "url": "https://www.fis-ski.com/DB/alpine-skiing/calendar-results.html?noselection=true&mi=menu-calendar",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official World Cup alpine skiing calendar and results",
+      "name_en": "FIS Calendar and Results"
     },
     {
       "id": "n1780504292521swk",
@@ -5022,7 +5026,8 @@
       "name": "FIS stats",
       "desc": "Oficiálne štatistiky FIS v zjazdovom lyžovaní",
       "url": "https://www.fis-ski.com/DB/general/statistics.html?sectorcode=AL&mi=menu-statistics",
-      "order": 2
+      "order": 2,
+      "desc_en": "Official FIS alpine skiing statistics"
     },
     {
       "id": "n1780504321527fvi",
@@ -5032,7 +5037,8 @@
       "name": "FIS standings",
       "desc": "Priebežné poradie Svetového pohára v zjazde",
       "url": "https://www.fis-ski.com/DB/alpine-skiing/cup-standings.html?sectorcode=AL&mi=menu-cup-standings",
-      "order": 3
+      "order": 3,
+      "desc_en": "Current World Cup alpine skiing standings"
     },
     {
       "id": "n1780504394024bx0",
@@ -5042,7 +5048,9 @@
       "name": "Ski databáza",
       "desc": "Historická databáza výsledkov zjazdového lyžovania",
       "url": "https://ski-db.com/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Historical database of alpine skiing results",
+      "name_en": "Ski Database"
     },
     {
       "id": "n1780504465827ele",
@@ -5052,7 +5060,8 @@
       "name": "FIS TV",
       "desc": "Oficiálne video prenosy a zostrihy FIS",
       "url": "https://watch.fis-ski.com/home",
-      "order": 4
+      "order": 4,
+      "desc_en": "Official FIS video broadcasts and highlights"
     },
     {
       "id": "n1780504642276enb",
@@ -5062,7 +5071,8 @@
       "name": "Skiracing",
       "desc": "Americký spravodajský web o zjazdovom lyžovaní",
       "url": "https://skiracing.com/",
-      "order": 6
+      "order": 6,
+      "desc_en": "American news website covering alpine skiing"
     },
     {
       "id": "n17805049937673kj",
@@ -5072,7 +5082,8 @@
       "name": "Swiss Ski",
       "desc": "Švajčiarsky lyžiarsky zväz — zjazdové disciplíny",
       "url": "https://www.swiss-ski.ch/ski-alpin/",
-      "order": 7
+      "order": 7,
+      "desc_en": "Swiss ski federation — alpine disciplines"
     },
     {
       "id": "n1780505189554lxw",
@@ -5082,7 +5093,8 @@
       "name": "Austria Ski",
       "desc": "Rakúsky lyžiarsky zväz — zjazdové lyžovanie",
       "url": "https://www.skiaustria.at/de/sport/ski-alpin",
-      "order": 8
+      "order": 8,
+      "desc_en": "Austrian ski federation — alpine skiing"
     },
     {
       "id": "n178050522030965j",
@@ -5092,7 +5104,8 @@
       "name": "ORF ski",
       "desc": "Zjazdové lyžovanie v rakúskej verejnoprávnej ORF",
       "url": "https://sport.orf.at/skialpin/#/",
-      "order": 9
+      "order": 9,
+      "desc_en": "Alpine skiing coverage on Austrian public broadcaster ORF"
     },
     {
       "id": "n1780505392257gfa",
@@ -5102,7 +5115,8 @@
       "name": "Neveitalia",
       "desc": "Taliansky portál o zjazdovom lyžovaní",
       "url": "https://www.neveitalia.it/sport/scialpino/",
-      "order": 10
+      "order": 10,
+      "desc_en": "Italian portal covering alpine skiing"
     },
     {
       "id": "n1780505448179fn2",
@@ -5112,7 +5126,8 @@
       "name": "ZLS",
       "desc": "Zväz slovenského lyžovania — zjazdové disciplíny",
       "url": "https://www.zvazslovenskeholyzovania.sk/zjazdove-lyzovanie/",
-      "order": 11
+      "order": 11,
+      "desc_en": "Slovak Ski Federation — alpine disciplines"
     },
     {
       "id": "n1780505602002f7k",
@@ -5122,7 +5137,8 @@
       "name": "Eurosport ski",
       "desc": "Zjazdové lyžovanie na nemeckom Eurosporte",
       "url": "https://www.eurosport.de/ski-alpin/",
-      "order": 12
+      "order": 12,
+      "desc_en": "Alpine skiing on German Eurosport"
     },
     {
       "id": "n1780505707184mui",
@@ -5132,7 +5148,8 @@
       "name": "Skinews",
       "desc": "Švajčiarske spravodajstvo zo zjazdového lyžovania",
       "url": "https://www.skinews.ch/",
-      "order": 13
+      "order": 13,
+      "desc_en": "Swiss news coverage of alpine skiing"
     },
     {
       "id": "n1780505740801sbn",
@@ -5142,7 +5159,8 @@
       "name": "Fantaski",
       "desc": "Taliansky portál a fantasy hra o zjazdovom lyžovaní",
       "url": "https://www.fantaski.it/home/index.asp#tab-1",
-      "order": 14
+      "order": 14,
+      "desc_en": "Italian portal and fantasy game for alpine skiing"
     },
     {
       "id": "n1780505781073ba0",
@@ -5152,7 +5170,8 @@
       "name": "Skichrono",
       "desc": "Francúzske spravodajstvo zo zjazdového lyžovania",
       "url": "https://www.ledauphine.com/skichrono/ski-alpin",
-      "order": 15
+      "order": 15,
+      "desc_en": "French news coverage of alpine skiing"
     },
     {
       "id": "n17807563456949hw",
@@ -5162,7 +5181,9 @@
       "name": "FIS beh na lyžiach",
       "desc": "Oficiálna stránka FIS pre bežecké lyžovanie",
       "url": "https://www.fis-ski.com/cross-country",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official FIS website for cross-country skiing",
+      "name_en": "FIS Cross-Country Skiing"
     },
     {
       "id": "n1780756387391rc5",
@@ -5172,7 +5193,9 @@
       "name": "FIS kalendár a results",
       "desc": "Oficiálny kalendár a výsledky Svetového pohára v behu",
       "url": "https://www.fis-ski.com/DB/cross-country/calendar-results.html?noselection=true&mi=menu-calendar",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official World Cup cross-country skiing calendar and results",
+      "name_en": "FIS Calendar and Results"
     },
     {
       "id": "n1780756423480h2d",
@@ -5182,7 +5205,8 @@
       "name": "FIS stats",
       "desc": "Oficiálne štatistiky FIS v behu na lyžiach",
       "url": "https://www.fis-ski.com/DB/general/statistics.html?sectorcode=CC&mi=menu-statistics",
-      "order": 2
+      "order": 2,
+      "desc_en": "Official FIS cross-country skiing statistics"
     },
     {
       "id": "n1780756464505mk9",
@@ -5192,7 +5216,8 @@
       "name": "FIS standings",
       "desc": "Priebežné poradie Svetového pohára v behu na lyžiach",
       "url": "https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&mi=menu-cup-standings",
-      "order": 3
+      "order": 3,
+      "desc_en": "Current World Cup cross-country skiing standings"
     },
     {
       "id": "n1780763484944mi0",
@@ -5202,7 +5227,8 @@
       "name": "Fasterskier",
       "desc": "Medzinárodné spravodajstvo o behu na lyžiach",
       "url": "https://fasterskier.com/",
-      "order": 7
+      "order": 7,
+      "desc_en": "International cross-country skiing news"
     },
     {
       "id": "n1780763575246ygb",
@@ -5212,7 +5238,8 @@
       "name": "Skiforbundet",
       "desc": "Nórsky lyžiarsky zväz — sekcia behu na lyžiach",
       "url": "https://www.skiforbundet.no/langrenn/",
-      "order": 8
+      "order": 8,
+      "desc_en": "Norwegian ski federation — cross-country skiing section"
     },
     {
       "id": "n1780763714747rus",
@@ -5222,7 +5249,8 @@
       "name": "Hiihtoliittoo",
       "desc": "Fínsky lyžiarsky zväz",
       "url": "https://hiihtoliitto.fi/",
-      "order": 9
+      "order": 9,
+      "desc_en": "Finnish ski federation"
     },
     {
       "id": "n1780763759776zbg",
@@ -5232,7 +5260,8 @@
       "name": "Skidor",
       "desc": "Švédska lyžiarska asociácia",
       "url": "https://www.skidor.com/",
-      "order": 10
+      "order": 10,
+      "desc_en": "Swedish ski association"
     },
     {
       "id": "n1780763885842pw3",
@@ -5242,7 +5271,8 @@
       "name": "Ski classics",
       "desc": "Seriál diaľkových bežeckých pretekov Ski Classics",
       "url": "https://skiclassics.com/",
-      "order": 6
+      "order": 6,
+      "desc_en": "The Ski Classics long-distance cross-country racing series"
     },
     {
       "id": "n1780763963490bln",
@@ -5252,7 +5282,8 @@
       "name": "Proxcskiing",
       "desc": "Spravodajstvo zo sveta behu na lyžiach",
       "url": "https://sk.proxcskiing.com/",
-      "order": 5
+      "order": 5,
+      "desc_en": "News from the world of cross-country skiing"
     },
     {
       "id": "n1780764042595fxo",
@@ -5262,7 +5293,8 @@
       "name": "Langrenn",
       "desc": "Nórsky portál o behu na lyžiach",
       "url": "https://www.langrenn.com/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Norwegian portal covering cross-country skiing"
     },
     {
       "id": "n1780764114636y0g",
@@ -5272,7 +5304,8 @@
       "name": "Worldloppet",
       "desc": "Svetová séria maratónskych bežeckých pretekov",
       "url": "https://www.worldloppet.com/",
-      "order": 11
+      "order": 11,
+      "desc_en": "The worldwide series of marathon cross-country ski races"
     },
     {
       "id": "n1780764250645sy9",
@@ -5282,7 +5315,9 @@
       "name": "FIS skoky na lyziach",
       "desc": "Oficiálna stránka FIS pre skoky na lyžiach",
       "url": "https://www.fis-ski.com/ski-jumping",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official FIS website for ski jumping",
+      "name_en": "FIS Ski Jumping"
     },
     {
       "id": "n1780764287462chk",
@@ -5292,7 +5327,9 @@
       "name": "FIS kalendár a results",
       "desc": "Oficiálny kalendár a výsledky Svetového pohára v skokoch",
       "url": "https://www.fis-ski.com/DB/ski-jumping/calendar-results.html?noselection=true&mi=menu-calendar",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official World Cup ski jumping calendar and results",
+      "name_en": "FIS Calendar and Results"
     },
     {
       "id": "n1780764318239r5m",
@@ -5302,7 +5339,8 @@
       "name": "FIS stats",
       "desc": "Oficiálne štatistiky FIS v skokoch na lyžiach",
       "url": "https://www.fis-ski.com/DB/general/statistics.html?sectorcode=JP&mi=menu-statistics",
-      "order": 2
+      "order": 2,
+      "desc_en": "Official FIS ski jumping statistics"
     },
     {
       "id": "n17807643436125fq",
@@ -5312,7 +5350,8 @@
       "name": "FIS standings",
       "desc": "Priebežné poradie Svetového pohára v skokoch",
       "url": "https://www.fis-ski.com/DB/ski-jumping/cup-standings.html?sectorcode=JP&mi=menu-cup-standings",
-      "order": 3
+      "order": 3,
+      "desc_en": "Current World Cup ski jumping standings"
     },
     {
       "id": "n1780764391351b9d",
@@ -5322,7 +5361,8 @@
       "name": "Berkutschi",
       "desc": "Štatistiky a komunita okolo skokov na lyžiach",
       "url": "https://berkutschi.com/de",
-      "order": 4
+      "order": 4,
+      "desc_en": "Ski jumping statistics and community"
     },
     {
       "id": "n1780764425664dst",
@@ -5332,7 +5372,8 @@
       "name": "Skijumping.pl",
       "desc": "Poľský portál o skokoch na lyžiach",
       "url": "https://www.skijumping.pl/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Polish portal covering ski jumping"
     },
     {
       "id": "n17807644542343ai",
@@ -5342,7 +5383,8 @@
       "name": "Skispringen",
       "desc": "Nemecké spravodajstvo zo skokov na lyžiach",
       "url": "https://www.skispringen.com/#google_vignette",
-      "order": 6
+      "order": 6,
+      "desc_en": "German news coverage of ski jumping"
     },
     {
       "id": "n178076453390138l",
@@ -5352,7 +5394,8 @@
       "name": "Skisprungschanzen",
       "desc": "Databáza skokanských mostíkov celého sveta",
       "url": "https://www.skisprungschanzen.com/#google_vignette",
-      "order": 7
+      "order": 7,
+      "desc_en": "A worldwide database of ski jumping hills"
     },
     {
       "id": "n17807648257814k2",
@@ -5362,7 +5405,8 @@
       "name": "Sportschau springen",
       "desc": "Skoky na lyžiach v nemeckej verejnoprávnej ARD",
       "url": "https://www.sportschau.de/wintersport/skispringen",
-      "order": 8
+      "order": 8,
+      "desc_en": "Ski jumping coverage on German public broadcaster ARD"
     },
     {
       "id": "n17807649269254nf",
@@ -5372,7 +5416,8 @@
       "name": "Eurosport ski jumping",
       "desc": "Skoky na lyžiach na Eurosporte (TNT Sports)",
       "url": "https://www.tntsports.co.uk/ski-jumping/",
-      "order": 9
+      "order": 9,
+      "desc_en": "Ski jumping on Eurosport (TNT Sports)"
     },
     {
       "id": "n178076513120278r",
@@ -5382,7 +5427,8 @@
       "name": "Biathlonworld",
       "desc": "Oficiálna stránka Medzinárodnej biatlonovej únie IBU",
       "url": "https://www.biathlonworld.com/",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official website of the International Biathlon Union (IBU)"
     },
     {
       "id": "n1780765158274jg9",
@@ -5392,7 +5438,8 @@
       "name": "Biathlonresults",
       "desc": "Oficiálne výsledky a štatistiky biatlonu IBU",
       "url": "https://ebu.biathlonresults.com/#/start",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official IBU biathlon results and statistics"
     },
     {
       "id": "n17807652604937hv",
@@ -5402,7 +5449,8 @@
       "name": "Real biathlon",
       "desc": "Podrobné biatlonové štatistiky a analýzy",
       "url": "https://www.realbiathlon.com/",
-      "order": 2
+      "order": 2,
+      "desc_en": "Detailed biathlon statistics and analysis"
     },
     {
       "id": "n1780765304495bma",
@@ -5412,7 +5460,8 @@
       "name": "Penaltyloop",
       "desc": "Biatlonové spravodajstvo a analýzy",
       "url": "https://penaltyloop.com/",
-      "order": 3
+      "order": 3,
+      "desc_en": "Biathlon news and analysis"
     },
     {
       "id": "n1780765331906wwn",
@@ -5422,7 +5471,8 @@
       "name": "Focusbiathlon",
       "desc": "Biatlonové spravodajstvo a rozhovory",
       "url": "https://focusbiathlon.com/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Biathlon news and interviews"
     },
     {
       "id": "n1780765407412mdm",
@@ -5432,7 +5482,8 @@
       "name": "Biathlonstats",
       "desc": "Databáza biatlonových výsledkov a štatistík",
       "url": "https://www.biathlonstats.com/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Database of biathlon results and statistics"
     },
     {
       "id": "n17807655094201ik",
@@ -5442,7 +5493,8 @@
       "name": "Biathlon.sk",
       "desc": "Slovenský zväz biatlonu",
       "url": "https://biathlon.sk/",
-      "order": 6
+      "order": 6,
+      "desc_en": "Slovak Biathlon Federation"
     },
     {
       "id": "n1780765997894khu",
@@ -5452,7 +5504,8 @@
       "name": "ISU figure skating",
       "desc": "Oficiálna stránka ISU pre krasokorčuľovanie",
       "url": "https://isu-skating.com/figure-skating/",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official ISU website for figure skating"
     },
     {
       "id": "n1780766112352kj3",
@@ -5462,7 +5515,8 @@
       "name": "ISU events",
       "desc": "Oficiálny kalendár podujatí ISU",
       "url": "https://www.isu.org/events/?month=All&discipline=FIGURE+SKATING&season=2026%2F2027&event_type=All+ISU+Events&event_level=ISU",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official ISU events calendar"
     },
     {
       "id": "n1780766181455y7a",
@@ -5472,7 +5526,8 @@
       "name": "Golden skate",
       "desc": "Medzinárodné spravodajstvo o krasokorčuľovaní",
       "url": "https://www.goldenskate.com/",
-      "order": 2
+      "order": 2,
+      "desc_en": "International figure skating news"
     },
     {
       "id": "n17807662373632vi",
@@ -5482,7 +5537,8 @@
       "name": "Fsuniverse",
       "desc": "Diskusné fórum fanúšikov krasokorčuľovania",
       "url": "https://www.fsuniverse.net/forum/",
-      "order": 3
+      "order": 3,
+      "desc_en": "Discussion forum for figure skating fans"
     },
     {
       "id": "n1780766303456bbx",
@@ -5492,7 +5548,8 @@
       "name": "Rinkresults",
       "desc": "Výsledky krasokorčuliarskych súťaží",
       "url": "https://www.rinkresults.com/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Figure skating competition results"
     },
     {
       "id": "n1780766336101roh",
@@ -5502,7 +5559,8 @@
       "name": "Skating scores",
       "desc": "Databáza bodovania a výsledkov krasokorčuľovania",
       "url": "https://skatingscores.com/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Database of figure skating scores and results"
     },
     {
       "id": "n1780766398071nt7",
@@ -5512,7 +5570,8 @@
       "name": "Kraso.sk",
       "desc": "Slovenský krasokorčuliarsky zväz",
       "url": "https://www.kraso.sk/",
-      "order": 6
+      "order": 6,
+      "desc_en": "Slovak Figure Skating Federation"
     },
     {
       "id": "n1780766497290j1v",
@@ -5522,7 +5581,8 @@
       "name": "ISU speed skating",
       "desc": "Oficiálna stránka ISU pre rýchlokorčuľovanie",
       "url": "https://isu-skating.com/speed-skating/",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official ISU website for speed skating"
     },
     {
       "id": "n1780766522369aq5",
@@ -5532,7 +5592,8 @@
       "name": "ISU results",
       "desc": "Oficiálne živé výsledky ISU",
       "url": "https://live.isuresults.eu/home",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official live ISU results"
     },
     {
       "id": "n17807665600832xs",
@@ -5542,7 +5603,8 @@
       "name": "Speedskatingnews",
       "desc": "Medzinárodné spravodajstvo o rýchlokorčuľovaní",
       "url": "https://www.speedskatingnews.info/",
-      "order": 2
+      "order": 2,
+      "desc_en": "International speed skating news"
     },
     {
       "id": "n1780766605674ogj",
@@ -5552,7 +5614,8 @@
       "name": "Speedskatingresults",
       "desc": "Databáza výsledkov rýchlokorčuľovania",
       "url": "https://speedskatingresults.com/",
-      "order": 3
+      "order": 3,
+      "desc_en": "Database of speed skating results"
     },
     {
       "id": "n17807666539971e4",
@@ -5562,7 +5625,8 @@
       "name": "Shorttracklive",
       "desc": "Živé výsledky short tracku",
       "url": "https://shorttracklive.info/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Live short track speed skating results"
     },
     {
       "id": "n1780766695048th6",
@@ -5572,7 +5636,8 @@
       "name": "Shorttrackonline",
       "desc": "Spravodajstvo a výsledky short tracku",
       "url": "https://www.shorttrackonline.info/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Short track speed skating news and results"
     },
     {
       "id": "n1780766786130a1n",
@@ -5582,7 +5647,8 @@
       "name": "Speedskating.cz",
       "desc": "Český zväz rýchlokorčuľovania",
       "url": "http://speedskating.cz/",
-      "order": 6
+      "order": 6,
+      "desc_en": "Czech Speed Skating Federation"
     },
     {
       "id": "n17807668169316nm",
@@ -5592,7 +5658,8 @@
       "name": "Schaatsen.nl",
       "desc": "Holandský korčuliarsky zväz (KNSB)",
       "url": "https://www.schaatsen.nl/",
-      "order": 7
+      "order": 7,
+      "desc_en": "Dutch skating federation (KNSB)"
     },
     {
       "id": "n1780766981365dyv",
@@ -5602,7 +5669,8 @@
       "name": "USspeedskating",
       "desc": "Americký zväz rýchlokorčuľovania",
       "url": "https://www.usspeedskating.org/news",
-      "order": 8
+      "order": 8,
+      "desc_en": "US Speedskating federation"
     },
     {
       "id": "n1780767013046m4m",
@@ -5612,7 +5680,8 @@
       "name": "Speedskating.ca",
       "desc": "Kanadský zväz rýchlokorčuľovania",
       "url": "https://speedskating.ca/news/",
-      "order": 9
+      "order": 9,
+      "desc_en": "Speed Skating Canada"
     },
     {
       "id": "n1780767731704u9g",
@@ -5622,7 +5691,8 @@
       "name": "World curling",
       "desc": "Oficiálna stránka svetovej curlingovej federácie",
       "url": "https://worldcurling.org/",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official website of the World Curling Federation"
     },
     {
       "id": "n1780767776073lp2",
@@ -5632,7 +5702,8 @@
       "name": "Curling zone",
       "desc": "Výsledky, rebríčky a štatistiky curlingu",
       "url": "https://home.curlingzone.com/",
-      "order": 1
+      "order": 1,
+      "desc_en": "Curling results, rankings and statistics"
     },
     {
       "id": "n1780767889604n85",
@@ -5642,7 +5713,8 @@
       "name": "Curling database",
       "desc": "Oficiálna databáza výsledkov World Curling",
       "url": "https://results.worldcurling.org/",
-      "order": 2
+      "order": 2,
+      "desc_en": "The official World Curling results database"
     },
     {
       "id": "n17807679658156nc",
@@ -5652,7 +5724,8 @@
       "name": "Grandslam of curling",
       "desc": "Profesionálny seriál Grand Slam of Curling",
       "url": "https://www.thegrandslamofcurling.com/",
-      "order": 3
+      "order": 3,
+      "desc_en": "The professional Grand Slam of Curling series"
     },
     {
       "id": "n17807679970156ad",
@@ -5662,7 +5735,8 @@
       "name": "Curlingnews",
       "desc": "Medzinárodné curlingové spravodajstvo",
       "url": "https://thecurlingnews.com/",
-      "order": 4
+      "order": 4,
+      "desc_en": "International curling news"
     },
     {
       "id": "n1780768026679uje",
@@ -5672,7 +5746,8 @@
       "name": "TNS curling",
       "desc": "Curling v kanadskej športovej TV TSN",
       "url": "https://www.tsn.ca/curling/",
-      "order": 5
+      "order": 5,
+      "desc_en": "Curling on Canadian sports network TSN"
     },
     {
       "id": "n1780768090233idc",
@@ -5682,7 +5757,8 @@
       "name": "Curling.ca",
       "desc": "Kanadský curlingový zväz",
       "url": "https://www.curling.ca/",
-      "order": 6
+      "order": 6,
+      "desc_en": "Curling Canada"
     },
     {
       "id": "n1780768166063qq4",
@@ -5692,7 +5768,8 @@
       "name": "Curling.cz",
       "desc": "Český curlingový zväz",
       "url": "https://www.curling.cz/",
-      "order": 7
+      "order": 7,
+      "desc_en": "Czech Curling Federation"
     },
     {
       "id": "n1780768198092er6",
@@ -5702,7 +5779,8 @@
       "name": "Curling.sk",
       "desc": "Slovenský curlingový zväz",
       "url": "https://curling.sk/",
-      "order": 8
+      "order": 8,
+      "desc_en": "Slovak Curling Federation"
     },
     {
       "id": "n1780770472298gr7",
@@ -5712,7 +5790,8 @@
       "name": "FIL luge",
       "desc": "Oficiálna stránka medzinárodnej sánkarskej federácie FIL",
       "url": "https://www.fil-luge.org/en/home",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official website of the International Luge Federation (FIL)"
     },
     {
       "id": "n1780770600711n1q",
@@ -5722,7 +5801,8 @@
       "name": "FIL results",
       "desc": "Oficiálne výsledky Svetového pohára v sánkovaní",
       "url": "https://www.fil-luge.org/en/results",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official World Cup luge results"
     },
     {
       "id": "n1780770867663qad",
@@ -5732,7 +5812,8 @@
       "name": "Rodel Austria",
       "desc": "Rakúsky sánkarsky zväz",
       "url": "https://www.rodel-austria.at/",
-      "order": 2
+      "order": 2,
+      "desc_en": "Austrian Luge Federation"
     },
     {
       "id": "n1780770979026g9v",
@@ -5742,7 +5823,8 @@
       "name": "BSD Germany",
       "desc": "Nemecký zväz bobov, sánkovania a skeletonu",
       "url": "https://bsd-portal.de/",
-      "order": 3
+      "order": 3,
+      "desc_en": "German Bobsleigh, Luge and Skeleton Federation"
     },
     {
       "id": "n1780771023781xwy",
@@ -5752,7 +5834,8 @@
       "name": "FISI Italy",
       "desc": "Taliansky zimný zväz — sekcia sánkovania",
       "url": "https://www.fisi.org/slittino/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Italian winter sports federation — luge section"
     },
     {
       "id": "n1780771051861rfo",
@@ -5762,7 +5845,8 @@
       "name": "USA luge",
       "desc": "Americký sánkarsky zväz",
       "url": "https://www.usaluge.org/",
-      "order": 5
+      "order": 5,
+      "desc_en": "USA Luge federation"
     },
     {
       "id": "n1780771198309fx9",
@@ -5772,7 +5856,8 @@
       "name": "Insidethegames luge",
       "desc": "Spravodajstvo o sánkovaní na Insidethegames",
       "url": "https://www.insidethegames.biz/sports/winter-sports/luge",
-      "order": 6
+      "order": 6,
+      "desc_en": "Luge news on Insidethegames"
     },
     {
       "id": "n1780771353515cfc",
@@ -5782,7 +5867,8 @@
       "name": "IBSF",
       "desc": "Oficiálna stránka federácie bobov a skeletonu IBSF",
       "url": "https://www.ibsf.org/en/our-sports/bobsleigh",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official website of the International Bobsleigh and Skeleton Federation (IBSF)"
     },
     {
       "id": "n1780771424669efo",
@@ -5792,7 +5878,8 @@
       "name": "IBSF TV",
       "desc": "Oficiálny video kanál IBSF (boby a skeleton)",
       "url": "https://www.youtube.com/ibsfsliding",
-      "order": 2
+      "order": 2,
+      "desc_en": "Official IBSF video channel (bobsleigh and skeleton)"
     },
     {
       "id": "n1780771471980ztg",
@@ -5802,7 +5889,8 @@
       "name": "BSD Germany",
       "desc": "Nemecký zväz bobov, sánkovania a skeletonu",
       "url": "https://bsd-portal.de/",
-      "order": 3
+      "order": 3,
+      "desc_en": "German Bobsleigh, Luge and Skeleton Federation"
     },
     {
       "id": "n1780771517527952",
@@ -5812,7 +5900,8 @@
       "name": "Swiss sliding",
       "desc": "Švajčiarsky zväz bobov, sánkovania a skeletonu",
       "url": "https://www.swiss-sliding.com/",
-      "order": 4
+      "order": 4,
+      "desc_en": "Swiss Bobsleigh, Luge and Skeleton Federation"
     },
     {
       "id": "n1780771553225slp",
@@ -5822,7 +5911,8 @@
       "name": "USA bobsled",
       "desc": "Americký zväz bobov a skeletonu",
       "url": "https://www.usabs.com/",
-      "order": 5
+      "order": 5,
+      "desc_en": "USA Bobsled and Skeleton Federation"
     },
     {
       "id": "n1780771599158rzc",
@@ -5832,7 +5922,8 @@
       "name": "Bobslejs Latvia",
       "desc": "Lotyšský zväz bobov a skeletonu",
       "url": "https://www.bobslejs.lv/",
-      "order": 6
+      "order": 6,
+      "desc_en": "Latvian Bobsleigh and Skeleton Federation"
     },
     {
       "id": "n17807716234727bn",
@@ -5842,7 +5933,8 @@
       "name": "Bobteam.cz",
       "desc": "Český reprezentačný tím v boboch",
       "url": "https://www.bobteam.cz/",
-      "order": 7
+      "order": 7,
+      "desc_en": "The Czech national bobsleigh team"
     },
     {
       "id": "n17807716815532o1",
@@ -5852,7 +5944,8 @@
       "name": "Sliding on ice",
       "desc": "Spravodajstvo o boboch, skeletone a sánkovaní",
       "url": "https://www.slidingonice.com/",
-      "order": 8
+      "order": 8,
+      "desc_en": "News on bobsleigh, skeleton and luge"
     },
     {
       "id": "n17807717386295pj",
@@ -5862,7 +5955,8 @@
       "name": "TNT bobsleigh",
       "desc": "Boby na Eurosporte (TNT Sports)",
       "url": "https://www.tntsports.co.uk/bobsleigh/",
-      "order": 9
+      "order": 9,
+      "desc_en": "Bobsleigh on Eurosport (TNT Sports)"
     },
     {
       "id": "n1780771817109scr",
@@ -5872,7 +5966,8 @@
       "name": "IBSF",
       "desc": "Oficiálna stránka federácie bobov a skeletonu IBSF",
       "url": "https://www.ibsf.org/en/our-sports/skeleton",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official website of the International Bobsleigh and Skeleton Federation (IBSF)"
     },
     {
       "id": "n17807718530004ck",
@@ -5882,7 +5977,8 @@
       "name": "IBSF results",
       "desc": "Oficiálne výsledky IBSF (boby a skeleton)",
       "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=sn&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official IBSF results (bobsleigh and skeleton)"
     },
     {
       "id": "n1780772014898mef",
@@ -5892,7 +5988,8 @@
       "name": "British skeleton",
       "desc": "Britský zväz bobov a skeletonu",
       "url": "https://www.thebbsa.co.uk/news",
-      "order": 2
+      "order": 2,
+      "desc_en": "British Bobsleigh and Skeleton federation"
     },
     {
       "id": "n17807721331898px",
@@ -5902,7 +5999,8 @@
       "name": "TNT skeleton",
       "desc": "Skeleton na Eurosporte (TNT Sports)",
       "url": "https://www.tntsports.co.uk/skeleton/",
-      "order": 3
+      "order": 3,
+      "desc_en": "Skeleton on Eurosport (TNT Sports)"
     },
     {
       "id": "n1780772320891rde",
@@ -5912,7 +6010,8 @@
       "name": "IBSF results",
       "desc": "Oficiálne výsledky IBSF (boby a skeleton)",
       "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=bs&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
-      "order": 1
+      "order": 1,
+      "desc_en": "Official IBSF results (bobsleigh and skeleton)"
     },
     {
       "id": "n17807725026626cn",
@@ -5922,7 +6021,8 @@
       "name": "FIS freestyle",
       "desc": "Oficiálna stránka FIS pre akrobatické lyžovanie",
       "url": "https://www.fis-ski.com/freestyle",
-      "order": 0
+      "order": 0,
+      "desc_en": "Official FIS website for freestyle skiing"
     },
     {
       "id": "n1780772674625lg5",
@@ -5932,7 +6032,8 @@
       "name": "FIS snowboard alpine",
       "desc": "Oficiálna stránka FIS pre alpský snowboard",
       "url": "https://www.fis-ski.com/snowboard-alpine",
-      "order": 2
+      "order": 2,
+      "desc_en": "Official FIS website for alpine snowboard"
     },
     {
       "id": "n1780772717417ogo",
@@ -5942,7 +6043,8 @@
       "name": "FIS snowboard cross",
       "desc": "Oficiálna stránka FIS pre snowboardcross",
       "url": "https://www.fis-ski.com/snowboard-cross",
-      "order": 3
+      "order": 3,
+      "desc_en": "Official FIS website for snowboard cross"
     },
     {
       "id": "n1780772763021h2x",
@@ -5952,7 +6054,8 @@
       "name": "FIS ski cross",
       "desc": "Oficiálna stránka FIS pre skicross",
       "url": "https://www.fis-ski.com/ski-cross",
-      "order": 4
+      "order": 4,
+      "desc_en": "Official FIS website for ski cross"
     },
     {
       "id": "n1780772814335rmh",
@@ -5962,7 +6065,8 @@
       "name": "FIS snowboard park",
       "desc": "Oficiálna stránka FIS pre snowboard park & pipe",
       "url": "https://www.fis-ski.com/snowboard-park-and-pipe",
-      "order": 4
+      "order": 4,
+      "desc_en": "Official FIS website for snowboard park & pipe"
     },
     {
       "id": "n1780772845959j1y",
@@ -5972,7 +6076,8 @@
       "name": "FIS freeski park",
       "desc": "Oficiálna stránka FIS pre freeski park & pipe",
       "url": "https://www.fis-ski.com/freeski-park-and-pipe",
-      "order": 5
+      "order": 5,
+      "desc_en": "Official FIS website for freeski park & pipe"
     },
     {
       "id": "n1780772965425z8d",
@@ -5982,7 +6087,8 @@
       "name": "Freeride worldtour",
       "desc": "Svetová séria vo freeride lyžovaní a snowboardingu",
       "url": "https://www.freerideworldtour.com/",
-      "order": 6
+      "order": 6,
+      "desc_en": "The world tour series in freeride skiing and snowboarding"
     },
     {
       "id": "n1780773026727joh",
@@ -5992,7 +6098,8 @@
       "name": "Snowleague",
       "desc": "Svetová liga vo freeski a snowboardingu",
       "url": "https://thesnowleague.com/",
-      "order": 7
+      "order": 7,
+      "desc_en": "The world league for freeski and snowboarding"
     },
     {
       "id": "n1780773071245k9d",
@@ -6002,7 +6109,8 @@
       "name": "US ski and snowboard",
       "desc": "Americký lyžiarsky a snowboardový zväz",
       "url": "https://www.usskiandsnowboard.org/",
-      "order": 8
+      "order": 8,
+      "desc_en": "The US ski and snowboard federation"
     },
     {
       "id": "n178077314177538r",
@@ -6012,7 +6120,8 @@
       "name": "Downdays",
       "desc": "Európske freeski spravodajstvo a videá",
       "url": "https://www.downdays.eu/",
-      "order": 9
+      "order": 9,
+      "desc_en": "European freeski news and videos"
     },
     {
       "id": "n1780773346220co9",
@@ -6022,7 +6131,8 @@
       "name": "World snowboarding",
       "desc": "Medzinárodné snowboardové spravodajstvo",
       "url": "https://www.worldsnowboarding.org/",
-      "order": 10
+      "order": 10,
+      "desc_en": "International snowboarding news"
     },
     {
       "id": "n1780831938264fxf",
