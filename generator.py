@@ -46,6 +46,9 @@ LANG = os.environ.get("SITE_LANG", "sk")   # "sk" alebo "en"
 OUT_PREFIX = os.environ.get("OUT_PREFIX", "")
 BASE_URL = os.environ.get("BASE_URL", "").rstrip("/")
 
+# absolútna cesta ku koreňu webu (pre "prevzatie" appky statickou stránkou)
+SITE_ABS_ROOT = "/" + (OUT_PREFIX.strip("/") + "/" if OUT_PREFIX else "")
+
 UI = {
     "sk": {
         "home": "Domov",
@@ -243,11 +246,12 @@ PAGE = """<!DOCTYPE html>
 {desc_html}
 {folders_html}
 {links_html}
-<a class="appbtn" href="{app_href}">{open_app} →</a>
+<a class="appbtn" id="appbtn" style="display:none" href="{app_href}">{open_app} →</a>
+<noscript><style>#appbtn{{display:inline-block!important}}</style></noscript>
 <footer>{site_title} — {footer}</footer>
 </div>
 {dyn_js}
-<script data-goatcounter="https://{goat}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{takeover}
 </body>
 </html>
 """
@@ -255,8 +259,10 @@ PAGE = """<!DOCTYPE html>
 # Dynamický JS: banner + Aktuálne z data.json.
 # __ANC__ = id priečinkov od koreňa po túto stránku (cielenie bannerov),
 # __ROOT__ = relatívna cesta ku koreňu webu, __AKT_LABEL__ = nadpis pásu.
+# POZOR: spúšťa sa LEN ako záloha, ak sa nepodarí prevziať appku (viď TAKEOVER).
+# Pri úspešnom prevzatí si bannery aj Aktuálne vykreslí appka sama.
 DYN_JS = """<script>
-(function(){
+function __dyn(){
   var ANC=__ANC__;
   fetch("__ROOT__data.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
     var today=new Date().toISOString().slice(0,10);
@@ -305,6 +311,41 @@ DYN_JS = """<script>
       }).join("");
     }
   }).catch(function(e){});
+}
+</script>
+
+<!-- PREVZATIE APPKOU: statická stránka (ktorú vidí Google) sa hneď po načítaní
+     nahradí plnou interaktívnou aplikáciou. Adresa v prehliadači sa NEMENÍ,
+     návštevník z Googlu tak skončí rovno v appke bez jediného kliknutia.
+     Ak sa to z akéhokoľvek dôvodu nepodarí, ukáže sa pôvodné tlačidlo
+     a dokreslia sa bannery + Aktuálne tak ako predtým. -->"""
+
+# __ROOT__ = relatívna cesta ku koreňu (odkiaľ sa stiahne appka),
+# __ABS__ = absolútna cesta ku koreňu (appka podľa nej vyrába pekné adresy).
+TAKEOVER = """<script>
+(function(){
+  var btn=document.getElementById("appbtn"), done=false;
+  function fallback(){
+    if(done) return;
+    if(btn) btn.style.display="inline-block";
+    try{ __dyn(); }catch(e){}
+    var s=document.createElement("script");
+    s.async=true; s.src="//gc.zgo.at/count.js";
+    s.setAttribute("data-goatcounter","https://__GOAT__.goatcounter.com/count");
+    document.body.appendChild(s);
+  }
+  try{
+    fetch("__ROOT__index.html").then(function(r){
+      if(!r.ok) throw new Error("app");
+      return r.text();
+    }).then(function(h){
+      var m='let SITE_ROOT = "";';
+      if(h.indexOf(m)<0) throw new Error("marker");
+      h=h.replace(m,'let SITE_ROOT = "__ABS__";');
+      done=true;
+      document.open(); document.write(h); document.close();
+    }).catch(fallback);
+  }catch(e){ fallback(); }
 })();
 </script>"""
 
@@ -389,6 +430,11 @@ def render_page(node, path, children, by_id, paths, site_title):
               .replace("__LANG__", LANG)
               .replace("__AKT_LABEL__", escape(T["aktualne"])))
 
+    takeover = (TAKEOVER
+                .replace("__ROOT__", root)
+                .replace("__ABS__", SITE_ABS_ROOT)
+                .replace("__GOAT__", GOAT))
+
     return PAGE.format(
         lang=LANG,
         title=page_title,
@@ -408,7 +454,7 @@ def render_page(node, path, children, by_id, paths, site_title):
         footer=T["footer"],
         site_title=escape(site_title),
         dyn_js=dyn_js,
-        goat=GOAT,
+        takeover=takeover,
     )
 
 
@@ -519,6 +565,18 @@ def main():
                 html = html.replace("<!--OG_DYNAMIC-->", og_dyn, 1)
             with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
                 f.write(html)
+
+            # 404.html — poistka pre adresy bez vlastnej statickej stránky
+            # (napr. rozostavané prázdne sekcie alebo preklep v adrese).
+            # GitHub Pages ju vráti namiesto chybovej hlášky; je to celá appka,
+            # ktorá si zo skutočnej adresy sama zistí, ktorú sekciu otvoriť.
+            marker = 'let SITE_ROOT = "";'
+            if marker not in html:
+                raise SystemExit(
+                    "CHYBA: v index.html chýba riadok 'let SITE_ROOT = \"\";' — "
+                    "appka nevie, kde je koreň webu. Skontroluj index.html.")
+            with open(os.path.join(out, "404.html"), "w", encoding="utf-8") as f:
+                f.write(html.replace(marker, f'let SITE_ROOT = "{SITE_ABS_ROOT}";'))
         for fname in ("data.json", "og-image.png",
                       "banner-sportlinking-1.png", "banner-sportlinking-2.png"):
             if os.path.exists(fname):
