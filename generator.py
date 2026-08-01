@@ -38,6 +38,7 @@ import sys
 import unicodedata
 from datetime import date
 from html import escape
+from urllib.parse import urlsplit
 
 # ------------------------------------------------------------
 # KONFIGURÁCIA
@@ -46,8 +47,13 @@ LANG = os.environ.get("SITE_LANG", "sk")   # "sk" alebo "en"
 OUT_PREFIX = os.environ.get("OUT_PREFIX", "")
 BASE_URL = os.environ.get("BASE_URL", "").rstrip("/")
 
-# absolútna cesta ku koreňu webu (pre "prevzatie" appky statickou stránkou)
-SITE_ABS_ROOT = "/" + (OUT_PREFIX.strip("/") + "/" if OUT_PREFIX else "")
+# Absolútna cesta ku koreňu webu (podľa nej appka vyrába pekné adresy).
+# POZOR: web nemusí byť v koreni domény! Slovenský beží na www.sportlinky.sk
+# (koreň "/"), anglický na sportlinks226.github.io/sportlinking/ (koreň
+# "/sportlinking/"). Preto sa berie z BASE_URL, ktorú dodá GitHub Actions.
+_base_path = urlsplit(BASE_URL).path.strip("/") if BASE_URL else ""
+_root_parts = [p for p in (_base_path, OUT_PREFIX.strip("/")) if p]
+SITE_ABS_ROOT = "/" + ("/".join(_root_parts) + "/" if _root_parts else "")
 
 UI = {
     "sk": {
@@ -320,8 +326,9 @@ function __dyn(){
      Ak sa to z akéhokoľvek dôvodu nepodarí, ukáže sa pôvodné tlačidlo
      a dokreslia sa bannery + Aktuálne tak ako predtým. -->"""
 
-# __ROOT__ = relatívna cesta ku koreňu (odkiaľ sa stiahne appka),
-# __ABS__ = absolútna cesta ku koreňu (appka podľa nej vyrába pekné adresy).
+# __ROOT__ = relatívna cesta ku koreňu, odkiaľ sa stiahne appka.
+# Koreň webu už má appka zapísaný v sebe (dopĺňa ho main() pri kopírovaní),
+# takže tu ju stačí prevziať tak, ako je.
 TAKEOVER = """<script>
 (function(){
   var btn=document.getElementById("appbtn"), done=false;
@@ -339,9 +346,7 @@ TAKEOVER = """<script>
       if(!r.ok) throw new Error("app");
       return r.text();
     }).then(function(h){
-      var m='let SITE_ROOT = "";';
-      if(h.indexOf(m)<0) throw new Error("marker");
-      h=h.replace(m,'let SITE_ROOT = "__ABS__";');
+      if(h.indexOf("let SITE_ROOT =")<0) throw new Error("marker");
       done=true;
       document.open(); document.write(h); document.close();
     }).catch(fallback);
@@ -432,7 +437,6 @@ def render_page(node, path, children, by_id, paths, site_title):
 
     takeover = (TAKEOVER
                 .replace("__ROOT__", root)
-                .replace("__ABS__", SITE_ABS_ROOT)
                 .replace("__GOAT__", GOAT))
 
     return PAGE.format(
@@ -563,20 +567,26 @@ def main():
                 og_dyn = (f'<meta property="og:url" content="{BASE_URL}/"/>\n'
                           f'<meta property="og:image" content="{BASE_URL}/og-image.png"/>')
                 html = html.replace("<!--OG_DYNAMIC-->", og_dyn, 1)
-            with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
-                f.write(html)
-
-            # 404.html — poistka pre adresy bez vlastnej statickej stránky
-            # (napr. rozostavané prázdne sekcie alebo preklep v adrese).
-            # GitHub Pages ju vráti namiesto chybovej hlášky; je to celá appka,
-            # ktorá si zo skutočnej adresy sama zistí, ktorú sekciu otvoriť.
+            # Appke povedz, kde je koreň webu — podľa neho vyrába pekné adresy.
+            # Bez toho by web v podpriečinku (anglická verzia na
+            # sportlinks226.github.io/sportlinking/) vyrábal adresy od koreňa
+            # domény a odkazy by nikam neviedli.
             marker = 'let SITE_ROOT = "";'
             if marker not in html:
                 raise SystemExit(
                     "CHYBA: v index.html chýba riadok 'let SITE_ROOT = \"\";' — "
                     "appka nevie, kde je koreň webu. Skontroluj index.html.")
+            html = html.replace(marker, f'let SITE_ROOT = "{SITE_ABS_ROOT}";')
+
+            with open(os.path.join(out, "index.html"), "w", encoding="utf-8") as f:
+                f.write(html)
+
+            # 404.html — poistka pre adresy bez vlastnej statickej stránky
+            # (napr. rozostavané prázdne sekcie alebo preklep v adrese).
+            # GitHub Pages ju vráti namiesto chybovej hlášky; je to tá istá
+            # appka, ktorá si zo skutočnej adresy zistí, ktorú sekciu otvoriť.
             with open(os.path.join(out, "404.html"), "w", encoding="utf-8") as f:
-                f.write(html.replace(marker, f'let SITE_ROOT = "{SITE_ABS_ROOT}";'))
+                f.write(html)
         for fname in ("data.json", "og-image.png",
                       "banner-sportlinking-1.png", "banner-sportlinking-2.png"):
             if os.path.exists(fname):
