@@ -1,23 +1,23 @@
 {
-  "version": 80,
+  "version": 81,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
     {
-      "id": "a1785146467190",
-      "icon": "🥇",
-      "name": "FISU America games",
-      "url": "https://hayllisports.com/es/events/7-iv-fisu-america-games-lima-2026",
-      "endsAt": "2026-08-02",
-      "addedAt": 1785146467190
+      "id": "a1785783511339",
+      "icon": "🏒",
+      "name": "Hlinka Gretzky cup",
+      "url": "https://www.hlinkagretzkycup.ca/en-ca",
+      "endsAt": "2026-08-09",
+      "addedAt": 1785783511339
     },
     {
       "id": "a1784634574866",
       "icon": "⚽",
       "name": "Liga Majstrov",
       "url": "https://www.uefa.com/uefachampionsleague/",
-      "endsAt": "2026-07-30",
+      "endsAt": "2026-08-06",
       "addedAt": 1784634574866,
       "name_en": "Champions league"
     },
@@ -26,7 +26,7 @@
       "icon": "⚽",
       "name": "Európska liga",
       "url": "https://www.uefa.com/uefaeuropaleague/",
-      "endsAt": "2026-07-30",
+      "endsAt": "2026-08-06",
       "addedAt": 1784634663367,
       "name_en": "European league"
     },
@@ -35,13 +35,13 @@
       "icon": "⚽",
       "name": "Konferenčná liga",
       "url": "https://www.uefa.com/uefaconferenceleague/",
-      "endsAt": "2026-07-30",
+      "endsAt": "2026-08-06",
       "addedAt": 1784634702063,
       "name_en": "Conference league"
     },
     {
       "id": "a1784538636873",
-      "icon": "🏸",
+      "icon": "🎾",
       "name": "ATP scores",
       "url": "https://www.atptour.com/en/scores/current",
       "endsAt": "",
@@ -57,69 +57,46 @@
     },
     {
       "id": "a1783874131538",
-      "icon": "🏸",
-      "name": "ATP Washington",
-      "url": "https://www.mubadaladcopen.com/en",
-      "endsAt": "2026-08-02",
+      "icon": "",
+      "name": "ATP Montreal",
+      "url": "https://nationalbankopen.com/",
+      "endsAt": "2026-08-09",
       "addedAt": 1783874131538
-    },
-    {
-      "id": "a1784539283085",
-      "icon": "🏸",
-      "name": "ATP Los Cabos",
-      "url": "https://loscabostennisopen.com/en/home/",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784539283085
     },
     {
       "id": "a1783874074020",
       "icon": "🎾",
-      "name": "WTA  Washington",
-      "url": "https://www.mubadaladcopen.com/en",
-      "endsAt": "2026-08-02",
+      "name": "WTA  Toronto",
+      "url": "https://www.wtatennis.com/tournaments/canadian-open",
+      "endsAt": "2026-08-09",
       "addedAt": 1783874074020
     },
     {
       "id": "a1784539405181",
       "icon": "🎾",
-      "name": "WTA Targu Mures",
-      "url": "https://www.wtatennis.com/tournaments/1163/targu-mures-125/2026",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784539405181
-    },
-    {
-      "id": "a1784539509754",
-      "icon": "🎾",
-      "name": "WTA Memphis",
-      "url": "https://www.memphisclassic.com/",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784539509754
-    },
-    {
-      "id": "a1785146518456",
-      "icon": "🎾",
-      "name": "WTA Vancouver",
-      "url": "https://vanopen.com/",
-      "endsAt": "2026-08-02",
-      "addedAt": 1785146518456
+      "name": "WTA Varšava",
+      "url": "https://wtapolishopen.pl/",
+      "endsAt": "2026-08-09",
+      "addedAt": 1784539405181,
+      "name_en": "WTA Warsaw"
     },
     {
       "id": "a1784188884337",
       "icon": "🏀",
-      "name": "ME Basketbal U18 div.A",
-      "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026",
-      "endsAt": "2026-08-02",
+      "name": "ME Basketbal U18 div.A ženy",
+      "url": "https://www.fiba.basketball/en/events/fiba-u18-womens-eurobasket-2026",
+      "endsAt": "2026-08-09",
       "addedAt": 1784188884337,
-      "name_en": "ECH Basketball U18 div.A"
+      "name_en": "ECH Basketball U18 div.A women"
     },
     {
       "id": "a1784188919546",
       "icon": "🏀",
-      "name": "ME Basketbal U18 div.B",
-      "url": "https://www.fiba.basketball/en/events/fiba-u18-eurobasket-2026-division-b",
-      "endsAt": "2026-08-02",
+      "name": "ME Basketbal U18 div.B ženy",
+      "url": "https://www.fiba.basketball/en/events/fiba-u18-womens-eurobasket-2026-division-b",
+      "endsAt": "2026-08-09",
       "addedAt": 1784188919546,
-      "name_en": "ECH Basketball U18 div.B"
+      "name_en": "ECH Basketball U18 div.B women"
     },
     {
       "id": "a1784541154016",
@@ -146,31 +123,6 @@
       "addedAt": 1784581601256
     },
     {
-      "id": "a1784199946756",
-      "icon": "🏸",
-      "name": "Badminton Taipei open",
-      "url": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/2026-07-28",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784199946756
-    },
-    {
-      "id": "a1784187416215",
-      "icon": "⛳",
-      "name": "Rocket Classic",
-      "url": "https://www.rocketclassic.com/",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784187416215
-    },
-    {
-      "id": "a1784540386811",
-      "icon": "🤺",
-      "name": "MS v šerme",
-      "url": "https://fie.org/tournaments/2026/86",
-      "endsAt": "2026-07-30",
-      "addedAt": 1784540386811,
-      "name_en": "Fencing WCH"
-    },
-    {
       "id": "a1785147664719",
       "icon": "🏓",
       "name": "TT Star series",
@@ -179,21 +131,38 @@
       "addedAt": 1785147664719
     },
     {
-      "id": "a1785148099926",
-      "icon": "🏐",
-      "name": "Volejbal Liga národov",
-      "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/schedule/#fromDate=2026-07-27",
-      "endsAt": "2026-08-02",
-      "addedAt": 1785148099926,
-      "name_en": "Volleyball Nations league"
+      "id": "a1785782716524",
+      "icon": "🏸",
+      "name": "Badminton Korea Masters",
+      "url": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/draws/",
+      "endsAt": "2026-08-09",
+      "addedAt": 1785782716524
     },
     {
-      "id": "a1785314541247",
-      "icon": "🥇",
-      "name": "Commomwealth games",
-      "url": "https://www.glasgow2026.com/",
-      "endsAt": "2026-08-02",
-      "addedAt": 1785314541247
+      "id": "a1785782973285",
+      "icon": "⛳",
+      "name": "PGA Wyndham Champ.",
+      "url": "https://www.wyndhamchampionship.com/",
+      "endsAt": "2026-08-09",
+      "addedAt": 1785782973285
+    },
+    {
+      "id": "a1785783662560",
+      "icon": "🚴",
+      "name": "Tour de France ženy",
+      "url": "https://www.letourfemmes.fr/en",
+      "endsAt": "2026-08-09",
+      "addedAt": 1785783662560,
+      "name_en": "Tour de France women"
+    },
+    {
+      "id": "a1785784059939",
+      "icon": "🏐",
+      "name": "Plážový volejbal Hamburg",
+      "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/2026/elite16/hamburg-ger/",
+      "endsAt": "2026-08-09",
+      "addedAt": 1785784059939,
+      "name_en": "Beach volleyball Hamburg"
     }
   ],
   "banners": [
