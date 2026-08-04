@@ -537,11 +537,11 @@
    "type": "folder",
    "icon": "⛷️",
    "name": "Alpské lyžovanie",
-   "desc": "Zjazdové lyžovanie — FIS Svetový pohár, výsledky, kalendár a zväzy",
+   "desc": "Zjazdové lyžovanie: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, archívna databáza a spravodajstvo z lyžiarskych krajín.",
    "order": 0,
    "slug": "alpske-lyzovanie",
    "name_en": "Alpine Skiing",
-   "desc_en": "Alpine skiing — FIS World Cup, results, calendar and federations",
+   "desc_en": "Alpine skiing: live results and calendar for the FIS World Cup, current standings, a results archive and news from top skiing nations.",
    "slug_en": "alpine-skiing"
   },
   {
@@ -550,11 +550,11 @@
    "type": "folder",
    "icon": "🎿",
    "name": "Beh na lyžiach",
-   "desc": "Bežecké lyžovanie — FIS Svetový pohár, výsledky a diaľkové preteky",
+   "desc": "Beh na lyžiach: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, maratónsky seriál Worldloppet a spravodajstvo z lyžiarskych krajín.",
    "order": 1,
    "slug": "beh-na-lyziach",
    "name_en": "Cross-Country Skiing",
-   "desc_en": "Cross-country skiing — FIS World Cup, results and long-distance races",
+   "desc_en": "Cross-country skiing: live results and calendar for the FIS World Cup, current standings, the Worldloppet marathon series and news from top nations.",
    "slug_en": "cross-country-skiing"
   },
   {
@@ -563,11 +563,11 @@
    "type": "folder",
    "icon": "⛷️",
    "name": "Skoky na lyžiach",
-   "desc": "Skoky na lyžiach — FIS Svetový pohár, výsledky, štatistiky a mostíky",
+   "desc": "Skoky na lyžiach: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, databáza mostíkov a spravodajstvo z lyžiarskych krajín.",
    "order": 2,
    "slug": "skoky-na-lyziach",
    "name_en": "Ski Jumping",
-   "desc_en": "Ski jumping — FIS World Cup, results, statistics and hills",
+   "desc_en": "Ski jumping: live results and calendar for the FIS World Cup, current standings, a hill database and news from top ski jumping nations.",
    "slug_en": "ski-jumping"
   },
   {
@@ -576,11 +576,11 @@
    "type": "folder",
    "icon": "🎯",
    "name": "Biatlon",
-   "desc": "Biatlon — IBU Svetový pohár, výsledky, štatistiky a spravodajstvo",
+   "desc": "Biatlon: live výsledky a štatistiky IBU, archívna databáza pretekov, spravodajstvo zo sveta biatlonu a slovenský zväz biatlonu.",
    "order": 3,
    "slug": "biatlon",
    "name_en": "Biathlon",
-   "desc_en": "Biathlon — IBU World Cup, results, statistics and news",
+   "desc_en": "Biathlon: live results and statistics from the IBU, a results archive, news from the biathlon world and the Slovak biathlon federation.",
    "slug_en": "biathlon"
   },
   {
@@ -589,11 +589,11 @@
    "type": "folder",
    "icon": "⛸️",
    "name": "Krasokorčuľovanie",
-   "desc": "Krasokorčuľovanie — súťaže ISU, výsledky a hodnotenia",
+   "desc": "Krasokorčuľovanie: kalendár podujatí ISU, výsledky súťaží, databáza bodovania a medzinárodné spravodajstvo z krasokorčuľovania.",
    "order": 4,
    "slug": "krasokorculovanie",
    "name_en": "Figure Skating",
-   "desc_en": "Figure skating — ISU competitions, results and scores",
+   "desc_en": "Figure skating: the ISU events calendar, competition results, a scoring database and international figure skating news.",
    "slug_en": "figure-skating"
   },
   {
@@ -602,11 +602,11 @@
    "type": "folder",
    "icon": "⛸️",
    "name": "Rýchlokorčuľovanie",
-   "desc": "Rýchlokorčuľovanie a short track — Svetový pohár ISU a výsledky",
+   "desc": "Rýchlokorčuľovanie a short track: live výsledky ISU aj short tracku, archívna databáza výsledkov a medzinárodné spravodajstvo.",
    "order": 5,
    "slug": "rychlokorculovanie",
    "name_en": "Speed Skating",
-   "desc_en": "Speed skating and short track — ISU World Cup and results",
+   "desc_en": "Speed skating and short track: live results from the ISU and short track, a results archive and international speed skating news.",
    "slug_en": "speed-skating"
   },
   {
@@ -615,10 +615,10 @@
    "type": "folder",
    "icon": "🥌",
    "name": "Curling",
-   "desc": "Curling — World Curling, výsledky, rebríčky a národné zväzy",
+   "desc": "Curling: live výsledky a archív World Curling, profesionálny seriál Grand Slam of Curling a medzinárodné curlingové spravodajstvo.",
    "order": 6,
    "slug": "curling",
-   "desc_en": "Curling — World Curling, results, rankings and national federations",
+   "desc_en": "Curling: live results and an archive from World Curling, the professional Grand Slam of Curling series and international curling news.",
    "slug_en": "curling"
   },
   {
@@ -627,11 +627,11 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Sánkovanie",
-   "desc": "Sánkovanie (luge) — FIL Svetový pohár, výsledky a zväzy",
+   "desc": "Sánkovanie: live výsledky Svetového pohára FIL, národné sánkarske zväzy a medzinárodné spravodajstvo o sánkovaní.",
    "order": 7,
    "slug": "sankovanie",
    "name_en": "Luge",
-   "desc_en": "Luge — FIL World Cup, results and federations",
+   "desc_en": "Luge: live World Cup results from the FIL, national luge federations and international luge news.",
    "slug_en": "luge"
   },
   {
@@ -640,11 +640,11 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Bob",
-   "desc": "Boby — IBSF Svetový pohár, výsledky a národné zväzy",
+   "desc": "Boby: live výsledky IBSF, oficiálne video IBSF TV, národné zväzy, spravodajstvo a vysielanie na Eurosporte.",
    "order": 8,
    "slug": "bob",
    "name_en": "Bobsleigh",
-   "desc_en": "Bobsleigh — IBSF World Cup, results and national federations",
+   "desc_en": "Bobsleigh: live results from the IBSF, official IBSF TV video, national federations, news and Eurosport coverage.",
    "slug_en": "bobsleigh"
   },
   {
@@ -653,10 +653,10 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Skeleton",
-   "desc": "Skeleton — IBSF Svetový pohár, výsledky a spravodajstvo",
+   "desc": "Skeleton: live výsledky IBSF, britský zväz bobov a skeletonu a vysielanie zo skeletonu na Eurosporte.",
    "order": 9,
    "slug": "skeleton",
-   "desc_en": "Skeleton — IBSF World Cup, results and news",
+   "desc_en": "Skeleton: live results from the IBSF, the British bobsleigh and skeleton federation and skeleton coverage on Eurosport.",
    "slug_en": "skeleton"
   },
   {
@@ -665,11 +665,11 @@
    "type": "folder",
    "icon": "🏂",
    "name": "Freestyle a Snowboard",
-   "desc": "Freestyle lyžovanie a snowboarding — FIS súťaže a svetové série",
+   "desc": "Freestyle a snowboard: live výsledky FIS pre všetky disciplíny, svetové série Freeride World Tour a Snowleague a spravodajstvo z voľného štýlu.",
    "order": 10,
    "slug": "freestyle-a-snowboard",
    "name_en": "Freestyle & Snowboard",
-   "desc_en": "Freestyle skiing and snowboarding — FIS competitions and world series",
+   "desc_en": "Freestyle and snowboard: live FIS results across all disciplines, the Freeride World Tour and Snowleague series and freestyle/snowboard news.",
    "slug_en": "freestyle-snowboard"
   },
   {
@@ -4981,10 +4981,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS kalendár a results",
-   "desc": "Oficiálny kalendár a výsledky Svetového pohára v zjazde",
+   "desc": "Live výsledky a kalendár Svetového pohára v zjazdovom lyžovaní",
    "url": "https://www.fis-ski.com/DB/alpine-skiing/calendar-results.html?noselection=true&mi=menu-calendar",
    "order": 1,
-   "desc_en": "Official World Cup alpine skiing calendar and results",
+   "desc_en": "Live results and calendar for the alpine skiing World Cup",
    "name_en": "FIS Calendar and Results"
   },
   {
@@ -5160,10 +5160,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS kalendár a results",
-   "desc": "Oficiálny kalendár a výsledky Svetového pohára v behu",
+   "desc": "Live výsledky a kalendár Svetového pohára v behu na lyžiach",
    "url": "https://www.fis-ski.com/DB/cross-country/calendar-results.html?noselection=true&mi=menu-calendar",
    "order": 1,
-   "desc_en": "Official World Cup cross-country skiing calendar and results",
+   "desc_en": "Live results and calendar for the cross-country skiing World Cup",
    "name_en": "FIS Calendar and Results"
   },
   {
@@ -5294,10 +5294,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS kalendár a results",
-   "desc": "Oficiálny kalendár a výsledky Svetového pohára v skokoch",
+   "desc": "Live výsledky a kalendár Svetového pohára v skokoch na lyžiach",
    "url": "https://www.fis-ski.com/DB/ski-jumping/calendar-results.html?noselection=true&mi=menu-calendar",
    "order": 1,
-   "desc_en": "Official World Cup ski jumping calendar and results",
+   "desc_en": "Live results and calendar for the ski jumping World Cup",
    "name_en": "FIS Calendar and Results"
   },
   {
@@ -5405,10 +5405,10 @@
    "type": "link",
    "icon": "",
    "name": "Biathlonresults",
-   "desc": "Oficiálne výsledky a štatistiky biatlonu IBU",
+   "desc": "Live výsledky a štatistiky biatlonu IBU",
    "url": "https://ebu.biathlonresults.com/#/start",
    "order": 1,
-   "desc_en": "Official IBU biathlon results and statistics"
+   "desc_en": "Live results and statistics for IBU biathlon"
   },
   {
    "id": "n17807652604937hv",
@@ -5559,10 +5559,10 @@
    "type": "link",
    "icon": "",
    "name": "ISU results",
-   "desc": "Oficiálne živé výsledky ISU",
+   "desc": "Live výsledky ISU v rýchlokorčuľovaní",
    "url": "https://live.isuresults.eu/home",
    "order": 1,
-   "desc_en": "Official live ISU results"
+   "desc_en": "Live results from ISU speed skating"
   },
   {
    "id": "n17807665600832xs",
@@ -5592,7 +5592,7 @@
    "type": "link",
    "icon": "",
    "name": "Shorttracklive",
-   "desc": "Živé výsledky short tracku",
+   "desc": "Live výsledky short tracku",
    "url": "https://shorttracklive.info/",
    "order": 4,
    "desc_en": "Live short track speed skating results"
@@ -5680,10 +5680,10 @@
    "type": "link",
    "icon": "",
    "name": "Curling database",
-   "desc": "Oficiálna databáza výsledkov World Curling",
+   "desc": "Live výsledky a archív výsledkov World Curling",
    "url": "https://results.worldcurling.org/",
    "order": 2,
-   "desc_en": "The official World Curling results database"
+   "desc_en": "Live results and results archive from World Curling"
   },
   {
    "id": "n17807679658156nc",
@@ -5768,10 +5768,10 @@
    "type": "link",
    "icon": "",
    "name": "FIL results",
-   "desc": "Oficiálne výsledky Svetového pohára v sánkovaní",
+   "desc": "Live výsledky Svetového pohára v sánkovaní",
    "url": "https://www.fil-luge.org/en/results",
    "order": 1,
-   "desc_en": "Official World Cup luge results"
+   "desc_en": "Live results for the luge World Cup"
   },
   {
    "id": "n1780770867663qad",
@@ -5944,10 +5944,10 @@
    "type": "link",
    "icon": "",
    "name": "IBSF results",
-   "desc": "Oficiálne výsledky IBSF (boby a skeleton)",
+   "desc": "Live výsledky IBSF (boby a skeleton)",
    "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=sn&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
    "order": 1,
-   "desc_en": "Official IBSF results (bobsleigh and skeleton)"
+   "desc_en": "Live results from IBSF (bobsleigh and skeleton)"
   },
   {
    "id": "n1780772014898mef",
@@ -5977,10 +5977,10 @@
    "type": "link",
    "icon": "",
    "name": "IBSF results",
-   "desc": "Oficiálne výsledky IBSF (boby a skeleton)",
+   "desc": "Live výsledky IBSF (boby a skeleton)",
    "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=bs&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
    "order": 1,
-   "desc_en": "Official IBSF results (bobsleigh and skeleton)"
+   "desc_en": "Live results from IBSF (bobsleigh and skeleton)"
   },
   {
    "id": "n17807725026626cn",
@@ -5988,10 +5988,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS freestyle",
-   "desc": "Oficiálna stránka FIS pre akrobatické lyžovanie",
+   "desc": "Live výsledky a súťaže FIS v akrobatickom lyžovaní",
    "url": "https://www.fis-ski.com/freestyle",
    "order": 0,
-   "desc_en": "Official FIS website for freestyle skiing"
+   "desc_en": "Live results and events for FIS freestyle skiing"
   },
   {
    "id": "n1780772674625lg5",
@@ -5999,10 +5999,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS snowboard alpine",
-   "desc": "Oficiálna stránka FIS pre alpský snowboard",
+   "desc": "Live výsledky a súťaže FIS v alpskom snowboarde",
    "url": "https://www.fis-ski.com/snowboard-alpine",
    "order": 2,
-   "desc_en": "Official FIS website for alpine snowboard"
+   "desc_en": "Live results and events for FIS alpine snowboard"
   },
   {
    "id": "n1780772717417ogo",
@@ -6010,10 +6010,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS snowboard cross",
-   "desc": "Oficiálna stránka FIS pre snowboardcross",
+   "desc": "Live výsledky a súťaže FIS v snowboardcrosse",
    "url": "https://www.fis-ski.com/snowboard-cross",
    "order": 3,
-   "desc_en": "Official FIS website for snowboard cross"
+   "desc_en": "Live results and events for FIS snowboard cross"
   },
   {
    "id": "n1780772763021h2x",
@@ -6021,10 +6021,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS ski cross",
-   "desc": "Oficiálna stránka FIS pre skicross",
+   "desc": "Live výsledky a súťaže FIS v skicrosse",
    "url": "https://www.fis-ski.com/ski-cross",
    "order": 4,
-   "desc_en": "Official FIS website for ski cross"
+   "desc_en": "Live results and events for FIS ski cross"
   },
   {
    "id": "n1780772814335rmh",
@@ -6032,10 +6032,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS snowboard park",
-   "desc": "Oficiálna stránka FIS pre snowboard park & pipe",
+   "desc": "Live výsledky a súťaže FIS v snowboard park & pipe",
    "url": "https://www.fis-ski.com/snowboard-park-and-pipe",
    "order": 4,
-   "desc_en": "Official FIS website for snowboard park & pipe"
+   "desc_en": "Live results and events for FIS snowboard park & pipe"
   },
   {
    "id": "n1780772845959j1y",
@@ -6043,10 +6043,10 @@
    "type": "link",
    "icon": "",
    "name": "FIS freeski park",
-   "desc": "Oficiálna stránka FIS pre freeski park & pipe",
+   "desc": "Live výsledky a súťaže FIS vo freeski park & pipe",
    "url": "https://www.fis-ski.com/freeski-park-and-pipe",
    "order": 5,
-   "desc_en": "Official FIS website for freeski park & pipe"
+   "desc_en": "Live results and events for FIS freeski park & pipe"
   },
   {
    "id": "n1780772965425z8d",
