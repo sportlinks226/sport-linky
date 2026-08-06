@@ -1,5 +1,5 @@
 {
-  "version": 85,
+  "version": 86,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -691,11 +691,11 @@
       "type": "folder",
       "icon": "🏃",
       "name": "Atletika",
-      "desc": "Svetová aj domáca atletika — federácie, výsledky, štatistiky a mítingy",
+      "desc": "Atletika: live timing a výsledky súťaží World Athletics, kalendár, štatistická zóna s rekordmi, Diamantová liga, maratónske majors a atletické zväzy.",
       "order": 0,
       "slug": "atletika",
       "name_en": "Athletics",
-      "desc_en": "World and domestic athletics — federations, results, statistics and meetings",
+      "desc_en": "Athletics: live timing and results from World Athletics, the calendar, the stats zone with records, the Diamond League, marathon majors and federations.",
       "slug_en": "athletics"
     },
     {
@@ -704,10 +704,10 @@
       "type": "folder",
       "icon": "🏸",
       "name": "Badminton",
-      "desc": "Svetový badminton — BWF, kontinentálne a národné federácie",
+      "desc": "Badminton: live score turnajov na Tournament Software, kalendár a svetové rebríčky BWF, seriál World Tour, prenosy BWF TV a národné federácie.",
       "order": 1,
       "slug": "badminton",
-      "desc_en": "World badminton — BWF, continental and national federations",
+      "desc_en": "Badminton: live tournament scores on Tournament Software, the BWF calendar and world rankings, the World Tour, BWF TV streams and federations.",
       "slug_en": "badminton"
     },
     {
@@ -716,11 +716,11 @@
       "type": "folder",
       "icon": "🚴",
       "name": "Cyklistika",
-      "desc": "Cestná cyklistika, cyklokros a MTB — preteky, výsledky a správy",
+      "desc": "Cyklistika: live timing pretekov na ProCyclingStats a FirstCycling, štartové listiny, kalendár UCI, Tour de France, Giro, Vuelta, cyklokros a MTB.",
       "order": 2,
       "slug": "cyklistika",
       "name_en": "Cycling",
-      "desc_en": "Road cycling, cyclo-cross and MTB — races, results and news",
+      "desc_en": "Cycling: live race tracking on ProCyclingStats and FirstCycling, start lists, the UCI calendar, the Tour, Giro, Vuelta, cyclo-cross and MTB.",
       "slug_en": "cycling"
     },
     {
@@ -729,10 +729,10 @@
       "type": "folder",
       "icon": "⚽",
       "name": "Futsal",
-      "desc": "Svetový a európsky futsal — federácie, súťaže a národné ligy",
+      "desc": "Futsal: live score zápasov na weboch FIFA a UEFA, ázijský aj juhoamerický futsal, prenosy Futsalzone TV a najvyššie ligy vrátane slovenskej a českej.",
       "order": 3,
       "slug": "futsal",
-      "desc_en": "World and European futsal — federations, competitions and national leagues",
+      "desc_en": "Futsal: live scores on the FIFA and UEFA sites, Asian and South American futsal, Futsalzone TV streams and top leagues including Slovakia and Czechia.",
       "slug_en": "futsal"
     },
     {
@@ -741,10 +741,10 @@
       "type": "folder",
       "icon": "⛳",
       "name": "Golf",
-      "desc": "Profesionálny golf — túry, majory, rebríčky a golfové médiá",
+      "desc": "Golf: live leaderboardy PGA Tour, LPGA, DP World Tour a LIV, všetky štyri majory, Ryder Cup, svetový rebríček OWGR, štatistiky a golfové magazíny.",
       "order": 4,
       "slug": "golf",
-      "desc_en": "Professional golf — tours, majors, rankings and golf media",
+      "desc_en": "Golf: live leaderboards from the PGA Tour, LPGA, DP World Tour and LIV, all four majors, the Ryder Cup, the OWGR ranking, stats and golf magazines.",
       "slug_en": "golf"
     },
     {
@@ -753,11 +753,11 @@
       "type": "folder",
       "icon": "🥊",
       "name": "Box",
-      "desc": "Profesionálny aj amatérsky box — organizácie, rebríčky a spravodajstvo",
+      "desc": "Box: organizácie WBC, WBA, IBF a WBO s rebríčkami, databáza zápasov BoxRec, termíny galavečerov, štatistiky úderov CompuBox a boxerské spravodajstvo.",
       "order": 5,
       "slug": "box",
       "name_en": "Boxing",
-      "desc_en": "Professional and amateur boxing — organisations, rankings and news",
+      "desc_en": "Boxing: the WBC, WBA, IBF and WBO with rankings, the BoxRec fight database, fight schedules, CompuBox punch stats and boxing news worldwide.",
       "slug_en": "boxing"
     },
     {
@@ -766,10 +766,10 @@
       "type": "folder",
       "icon": "🥋",
       "name": "MMA",
-      "desc": "MMA organizácie od UFC po domácu scénu, štatistiky a správy",
+      "desc": "MMA: live score galavečerov na Tapology a Sherdogu, UFC, PFL a ONE aj domáce organizácie Oktagon, RFA a Fabriq, rebríčky a MMA spravodajstvo.",
       "order": 6,
       "slug": "mma",
-      "desc_en": "MMA organisations from the UFC to the local scene, statistics and news",
+      "desc_en": "MMA: live event scoring on Tapology and Sherdog, the UFC, PFL and ONE plus local promotions Oktagon, RFA and Fabriq, rankings and MMA news.",
       "slug_en": "mma"
     },
     {
@@ -778,11 +778,11 @@
       "type": "folder",
       "icon": "🏓",
       "name": "Stolný tenis",
-      "desc": "Svetový stolný tenis — ITTF, profesionálne série a spravodajstvo",
+      "desc": "Stolný tenis: live score turnajov série WTT a ukrajinskej TT Cup, federácie ITTF, ETTU a ATTU, japonská T.League, séria TT Star a nemecké správy.",
       "order": 7,
       "slug": "stolny-tenis",
       "name_en": "Table Tennis",
-      "desc_en": "World table tennis — ITTF, professional series and news",
+      "desc_en": "Table tennis: live scores from the WTT series and Ukraine's TT Cup, the ITTF, ETTU and ATTU, Japan's T.League, the TT Star series and German news.",
       "slug_en": "table-tennis"
     },
     {
@@ -791,11 +791,11 @@
       "type": "folder",
       "icon": "🏊",
       "name": "Plávanie",
-      "desc": "Plavecké federácie, výsledky, rebríčky a správy",
+      "desc": "Plávanie: live timing a prenosy World Aquatics, európska federácia, skoky do vody, databáza rekordov Swimrankings, rebríčky Swimcloud a správy SwimSwam.",
       "order": 8,
       "slug": "plavanie",
       "name_en": "Swimming",
-      "desc_en": "Swimming federations, results, rankings and news",
+      "desc_en": "Swimming: World Aquatics live timing and streams, the European federation, diving, the Swimrankings record database, Swimcloud rankings and SwimSwam.",
       "slug_en": "swimming"
     },
     {
@@ -804,11 +804,11 @@
       "type": "folder",
       "icon": "🤽",
       "name": "Vodné pólo",
-      "desc": "Vodné pólo — svetové a európske súťaže aj národné federácie",
+      "desc": "Vodné pólo: live score Ligy majstrov a súťaží World Aquatics, Svetový pohár 2026 v Sydney, databáza WPD a federácie vrátane slovenskej.",
       "order": 9,
       "slug": "vodne-polo",
       "name_en": "Water Polo",
-      "desc_en": "Water polo — world and European competitions and national federations",
+      "desc_en": "Water polo: live scores from the Champions League and World Aquatics events, the 2026 World Cup in Sydney, the WPD database and federations.",
       "slug_en": "water-polo"
     },
     {
@@ -817,11 +817,11 @@
       "type": "folder",
       "icon": "🏈",
       "name": "Americký futbal",
-      "desc": "NFL, univerzitný futbal, európske ligy a štatistiky",
+      "desc": "Americký futbal: live score NFL a univerzitnej NCAA na ESPN, európske ligy ELF, CEFL a GFL, historické štatistiky PFR a hodnotenia hráčov PFF.",
       "order": 10,
       "slug": "americky-futbal",
       "name_en": "American Football",
-      "desc_en": "NFL, college football, European leagues and statistics",
+      "desc_en": "American football: live NFL and college NCAA scores on ESPN, the ELF, CEFL and GFL in Europe, Pro Football Reference history and PFF grades.",
       "slug_en": "american-football"
     },
     {
@@ -830,10 +830,10 @@
       "type": "folder",
       "icon": "🏉",
       "name": "Rugby",
-      "desc": "Rugby union aj league — súťaže, federácie a médiá",
+      "desc": "Rugby: live score zápasov na RugbyPass a Ultimate Rugby, Six Nations, Super Rugby, Top 14, Premiership, URC a NRL, databázy hráčov a spravodajstvo.",
       "order": 11,
       "slug": "rugby",
-      "desc_en": "Rugby union and league — competitions, federations and media",
+      "desc_en": "Rugby: live scores on RugbyPass and Ultimate Rugby, the Six Nations, Super Rugby, Top 14, Premiership, URC and NRL, player databases and news.",
       "slug_en": "rugby"
     },
     {
@@ -842,10 +842,10 @@
       "type": "folder",
       "icon": "🎾",
       "name": "Squash",
-      "desc": "Profesionálny squash — PSA tour, turnaje a federácie",
+      "desc": "Squash: live score turnajov PSA World Tour a prenosy SquashTV, rebríčky a výsledky na SquashInfo, British Open, US Open a ďalšie veľké turnaje.",
       "order": 12,
       "slug": "squash",
-      "desc_en": "Professional squash — PSA tour, tournaments and federations",
+      "desc_en": "Squash: live PSA World Tour scores and SquashTV streams, rankings and results on SquashInfo, the British Open, US Open and other major events.",
       "slug_en": "squash"
     },
     {
@@ -854,11 +854,11 @@
       "type": "folder",
       "icon": "🏒",
       "name": "Florbal",
-      "desc": "Florbalové federácie, ligy a turnaje — Škandinávia aj domáca scéna",
+      "desc": "Florbal: live score švédskej SSL a fínskej F-liigy, medzinárodná federácia IFF, slovenský a český zväz, škandinávske magazíny a turnaje ako Czech Open.",
       "order": 13,
       "slug": "florbal",
       "name_en": "Floorball",
-      "desc_en": "Floorball federations, leagues and tournaments — Scandinavia and the domestic scene",
+      "desc_en": "Floorball: live scores from Sweden's SSL and Finland's F-liiga, the IFF, the Slovak and Czech federations, Nordic magazines and the Czech Open.",
       "slug_en": "floorball"
     },
     {
@@ -867,11 +867,11 @@
       "type": "folder",
       "icon": "⚽",
       "name": "Plážový futbal",
-      "desc": "Plážový futbal — svetové súťaže a národné federácie",
+      "desc": "Plážový futbal: live score Beach Soccer Worldwide, Euro Winners Cup a európska liga, prenosy zápasov, databáza ZeroZero a národné federácie.",
       "order": 14,
       "slug": "plazovy-futbal",
       "name_en": "Beach Soccer",
-      "desc_en": "Beach soccer — world competitions and national federations",
+      "desc_en": "Beach soccer: Beach Soccer Worldwide live scores, the Euro Winners Cup and Euro Beach Soccer League, streams, the ZeroZero database and federations.",
       "slug_en": "beach-soccer"
     },
     {
@@ -880,11 +880,11 @@
       "type": "folder",
       "icon": "🎯",
       "name": "Šípky",
-      "desc": "Šípky — PDC, WDF, turnaje, rebríčky a spravodajstvo",
+      "desc": "Šípky: live score turnajov na Live-Darts a DartConnect, turnaje PDC vrátane MS a Premier League, rebríček Order of Merit, štatistiky a správy.",
       "order": 16,
       "slug": "sipky",
       "name_en": "Darts",
-      "desc_en": "Darts — PDC, WDF, tournaments, rankings and news",
+      "desc_en": "Darts: live scores on Live-Darts and DartConnect, PDC events including the World Championship and Premier League, the Order of Merit and stats.",
       "slug_en": "darts"
     },
     {
@@ -893,10 +893,10 @@
       "type": "folder",
       "icon": "🎱",
       "name": "Snooker",
-      "desc": "Snooker — turnaje WST, rebríčky, štatistiky a médiá",
+      "desc": "Snooker: live score zápasov World Snooker Tour, kalendár turnajov, Triple Crown ako UK Championship a Masters, rebríčky, CueTracker a prenosy v TV.",
       "order": 17,
       "slug": "snooker",
-      "desc_en": "Snooker — WST tournaments, rankings, statistics and media",
+      "desc_en": "Snooker: live World Snooker Tour scores, the tournament calendar, Triple Crown events like the UK Championship and Masters, rankings and CueTracker.",
       "slug_en": "snooker"
     },
     {
@@ -905,11 +905,11 @@
       "type": "folder",
       "icon": "🏹",
       "name": "Lukostrelstvo",
-      "desc": "Lukostreľba — svetové federácie, súťaže a výsledky",
+      "desc": "Lukostreľba: live score turnajov v systéme Ianseo, Svetový pohár a kalendár World Archery, svetový rebríček a národné zväzy vrátane slovenského.",
       "order": 18,
       "slug": "lukostrelstvo",
       "name_en": "Archery",
-      "desc_en": "Archery — world federations, competitions and results",
+      "desc_en": "Archery: live tournament scores in the Ianseo system, the World Archery World Cup and calendar, world rankings and national federations.",
       "slug_en": "archery"
     },
     {
@@ -918,11 +918,11 @@
       "type": "folder",
       "icon": "🚣",
       "name": "Kanoistika",
-      "desc": "Kanoistika — rýchlostná aj slalom, federácie a výsledky",
+      "desc": "Kanoistika: live timing súťaží ICF cez Siwidata, výsledky vodného slalomu aj rýchlostnej kanoistiky, európska asociácia a národné zväzy.",
       "order": 19,
       "slug": "kanoistika",
       "name_en": "Canoeing",
-      "desc_en": "Canoeing — sprint and slalom, federations and results",
+      "desc_en": "Canoeing: ICF live timing via Siwidata, results for slalom and sprint racing, the European association and national canoeing federations.",
       "slug_en": "canoeing"
     },
     {
@@ -931,11 +931,11 @@
       "type": "folder",
       "icon": "🚣",
       "name": "Veslovanie",
-      "desc": "Veslovanie — svetové súťaže a národné federácie",
+      "desc": "Veslovanie: live timing regát na RegattaCentral, Svetový pohár a kalendár podujatí World Rowing, spravodajstvo Row2k a národné veslárske zväzy.",
       "order": 20,
       "slug": "veslovanie",
       "name_en": "Rowing",
-      "desc_en": "Rowing — world competitions and national federations",
+      "desc_en": "Rowing: live regatta timing on RegattaCentral, the World Rowing World Cup and events calendar, Row2k news and national rowing federations.",
       "slug_en": "rowing"
     },
     {
@@ -944,11 +944,11 @@
       "type": "folder",
       "icon": "🏋️",
       "name": "Vzpieranie",
-      "desc": "Vzpieranie — svetové a kontinentálne federácie a súťaže",
+      "desc": "Vzpieranie: kalendár a výsledky súťaží IWF, svetové rekordy a rebríčky, európska aj ázijská federácia, správy Weightlifting House a národné zväzy.",
       "order": 21,
       "slug": "vzpieranie",
       "name_en": "Weightlifting",
-      "desc_en": "Weightlifting — world and continental federations and competitions",
+      "desc_en": "Weightlifting: the IWF calendar and results, world records and rankings, the European and Asian federations, Weightlifting House news and federations.",
       "slug_en": "weightlifting"
     },
     {
@@ -957,11 +957,11 @@
       "type": "folder",
       "icon": "🏏",
       "name": "Kriket",
-      "desc": "Kriket — ICC, franšízové ligy T20 a národné zväzy",
+      "desc": "Kriket: live score na Cricbuzz a ESPNcricinfo, MS v T20 a testový šampionát ICC, franšízové ligy IPL, Big Bash, PSL a SA20 aj národné zväzy.",
       "order": 22,
       "slug": "kriket",
       "name_en": "Cricket",
-      "desc_en": "Cricket — ICC, franchise T20 leagues and national boards",
+      "desc_en": "Cricket: live scores on Cricbuzz and ESPNcricinfo, the ICC T20 World Cup and World Test Championship, the IPL, Big Bash, PSL and SA20, plus boards.",
       "slug_en": "cricket"
     },
     {
