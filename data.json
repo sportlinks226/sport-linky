@@ -3676,7 +3676,7 @@
       "icon": "ck",
       "name": "Cookove ostrovy",
       "desc": "",
-      "order": 1,
+      "order": 2,
       "slug": "cookove-ostrovy",
       "name_en": "Cook Islands",
       "slug_en": "cook-islands"
@@ -3688,7 +3688,7 @@
       "icon": "fj",
       "name": "Fidži",
       "desc": "",
-      "order": 2,
+      "order": 3,
       "slug": "fidzi",
       "name_en": "Fiji",
       "slug_en": "fiji"
@@ -3700,7 +3700,7 @@
       "icon": "nc",
       "name": "Nová Kaledónia",
       "desc": "",
-      "order": 3,
+      "order": 4,
       "slug": "nova-kaledonia",
       "name_en": "New Caledonia",
       "slug_en": "new-caledonia"
@@ -3712,7 +3712,7 @@
       "icon": "nz",
       "name": "Nový Zéland",
       "desc": "",
-      "order": 4,
+      "order": 5,
       "slug": "novy-zeland",
       "name_en": "New Zealand",
       "slug_en": "new-zealand"
@@ -3724,7 +3724,7 @@
       "icon": "pg",
       "name": "Papua-Nová Guinea",
       "desc": "",
-      "order": 5,
+      "order": 6,
       "slug": "papua-nova-guinea",
       "name_en": "Papua New Guinea",
       "slug_en": "papua-new-guinea"
@@ -3736,7 +3736,7 @@
       "icon": "ws",
       "name": "Samoa",
       "desc": "",
-      "order": 6,
+      "order": 7,
       "slug": "samoa",
       "slug_en": "samoa"
     },
@@ -3747,7 +3747,7 @@
       "icon": "sb",
       "name": "Šalamúnove ostrovy",
       "desc": "",
-      "order": 7,
+      "order": 8,
       "slug": "salamunove-ostrovy",
       "name_en": "Solomon Islands",
       "slug_en": "solomon-islands"
@@ -3759,7 +3759,7 @@
       "icon": "pf",
       "name": "Tahiti",
       "desc": "",
-      "order": 8,
+      "order": 9,
       "slug": "tahiti",
       "slug_en": "tahiti"
     },
@@ -3770,7 +3770,7 @@
       "icon": "to",
       "name": "Tonga",
       "desc": "",
-      "order": 9,
+      "order": 10,
       "slug": "tonga",
       "slug_en": "tonga"
     },
@@ -3781,7 +3781,7 @@
       "icon": "vu",
       "name": "Vanuatu",
       "desc": "",
-      "order": 10,
+      "order": 11,
       "slug": "vanuatu",
       "slug_en": "vanuatu"
     },
@@ -74404,18 +74404,6 @@
       "desc_en": "Club from Picão near Príncipe island's only airport, formed by the merger of 3 local clubs."
     },
     {
-      "id": "f_fut_klu_oc_aus_link",
-      "parentId": "f_fut_klu_oc",
-      "type": "link",
-      "icon": "",
-      "name": "Austrália",
-      "desc": "Kluby Austrálie nájdeš v sekcii Ázia (AFC) — Austrália je od r. 2006 členom ázijskej konfederácie, nie oceánskej OFC.",
-      "url": "https://sportlinking.com/futbal/kluby/azia/australia/",
-      "order": 0,
-      "name_en": "Australia",
-      "desc_en": "Australian clubs are listed under Asia (AFC) — Australia has been a member of the Asian confederation, not Oceania's OFC, since 2006."
-    },
-    {
       "id": "f_nzl_l1",
       "parentId": "f_fut_klu_oc_nzl",
       "type": "folder",
@@ -74837,6 +74825,30 @@
       "order": 10,
       "name_en": "Northern AFC",
       "desc_en": "Club from North Dunedin founded in 1888 — the oldest continuously operating football club in the Southern Hemisphere, two-time Chatham Cup winners (1959, 1961)."
+    },
+    {
+      "id": "f_fut_klu_oc_aus",
+      "parentId": "f_fut_klu_oc",
+      "type": "folder",
+      "icon": "au",
+      "name": "Austrália",
+      "desc": "Austrália je od r. 2006 členom ázijskej konfederácie (AFC), nie oceánskej OFC — jej kluby preto nájdeš v sekcii Ázia.",
+      "order": 1,
+      "slug": "australia",
+      "name_en": "Australia",
+      "desc_en": "Australia has been a member of the Asian confederation (AFC), not Oceania's OFC, since 2006 — its clubs are listed under Asia."
+    },
+    {
+      "id": "f_fut_klu_oc_aus_k1",
+      "parentId": "f_fut_klu_oc_aus",
+      "type": "link",
+      "icon": "",
+      "name": "Kluby Austrálie (sekcia Ázia)",
+      "desc": "Kluby Austrálie nájdeš v sekcii Ázia (AFC) — Austrália je od r. 2006 členom ázijskej konfederácie, nie oceánskej OFC.",
+      "url": "https://www.sportlinky.sk/futbal/kluby/azia/australia/",
+      "order": 0,
+      "name_en": "Australian clubs (Asia section)",
+      "desc_en": "Australian clubs are listed under Asia (AFC) — Australia has been a member of the Asian confederation, not Oceania's OFC, since 2006."
     }
   ],
   "title_en": "Sportlinking",
