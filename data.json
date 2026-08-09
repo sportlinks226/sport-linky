@@ -1,23 +1,33 @@
 {
-  "version": 90,
+  "version": 91,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
     {
-      "id": "a1785783511339",
-      "icon": "🏒",
-      "name": "Hlinka Gretzky cup",
-      "url": "https://www.hlinkagretzkycup.ca/en-ca",
-      "endsAt": "2026-08-09",
-      "addedAt": 1785783511339
+      "id": "a1786308799081",
+      "icon": "🏊",
+      "name": "Plávanie ME",
+      "url": "https://europeanaquatics.org/paris-2026/",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786308799081,
+      "name_en": "Swimming ECH"
+    },
+    {
+      "id": "a1786308393680",
+      "icon": "🏃",
+      "name": "ME v atletike",
+      "url": "https://www.european-athletics.com/home",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786308393680,
+      "name_en": "Athletics ECH"
     },
     {
       "id": "a1784634574866",
       "icon": "⚽",
       "name": "Liga Majstrov",
       "url": "https://www.uefa.com/uefachampionsleague/",
-      "endsAt": "2026-08-06",
+      "endsAt": "2026-08-13",
       "addedAt": 1784634574866,
       "name_en": "Champions league"
     },
@@ -26,7 +36,7 @@
       "icon": "⚽",
       "name": "Európska liga",
       "url": "https://www.uefa.com/uefaeuropaleague/",
-      "endsAt": "2026-08-06",
+      "endsAt": "2026-08-13",
       "addedAt": 1784634663367,
       "name_en": "European league"
     },
@@ -35,7 +45,7 @@
       "icon": "⚽",
       "name": "Konferenčná liga",
       "url": "https://www.uefa.com/uefaconferenceleague/",
-      "endsAt": "2026-08-06",
+      "endsAt": "2026-08-13",
       "addedAt": 1784634702063,
       "name_en": "Conference league"
     },
@@ -57,10 +67,10 @@
     },
     {
       "id": "a1783874131538",
-      "icon": "",
+      "icon": "🎾",
       "name": "ATP Montreal",
       "url": "https://nationalbankopen.com/",
-      "endsAt": "2026-08-09",
+      "endsAt": "2026-08-16",
       "addedAt": 1783874131538
     },
     {
@@ -68,35 +78,35 @@
       "icon": "🎾",
       "name": "WTA  Toronto",
       "url": "https://www.wtatennis.com/tournaments/canadian-open",
-      "endsAt": "2026-08-09",
+      "endsAt": "2026-08-14",
       "addedAt": 1783874074020
     },
     {
-      "id": "a1784539405181",
-      "icon": "🎾",
-      "name": "WTA Varšava",
-      "url": "https://wtapolishopen.pl/",
-      "endsAt": "2026-08-09",
-      "addedAt": 1784539405181,
-      "name_en": "WTA Warsaw"
+      "id": "a1786310257036",
+      "icon": "🏀",
+      "name": "Basketbal ME U16 muži",
+      "url": "https://www.fiba.basketball/en/events/fiba-u16-eurobasket-2026",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786310257036,
+      "name_en": "Basketball ECH U16 men"
     },
     {
-      "id": "a1784188884337",
+      "id": "a1786310493274",
       "icon": "🏀",
-      "name": "ME Basketbal U18 div.A ženy",
-      "url": "https://www.fiba.basketball/en/events/fiba-u18-womens-eurobasket-2026",
-      "endsAt": "2026-08-09",
-      "addedAt": 1784188884337,
-      "name_en": "ECH Basketball U18 div.A women"
+      "name": "Basketbal ME U16 ženy div.B",
+      "url": "https://www.fiba.basketball/en/events/fiba-u16-womens-eurobasket-2026-division-b",
+      "endsAt": "2026-08-23",
+      "addedAt": 1786310493274,
+      "name_en": "Basketball ECH U16 women div.B"
     },
     {
-      "id": "a1784188919546",
+      "id": "a1786310669306",
       "icon": "🏀",
-      "name": "ME Basketbal U18 div.B ženy",
-      "url": "https://www.fiba.basketball/en/events/fiba-u18-womens-eurobasket-2026-division-b",
-      "endsAt": "2026-08-09",
-      "addedAt": 1784188919546,
-      "name_en": "ECH Basketball U18 div.B women"
+      "name": "Basketbal Asia cup U18 muži",
+      "url": "https://www.fiba.basketball/en/events/fiba-u18-asia-cup-2026",
+      "endsAt": "2026-08-23",
+      "addedAt": 1786310669307,
+      "name_en": "Basketball Asia cup U18 men"
     },
     {
       "id": "a1784541154016",
@@ -115,12 +125,22 @@
       "addedAt": 1784541193793
     },
     {
-      "id": "a1784581601256",
-      "icon": "🎱",
-      "name": "Snooker Shanghai Masters",
-      "url": "https://www.wst.tv/matches",
-      "endsAt": "2026-08-02",
-      "addedAt": 1784581601256
+      "id": "a1786310161095",
+      "icon": "🏐",
+      "name": "Volejbal MS U17 ženy",
+      "url": "https://en.volleyballworld.com/volleyball/competitions/girls-u17-world-championship",
+      "endsAt": "2026-08-17",
+      "addedAt": 1786310161095,
+      "name_en": "Volleyball WCH U17 women"
+    },
+    {
+      "id": "a1786311299990",
+      "icon": "🏐",
+      "name": "Plážový volejbal ME",
+      "url": "https://eurobeachvolley.cev.eu/en/2026/",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786311299990,
+      "name_en": "Beach volleyball ECH"
     },
     {
       "id": "a1785147664719",
@@ -131,38 +151,85 @@
       "addedAt": 1785147664719
     },
     {
-      "id": "a1785782716524",
-      "icon": "🏸",
-      "name": "Badminton Korea Masters",
-      "url": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/draws/",
-      "endsAt": "2026-08-09",
-      "addedAt": 1785782716524
+      "id": "a1786311152406",
+      "icon": "🏓",
+      "name": "Stolný tenis Europe Smash",
+      "url": "https://www.europesmash.com/home",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786311152406,
+      "name_en": "Table tennis Europe Smash"
     },
     {
-      "id": "a1785782973285",
+      "id": "a1786311593522",
+      "icon": "🎱",
+      "name": "Snooker China open",
+      "url": "https://www.wst.tv/matches",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786311593522,
+      "name_en": "Snooker China open"
+    },
+    {
+      "id": "a1786309794866",
+      "icon": "🤽‍♀",
+      "name": "Vodné pólo U20 Elite",
+      "url": "https://events.europeanaquatics.org/ewpc-2026-u20/schedule-results/u20-men-division-elite/#/schedule-bydate/ASM?event=1",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786309794866,
+      "name_en": "Water polo U20 Elite"
+    },
+    {
+      "id": "a1786309874305",
+      "icon": "🤽‍♀",
+      "name": "Vodné pólo U20 div.1",
+      "url": "https://events.europeanaquatics.org/ewpc-2026-u20/schedule-results/u20-men-division-i/#/schedule-bydate/ASM?event=1",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786309874305,
+      "name_en": "Water polo U20 div.1"
+    },
+    {
+      "id": "a1786311663283",
       "icon": "⛳",
-      "name": "PGA Wyndham Champ.",
-      "url": "https://www.wyndhamchampionship.com/",
-      "endsAt": "2026-08-09",
-      "addedAt": 1785782973285
+      "name": "PGA Golf Fedex Championship",
+      "url": "https://www.fedexchampionship.com/",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786311663283,
+      "name_en": "PGA Golf Fedex Championship"
     },
     {
-      "id": "a1785783662560",
-      "icon": "🚴",
-      "name": "Tour de France ženy",
-      "url": "https://www.letourfemmes.fr/en",
-      "endsAt": "2026-08-09",
-      "addedAt": 1785783662560,
-      "name_en": "Tour de France women"
+      "id": "a1786311772902",
+      "icon": "⛳",
+      "name": "LPGA Golf Portland Classic",
+      "url": "https://www.portlandclassic.com/",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786311772902,
+      "name_en": "LPGA Golf Portland Classic"
     },
     {
-      "id": "a1785784059939",
-      "icon": "🏐",
-      "name": "Plážový volejbal Hamburg",
-      "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/2026/elite16/hamburg-ger/",
-      "endsAt": "2026-08-09",
-      "addedAt": 1785784059939,
-      "name_en": "Beach volleyball Hamburg"
+      "id": "a1786309279414",
+      "icon": "🏇",
+      "name": "Jazdectvo MS",
+      "url": "https://www.aachen2026.com/",
+      "endsAt": "2026-08-23",
+      "addedAt": 1786309279414,
+      "name_en": "Equestrian WCH"
+    },
+    {
+      "id": "a1786309397895",
+      "icon": "🤸",
+      "name": "Moderná gymnastika MS",
+      "url": "https://frankfurt26.de/en/",
+      "endsAt": "2026-08-16",
+      "addedAt": 1786309397895,
+      "name_en": "Rhythmic gymnastics WCH"
+    },
+    {
+      "id": "a1786310916664",
+      "icon": "♟️",
+      "name": "Šachy Sinquefield cup",
+      "url": "https://grandchesstour.org/tours/2026/tournaments/2026-sinquefield-cup/",
+      "endsAt": "2026-08-22",
+      "addedAt": 1786310916664,
+      "name_en": "Chess Sinquefield cup"
     }
   ],
   "banners": [
@@ -74858,7 +74925,8 @@
       "name": "ABFA Premier League",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "abfa-premier-league"
     },
     {
       "id": "f_atg_l1_k1",
@@ -75000,7 +75068,8 @@
       "name": "Division di Honor",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "division-di-honor"
     },
     {
       "id": "f_aru_l1_k1",
@@ -75120,7 +75189,8 @@
       "name": "Premier League",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "premier-league"
     },
     {
       "id": "f_brb_l1_k1",
@@ -75240,7 +75310,8 @@
       "name": "Premier Division",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "premier-division"
     },
     {
       "id": "f_ber_l1_k1",
@@ -75360,7 +75431,8 @@
       "name": "Liga Dominicana de Fútbol",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-dominicana-de-futbol"
     },
     {
       "id": "f_dom_l1_k1",
@@ -75480,7 +75552,8 @@
       "name": "Liga Nacional de Guatemala",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-nacional-de-guatemala"
     },
     {
       "id": "f_gua_l1_k1",
@@ -75622,7 +75695,8 @@
       "name": "Championnat National D1 (Ligue Haïtienne)",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "championnat-national-d1-ligue-haitienne"
     },
     {
       "id": "f_hai_l1_k1",
@@ -75786,7 +75860,8 @@
       "name": "Liga Nacional de Honduras",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-nacional-de-honduras"
     },
     {
       "id": "f_hon_l1_k1",
@@ -75928,7 +76003,8 @@
       "name": "Jamaica Premier League",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "jamaica-premier-league"
     },
     {
       "id": "f_jam_l1_k1",
@@ -76092,7 +76168,8 @@
       "name": "Canadian Premier League",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "canadian-premier-league"
     },
     {
       "id": "f_can_l1_k1",
@@ -76190,7 +76267,8 @@
       "name": "Liga Promerica (Primera División)",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-promerica-primera-division"
     },
     {
       "id": "f_cri_l1_k1",
@@ -76310,7 +76388,8 @@
       "name": "Liga de Ascenso (2. liga)",
       "desc": "",
       "desc_en": "",
-      "order": 2
+      "order": 2,
+      "slug": "liga-de-ascenso-2-liga"
     },
     {
       "id": "f_cri_l2_k1",
@@ -76485,7 +76564,8 @@
       "name": "Liga MX",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-mx"
     },
     {
       "id": "f_mex_l1_k1",
@@ -76693,7 +76773,8 @@
       "name": "Liga de Expansión MX (2. liga)",
       "desc": "",
       "desc_en": "",
-      "order": 2
+      "order": 2,
+      "slug": "liga-de-expansion-mx-2-liga"
     },
     {
       "id": "f_mex_l2_k1",
@@ -76879,7 +76960,8 @@
       "name": "Régional 1 (Trophée Gérard Janvion)",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "regional-1-trophee-gerard-janvion"
     },
     {
       "id": "f_mtq_l1_k1",
@@ -77043,7 +77125,8 @@
       "name": "Liga Primera de Nicaragua",
       "desc": "",
       "desc_en": "",
-      "order": 1
+      "order": 1,
+      "slug": "liga-primera-de-nicaragua"
     },
     {
       "id": "f_nic_l1_k1",
@@ -77163,7 +77246,8 @@
       "name": "MLS",
       "desc": "Major League Soccer, najvyššia futbalová súťaž v USA a Kanade, 30 klubov v Západnej a Východnej konferencii.",
       "desc_en": "Major League Soccer, the top football division in the USA and Canada, with 30 clubs split into Western and Eastern Conferences.",
-      "order": 1
+      "order": 1,
+      "slug": "mls"
     },
     {
       "id": "f_usa_l1_k1",
@@ -77503,7 +77587,8 @@
       "name": "USL Championship",
       "desc": "Druhá najvyššia futbalová súťaž v USA (Division II), 25 klubov v Západnej a Východnej konferencii.",
       "desc_en": "The second tier of American football (Division II), with 25 clubs split into Western and Eastern Conferences.",
-      "order": 2
+      "order": 2,
+      "slug": "usl-championship"
     },
     {
       "id": "f_usa_l2_k1",
@@ -77788,7 +77873,8 @@
       "name": "USL League One",
       "desc": "Tretia najvyššia futbalová súťaž v USA (Division III), 17 klubov.",
       "desc_en": "The third tier of American football (Division III), with 17 clubs.",
-      "order": 3
+      "order": 3,
+      "slug": "usl-league-one"
     },
     {
       "id": "f_usa_l3_k1",
@@ -77985,7 +78071,8 @@
       "name": "Liga Panameña de Fútbol (LPF)",
       "desc": "Najvyššia futbalová súťaž v Paname, 12 klubov, sezóna rozdelená na Apertura a Clausura.",
       "desc_en": "The top football division in Panama, with 12 clubs, the season split into Apertura and Clausura tournaments.",
-      "order": 1
+      "order": 1,
+      "slug": "liga-panamena-de-futbol-lpf"
     },
     {
       "id": "f_pan_l1_k1",
@@ -78127,7 +78214,8 @@
       "name": "TT Premier Football League (TTPFL)",
       "desc": "Najvyššia futbalová súťaž v Trinidade a Tobagu, 12 klubov, sezóna beží od októbra do marca.",
       "desc_en": "The top football division in Trinidad and Tobago, with 12 clubs, the season running from October to March.",
-      "order": 1
+      "order": 1,
+      "slug": "tt-premier-football-league-ttpfl"
     },
     {
       "id": "f_tri_l1_k1",
@@ -78269,7 +78357,8 @@
       "name": "Suriname Major League",
       "desc": "Najvyššia futbalová súťaž v Surináme, 9 klubov, profesionálna od roku 2024.",
       "desc_en": "The top football division in Suriname, with 9 clubs, professional since 2024.",
-      "order": 1
+      "order": 1,
+      "slug": "suriname-major-league"
     },
     {
       "id": "f_sur_l1_k1",
@@ -78378,7 +78467,8 @@
       "name": "Primera División (Liga Pepsi)",
       "desc": "Najvyššia futbalová súťaž v Salvádore, 12 klubov, sezóna rozdelená na turnaje Apertura a Clausura.",
       "desc_en": "The top football division in El Salvador, with 12 clubs, the season split into Apertura and Clausura tournaments.",
-      "order": 1
+      "order": 1,
+      "slug": "primera-division-liga-pepsi"
     },
     {
       "id": "f_slv_l1_k1",
@@ -78532,7 +78622,8 @@
       "name": "Campeonato Nacional (Liga Nacional)",
       "desc": "Najvyššia futbalová súťaž na Kube, 16 klubov reprezentujúcich provincie, sezóna rozdelená na turnaje Apertura a Clausura.",
       "desc_en": "The top football division in Cuba, with 16 clubs representing the provinces, the season split into Apertura and Clausura tournaments.",
-      "order": 1
+      "order": 1,
+      "slug": "campeonato-nacional-liga-nacional"
     },
     {
       "id": "f_cub_l1_k1",
@@ -78734,7 +78825,8 @@
       "name": "Liga Puerto Rico Pro (LPR)",
       "desc": "Najvyššia futbalová súťaž v Portoriku, 11 klubov, sezóna rozdelená na turnaje Apertura a Clausura.",
       "desc_en": "The top football division in Puerto Rico, with 11 clubs, the season split into Apertura and Clausura tournaments.",
-      "order": 1
+      "order": 1,
+      "slug": "liga-puerto-rico-pro-lpr"
     },
     {
       "id": "f_pri_l1_k1",
@@ -78876,7 +78968,8 @@
       "name": "Promé Divishon",
       "desc": "Najvyššia futbalová súťaž na Curaçau, 10 klubov, prevažne z hlavného mesta Willemstad.",
       "desc_en": "The top football division in Curaçao, with 10 clubs, mostly from the capital Willemstad.",
-      "order": 1
+      "order": 1,
+      "slug": "prome-divishon"
     },
     {
       "id": "f_cur_l1_k1",
@@ -79006,7 +79099,8 @@
       "name": "AFA Senior Male League (Anguilla Football League)",
       "desc": "Najvyššia futbalová súťaž na Anguille, 10 klubov, všetky zápasy sa hrajú na jedinom štadióne krajiny Raymond E. Guishard Technical Centre.",
       "desc_en": "The top football division in Anguilla, with 10 clubs, all matches played at the country's only stadium, the Raymond E. Guishard Technical Centre.",
-      "order": 1
+      "order": 1,
+      "slug": "afa-senior-male-league-anguilla-football-league"
     },
     {
       "id": "f_aia_l1_k1",
@@ -79136,7 +79230,8 @@
       "name": "BFA Senior League",
       "desc": "Najvyššia futbalová súťaž na Bahamách, založená v roku 1990, momentálne 9 klubov.",
       "desc_en": "The top football division in the Bahamas, founded in 1990, currently with 9 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "bfa-senior-league"
     },
     {
       "id": "f_bah_l1_k1",
@@ -79254,7 +79349,8 @@
       "name": "Premier League of Belize (PLB)",
       "desc": "Najvyššia futbalová súťaž v Belize, vznikla v roku 2011 zlúčením dvoch predchádzajúcich líg, momentálne 7 klubov.",
       "desc_en": "The top football division in Belize, formed in 2011 by merging two previous leagues, currently with 7 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "premier-league-of-belize-plb"
     },
     {
       "id": "f_blz_l1_k1",
@@ -79348,7 +79444,8 @@
       "name": "Kampionato (Bonaire League)",
       "desc": "Najvyššia futbalová súťaž na Bonaire, väčšina klubov je z mestečka Rincón, momentálne 10 klubov.",
       "desc_en": "The top football division on Bonaire, most clubs based in the small town of Rincón, currently with 10 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "kampionato-bonaire-league"
     },
     {
       "id": "f_boe_l1_k1",
@@ -79478,7 +79575,8 @@
       "name": "USVISF Premier League",
       "desc": "Najvyššia futbalová súťaž na Amerických Panenských ostrovoch, rozdelená na divízie Svätý Kríž a Svätý Tomáš, momentálne 8 klubov.",
       "desc_en": "The top football division in the U.S. Virgin Islands, split into Saint Croix and Saint Thomas divisions, currently with 8 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "usvisf-premier-league"
     },
     {
       "id": "f_vir_l1_k1",
@@ -79584,7 +79682,8 @@
       "name": "BVIFA National League",
       "desc": "Najvyššia futbalová súťaž na Britských Panenských ostrovoch, momentálne 11 klubov.",
       "desc_en": "The top football division in the British Virgin Islands, currently with 11 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "bvifa-national-league"
     },
     {
       "id": "f_vgb_l1_k1",
@@ -79726,7 +79825,8 @@
       "name": "DFA Premier League",
       "desc": "Najvyššia futbalová súťaž na Dominike, momentálne 10 klubov, väčšina zápasov sa hrá na DFA Technical Center Stadium.",
       "desc_en": "The top football division in Dominica, currently with 10 clubs, most matches played at the DFA Technical Center Stadium.",
-      "order": 1
+      "order": 1,
+      "slug": "dfa-premier-league"
     },
     {
       "id": "f_dma_l1_k1",
@@ -79856,7 +79956,8 @@
       "name": "GFA Premier League",
       "desc": "Najvyššia futbalová súťaž v Grenade, momentálne 10 klubov.",
       "desc_en": "The top football division in Grenada, currently with 10 clubs.",
-      "order": 1
+      "order": 1,
+      "slug": "gfa-premier-league"
     },
     {
       "id": "f_grn_l1_k1",
@@ -79986,7 +80087,8 @@
       "name": "Régional 1",
       "desc": "Najvyššia futbalová súťaž vo Francúzskej Guyane, momentálne 14 klubov, organizuje ju Ligue de Football de la Guyane.",
       "desc_en": "The top football division in French Guiana, currently with 14 clubs, organised by the Ligue de Football de la Guyane.",
-      "order": 1
+      "order": 1,
+      "slug": "regional-1"
     },
     {
       "id": "f_guf_l1_k1",
@@ -80164,7 +80266,8 @@
       "name": "Régionale 1",
       "desc": "Najvyššia futbalová súťaž na Guadeloupe (Division d'Honneur), momentálne 14 klubov, sezóna 2025/26 skončila titulom Siroco Les Abymes.",
       "desc_en": "The top football division in Guadeloupe (Division d'Honneur), currently with 14 clubs, the 2025/26 season ended with the title going to Siroco Les Abymes.",
-      "order": 1
+      "order": 1,
+      "slug": "regionale-1"
     },
     {
       "id": "f_glp_l1_k1",
@@ -80342,7 +80445,8 @@
       "name": "GFF Elite League",
       "desc": "Najvyššia futbalová súťaž v Guyane, momentálne 10 klubov, sezóna 2025 (9.3.-26.10.) skončila titulom Slingerz FC.",
       "desc_en": "The top football division in Guyana, currently with 10 clubs, the 2025 season (9 Mar-26 Oct) ended with the title going to Slingerz FC.",
-      "order": 1
+      "order": 1,
+      "slug": "gff-elite-league"
     },
     {
       "id": "f_guy_l1_k1",
@@ -80472,7 +80576,8 @@
       "name": "CIFA Premier League",
       "desc": "Najvyššia futbalová súťaž na Kajmanských ostrovoch, momentálne 12 klubov, sezóna 2025/26 skončila titulom Elite SC.",
       "desc_en": "The top football division in the Cayman Islands, currently with 12 clubs, the 2025/26 season ended with the title going to Elite SC.",
-      "order": 1
+      "order": 1,
+      "slug": "cifa-premier-league"
     },
     {
       "id": "f_cay_l1_k1",
@@ -80626,7 +80731,8 @@
       "name": "Montserrat Championship",
       "desc": "Najvyššia futbalová súťaž na Montserrate, momentálne evidované 3 kluby; podľa dostupných zdrojov nemá súťaž potvrdenú pravidelnú aktuálnu sezónu (posledný doložený ročník 2016).",
       "desc_en": "The top football division in Montserrat, currently 3 clubs on record; available sources do not confirm a regularly running current season (the last documented season was 2016).",
-      "order": 1
+      "order": 1,
+      "slug": "montserrat-championship"
     },
     {
       "id": "f_msr_l1_k1",
@@ -80672,7 +80778,8 @@
       "name": "Sint Maarten Premier League",
       "desc": "Najvyššia futbalová súťaž na Sint Maartene, momentálne 6 klubov, sezóna 2024/25 skončila 4. titulom SCSA Eagles.",
       "desc_en": "The top football division in Sint Maarten, currently with 6 clubs, the 2024/25 season ended with the 4th title for SCSA Eagles.",
-      "order": 1
+      "order": 1,
+      "slug": "sint-maarten-premier-league"
     },
     {
       "id": "f_sxm_l1_k1",
@@ -80754,7 +80861,8 @@
       "name": "SKNFA Premier League",
       "desc": "Najvyššia futbalová súťaž na St. Kitts a Nevise, sezóna 2025/26 dohratá, 10 klubov, titul obhájil Old Road Jets United FC.",
       "desc_en": "The top football division in St. Kitts and Nevis, 2025/26 season completed, 10 clubs, champions Old Road Jets United FC.",
-      "order": 1
+      "order": 1,
+      "slug": "sknfa-premier-league"
     },
     {
       "id": "f_skn_l1_k1",
@@ -80884,7 +80992,8 @@
       "name": "SPFL Premier League",
       "desc": "Najvyššia futbalová súťaž na Sv. Lucii, ktorú tvorí 10 krajských/mestských líg SLFA, obhajca titulu z rokov 2024 aj 2025 je La Clery.",
       "desc_en": "The top football division in Saint Lucia, contested by 10 SLFA district/zone leagues, back-to-back 2024 and 2025 champions La Clery.",
-      "order": 1
+      "order": 1,
+      "slug": "spfl-premier-league"
     },
     {
       "id": "f_lca_l1_k1",
@@ -81014,7 +81123,8 @@
       "name": "SVGFF Premier Division",
       "desc": "Najvyššia futbalová súťaž na Sv. Vincentovi a Grenadínach, sezóna 2024/25 dohratá, 10 klubov, titul získal North Leeward Predators FC.",
       "desc_en": "The top football division in St. Vincent and the Grenadines, 2024/25 season completed, 10 clubs, champions North Leeward Predators FC.",
-      "order": 1
+      "order": 1,
+      "slug": "svgff-premier-division"
     },
     {
       "id": "f_vin_l1_k1",
@@ -81144,7 +81254,8 @@
       "name": "Championnat de Saint-Martin",
       "desc": "Najvyššia futbalová súťaž na francúzskej časti Svätého Martina, sezóna 2024/25 dohratá, obhajca titulu Junior Stars FC (5. titul v rade).",
       "desc_en": "The top football division in the French part of Saint Martin, 2024/25 season completed, defending champions Junior Stars FC (5th consecutive title).",
-      "order": 1
+      "order": 1,
+      "slug": "championnat-de-saint-martin"
     },
     {
       "id": "f_smn_l1_k1",
@@ -81250,7 +81361,8 @@
       "name": "Provo Premier League",
       "desc": "Najvyššia futbalová súťaž na ostrovoch Turks a Caicos, sezóna 2025/26 dohratá, titul obhájili Academy Eagles FC.",
       "desc_en": "The top football division in the Turks and Caicos Islands, 2025/26 season completed, champions Academy Eagles FC.",
-      "order": 1
+      "order": 1,
+      "slug": "provo-premier-league"
     },
     {
       "id": "f_tca_l1_k1",
