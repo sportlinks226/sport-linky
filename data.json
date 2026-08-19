@@ -1,5 +1,5 @@
 {
-  "version": 129,
+  "version": 130,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -96102,8 +96102,8 @@
       "desc_en": "Quimper — a town in Brittany, the club is also known by its nickname \"Béliers de Kemper\" (Kemper Rams)."
     },
     {
-      "id": "f_bas_klu_eu_bel_k1",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k1",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Antwerp Giants",
@@ -96113,8 +96113,8 @@
       "desc_en": "Antwerp — the reigning Belgian champions (2025/26), qualifying directly for the Basketball Champions League, playing at the Lotto Arena."
     },
     {
-      "id": "f_bas_klu_eu_bel_k2",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k2",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "BC Oostende",
@@ -96124,8 +96124,8 @@
       "desc_en": "Ostend — Belgium's most successful club, with a long run of domestic titles, playing at the Coretec Dôme."
     },
     {
-      "id": "f_bas_klu_eu_bel_k3",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k3",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Brussels Basketball",
@@ -96135,8 +96135,8 @@
       "desc_en": "Brussels — the capital's club, representing the city in the Belgian-Dutch BNXT League."
     },
     {
-      "id": "f_bas_klu_eu_bel_k4",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k4",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "CB Liège",
@@ -96146,8 +96146,8 @@
       "desc_en": "Liège — promoted to the BNXT League in 2026 after winning the top domestic division."
     },
     {
-      "id": "f_bas_klu_eu_bel_k5",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k5",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Kangoeroes Mechelen",
@@ -96157,8 +96157,8 @@
       "desc_en": "Mechelen — a young club founded in 2009 with an extensive youth program."
     },
     {
-      "id": "f_bas_klu_eu_bel_k6",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k6",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Kortrijk Spurs",
@@ -96168,8 +96168,8 @@
       "desc_en": "Kortrijk — the largest basketball club in the Benelux, with more than a thousand members."
     },
     {
-      "id": "f_bas_klu_eu_bel_k7",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k7",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Leuven Bears",
@@ -96179,8 +96179,8 @@
       "desc_en": "Leuven — home of the Stella Artois brewery, whose name the club has long carried as sponsor."
     },
     {
-      "id": "f_bas_klu_eu_bel_k8",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k8",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Limburg United",
@@ -96190,8 +96190,8 @@
       "desc_en": "Hasselt — formed in 2014 through the merger of Limburg's regional teams."
     },
     {
-      "id": "f_bas_klu_eu_bel_k9",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k9",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Okapi Aalst",
@@ -96201,8 +96201,8 @@
       "desc_en": "Aalst — one of Belgium's oldest clubs, founded in 1949."
     },
     {
-      "id": "f_bas_klu_eu_bel_k10",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k10",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Spirou Charleroi",
@@ -96212,8 +96212,8 @@
       "desc_en": "Charleroi — ten-time Belgian champions, playing at the Spiroudome, the country's largest basketball arena."
     },
     {
-      "id": "f_bas_klu_eu_bel_k11",
-      "parentId": "f_bas_klu_eu_bel",
+      "id": "f_bas_bel_l1_k11",
+      "parentId": "f_bas_bel_l1",
       "type": "link",
       "icon": "",
       "name": "Union Mons-Hainaut",
@@ -96641,8 +96641,8 @@
       "desc_en": "Espoo — Finland's largest youth basketball development club."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k1",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k1",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Gargždai",
@@ -96652,8 +96652,8 @@
       "desc_en": "Gargždai — a small town near Klaipėda, whose club earned LKL promotion in 2022 after winning the second-tier NKL."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k2",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k2",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Jonava",
@@ -96663,8 +96663,8 @@
       "desc_en": "Jonava — an industrial town in northern Lithuania, competing under its sponsor name Hipocredit."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k3",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k3",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Juventus Utena",
@@ -96674,8 +96674,8 @@
       "desc_en": "Utena — the club \"Juventus\" (Latin for \"youth\"), founded in 2000, which once reached the LKL final."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k4",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k4",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Lietkabelis Panevėžys",
@@ -96685,8 +96685,8 @@
       "desc_en": "Panevėžys — one of the founding LKL clubs from 1964, playing at the Kalnapilio Arena and a regular in the EuroCup."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k5",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k5",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Neptūnas Klaipėda",
@@ -96696,8 +96696,8 @@
       "desc_en": "Klaipėda — a port city; the club is named after the Roman god of the sea and was the third Lithuanian team to play in the EuroLeague."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k6",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k6",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Nevėžis Kėdainiai",
@@ -96707,8 +96707,8 @@
       "desc_en": "Kėdainiai — a club founded in 1992 that reached the LKL in 2002 and, in 2023, took part in the highest-scoring game in league history."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k7",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k7",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Rytas Vilnius",
@@ -96718,8 +96718,8 @@
       "desc_en": "Vilnius — a multiple Lithuanian champion that won the Basketball Champions League in 2026 after a dramatic comeback in the final."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k8",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k8",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Šiauliai",
@@ -96729,8 +96729,8 @@
       "desc_en": "Šiauliai — a club founded in 1984 that holds the LKL record for the most third-place finishes, with nine."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k9",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k9",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Tauragė",
@@ -96740,8 +96740,8 @@
       "desc_en": "Tauragė — a small town near the border with the Kaliningrad region, whose club is making its first-ever appearance in the top division in 2026/27."
     },
     {
-      "id": "f_bas_klu_eu_ltu_k10",
-      "parentId": "f_bas_klu_eu_ltu",
+      "id": "f_bas_ltu_l1_k10",
+      "parentId": "f_bas_ltu_l1",
       "type": "link",
       "icon": "",
       "name": "Žalgiris Kaunas",
@@ -98907,8 +98907,8 @@
       "desc_en": "A club from the capital city of Valletta."
     },
     {
-      "id": "f_bas_klu_eu_hun_k1",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k1",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Alba Fehérvár",
@@ -98918,8 +98918,8 @@
       "desc_en": "Székesfehérvár — the club plays at the Alba Regia Sportcsarnok and is a fixture of Hungary's top division."
     },
     {
-      "id": "f_bas_klu_eu_hun_k2",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k2",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Atomerőmű SE",
@@ -98929,8 +98929,8 @@
       "desc_en": "Paks — club from the town next to the nuclear power plant it is named after, took bronze in the 2024–25 NB I/A."
     },
     {
-      "id": "f_bas_klu_eu_hun_k3",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k3",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "BC Körmend",
@@ -98940,8 +98940,8 @@
       "desc_en": "Körmend — a club from western Hungary, playing at the Városi Sportcsarnok."
     },
     {
-      "id": "f_bas_klu_eu_hun_k4",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k4",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Budapesti Honvéd",
@@ -98951,8 +98951,8 @@
       "desc_en": "Budapest — the basketball section of the famous multi-sport Honvéd club, playing at the Ludovika Arena."
     },
     {
-      "id": "f_bas_klu_eu_hun_k5",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k5",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "DEAC",
@@ -98962,8 +98962,8 @@
       "desc_en": "Debrecen — the university club of the University of Debrecen."
     },
     {
-      "id": "f_bas_klu_eu_hun_k6",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k6",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Falco KC Szombathely",
@@ -98973,8 +98973,8 @@
       "desc_en": "Szombathely — the reigning Hungarian champion (2025–26 title), playing at the Arena Savaria."
     },
     {
-      "id": "f_bas_klu_eu_hun_k7",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k7",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Kaposvári KK",
@@ -98984,8 +98984,8 @@
       "desc_en": "Kaposvár — promoted to NB I/A in 2025 as champion of the lower-tier NB I/B."
     },
     {
-      "id": "f_bas_klu_eu_hun_k8",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k8",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "KTE Kecskemét",
@@ -98995,8 +98995,8 @@
       "desc_en": "Kecskemét — the club plays at the Messzi István Sportcsarnok."
     },
     {
-      "id": "f_bas_klu_eu_hun_k9",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k9",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "NKA Universitas Pécs",
@@ -99006,8 +99006,8 @@
       "desc_en": "Pécs — the club of the National Basketball Academy (Nemzeti Kosárlabda Akadémia)."
     },
     {
-      "id": "f_bas_klu_eu_hun_k10",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k10",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "OSE Lions",
@@ -99017,8 +99017,8 @@
       "desc_en": "Oroszlány — a small-town club from northwestern Hungary, playing at the Krajnyik András Sportcsarnok."
     },
     {
-      "id": "f_bas_klu_eu_hun_k11",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k11",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Phoenix-MT Fót",
@@ -99028,8 +99028,8 @@
       "desc_en": "Fót — a club from a town near Budapest, promoted to NB I/A ahead of the 2026–27 season."
     },
     {
-      "id": "f_bas_klu_eu_hun_k12",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k12",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Sopron KC",
@@ -99039,8 +99039,8 @@
       "desc_en": "Sopron — the club plays at the Novomatic Aréna near the Austrian border."
     },
     {
-      "id": "f_bas_klu_eu_hun_k13",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k13",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Szedeák",
@@ -99050,8 +99050,8 @@
       "desc_en": "Szeged — a club partnered with the University of Szeged (SZTE), playing at the Szegedi Városi Sportcsarnok."
     },
     {
-      "id": "f_bas_klu_eu_hun_k14",
-      "parentId": "f_bas_klu_eu_hun",
+      "id": "f_bas_hun_l1_k14",
+      "parentId": "f_bas_hun_l1",
       "type": "link",
       "icon": "",
       "name": "Szolnoki Olajbányász",
@@ -99699,8 +99699,8 @@
       "desc_en": "Traiskirchen (Lower Austria) — one of the founding members of the Superliga in 2019."
     },
     {
-      "id": "f_bas_klu_eu_rou_k1",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k1",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Corona Brașov",
@@ -99710,8 +99710,8 @@
       "desc_en": "Brașov — a club from the foothills of the Carpathians in Transylvania."
     },
     {
-      "id": "f_bas_klu_eu_rou_k2",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k2",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSM Galați",
@@ -99721,8 +99721,8 @@
       "desc_en": "Galați — a Danube port city."
     },
     {
-      "id": "f_bas_klu_eu_rou_k3",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k3",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSM Oradea",
@@ -99732,8 +99732,8 @@
       "desc_en": "Oradea — three-time Romanian champions (2016, 2018, 2019), playing at Oradea Arena."
     },
     {
-      "id": "f_bas_klu_eu_rou_k4",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k4",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSM Târgu Jiu",
@@ -99743,8 +99743,8 @@
       "desc_en": "Târgu Jiu — a city in Oltenia, birthplace of sculptor Constantin Brâncuși."
     },
     {
-      "id": "f_bas_klu_eu_rou_k5",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k5",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSM Târgu Mureș",
@@ -99754,8 +99754,8 @@
       "desc_en": "Târgu Mureș — a Transylvanian club with a mixed Romanian-Hungarian background."
     },
     {
-      "id": "f_bas_klu_eu_rou_k6",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k6",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSO Voluntari",
@@ -99765,8 +99765,8 @@
       "desc_en": "Voluntari, near Bucharest — winners of the European ENBL Cup in 2025."
     },
     {
-      "id": "f_bas_klu_eu_rou_k7",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k7",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "CSU Sibiu",
@@ -99776,8 +99776,8 @@
       "desc_en": "Sibiu — a Transylvanian club, two-time Romanian champions (1995, 1999)."
     },
     {
-      "id": "f_bas_klu_eu_rou_k8",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k8",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Dinamo București",
@@ -99787,8 +99787,8 @@
       "desc_en": "Bucharest — the league's record champion with 22 titles, including a run of ten in a row (1968–1977)."
     },
     {
-      "id": "f_bas_klu_eu_rou_k9",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k9",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "FC Argeș Pitești",
@@ -99798,8 +99798,8 @@
       "desc_en": "Pitești — a club that, as CSU Pitești, won the Romanian title in 2000."
     },
     {
-      "id": "f_bas_klu_eu_rou_k10",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k10",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Petrolul Ploiești",
@@ -99809,8 +99809,8 @@
       "desc_en": "Ploiești — an oil-industry city, a club with a long tradition under various names."
     },
     {
-      "id": "f_bas_klu_eu_rou_k11",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k11",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Politehnica Timișoara",
@@ -99820,8 +99820,8 @@
       "desc_en": "Timișoara — a university club in Romania's second-largest city."
     },
     {
-      "id": "f_bas_klu_eu_rou_k12",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k12",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Rapid București",
@@ -99831,8 +99831,8 @@
       "desc_en": "Bucharest — part of the large multi-sport Rapid association."
     },
     {
-      "id": "f_bas_klu_eu_rou_k13",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k13",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "SCM U Craiova",
@@ -99842,8 +99842,8 @@
       "desc_en": "Craiova — a university club in Oltenia."
     },
     {
-      "id": "f_bas_klu_eu_rou_k14",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k14",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Steaua București",
@@ -99853,8 +99853,8 @@
       "desc_en": "Bucharest — the second-most successful club in league history with 21 titles, the Romanian army's club."
     },
     {
-      "id": "f_bas_klu_eu_rou_k15",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k15",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "U-BT Cluj-Napoca",
@@ -99864,8 +99864,8 @@
       "desc_en": "Cluj-Napoca — the current record champion (11 titles), competing in both the EuroCup and the ABA League."
     },
     {
-      "id": "f_bas_klu_eu_rou_k16",
-      "parentId": "f_bas_klu_eu_rou",
+      "id": "f_bas_rou_l1_k16",
+      "parentId": "f_bas_rou_l1",
       "type": "link",
       "icon": "",
       "name": "Vâlcea 1924",
@@ -100238,8 +100238,8 @@
       "desc_en": "Spišská Nová Ves — a club that has been crowned Slovak champion."
     },
     {
-      "id": "f_bas_klu_eu_srb_k1",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k1",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Borac Čačak",
@@ -100249,8 +100249,8 @@
       "desc_en": "Čačak — a club playing in the regional ABA League, with home games at the Borac Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k2",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k2",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Borac Zemun",
@@ -100260,8 +100260,8 @@
       "desc_en": "Zemun — a Belgrade district, the club plays its home games at the Pinki Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k3",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k3",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Čačak 94",
@@ -100271,8 +100271,8 @@
       "desc_en": "Čačak — a club founded in 1994 and the city's local rival to Borac."
     },
     {
-      "id": "f_bas_klu_eu_srb_k4",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k4",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Crvena zvezda",
@@ -100282,8 +100282,8 @@
       "desc_en": "Belgrade — one of Serbia's two most famous clubs, competing in the EuroLeague and the ABA League, based at the Belgrade Arena."
     },
     {
-      "id": "f_bas_klu_eu_srb_k5",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k5",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Dynamic Beograd",
@@ -100293,8 +100293,8 @@
       "desc_en": "Belgrade — a young Belgrade club, playing at the Ranko Žeravica Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k6",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k6",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "FMP",
@@ -100304,8 +100304,8 @@
       "desc_en": "Belgrade-Železnik — a club known for developing young talent, competing in the ABA League and European competitions."
     },
     {
-      "id": "f_bas_klu_eu_srb_k7",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k7",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Hercegovac Gajdobra",
@@ -100315,8 +100315,8 @@
       "desc_en": "Gajdobra — a club from a small Vojvodina village that was promoted to Serbia's top division in 2025."
     },
     {
-      "id": "f_bas_klu_eu_srb_k8",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k8",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Kolubara Lazarevac",
@@ -100326,8 +100326,8 @@
       "desc_en": "Lazarevac — a mining town near Belgrade, the club is named after the local Kolubara river."
     },
     {
-      "id": "f_bas_klu_eu_srb_k9",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k9",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Mega Basket",
@@ -100337,8 +100337,8 @@
       "desc_en": "Belgrade — a club famous for developing future NBA players, competing in the ABA League."
     },
     {
-      "id": "f_bas_klu_eu_srb_k10",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k10",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Metalac Valjevo",
@@ -100348,8 +100348,8 @@
       "desc_en": "Valjevo — a club named after the local metalworking company, a long-standing member of the top division."
     },
     {
-      "id": "f_bas_klu_eu_srb_k11",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k11",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Mladost Zemun",
@@ -100359,8 +100359,8 @@
       "desc_en": "Zemun — the district's second club in the competition, playing at the Master Sport Center."
     },
     {
-      "id": "f_bas_klu_eu_srb_k12",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k12",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Niš",
@@ -100370,8 +100370,8 @@
       "desc_en": "Niš — the largest city in southern Serbia; the club earned promotion to the top division in 2026, in its 30th anniversary year."
     },
     {
-      "id": "f_bas_klu_eu_srb_k13",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k13",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "OKK Beograd",
@@ -100381,8 +100381,8 @@
       "desc_en": "Belgrade — a club with a rich history, one of the city's original basketball clubs."
     },
     {
-      "id": "f_bas_klu_eu_srb_k14",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k14",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Partizan",
@@ -100392,8 +100392,8 @@
       "desc_en": "Belgrade — the other half of Serbia's most famous rivalry, a repeated European finalist, playing at the Belgrade Arena."
     },
     {
-      "id": "f_bas_klu_eu_srb_k15",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k15",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Radnički Beograd",
@@ -100403,8 +100403,8 @@
       "desc_en": "Belgrade — founded in 1945 and nicknamed the \"romantics from Krst\", part of the Radnički sports society."
     },
     {
-      "id": "f_bas_klu_eu_srb_k16",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k16",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Radnički Kragujevac",
@@ -100414,8 +100414,8 @@
       "desc_en": "Kragujevac — a club from the Šumadija region's main city, playing at the Jezero Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k17",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k17",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Sloboda Užice",
@@ -100425,8 +100425,8 @@
       "desc_en": "Užice — a club from western Serbia, playing at the Veliki Park Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k18",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k18",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Sloga Kraljevo",
@@ -100436,8 +100436,8 @@
       "desc_en": "Kraljevo — a club with a rich tradition, playing at the Kraljevo Sports Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k19",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k19",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Spartak Subotica",
@@ -100447,8 +100447,8 @@
       "desc_en": "Subotica — the reigning Serbian champion (2025/26), competing in the ABA League and the FIBA Europe Cup."
     },
     {
-      "id": "f_bas_klu_eu_srb_k20",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k20",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Tamiš Pančevo",
@@ -100458,8 +100458,8 @@
       "desc_en": "Pančevo — a club named after the Tamiš river, playing at the Strelište Sports Hall."
     },
     {
-      "id": "f_bas_klu_eu_srb_k21",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k21",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Vojvodina Novi Sad",
@@ -100469,8 +100469,8 @@
       "desc_en": "Novi Sad — the club of Vojvodina's capital, playing at the SPC Vojvodina sports center."
     },
     {
-      "id": "f_bas_klu_eu_srb_k22",
-      "parentId": "f_bas_klu_eu_srb",
+      "id": "f_bas_srb_l1_k22",
+      "parentId": "f_bas_srb_l1",
       "type": "link",
       "icon": "",
       "name": "Zlatibor",
@@ -102559,6 +102559,697 @@
       "name_en": "A1 Ethniki Andron",
       "desc_en": "Greece's top men's basketball league, 14 clubs — also known as the Basket League, dominated by Olympiacos and Panathinaikos.",
       "slug_en": "a1-andron"
+    },
+    {
+      "id": "f_bas_hun_l1",
+      "parentId": "f_bas_klu_eu_hun",
+      "type": "folder",
+      "icon": "hu",
+      "name": "NB I/A",
+      "desc": "Najvyššia maďarská mužská basketbalová súťaž.",
+      "order": 0,
+      "slug": "nb-i-a",
+      "name_en": "NB I/A",
+      "desc_en": "Hungary's top men's basketball league.",
+      "slug_en": "nb-i-a"
+    },
+    {
+      "id": "f_bas_hun_l3",
+      "parentId": "f_bas_klu_eu_hun",
+      "type": "folder",
+      "icon": "hu",
+      "name": "NB I/A (ženy)",
+      "desc": "Najvyššia maďarská ženská basketbalová liga.",
+      "order": 1,
+      "slug": "nb-i-a-zeny",
+      "name_en": "NB I/A (ženy)",
+      "desc_en": "Hungary's top women's basketball league.",
+      "slug_en": "nb-i-a-women"
+    },
+    {
+      "id": "f_bas_hun_l3_k1",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BKG-PRIMA Szigetszentmiklós",
+      "desc": "mesto pri Budapešti — klub známy najmä výchovou mladých talentov vo vlastnej akadémii.",
+      "url": "https://bkgakademia.hu/",
+      "order": 0,
+      "desc_en": "a town near Budapest — a club known chiefly for developing young talent through its own academy."
+    },
+    {
+      "id": "f_bas_hun_l3_k2",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Csata TKK",
+      "desc": "Budapešť — klub Csata DSE, ktorý v sezóne 2025/26 zažil historicky najúspešnejšie obdobie svojej existencie.",
+      "url": "https://csatatkk.hu/",
+      "order": 1,
+      "desc_en": "Budapest — the Csata DSE club, which enjoyed the most successful season in its history in 2025/26."
+    },
+    {
+      "id": "f_bas_hun_l3_k3",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "DVTK HUNTHERM",
+      "desc": "Miškovec — súčasť veľkého viacšportového klubu Diósgyőri VTK, pravidelný účastník Euroligy žien.",
+      "url": "https://dvtk.eu/2-kosarlabda-sportag",
+      "order": 2,
+      "desc_en": "Miskolc — part of the large multi-sport club Diósgyőri VTK, a regular EuroLeague Women participant."
+    },
+    {
+      "id": "f_bas_hun_l3_k4",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "ELTE BEAC Újbuda",
+      "desc": "Budapešť — univerzitný klub Budapesti Egyetemi Atlétikai Club spojený s Univerzitou Loránda Eötvösa.",
+      "url": "https://kosarlabda.beac.hu/",
+      "order": 3,
+      "desc_en": "Budapest — the university club of the Budapesti Egyetemi Atlétikai Club, affiliated with Eötvös Loránd University."
+    },
+    {
+      "id": "f_bas_hun_l3_k5",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "ETO Basket",
+      "desc": "Győr — mestský klub, predtým hrajúci pod menom UNI Győr, vlajková loď ženského basketbalu v meste.",
+      "url": "https://etobasket.hu/hu/",
+      "order": 4,
+      "desc_en": "Győr — the city's flagship women's basketball club, formerly competing under the name UNI Győr."
+    },
+    {
+      "id": "f_bas_hun_l3_k6",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "KSC Szekszárd",
+      "desc": "Szekszárd — tradičný klub (predtým Atomerőmű KSC) s bohatou históriou v najvyššej maďarskej súťaži.",
+      "url": "https://kscszekszard.hu/",
+      "order": 5,
+      "desc_en": "Szekszárd — a traditional club (formerly Atomerőmű KSC) with a rich history in Hungary's top flight."
+    },
+    {
+      "id": "f_bas_hun_l3_k7",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "NKA Universitas Pécs",
+      "desc": "Pécs — univerzitný klub s pravidelnou účasťou v európskych pohárových súťažiach.",
+      "url": "https://www.nkapecswomen.hu/",
+      "order": 6,
+      "desc_en": "Pécs — a university-linked club with regular appearances in European cup competitions."
+    },
+    {
+      "id": "f_bas_hun_l3_k8",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Sopron Basket",
+      "desc": "Šopron — najúspešnejší maďarský ženský klub, víťaz Euroligy žien 2022 aj Ronchetti Cupu 1998.",
+      "url": "https://sopronbasket.com/",
+      "order": 7,
+      "desc_en": "Sopron — Hungary's most successful women's club, winner of the 2022 EuroLeague Women and the 1998 Ronchetti Cup."
+    },
+    {
+      "id": "f_bas_hun_l3_k9",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "TFSE",
+      "desc": "Budapešť — basketbalový oddiel Maďarskej univerzity telesnej výchovy, víťaz historicky prvého maďarského šampionátu v roku 1933.",
+      "url": "https://tfse.hu/tfse-kosarlabda/",
+      "order": 8,
+      "desc_en": "Budapest — the basketball section of the Hungarian University of Sports Science, winner of the country's very first championship in 1933."
+    },
+    {
+      "id": "f_bas_hun_l3_k10",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Vasas Akadémia",
+      "desc": "Budapešť — klub hrajúci pod značkou Vasas Basket, jedna z bášt maďarského ženského basketbalu.",
+      "url": "https://vasasbasket.hu/",
+      "order": 9,
+      "desc_en": "Budapest — playing under the Vasas Basket brand, one of the strongholds of Hungarian women's basketball."
+    },
+    {
+      "id": "f_bas_hun_l3_k11",
+      "parentId": "f_bas_hun_l3",
+      "type": "link",
+      "icon": "",
+      "name": "VBW CEKK Cegléd",
+      "desc": "Cegléd — mestský klub reprezentujúci mesto v najvyššej ženskej súťaži.",
+      "url": "https://www.cekk.hu/new/",
+      "order": 10,
+      "desc_en": "Cegléd — the city's club representing it in the top-flight women's league."
+    },
+    {
+      "id": "f_bas_rou_l1",
+      "parentId": "f_bas_klu_eu_rou",
+      "type": "folder",
+      "icon": "ro",
+      "name": "Liga Națională",
+      "desc": "Najvyššia rumunská mužská basketbalová súťaž, aktuálnym majstrom je U-BT Cluj-Napoca.",
+      "order": 0,
+      "slug": "liga-nationala",
+      "name_en": "Liga Națională",
+      "desc_en": "Romania's top men's basketball league, with U-BT Cluj-Napoca the reigning champion.",
+      "slug_en": "liga-nationala"
+    },
+    {
+      "id": "f_bas_rou_l3",
+      "parentId": "f_bas_klu_eu_rou",
+      "type": "folder",
+      "icon": "ro",
+      "name": "Liga Națională (ženy)",
+      "desc": "Najvyššia rumunská ženská basketbalová liga.",
+      "order": 1,
+      "slug": "liga-nationala-zeny",
+      "name_en": "Liga Națională (ženy)",
+      "desc_en": "Romania's top women's basketball league.",
+      "slug_en": "liga-nationala-women"
+    },
+    {
+      "id": "f_bas_rou_l3_k1",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "ACS Sepsi-SIC",
+      "desc": "Sfântu Gheorghe — pravidelný účastník Euroligy aj Eurocupu žien, najsilnejší rumunský klub posledných rokov.",
+      "url": "https://sepsi-sic.ro/",
+      "order": 0,
+      "desc_en": "Sfântu Gheorghe — a regular EuroLeague and EuroCup Women participant and Romania's strongest club of recent years."
+    },
+    {
+      "id": "f_bas_rou_l3_k2",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CS Agronomia București",
+      "desc": "Bukurešť — klub Poľnohospodárskej univerzity (USAMV), jeden z popredných tímov hlavného mesta.",
+      "url": "https://www.facebook.com/agrobkt/",
+      "order": 1,
+      "desc_en": "Bucharest — the club of the Agricultural University (USAMV), one of the capital's leading teams."
+    },
+    {
+      "id": "f_bas_rou_l3_k3",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CS Rapid București",
+      "desc": "Bukurešť — klub s deväťdesiatročnou tradíciou a deviatimi rumunskými titulmi vo ženskom basketbale.",
+      "url": "https://baschet.csrapid.ro/",
+      "order": 2,
+      "desc_en": "Bucharest — a club with a ninety-year tradition and nine Romanian titles in women's basketball."
+    },
+    {
+      "id": "f_bas_rou_l3_k4",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CS Universitatea Cluj-Napoca",
+      "desc": "Cluj-Napoca — univerzitný klub sedmohradskej metropoly.",
+      "url": "https://u-cluj.ro/baschet-feminin/",
+      "order": 3,
+      "desc_en": "Cluj-Napoca — the university club of the Transylvanian metropolis."
+    },
+    {
+      "id": "f_bas_rou_l3_k5",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CSM CSU Târgoviște",
+      "desc": "Târgoviște — klub, ktorý v posledných sezónach opakovane hráva o titul Ligy Naționale.",
+      "url": "https://www.facebook.com/csmtargovisteofficial/",
+      "order": 4,
+      "desc_en": "Târgoviște — a club that has repeatedly contended for the Liga Națională title in recent seasons."
+    },
+    {
+      "id": "f_bas_rou_l3_k6",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CSU Politehnica Timișoara",
+      "desc": "Timișoara — basketbalový oddiel technickej univerzity, do najvyššej súťaže vstúpil v roku 2025.",
+      "url": "https://www.csupt.ro/baschet/",
+      "order": 5,
+      "desc_en": "Timișoara — the basketball section of the technical university, which joined the top flight in 2025."
+    },
+    {
+      "id": "f_bas_rou_l3_k7",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "FCC Baschet UAV Arad",
+      "desc": "Arad — klub s deviatimi rumunskými titulmi a skúsenosťami zo Strednej európskej ligy.",
+      "url": "https://www.baschetarad.ro/site",
+      "order": 6,
+      "desc_en": "Arad — a club with nine Romanian titles and experience in the Central European League."
+    },
+    {
+      "id": "f_bas_rou_l3_k8",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Olimpia CSU Brașov",
+      "desc": "Brašov — sedmohradský klub zastupujúci mesto v najvyššej ženskej lige.",
+      "url": "https://www.facebook.com/olimpiabrasov/",
+      "order": 7,
+      "desc_en": "Brașov — the Transylvanian club representing the city in the top women's league."
+    },
+    {
+      "id": "f_bas_rou_l3_k9",
+      "parentId": "f_bas_rou_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Sportul Studențesc Leii București",
+      "desc": "Bukurešť — klub s tradíciou od roku 1945 a jedenástimi majstrovskými titulmi.",
+      "url": "https://sportulstudentesc.ro/baschet/",
+      "order": 8,
+      "desc_en": "Bucharest — a club with a tradition dating back to 1945 and eleven Romanian championship titles."
+    },
+    {
+      "id": "f_bas_bel_l1",
+      "parentId": "f_bas_klu_eu_bel",
+      "type": "folder",
+      "icon": "be",
+      "name": "BNXT League",
+      "desc": "Spoločná belgicko-holandská mužská basketbalová liga, v ktorej hrajú aj belgické kluby.",
+      "order": 0,
+      "slug": "bnxt-league",
+      "name_en": "BNXT League",
+      "desc_en": "The joint Belgian-Dutch men's basketball league in which Belgian clubs compete.",
+      "slug_en": "bnxt-league"
+    },
+    {
+      "id": "f_bas_bel_l3",
+      "parentId": "f_bas_klu_eu_bel",
+      "type": "folder",
+      "icon": "be",
+      "name": "Top Division Women (ženy)",
+      "desc": "Najvyššia belgická ženská basketbalová liga.",
+      "order": 1,
+      "slug": "top-division-women-zeny",
+      "name_en": "Top Division Women (ženy)",
+      "desc_en": "Belgium's top women's basketball league.",
+      "slug_en": "top-division-women"
+    },
+    {
+      "id": "f_bas_bel_l3_k1",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Amon Jeugd Gentson",
+      "desc": "Gent — klub zastupujúci flámsku metropolu v najvyššej belgickej ženskej lige.",
+      "url": "https://www.amonjeugdgentson.be/",
+      "order": 0,
+      "desc_en": "Ghent — the club representing the Flemish city in Belgium's top women's league."
+    },
+    {
+      "id": "f_bas_bel_l3_k2",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Basket Lummen",
+      "desc": "Lummen — limburský klub v najvyššej belgickej súťaži.",
+      "url": "https://www.basketlummen.be/",
+      "order": 1,
+      "desc_en": "Lummen — a Limburg club competing in Belgium's top flight."
+    },
+    {
+      "id": "f_bas_bel_l3_k3",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Basket Namur Capitale",
+      "desc": "Namur — klub s rekordným počtom belgických titulov v ženskom basketbale.",
+      "url": "https://www.basketnamurcapitale.be/",
+      "order": 2,
+      "desc_en": "Namur — the club with the most Belgian titles in women's basketball history."
+    },
+    {
+      "id": "f_bas_bel_l3_k4",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Basket Waregem",
+      "desc": "Waregem — klub hrajúci pod menom sponzora G&V Breakpoint, stály účastník najvyššej súťaže.",
+      "url": "https://www.basketwaregem.be/",
+      "order": 3,
+      "desc_en": "Waregem — playing under the G&V Breakpoint sponsor name, a regular in Belgium's top division."
+    },
+    {
+      "id": "f_bas_bel_l3_k5",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Castors Braine",
+      "desc": "Braine-l'Alleud — najúspešnejší belgický klub posledného desaťročia so siedmimi titulmi.",
+      "url": "https://www.castorsbraine.be/",
+      "order": 4,
+      "desc_en": "Braine-l'Alleud — Belgium's most successful club of the last decade, with seven national titles."
+    },
+    {
+      "id": "f_bas_bel_l3_k6",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CEP Ladies Charleroi",
+      "desc": "Charleroi — klub známy predtým ako Spirou Ladies Charleroi.",
+      "url": "https://www.basketclubs.be/spirouladies/",
+      "order": 5,
+      "desc_en": "Charleroi — a club previously known as Spirou Ladies Charleroi."
+    },
+    {
+      "id": "f_bas_bel_l3_k7",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Kangoeroes Mechelen",
+      "desc": "Mechelen — klub s tromi belgickými titulmi za sebou (2022 – 2024).",
+      "url": "https://www.kangoeroesbasket.be/dames/team/",
+      "order": 6,
+      "desc_en": "Mechelen — a club with three consecutive Belgian titles (2022-2024)."
+    },
+    {
+      "id": "f_bas_bel_l3_k8",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Kortrijk Spurs",
+      "desc": "Kortrijk — klub zo západného Flámska hrajúci najvyššiu belgickú súťaž.",
+      "url": "https://www.houseoftalentsspurs.be/ploegen/dames-a",
+      "order": 7,
+      "desc_en": "Kortrijk — a West Flanders club competing in Belgium's top division."
+    },
+    {
+      "id": "f_bas_bel_l3_k9",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "LDP Donza",
+      "desc": "región De Pinte, Deinze, Nazareth a Latem — klub zastupujúci Východné Flámsko.",
+      "url": "https://ldpdonza.be/ploegen/dames/",
+      "order": 8,
+      "desc_en": "representing the De Pinte, Deinze, Nazareth and Latem area in East Flanders."
+    },
+    {
+      "id": "f_bas_bel_l3_k10",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Liège Panthers",
+      "desc": "Liège — klub reprezentujúci valónsku metropolu v najvyššej súťaži.",
+      "url": "https://www.liege-panthers.be/",
+      "order": 9,
+      "desc_en": "Liège — the club representing the Walloon city in the top flight."
+    },
+    {
+      "id": "f_bas_bel_l3_k11",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Phantoms Boom",
+      "desc": "Boom — antverpský klub v najvyššej belgickej ženskej lige.",
+      "url": "https://phantomsboom.be/",
+      "order": 10,
+      "desc_en": "Boom — an Antwerp-area club in Belgium's top women's league."
+    },
+    {
+      "id": "f_bas_bel_l3_k12",
+      "parentId": "f_bas_bel_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Spirou PDL Basket",
+      "desc": "Charleroi — nový ženský tím, ktorý sa v sezóne 2025/26 pripojil k štruktúre klubu Spirou Charleroi z Pont-de-Loup.",
+      "url": "https://www.spiroubasket.be/",
+      "order": 11,
+      "desc_en": "Charleroi — a new women's team that joined the Spirou Charleroi structure from Pont-de-Loup for the 2025/26 season."
+    },
+    {
+      "id": "f_bas_srb_l1",
+      "parentId": "f_bas_klu_eu_srb",
+      "type": "folder",
+      "icon": "rs",
+      "name": "Košarkaška liga Srbije (KLS)",
+      "desc": "Najvyššia srbská mužská súťaž (Prva liga), doplnená o šesť srbských klubov hrajúcich súbežne aj Jadranskú ligu ABA.",
+      "order": 0,
+      "slug": "kls",
+      "name_en": "Košarkaška liga Srbije (KLS)",
+      "desc_en": "Serbia's top men's competition (First League), joined by six Serbian clubs that also play in the regional ABA League.",
+      "slug_en": "kls"
+    },
+    {
+      "id": "f_bas_srb_l3",
+      "parentId": "f_bas_klu_eu_srb",
+      "type": "folder",
+      "icon": "rs",
+      "name": "1. ŽLS (ženy)",
+      "desc": "Najvyššia srbská ženská basketbalová liga (Prva ženska liga Srbije).",
+      "order": 1,
+      "slug": "1-zls-zeny",
+      "name_en": "1. ŽLS (ženy)",
+      "desc_en": "Serbia's top women's basketball league (First Women's League of Serbia).",
+      "slug_en": "1-zls-women"
+    },
+    {
+      "id": "f_bas_srb_l3_k1",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Crvena zvezda",
+      "desc": "Belehrad — najtitulovanejší srbský klub, aktuálny majster krajiny.",
+      "url": "https://kkzcrvenazvezda.rs/",
+      "order": 0,
+      "desc_en": "Belgrade — Serbia's most decorated club and the current national champion."
+    },
+    {
+      "id": "f_bas_srb_l3_k2",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Duga Šabac",
+      "desc": "Šabac — klub zastupujúci mesto na západe Srbska v najvyššej lige.",
+      "url": "https://www.facebook.com/zkkdugasabac/",
+      "order": 1,
+      "desc_en": "Šabac — the club representing the western Serbian city in the top league."
+    },
+    {
+      "id": "f_bas_srb_l3_k3",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Korać Akademija 011",
+      "desc": "Belehrad — akademický klub pomenovaný po legende Radivojovi Koraćovi.",
+      "url": "https://basketball.eurobasket.com/team/Korac-Akademija-011/69725?Women=1",
+      "order": 2,
+      "desc_en": "Belgrade — an academy club named after the legendary Radivoj Korać."
+    },
+    {
+      "id": "f_bas_srb_l3_k4",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Kraljevo",
+      "desc": "klub zastupujúci mesto v strednom Srbsku v Prvej ženskej lige.",
+      "url": "https://basketball.eurobasket.com/team/ZKK_Kraljevo/10549?Women=1",
+      "order": 3,
+      "desc_en": "a club representing the central Serbian city in the First Women's League."
+    },
+    {
+      "id": "f_bas_srb_l3_k5",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Mega MIS",
+      "desc": "Belehrad — klub pôsobiaci predtým pod menom Art Basket.",
+      "url": "https://zkkartbasket.com/",
+      "order": 4,
+      "desc_en": "Belgrade — a club that previously competed under the name Art Basket."
+    },
+    {
+      "id": "f_bas_srb_l3_k6",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Novosadska ŽKA",
+      "desc": "Nový Sad — ženská basketbalová akadémia mesta na Dunaji.",
+      "url": "https://www.novosadskazka.com/",
+      "order": 5,
+      "desc_en": "Novi Sad — the city's women's basketball academy on the Danube."
+    },
+    {
+      "id": "f_bas_srb_l3_k7",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Partizan 1953",
+      "desc": "Belehrad — ženská sekcia slávneho klubu Partizan.",
+      "url": "https://kzkpartizan1953.rs/",
+      "order": 6,
+      "desc_en": "Belgrade — the women's section of the famous Partizan club."
+    },
+    {
+      "id": "f_bas_srb_l3_k8",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Radnički",
+      "desc": "Belehrad — klub hrajúci pod skratkou KKŽ Radnički.",
+      "url": "https://radnicki.basketball/",
+      "order": 7,
+      "desc_en": "Belgrade — a club competing under the name KKŽ Radnički."
+    },
+    {
+      "id": "f_bas_srb_l3_k9",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Ras",
+      "desc": "Belehrad — klub založený v roku 1998.",
+      "url": "https://www.facebook.com/people/KK-Ras/100064519847499/",
+      "order": 8,
+      "desc_en": "Belgrade — a club founded in 1998."
+    },
+    {
+      "id": "f_bas_srb_l3_k10",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Spartak Subotica",
+      "desc": "Subotica — klub reprezentujúci mesto na severe Vojvodiny.",
+      "url": "https://www.facebook.com/12vop/",
+      "order": 9,
+      "desc_en": "Subotica — the club representing the northern Vojvodina city."
+    },
+    {
+      "id": "f_bas_srb_l3_k11",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Student Niš",
+      "desc": "Niš — univerzitný klub juhosrbskej metropoly.",
+      "url": "https://basketball.eurobasket.com/team/ZKK-Student-Nis/7965?Women=1",
+      "order": 10,
+      "desc_en": "Niš — the university club of the South Serbian city."
+    },
+    {
+      "id": "f_bas_srb_l3_k12",
+      "parentId": "f_bas_srb_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Vojvodina 021",
+      "desc": "Nový Sad — klub pomenovaný podľa telefónnej predvoľby mesta.",
+      "url": "https://zkkvojvodina021.rs/",
+      "order": 11,
+      "desc_en": "Novi Sad — a club named after the city's telephone area code."
+    },
+    {
+      "id": "f_bas_ltu_l1",
+      "parentId": "f_bas_klu_eu_ltu",
+      "type": "folder",
+      "icon": "lt",
+      "name": "Lietuvos krepšinio lyga (LKL)",
+      "desc": "Najvyššia litovská mužská basketbalová liga.",
+      "order": 0,
+      "slug": "lkl",
+      "name_en": "Lietuvos krepšinio lyga (LKL)",
+      "desc_en": "Lithuania's top men's basketball league.",
+      "slug_en": "lkl"
+    },
+    {
+      "id": "f_bas_ltu_l3",
+      "parentId": "f_bas_klu_eu_ltu",
+      "type": "folder",
+      "icon": "lt",
+      "name": "LMKL (ženy)",
+      "desc": "Najvyššia litovská ženská basketbalová liga, od sezóny 2025/26 spojená s pobaltskou Moterų lygou.",
+      "order": 1,
+      "slug": "lmkl-zeny",
+      "name_en": "LMKL (ženy)",
+      "desc_en": "Lithuania's top women's basketball league, merged since the 2025/26 season into the joint Baltic Moterų lyga.",
+      "slug_en": "lmkl-women"
+    },
+    {
+      "id": "f_bas_ltu_l3_k1",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Aistės-LSMU Kaunas",
+      "desc": "Kaunas — reprezentačný klub mesta spojený s Lietuvos zdravotníckou univerzitou (LSMU).",
+      "url": "https://www.facebook.com/aistes.lt/",
+      "order": 0,
+      "desc_en": "Kaunas — the city's representative club, affiliated with the Lithuanian University of Health Sciences (LSMU)."
+    },
+    {
+      "id": "f_bas_ltu_l3_k2",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Alytus ALYTUS-GUT.LT",
+      "desc": "Alytus — klub južnej Litvy hrajúci v spoločnej pobaltskej Moterų lyge.",
+      "url": "https://www.facebook.com/p/Alytaus-SRC-krep%C5%A1inis-100087651811018/",
+      "order": 1,
+      "desc_en": "Alytus — a southern Lithuanian club competing in the joint Baltic Moterų lyga."
+    },
+    {
+      "id": "f_bas_ltu_l3_k3",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Kibirkštis-TOKS",
+      "desc": "Vilnius — historicky najúspešnejší litovský ženský klub.",
+      "url": "https://bckibirkstis.lt/",
+      "order": 2,
+      "desc_en": "Vilnius — historically Lithuania's most successful women's club."
+    },
+    {
+      "id": "f_bas_ltu_l3_k4",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "LCC International University",
+      "desc": "Klaipėda — klub medzinárodnej univerzity na pobreží Baltského mora.",
+      "url": "https://lcc.lt/",
+      "order": 3,
+      "desc_en": "Klaipėda — the club of the international university on the Baltic coast."
+    },
+    {
+      "id": "f_bas_ltu_l3_k5",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "MKK Panevėžys",
+      "desc": "Panevėžys — klub zastupujúci mesto v severnej Litve.",
+      "url": "https://www.facebook.com/wbcpanevezys/",
+      "order": 4,
+      "desc_en": "Panevėžys — the club representing the northern Lithuanian city."
+    },
+    {
+      "id": "f_bas_ltu_l3_k6",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Neptūnas-Amberton",
+      "desc": "Klaipėda — ženský tím prístavného mesta, pravidelný účastník Eurocupu žien.",
+      "url": "https://www.facebook.com/wbcneptunas/",
+      "order": 5,
+      "desc_en": "Klaipėda — the port city's women's team, a regular EuroCup Women participant."
+    },
+    {
+      "id": "f_bas_ltu_l3_k7",
+      "parentId": "f_bas_ltu_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Šiauliai-Vilmers",
+      "desc": "Šiauliai — klub severnej Litvy s históriou medailových umiestnení v Moterų lyge.",
+      "url": "https://bcsiauliai.lt/siauliai-vilmers/",
+      "order": 6,
+      "desc_en": "Šiauliai — a northern Lithuanian club with a history of medal finishes in the Moterų lyga."
     }
   ],
   "title_en": "Sportlinking",
