@@ -1,5 +1,5 @@
 {
-  "version": 134,
+  "version": 138,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -103889,11 +103889,11 @@
       "type": "link",
       "icon": "",
       "name": "Veľká Británia",
-      "desc": "British Basketball — profil britského zväzu na stránke FIBA; zväz je od novembra 2025 v likvidácii a vlastný web už nefunguje.",
-      "url": "https://about.fiba.basketball/en/national-federations/976-great-britain",
+      "desc": "British Basketball Federation je od 14.11.2025 v likvidácii, vlastný web je zamrznutý — odkaz vedie na profil krajiny na eurobasket.com.",
+      "url": "https://www.eurobasket.com/Great-Britain/basketball.aspx",
       "order": 45,
       "name_en": "Great Britain",
-      "desc_en": "British Basketball — the British federation's profile on the FIBA site; the federation went into liquidation in November 2025 and its own website no longer works."
+      "desc_en": "The British Basketball Federation has been in liquidation since 14 Nov 2025 and its own website is frozen — link leads to the country profile on eurobasket.com."
     },
     {
       "id": "f_bas_aso_az_k1",
@@ -103904,7 +103904,8 @@
       "desc": "Afganský národný basketbalový zväz (ANBF), člen juhoázijskej zóny SABA.",
       "url": "https://www.facebook.com/ANBFofficialpage/",
       "order": 0,
-      "desc_en": "Afghanistan National Basketball Federation (ANBF), a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Afghanistan National Basketball Federation (ANBF), a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Afghanistan"
     },
     {
       "id": "f_bas_aso_az_k2",
@@ -103915,7 +103916,8 @@
       "desc": "Bahrajnský basketbalový zväz, člen zálivovej zóny GBA, mužský tím pravidelne hráva na Ázijskom pohári.",
       "url": "https://basketball.bh",
       "order": 1,
-      "desc_en": "Bahrain Basketball Association, a member of FIBA Asia's Gulf sub-zone (GBA); the men's team is a regular at the FIBA Asia Cup."
+      "desc_en": "Bahrain Basketball Association, a member of FIBA Asia's Gulf sub-zone (GBA); the men's team is a regular at the FIBA Asia Cup.",
+      "name_en": "Bahrain"
     },
     {
       "id": "f_bas_aso_az_k3",
@@ -103926,7 +103928,8 @@
       "desc": "Bangladéšsky basketbalový zväz, člen juhoázijskej zóny SABA.",
       "url": "https://bbf-two.vercel.app",
       "order": 2,
-      "desc_en": "Bangladesh Basketball Federation, a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Bangladesh Basketball Federation, a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Bangladesh"
     },
     {
       "id": "f_bas_aso_az_k4",
@@ -103937,7 +103940,8 @@
       "desc": "Basketbalová federácia Bhutánu (BFB), člen juhoázijskej zóny SABA, mladá federácia rozvíjajúca šport v krajine.",
       "url": "https://www.facebook.com/p/BFB-Basketball-Federation-of-Bhutan-61574619792239/",
       "order": 3,
-      "desc_en": "Basketball Federation of Bhutan (BFB), a member of FIBA Asia's South Asia sub-zone (SABA), a young federation growing the sport in the country."
+      "desc_en": "Basketball Federation of Bhutan (BFB), a member of FIBA Asia's South Asia sub-zone (SABA), a young federation growing the sport in the country.",
+      "name_en": "Bhutan"
     },
     {
       "id": "f_bas_aso_az_k5",
@@ -103948,7 +103952,8 @@
       "desc": "Basketbalový zväz Brunejského sultanátu, člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://www.facebook.com/brubballassociation/",
       "order": 4,
-      "desc_en": "Brunei Basketball Association, a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Brunei Basketball Association, a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Brunei"
     },
     {
       "id": "f_bas_aso_az_k6",
@@ -103959,7 +103964,8 @@
       "desc": "Čínsky basketbalový zväz (CBA), riadi aj profesionálnu ligu CBA, v ktorej pôsobil napríklad Yao Ming.",
       "url": "https://www.cba.net.cn",
       "order": 5,
-      "desc_en": "Chinese Basketball Association (CBA), also governing the professional CBA league where Yao Ming once played."
+      "desc_en": "Chinese Basketball Association (CBA), also governing the professional CBA league where Yao Ming once played.",
+      "name_en": "China"
     },
     {
       "id": "f_bas_aso_az_k7",
@@ -103970,7 +103976,8 @@
       "desc": "Samahang Basketbol ng Pilipinas (SBP) — basketbal je na Filipínach najpopulárnejším športom, krajina spoluhostila MS 2023.",
       "url": "https://sbp.ph",
       "order": 6,
-      "desc_en": "Samahang Basketbol ng Pilipinas (SBP) — basketball is the most popular sport in the Philippines, which co-hosted the 2023 FIBA World Cup."
+      "desc_en": "Samahang Basketbol ng Pilipinas (SBP) — basketball is the most popular sport in the Philippines, which co-hosted the 2023 FIBA World Cup.",
+      "name_en": "Philippines"
     },
     {
       "id": "f_bas_aso_az_k8",
@@ -103981,7 +103988,8 @@
       "desc": "Basketbalový zväz Hongkongu, samostatný člen FIBA aj napriek príslušnosti k Číne.",
       "url": "https://www.basketball.org.hk",
       "order": 7,
-      "desc_en": "Basketball Association of Hong Kong, China — a separate FIBA member despite being part of China."
+      "desc_en": "Basketball Association of Hong Kong, China — a separate FIBA member despite being part of China.",
+      "name_en": "Hong Kong"
     },
     {
       "id": "f_bas_aso_az_k9",
@@ -103992,7 +104000,8 @@
       "desc": "Basketbalová federácia Indie (BFI), rastúci šport v krajine s pridruženou profiligou UBA.",
       "url": "https://www.basketballfederationindia.org",
       "order": 8,
-      "desc_en": "Basketball Federation of India (BFI), a growing sport in the country with the associated UBA professional league."
+      "desc_en": "Basketball Federation of India (BFI), a growing sport in the country with the associated UBA professional league.",
+      "name_en": "India"
     },
     {
       "id": "f_bas_aso_az_k10",
@@ -104003,7 +104012,8 @@
       "desc": "PERBASI, Indonézska basketbalová asociácia, člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://www.facebook.com/indonesiabasketball/",
       "order": 9,
-      "desc_en": "PERBASI, the Indonesian Basketball Association, a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "PERBASI, the Indonesian Basketball Association, a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Indonesia"
     },
     {
       "id": "f_bas_aso_az_k11",
@@ -104014,7 +104024,8 @@
       "desc": "Iracký basketbalový zväz, mužský tím bol v minulosti viacnásobným ázijským šampiónom.",
       "url": "https://www.facebook.com/Iraq.Basketball/",
       "order": 10,
-      "desc_en": "Iraqi Basketball Association — the men's team was a multiple Asian champion in the past."
+      "desc_en": "Iraqi Basketball Association — the men's team was a multiple Asian champion in the past.",
+      "name_en": "Iraq"
     },
     {
       "id": "f_bas_aso_az_k12",
@@ -104025,7 +104036,8 @@
       "desc": "Basketbalová federácia Iránskej islamskej republiky, mužský tím patrí medzi ázijskú špičku.",
       "url": "https://www.facebook.com/iribf/",
       "order": 11,
-      "desc_en": "Basketball Federation of the Islamic Republic of Iran — the men's national team ranks among Asia's elite."
+      "desc_en": "Basketball Federation of the Islamic Republic of Iran — the men's national team ranks among Asia's elite.",
+      "name_en": "Iran"
     },
     {
       "id": "f_bas_aso_az_k13",
@@ -104036,7 +104048,8 @@
       "desc": "Japonská basketbalová asociácia (JBA), riadi aj profesionálnu ligu B.League.",
       "url": "https://www.japanbasketball.jp",
       "order": 12,
-      "desc_en": "Japan Basketball Association (JBA), which also governs the professional B.League."
+      "desc_en": "Japan Basketball Association (JBA), which also governs the professional B.League.",
+      "name_en": "Japan"
     },
     {
       "id": "f_bas_aso_az_k14",
@@ -104047,7 +104060,8 @@
       "desc": "Jemenský basketbalový zväz, člen západoázijskej zóny WABA.",
       "url": "https://www.facebook.com/YemenBasketballAssociation/",
       "order": 13,
-      "desc_en": "Yemen Basketball Association, a member of FIBA Asia's West Asia sub-zone (WABA)."
+      "desc_en": "Yemen Basketball Association, a member of FIBA Asia's West Asia sub-zone (WABA).",
+      "name_en": "Yemen"
     },
     {
       "id": "f_bas_aso_az_k15",
@@ -104058,7 +104072,8 @@
       "desc": "Jordánsky basketbalový zväz (JBF), hlavné mesto Ammán pravidelne hostí medzinárodné turnaje.",
       "url": "https://www.jbf.jo",
       "order": 14,
-      "desc_en": "Jordan Basketball Federation (JBF) — the capital Amman regularly hosts international tournaments."
+      "desc_en": "Jordan Basketball Federation (JBF) — the capital Amman regularly hosts international tournaments.",
+      "name_en": "Jordan"
     },
     {
       "id": "f_bas_aso_az_k16",
@@ -104069,7 +104084,8 @@
       "desc": "Kórejská basketbalová asociácia (KBA), riadi aj profesionálnu ligu KBL.",
       "url": "https://www.koreabasketball.or.kr",
       "order": 15,
-      "desc_en": "Korea Basketball Association (KBA), which also governs the professional KBL league."
+      "desc_en": "Korea Basketball Association (KBA), which also governs the professional KBL league.",
+      "name_en": "South Korea"
     },
     {
       "id": "f_bas_aso_az_k17",
@@ -104077,10 +104093,11 @@
       "type": "link",
       "icon": "",
       "name": "Kambodža",
-      "desc": "Kambodžský basketbalový zväz, člen juhovýchodoázijskej zóny SEABA, šport je v krajine ešte len v rozvoji.",
-      "url": "https://about.fiba.basketball/en/national-federations/87-cambodia",
+      "desc": "Kambodžská basketbalová federácia — bez vlastného webu ani soc. siete, odkaz vedie na profil krajiny na asia-basket.com.",
+      "url": "https://www.asia-basket.com/Cambodia/basketball.aspx",
       "order": 16,
-      "desc_en": "Cambodia Basketball Federation, a member of FIBA Asia's South East Asia sub-zone (SEABA); the sport is still developing there."
+      "desc_en": "Cambodia Basketball Federation — no own website or social media, link leads to the country profile on asia-basket.com.",
+      "name_en": "Cambodia"
     },
     {
       "id": "f_bas_aso_az_k18",
@@ -104091,7 +104108,8 @@
       "desc": "Katarský basketbalový zväz, hlavné mesto Dauha hostilo viacero ázijských turnajov.",
       "url": "https://www.qatarbasketball.qa",
       "order": 17,
-      "desc_en": "Qatar Basketball Federation — the capital Doha has hosted several Asian tournaments."
+      "desc_en": "Qatar Basketball Federation — the capital Doha has hosted several Asian tournaments.",
+      "name_en": "Qatar"
     },
     {
       "id": "f_bas_aso_az_k19",
@@ -104102,7 +104120,8 @@
       "desc": "Kazašská národná basketbalová federácia — jediná stredoázijská krajina, ktorá vo futbale hrá v UEFA, no v basketbale patrí do FIBA Ázie.",
       "url": "https://nbfkz.com",
       "order": 18,
-      "desc_en": "National Basketball Federation of Kazakhstan — the only Central Asian country that plays UEFA football, yet competes in FIBA Asia for basketball."
+      "desc_en": "National Basketball Federation of Kazakhstan — the only Central Asian country that plays UEFA football, yet competes in FIBA Asia for basketball.",
+      "name_en": "Kazakhstan"
     },
     {
       "id": "f_bas_aso_az_k20",
@@ -104113,7 +104132,8 @@
       "desc": "Kirgizský basketbalový zväz, člen stredoázijskej zóny CABA.",
       "url": "https://www.facebook.com/kbfonline/",
       "order": 19,
-      "desc_en": "Kyrgyz Basketball Federation, a member of FIBA Asia's Central Asia sub-zone (CABA)."
+      "desc_en": "Kyrgyz Basketball Federation, a member of FIBA Asia's Central Asia sub-zone (CABA).",
+      "name_en": "Kyrgyzstan"
     },
     {
       "id": "f_bas_aso_az_k21",
@@ -104121,10 +104141,11 @@
       "type": "link",
       "icon": "",
       "name": "Kuvajt",
-      "desc": "Kuvajtský basketbalový zväz, člen zálivovej zóny GBA.",
-      "url": "https://about.fiba.basketball/en/national-federations/91-kuwait",
+      "desc": "Kuvajtská basketbalová federácia — bez vlastného webu ani overiteľnej soc. siete, odkaz vedie na profil krajiny na asia-basket.com.",
+      "url": "https://www.asia-basket.com/Kuwait/basketball.aspx",
       "order": 20,
-      "desc_en": "Kuwait Basketball Association, a member of FIBA Asia's Gulf sub-zone (GBA)."
+      "desc_en": "Kuwait Basketball Federation — no own website or verifiable social media, link leads to the country profile on asia-basket.com.",
+      "name_en": "Kuwait"
     },
     {
       "id": "f_bas_aso_az_k22",
@@ -104135,7 +104156,8 @@
       "desc": "Laoská basketbalová federácia, založená v roku 2015, člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://www.facebook.com/p/Laos-Basketball-Federation-100046070425927/",
       "order": 21,
-      "desc_en": "Lao Basketball Federation, founded in 2015, a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Lao Basketball Federation, founded in 2015, a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Laos"
     },
     {
       "id": "f_bas_aso_az_k23",
@@ -104146,7 +104168,8 @@
       "desc": "Libanonská basketbalová federácia — mužský tím patrí k tradičným ázijským výberom, domáca liga je jednou z najsilnejších na Blízkom východe.",
       "url": "https://lebanon.basketball",
       "order": 22,
-      "desc_en": "Lebanese Basketball Federation — the men's national team is a traditional Asian contender, and the domestic league is one of the strongest in the Middle East."
+      "desc_en": "Lebanese Basketball Federation — the men's national team is a traditional Asian contender, and the domestic league is one of the strongest in the Middle East.",
+      "name_en": "Lebanon"
     },
     {
       "id": "f_bas_aso_az_k24",
@@ -104157,7 +104180,8 @@
       "desc": "Basketbalový zväz Macaa (Čína), samostatný člen FIBA.",
       "url": "https://www.basketball.org.mo",
       "order": 23,
-      "desc_en": "Macau — China Basketball Association, a separate FIBA member."
+      "desc_en": "Macau — China Basketball Association, a separate FIBA member.",
+      "name_en": "Macau"
     },
     {
       "id": "f_bas_aso_az_k25",
@@ -104168,7 +104192,8 @@
       "desc": "Basketbalová asociácia Malajzie (MABA), člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://malaysiabasketball.com",
       "order": 24,
-      "desc_en": "Malaysia Basketball Association (MABA), a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Malaysia Basketball Association (MABA), a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Malaysia"
     },
     {
       "id": "f_bas_aso_az_k26",
@@ -104179,7 +104204,8 @@
       "desc": "Basketbalová asociácia Maldiv (MBA), založená v roku 1990, člen juhoázijskej zóny SABA.",
       "url": "https://www.facebook.com/MaldivesBasketballAssociation/",
       "order": 25,
-      "desc_en": "Maldives Basketball Association (MBA), founded in 1990, a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Maldives Basketball Association (MBA), founded in 1990, a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Maldives"
     },
     {
       "id": "f_bas_aso_az_k27",
@@ -104190,7 +104216,8 @@
       "desc": "Mjanmarská basketbalová federácia, člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://www.facebook.com/myanmarmbf/",
       "order": 26,
-      "desc_en": "Myanmar Basketball Federation, a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Myanmar Basketball Federation, a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Myanmar"
     },
     {
       "id": "f_bas_aso_az_k28",
@@ -104201,7 +104228,8 @@
       "desc": "Mongolská národná basketbalová asociácia, člen východoázijskej zóny EABA.",
       "url": "https://www.facebook.com/MonNBA/",
       "order": 27,
-      "desc_en": "Mongolian National Basketball Association, a member of FIBA Asia's East Asia sub-zone (EABA)."
+      "desc_en": "Mongolian National Basketball Association, a member of FIBA Asia's East Asia sub-zone (EABA).",
+      "name_en": "Mongolia"
     },
     {
       "id": "f_bas_aso_az_k29",
@@ -104212,7 +104240,8 @@
       "desc": "Basketbalová asociácia Nepálu (NeBA), člen juhoázijskej zóny SABA.",
       "url": "https://nepalbasketball.org.np",
       "order": 28,
-      "desc_en": "Nepal Basketball Association (NeBA), a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Nepal Basketball Association (NeBA), a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Nepal"
     },
     {
       "id": "f_bas_aso_az_k30",
@@ -104223,7 +104252,8 @@
       "desc": "Ománsky basketbalový zväz so sídlom v Maskate, člen zálivovej zóny GBA.",
       "url": "https://www.facebook.com/p/Oman-Basketball-Association-100087920985862/",
       "order": 29,
-      "desc_en": "Oman Basketball Association, based in the capital Muscat, a member of FIBA Asia's Gulf sub-zone (GBA)."
+      "desc_en": "Oman Basketball Association, based in the capital Muscat, a member of FIBA Asia's Gulf sub-zone (GBA).",
+      "name_en": "Oman"
     },
     {
       "id": "f_bas_aso_az_k31",
@@ -104234,7 +104264,8 @@
       "desc": "Pakistanský basketbalový zväz (PBBF), člen juhoázijskej zóny SABA.",
       "url": "https://pbbf.com.pk",
       "order": 30,
-      "desc_en": "Pakistan Basketball Federation (PBBF), a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Pakistan Basketball Federation (PBBF), a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Pakistan"
     },
     {
       "id": "f_bas_aso_az_k32",
@@ -104245,7 +104276,8 @@
       "desc": "Palestínsky basketbalový zväz so sídlom v Ramalláhu, člen západoázijskej zóny WABA.",
       "url": "https://www.facebook.com/pbbnf/",
       "order": 31,
-      "desc_en": "Palestinian Basketball Federation, based in Ramallah, a member of FIBA Asia's West Asia sub-zone (WABA)."
+      "desc_en": "Palestinian Basketball Federation, based in Ramallah, a member of FIBA Asia's West Asia sub-zone (WABA).",
+      "name_en": "Palestine"
     },
     {
       "id": "f_bas_aso_az_k33",
@@ -104256,7 +104288,8 @@
       "desc": "Basketbalový zväz Spojených arabských emirátov, člen zálivovej zóny GBA.",
       "url": "https://uae.basketball",
       "order": 32,
-      "desc_en": "United Arab Emirates Basketball Association, a member of FIBA Asia's Gulf sub-zone (GBA)."
+      "desc_en": "United Arab Emirates Basketball Association, a member of FIBA Asia's Gulf sub-zone (GBA).",
+      "name_en": "United Arab Emirates"
     },
     {
       "id": "f_bas_aso_az_k34",
@@ -104267,7 +104300,8 @@
       "desc": "Saudskoarabský basketbalový zväz (SBF), rozvíjajúci sa spolu s domácou ligou aj v rámci programu Vision 2030.",
       "url": "https://saudi.basketball",
       "order": 33,
-      "desc_en": "Saudi Basketball Federation (SBF), developing rapidly alongside the domestic league as part of the Vision 2030 initiative."
+      "desc_en": "Saudi Basketball Federation (SBF), developing rapidly alongside the domestic league as part of the Vision 2030 initiative.",
+      "name_en": "Saudi Arabia"
     },
     {
       "id": "f_bas_aso_az_k35",
@@ -104275,10 +104309,11 @@
       "type": "link",
       "icon": "",
       "name": "Severná Kórea",
-      "desc": "Amatérsky basketbalový zväz KĽDR — federácia nemá verejne dostupnú webovú prezentáciu.",
-      "url": "https://about.fiba.basketball/en/national-federations/90-korea-dpr",
+      "desc": "Severokórejská basketbalová federácia — izolovaná krajina bez webovej prezentácie, odkaz vedie na profil krajiny na asia-basket.com.",
+      "url": "https://www.asia-basket.com/North-Korea/basketball.aspx",
       "order": 34,
-      "desc_en": "Amateur Basketball Association of DPR Korea — the federation has no publicly accessible website."
+      "desc_en": "North Korea Basketball Federation — an isolated country with no web presence, link leads to the country profile on asia-basket.com.",
+      "name_en": "North Korea"
     },
     {
       "id": "f_bas_aso_az_k36",
@@ -104289,7 +104324,8 @@
       "desc": "Basketbalová asociácia Singapuru (BAS), člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://bas.org.sg",
       "order": 35,
-      "desc_en": "Basketball Association of Singapore (BAS), a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Basketball Association of Singapore (BAS), a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Singapore"
     },
     {
       "id": "f_bas_aso_az_k37",
@@ -104300,7 +104336,8 @@
       "desc": "Basketbalový zväz Srí Lanky, člen juhoázijskej zóny SABA.",
       "url": "https://www.facebook.com/srilankabasketball/",
       "order": 36,
-      "desc_en": "Sri Lanka Basketball Federation, a member of FIBA Asia's South Asia sub-zone (SABA)."
+      "desc_en": "Sri Lanka Basketball Federation, a member of FIBA Asia's South Asia sub-zone (SABA).",
+      "name_en": "Sri Lanka"
     },
     {
       "id": "f_bas_aso_az_k38",
@@ -104311,7 +104348,8 @@
       "desc": "Sýrsky basketbalový zväz so sídlom v Damasku — mužský tím sa napriek vojnovej situácii zúčastňuje ázijských súťaží.",
       "url": "https://www.facebook.com/syrianbasketballfederation/",
       "order": 37,
-      "desc_en": "Syrian Basketball Federation, based in Damascus — the men's team keeps competing in Asian competitions despite the war."
+      "desc_en": "Syrian Basketball Federation, based in Damascus — the men's team keeps competing in Asian competitions despite the war.",
+      "name_en": "Syria"
     },
     {
       "id": "f_bas_aso_az_k39",
@@ -104319,10 +104357,11 @@
       "type": "link",
       "icon": "",
       "name": "Tadžikistan",
-      "desc": "Basketbalový zväz Tadžickej republiky, člen stredoázijskej zóny CABA.",
-      "url": "https://about.fiba.basketball/en/national-federations/972-tajikistan",
+      "desc": "Tadžická basketbalová federácia — nájdená doména je DNS-mŕtva, odkaz vedie na profil krajiny na asia-basket.com.",
+      "url": "https://www.asia-basket.com/Tajikistan/basketball.aspx",
       "order": 38,
-      "desc_en": "Basketball Federation of the Republic of Tajikistan, a member of FIBA Asia's Central Asia sub-zone (CABA)."
+      "desc_en": "Tajikistan Basketball Federation — the domain found is DNS-dead, link leads to the country profile on asia-basket.com.",
+      "name_en": "Tajikistan"
     },
     {
       "id": "f_bas_aso_az_k40",
@@ -104333,7 +104372,8 @@
       "desc": "Basketbalová asociácia Čínskeho Tchaj-pej — pod týmto názvom súťaží na medzinárodnej scéne.",
       "url": "https://www.basketball-tpe.org",
       "order": 39,
-      "desc_en": "Chinese Taipei Basketball Association — competes internationally under the \"Chinese Taipei\" name."
+      "desc_en": "Chinese Taipei Basketball Association — competes internationally under the \"Chinese Taipei\" name.",
+      "name_en": "Taiwan"
     },
     {
       "id": "f_bas_aso_az_k41",
@@ -104344,7 +104384,8 @@
       "desc": "Basketbalový športový zväz Thajska (BSAT), člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://bsatthai.org",
       "order": 40,
-      "desc_en": "Basketball Sport Association of Thailand (BSAT), a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Basketball Sport Association of Thailand (BSAT), a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Thailand"
     },
     {
       "id": "f_bas_aso_az_k42",
@@ -104355,7 +104396,8 @@
       "desc": "Basketbalová federácia Turkménska, člen stredoázijskej zóny CABA.",
       "url": "https://tkm.basketball",
       "order": 41,
-      "desc_en": "Turkmenistan Basketball Federation, a member of FIBA Asia's Central Asia sub-zone (CABA)."
+      "desc_en": "Turkmenistan Basketball Federation, a member of FIBA Asia's Central Asia sub-zone (CABA).",
+      "name_en": "Turkmenistan"
     },
     {
       "id": "f_bas_aso_az_k43",
@@ -104366,7 +104408,8 @@
       "desc": "Basketbalová federácia Uzbekistanu so sídlom v Taškente, člen stredoázijskej zóny CABA.",
       "url": "https://www.facebook.com/people/Basketball-Federation-of-Uzbekistan/100057518646901/",
       "order": 42,
-      "desc_en": "Basketball Federation of Uzbekistan, based in Tashkent, a member of FIBA Asia's Central Asia sub-zone (CABA)."
+      "desc_en": "Basketball Federation of Uzbekistan, based in Tashkent, a member of FIBA Asia's Central Asia sub-zone (CABA).",
+      "name_en": "Uzbekistan"
     },
     {
       "id": "f_bas_aso_az_k44",
@@ -104377,7 +104420,8 @@
       "desc": "Basketbalová federácia Vietnamu (VBF), člen juhovýchodoázijskej zóny SEABA.",
       "url": "https://vbf.vn",
       "order": 43,
-      "desc_en": "Vietnam Basketball Federation (VBF), a member of FIBA Asia's South East Asia sub-zone (SEABA)."
+      "desc_en": "Vietnam Basketball Federation (VBF), a member of FIBA Asia's South East Asia sub-zone (SEABA).",
+      "name_en": "Vietnam"
     },
     {
       "id": "f_bas_aso_gl_k1",
@@ -104488,6 +104532,270 @@
       "url": "https://www.iwbf.org/",
       "order": 9,
       "desc_en": "World wheelchair basketball federation — rules, classification and competitions for Paralympic basketball."
+    },
+    {
+      "id": "f_bas_aso_oc_k1",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Americká Samoa",
+      "name_en": "American Samoa",
+      "desc": "American Samoa Basketball Association (ASBA) — riadi reprezentácie teritória, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/asba684/",
+      "order": 0,
+      "desc_en": "American Samoa Basketball Association (ASBA) — governs the territory's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k2",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Austrália",
+      "name_en": "Australia",
+      "desc": "Basketball Australia — najvyšší zväz krajiny, zastrešuje mužskú aj ženskú reprezentáciu aj ligu NBL.",
+      "url": "https://www.australia.basketball/",
+      "order": 1,
+      "desc_en": "Basketball Australia — the country's governing body, overseeing both national teams and the NBL league."
+    },
+    {
+      "id": "f_bas_aso_oc_k3",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Cookove ostrovy",
+      "name_en": "Cook Islands",
+      "desc": "Cook Islands Basketball Association — riadi reprezentácie ostrovov, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/kukibball/",
+      "order": 2,
+      "desc_en": "Cook Islands Basketball Association — governs the islands' national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k4",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Fidži",
+      "name_en": "Fiji",
+      "desc": "Basketball Fiji — najvyšší zväz krajiny, výsledky a aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/basketballfiji/",
+      "order": 3,
+      "desc_en": "Basketball Fiji — the country's governing body, sharing results and news on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k5",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Guam",
+      "name_en": "Guam",
+      "desc": "Guam Basketball Confederation — riadi reprezentácie ostrova, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/guambasketball/",
+      "order": 4,
+      "desc_en": "Guam Basketball Confederation — governs the island's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k6",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Kiribati",
+      "name_en": "Kiribati",
+      "desc": "Kiribati Basketball Federation (KBF) — rozvíja basketbal v krajine, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/kiribatibasketball/",
+      "order": 5,
+      "desc_en": "Kiribati Basketball Federation (KBF) — develops basketball in the country, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k7",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Marshallove ostrovy",
+      "name_en": "Marshall Islands",
+      "desc": "Marshall Islands Basketball Federation (MIBF) — riadi reprezentácie ostrovov, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/mibf.mhl/",
+      "order": 6,
+      "desc_en": "Marshall Islands Basketball Federation (MIBF) — governs the islands' national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k8",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Mikronézia",
+      "name_en": "Micronesia",
+      "desc": "Federated States of Micronesia Basketball Association — bez vlastného webu ani soc. siete, odkaz vedie na profil krajiny na australiabasket.com.",
+      "url": "https://www.australiabasket.com/Micronesia/basketball.aspx",
+      "order": 7,
+      "desc_en": "Federated States of Micronesia Basketball Association — no own website or social media, link leads to the country profile on australiabasket.com."
+    },
+    {
+      "id": "f_bas_aso_oc_k9",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Nauru",
+      "name_en": "Nauru",
+      "desc": "Nauru Basketball Association — bez vlastného webu ani soc. siete, odkaz vedie na profil krajiny na australiabasket.com.",
+      "url": "https://www.australiabasket.com/Nauru/basketball.aspx",
+      "order": 8,
+      "desc_en": "Nauru Basketball Association — no own website or social media, link leads to the country profile on australiabasket.com."
+    },
+    {
+      "id": "f_bas_aso_oc_k10",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Norfolk",
+      "name_en": "Norfolk Island",
+      "desc": "Norfolk Island Basketball Association — bez vlastného webu ani soc. siete, odkaz vedie na profil vo FIBA.",
+      "url": "https://about.fiba.basketball/en/national-federations/274-norfolk-island",
+      "order": 9,
+      "desc_en": "Norfolk Island Basketball Association — no own website or social media, link leads to its FIBA profile."
+    },
+    {
+      "id": "f_bas_aso_oc_k11",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Nová Kaledónia",
+      "name_en": "New Caledonia",
+      "desc": "Ligue Nouvelle Calédonie Basket Ball — riadi domáce súťaže aj reprezentácie, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/lrncbb.nc/",
+      "order": 10,
+      "desc_en": "Ligue Nouvelle Calédonie Basket Ball — governs domestic competitions and national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k12",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Nový Zéland",
+      "name_en": "New Zealand",
+      "desc": "Basketball New Zealand — najvyšší zväz krajiny, zastrešuje reprezentácie aj ligu Tauihi/NBL.",
+      "url": "https://nz.basketball/",
+      "order": 11,
+      "desc_en": "Basketball New Zealand — the country's governing body, overseeing national teams and the Tauihi/NBL leagues."
+    },
+    {
+      "id": "f_bas_aso_oc_k13",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Palau",
+      "name_en": "Palau",
+      "desc": "Palau Basketball Federation (PBF) — rozvíja basketbal v krajine, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/palaubasketball/",
+      "order": 12,
+      "desc_en": "Palau Basketball Federation (PBF) — develops basketball in the country, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k14",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Papua-Nová Guinea",
+      "name_en": "Papua New Guinea",
+      "desc": "Basketball Federation of Papua New Guinea (BFPNG) — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/BFPNG/",
+      "order": 13,
+      "desc_en": "Basketball Federation of Papua New Guinea (BFPNG) — governs the country's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k15",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Šalamúnove ostrovy",
+      "name_en": "Solomon Islands",
+      "desc": "Solomon Islands Basketball Federation (SIBF), založená v roku 1987 — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/SolomonIslandsBasketball/",
+      "order": 14,
+      "desc_en": "Solomon Islands Basketball Federation (SIBF), founded in 1987 — governs the country's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k16",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Samoa",
+      "name_en": "Samoa",
+      "desc": "Samoa Basketball Federation — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/SamoaBballFederation/",
+      "order": 15,
+      "desc_en": "Samoa Basketball Federation — governs the country's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k17",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Severné Mariány",
+      "name_en": "Northern Mariana Islands",
+      "desc": "Basketball Association of the Northern Mariana Islands (BANMI) — riadi reprezentácie ostrovov, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/NMIBasketballFederation/",
+      "order": 16,
+      "desc_en": "Basketball Association of the Northern Mariana Islands (BANMI) — governs the islands' national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k18",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Tahiti",
+      "name_en": "Tahiti",
+      "desc": "Fédération Tahitienne de Basket-Ball — reprezentuje Francúzsku Polynéziu, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/ftbbofficielle/",
+      "order": 17,
+      "desc_en": "Fédération Tahitienne de Basket-Ball — represents French Polynesia, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k19",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Tonga",
+      "name_en": "Tonga",
+      "desc": "Tonga National Basketball Association (TNBA) — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/tongabasketball/",
+      "order": 18,
+      "desc_en": "Tonga National Basketball Association (TNBA) — governs the country's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k20",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Tuvalu",
+      "name_en": "Tuvalu",
+      "desc": "Tuvalu Basketball Association — bez vlastného webu ani soc. siete, odkaz vedie na profil vo FIBA.",
+      "url": "https://about.fiba.basketball/en/national-federations/221-tuvalu",
+      "order": 19,
+      "desc_en": "Tuvalu Basketball Association — no own website or social media, link leads to its FIBA profile."
+    },
+    {
+      "id": "f_bas_aso_oc_k21",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Vanuatu",
+      "name_en": "Vanuatu",
+      "desc": "Vanuatu Basketball Federation (VBF) — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/Vanuatubasketball/",
+      "order": 20,
+      "desc_en": "Vanuatu Basketball Federation (VBF) — governs the country's national teams, posts updates on Facebook."
+    },
+    {
+      "id": "f_bas_aso_oc_k22",
+      "parentId": "f_bas_aso_oc",
+      "type": "link",
+      "icon": "",
+      "name": "Východný Timor",
+      "name_en": "East Timor",
+      "desc": "National Basketball Federation of Timor-Leste (FNBTL) — riadi reprezentácie krajiny, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/timorlestebasketball/",
+      "order": 21,
+      "desc_en": "National Basketball Federation of Timor-Leste (FNBTL) — governs the country's national teams, posts updates on Facebook."
     }
   ],
   "title_en": "Sportlinking",
