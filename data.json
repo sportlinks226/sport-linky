@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -96223,8 +96223,8 @@
       "desc_en": "Mons — a Walloon city club playing at the Mons Arena."
     },
     {
-      "id": "f_bas_klu_eu_cze_k1",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k1",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "Basket Brno",
@@ -96234,8 +96234,8 @@
       "desc_en": "Brno — the country's second-largest city, its team playing this season under the sponsor name Pumpa."
     },
     {
-      "id": "f_bas_klu_eu_cze_k2",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k2",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Děčín",
@@ -96245,8 +96245,8 @@
       "desc_en": "Děčín — a long-time top-flight club with several silver medals to its name, playing at the ARMEX Sportcentrum."
     },
     {
-      "id": "f_bas_klu_eu_cze_k3",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k3",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Hradec Králové",
@@ -96256,8 +96256,8 @@
       "desc_en": "Hradec Králové — a club dating back to 1924, playing at the GAPA Arena."
     },
     {
-      "id": "f_bas_klu_eu_cze_k4",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k4",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Lokomotiva Plzeň",
@@ -96267,8 +96267,8 @@
       "desc_en": "Plzeň — a club with more than 45 years of basketball tradition in the city."
     },
     {
-      "id": "f_bas_klu_eu_cze_k5",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k5",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Olomoucko",
@@ -96278,8 +96278,8 @@
       "desc_en": "Olomouc — a young club founded in 2017 that quickly climbed to the top flight."
     },
     {
-      "id": "f_bas_klu_eu_cze_k6",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k6",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Opava",
@@ -96289,8 +96289,8 @@
       "desc_en": "Opava — a club with an eighty-year history, five league titles and six Czech Cup wins."
     },
     {
-      "id": "f_bas_klu_eu_cze_k7",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k7",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "BK Pardubice",
@@ -96300,8 +96300,8 @@
       "desc_en": "Pardubice — also known as Beksa, founded in 1956."
     },
     {
-      "id": "f_bas_klu_eu_cze_k8",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k8",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "NH Ostrava",
@@ -96311,8 +96311,8 @@
       "desc_en": "Ostrava — representing the country's third-largest city in the top flight."
     },
     {
-      "id": "f_bas_klu_eu_cze_k9",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k9",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "SK Slavia Praha",
@@ -96322,8 +96322,8 @@
       "desc_en": "Prague — the basketball project of the storied Slavia club, which merged with Nymburk in 2026 to build on its success."
     },
     {
-      "id": "f_bas_klu_eu_cze_k10",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k10",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "Sluneta Ústí nad Labem",
@@ -96333,8 +96333,8 @@
       "desc_en": "Ústí nad Labem — a city on the Elbe river, its club playing under the name of its long-time partner Sluneta."
     },
     {
-      "id": "f_bas_klu_eu_cze_k11",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k11",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "Sršni Písek",
@@ -96344,8 +96344,8 @@
       "desc_en": "Písek — founded in 1955, playing in the Sokol sports hall."
     },
     {
-      "id": "f_bas_klu_eu_cze_k12",
-      "parentId": "f_bas_klu_eu_cze",
+      "id": "f_bas_cze_l1_k12",
+      "parentId": "f_bas_cze_l1",
       "type": "link",
       "icon": "",
       "name": "USK Praha",
@@ -96355,8 +96355,8 @@
       "desc_en": "Prague — a historic club founded in 1953."
     },
     {
-      "id": "f_bas_klu_eu_gre_k1",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k1",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "AEK",
@@ -96366,8 +96366,8 @@
       "desc_en": "Athens — winners of the 2018 Basketball Champions League and the 2019 FIBA Intercontinental Cup, nicknamed \"The Queen\"."
     },
     {
-      "id": "f_bas_klu_eu_gre_k2",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k2",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Aris",
@@ -96377,8 +96377,8 @@
       "desc_en": "Thessaloniki — the country's oldest sports club, with three European trophies and ten Greek championships to its name."
     },
     {
-      "id": "f_bas_klu_eu_gre_k3",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k3",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Doxa Lefkada",
@@ -96388,8 +96388,8 @@
       "desc_en": "Lefkada — an island town that earned its first-ever promotion to the Greek top flight in 2026."
     },
     {
-      "id": "f_bas_klu_eu_gre_k4",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k4",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Iraklis",
@@ -96399,8 +96399,8 @@
       "desc_en": "Thessaloniki — one of Greece's oldest clubs, founded in 1908."
     },
     {
-      "id": "f_bas_klu_eu_gre_k5",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k5",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Karditsa",
@@ -96410,8 +96410,8 @@
       "desc_en": "Karditsa — a city in Thessaly, one of the smaller clubs in the Greek top flight."
     },
     {
-      "id": "f_bas_klu_eu_gre_k6",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k6",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Kolossos Rhodes",
@@ -96421,8 +96421,8 @@
       "desc_en": "Rhodes — named after the ancient Colossus of Rhodes, one of the Seven Wonders of the World."
     },
     {
-      "id": "f_bas_klu_eu_gre_k7",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k7",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Maroussi",
@@ -96432,8 +96432,8 @@
       "desc_en": "Maroussi — a northern suburb of Athens, its roots tracing back to an 1896 gymnastics society."
     },
     {
-      "id": "f_bas_klu_eu_gre_k8",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k8",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Mykonos",
@@ -96443,8 +96443,8 @@
       "desc_en": "The island of Mykonos, an unusual top-flight participant playing in a hall with room for only around a thousand fans."
     },
     {
-      "id": "f_bas_klu_eu_gre_k9",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k9",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Olympiacos",
@@ -96454,8 +96454,8 @@
       "desc_en": "Piraeus — one of the most successful clubs in European basketball, with multiple EuroLeague titles."
     },
     {
-      "id": "f_bas_klu_eu_gre_k10",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k10",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Panathinaikos",
@@ -96465,8 +96465,8 @@
       "desc_en": "Athens — Greece's and Europe's record champion, playing at the Telekom Center Athens."
     },
     {
-      "id": "f_bas_klu_eu_gre_k11",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k11",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "PAOK",
@@ -96476,8 +96476,8 @@
       "desc_en": "Thessaloniki — founded by refugees from Constantinople, playing at the PAOK Sports Arena."
     },
     {
-      "id": "f_bas_klu_eu_gre_k12",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k12",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Peristeri",
@@ -96487,8 +96487,8 @@
       "desc_en": "Peristeri — a suburb of Athens, known for developing young talent for the Greek national team."
     },
     {
-      "id": "f_bas_klu_eu_gre_k13",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k13",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Promitheas Patras",
@@ -96498,8 +96498,8 @@
       "desc_en": "Patras — Greece's third-largest city, a regular participant in the Basketball Champions League."
     },
     {
-      "id": "f_bas_klu_eu_gre_k14",
-      "parentId": "f_bas_klu_eu_gre",
+      "id": "f_bas_gre_l1_k14",
+      "parentId": "f_bas_gre_l1",
       "type": "link",
       "icon": "",
       "name": "Vikos Falcons Ioannina",
@@ -99061,8 +99061,8 @@
       "desc_en": "Szolnok — Hungarian champion in 2024–25 (the club's 9th title), playing at the Tiszaligeti Sportcsarnok."
     },
     {
-      "id": "f_bas_klu_eu_pol_k1",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k1",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Anwil Włocławek",
@@ -99072,8 +99072,8 @@
       "desc_en": "Włocławek — a multiple Polish champion, named after the local Anwil chemical company."
     },
     {
-      "id": "f_bas_klu_eu_pol_k2",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k2",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Arka Gdynia",
@@ -99083,8 +99083,8 @@
       "desc_en": "Gdynia — one of the traditional clubs of the Polish league, a multiple national champion."
     },
     {
-      "id": "f_bas_klu_eu_pol_k3",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k3",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Astoria Bydgoszcz",
@@ -99094,8 +99094,8 @@
       "desc_en": "Bydgoszcz — a club from the north of the country, a regular top-flight participant."
     },
     {
-      "id": "f_bas_klu_eu_pol_k4",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k4",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Czarni Słupsk",
@@ -99105,8 +99105,8 @@
       "desc_en": "Słupsk — one of the oldest basketball clubs in Poland."
     },
     {
-      "id": "f_bas_klu_eu_pol_k5",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k5",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Dziki Warszawa",
@@ -99116,8 +99116,8 @@
       "desc_en": "Warsaw — one of the newer clubs in the Polish capital."
     },
     {
-      "id": "f_bas_klu_eu_pol_k6",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k6",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Górnik Wałbrzych",
@@ -99127,8 +99127,8 @@
       "desc_en": "Wałbrzych — a mining town in Lower Silesia, the club is based near Książ Castle."
     },
     {
-      "id": "f_bas_klu_eu_pol_k7",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k7",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "GTK Gliwice",
@@ -99138,8 +99138,8 @@
       "desc_en": "Gliwice — a club from the Upper Silesian industrial region."
     },
     {
-      "id": "f_bas_klu_eu_pol_k8",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k8",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "King Szczecin",
@@ -99149,8 +99149,8 @@
       "desc_en": "Szczecin — nicknamed \"Wilki Morskie\" (Sea Wolves), the club plays in the port city in the northwest."
     },
     {
-      "id": "f_bas_klu_eu_pol_k9",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k9",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Legia Warszawa",
@@ -99160,8 +99160,8 @@
       "desc_en": "Warsaw — the basketball section of the famous multi-sport Legia Warszawa club."
     },
     {
-      "id": "f_bas_klu_eu_pol_k10",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k10",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "MKS Dąbrowa Górnicza",
@@ -99171,8 +99171,8 @@
       "desc_en": "Dąbrowa Górnicza — a municipal club from the Upper Silesian region."
     },
     {
-      "id": "f_bas_klu_eu_pol_k11",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k11",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Śląsk Wrocław",
@@ -99182,8 +99182,8 @@
       "desc_en": "Wrocław — 18-time Polish champion, one of the most successful clubs in league history."
     },
     {
-      "id": "f_bas_klu_eu_pol_k12",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k12",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Stal Ostrów Wielkopolski",
@@ -99193,8 +99193,8 @@
       "desc_en": "Ostrów Wielkopolski — a club from the Greater Poland region."
     },
     {
-      "id": "f_bas_klu_eu_pol_k13",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k13",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Start Lublin",
@@ -99204,8 +99204,8 @@
       "desc_en": "Lublin — one of the traditional clubs of eastern Poland."
     },
     {
-      "id": "f_bas_klu_eu_pol_k14",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k14",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Trefl Sopot",
@@ -99215,8 +99215,8 @@
       "desc_en": "Sopot — a club from the Baltic resort town, playing at the Ergo Arena shared with Gdańsk."
     },
     {
-      "id": "f_bas_klu_eu_pol_k15",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k15",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Twarde Pierniki Toruń",
@@ -99226,8 +99226,8 @@
       "desc_en": "Toruń — the club's name refers to the city's traditional \"pierniki\" gingerbread."
     },
     {
-      "id": "f_bas_klu_eu_pol_k16",
-      "parentId": "f_bas_klu_eu_pol",
+      "id": "f_bas_pol_l1_k16",
+      "parentId": "f_bas_pol_l1",
       "type": "link",
       "icon": "",
       "name": "Zastal Zielona Góra",
@@ -100964,8 +100964,8 @@
       "desc_en": "Uppsala — one of Sweden's oldest university cities."
     },
     {
-      "id": "f_bas_klu_eu_tur_k1",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k1",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Anadolu Efes",
@@ -100975,8 +100975,8 @@
       "desc_en": "Istanbul — two-time EuroLeague champions (2021, 2022), one of Europe's most successful clubs."
     },
     {
-      "id": "f_bas_klu_eu_tur_k2",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k2",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Bahçeşehir Koleji",
@@ -100986,8 +100986,8 @@
       "desc_en": "Istanbul — a club known for developing young talent, the launchpad for NBA player Alperen Şengün."
     },
     {
-      "id": "f_bas_klu_eu_tur_k3",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k3",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Bandırma Bordo",
@@ -100997,8 +100997,8 @@
       "desc_en": "Bandırma — a club founded in 2023, promoted to the top flight for the first time in the 2025/26 season."
     },
     {
-      "id": "f_bas_klu_eu_tur_k4",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k4",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Beşiktaş",
@@ -101008,8 +101008,8 @@
       "desc_en": "Istanbul — one of Turkey's traditional big clubs, part of the famous Beşiktaş sports brand."
     },
     {
-      "id": "f_bas_klu_eu_tur_k5",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k5",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Bursaspor",
@@ -101019,8 +101019,8 @@
       "desc_en": "Bursa — the basketball department of a club from a major industrial city in northwestern Turkey."
     },
     {
-      "id": "f_bas_klu_eu_tur_k6",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k6",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Çayırova Belediyespor",
@@ -101030,8 +101030,8 @@
       "desc_en": "Kocaeli — a municipal club that won the second division in 2025/26 and reached the Super League for the first time; has no website of its own."
     },
     {
-      "id": "f_bas_klu_eu_tur_k7",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k7",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Denizli Basket",
@@ -101041,8 +101041,8 @@
       "desc_en": "Denizli — playing under the name Merkezefendi Belediyesi, without its own website, only a Facebook profile."
     },
     {
-      "id": "f_bas_klu_eu_tur_k8",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k8",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Esenler Erokspor",
@@ -101052,8 +101052,8 @@
       "desc_en": "Istanbul — the basketball department of a multi-sport club from the Esenler district."
     },
     {
-      "id": "f_bas_klu_eu_tur_k9",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k9",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Fenerbahçe",
@@ -101063,8 +101063,8 @@
       "desc_en": "Istanbul — 2017 EuroLeague champions, one of Europe's most decorated clubs."
     },
     {
-      "id": "f_bas_klu_eu_tur_k10",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k10",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Galatasaray",
@@ -101074,8 +101074,8 @@
       "desc_en": "Istanbul — one of Turkey's oldest and most decorated sports clubs, founded in 1905."
     },
     {
-      "id": "f_bas_klu_eu_tur_k11",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k11",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Karşıyaka",
@@ -101085,8 +101085,8 @@
       "desc_en": "İzmir — a club founded in 1912, the city's basketball flagship."
     },
     {
-      "id": "f_bas_klu_eu_tur_k12",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k12",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Körfez Basket",
@@ -101096,8 +101096,8 @@
       "desc_en": "Kocaeli — a brand-new club entering the Super League in the summer of 2026 (previously based in Manisa as Manisa Basket), without its own website yet."
     },
     {
-      "id": "f_bas_klu_eu_tur_k13",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k13",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "PETKİM",
@@ -101107,8 +101107,8 @@
       "desc_en": "Aliağa — the club of the Petkim petrochemical company near İzmir."
     },
     {
-      "id": "f_bas_klu_eu_tur_k14",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k14",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Tofaş",
@@ -101118,8 +101118,8 @@
       "desc_en": "Bursa — the club of carmaker Tofaş, a longtime fixture of Turkey's top league."
     },
     {
-      "id": "f_bas_klu_eu_tur_k15",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k15",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Trabzonspor",
@@ -101129,8 +101129,8 @@
       "desc_en": "Trabzon — a club famed mainly for its football side on the Black Sea coast, with a newer basketball department."
     },
     {
-      "id": "f_bas_klu_eu_tur_k16",
-      "parentId": "f_bas_klu_eu_tur",
+      "id": "f_bas_tur_l1_k16",
+      "parentId": "f_bas_tur_l1",
       "type": "link",
       "icon": "",
       "name": "Türk Telekom",
@@ -101951,60 +101951,60 @@
       "desc_en": "Hannover."
     },
     {
-      "id": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3",
       "parentId": "f_bas_klu_eu_tur",
       "type": "folder",
       "icon": "tr",
       "name": "Kadınlar Basketbol Süper Ligi (ženy)",
       "desc": "Najvyššia turecká súťaž ženských klubov, 11 tímov v jedinej lige.",
-      "order": 16,
+      "order": 1,
       "slug": "kadinlar-basketbol-super-ligi-zeny",
       "name_en": "Kadınlar Basketbol Süper Ligi (women)",
       "slug_en": "kadinlar-basketbol-super-ligi-women",
       "desc_en": "Turkey's top women's basketball league, featuring 11 clubs in a single division."
     },
     {
-      "id": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3",
       "parentId": "f_bas_klu_eu_pol",
       "type": "folder",
       "icon": "pl",
       "name": "Basket Liga Kobiet (ženy)",
       "desc": "Najvyššia poľská súťaž ženských klubov, 13 tímov v jedinej lige.",
-      "order": 16,
+      "order": 1,
       "slug": "basket-liga-kobiet-zeny",
       "name_en": "Basket Liga Kobiet (women)",
       "slug_en": "basket-liga-kobiet-women",
       "desc_en": "Poland's top women's basketball league, featuring 13 clubs in a single division."
     },
     {
-      "id": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3",
       "parentId": "f_bas_klu_eu_cze",
       "type": "folder",
       "icon": "cz",
       "name": "ŽBL (ženy)",
       "desc": "Najvyššia česká súťaž ženských klubov, 10 tímov v jedinej lige.",
-      "order": 12,
+      "order": 1,
       "slug": "zbl-zeny",
       "name_en": "ŽBL (women)",
       "slug_en": "zbl-women",
       "desc_en": "Czechia's top women's basketball league, featuring 10 clubs in a single division."
     },
     {
-      "id": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3",
       "parentId": "f_bas_klu_eu_gre",
       "type": "folder",
       "icon": "gr",
       "name": "Α1 Γυναικών (ženy)",
       "desc": "Najvyššia grécka súťaž ženských klubov, 12 tímov v jedinej lige.",
-      "order": 14,
+      "order": 1,
       "slug": "a1-gynaikon-zeny",
       "name_en": "A1 Ethniki Gynaikon (women)",
       "slug_en": "a1-gynaikon-women",
       "desc_en": "Greece's top women's basketball league, featuring 12 clubs in a single division."
     },
     {
-      "id": "f_bas_tur_l1_k1",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k1",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Beşiktaş",
@@ -102014,8 +102014,8 @@
       "desc_en": "Istanbul — the women's basketball section of the historic Beşiktaş JK, playing at the Akatlar Sports Complex."
     },
     {
-      "id": "f_bas_tur_l1_k2",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k2",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "BOTAŞ",
@@ -102025,8 +102025,8 @@
       "desc_en": "Ankara — the club of the state pipeline company BOTAŞ."
     },
     {
-      "id": "f_bas_tur_l1_k3",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k3",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "ÇBK Mersin",
@@ -102036,8 +102036,8 @@
       "desc_en": "Mersin — a two-time EuroLeague Women runner-up (2022–23, 2024–25) and two-time Turkish Cup winner."
     },
     {
-      "id": "f_bas_tur_l1_k4",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k4",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Emlak Konut",
@@ -102047,8 +102047,8 @@
       "desc_en": "Istanbul — a club sponsored by the real estate company Emlak Konut, promoted to the top women's league."
     },
     {
-      "id": "f_bas_tur_l1_k5",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k5",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Fenerbahçe",
@@ -102058,8 +102058,8 @@
       "desc_en": "Istanbul — one of Europe's most successful women's basketball clubs, a multiple Turkish and EuroLeague champion."
     },
     {
-      "id": "f_bas_tur_l1_k6",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k6",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Galatasaray",
@@ -102069,8 +102069,8 @@
       "desc_en": "Istanbul — the women's basketball section of the historic club, playing as Galatasaray Çağdaş Faktoring."
     },
     {
-      "id": "f_bas_tur_l1_k7",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k7",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "İstanbul Gençlik",
@@ -102080,8 +102080,8 @@
       "desc_en": "Istanbul — the Gençlik Spor Kulübü club competing in Turkey's top women's league."
     },
     {
-      "id": "f_bas_tur_l1_k8",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k8",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Kayseri Basketbol",
@@ -102091,8 +102091,8 @@
       "desc_en": "Kayseri — a club from the Melikgazi district."
     },
     {
-      "id": "f_bas_tur_l1_k9",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k9",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Nesibe Aydın",
@@ -102102,8 +102102,8 @@
       "desc_en": "Ankara — a club founded alongside the eponymous educational institution."
     },
     {
-      "id": "f_bas_tur_l1_k10",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k10",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Ormanspor",
@@ -102113,8 +102113,8 @@
       "desc_en": "Ankara — the club of the General Directorate of Forestry (OGM)."
     },
     {
-      "id": "f_bas_tur_l1_k11",
-      "parentId": "f_bas_tur_l1",
+      "id": "f_bas_tur_l3_k11",
+      "parentId": "f_bas_tur_l3",
       "type": "link",
       "icon": "",
       "name": "Turgutlu Belediyespor",
@@ -102124,8 +102124,8 @@
       "desc_en": "Manisa — the municipal club from Turgutlu, the region's only women's basketball team in the top league."
     },
     {
-      "id": "f_bas_pol_l1_k1",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k1",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "1KS Ślęza Wrocław",
@@ -102135,8 +102135,8 @@
       "desc_en": "Wrocław — a traditional club with a long history in Polish women's basketball."
     },
     {
-      "id": "f_bas_pol_l1_k2",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k2",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Artego Bydgoszcz",
@@ -102146,8 +102146,8 @@
       "desc_en": "Bydgoszcz — a club also known as Basket 25."
     },
     {
-      "id": "f_bas_pol_l1_k3",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k3",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Contimax MOSIR Bochnia",
@@ -102157,8 +102157,8 @@
       "desc_en": "Bochnia — the club of the MOSiR municipal sports centre."
     },
     {
-      "id": "f_bas_pol_l1_k4",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k4",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Enea AZS Politechnika Poznań",
@@ -102168,8 +102168,8 @@
       "desc_en": "Poznań — the university club of the Poznań University of Technology."
     },
     {
-      "id": "f_bas_pol_l1_k5",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k5",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Energa Toruń",
@@ -102179,8 +102179,8 @@
       "desc_en": "Toruń — a club nicknamed the \"Katarzynki\"."
     },
     {
-      "id": "f_bas_pol_l1_k6",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k6",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Isands JTEC Wichoś Jelenia Góra",
@@ -102190,8 +102190,8 @@
       "desc_en": "Jelenia Góra — a club from Lower Silesia."
     },
     {
-      "id": "f_bas_pol_l1_k7",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k7",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "KSSSE Enea AJP Gorzów Wielkopolski",
@@ -102201,8 +102201,8 @@
       "desc_en": "Gorzów Wielkopolski — repeatedly voted the most media-visible club in the Polish women's league, competing in EuroCup Women."
     },
     {
-      "id": "f_bas_pol_l1_k8",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k8",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "LOTTO AZS UMCS Lublin",
@@ -102212,8 +102212,8 @@
       "desc_en": "Lublin — the university club of Maria Curie-Skłodowska University."
     },
     {
-      "id": "f_bas_pol_l1_k9",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k9",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "MB Zagłębie Sosnowiec",
@@ -102223,8 +102223,8 @@
       "desc_en": "Sosnowiec — a club from the industrial Zagłębie region."
     },
     {
-      "id": "f_bas_pol_l1_k10",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k10",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "MKS Pruszków",
@@ -102234,8 +102234,8 @@
       "desc_en": "Pruszków — a municipal club near Warsaw."
     },
     {
-      "id": "f_bas_pol_l1_k11",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k11",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "SKK Polonia Warszawa",
@@ -102245,8 +102245,8 @@
       "desc_en": "Warsaw — the women's basketball section of the Polonia club."
     },
     {
-      "id": "f_bas_pol_l1_k12",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k12",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Widzew Łódź",
@@ -102256,8 +102256,8 @@
       "desc_en": "Łódź — the basketball section of the well-known football club Widzew."
     },
     {
-      "id": "f_bas_pol_l1_k13",
-      "parentId": "f_bas_pol_l1",
+      "id": "f_bas_pol_l3_k13",
+      "parentId": "f_bas_pol_l3",
       "type": "link",
       "icon": "",
       "name": "Wisła Kraków",
@@ -102267,8 +102267,8 @@
       "desc_en": "Kraków — the women's basketball section of Towarzystwo Sportowe Wisła."
     },
     {
-      "id": "f_bas_cze_l1_k1",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k1",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "Basket Ostrava",
@@ -102278,8 +102278,8 @@
       "desc_en": "Ostrava — a girls' basketball club, one of Ostrava's two representatives in the Czech women's league."
     },
     {
-      "id": "f_bas_cze_l1_k2",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k2",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "DSK Basketball Brandýs",
@@ -102289,8 +102289,8 @@
       "desc_en": "Brandýs nad Labem — a club also competing in the EuroCup Women."
     },
     {
-      "id": "f_bas_cze_l1_k3",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k3",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "KARA Trutnov",
@@ -102300,8 +102300,8 @@
       "desc_en": "Trutnov — a traditional basketball club from the foothills of the Krkonoše mountains."
     },
     {
-      "id": "f_bas_cze_l1_k4",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k4",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "KP Brno",
@@ -102311,8 +102311,8 @@
       "desc_en": "Brno — the city's second club in the top women's league alongside Žabiny."
     },
     {
-      "id": "f_bas_cze_l1_k5",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k5",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "Levhartice Chomutov",
@@ -102322,8 +102322,8 @@
       "desc_en": "Chomutov — the women's section of the Levharti club, a regular in the EuroLeague and EuroCup Women."
     },
     {
-      "id": "f_bas_cze_l1_k6",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k6",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "SBŠ Ostrava",
@@ -102333,8 +102333,8 @@
       "desc_en": "Ostrava — the second of the city's two clubs in the top women's league."
     },
     {
-      "id": "f_bas_cze_l1_k7",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k7",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "Slovanka",
@@ -102344,8 +102344,8 @@
       "desc_en": "Prague — a club playing at the SA Rokytka arena."
     },
     {
-      "id": "f_bas_cze_l1_k8",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k8",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "Sokol Hradec Králové",
@@ -102355,8 +102355,8 @@
       "desc_en": "Hradec Králové — a club nicknamed the \"Hradec Lionesses\"."
     },
     {
-      "id": "f_bas_cze_l1_k9",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k9",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "Žabiny Brno",
@@ -102366,8 +102366,8 @@
       "desc_en": "Brno — a leading Czech club and a regular participant in the EuroLeague Women."
     },
     {
-      "id": "f_bas_cze_l1_k10",
-      "parentId": "f_bas_cze_l1",
+      "id": "f_bas_cze_l3_k10",
+      "parentId": "f_bas_cze_l3",
       "type": "link",
       "icon": "",
       "name": "ZVVZ USK Praha",
@@ -102377,8 +102377,8 @@
       "desc_en": "Prague — the most successful Czech women's basketball club, a multiple EuroLeague Women champion."
     },
     {
-      "id": "f_bas_gre_l1_k1",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k1",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Amyntas",
@@ -102388,8 +102388,8 @@
       "desc_en": "Ymittos (Athens) — a club from the southern Athens suburb."
     },
     {
-      "id": "f_bas_gre_l1_k2",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k2",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Aris",
@@ -102399,8 +102399,8 @@
       "desc_en": "Thessaloniki — the women's section of the historic Aris club."
     },
     {
-      "id": "f_bas_gre_l1_k3",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k3",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Athinaikos",
@@ -102410,8 +102410,8 @@
       "desc_en": "Athens — a club with a long tradition in Greek women's basketball."
     },
     {
-      "id": "f_bas_gre_l1_k4",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k4",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Kronos Agiou Dimitriou",
@@ -102421,8 +102421,8 @@
       "desc_en": "Agios Dimitrios (Athens) — a club from the southern Athens suburb."
     },
     {
-      "id": "f_bas_gre_l1_k5",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k5",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Olympiacos",
@@ -102432,8 +102432,8 @@
       "desc_en": "Piraeus — the women's basketball section of Olympiacos."
     },
     {
-      "id": "f_bas_gre_l1_k6",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k6",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Panathinaikos",
@@ -102443,8 +102443,8 @@
       "desc_en": "Athens — the women's basketball section of the historic club."
     },
     {
-      "id": "f_bas_gre_l1_k7",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k7",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Panathlitikos Sykeon",
@@ -102454,8 +102454,8 @@
       "desc_en": "Sykies (Thessaloniki) — a club from the northern Thessaloniki suburb."
     },
     {
-      "id": "f_bas_gre_l1_k8",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k8",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Panserraikos",
@@ -102465,8 +102465,8 @@
       "desc_en": "Serres — a club from northern Greece."
     },
     {
-      "id": "f_bas_gre_l1_k9",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k9",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Panthires Kavalas",
@@ -102476,8 +102476,8 @@
       "desc_en": "Kavala — a club that earned a wild-card promotion to the top division for the 2026/27 season."
     },
     {
-      "id": "f_bas_gre_l1_k10",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k10",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "PAOK",
@@ -102487,8 +102487,8 @@
       "desc_en": "Thessaloniki — the women's basketball section of PAOK."
     },
     {
-      "id": "f_bas_gre_l1_k11",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k11",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "PAS Giannina",
@@ -102498,8 +102498,8 @@
       "desc_en": "Ioannina — a club from northwestern Greece."
     },
     {
-      "id": "f_bas_gre_l1_k12",
-      "parentId": "f_bas_gre_l1",
+      "id": "f_bas_gre_l3_k12",
+      "parentId": "f_bas_gre_l3",
       "type": "link",
       "icon": "",
       "name": "Proteas Voulas",
@@ -102507,6 +102507,58 @@
       "url": "https://proteasvoulas.gr/",
       "order": 11,
       "desc_en": "Voula (Athens) — a club from the coastal Athens suburb."
+    },
+    {
+      "id": "f_bas_tur_l1",
+      "parentId": "f_bas_klu_eu_tur",
+      "type": "folder",
+      "icon": "tr",
+      "name": "Basketbol Süper Ligi",
+      "desc": "Najvyššia turecká basketbalová súťaž, 16 tímov — na čele s euroligovými klubmi Anadolu Efes a Fenerbahçe.",
+      "order": 0,
+      "slug": "basketbol-super-ligi",
+      "name_en": "Basketbol Süper Ligi",
+      "desc_en": "Turkey's top men's basketball league, 16 clubs — led by EuroLeague sides Anadolu Efes and Fenerbahçe.",
+      "slug_en": "basketbol-super-ligi"
+    },
+    {
+      "id": "f_bas_pol_l1",
+      "parentId": "f_bas_klu_eu_pol",
+      "type": "folder",
+      "icon": "pl",
+      "name": "Polska Liga Koszykówki (PLK)",
+      "desc": "Najvyššia poľská basketbalová súťaž, 16 tímov — sponzorsky známa ako Orlen Basket Liga.",
+      "order": 0,
+      "slug": "polska-liga-koszykowki-plk",
+      "name_en": "Polska Liga Koszykówki (PLK)",
+      "desc_en": "Poland's top men's basketball league, 16 clubs — known under sponsorship as Orlen Basket Liga.",
+      "slug_en": "polska-liga-koszykowki-plk"
+    },
+    {
+      "id": "f_bas_cze_l1",
+      "parentId": "f_bas_klu_eu_cze",
+      "type": "folder",
+      "icon": "cz",
+      "name": "NBL",
+      "desc": "Najvyššia česká basketbalová súťaž — Národní basketbalová liga, 12 tímov.",
+      "order": 0,
+      "slug": "nbl",
+      "name_en": "NBL",
+      "desc_en": "Czechia's top men's basketball league — the Národní basketbalová liga, 12 clubs.",
+      "slug_en": "nbl"
+    },
+    {
+      "id": "f_bas_gre_l1",
+      "parentId": "f_bas_klu_eu_gre",
+      "type": "folder",
+      "icon": "gr",
+      "name": "Α1 Ανδρών",
+      "desc": "Najvyššia grécka basketbalová súťaž, 14 tímov — známa aj ako Basket League, s dominanciou Olympiakosu a Panathinaikosu.",
+      "order": 0,
+      "slug": "a1-andron",
+      "name_en": "A1 Ethniki Andron",
+      "desc_en": "Greece's top men's basketball league, 14 clubs — also known as the Basket League, dominated by Olympiacos and Panathinaikos.",
+      "slug_en": "a1-andron"
     }
   ],
   "title_en": "Sportlinking",
