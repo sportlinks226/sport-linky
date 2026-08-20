@@ -13099,8 +13099,29 @@ async function load(){
   // Na publikovanom webe má adresa číslo verzie (data.json?v=138) — súbor sa
   // smie cachovať, nová verzia = nová adresa = čerstvé stiahnutie.
   // Bez verzie (lokálny súbor, admin) ostáva pôvodné no-store.
-  const dataUrl = SITE_ROOT + 'data.json' + (DATA_VER ? '?v=' + DATA_VER : '');
-  const dataOpt = DATA_VER ? {} : {cache:'no-store'};
+  //
+  // POISTKA PROTI STAREJ STRÁNKE V PAMÄTI PREHLIADAČA:
+  // číslo verzie je zapečené v tomto HTML súbore. Keď má prehliadač uložený
+  // starý index.html (mobil ho vie držať aj dni), pýtal by si staré dáta a
+  // návštevník by nové linky nevidel. Preto sa najprv spýtame na version.txt
+  // (pár bajtov, bez cache, vyrába ho generator.py pri builde) — ak je na webe
+  // novšia verzia než v tomto súbore, stiahne sa rovno tá. Keď version.txt
+  // nie je alebo sa nestihne, ide sa po starom s DATA_VER.
+  let verData = DATA_VER;
+  if(DATA_VER){
+    try{
+      const ctrl = new AbortController();
+      const stopka = setTimeout(()=>ctrl.abort(), 2500);
+      const rv = await fetch(SITE_ROOT + 'version.txt', {cache:'no-store', signal:ctrl.signal});
+      clearTimeout(stopka);
+      if(rv.ok){
+        const t = (await rv.text()).trim();
+        if(/^\d+$/.test(t) && parseInt(t,10) > parseInt(DATA_VER,10)) verData = t;
+      }
+    }catch(e){ /* version.txt chýba alebo sa nestihol — pokračuj s DATA_VER */ }
+  }
+  const dataUrl = SITE_ROOT + 'data.json' + (verData ? '?v=' + verData : '');
+  const dataOpt = verData ? {} : {cache:'no-store'};
   for(let pokus = 0; pokus < 2 && !published; pokus++){
     try{
       const r = await fetch(dataUrl, dataOpt);
