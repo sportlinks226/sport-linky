@@ -395,6 +395,34 @@ footer{
 </style>
 </head>
 <body>
+<!-- DOČASNÁ DIAGNOSTIKA (20.8.2026) — malý riadok v pätičke ukáže, čo appka
+     naozaj načítala a či niekde spadla. Hľadáme, prečo na iPhone nejdú
+     bannery ani pás Aktuálne. Po vyriešení tento blok aj #diagLine zmazať. -->
+<script>
+window.__diag = {};
+window.__diagShow = function(){
+  var el = document.getElementById('diagLine');
+  if(!el) return;
+  var d = window.__diag;
+  el.textContent = 'diag: v' + (d.ver === undefined ? '?' : d.ver)
+    + ' · akt ' + (d.akt === undefined ? '?' : d.akt)
+    + ' · data ' + (d.pub || '?')
+    + ' · ' + (d.url || '?')
+    + ' · ' + (d.err || 'ok');
+};
+window.addEventListener('error', function(e){
+  if(!window.__diag.err){
+    window.__diag.err = 'CHYBA: ' + (e.message || '?') + ' @ r.' + (e.lineno || '?');
+  }
+  window.__diagShow();
+});
+window.addEventListener('unhandledrejection', function(e){
+  if(!window.__diag.err){
+    window.__diag.err = 'CHYBA(promise): ' + String(e.reason).slice(0, 120);
+  }
+  window.__diagShow();
+});
+</script>
 
 <!-- PW -->
 <div id="pwScreen">
@@ -456,6 +484,8 @@ footer{
   <span class="f-wordmark" onclick="navigate(null)" title="Domov"><span class="wm-w">ŠPORTOVÉ</span><span class="wm-r">LINKY</span><span class="wm-r">.</span></span>
   <span class="f-note">© 2026 · Všetky športové weby sveta na jednom mieste<br>
   Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES). Jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.</span>
+  <!-- DOČASNÉ (20.8.2026) — diagnostika pre hľadanie chyby na iPhone; potom zmazať -->
+  <span id="diagLine" style="display:block;margin-top:10px;font-size:0.68rem;line-height:1.5;color:#5a6b7a;font-family:ui-monospace,Menlo,Consolas,monospace;word-break:break-all"></span>
 </footer>
 
 <!-- ADMIN BAR -->
@@ -13122,6 +13152,7 @@ async function load(){
   }
   const dataUrl = SITE_ROOT + 'data.json' + (verData ? '?v=' + verData : '');
   const dataOpt = verData ? {} : {cache:'no-store'};
+  try{ window.__diag.url = dataUrl; }catch(e){}
   for(let pokus = 0; pokus < 2 && !published; pokus++){
     try{
       const r = await fetch(dataUrl, dataOpt);
@@ -13131,6 +13162,7 @@ async function load(){
       }
     }catch(e){ /* lokálny súbor (file://) alebo data.json neexistuje — skús ešte raz */ }
   }
+  try{ window.__diag.pub = published ? 'ano(v'+(published.version||'?')+')' : 'NIE'; }catch(e){}
   if(published){
     const sW = localStorage.getItem('sportStrom');
     const storedW = sW ? JSON.parse(sW) : null;
@@ -14335,6 +14367,12 @@ load().then(()=>{
   renderBannerSlot();
   startRotation(); // rotácia bannerov musí bežať hneď od načítania stránky
   checkAdminHash();
+  // DOČASNÉ (20.8.2026) — diagnostika, potom zmazať
+  try{
+    window.__diag.ver = DB.version;
+    window.__diag.akt = (DB.aktualne||[]).length;
+    window.__diagShow();
+  }catch(e){}
 });
 </script>
 <!-- GoatCounter — anonymná návštevnosť (bez cookies), štatistiky: sportlinky.goatcounter.com -->
