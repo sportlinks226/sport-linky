@@ -1,5 +1,5 @@
 {
-  "version": 143,
+  "version": 144,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -430,12 +430,12 @@
       "parentId": "f_bas",
       "type": "folder",
       "icon": "🏀",
-      "name": "Štatistiky",
+      "name": "Správy a Štatistiky",
       "desc": "",
       "order": 3,
-      "slug": "statistiky",
-      "name_en": "Statistics",
-      "slug_en": "statistics"
+      "slug": "spravy-a-statistiky",
+      "name_en": "News & Statistics",
+      "slug_en": "news-statistics"
     },
     {
       "id": "f_had",
@@ -491,12 +491,12 @@
       "parentId": "f_had",
       "type": "folder",
       "icon": "🤾",
-      "name": "Štatistiky",
+      "name": "Správy a Štatistiky",
       "desc": "",
       "order": 3,
-      "slug": "statistiky",
-      "name_en": "Statistics",
-      "slug_en": "statistics"
+      "slug": "spravy-a-statistiky",
+      "name_en": "News & Statistics",
+      "slug_en": "news-statistics"
     },
     {
       "id": "f_vol",
@@ -552,12 +552,12 @@
       "parentId": "f_vol",
       "type": "folder",
       "icon": "🏐",
-      "name": "Štatistiky",
+      "name": "Správy a Štatistiky",
       "desc": "",
       "order": 3,
-      "slug": "statistiky",
-      "name_en": "Statistics",
-      "slug_en": "statistics"
+      "slug": "spravy-a-statistiky",
+      "name_en": "News & Statistics",
+      "slug_en": "news-statistics"
     },
     {
       "id": "f_zim",
@@ -3877,13 +3877,13 @@
       "parentId": "f_hok",
       "type": "folder",
       "icon": "📊",
-      "name": "Štatistiky",
+      "name": "Správy a Štatistiky",
       "desc": "Hokejové štatistiky, rebríčky a databázy hráčov a tímov",
       "order": 3,
-      "slug": "statistiky",
-      "name_en": "Statistics",
+      "slug": "spravy-a-statistiky",
+      "name_en": "News & Statistics",
       "desc_en": "Ice hockey statistics, rankings and player and team databases",
-      "slug_en": "statistics"
+      "slug_en": "news-statistics"
     },
     {
       "id": "f_hok_sut_gl",
