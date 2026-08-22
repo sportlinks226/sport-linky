@@ -1,5 +1,5 @@
 {
-  "version": 149,
+  "version": 150,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -106536,6 +106536,17 @@
       "url": "https://www.fiba.basketball/en/events/fiba-u17-womens-basketball-world-cup-2026",
       "order": 11,
       "desc_en": "The 2026 Women's U17 World Cup — results, stats and team rosters."
+    },
+    {
+      "id": "f_ost_basket3x3_k1",
+      "parentId": "f_ost_basket3x3",
+      "type": "link",
+      "icon": "",
+      "name": "FIBA 3x3",
+      "desc": "Oficiálny web basketbalu 3x3 — World Tour, majstrovstvá sveta, Women's Series, rebríčky hráčov a kalendár turnajov.",
+      "url": "https://fiba3x3.com/",
+      "order": 0,
+      "desc_en": "The official 3x3 basketball website — the World Tour, World Cup, Women's Series, player rankings and the tournament calendar."
     }
   ],
   "title_en": "Sportlinking",
