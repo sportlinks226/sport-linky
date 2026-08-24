@@ -1,5 +1,5 @@
 {
-  "version": 165,
+  "version": 166,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -30,6 +30,15 @@
       "endsAt": "2026-08-30",
       "addedAt": 1787232192049,
       "name_en": "Field hockey WCH"
+    },
+    {
+      "id": "a1787575260335",
+      "icon": "🚣",
+      "name": "Veslovanie MS",
+      "url": "https://worldrowing.com/event/2026-world-rowing-championships/",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787575260335,
+      "name_en": "Rowing WCH"
     },
     {
       "id": "a1787566429432",
@@ -116,6 +125,24 @@
       "name_en": "Volleyball women ECH"
     },
     {
+      "id": "a1787584810061",
+      "icon": "🏐",
+      "name": "Volejbal MS U17 muží",
+      "url": "https://en.volleyballworld.com/volleyball/competitions/boys-u17-world-championship",
+      "endsAt": "2026-09-06",
+      "addedAt": 1787584810061,
+      "name_en": "Volleball U17 WCH men"
+    },
+    {
+      "id": "a1787576593112",
+      "icon": "🏐",
+      "name": "NORCECA Final 6 muži",
+      "url": "https://norceca.info/event/2026-norceca-mens-final-six/",
+      "endsAt": "",
+      "addedAt": 1787576593112,
+      "name_en": "NORCECA Final 6 men"
+    },
+    {
       "id": "a1787229661208",
       "icon": "🏐",
       "name": "NORCECA ženy",
@@ -123,6 +150,14 @@
       "endsAt": "2026-08-30",
       "addedAt": 1787229661208,
       "name_en": "NORCECA women"
+    },
+    {
+      "id": "a1787575368226",
+      "icon": "🎱",
+      "name": "Snooker Wuhan open",
+      "url": "https://www.wst.tv/matches",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787575368226
     },
     {
       "id": "a1785147664719",
@@ -147,6 +182,15 @@
       "url": "https://www.nfl.com/schedules",
       "endsAt": "2026-08-30",
       "addedAt": 1787231762400
+    },
+    {
+      "id": "a1787576719374",
+      "icon": "🏃",
+      "name": "Diamantová liga Zurich",
+      "url": "https://zurich.diamondleague.com/en/programme-results/",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787576719374,
+      "name_en": "Diamond league Zurich"
     }
   ],
   "banners": [
