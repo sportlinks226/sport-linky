@@ -1,9 +1,18 @@
 {
-  "version": 163,
+  "version": 165,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
+    {
+      "id": "a1787566310663",
+      "icon": "🎖️",
+      "name": "Stredomorské hry",
+      "url": "https://taranto2026.microplustimingservices.com/#/general-schedule?lang=en",
+      "endsAt": "2026-09-03",
+      "addedAt": 1787566310663,
+      "name_en": "Mediterranean games"
+    },
     {
       "id": "a1787231185844",
       "icon": "🚴",
@@ -12,15 +21,6 @@
       "endsAt": "2026-09-13",
       "addedAt": 1787231185844,
       "name_en": "La Vuelta"
-    },
-    {
-      "id": "a1787229030927",
-      "icon": "🏎️",
-      "name": "F1 VC Holandska",
-      "url": "https://www.dutchgp.com/en/",
-      "endsAt": "2026-08-23",
-      "addedAt": 1787229030927,
-      "name_en": "F1 Dutch GP"
     },
     {
       "id": "a1787232192049",
@@ -32,29 +32,20 @@
       "name_en": "Field hockey WCH"
     },
     {
-      "id": "a1787232326604",
-      "icon": "🏸",
-      "name": "Badminton MS",
-      "url": "https://bwfworldchampionships.bwfbadminton.com/results/5601/bwf-world-championships-2026/2026-08-20",
-      "endsAt": "2026-08-23",
-      "addedAt": 1787232326604,
-      "name_en": "Badminton WCH"
-    },
-    {
-      "id": "a1787231023180",
-      "icon": "🏃",
-      "name": "Diamantová liga",
-      "url": "https://lausanne.diamondleague.com/programme-results/",
-      "endsAt": "2026-08-21",
-      "addedAt": 1787231023180,
-      "name_en": "Diamond league"
+      "id": "a1787566429432",
+      "icon": "⚽",
+      "name": "Liga Majstrov",
+      "url": "https://www.uefa.com/uefachampionsleague/",
+      "endsAt": "2026-08-27",
+      "addedAt": 1787566429432,
+      "name_en": "Champions league"
     },
     {
       "id": "a1784634663367",
       "icon": "⚽",
       "name": "Európska liga",
       "url": "https://www.uefa.com/uefaeuropaleague/",
-      "endsAt": "2026-08-20",
+      "endsAt": "2026-08-27",
       "addedAt": 1784634663367,
       "name_en": "European league"
     },
@@ -63,7 +54,7 @@
       "icon": "⚽",
       "name": "Konferenčná liga",
       "url": "https://www.uefa.com/uefaconferenceleague/",
-      "endsAt": "2026-08-20",
+      "endsAt": "2026-08-27",
       "addedAt": 1784634702063,
       "name_en": "Conference league"
     },
@@ -84,12 +75,28 @@
       "addedAt": 1784539153202
     },
     {
-      "id": "a1783874074020",
+      "id": "a1787566609331",
       "icon": "🎾",
-      "name": "ATP Cincinnati",
-      "url": "https://cincinnatiopen.com/",
-      "endsAt": "2026-08-23",
-      "addedAt": 1783874074020
+      "name": "US Open",
+      "url": "https://www.usopen.org/en_US/scores/index.html",
+      "endsAt": "2026-09-13",
+      "addedAt": 1787566609331
+    },
+    {
+      "id": "a1787566668793",
+      "icon": "🎾",
+      "name": "ATP Winston Salem",
+      "url": "https://www.winstonsalemopen.com/en",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787566668793
+    },
+    {
+      "id": "a1787566720239",
+      "icon": "🎾",
+      "name": "WTA Monterrey",
+      "url": "https://www.wtatennis.com/tournaments/1039/monterrey/2026",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787566720239
     },
     {
       "id": "a1784541154016",
@@ -98,42 +105,6 @@
       "url": "https://www.wnba.com/",
       "endsAt": "",
       "addedAt": 1784541154016
-    },
-    {
-      "id": "a1786310493274",
-      "icon": "🏀",
-      "name": "Basketbal ME U16 ženy div.B",
-      "url": "https://www.fiba.basketball/en/events/fiba-u16-womens-eurobasket-2026-division-b",
-      "endsAt": "2026-08-23",
-      "addedAt": 1786310493274,
-      "name_en": "Basketball ECH U16 women div.B"
-    },
-    {
-      "id": "a1786310669306",
-      "icon": "🏀",
-      "name": "Basketbal Asia cup U18 muži",
-      "url": "https://www.fiba.basketball/en/events/fiba-u18-asia-cup-2026",
-      "endsAt": "2026-08-23",
-      "addedAt": 1786310669307,
-      "name_en": "Basketball Asia cup U18 men"
-    },
-    {
-      "id": "a1787229212111",
-      "icon": "🏀",
-      "name": "OH kvalifikácia ženy",
-      "url": "https://www.fiba.basketball/en/events/fiba-womens-olympic-pre-qualifying-tournament-2026-guadalajara-mexico",
-      "endsAt": "2026-08-23",
-      "addedAt": 1787229212111,
-      "name_en": "OG quali women"
-    },
-    {
-      "id": "a1787229661208",
-      "icon": "🏐",
-      "name": "NORCECA ženy",
-      "url": "https://norceca.net/2026%20Competition%20&%20Activities/NORCECA%20Continental%20Championship%202026/Women/2026-%20Women%20Continental%20Championship.htm",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787229661208,
-      "name_en": "NORCECA women"
     },
     {
       "id": "a1787232089997",
@@ -145,48 +116,21 @@
       "name_en": "Volleyball women ECH"
     },
     {
+      "id": "a1787229661208",
+      "icon": "🏐",
+      "name": "NORCECA ženy",
+      "url": "https://norceca.net/2026%20Competition%20&%20Activities/NORCECA%20Continental%20Championship%202026/Women/2026-%20Women%20Continental%20Championship.htm",
+      "endsAt": "2026-08-30",
+      "addedAt": 1787229661208,
+      "name_en": "NORCECA women"
+    },
+    {
       "id": "a1785147664719",
       "icon": "🏓",
       "name": "TT Star series",
       "url": "https://ttstar.cz/en/results/",
       "endsAt": "",
       "addedAt": 1785147664719
-    },
-    {
-      "id": "a1786311663283",
-      "icon": "⛳",
-      "name": "PGA BMW Championship",
-      "url": "https://bmwchampionship.com/",
-      "endsAt": "2026-08-23",
-      "addedAt": 1786311663283,
-      "name_en": "PGA Golf Fedex Championship"
-    },
-    {
-      "id": "a1786311772902",
-      "icon": "⛳",
-      "name": "LPGA CPKC open",
-      "url": "https://www.cpkcwomensopen.com/",
-      "endsAt": "2026-08-23",
-      "addedAt": 1786311772902,
-      "name_en": "LPGA Golf Portland Classic"
-    },
-    {
-      "id": "a1786309279414",
-      "icon": "🏇",
-      "name": "Jazdectvo MS",
-      "url": "https://www.aachen2026.com/",
-      "endsAt": "2026-08-23",
-      "addedAt": 1786309279414,
-      "name_en": "Equestrian WCH"
-    },
-    {
-      "id": "a1786310916664",
-      "icon": "♟️",
-      "name": "Šachy Sinquefield cup",
-      "url": "https://grandchesstour.org/tours/2026/tournaments/2026-sinquefield-cup/",
-      "endsAt": "2026-08-22",
-      "addedAt": 1786310916664,
-      "name_en": "Chess Sinquefield cup"
     },
     {
       "id": "a1784541193793",
@@ -108508,6 +108452,16 @@
       "url": "https://www.fiba.basketball/en/events/fiba-u15-womens-oceania-cup-2024",
       "order": 9,
       "desc_en": "Oceania Under-15 championship for girls, the youngest continental age category run by FIBA Oceania."
+    },
+    {
+      "id": "n1787566150175cku",
+      "parentId": "f_ost_padel",
+      "type": "link",
+      "icon": "",
+      "name": "Padel FIP",
+      "desc": "",
+      "url": "https://www.padelfip.com/",
+      "order": 0
     }
   ],
   "title_en": "Sportlinking",
