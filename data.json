@@ -1,5 +1,5 @@
 {
-  "version": 173,
+  "version": 174,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -109209,36 +109209,44 @@
       "id": "f_bas_klu_az_chn",
       "parentId": "f_bas_klu_az",
       "type": "folder",
-      "icon": "🏀",
+      "icon": "cn",
       "name": "Čína",
       "name_en": "China",
       "desc": "Basketbalové kluby Číny — mužská CBA a ženská WCBA.",
       "desc_en": "China's basketball clubs — the men's CBA and the women's WCBA.",
-      "order": 0
+      "order": 0,
+      "slug": "cina",
+      "slug_en": "china"
     },
     {
-      "id": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1",
       "parentId": "f_bas_klu_az_chn",
       "type": "folder",
-      "icon": "🏀",
-      "name": "CBA (muži)",
+      "icon": "cn",
+      "name": "CBA",
       "desc": "Najvyššia mužská klubová súťaž Číny, 20 tímov.",
       "desc_en": "China's top men's club competition, 20 teams.",
-      "order": 0
+      "order": 0,
+      "name_en": "CBA",
+      "slug": "cba",
+      "slug_en": "cba"
     },
     {
-      "id": "f_bas_klu_az_chn_l2",
+      "id": "f_bas_chn_l2",
       "parentId": "f_bas_klu_az_chn",
       "type": "folder",
-      "icon": "🏀",
+      "icon": "cn",
       "name": "WCBA (ženy)",
       "desc": "Najvyššia ženská klubová súťaž Číny, 18 tímov.",
       "desc_en": "China's top women's club competition, 18 teams.",
-      "order": 1
+      "order": 1,
+      "name_en": "WCBA (women)",
+      "slug": "wcba-zeny",
+      "slug_en": "wcba-women"
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k1",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k1",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Beijing Ducks",
@@ -109248,8 +109256,8 @@
       "desc_en": "Beijing — three-time CBA champion (2011/12, 2013/14, 2014/15), home to club legend Stephon Marbury, playing at the Wukesong Arena."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k2",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k2",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Beijing Royal Fighters",
@@ -109259,8 +109267,8 @@
       "desc_en": "Beijing — the city's second CBA club, originally founded in Guangzhou in 2009 as Free Men, now playing at the National Olympic Sports Center."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k3",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k3",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Fujian Sturgeons",
@@ -109270,8 +109278,8 @@
       "desc_en": "Jinjiang, Fujian — one of the CBA's lower-table clubs, playing its home games at the Zuchang Arena in Jinjiang."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k4",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k4",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Guangdong Southern Tigers",
@@ -109281,8 +109289,8 @@
       "desc_en": "Dongguan — CBA's record champion with 11 titles, home of club legend Yi Jianlian, playing at the Bank of Dongguan Basketball Center."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k5",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k5",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Guangzhou Loong Lions",
@@ -109292,8 +109300,8 @@
       "desc_en": "Guangzhou — playing at the Tianhe Gymnasium, competing alongside the more storied Guangdong Southern Tigers from the same province."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k6",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k6",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Jiangsu Dragons",
@@ -109303,8 +109311,8 @@
       "desc_en": "Suzhou, Jiangsu — playing at the Suzhou Sports Center Gymnasium."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k7",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k7",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Jilin Northeast Tigers",
@@ -109314,8 +109322,8 @@
       "desc_en": "Changchun — northeastern club nicknamed the \"Northeast Tigers\", also playing home games in Jilin City, currently sponsored as Changbaishan Andili."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k8",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k8",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Liaoning Flying Leopards",
@@ -109325,8 +109333,8 @@
       "desc_en": "Shenyang — 2017/18 CBA champion, playing at the Liaoning Gymnasium, currently sponsored as Liaoning Benxi."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k9",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k9",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Nanjing Monkey Kings",
@@ -109336,8 +109344,8 @@
       "desc_en": "Nanjing, Jiangsu — playing at the Nanjing Youth Olympic Sports Park Arena."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k10",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k10",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Ningbo Rockets",
@@ -109347,8 +109355,8 @@
       "desc_en": "Ningbo, Zhejiang — playing at the Youngor Arena."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k11",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k11",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Qingdao Eagles",
@@ -109358,8 +109366,8 @@
       "desc_en": "Qingdao, Shandong — playing at the Guoxin Arena, formed in 2003 through a merger involving the Double Star Group."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k12",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k12",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Shandong Hi-Speed Kirin",
@@ -109369,8 +109377,8 @@
       "desc_en": "Jinan, Shandong — playing at the Shandong Arena, its \"Kirins\" nickname has carried through several sponsor-name changes since 1995."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k13",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k13",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Shanghai Sharks",
@@ -109380,8 +109388,8 @@
       "desc_en": "Shanghai — the club where Yao Ming started his career, playing at the Shanghai Indoor Stadium."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k14",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k14",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Shanxi Loongs",
@@ -109391,8 +109399,8 @@
       "desc_en": "Taiyuan — Shanxi province's only CBA club, finished 2nd in the 2024/25 regular season, their best finish in club history."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k15",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k15",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Shenzhen Leopards",
@@ -109402,8 +109410,8 @@
       "desc_en": "Shenzhen, Guangdong — playing at the Shenzhen Gymnasium."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k16",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k16",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Sichuan Blue Whales",
@@ -109413,8 +109421,8 @@
       "desc_en": "Chengdu — 2015/16 CBA champion, playing at the Jinqiang International Event Center, nicknamed the \"Blue Whales\"."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k17",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k17",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Tianjin Pioneers",
@@ -109424,8 +109432,8 @@
       "desc_en": "Tianjin — one of the CBA's youngest professional clubs (founded in 2007), playing at the Tianjin Arena."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k18",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k18",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Xinjiang Flying Tigers",
@@ -109435,8 +109443,8 @@
       "desc_en": "Ürümqi — 2016/17 CBA champion and multiple-time finalist, currently sponsored as Xinjiang Yilite."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k19",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k19",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Zhejiang Golden Bulls",
@@ -109446,8 +109454,8 @@
       "desc_en": "Hangzhou, Zhejiang — playing at the Binjiang Gymnasium, nicknamed the \"Golden Bulls\"."
     },
     {
-      "id": "f_bas_klu_az_chn_l1_k20",
-      "parentId": "f_bas_klu_az_chn_l1",
+      "id": "f_bas_chn_l1_k20",
+      "parentId": "f_bas_chn_l1",
       "type": "link",
       "icon": "",
       "name": "Zhejiang Guangsha Lions",
@@ -109455,6 +109463,253 @@
       "url": "https://weibo.com/u/1891602411",
       "order": 19,
       "desc_en": "Hangzhou — claimed their first-ever CBA title in the 2024/25 season, playing at the Hangzhou Gymnasium."
+    },
+    {
+      "id": "f_bas_klu_az_jpn",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "jp",
+      "name": "Japonsko",
+      "name_en": "Japan",
+      "desc": "",
+      "desc_en": "",
+      "order": 1,
+      "slug": "japonsko",
+      "slug_en": "japan"
+    },
+    {
+      "id": "f_bas_klu_az_kor",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "kr",
+      "name": "Južná Kórea",
+      "name_en": "South Korea",
+      "desc": "",
+      "desc_en": "",
+      "order": 2,
+      "slug": "juzna-korea",
+      "slug_en": "south-korea"
+    },
+    {
+      "id": "f_bas_klu_az_tpe",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "tw",
+      "name": "Čínske Taipei",
+      "name_en": "Chinese Taipei",
+      "desc": "",
+      "desc_en": "",
+      "order": 3,
+      "slug": "cinske-taipei",
+      "slug_en": "chinese-taipei"
+    },
+    {
+      "id": "f_bas_klu_az_idn",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "id",
+      "name": "Indonézia",
+      "name_en": "Indonesia",
+      "desc": "",
+      "desc_en": "",
+      "order": 4,
+      "slug": "indonezia",
+      "slug_en": "indonesia"
+    },
+    {
+      "id": "f_bas_klu_az_phl",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "ph",
+      "name": "Filipíny",
+      "name_en": "Philippines",
+      "desc": "",
+      "desc_en": "",
+      "order": 5,
+      "slug": "filipiny",
+      "slug_en": "philippines"
+    },
+    {
+      "id": "f_bas_klu_az_hkg",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "hk",
+      "name": "Hongkong",
+      "name_en": "Hong Kong",
+      "desc": "",
+      "desc_en": "",
+      "order": 6,
+      "slug": "hongkong",
+      "slug_en": "hong-kong"
+    },
+    {
+      "id": "f_bas_klu_az_ind",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "in",
+      "name": "India",
+      "name_en": "India",
+      "desc": "",
+      "desc_en": "",
+      "order": 7,
+      "slug": "india",
+      "slug_en": "india"
+    },
+    {
+      "id": "f_bas_klu_az_irq",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "iq",
+      "name": "Irak",
+      "name_en": "Iraq",
+      "desc": "",
+      "desc_en": "",
+      "order": 8,
+      "slug": "irak",
+      "slug_en": "iraq"
+    },
+    {
+      "id": "f_bas_klu_az_irn",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "ir",
+      "name": "Irán",
+      "name_en": "Iran",
+      "desc": "",
+      "desc_en": "",
+      "order": 9,
+      "slug": "iran",
+      "slug_en": "iran"
+    },
+    {
+      "id": "f_bas_klu_az_jor",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "jo",
+      "name": "Jordánsko",
+      "name_en": "Jordan",
+      "desc": "",
+      "desc_en": "",
+      "order": 10,
+      "slug": "jordansko",
+      "slug_en": "jordan"
+    },
+    {
+      "id": "f_bas_klu_az_qat",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "qa",
+      "name": "Katar",
+      "name_en": "Qatar",
+      "desc": "",
+      "desc_en": "",
+      "order": 11,
+      "slug": "katar",
+      "slug_en": "qatar"
+    },
+    {
+      "id": "f_bas_klu_az_kaz",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "kz",
+      "name": "Kazachstan",
+      "name_en": "Kazakhstan",
+      "desc": "",
+      "desc_en": "",
+      "order": 12,
+      "slug": "kazachstan",
+      "slug_en": "kazakhstan"
+    },
+    {
+      "id": "f_bas_klu_az_lbn",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "lb",
+      "name": "Libanon",
+      "name_en": "Lebanon",
+      "desc": "",
+      "desc_en": "",
+      "order": 13,
+      "slug": "libanon",
+      "slug_en": "lebanon"
+    },
+    {
+      "id": "f_bas_klu_az_mys",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "my",
+      "name": "Malajzia",
+      "name_en": "Malaysia",
+      "desc": "",
+      "desc_en": "",
+      "order": 14,
+      "slug": "malajzia",
+      "slug_en": "malaysia"
+    },
+    {
+      "id": "f_bas_klu_az_mng",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "mn",
+      "name": "Mongolsko",
+      "name_en": "Mongolia",
+      "desc": "",
+      "desc_en": "",
+      "order": 15,
+      "slug": "mongolsko",
+      "slug_en": "mongolia"
+    },
+    {
+      "id": "f_bas_klu_az_sau",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "sa",
+      "name": "Saudská Arábia",
+      "name_en": "Saudi Arabia",
+      "desc": "",
+      "desc_en": "",
+      "order": 16,
+      "slug": "saudska-arabia",
+      "slug_en": "saudi-arabia"
+    },
+    {
+      "id": "f_bas_klu_az_sgp",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "sg",
+      "name": "Singapur",
+      "name_en": "Singapore",
+      "desc": "",
+      "desc_en": "",
+      "order": 17,
+      "slug": "singapur",
+      "slug_en": "singapore"
+    },
+    {
+      "id": "f_bas_klu_az_syr",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "sy",
+      "name": "Sýria",
+      "name_en": "Syria",
+      "desc": "",
+      "desc_en": "",
+      "order": 18,
+      "slug": "syria",
+      "slug_en": "syria"
+    },
+    {
+      "id": "f_bas_klu_az_tha",
+      "parentId": "f_bas_klu_az",
+      "type": "folder",
+      "icon": "th",
+      "name": "Thajsko",
+      "name_en": "Thailand",
+      "desc": "",
+      "desc_en": "",
+      "order": 19,
+      "slug": "thajsko",
+      "slug_en": "thailand"
     }
   ],
   "title_en": "Sportlinking",
