@@ -39,4 +39,18 @@ jobs:
       - name: Vygeneruj SEO stránky
         run: python generator.py --out _site
         env:
-          BASE_URL: ${{ steps.pages.o
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
