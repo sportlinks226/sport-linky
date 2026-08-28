@@ -1,5 +1,5 @@
 {
- "version": 184,
+ "version": 191,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -11,7 +11,7 @@
    "url": "https://taranto2026.microplustimingservices.com/#/general-schedule?lang=en",
    "endsAt": "2026-09-03",
    "addedAt": 1787566310663,
-   "name_en": "Mediterranean games"
+   "name_en": "Mediterranean Games"
   },
   {
    "id": "a1787231185844",
@@ -29,7 +29,7 @@
    "url": "https://www.worldcup.hockey/",
    "endsAt": "2026-08-30",
    "addedAt": 1787232192049,
-   "name_en": "Field hockey WCH"
+   "name_en": "Field Hockey World Cup"
   },
   {
    "id": "a1787575260335",
@@ -38,7 +38,7 @@
    "url": "https://worldrowing.com/event/2026-world-rowing-championships/",
    "endsAt": "2026-08-30",
    "addedAt": 1787575260335,
-   "name_en": "Rowing WCH"
+   "name_en": "World Rowing Championships"
   },
   {
    "id": "a1787566429432",
@@ -47,7 +47,7 @@
    "url": "https://www.uefa.com/uefachampionsleague/",
    "endsAt": "2026-08-27",
    "addedAt": 1787566429432,
-   "name_en": "Champions league"
+   "name_en": "Champions League"
   },
   {
    "id": "a1784634663367",
@@ -56,7 +56,7 @@
    "url": "https://www.uefa.com/uefaeuropaleague/",
    "endsAt": "2026-08-27",
    "addedAt": 1784634663367,
-   "name_en": "European league"
+   "name_en": "Europa League"
   },
   {
    "id": "a1784634702063",
@@ -65,7 +65,7 @@
    "url": "https://www.uefa.com/uefaconferenceleague/",
    "endsAt": "2026-08-27",
    "addedAt": 1784634702063,
-   "name_en": "Conference league"
+   "name_en": "Conference League"
   },
   {
    "id": "a1784538636873",
@@ -73,7 +73,8 @@
    "name": "ATP scores",
    "url": "https://www.atptour.com/en/scores/current",
    "endsAt": "",
-   "addedAt": 1784538636873
+   "addedAt": 1784538636873,
+   "name_en": "ATP Scores"
   },
   {
    "id": "a1784539153202",
@@ -81,7 +82,8 @@
    "name": "WTA scores",
    "url": "https://www.wtatennis.com/scores",
    "endsAt": "",
-   "addedAt": 1784539153202
+   "addedAt": 1784539153202,
+   "name_en": "WTA Scores"
   },
   {
    "id": "a1787566609331",
@@ -89,7 +91,8 @@
    "name": "US Open",
    "url": "https://www.usopen.org/en_US/scores/index.html",
    "endsAt": "2026-09-13",
-   "addedAt": 1787566609331
+   "addedAt": 1787566609331,
+   "name_en": "US Open"
   },
   {
    "id": "a1787566668793",
@@ -97,7 +100,8 @@
    "name": "ATP Winston Salem",
    "url": "https://www.winstonsalemopen.com/en",
    "endsAt": "2026-08-30",
-   "addedAt": 1787566668793
+   "addedAt": 1787566668793,
+   "name_en": "ATP Winston-Salem"
   },
   {
    "id": "a1787566720239",
@@ -105,7 +109,8 @@
    "name": "WTA Monterrey",
    "url": "https://www.wtatennis.com/tournaments/1039/monterrey/2026",
    "endsAt": "2026-08-30",
-   "addedAt": 1787566720239
+   "addedAt": 1787566720239,
+   "name_en": "WTA Monterrey"
   },
   {
    "id": "a1784541154016",
@@ -113,7 +118,8 @@
    "name": "WNBA",
    "url": "https://www.wnba.com/",
    "endsAt": "",
-   "addedAt": 1784541154016
+   "addedAt": 1784541154016,
+   "name_en": "WNBA"
   },
   {
    "id": "a1787232089997",
@@ -122,7 +128,7 @@
    "url": "https://eurovolley.cev.eu/en/2026/women/",
    "endsAt": "2026-09-06",
    "addedAt": 1787232089997,
-   "name_en": "Volleyball women ECH"
+   "name_en": "Women's EuroVolley"
   },
   {
    "id": "a1787584810061",
@@ -131,7 +137,7 @@
    "url": "https://en.volleyballworld.com/volleyball/competitions/boys-u17-world-championship",
    "endsAt": "2026-09-06",
    "addedAt": 1787584810061,
-   "name_en": "Volleball U17 WCH men"
+   "name_en": "Boys' U17 Volleyball World Championship"
   },
   {
    "id": "a1787576593112",
@@ -140,7 +146,7 @@
    "url": "https://norceca.info/event/2026-norceca-mens-final-six/",
    "endsAt": "",
    "addedAt": 1787576593112,
-   "name_en": "NORCECA Final 6 men"
+   "name_en": "NORCECA Men's Final Six"
   },
   {
    "id": "a1787229661208",
@@ -149,7 +155,7 @@
    "url": "https://norceca.net/2026%20Competition%20&%20Activities/NORCECA%20Continental%20Championship%202026/Women/2026-%20Women%20Continental%20Championship.htm",
    "endsAt": "2026-08-30",
    "addedAt": 1787229661208,
-   "name_en": "NORCECA women"
+   "name_en": "NORCECA Women"
   },
   {
    "id": "a1787575368226",
@@ -157,7 +163,8 @@
    "name": "Snooker Wuhan open",
    "url": "https://www.wst.tv/matches",
    "endsAt": "2026-08-30",
-   "addedAt": 1787575368226
+   "addedAt": 1787575368226,
+   "name_en": "Snooker Wuhan Open"
   },
   {
    "id": "a1785147664719",
@@ -165,7 +172,8 @@
    "name": "TT Star series",
    "url": "https://ttstar.cz/en/results/",
    "endsAt": "",
-   "addedAt": 1785147664719
+   "addedAt": 1785147664719,
+   "name_en": "TT Star Series"
   },
   {
    "id": "a1784541193793",
@@ -173,7 +181,8 @@
    "name": "MLB",
    "url": "https://www.mlb.com/",
    "endsAt": "",
-   "addedAt": 1784541193793
+   "addedAt": 1784541193793,
+   "name_en": "MLB"
   },
   {
    "id": "a1787231762400",
@@ -181,7 +190,8 @@
    "name": "NFL preseason",
    "url": "https://www.nfl.com/schedules",
    "endsAt": "2026-08-30",
-   "addedAt": 1787231762400
+   "addedAt": 1787231762400,
+   "name_en": "NFL Preseason"
   },
   {
    "id": "a1787576719374",
@@ -190,7 +200,7 @@
    "url": "https://zurich.diamondleague.com/en/programme-results/",
    "endsAt": "2026-08-30",
    "addedAt": 1787576719374,
-   "name_en": "Diamond league Zurich"
+   "name_en": "Diamond League Zurich"
   }
  ],
  "banners": [
@@ -1354,11 +1364,12 @@
    "type": "folder",
    "icon": "gb-eng",
    "name": "Anglicko",
-   "desc": "",
+   "desc": "Anglické futbalové kluby naprieč siedmimi úrovňami — od Premier League cez EFL až po National League North a South",
    "order": 0,
    "slug": "anglicko",
    "name_en": "England",
-   "slug_en": "england"
+   "slug_en": "england",
+   "desc_en": "English football clubs across seven tiers — from the Premier League through the EFL down to National League North and South"
   },
   {
    "id": "f_fut_klu_eu_esp",
@@ -1366,11 +1377,12 @@
    "type": "folder",
    "icon": "es",
    "name": "Španielsko",
-   "desc": "",
+   "desc": "Španielske kluby od La Ligy s Realom Madrid a Barcelonou po obe skupiny tretej úrovne Primera RFEF",
    "order": 1,
    "slug": "spanielsko",
    "name_en": "Spain",
-   "slug_en": "spain"
+   "slug_en": "spain",
+   "desc_en": "Spanish clubs from La Liga with Real Madrid and Barcelona down to both groups of the third-tier Primera RFEF"
   },
   {
    "id": "f_fut_klu_eu_deu",
@@ -1378,11 +1390,12 @@
    "type": "folder",
    "icon": "de",
    "name": "Nemecko",
-   "desc": "",
+   "desc": "Nemecké kluby od Bundesligy až po všetkých päť regionálnych líg štvrtej úrovne",
    "order": 2,
    "slug": "nemecko",
    "name_en": "Germany",
-   "slug_en": "germany"
+   "slug_en": "germany",
+   "desc_en": "German clubs from the Bundesliga all the way down to the five fourth-tier Regionalligas"
   },
   {
    "id": "f_fut_klu_eu_fra",
@@ -1390,11 +1403,12 @@
    "type": "folder",
    "icon": "fr",
    "name": "Francúzsko",
-   "desc": "",
+   "desc": "Francúzske kluby v troch profesionálnych úrovniach — Ligue 1, Ligue 2 a Ligue 3",
    "order": 3,
    "slug": "francuzsko",
    "name_en": "France",
-   "slug_en": "france"
+   "slug_en": "france",
+   "desc_en": "French clubs across three professional tiers — Ligue 1, Ligue 2 and Ligue 3"
   },
   {
    "id": "f_fut_klu_eu_svk",
@@ -1402,11 +1416,12 @@
    "type": "folder",
    "icon": "sk",
    "name": "Slovensko",
-   "desc": "",
+   "desc": "Slovenské kluby Niké ligy a druhej ligy — oficiálne weby oboch najvyšších súťaží",
    "order": 4,
    "slug": "slovensko",
    "name_en": "Slovakia",
-   "slug_en": "slovakia"
+   "slug_en": "slovakia",
+   "desc_en": "Slovak clubs of the Niké liga and the second tier — official websites of both top divisions"
   },
   {
    "id": "f_fut_klu_eu_cze",
@@ -1414,11 +1429,12 @@
    "type": "folder",
    "icon": "cz",
    "name": "Česko",
-   "desc": "",
+   "desc": "České kluby Chance Ligy a Chance Národní Ligy — dve najvyššie profesionálne súťaže",
    "order": 5,
    "slug": "ceska-republika",
    "name_en": "Czechia",
-   "slug_en": "czech-republic"
+   "slug_en": "czech-republic",
+   "desc_en": "Czech clubs of the Chance Liga and Chance Národní Liga — the two top professional divisions"
   },
   {
    "id": "f_fut_klu_eu_alb",
@@ -1426,11 +1442,12 @@
    "type": "folder",
    "icon": "al",
    "name": "Albánsko",
-   "desc": "",
+   "desc": "Albánske kluby najvyššej súťaže Abissnet Superiore",
    "order": 6,
    "slug": "albansko",
    "name_en": "Albania",
-   "slug_en": "albania"
+   "slug_en": "albania",
+   "desc_en": "Albanian clubs of the top-flight Abissnet Superiore"
   },
   {
    "id": "f_fut_klu_eu_and",
@@ -1438,11 +1455,12 @@
    "type": "folder",
    "icon": "ad",
    "name": "Andorra",
-   "desc": "",
+   "desc": "Andorrské kluby najvyššej súťaže Primera Divisió",
    "order": 7,
    "slug": "andorra",
    "slug_en": "andorra",
-   "name_en": "Andorra"
+   "name_en": "Andorra",
+   "desc_en": "Andorran clubs of the top-flight Primera Divisió"
   },
   {
    "id": "f_fut_klu_eu_blr",
@@ -1450,11 +1468,12 @@
    "type": "folder",
    "icon": "by",
    "name": "Bielorusko",
-   "desc": "",
+   "desc": "Bieloruské kluby Vyššej ligy, najvyššej súťaže krajiny",
    "order": 8,
    "slug": "bielorusko",
    "name_en": "Belarus",
-   "slug_en": "belarus"
+   "slug_en": "belarus",
+   "desc_en": "Belarusian clubs of the Vysheyshaya Liga, the country's top flight"
   },
   {
    "id": "f_fut_klu_eu_bel",
@@ -1462,11 +1481,12 @@
    "type": "folder",
    "icon": "be",
    "name": "Belgicko",
-   "desc": "",
+   "desc": "Belgické kluby od Jupiler Pro League po obe jazykové skupiny tretej úrovne",
    "order": 9,
    "slug": "belgicko",
    "name_en": "Belgium",
-   "slug_en": "belgium"
+   "slug_en": "belgium",
+   "desc_en": "Belgian clubs from the Jupiler Pro League down to both language groups of the third tier"
   },
   {
    "id": "f_fut_klu_eu_bih",
@@ -1474,11 +1494,12 @@
    "type": "folder",
    "icon": "ba",
    "name": "Bosna a Hercegovina",
-   "desc": "",
+   "desc": "Bosnianske kluby najvyššej súťaže Premijer liga BiH",
    "order": 10,
    "slug": "bosna-a-hercegovina",
    "name_en": "Bosnia and Herzegovina",
-   "slug_en": "bosnia-and-herzegovina"
+   "slug_en": "bosnia-and-herzegovina",
+   "desc_en": "Bosnian clubs of the top-flight Premijer Liga BiH"
   },
   {
    "id": "f_fut_klu_eu_bgr",
@@ -1486,11 +1507,12 @@
    "type": "folder",
    "icon": "bg",
    "name": "Bulharsko",
-   "desc": "",
+   "desc": "Bulharské kluby Parva ligy a druhej Vtora ligy",
    "order": 11,
    "slug": "bulharsko",
    "name_en": "Bulgaria",
-   "slug_en": "bulgaria"
+   "slug_en": "bulgaria",
+   "desc_en": "Bulgarian clubs of the Parva Liga and the second-tier Vtora Liga"
   },
   {
    "id": "f_fut_klu_eu_mne",
@@ -1498,11 +1520,12 @@
    "type": "folder",
    "icon": "me",
    "name": "Čierna Hora",
-   "desc": "",
+   "desc": "Čiernohorské kluby oboch líg — Prva aj Druga Crnogorska Liga",
    "order": 12,
    "slug": "cierna-hora",
    "name_en": "Montenegro",
-   "slug_en": "montenegro"
+   "slug_en": "montenegro",
+   "desc_en": "Montenegrin clubs of both divisions — the Prva and Druga Crnogorska Liga"
   },
   {
    "id": "f_fut_klu_eu_dnk",
@@ -1510,11 +1533,12 @@
    "type": "folder",
    "icon": "dk",
    "name": "Dánsko",
-   "desc": "",
+   "desc": "Dánske kluby v troch úrovniach od Superligy po 2nd Division",
    "order": 13,
    "slug": "dansko",
    "name_en": "Denmark",
-   "slug_en": "denmark"
+   "slug_en": "denmark",
+   "desc_en": "Danish clubs across three tiers from the Superliga to the 2nd Division"
   },
   {
    "id": "f_fut_klu_eu_est",
@@ -1522,11 +1546,12 @@
    "type": "folder",
    "icon": "ee",
    "name": "Estónsko",
-   "desc": "",
+   "desc": "Estónske kluby Meistriliigy a druhej Esiliigy",
    "order": 14,
    "slug": "estonsko",
    "name_en": "Estonia",
-   "slug_en": "estonia"
+   "slug_en": "estonia",
+   "desc_en": "Estonian clubs of the Meistriliiga and the second-tier Esiliiga"
   },
   {
    "id": "f_fut_klu_eu_fin",
@@ -1534,11 +1559,12 @@
    "type": "folder",
    "icon": "fi",
    "name": "Fínsko",
-   "desc": "",
+   "desc": "Fínske kluby v troch úrovniach — Veikkausliiga, Ykkösliiga a Ykkönen",
    "order": 16,
    "slug": "finsko",
    "name_en": "Finland",
-   "slug_en": "finland"
+   "slug_en": "finland",
+   "desc_en": "Finnish clubs across three tiers — Veikkausliiga, Ykkösliiga and Ykkönen"
   },
   {
    "id": "f_fut_klu_eu_grc",
@@ -1546,11 +1572,12 @@
    "type": "folder",
    "icon": "gr",
    "name": "Grécko",
-   "desc": "",
+   "desc": "Grécke kluby Super League 1 a Super League 2",
    "order": 18,
    "slug": "grecko",
    "name_en": "Greece",
-   "slug_en": "greece"
+   "slug_en": "greece",
+   "desc_en": "Greek clubs of Super League 1 and Super League 2"
   },
   {
    "id": "f_fut_klu_eu_nld",
@@ -1558,11 +1585,12 @@
    "type": "folder",
    "icon": "nl",
    "name": "Holandsko",
-   "desc": "",
+   "desc": "Holandské kluby od Eredivisie po obe skupiny Derde Divisie",
    "order": 19,
    "slug": "holandsko",
    "name_en": "Netherlands",
-   "slug_en": "netherlands"
+   "slug_en": "netherlands",
+   "desc_en": "Dutch clubs from the Eredivisie down to both groups of the Derde Divisie"
   },
   {
    "id": "f_fut_klu_eu_hrv",
@@ -1570,11 +1598,12 @@
    "type": "folder",
    "icon": "hr",
    "name": "Chorvátsko",
-   "desc": "",
+   "desc": "Chorvátske kluby od SuperSport HNL po tretiu Druga NL",
    "order": 20,
    "slug": "chorvatsko",
    "name_en": "Croatia",
-   "slug_en": "croatia"
+   "slug_en": "croatia",
+   "desc_en": "Croatian clubs from the SuperSport HNL down to the third-tier Druga NL"
   },
   {
    "id": "f_fut_klu_eu_irl",
@@ -1582,11 +1611,12 @@
    "type": "folder",
    "icon": "ie",
    "name": "Írsko",
-   "desc": "",
+   "desc": "Írske kluby oboch divízií League of Ireland",
    "order": 21,
    "slug": "irsko",
    "name_en": "Ireland",
-   "slug_en": "ireland"
+   "slug_en": "ireland",
+   "desc_en": "Irish clubs of both League of Ireland divisions"
   },
   {
    "id": "f_fut_klu_eu_isl",
@@ -1594,11 +1624,12 @@
    "type": "folder",
    "icon": "is",
    "name": "Island",
-   "desc": "",
+   "desc": "Islandské kluby súťaží Besta deild karla a 1. deild karla",
    "order": 22,
    "slug": "island",
    "name_en": "Iceland",
-   "slug_en": "iceland"
+   "slug_en": "iceland",
+   "desc_en": "Icelandic clubs of the Besta deild karla and 1. deild karla"
   },
   {
    "id": "f_fut_klu_eu_xkx",
@@ -1606,11 +1637,12 @@
    "type": "folder",
    "icon": "xk",
    "name": "Kosovo",
-   "desc": "",
+   "desc": "Kosovské kluby najvyššej Superligy",
    "order": 23,
    "slug": "kosovo",
    "slug_en": "kosovo",
-   "name_en": "Kosovo"
+   "name_en": "Kosovo",
+   "desc_en": "Kosovar clubs of the top-flight Superliga"
   },
   {
    "id": "f_fut_klu_eu_lie",
@@ -1630,11 +1662,12 @@
    "type": "folder",
    "icon": "lt",
    "name": "Litva",
-   "desc": "",
+   "desc": "Litovské kluby TOPLYGY a druhej súťaže I lyga",
    "order": 25,
    "slug": "litva",
    "name_en": "Lithuania",
-   "slug_en": "lithuania"
+   "slug_en": "lithuania",
+   "desc_en": "Lithuanian clubs of the TOPLYGA and the second-tier I lyga"
   },
   {
    "id": "f_fut_klu_eu_lva",
@@ -1642,11 +1675,12 @@
    "type": "folder",
    "icon": "lv",
    "name": "Lotyšsko",
-   "desc": "",
+   "desc": "Lotyšské kluby Virslīgy a druhej súťaže Nākotnes līga",
    "order": 26,
    "slug": "lotyssko",
    "name_en": "Latvia",
-   "slug_en": "latvia"
+   "slug_en": "latvia",
+   "desc_en": "Latvian clubs of the Virslīga and the second-tier Nākotnes līga"
   },
   {
    "id": "f_fut_klu_eu_lux",
@@ -1654,11 +1688,12 @@
    "type": "folder",
    "icon": "lu",
    "name": "Luxembursko",
-   "desc": "",
+   "desc": "Luxemburské kluby najvyššej súťaže BGL Ligue",
    "order": 27,
    "slug": "luxembursko",
    "name_en": "Luxembourg",
-   "slug_en": "luxembourg"
+   "slug_en": "luxembourg",
+   "desc_en": "Luxembourg clubs of the top-flight BGL Ligue"
   },
   {
    "id": "f_fut_klu_eu_mkd",
@@ -1666,11 +1701,12 @@
    "type": "folder",
    "icon": "mk",
    "name": "Severné Macedónsko",
-   "desc": "",
+   "desc": "Severomacedónske kluby prvej a druhej ligy (1. a 2. MFL)",
    "order": 28,
    "slug": "macedonsko",
    "name_en": "North Macedonia",
-   "slug_en": "north-macedonia"
+   "slug_en": "north-macedonia",
+   "desc_en": "North Macedonian clubs of the first and second divisions (1. and 2. MFL)"
   },
   {
    "id": "f_fut_klu_eu_hun",
@@ -1678,11 +1714,12 @@
    "type": "folder",
    "icon": "hu",
    "name": "Maďarsko",
-   "desc": "",
+   "desc": "Maďarské kluby súťaží NB I a NB II",
    "order": 29,
    "slug": "madarsko",
    "name_en": "Hungary",
-   "slug_en": "hungary"
+   "slug_en": "hungary",
+   "desc_en": "Hungarian clubs of NB I and NB II"
   },
   {
    "id": "f_fut_klu_eu_mlt",
@@ -1690,11 +1727,12 @@
    "type": "folder",
    "icon": "mt",
    "name": "Malta",
-   "desc": "",
+   "desc": "Maltské kluby Premier League a Challenge League",
    "order": 30,
    "slug": "malta",
    "slug_en": "malta",
-   "name_en": "Malta"
+   "name_en": "Malta",
+   "desc_en": "Maltese clubs of the Premier League and Challenge League"
   },
   {
    "id": "f_fut_klu_eu_mda",
@@ -1702,11 +1740,11 @@
    "type": "folder",
    "icon": "md",
    "name": "Moldavsko",
-   "desc": "Futbalové kluby Moldavska — Super Liga, 8 klubov sezóny 2026/27.",
+   "desc": "Moldavské kluby najvyššej súťaže Super Liga",
    "order": 31,
    "slug": "moldavsko",
    "name_en": "Moldova",
-   "desc_en": "Football clubs of Moldova — Super Liga, 8 clubs of the 2026/27 season.",
+   "desc_en": "Moldovan clubs of the top-flight Super Liga",
    "slug_en": "moldova"
   },
   {
@@ -1715,11 +1753,12 @@
    "type": "folder",
    "icon": "no",
    "name": "Nórsko",
-   "desc": "",
+   "desc": "Nórske kluby od Eliteserien po obe skupiny tretej divízie",
    "order": 32,
    "slug": "norsko",
    "name_en": "Norway",
-   "slug_en": "norway"
+   "slug_en": "norway",
+   "desc_en": "Norwegian clubs from the Eliteserien down to both groups of the third division"
   },
   {
    "id": "f_fut_klu_eu_pol",
@@ -1727,11 +1766,12 @@
    "type": "folder",
    "icon": "pl",
    "name": "Poľsko",
-   "desc": "",
+   "desc": "Poľské kluby v troch úrovniach — Ekstraklasa, I liga a II liga",
    "order": 33,
    "slug": "polsko",
    "name_en": "Poland",
-   "slug_en": "poland"
+   "slug_en": "poland",
+   "desc_en": "Polish clubs across three tiers — Ekstraklasa, I liga and II liga"
   },
   {
    "id": "f_fut_klu_eu_prt",
@@ -1739,11 +1779,11 @@
    "type": "folder",
    "icon": "pt",
    "name": "Portugalsko",
-   "desc": "Futbalové kluby Portugalska — Liga Portugal a Liga Portugal 2, 36 klubov sezóny 2026/27.",
+   "desc": "Portugalské kluby od Liga Portugal po obe série Ligy 3",
    "order": 34,
    "slug": "portugalsko",
    "name_en": "Portugal",
-   "desc_en": "Football clubs of Portugal — Liga Portugal and Liga Portugal 2, 36 clubs of the 2026/27 season.",
+   "desc_en": "Portuguese clubs from the Liga Portugal down to both series of Liga 3",
    "slug_en": "portugal"
   },
   {
@@ -1752,11 +1792,12 @@
    "type": "folder",
    "icon": "at",
    "name": "Rakúsko",
-   "desc": "",
+   "desc": "Rakúske kluby od Bundesligy po všetky štyri regionálne ligy tretej úrovne",
    "order": 35,
    "slug": "rakusko",
    "name_en": "Austria",
-   "slug_en": "austria"
+   "slug_en": "austria",
+   "desc_en": "Austrian clubs from the Bundesliga down to all four third-tier Regionalligas"
   },
   {
    "id": "f_fut_klu_eu_rou",
@@ -1764,11 +1805,12 @@
    "type": "folder",
    "icon": "ro",
    "name": "Rumunsko",
-   "desc": "",
+   "desc": "Rumunské kluby SuperLigy a Ligy 2",
    "order": 36,
    "slug": "rumunsko",
    "name_en": "Romania",
-   "slug_en": "romania"
+   "slug_en": "romania",
+   "desc_en": "Romanian clubs of the SuperLiga and Liga 2"
   },
   {
    "id": "f_fut_klu_eu_rus",
@@ -1776,11 +1818,12 @@
    "type": "folder",
    "icon": "ru",
    "name": "Rusko",
-   "desc": "",
+   "desc": "Ruské kluby Premier ligy a Pervej ligy (FNL)",
    "order": 37,
    "slug": "rusko",
    "name_en": "Russia",
-   "slug_en": "russia"
+   "slug_en": "russia",
+   "desc_en": "Russian clubs of the Premier Liga and Pervaya Liga (FNL)"
   },
   {
    "id": "f_fut_klu_eu_smr",
@@ -1788,11 +1831,12 @@
    "type": "folder",
    "icon": "sm",
    "name": "San Maríno",
-   "desc": "",
+   "desc": "Sanmarínske kluby jedinej súťaže Campionato Sammarinese",
    "order": 38,
    "slug": "san-marino",
    "name_en": "San Marino",
-   "slug_en": "san-marino"
+   "slug_en": "san-marino",
+   "desc_en": "Sammarinese clubs of the single-division Campionato Sammarinese"
   },
   {
    "id": "f_fut_klu_eu_nir",
@@ -1800,11 +1844,12 @@
    "type": "folder",
    "icon": "gb-nir",
    "name": "Severné Írsko",
-   "desc": "",
+   "desc": "Severoírske kluby NIFL Premiership a NIFL Championship",
    "order": 39,
    "slug": "severne-irsko",
    "name_en": "Northern Ireland",
-   "slug_en": "northern-ireland"
+   "slug_en": "northern-ireland",
+   "desc_en": "Northern Irish clubs of the NIFL Premiership and NIFL Championship"
   },
   {
    "id": "f_fut_klu_eu_sco",
@@ -1812,11 +1857,12 @@
    "type": "folder",
    "icon": "gb-sct",
    "name": "Škótsko",
-   "desc": "",
+   "desc": "Škótske kluby všetkých štyroch profesionálnych úrovní SPFL",
    "order": 40,
    "slug": "skotsko",
    "name_en": "Scotland",
-   "slug_en": "scotland"
+   "slug_en": "scotland",
+   "desc_en": "Scottish clubs across all four professional SPFL tiers"
   },
   {
    "id": "f_fut_klu_eu_svn",
@@ -1824,11 +1870,12 @@
    "type": "folder",
    "icon": "si",
    "name": "Slovinsko",
-   "desc": "",
+   "desc": "Slovinské kluby Prvej ligy a 2. SNL",
    "order": 41,
    "slug": "slovinsko",
    "name_en": "Slovenia",
-   "slug_en": "slovenia"
+   "slug_en": "slovenia",
+   "desc_en": "Slovenian clubs of the Prva liga and 2. SNL"
   },
   {
    "id": "f_fut_klu_eu_srb",
@@ -1836,11 +1883,12 @@
    "type": "folder",
    "icon": "rs",
    "name": "Srbsko",
-   "desc": "",
+   "desc": "Srbské kluby Super ligy a Prvej ligy",
    "order": 42,
    "slug": "srbsko",
    "name_en": "Serbia",
-   "slug_en": "serbia"
+   "slug_en": "serbia",
+   "desc_en": "Serbian clubs of the Super Liga and Prva Liga"
   },
   {
    "id": "f_fut_klu_eu_che",
@@ -1848,11 +1896,12 @@
    "type": "folder",
    "icon": "ch",
    "name": "Švajčiarsko",
-   "desc": "",
+   "desc": "Švajčiarske kluby Super League a Challenge League",
    "order": 43,
    "slug": "svajciarsko",
    "name_en": "Switzerland",
-   "slug_en": "switzerland"
+   "slug_en": "switzerland",
+   "desc_en": "Swiss clubs of the Super League and Challenge League"
   },
   {
    "id": "f_fut_klu_eu_swe",
@@ -1860,11 +1909,12 @@
    "type": "folder",
    "icon": "se",
    "name": "Švédsko",
-   "desc": "",
+   "desc": "Švédske kluby od Allsvenskan po obe skupiny tretej ligy Ettan",
    "order": 44,
    "slug": "svedsko",
    "name_en": "Sweden",
-   "slug_en": "sweden"
+   "slug_en": "sweden",
+   "desc_en": "Swedish clubs from the Allsvenskan down to both groups of the third-tier Ettan"
   },
   {
    "id": "f_fut_klu_eu_ita",
@@ -1872,11 +1922,12 @@
    "type": "folder",
    "icon": "it",
    "name": "Taliansko",
-   "desc": "",
+   "desc": "Talianske kluby od Serie A po všetky tri skupiny Serie C",
    "order": 45,
    "slug": "taliansko",
    "name_en": "Italy",
-   "slug_en": "italy"
+   "slug_en": "italy",
+   "desc_en": "Italian clubs from Serie A down to all three Serie C groups"
   },
   {
    "id": "f_fut_klu_eu_tur",
@@ -1884,11 +1935,12 @@
    "type": "folder",
    "icon": "tr",
    "name": "Turecko",
-   "desc": "",
+   "desc": "Turecké kluby od Süper Lig po obe skupiny 2. Lig",
    "order": 46,
    "slug": "turecko",
    "name_en": "Turkey",
-   "slug_en": "turkey"
+   "slug_en": "turkey",
+   "desc_en": "Turkish clubs from the Süper Lig down to both 2. Lig groups"
   },
   {
    "id": "f_fut_klu_eu_ukr",
@@ -1896,11 +1948,12 @@
    "type": "folder",
    "icon": "ua",
    "name": "Ukrajina",
-   "desc": "",
+   "desc": "Ukrajinské kluby Premier lihy a Peršej lihy",
    "order": 47,
    "slug": "ukrajina",
    "name_en": "Ukraine",
-   "slug_en": "ukraine"
+   "slug_en": "ukraine",
+   "desc_en": "Ukrainian clubs of the Premier Liha and Persha Liha"
   },
   {
    "id": "f_fut_klu_eu_wal",
@@ -1908,11 +1961,12 @@
    "type": "folder",
    "icon": "gb-wls",
    "name": "Wales",
-   "desc": "",
+   "desc": "Waleské kluby Cymru Premier a oboch skupín druhej ligy",
    "order": 48,
    "slug": "wales",
    "slug_en": "wales",
-   "name_en": "Wales"
+   "name_en": "Wales",
+   "desc_en": "Welsh clubs of the Cymru Premier and both second-tier groups"
   },
   {
    "id": "f_fut_klu_eu_arm",
@@ -1920,11 +1974,12 @@
    "type": "folder",
    "icon": "am",
    "name": "Arménsko",
-   "desc": "",
+   "desc": "Arménske kluby Premier League a First League",
    "order": 49,
    "slug": "armensko",
    "name_en": "Armenia",
-   "slug_en": "armenia"
+   "slug_en": "armenia",
+   "desc_en": "Armenian clubs of the Premier League and First League"
   },
   {
    "id": "f_fut_klu_eu_geo",
@@ -1932,11 +1987,12 @@
    "type": "folder",
    "icon": "ge",
    "name": "Gruzínsko",
-   "desc": "",
+   "desc": "Gruzínske kluby oboch úrovní Erovnuli Ligy",
    "order": 50,
    "slug": "gruzinsko",
    "name_en": "Georgia",
-   "slug_en": "georgia"
+   "slug_en": "georgia",
+   "desc_en": "Georgian clubs of both Erovnuli Liga tiers"
   },
   {
    "id": "f_fut_klu_eu_isr",
@@ -1944,11 +2000,12 @@
    "type": "folder",
    "icon": "il",
    "name": "Izrael",
-   "desc": "",
+   "desc": "Izraelské kluby Ligat ha'Al a Leumit League",
    "order": 51,
    "slug": "izrael",
    "name_en": "Israel",
-   "slug_en": "israel"
+   "slug_en": "israel",
+   "desc_en": "Israeli clubs of the Ligat ha'Al and Leumit League"
   },
   {
    "id": "f_fut_klu_eu_kaz",
@@ -1956,11 +2013,12 @@
    "type": "folder",
    "icon": "kz",
    "name": "Kazachstan",
-   "desc": "",
+   "desc": "Kazašské kluby Premier League a First League",
    "order": 52,
    "slug": "kazachstan",
    "name_en": "Kazakhstan",
-   "slug_en": "kazakhstan"
+   "slug_en": "kazakhstan",
+   "desc_en": "Kazakhstani clubs of the Premier League and First League"
   },
   {
    "id": "f_fut_klu_eu_aze",
@@ -1968,11 +2026,12 @@
    "type": "folder",
    "icon": "az",
    "name": "Azerbajdžán",
-   "desc": "",
+   "desc": "Azerbajdžanské kluby najvyššej Premier League",
    "order": 53,
    "slug": "azerbajdzan",
    "name_en": "Azerbaijan",
-   "slug_en": "azerbaijan"
+   "slug_en": "azerbaijan",
+   "desc_en": "Azerbaijani clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_eu_cyp",
@@ -1980,11 +2039,12 @@
    "type": "folder",
    "icon": "cy",
    "name": "Cyprus",
-   "desc": "",
+   "desc": "Cyperské kluby prvej a druhej divízie",
    "order": 54,
    "slug": "cyprus",
    "slug_en": "cyprus",
-   "name_en": "Cyprus"
+   "name_en": "Cyprus",
+   "desc_en": "Cypriot clubs of the first and second divisions"
   },
   {
    "id": "f_fut_klu_af_alg",
@@ -1992,11 +2052,12 @@
    "type": "folder",
    "icon": "dz",
    "name": "Alžírsko",
-   "desc": "",
+   "desc": "Alžírske kluby najvyššej súťaže Ligue 1",
    "order": 0,
    "slug": "alzirsko",
    "name_en": "Algeria",
-   "slug_en": "algeria"
+   "slug_en": "algeria",
+   "desc_en": "Algerian clubs of the top-flight Ligue 1"
   },
   {
    "id": "f_fut_klu_af_ang",
@@ -2004,11 +2065,12 @@
    "type": "folder",
    "icon": "ao",
    "name": "Angola",
-   "desc": "",
+   "desc": "Angolské kluby najvyššej súťaže Girabola",
    "order": 1,
    "slug": "angola",
    "slug_en": "angola",
-   "name_en": "Angola"
+   "name_en": "Angola",
+   "desc_en": "Angolan clubs of the top-flight Girabola"
   },
   {
    "id": "f_fut_klu_af_ben",
@@ -2016,11 +2078,12 @@
    "type": "folder",
    "icon": "bj",
    "name": "Benin",
-   "desc": "",
+   "desc": "Beninské kluby najvyššej ligy Championnat National",
    "order": 2,
    "slug": "benin",
    "slug_en": "benin",
-   "name_en": "Benin"
+   "name_en": "Benin",
+   "desc_en": "Beninese clubs of the top-flight Championnat National"
   },
   {
    "id": "f_fut_klu_af_bwa",
@@ -2028,11 +2091,12 @@
    "type": "folder",
    "icon": "bw",
    "name": "Botswana",
-   "desc": "",
+   "desc": "Botswanské kluby najvyššej Premier League",
    "order": 3,
    "slug": "botswana",
    "slug_en": "botswana",
-   "name_en": "Botswana"
+   "name_en": "Botswana",
+   "desc_en": "Botswanan clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_af_bfa",
@@ -2040,11 +2104,12 @@
    "type": "folder",
    "icon": "bf",
    "name": "Burkina Faso",
-   "desc": "",
+   "desc": "Kluby najvyššej ligy Burkiny Faso na čele s ASFA-Yennenga",
    "order": 4,
    "slug": "burkina-faso",
    "slug_en": "burkina-faso",
-   "name_en": "Burkina Faso"
+   "name_en": "Burkina Faso",
+   "desc_en": "Clubs of Burkina Faso's top flight, led by ASFA-Yennenga"
   },
   {
    "id": "f_fut_klu_af_bdi",
@@ -2052,11 +2117,12 @@
    "type": "folder",
    "icon": "bi",
    "name": "Burundi",
-   "desc": "",
+   "desc": "Burundské kluby najvyššej súťaže Primus League",
    "order": 5,
    "slug": "burundi",
    "slug_en": "burundi",
-   "name_en": "Burundi"
+   "name_en": "Burundi",
+   "desc_en": "Burundian clubs of the top-flight Primus League"
   },
   {
    "id": "f_fut_klu_af_tcd",
@@ -2064,11 +2130,12 @@
    "type": "folder",
    "icon": "td",
    "name": "Čad",
-   "desc": "",
+   "desc": "Čadské kluby najvyššej ligy Championnat National",
    "order": 6,
    "slug": "cad",
    "name_en": "Chad",
-   "slug_en": "chad"
+   "slug_en": "chad",
+   "desc_en": "Chadian clubs of the top-flight Championnat National"
   },
   {
    "id": "f_fut_klu_af_dji",
@@ -2076,11 +2143,12 @@
    "type": "folder",
    "icon": "dj",
    "name": "Džibutsko",
-   "desc": "",
+   "desc": "Džibutské kluby najvyššej Première Division",
    "order": 7,
    "slug": "dzibutsko",
    "name_en": "Djibouti",
-   "slug_en": "djibouti"
+   "slug_en": "djibouti",
+   "desc_en": "Djiboutian clubs of the top-flight Première Division"
   },
   {
    "id": "f_fut_klu_af_egy",
@@ -2088,11 +2156,12 @@
    "type": "folder",
    "icon": "eg",
    "name": "Egypt",
-   "desc": "",
+   "desc": "Egyptské kluby Premier League s Al Ahly a Zamalekom a druhej divízie",
    "order": 8,
    "slug": "egypt",
    "slug_en": "egypt",
-   "name_en": "Egypt"
+   "name_en": "Egypt",
+   "desc_en": "Egyptian clubs of the Premier League, home of Al Ahly and Zamalek, and the second division"
   },
   {
    "id": "f_fut_klu_af_eri",
@@ -2112,11 +2181,12 @@
    "type": "folder",
    "icon": "et",
    "name": "Etiópia",
-   "desc": "",
+   "desc": "Etiópske kluby najvyššej Premier League",
    "order": 10,
    "slug": "etiopia",
    "name_en": "Ethiopia",
-   "slug_en": "ethiopia"
+   "slug_en": "ethiopia",
+   "desc_en": "Ethiopian clubs of the country's Premier League"
   },
   {
    "id": "f_fut_klu_af_gab",
@@ -2124,11 +2194,12 @@
    "type": "folder",
    "icon": "ga",
    "name": "Gabon",
-   "desc": "",
+   "desc": "Gabonské kluby najvyššej súťaže National Foot 1",
    "order": 11,
    "slug": "gabon",
    "slug_en": "gabon",
-   "name_en": "Gabon"
+   "name_en": "Gabon",
+   "desc_en": "Gabonese clubs of the top-flight National Foot 1"
   },
   {
    "id": "f_fut_klu_af_gmb",
@@ -2136,11 +2207,12 @@
    "type": "folder",
    "icon": "gm",
    "name": "Gambia",
-   "desc": "",
+   "desc": "Gambijské kluby najvyššej GFA League",
    "order": 12,
    "slug": "gambia",
    "slug_en": "gambia",
-   "name_en": "Gambia"
+   "name_en": "Gambia",
+   "desc_en": "Gambian clubs of the top-flight GFA League"
   },
   {
    "id": "f_fut_klu_af_gha",
@@ -2148,11 +2220,12 @@
    "type": "folder",
    "icon": "gh",
    "name": "Ghana",
-   "desc": "",
+   "desc": "Ghanské kluby Premier League vrátane rivalov Asante Kotoko a Hearts of Oak",
    "order": 13,
    "slug": "ghana",
    "slug_en": "ghana",
-   "name_en": "Ghana"
+   "name_en": "Ghana",
+   "desc_en": "Ghanaian clubs of the Premier League, including rivals Asante Kotoko and Hearts of Oak"
   },
   {
    "id": "f_fut_klu_af_gin",
@@ -2160,11 +2233,12 @@
    "type": "folder",
    "icon": "gn",
    "name": "Guinea",
-   "desc": "",
+   "desc": "Guinejské kluby najvyššej Ligue 1 na čele s Horoya AC",
    "order": 14,
    "slug": "guinea",
    "slug_en": "guinea",
-   "name_en": "Guinea"
+   "name_en": "Guinea",
+   "desc_en": "Guinean clubs of the top-flight Ligue 1, led by Horoya AC"
   },
   {
    "id": "f_fut_klu_af_gnb",
@@ -2172,11 +2246,12 @@
    "type": "folder",
    "icon": "gw",
    "name": "Guinea-Bissau",
-   "desc": "",
+   "desc": "Kluby najvyššej súťaže Guiney-Bissau — Liga Orange",
    "order": 15,
    "slug": "guinea-bissau",
    "name_en": "Guinea-Bissau",
-   "slug_en": "guinea-bissau"
+   "slug_en": "guinea-bissau",
+   "desc_en": "Clubs of Guinea-Bissau's top flight, the Liga Orange"
   },
   {
    "id": "f_fut_klu_af_zaf",
@@ -2184,11 +2259,12 @@
    "type": "folder",
    "icon": "za",
    "name": "JAR",
-   "desc": "",
+   "desc": "Juhoafrické kluby Betway Premiership a druhej ligy Championship",
    "order": 16,
    "slug": "juhoafricka-rep",
    "name_en": "South Africa",
-   "slug_en": "south-africa"
+   "slug_en": "south-africa",
+   "desc_en": "South African clubs of the Betway Premiership and the second-tier Championship"
   },
   {
    "id": "f_fut_klu_af_ssd",
@@ -2208,11 +2284,12 @@
    "type": "folder",
    "icon": "cm",
    "name": "Kamerun",
-   "desc": "",
+   "desc": "Kamerunské kluby oboch profesionálnych úrovní — Elite One a Elite Two",
    "order": 18,
    "slug": "kamerun",
    "name_en": "Cameroon",
-   "slug_en": "cameroon"
+   "slug_en": "cameroon",
+   "desc_en": "Cameroonian clubs of both professional tiers — Elite One and Elite Two"
   },
   {
    "id": "f_fut_klu_af_cpv",
@@ -2220,11 +2297,12 @@
    "type": "folder",
    "icon": "cv",
    "name": "Kapverdy",
-   "desc": "",
+   "desc": "Kapverdské kluby celoštátneho šampionátu majstrov jednotlivých ostrovov",
    "order": 19,
    "slug": "kapverdy",
    "name_en": "Cape Verde",
-   "slug_en": "cape-verde"
+   "slug_en": "cape-verde",
+   "desc_en": "Cape Verdean clubs of the national championship contested by the island champions"
   },
   {
    "id": "f_fut_klu_af_ken",
@@ -2232,11 +2310,12 @@
    "type": "folder",
    "icon": "ke",
    "name": "Keňa",
-   "desc": "",
+   "desc": "Kenské kluby Premier League vrátane Gor Mahia a AFC Leopards",
    "order": 20,
    "slug": "kena",
    "name_en": "Kenya",
-   "slug_en": "kenya"
+   "slug_en": "kenya",
+   "desc_en": "Kenyan clubs of the Premier League, including Gor Mahia and AFC Leopards"
   },
   {
    "id": "f_fut_klu_af_com",
@@ -2244,11 +2323,12 @@
    "type": "folder",
    "icon": "km",
    "name": "Komory",
-   "desc": "",
+   "desc": "Komorské kluby ligy D1 Ngazidja na najväčšom ostrove súostrovia",
    "order": 21,
    "slug": "komory",
    "name_en": "Comoros",
-   "slug_en": "comoros"
+   "slug_en": "comoros",
+   "desc_en": "Comorian clubs of the D1 Ngazidja league on the archipelago's largest island"
   },
   {
    "id": "f_fut_klu_af_cog",
@@ -2256,11 +2336,12 @@
    "type": "folder",
    "icon": "cg",
    "name": "Kongo",
-   "desc": "",
+   "desc": "Kluby najvyššej Ligue 1 Konžskej republiky",
    "order": 22,
    "slug": "kongo",
    "name_en": "Congo",
-   "slug_en": "congo"
+   "slug_en": "congo",
+   "desc_en": "Clubs of the Republic of the Congo's top-flight Ligue 1"
   },
   {
    "id": "f_fut_klu_af_cod",
@@ -2268,11 +2349,12 @@
    "type": "folder",
    "icon": "cd",
    "name": "Kongo (DR)",
-   "desc": "",
+   "desc": "Kluby Linafootu, najvyššej súťaže DR Kongo, na čele s TP Mazembe",
    "order": 23,
    "slug": "konzska-dem-rep",
    "name_en": "DR Congo",
-   "slug_en": "dr-congo"
+   "slug_en": "dr-congo",
+   "desc_en": "Clubs of the Linafoot, DR Congo's top flight, led by TP Mazembe"
   },
   {
    "id": "f_fut_klu_af_lso",
@@ -2280,11 +2362,12 @@
    "type": "folder",
    "icon": "ls",
    "name": "Lesotho",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier League Lesotha",
    "order": 24,
    "slug": "lesotho",
    "slug_en": "lesotho",
-   "name_en": "Lesotho"
+   "name_en": "Lesotho",
+   "desc_en": "Clubs of Lesotho's top-flight Premier League"
   },
   {
    "id": "f_fut_klu_af_lbr",
@@ -2292,11 +2375,12 @@
    "type": "folder",
    "icon": "lr",
    "name": "Libéria",
-   "desc": "",
+   "desc": "Libérijské kluby najvyššej LFA First Division",
    "order": 25,
    "slug": "liberia",
    "name_en": "Liberia",
-   "slug_en": "liberia"
+   "slug_en": "liberia",
+   "desc_en": "Liberian clubs of the top-flight LFA First Division"
   },
   {
    "id": "f_fut_klu_af_lby",
@@ -2304,11 +2388,12 @@
    "type": "folder",
    "icon": "ly",
    "name": "Líbya",
-   "desc": "",
+   "desc": "Líbyjské kluby Premier League hranej v štyroch skupinách",
    "order": 26,
    "slug": "libya",
    "name_en": "Libya",
-   "slug_en": "libya"
+   "slug_en": "libya",
+   "desc_en": "Libyan clubs of the Premier League, played in four groups"
   },
   {
    "id": "f_fut_klu_af_mdg",
@@ -2316,11 +2401,12 @@
    "type": "folder",
    "icon": "mg",
    "name": "Madagaskar",
-   "desc": "",
+   "desc": "Madagaskarské kluby najvyššej ligy hranej v dvoch geografických skupinách",
    "order": 27,
    "slug": "madagaskar",
    "name_en": "Madagascar",
-   "slug_en": "madagascar"
+   "slug_en": "madagascar",
+   "desc_en": "Malagasy clubs of the top flight, played in two geographic groups"
   },
   {
    "id": "f_fut_klu_af_mwi",
@@ -2328,11 +2414,12 @@
    "type": "folder",
    "icon": "mw",
    "name": "Malawi",
-   "desc": "",
+   "desc": "Malawijské kluby najvyššej súťaže FDH Bank Premiership",
    "order": 28,
    "slug": "malawi",
    "slug_en": "malawi",
-   "name_en": "Malawi"
+   "name_en": "Malawi",
+   "desc_en": "Malawian clubs of the top-flight FDH Bank Premiership"
   },
   {
    "id": "f_fut_klu_af_mli",
@@ -2340,11 +2427,12 @@
    "type": "folder",
    "icon": "ml",
    "name": "Mali",
-   "desc": "",
+   "desc": "Malijské kluby Ligue 1 na čele s rivalmi Stade Malien a Djoliba AC",
    "order": 29,
    "slug": "mali",
    "slug_en": "mali",
-   "name_en": "Mali"
+   "name_en": "Mali",
+   "desc_en": "Malian clubs of the Ligue 1, led by rivals Stade Malien and Djoliba AC"
   },
   {
    "id": "f_fut_klu_af_mar",
@@ -2352,11 +2440,12 @@
    "type": "folder",
    "icon": "ma",
    "name": "Maroko",
-   "desc": "",
+   "desc": "Marocké kluby oboch úrovní Botola Pro",
    "order": 30,
    "slug": "maroko",
    "name_en": "Morocco",
-   "slug_en": "morocco"
+   "slug_en": "morocco",
+   "desc_en": "Moroccan clubs of both Botola Pro tiers"
   },
   {
    "id": "f_fut_klu_af_mus",
@@ -2364,11 +2453,12 @@
    "type": "folder",
    "icon": "mu",
    "name": "Maurícius",
-   "desc": "",
+   "desc": "Maurícijské kluby najvyššej National Super League",
    "order": 31,
    "slug": "mauricius",
    "name_en": "Mauritius",
-   "slug_en": "mauritius"
+   "slug_en": "mauritius",
+   "desc_en": "Mauritian clubs of the top-flight National Super League"
   },
   {
    "id": "f_fut_klu_af_mrt",
@@ -2376,11 +2466,12 @@
    "type": "folder",
    "icon": "mr",
    "name": "Mauritánia",
-   "desc": "",
+   "desc": "Mauritánske kluby najvyššej Ligue 1",
    "order": 32,
    "slug": "mauritania",
    "name_en": "Mauritania",
-   "slug_en": "mauritania"
+   "slug_en": "mauritania",
+   "desc_en": "Mauritanian clubs of the top-flight Ligue 1"
   },
   {
    "id": "f_fut_klu_af_moz",
@@ -2388,11 +2479,12 @@
    "type": "folder",
    "icon": "mz",
    "name": "Mozambik",
-   "desc": "",
+   "desc": "Mozambické kluby najvyššej súťaže Mocambola",
    "order": 33,
    "slug": "mozambik",
    "name_en": "Mozambique",
-   "slug_en": "mozambique"
+   "slug_en": "mozambique",
+   "desc_en": "Mozambican clubs of the top-flight Mocambola"
   },
   {
    "id": "f_fut_klu_af_nam",
@@ -2400,11 +2492,12 @@
    "type": "folder",
    "icon": "na",
    "name": "Namíbia",
-   "desc": "",
+   "desc": "Namíbijské kluby najvyššej Namibia Premiership",
    "order": 34,
    "slug": "namibia",
    "name_en": "Namibia",
-   "slug_en": "namibia"
+   "slug_en": "namibia",
+   "desc_en": "Namibian clubs of the top-flight Namibia Premiership"
   },
   {
    "id": "f_fut_klu_af_ner",
@@ -2412,11 +2505,12 @@
    "type": "folder",
    "icon": "ne",
    "name": "Niger",
-   "desc": "",
+   "desc": "Nigerské kluby najvyššej súťaže Super Ligue",
    "order": 35,
    "slug": "niger",
    "slug_en": "niger",
-   "name_en": "Niger"
+   "name_en": "Niger",
+   "desc_en": "Nigerien clubs of the top-flight Super Ligue"
   },
   {
    "id": "f_fut_klu_af_nga",
@@ -2424,11 +2518,12 @@
    "type": "folder",
    "icon": "ng",
    "name": "Nigéria",
-   "desc": "",
+   "desc": "Nigérijské kluby najvyššej Nigeria Premier Football League",
    "order": 36,
    "slug": "nigeria",
    "name_en": "Nigeria",
-   "slug_en": "nigeria"
+   "slug_en": "nigeria",
+   "desc_en": "Nigerian clubs of the top-flight Nigeria Premier Football League"
   },
   {
    "id": "f_fut_klu_af_civ",
@@ -2436,11 +2531,12 @@
    "type": "folder",
    "icon": "ci",
    "name": "Pobrežie Slonoviny",
-   "desc": "",
+   "desc": "Ivorijské kluby Ligue 1 vrátane ASEC Mimosas a Africa Sports",
    "order": 37,
    "slug": "pobrezie-slonoviny",
    "name_en": "Ivory Coast",
-   "slug_en": "ivory-coast"
+   "slug_en": "ivory-coast",
+   "desc_en": "Ivorian clubs of the Ligue 1, including ASEC Mimosas and Africa Sports"
   },
   {
    "id": "f_fut_klu_af_gnq",
@@ -2448,11 +2544,12 @@
    "type": "folder",
    "icon": "gq",
    "name": "Rovníková Guinea",
-   "desc": "",
+   "desc": "Kluby Rovníkovej Guiney — pevninská aj ostrovná skupina Liga Nacional",
    "order": 38,
    "slug": "rovnikova-guinea",
    "name_en": "Equatorial Guinea",
-   "slug_en": "equatorial-guinea"
+   "slug_en": "equatorial-guinea",
+   "desc_en": "Equatoguinean clubs — both the mainland and island groups of the Liga Nacional"
   },
   {
    "id": "f_fut_klu_af_rwa",
@@ -2460,11 +2557,12 @@
    "type": "folder",
    "icon": "rw",
    "name": "Rwanda",
-   "desc": "",
+   "desc": "Rwandské kluby najvyššej Rwanda Premier League",
    "order": 39,
    "slug": "rwanda",
    "slug_en": "rwanda",
-   "name_en": "Rwanda"
+   "name_en": "Rwanda",
+   "desc_en": "Rwandan clubs of the top-flight Rwanda Premier League"
   },
   {
    "id": "f_fut_klu_af_sen",
@@ -2472,11 +2570,12 @@
    "type": "folder",
    "icon": "sn",
    "name": "Senegal",
-   "desc": "",
+   "desc": "Senegalské kluby najvyššej Ligue 1",
    "order": 40,
    "slug": "senegal",
    "slug_en": "senegal",
-   "name_en": "Senegal"
+   "name_en": "Senegal",
+   "desc_en": "Senegalese clubs of the top-flight Ligue 1"
   },
   {
    "id": "f_fut_klu_af_syc",
@@ -2484,11 +2583,12 @@
    "type": "folder",
    "icon": "sc",
    "name": "Seychely",
-   "desc": "",
+   "desc": "Seychelské kluby najvyššej Premier League",
    "order": 41,
    "slug": "seychely",
    "name_en": "Seychelles",
-   "slug_en": "seychelles"
+   "slug_en": "seychelles",
+   "desc_en": "Seychellois clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_af_sle",
@@ -2496,11 +2596,12 @@
    "type": "folder",
    "icon": "sl",
    "name": "Sierra Leone",
-   "desc": "",
+   "desc": "Sierraleonské kluby najvyššej Premier League",
    "order": 42,
    "slug": "sierra-leone",
    "slug_en": "sierra-leone",
-   "name_en": "Sierra Leone"
+   "name_en": "Sierra Leone",
+   "desc_en": "Sierra Leonean clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_af_som",
@@ -2508,11 +2609,12 @@
    "type": "folder",
    "icon": "so",
    "name": "Somálsko",
-   "desc": "",
+   "desc": "Somálske kluby najvyššej Somali National League",
    "order": 43,
    "slug": "somalsko",
    "name_en": "Somalia",
-   "slug_en": "somalia"
+   "slug_en": "somalia",
+   "desc_en": "Somali clubs of the top-flight Somali National League"
   },
   {
    "id": "f_fut_klu_af_caf",
@@ -2532,11 +2634,12 @@
    "type": "folder",
    "icon": "sd",
    "name": "Sudán",
-   "desc": "",
+   "desc": "Sudánske kluby elitnej skupiny Premier League na čele s Al Hilal a El Merreikh",
    "order": 45,
    "slug": "sudan",
    "name_en": "Sudan",
-   "slug_en": "sudan"
+   "slug_en": "sudan",
+   "desc_en": "Sudanese clubs of the Premier League's elite group, led by Al Hilal and El Merreikh"
   },
   {
    "id": "f_fut_klu_af_swz",
@@ -2544,11 +2647,12 @@
    "type": "folder",
    "icon": "sz",
    "name": "Eswatini",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier League of Eswatini",
    "order": 46,
    "slug": "svazijsko",
    "name_en": "Eswatini",
-   "slug_en": "eswatini"
+   "slug_en": "eswatini",
+   "desc_en": "Clubs of the top-flight Premier League of Eswatini"
   },
   {
    "id": "f_fut_klu_af_stp",
@@ -2556,11 +2660,12 @@
    "type": "folder",
    "icon": "st",
    "name": "Sv. Tomáš a Princov ostrov",
-   "desc": "",
+   "desc": "Kluby oboch ostrovných skupín šampionátu Svätého Tomáša a Princovho ostrova",
    "order": 47,
    "slug": "sv-tomas-a-princov-ostrov",
    "name_en": "São Tomé and Príncipe",
-   "slug_en": "sao-tome-and-principe"
+   "slug_en": "sao-tome-and-principe",
+   "desc_en": "Clubs of both island groups of the São Tomé and Príncipe championship"
   },
   {
    "id": "f_fut_klu_af_tza",
@@ -2568,11 +2673,12 @@
    "type": "folder",
    "icon": "tz",
    "name": "Tanzánia",
-   "desc": "",
+   "desc": "Tanzánske kluby pevninskej Premier League vrátane rivalov Simba a Young Africans",
    "order": 48,
    "slug": "tanzania",
    "name_en": "Tanzania",
-   "slug_en": "tanzania"
+   "slug_en": "tanzania",
+   "desc_en": "Tanzanian clubs of the mainland Premier League, including rivals Simba and Young Africans"
   },
   {
    "id": "f_fut_klu_af_tgo",
@@ -2580,11 +2686,12 @@
    "type": "folder",
    "icon": "tg",
    "name": "Togo",
-   "desc": "",
+   "desc": "Togské kluby najvyššej ligy Championnat National",
    "order": 49,
    "slug": "togo",
    "slug_en": "togo",
-   "name_en": "Togo"
+   "name_en": "Togo",
+   "desc_en": "Togolese clubs of the top-flight Championnat National"
   },
   {
    "id": "f_fut_klu_af_tun",
@@ -2592,11 +2699,12 @@
    "type": "folder",
    "icon": "tn",
    "name": "Tunisko",
-   "desc": "",
+   "desc": "Tuniské kluby Ligue Professionnelle 1 vrátane Espérance de Tunis",
    "order": 50,
    "slug": "tunisko",
    "name_en": "Tunisia",
-   "slug_en": "tunisia"
+   "slug_en": "tunisia",
+   "desc_en": "Tunisian clubs of the Ligue Professionnelle 1, including Espérance de Tunis"
   },
   {
    "id": "f_fut_klu_af_uga",
@@ -2604,11 +2712,12 @@
    "type": "folder",
    "icon": "ug",
    "name": "Uganda",
-   "desc": "",
+   "desc": "Ugandské kluby najvyššej Uganda Premier League",
    "order": 51,
    "slug": "uganda",
    "slug_en": "uganda",
-   "name_en": "Uganda"
+   "name_en": "Uganda",
+   "desc_en": "Ugandan clubs of the top-flight Uganda Premier League"
   },
   {
    "id": "f_fut_klu_af_zmb",
@@ -2616,11 +2725,12 @@
    "type": "folder",
    "icon": "zm",
    "name": "Zambia",
-   "desc": "",
+   "desc": "Zambijské kluby najvyššej Super League",
    "order": 52,
    "slug": "zambia",
    "slug_en": "zambia",
-   "name_en": "Zambia"
+   "name_en": "Zambia",
+   "desc_en": "Zambian clubs of the top-flight Super League"
   },
   {
    "id": "f_fut_klu_af_zwe",
@@ -2628,11 +2738,12 @@
    "type": "folder",
    "icon": "zw",
    "name": "Zimbabwe",
-   "desc": "",
+   "desc": "Zimbabwianske kluby najvyššej Premier Soccer League",
    "order": 53,
    "slug": "zimbabwe",
    "slug_en": "zimbabwe",
-   "name_en": "Zimbabwe"
+   "name_en": "Zimbabwe",
+   "desc_en": "Zimbabwean clubs of the top-flight Premier Soccer League"
   },
   {
    "id": "f_fut_klu_az_afg",
@@ -2652,11 +2763,12 @@
    "type": "folder",
    "icon": "bh",
    "name": "Bahrajn",
-   "desc": "",
+   "desc": "Bahrajnské kluby najvyššej Nasser bin Hamad Premier League",
    "order": 2,
    "slug": "bahrajn",
    "name_en": "Bahrain",
-   "slug_en": "bahrain"
+   "slug_en": "bahrain",
+   "desc_en": "Bahraini clubs of the top-flight Nasser bin Hamad Premier League"
   },
   {
    "id": "f_fut_klu_az_bgd",
@@ -2664,11 +2776,12 @@
    "type": "folder",
    "icon": "bd",
    "name": "Bangladéš",
-   "desc": "",
+   "desc": "Bangladéšske kluby najvyššej Bangladesh Football League",
    "order": 3,
    "slug": "banglades",
    "name_en": "Bangladesh",
-   "slug_en": "bangladesh"
+   "slug_en": "bangladesh",
+   "desc_en": "Bangladeshi clubs of the top-flight Bangladesh Football League"
   },
   {
    "id": "f_fut_klu_az_btn",
@@ -2676,11 +2789,12 @@
    "type": "folder",
    "icon": "bt",
    "name": "Bhután",
-   "desc": "",
+   "desc": "Bhutánske kluby najvyššej BOB Bhutan Premier League",
    "order": 4,
    "slug": "bhutan",
    "name_en": "Bhutan",
-   "slug_en": "bhutan"
+   "slug_en": "bhutan",
+   "desc_en": "Bhutanese clubs of the top-flight BOB Bhutan Premier League"
   },
   {
    "id": "f_fut_klu_az_brn",
@@ -2688,11 +2802,12 @@
    "type": "folder",
    "icon": "bn",
    "name": "Brunej",
-   "desc": "",
+   "desc": "Brunejské kluby najvyššej Brunei Super League",
    "order": 5,
    "slug": "brunej",
    "name_en": "Brunei",
-   "slug_en": "brunei"
+   "slug_en": "brunei",
+   "desc_en": "Bruneian clubs of the top-flight Brunei Super League"
   },
   {
    "id": "f_fut_klu_az_chn",
@@ -2700,11 +2815,12 @@
    "type": "folder",
    "icon": "cn",
    "name": "Čína",
-   "desc": "",
+   "desc": "Čínske kluby Super League a druhej League One",
    "order": 6,
    "slug": "cina",
    "name_en": "China",
-   "slug_en": "china"
+   "slug_en": "china",
+   "desc_en": "Chinese clubs of the Super League and the second-tier League One"
   },
   {
    "id": "f_fut_klu_az_phl",
@@ -2712,11 +2828,12 @@
    "type": "folder",
    "icon": "ph",
    "name": "Filipíny",
-   "desc": "",
+   "desc": "Filipínske kluby najvyššej Philippines Football League",
    "order": 7,
    "slug": "filipiny",
    "name_en": "Philippines",
-   "slug_en": "philippines"
+   "slug_en": "philippines",
+   "desc_en": "Filipino clubs of the top-flight Philippines Football League"
   },
   {
    "id": "f_fut_klu_az_ind",
@@ -2724,11 +2841,12 @@
    "type": "folder",
    "icon": "in",
    "name": "India",
-   "desc": "",
+   "desc": "Indické kluby Indian Super League a druhej I-League",
    "order": 10,
    "slug": "india",
    "name_en": "India",
-   "slug_en": "india"
+   "slug_en": "india",
+   "desc_en": "Indian clubs of the Indian Super League and the second-tier I-League"
   },
   {
    "id": "f_fut_klu_az_idn",
@@ -2736,11 +2854,12 @@
    "type": "folder",
    "icon": "id",
    "name": "Indonézia",
-   "desc": "",
+   "desc": "Indonézske kluby Super League a druhej úrovne Championship",
    "order": 11,
    "slug": "indonezia",
    "name_en": "Indonesia",
-   "slug_en": "indonesia"
+   "slug_en": "indonesia",
+   "desc_en": "Indonesian clubs of the Super League and the second-tier Championship"
   },
   {
    "id": "f_fut_klu_az_irq",
@@ -2748,11 +2867,12 @@
    "type": "folder",
    "icon": "iq",
    "name": "Irak",
-   "desc": "",
+   "desc": "Iracké kluby najvyššej Stars League",
    "order": 12,
    "slug": "irak",
    "name_en": "Iraq",
-   "slug_en": "iraq"
+   "slug_en": "iraq",
+   "desc_en": "Iraqi clubs of the top-flight Stars League"
   },
   {
    "id": "f_fut_klu_az_irn",
@@ -2760,11 +2880,12 @@
    "type": "folder",
    "icon": "ir",
    "name": "Irán",
-   "desc": "",
+   "desc": "Iránske kluby najvyššej Persian Gulf Pro League",
    "order": 13,
    "slug": "iran",
    "name_en": "Iran",
-   "slug_en": "iran"
+   "slug_en": "iran",
+   "desc_en": "Iranian clubs of the top-flight Persian Gulf Pro League"
   },
   {
    "id": "f_fut_klu_az_jpn",
@@ -2772,11 +2893,12 @@
    "type": "folder",
    "icon": "jp",
    "name": "Japonsko",
-   "desc": "",
+   "desc": "Japonské kluby troch profesionálnych úrovní J.League — J1, J2 a J3",
    "order": 14,
    "slug": "japonsko",
    "name_en": "Japan",
-   "slug_en": "japan"
+   "slug_en": "japan",
+   "desc_en": "Japanese clubs of the three professional J.League tiers — J1, J2 and J3"
   },
   {
    "id": "f_fut_klu_az_jor",
@@ -2784,11 +2906,12 @@
    "type": "folder",
    "icon": "jo",
    "name": "Jordánsko",
-   "desc": "",
+   "desc": "Jordánske kluby najvyššej Premier League",
    "order": 15,
    "slug": "jordansko",
    "name_en": "Jordan",
-   "slug_en": "jordan"
+   "slug_en": "jordan",
+   "desc_en": "Jordanian clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_az_khm",
@@ -2796,11 +2919,12 @@
    "type": "folder",
    "icon": "kh",
    "name": "Kambodža",
-   "desc": "",
+   "desc": "Kambodžské kluby najvyššej Cambodian Premier League",
    "order": 16,
    "slug": "kambodza",
    "name_en": "Cambodia",
-   "slug_en": "cambodia"
+   "slug_en": "cambodia",
+   "desc_en": "Cambodian clubs of the top-flight Cambodian Premier League"
   },
   {
    "id": "f_fut_klu_az_qat",
@@ -2808,11 +2932,12 @@
    "type": "folder",
    "icon": "qa",
    "name": "Katar",
-   "desc": "",
+   "desc": "Katarské kluby Qatar Stars League vrátane Al-Sadd a Al-Duhail",
    "order": 17,
    "slug": "katar",
    "name_en": "Qatar",
-   "slug_en": "qatar"
+   "slug_en": "qatar",
+   "desc_en": "Qatari clubs of the Qatar Stars League, including Al-Sadd and Al-Duhail"
   },
   {
    "id": "f_fut_klu_az_kgz",
@@ -2820,11 +2945,12 @@
    "type": "folder",
    "icon": "kg",
    "name": "Kirgizsko",
-   "desc": "",
+   "desc": "Kirgizské kluby najvyššej Kyrgyz Premier League",
    "order": 18,
    "slug": "kirgizsko",
    "name_en": "Kyrgyzstan",
-   "slug_en": "kyrgyzstan"
+   "slug_en": "kyrgyzstan",
+   "desc_en": "Kyrgyz clubs of the top-flight Kyrgyz Premier League"
   },
   {
    "id": "f_fut_klu_az_prk",
@@ -2844,11 +2970,12 @@
    "type": "folder",
    "icon": "kr",
    "name": "Južná Kórea",
-   "desc": "",
+   "desc": "Juhokórejské kluby oboch profesionálnych úrovní K League",
    "order": 20,
    "slug": "juzna-korea",
    "name_en": "South Korea",
-   "slug_en": "south-korea"
+   "slug_en": "south-korea",
+   "desc_en": "South Korean clubs of both professional K League tiers"
   },
   {
    "id": "f_fut_klu_az_kwt",
@@ -2856,11 +2983,12 @@
    "type": "folder",
    "icon": "kw",
    "name": "Kuvajt",
-   "desc": "",
+   "desc": "Kuvajtské kluby najvyššej Kuwait Premier League",
    "order": 21,
    "slug": "kuvajt",
    "name_en": "Kuwait",
-   "slug_en": "kuwait"
+   "slug_en": "kuwait",
+   "desc_en": "Kuwaiti clubs of the top-flight Kuwait Premier League"
   },
   {
    "id": "f_fut_klu_az_lao",
@@ -2868,11 +2996,12 @@
    "type": "folder",
    "icon": "la",
    "name": "Laos",
-   "desc": "",
+   "desc": "Laoské kluby najvyššej Lao League",
    "order": 22,
    "slug": "laos",
    "name_en": "Laos",
-   "slug_en": "laos"
+   "slug_en": "laos",
+   "desc_en": "Lao clubs of the top-flight Lao League"
   },
   {
    "id": "f_fut_klu_az_lbn",
@@ -2880,11 +3009,12 @@
    "type": "folder",
    "icon": "lb",
    "name": "Libanon",
-   "desc": "",
+   "desc": "Libanonské kluby najvyššej Lebanese Premier League",
    "order": 23,
    "slug": "libanon",
    "name_en": "Lebanon",
-   "slug_en": "lebanon"
+   "slug_en": "lebanon",
+   "desc_en": "Lebanese clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_az_mys",
@@ -2892,11 +3022,12 @@
    "type": "folder",
    "icon": "my",
    "name": "Malajzia",
-   "desc": "",
+   "desc": "Malajzijské kluby Super League na čele s Johor Darul Ta'zim",
    "order": 25,
    "slug": "malajzia",
    "name_en": "Malaysia",
-   "slug_en": "malaysia"
+   "slug_en": "malaysia",
+   "desc_en": "Malaysian clubs of the Super League, led by Johor Darul Ta'zim"
   },
   {
    "id": "f_fut_klu_az_mdv",
@@ -2904,11 +3035,12 @@
    "type": "folder",
    "icon": "mv",
    "name": "Maldivy",
-   "desc": "",
+   "desc": "Maldivské kluby najvyššej Dhivehi Premier League",
    "order": 26,
    "slug": "maldivy",
    "name_en": "Maldives",
-   "slug_en": "maldives"
+   "slug_en": "maldives",
+   "desc_en": "Maldivian clubs of the top-flight Dhivehi Premier League"
   },
   {
    "id": "f_fut_klu_az_mmr",
@@ -2916,11 +3048,12 @@
    "type": "folder",
    "icon": "mm",
    "name": "Mjanmarsko",
-   "desc": "",
+   "desc": "Mjanmarské kluby najvyššej Myanmar National League",
    "order": 27,
    "slug": "mjanmarsko",
    "name_en": "Myanmar",
-   "slug_en": "myanmar"
+   "slug_en": "myanmar",
+   "desc_en": "Myanmar clubs of the top-flight National League"
   },
   {
    "id": "f_fut_klu_az_mng",
@@ -2928,11 +3061,12 @@
    "type": "folder",
    "icon": "mn",
    "name": "Mongolsko",
-   "desc": "",
+   "desc": "Mongolské kluby najvyššej Mongolian Premier League",
    "order": 28,
    "slug": "mongolsko",
    "name_en": "Mongolia",
-   "slug_en": "mongolia"
+   "slug_en": "mongolia",
+   "desc_en": "Mongolian clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_az_npl",
@@ -2952,11 +3086,12 @@
    "type": "folder",
    "icon": "om",
    "name": "Omán",
-   "desc": "",
+   "desc": "Ománske kluby najvyššej Oman Professional League",
    "order": 30,
    "slug": "oman",
    "name_en": "Oman",
-   "slug_en": "oman"
+   "slug_en": "oman",
+   "desc_en": "Omani clubs of the top-flight Oman Professional League"
   },
   {
    "id": "f_fut_klu_az_pak",
@@ -2988,11 +3123,12 @@
    "type": "folder",
    "icon": "sa",
    "name": "Saudská Arábia",
-   "desc": "",
+   "desc": "Saudskoarabské kluby Saudi Pro League vrátane Al-Hilal a Al-Nassr",
    "order": 33,
    "slug": "saudska-arabia",
    "name_en": "Saudi Arabia",
-   "slug_en": "saudi-arabia"
+   "slug_en": "saudi-arabia",
+   "desc_en": "Saudi clubs of the Saudi Pro League, including Al-Hilal and Al-Nassr"
   },
   {
    "id": "f_fut_klu_az_sgp",
@@ -3000,11 +3136,12 @@
    "type": "folder",
    "icon": "sg",
    "name": "Singapur",
-   "desc": "",
+   "desc": "Singapurské kluby najvyššej Singapore Premier League",
    "order": 35,
    "slug": "singapur",
    "name_en": "Singapore",
-   "slug_en": "singapore"
+   "slug_en": "singapore",
+   "desc_en": "Singaporean clubs of the top-flight Singapore Premier League"
   },
   {
    "id": "f_fut_klu_az_lka",
@@ -3012,11 +3149,12 @@
    "type": "folder",
    "icon": "lk",
    "name": "Srí Lanka",
-   "desc": "",
+   "desc": "Srílanské kluby najvyššej Sri Lanka Super League",
    "order": 36,
    "slug": "sri-lanka",
    "name_en": "Sri Lanka",
-   "slug_en": "sri-lanka"
+   "slug_en": "sri-lanka",
+   "desc_en": "Sri Lankan clubs of the top-flight Super League"
   },
   {
    "id": "f_fut_klu_az_syr",
@@ -3024,11 +3162,12 @@
    "type": "folder",
    "icon": "sy",
    "name": "Sýria",
-   "desc": "",
+   "desc": "Sýrske kluby najvyššej Syrian Premier League",
    "order": 37,
    "slug": "syria",
    "name_en": "Syria",
-   "slug_en": "syria"
+   "slug_en": "syria",
+   "desc_en": "Syrian clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_az_tjk",
@@ -3036,11 +3175,12 @@
    "type": "folder",
    "icon": "tj",
    "name": "Tadžikistan",
-   "desc": "",
+   "desc": "Tadžické kluby najvyššej Higher League na čele s Istiklolom",
    "order": 38,
    "slug": "tadzikistan",
    "name_en": "Tajikistan",
-   "slug_en": "tajikistan"
+   "slug_en": "tajikistan",
+   "desc_en": "Tajik clubs of the top-flight Higher League, led by Istiklol"
   },
   {
    "id": "f_fut_klu_az_twn",
@@ -3048,11 +3188,12 @@
    "type": "folder",
    "icon": "tw",
    "name": "Taiwan",
-   "desc": "",
+   "desc": "Taiwanské kluby najvyššej Taiwan Football Premier League",
    "order": 39,
    "slug": "taiwan",
    "name_en": "Taiwan",
-   "slug_en": "taiwan"
+   "slug_en": "taiwan",
+   "desc_en": "Taiwanese clubs of the top-flight Football Premier League"
   },
   {
    "id": "f_fut_klu_az_tha",
@@ -3060,11 +3201,12 @@
    "type": "folder",
    "icon": "th",
    "name": "Thajsko",
-   "desc": "",
+   "desc": "Thajské kluby Thai League 1 vrátane Buriram United",
    "order": 40,
    "slug": "thajsko",
    "name_en": "Thailand",
-   "slug_en": "thailand"
+   "slug_en": "thailand",
+   "desc_en": "Thai clubs of the Thai League 1, including Buriram United"
   },
   {
    "id": "f_fut_klu_az_tkm",
@@ -3084,11 +3226,12 @@
    "type": "folder",
    "icon": "ae",
    "name": "SAE",
-   "desc": "",
+   "desc": "Emirátske kluby najvyššej UAE Pro League",
    "order": 42,
    "slug": "spojene-arabske-emiraty",
    "name_en": "United Arab Emirates",
-   "slug_en": "united-arab-emirates"
+   "slug_en": "united-arab-emirates",
+   "desc_en": "Emirati clubs of the top-flight UAE Pro League"
   },
   {
    "id": "f_fut_klu_az_uzb",
@@ -3096,11 +3239,12 @@
    "type": "folder",
    "icon": "uz",
    "name": "Uzbekistan",
-   "desc": "",
+   "desc": "Uzbecké kluby najvyššej Uzbekistan Super League",
    "order": 43,
    "slug": "uzbekistan",
    "name_en": "Uzbekistan",
-   "slug_en": "uzbekistan"
+   "slug_en": "uzbekistan",
+   "desc_en": "Uzbek clubs of the top-flight Super League"
   },
   {
    "id": "f_fut_klu_az_vnm",
@@ -3108,11 +3252,12 @@
    "type": "folder",
    "icon": "vn",
    "name": "Vietnam",
-   "desc": "",
+   "desc": "Vietnamské kluby najvyššej V.League 1",
    "order": 44,
    "slug": "vietnam",
    "name_en": "Vietnam",
-   "slug_en": "vietnam"
+   "slug_en": "vietnam",
+   "desc_en": "Vietnamese clubs of the top-flight V.League 1"
   },
   {
    "id": "f_fut_klu_az_tls",
@@ -3120,11 +3265,12 @@
    "type": "folder",
    "icon": "tl",
    "name": "Východný Timor",
-   "desc": "",
+   "desc": "Východotimorské kluby najvyššej Liga Futebol Timor-Leste",
    "order": 45,
    "slug": "vychodny-timor",
    "name_en": "East Timor",
-   "slug_en": "east-timor"
+   "slug_en": "east-timor",
+   "desc_en": "East Timorese clubs of the top-flight Liga Futebol Timor-Leste"
   },
   {
    "id": "f_fut_klu_az_yem",
@@ -3132,11 +3278,12 @@
    "type": "folder",
    "icon": "ye",
    "name": "Jemen",
-   "desc": "",
+   "desc": "Jemenské kluby najvyššej jemenskej ligy",
    "order": 46,
    "slug": "jemen",
    "name_en": "Yemen",
-   "slug_en": "yemen"
+   "slug_en": "yemen",
+   "desc_en": "Yemeni clubs of the country's top division"
   },
   {
    "id": "f_fut_klu_az_aus",
@@ -3144,11 +3291,12 @@
    "type": "folder",
    "icon": "au",
    "name": "Austrália",
-   "desc": "",
+   "desc": "Austrálske kluby A-League Men a novej Australian Championship",
    "order": 1,
    "slug": "australia",
    "name_en": "Australia",
-   "slug_en": "australia"
+   "slug_en": "australia",
+   "desc_en": "Australian clubs of the A-League Men and the new Australian Championship"
   },
   {
    "id": "f_fut_klu_ja_arg",
@@ -3156,11 +3304,12 @@
    "type": "folder",
    "icon": "ar",
    "name": "Argentína",
-   "desc": "",
+   "desc": "Argentínske kluby od Liga Profesional po obe súbežné súťaže tretej úrovne",
    "order": 0,
    "slug": "argentina",
    "name_en": "Argentina",
-   "slug_en": "argentina"
+   "slug_en": "argentina",
+   "desc_en": "Argentine clubs from the Liga Profesional down to both parallel third-tier competitions"
   },
   {
    "id": "f_fut_klu_ja_bol",
@@ -3168,11 +3317,12 @@
    "type": "folder",
    "icon": "bo",
    "name": "Bolívia",
-   "desc": "",
+   "desc": "Bolívijské kluby najvyššej División Profesional",
    "order": 1,
    "slug": "bolivia",
    "name_en": "Bolivia",
-   "slug_en": "bolivia"
+   "slug_en": "bolivia",
+   "desc_en": "Bolivian clubs of the top-flight División Profesional"
   },
   {
    "id": "f_fut_klu_ja_bra",
@@ -3180,11 +3330,12 @@
    "type": "folder",
    "icon": "br",
    "name": "Brazília",
-   "desc": "",
+   "desc": "Brazílske kluby troch celoštátnych úrovní — Série A, B a C",
    "order": 2,
    "slug": "brazilia",
    "name_en": "Brazil",
-   "slug_en": "brazil"
+   "slug_en": "brazil",
+   "desc_en": "Brazilian clubs of the three national tiers — Série A, B and C"
   },
   {
    "id": "f_fut_klu_ja_chi",
@@ -3192,11 +3343,12 @@
    "type": "folder",
    "icon": "cl",
    "name": "Chile",
-   "desc": "",
+   "desc": "Čilské kluby Liga de Primera a druhej Liga de Ascenso",
    "order": 3,
    "slug": "chile",
    "slug_en": "chile",
-   "name_en": "Chile"
+   "name_en": "Chile",
+   "desc_en": "Chilean clubs of the Liga de Primera and the second-tier Liga de Ascenso"
   },
   {
    "id": "f_fut_klu_ja_ecu",
@@ -3204,11 +3356,12 @@
    "type": "folder",
    "icon": "ec",
    "name": "Ekvádor",
-   "desc": "",
+   "desc": "Ekvádorské kluby Serie A a Serie B",
    "order": 4,
    "slug": "ekvador",
    "name_en": "Ecuador",
-   "slug_en": "ecuador"
+   "slug_en": "ecuador",
+   "desc_en": "Ecuadorian clubs of Serie A and Serie B"
   },
   {
    "id": "f_fut_klu_ja_col",
@@ -3216,11 +3369,12 @@
    "type": "folder",
    "icon": "co",
    "name": "Kolumbia",
-   "desc": "",
+   "desc": "Kolumbijské kluby oboch úrovní Categoría Primera",
    "order": 5,
    "slug": "kolumbia",
    "name_en": "Colombia",
-   "slug_en": "colombia"
+   "slug_en": "colombia",
+   "desc_en": "Colombian clubs of both Categoría Primera tiers"
   },
   {
    "id": "f_fut_klu_ja_par",
@@ -3228,11 +3382,12 @@
    "type": "folder",
    "icon": "py",
    "name": "Paraguaj",
-   "desc": "",
+   "desc": "Paraguajské kluby Copa de Primera a druhej División Intermedia",
    "order": 6,
    "slug": "paraguaj",
    "name_en": "Paraguay",
-   "slug_en": "paraguay"
+   "slug_en": "paraguay",
+   "desc_en": "Paraguayan clubs of the Copa de Primera and the second-tier División Intermedia"
   },
   {
    "id": "f_fut_klu_ja_per",
@@ -3240,11 +3395,12 @@
    "type": "folder",
    "icon": "pe",
    "name": "Peru",
-   "desc": "",
+   "desc": "Peruánske kluby Liga 1 a Liga 2",
    "order": 7,
    "slug": "peru",
    "slug_en": "peru",
-   "name_en": "Peru"
+   "name_en": "Peru",
+   "desc_en": "Peruvian clubs of Liga 1 and Liga 2"
   },
   {
    "id": "f_fut_klu_ja_uru",
@@ -3252,11 +3408,12 @@
    "type": "folder",
    "icon": "uy",
    "name": "Uruguaj",
-   "desc": "",
+   "desc": "Uruguajské kluby Liga AUF Uruguaya a Segunda División",
    "order": 8,
    "slug": "uruguaj",
    "name_en": "Uruguay",
-   "slug_en": "uruguay"
+   "slug_en": "uruguay",
+   "desc_en": "Uruguayan clubs of the Liga AUF Uruguaya and Segunda División"
   },
   {
    "id": "f_fut_klu_ja_ven",
@@ -3264,11 +3421,12 @@
    "type": "folder",
    "icon": "ve",
    "name": "Venezuela",
-   "desc": "",
+   "desc": "Venezuelské kluby Primera a Segunda División",
    "order": 9,
    "slug": "venezuela",
    "slug_en": "venezuela",
-   "name_en": "Venezuela"
+   "name_en": "Venezuela",
+   "desc_en": "Venezuelan clubs of the Primera and Segunda División"
   },
   {
    "id": "f_fut_klu_na_vir",
@@ -3276,11 +3434,12 @@
    "type": "folder",
    "icon": "vi",
    "name": "Americké Panenské ostrovy",
-   "desc": "",
+   "desc": "Kluby ligy USVISF rozdelenej na divízie Svätý Kríž a Svätý Tomáš",
    "order": 0,
    "slug": "americke-panenske-ostrovy",
    "name_en": "U.S. Virgin Islands",
-   "slug_en": "u-s-virgin-islands"
+   "slug_en": "u-s-virgin-islands",
+   "desc_en": "Clubs of the USVISF league, split into St. Croix and St. Thomas divisions"
   },
   {
    "id": "f_fut_klu_na_aia",
@@ -3288,11 +3447,12 @@
    "type": "folder",
    "icon": "ai",
    "name": "Anguilla",
-   "desc": "",
+   "desc": "Anguillské kluby najvyššej AFA Senior Male League",
    "order": 1,
    "slug": "anguilla",
    "slug_en": "anguilla",
-   "name_en": "Anguilla"
+   "name_en": "Anguilla",
+   "desc_en": "Anguillan clubs of the top-flight AFA Senior Male League"
   },
   {
    "id": "f_fut_klu_na_atg",
@@ -3300,11 +3460,12 @@
    "type": "folder",
    "icon": "ag",
    "name": "Antigua a Barbuda",
-   "desc": "",
+   "desc": "Kluby najvyššej ABFA Premier League Antiguy a Barbudy",
    "order": 2,
    "slug": "antigua-a-barbuda",
    "name_en": "Antigua and Barbuda",
-   "slug_en": "antigua-and-barbuda"
+   "slug_en": "antigua-and-barbuda",
+   "desc_en": "Clubs of Antigua and Barbuda's top-flight ABFA Premier League"
   },
   {
    "id": "f_fut_klu_na_aru",
@@ -3312,11 +3473,12 @@
    "type": "folder",
    "icon": "aw",
    "name": "Aruba",
-   "desc": "",
+   "desc": "Arubské kluby najvyššej súťaže Division di Honor",
    "order": 3,
    "slug": "aruba",
    "slug_en": "aruba",
-   "name_en": "Aruba"
+   "name_en": "Aruba",
+   "desc_en": "Aruban clubs of the top-flight Division di Honor"
   },
   {
    "id": "f_fut_klu_na_bah",
@@ -3324,11 +3486,12 @@
    "type": "folder",
    "icon": "bs",
    "name": "Bahamy",
-   "desc": "",
+   "desc": "Bahamské kluby najvyššej BFA Senior League",
    "order": 4,
    "slug": "bahamy",
    "name_en": "Bahamas",
-   "slug_en": "bahamas"
+   "slug_en": "bahamas",
+   "desc_en": "Bahamian clubs of the top-flight BFA Senior League"
   },
   {
    "id": "f_fut_klu_na_brb",
@@ -3336,11 +3499,12 @@
    "type": "folder",
    "icon": "bb",
    "name": "Barbados",
-   "desc": "",
+   "desc": "Barbadoské kluby najvyššej Premier League",
    "order": 5,
    "slug": "barbados",
    "slug_en": "barbados",
-   "name_en": "Barbados"
+   "name_en": "Barbados",
+   "desc_en": "Barbadian clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_na_blz",
@@ -3348,11 +3512,12 @@
    "type": "folder",
    "icon": "bz",
    "name": "Belize",
-   "desc": "",
+   "desc": "Belizské kluby najvyššej Premier League of Belize",
    "order": 6,
    "slug": "belize",
    "slug_en": "belize",
-   "name_en": "Belize"
+   "name_en": "Belize",
+   "desc_en": "Belizean clubs of the top-flight Premier League of Belize"
   },
   {
    "id": "f_fut_klu_na_ber",
@@ -3360,11 +3525,12 @@
    "type": "folder",
    "icon": "bm",
    "name": "Bermudy",
-   "desc": "",
+   "desc": "Bermudské kluby najvyššej Premier Division",
    "order": 7,
    "slug": "bermuda",
    "slug_en": "bermuda",
-   "name_en": "Bermuda"
+   "name_en": "Bermuda",
+   "desc_en": "Bermudian clubs of the top-flight Premier Division"
   },
   {
    "id": "f_fut_klu_na_boe",
@@ -3372,11 +3538,12 @@
    "type": "folder",
    "icon": "bq",
    "name": "Bonaire",
-   "desc": "",
+   "desc": "Kluby najvyššej súťaže Kampionato na ostrove Bonaire",
    "order": 8,
    "slug": "bonaire",
    "slug_en": "bonaire",
-   "name_en": "Bonaire"
+   "name_en": "Bonaire",
+   "desc_en": "Clubs of Bonaire's top-flight Kampionato"
   },
   {
    "id": "f_fut_klu_na_vgb",
@@ -3384,11 +3551,12 @@
    "type": "folder",
    "icon": "vg",
    "name": "Britské Panenské ostrovy",
-   "desc": "",
+   "desc": "Kluby národnej ligy BVIFA na Britských Panenských ostrovoch",
    "order": 9,
    "slug": "britske-panenske-ostrovy",
    "name_en": "British Virgin Islands",
-   "slug_en": "british-virgin-islands"
+   "slug_en": "british-virgin-islands",
+   "desc_en": "Clubs of the BVIFA National League in the British Virgin Islands"
   },
   {
    "id": "f_fut_klu_na_cur",
@@ -3396,11 +3564,12 @@
    "type": "folder",
    "icon": "cw",
    "name": "Curaçao",
-   "desc": "",
+   "desc": "Kluby najvyššej súťaže Promé Divishon na Curaçau",
    "order": 10,
    "slug": "curacao",
    "slug_en": "curacao",
-   "name_en": "Curaçao"
+   "name_en": "Curaçao",
+   "desc_en": "Clubs of Curaçao's top-flight Promé Divishon"
   },
   {
    "id": "f_fut_klu_na_dma",
@@ -3408,11 +3577,12 @@
    "type": "folder",
    "icon": "dm",
    "name": "Dominika",
-   "desc": "",
+   "desc": "Kluby najvyššej DFA Premier League na Dominike",
    "order": 11,
    "slug": "dominika",
    "name_en": "Dominica",
-   "slug_en": "dominica"
+   "slug_en": "dominica",
+   "desc_en": "Clubs of Dominica's top-flight DFA Premier League"
   },
   {
    "id": "f_fut_klu_na_dom",
@@ -3420,11 +3590,12 @@
    "type": "folder",
    "icon": "do",
    "name": "Dominikánska republika",
-   "desc": "",
+   "desc": "Dominikánske kluby najvyššej Liga Dominicana de Fútbol",
    "order": 12,
    "slug": "dominikanska-republika",
    "name_en": "Dominican Republic",
-   "slug_en": "dominican-republic"
+   "slug_en": "dominican-republic",
+   "desc_en": "Clubs of the Dominican Republic's top-flight Liga Dominicana de Fútbol"
   },
   {
    "id": "f_fut_klu_na_guf",
@@ -3432,11 +3603,12 @@
    "type": "folder",
    "icon": "gf",
    "name": "Francúzska Guyana",
-   "desc": "",
+   "desc": "Kluby najvyššej súťaže Régional 1 vo Francúzskej Guyane",
    "order": 13,
    "slug": "francuzska-guyana",
    "name_en": "French Guiana",
-   "slug_en": "french-guiana"
+   "slug_en": "french-guiana",
+   "desc_en": "Clubs of French Guiana's top-flight Régional 1"
   },
   {
    "id": "f_fut_klu_na_grn",
@@ -3444,11 +3616,12 @@
    "type": "folder",
    "icon": "gd",
    "name": "Grenada",
-   "desc": "",
+   "desc": "Grenadské kluby najvyššej GFA Premier League",
    "order": 14,
    "slug": "grenada",
    "slug_en": "grenada",
-   "name_en": "Grenada"
+   "name_en": "Grenada",
+   "desc_en": "Grenadian clubs of the top-flight GFA Premier League"
   },
   {
    "id": "f_fut_klu_na_glp",
@@ -3456,11 +3629,12 @@
    "type": "folder",
    "icon": "gp",
    "name": "Guadeloupe",
-   "desc": "",
+   "desc": "Guadeloupské kluby najvyššej súťaže Régionale 1",
    "order": 15,
    "slug": "guadeloupe",
    "slug_en": "guadeloupe",
-   "name_en": "Guadeloupe"
+   "name_en": "Guadeloupe",
+   "desc_en": "Guadeloupean clubs of the top-flight Régionale 1"
   },
   {
    "id": "f_fut_klu_na_gua",
@@ -3468,11 +3642,12 @@
    "type": "folder",
    "icon": "gt",
    "name": "Guatemala",
-   "desc": "",
+   "desc": "Guatemalské kluby Liga Nacional vrátane rivalov Comunicaciones a Municipal",
    "order": 16,
    "slug": "guatemala",
    "slug_en": "guatemala",
-   "name_en": "Guatemala"
+   "name_en": "Guatemala",
+   "desc_en": "Guatemalan clubs of the Liga Nacional, including rivals Comunicaciones and Municipal"
   },
   {
    "id": "f_fut_klu_na_guy",
@@ -3480,11 +3655,12 @@
    "type": "folder",
    "icon": "gy",
    "name": "Guyana",
-   "desc": "",
+   "desc": "Guyanské kluby najvyššej GFF Elite League",
    "order": 17,
    "slug": "guyana",
    "slug_en": "guyana",
-   "name_en": "Guyana"
+   "name_en": "Guyana",
+   "desc_en": "Guyanese clubs of the top-flight GFF Elite League"
   },
   {
    "id": "f_fut_klu_na_hai",
@@ -3492,11 +3668,12 @@
    "type": "folder",
    "icon": "ht",
    "name": "Haiti",
-   "desc": "",
+   "desc": "Haitské kluby najvyššej ligy Championnat National D1",
    "order": 18,
    "slug": "haiti",
    "slug_en": "haiti",
-   "name_en": "Haiti"
+   "name_en": "Haiti",
+   "desc_en": "Haitian clubs of the top-flight Championnat National D1"
   },
   {
    "id": "f_fut_klu_na_hon",
@@ -3504,11 +3681,12 @@
    "type": "folder",
    "icon": "hn",
    "name": "Honduras",
-   "desc": "",
+   "desc": "Honduraské kluby Liga Nacional vrátane Olimpie a Motaguy",
    "order": 19,
    "slug": "honduras",
    "slug_en": "honduras",
-   "name_en": "Honduras"
+   "name_en": "Honduras",
+   "desc_en": "Honduran clubs of the Liga Nacional, including Olimpia and Motagua"
   },
   {
    "id": "f_fut_klu_na_jam",
@@ -3516,11 +3694,12 @@
    "type": "folder",
    "icon": "jm",
    "name": "Jamajka",
-   "desc": "",
+   "desc": "Jamajské kluby najvyššej Jamaica Premier League",
    "order": 20,
    "slug": "jamajka",
    "name_en": "Jamaica",
-   "slug_en": "jamaica"
+   "slug_en": "jamaica",
+   "desc_en": "Jamaican clubs of the top-flight Jamaica Premier League"
   },
   {
    "id": "f_fut_klu_na_cay",
@@ -3528,11 +3707,12 @@
    "type": "folder",
    "icon": "ky",
    "name": "Kajmanie ostrovy",
-   "desc": "",
+   "desc": "Kajmanské kluby najvyššej CIFA Premier League",
    "order": 21,
    "slug": "kajmanske-ostrovy",
    "name_en": "Cayman Islands",
-   "slug_en": "cayman-islands"
+   "slug_en": "cayman-islands",
+   "desc_en": "Caymanian clubs of the top-flight CIFA Premier League"
   },
   {
    "id": "f_fut_klu_na_can",
@@ -3540,11 +3720,12 @@
    "type": "folder",
    "icon": "ca",
    "name": "Kanada",
-   "desc": "",
+   "desc": "Kanadské kluby Canadian Premier League, najvyššej domácej súťaže krajiny",
    "order": 22,
    "slug": "kanada",
    "name_en": "Canada",
-   "slug_en": "canada"
+   "slug_en": "canada",
+   "desc_en": "Canadian clubs of the Canadian Premier League, the country's top domestic competition"
   },
   {
    "id": "f_fut_klu_na_cri",
@@ -3552,11 +3733,12 @@
    "type": "folder",
    "icon": "cr",
    "name": "Kostarika",
-   "desc": "",
+   "desc": "Kostarické kluby Liga Promerica a druhej Liga de Ascenso",
    "order": 23,
    "slug": "kostarika",
    "name_en": "Costa Rica",
-   "slug_en": "costa-rica"
+   "slug_en": "costa-rica",
+   "desc_en": "Costa Rican clubs of the Liga Promerica and the second-tier Liga de Ascenso"
   },
   {
    "id": "f_fut_klu_na_cub",
@@ -3564,11 +3746,12 @@
    "type": "folder",
    "icon": "cu",
    "name": "Kuba",
-   "desc": "",
+   "desc": "Kubánske kluby celoštátneho šampionátu provincií",
    "order": 24,
    "slug": "kuba",
    "name_en": "Cuba",
-   "slug_en": "cuba"
+   "slug_en": "cuba",
+   "desc_en": "Cuban clubs of the national championship of the provinces"
   },
   {
    "id": "f_fut_klu_na_mtq",
@@ -3576,11 +3759,12 @@
    "type": "folder",
    "icon": "mq",
    "name": "Martinik",
-   "desc": "",
+   "desc": "Martinické kluby najvyššej súťaže Régional 1",
    "order": 25,
    "slug": "martinik",
    "name_en": "Martinique",
-   "slug_en": "martinique"
+   "slug_en": "martinique",
+   "desc_en": "Martinican clubs of the top-flight Régional 1"
   },
   {
    "id": "f_fut_klu_na_mex",
@@ -3588,11 +3772,12 @@
    "type": "folder",
    "icon": "mx",
    "name": "Mexiko",
-   "desc": "",
+   "desc": "Mexické kluby Liga MX a druhej Liga de Expansión",
    "order": 26,
    "slug": "mexiko",
    "name_en": "Mexico",
-   "slug_en": "mexico"
+   "slug_en": "mexico",
+   "desc_en": "Mexican clubs of the Liga MX and the second-tier Liga de Expansión"
   },
   {
    "id": "f_fut_klu_na_msr",
@@ -3600,11 +3785,12 @@
    "type": "folder",
    "icon": "ms",
    "name": "Montserrat",
-   "desc": "",
+   "desc": "Montserratské kluby miestneho šampionátu",
    "order": 27,
    "slug": "montserrat",
    "slug_en": "montserrat",
-   "name_en": "Montserrat"
+   "name_en": "Montserrat",
+   "desc_en": "Montserratian clubs of the local championship"
   },
   {
    "id": "f_fut_klu_na_nic",
@@ -3612,11 +3798,12 @@
    "type": "folder",
    "icon": "ni",
    "name": "Nikaragua",
-   "desc": "",
+   "desc": "Nikaragujské kluby najvyššej Liga Primera",
    "order": 28,
    "slug": "nikaragua",
    "name_en": "Nicaragua",
-   "slug_en": "nicaragua"
+   "slug_en": "nicaragua",
+   "desc_en": "Nicaraguan clubs of the top-flight Liga Primera"
   },
   {
    "id": "f_fut_klu_na_pan",
@@ -3624,11 +3811,12 @@
    "type": "folder",
    "icon": "pa",
    "name": "Panama",
-   "desc": "",
+   "desc": "Panamské kluby najvyššej Liga Panameña de Fútbol",
    "order": 29,
    "slug": "panama",
    "slug_en": "panama",
-   "name_en": "Panama"
+   "name_en": "Panama",
+   "desc_en": "Panamanian clubs of the top-flight Liga Panameña de Fútbol"
   },
   {
    "id": "f_fut_klu_na_pri",
@@ -3636,11 +3824,12 @@
    "type": "folder",
    "icon": "pr",
    "name": "Portoriko",
-   "desc": "",
+   "desc": "Portorické kluby najvyššej Liga Puerto Rico Pro",
    "order": 30,
    "slug": "portoriko",
    "name_en": "Puerto Rico",
-   "slug_en": "puerto-rico"
+   "slug_en": "puerto-rico",
+   "desc_en": "Puerto Rican clubs of the top-flight Liga Puerto Rico Pro"
   },
   {
    "id": "f_fut_klu_na_slv",
@@ -3648,11 +3837,12 @@
    "type": "folder",
    "icon": "sv",
    "name": "Salvádor",
-   "desc": "",
+   "desc": "Salvádorské kluby najvyššej Primera División",
    "order": 31,
    "slug": "salvador",
    "name_en": "El Salvador",
-   "slug_en": "el-salvador"
+   "slug_en": "el-salvador",
+   "desc_en": "Salvadoran clubs of the top-flight Primera División"
   },
   {
    "id": "f_fut_klu_na_sxm",
@@ -3660,11 +3850,12 @@
    "type": "folder",
    "icon": "sx",
    "name": "Sint Maarten",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier League na Sint Maartene",
    "order": 32,
    "slug": "sint-maarten",
    "slug_en": "sint-maarten",
-   "name_en": "Sint Maarten"
+   "name_en": "Sint Maarten",
+   "desc_en": "Clubs of Sint Maarten's top-flight Premier League"
   },
   {
    "id": "f_fut_klu_na_usa",
@@ -3672,11 +3863,12 @@
    "type": "folder",
    "icon": "us",
    "name": "USA",
-   "desc": "",
+   "desc": "Americké kluby v troch úrovniach — MLS, USL Championship a USL League One",
    "order": 33,
    "slug": "spojene-staty",
    "name_en": "United States",
-   "slug_en": "united-states"
+   "slug_en": "united-states",
+   "desc_en": "American clubs across three tiers — MLS, USL Championship and USL League One"
   },
   {
    "id": "f_fut_klu_na_sur",
@@ -3684,11 +3876,12 @@
    "type": "folder",
    "icon": "sr",
    "name": "Surinam",
-   "desc": "",
+   "desc": "Surinamské kluby najvyššej Suriname Major League",
    "order": 34,
    "slug": "surinam",
    "name_en": "Suriname",
-   "slug_en": "suriname"
+   "slug_en": "suriname",
+   "desc_en": "Surinamese clubs of the top-flight Suriname Major League"
   },
   {
    "id": "f_fut_klu_na_skn",
@@ -3696,11 +3889,12 @@
    "type": "folder",
    "icon": "kn",
    "name": "Sv. Krištof a Nevis",
-   "desc": "",
+   "desc": "Kluby najvyššej SKNFA Premier League na St. Kitts a Nevise",
    "order": 35,
    "slug": "sv-kristof-a-nevis",
    "name_en": "Saint Kitts and Nevis",
-   "slug_en": "st-kitts-and-nevis"
+   "slug_en": "st-kitts-and-nevis",
+   "desc_en": "Clubs of St. Kitts and Nevis' top-flight SKNFA Premier League"
   },
   {
    "id": "f_fut_klu_na_lca",
@@ -3708,11 +3902,12 @@
    "type": "folder",
    "icon": "lc",
    "name": "Sv. Lucia",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier League Svätej Lucie",
    "order": 36,
    "slug": "sv-lucia",
    "name_en": "Saint Lucia",
-   "slug_en": "st-lucia"
+   "slug_en": "st-lucia",
+   "desc_en": "Clubs of Saint Lucia's top-flight Premier League"
   },
   {
    "id": "f_fut_klu_na_vin",
@@ -3720,11 +3915,12 @@
    "type": "folder",
    "icon": "vc",
    "name": "Sv. Vincent a Grenadíny",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier Division Sv. Vincenta a Grenadín",
    "order": 37,
    "slug": "sv-vincent-a-grenadiny",
    "name_en": "Saint Vincent and the Grenadines",
-   "slug_en": "st-vincent-and-the-grenadines"
+   "slug_en": "st-vincent-and-the-grenadines",
+   "desc_en": "Clubs of Saint Vincent and the Grenadines' top-flight Premier Division"
   },
   {
    "id": "f_fut_klu_na_smn",
@@ -3732,11 +3928,12 @@
    "type": "folder",
    "icon": "mf",
    "name": "Svätý Martin (fr.)",
-   "desc": "",
+   "desc": "Kluby šampionátu francúzskej časti Svätého Martina",
    "order": 38,
    "slug": "svaty-martin-fr",
    "name_en": "Saint Martin (Fr.)",
-   "slug_en": "saint-martin-fr"
+   "slug_en": "saint-martin-fr",
+   "desc_en": "Clubs of the championship of the French part of Saint Martin"
   },
   {
    "id": "f_fut_klu_na_tri",
@@ -3744,11 +3941,12 @@
    "type": "folder",
    "icon": "tt",
    "name": "Trinidad a Tobago",
-   "desc": "",
+   "desc": "Trinidadské kluby najvyššej TT Premier Football League",
    "order": 39,
    "slug": "trinidad-a-tobago",
    "name_en": "Trinidad and Tobago",
-   "slug_en": "trinidad-and-tobago"
+   "slug_en": "trinidad-and-tobago",
+   "desc_en": "Trinidadian clubs of the top-flight TT Premier Football League"
   },
   {
    "id": "f_fut_klu_na_tca",
@@ -3756,11 +3954,12 @@
    "type": "folder",
    "icon": "tc",
    "name": "Turks a Caicos",
-   "desc": "",
+   "desc": "Kluby najvyššej Provo Premier League na ostrovoch Turks a Caicos",
    "order": 40,
    "slug": "turks-a-caicos",
    "name_en": "Turks and Caicos",
-   "slug_en": "turks-and-caicos"
+   "slug_en": "turks-and-caicos",
+   "desc_en": "Clubs of the Turks and Caicos Islands' top-flight Provo Premier League"
   },
   {
    "id": "f_fut_klu_oc_asm",
@@ -3768,11 +3967,12 @@
    "type": "folder",
    "icon": "as",
    "name": "Americká Samoa",
-   "desc": "",
+   "desc": "Kluby najvyššej FFAS Senior League Americkej Samoy",
    "order": 0,
    "slug": "americka-samoa",
    "name_en": "American Samoa",
-   "slug_en": "american-samoa"
+   "slug_en": "american-samoa",
+   "desc_en": "Clubs of American Samoa's top-flight FFAS Senior League"
   },
   {
    "id": "f_fut_klu_oc_cok",
@@ -3780,11 +3980,12 @@
    "type": "folder",
    "icon": "ck",
    "name": "Cookove ostrovy",
-   "desc": "",
+   "desc": "Kluby najvyššej súťaže Round Cup na Cookových ostrovoch",
    "order": 2,
    "slug": "cookove-ostrovy",
    "name_en": "Cook Islands",
-   "slug_en": "cook-islands"
+   "slug_en": "cook-islands",
+   "desc_en": "Clubs of the Cook Islands' top-flight Round Cup"
   },
   {
    "id": "f_fut_klu_oc_fij",
@@ -3792,11 +3993,12 @@
    "type": "folder",
    "icon": "fj",
    "name": "Fidži",
-   "desc": "",
+   "desc": "Fidžijské kluby najvyššej Premier League",
    "order": 3,
    "slug": "fidzi",
    "name_en": "Fiji",
-   "slug_en": "fiji"
+   "slug_en": "fiji",
+   "desc_en": "Fijian clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_oc_ncl",
@@ -3804,11 +4006,12 @@
    "type": "folder",
    "icon": "nc",
    "name": "Nová Kaledónia",
-   "desc": "",
+   "desc": "Novokaledónske kluby najvyššej Super Ligue",
    "order": 4,
    "slug": "nova-kaledonia",
    "name_en": "New Caledonia",
-   "slug_en": "new-caledonia"
+   "slug_en": "new-caledonia",
+   "desc_en": "New Caledonian clubs of the top-flight Super Ligue"
   },
   {
    "id": "f_fut_klu_oc_nzl",
@@ -3816,11 +4019,12 @@
    "type": "folder",
    "icon": "nz",
    "name": "Nový Zéland",
-   "desc": "",
+   "desc": "Novozélandské kluby všetkých troch regionálnych skupín Národnej ligy",
    "order": 5,
    "slug": "novy-zeland",
    "name_en": "New Zealand",
-   "slug_en": "new-zealand"
+   "slug_en": "new-zealand",
+   "desc_en": "New Zealand clubs of all three regional groups of the National League"
   },
   {
    "id": "f_fut_klu_oc_png",
@@ -3828,11 +4032,12 @@
    "type": "folder",
    "icon": "pg",
    "name": "Papua-Nová Guinea",
-   "desc": "",
+   "desc": "Kluby najvyššej Premier Soccer League Papuy-Novej Guiney",
    "order": 6,
    "slug": "papua-nova-guinea",
    "name_en": "Papua New Guinea",
-   "slug_en": "papua-new-guinea"
+   "slug_en": "papua-new-guinea",
+   "desc_en": "Clubs of Papua New Guinea's top-flight Premier Soccer League"
   },
   {
    "id": "f_fut_klu_oc_wsm",
@@ -3840,11 +4045,12 @@
    "type": "folder",
    "icon": "ws",
    "name": "Samoa",
-   "desc": "",
+   "desc": "Samojské kluby najvyššej National League",
    "order": 7,
    "slug": "samoa",
    "slug_en": "samoa",
-   "name_en": "Samoa"
+   "name_en": "Samoa",
+   "desc_en": "Samoan clubs of the top-flight National League"
   },
   {
    "id": "f_fut_klu_oc_slb",
@@ -3852,11 +4058,12 @@
    "type": "folder",
    "icon": "sb",
    "name": "Šalamúnove ostrovy",
-   "desc": "",
+   "desc": "Kluby najvyššej S-League Šalamúnových ostrovov",
    "order": 8,
    "slug": "salamunove-ostrovy",
    "name_en": "Solomon Islands",
-   "slug_en": "solomon-islands"
+   "slug_en": "solomon-islands",
+   "desc_en": "Clubs of the Solomon Islands' top-flight S-League"
   },
   {
    "id": "f_fut_klu_oc_tah",
@@ -3864,11 +4071,12 @@
    "type": "folder",
    "icon": "pf",
    "name": "Tahiti",
-   "desc": "",
+   "desc": "Tahitské kluby najvyššej Ligue 1",
    "order": 9,
    "slug": "tahiti",
    "slug_en": "tahiti",
-   "name_en": "Tahiti"
+   "name_en": "Tahiti",
+   "desc_en": "Tahitian clubs of the top-flight Ligue 1"
   },
   {
    "id": "f_fut_klu_oc_ton",
@@ -3876,11 +4084,12 @@
    "type": "folder",
    "icon": "to",
    "name": "Tonga",
-   "desc": "",
+   "desc": "Tonžské kluby najvyššej Major League",
    "order": 10,
    "slug": "tonga",
    "slug_en": "tonga",
-   "name_en": "Tonga"
+   "name_en": "Tonga",
+   "desc_en": "Tongan clubs of the top-flight Major League"
   },
   {
    "id": "f_fut_klu_oc_van",
@@ -3888,11 +4097,12 @@
    "type": "folder",
    "icon": "vu",
    "name": "Vanuatu",
-   "desc": "",
+   "desc": "Vanuatské kluby najvyššej Super League",
    "order": 11,
    "slug": "vanuatu",
    "slug_en": "vanuatu",
-   "name_en": "Vanuatu"
+   "name_en": "Vanuatu",
+   "desc_en": "Vanuatuan clubs of the top-flight Super League"
   },
   {
    "id": "f_hok_sut",
@@ -26638,10 +26848,10 @@
    "type": "folder",
    "icon": "gb-eng",
    "name": "Premier League",
-   "desc": "Najvyššia anglická súťaž — 20 klubov, najsledovanejšia liga sveta. Oficiálne weby všetkých účastníkov sezóny 2026/27.",
+   "desc": "Najvyššia anglická súťaž — 20 klubov, najsledovanejšia liga sveta.",
    "order": 0,
    "slug": "premier-league",
-   "desc_en": "Top English league — 20 clubs, the most-watched league in the world. Official websites of all 2026/27 participants.",
+   "desc_en": "Top English league — 20 clubs, the most-watched league in the world.",
    "slug_en": "premier-league"
   },
   {
@@ -28526,10 +28736,10 @@
    "type": "folder",
    "icon": "es",
    "name": "La Liga",
-   "desc": "Najvyššia španielska súťaž — 20 klubov vrátane Realu Madrid a Barcelony. Oficiálne weby účastníkov sezóny 2026/27.",
+   "desc": "Najvyššia španielska súťaž — 20 klubov vrátane Realu Madrid a Barcelony.",
    "order": 0,
    "slug": "la-liga",
-   "desc_en": "Top Spanish league — 20 clubs including Real Madrid and Barcelona. Official websites of 2026/27 participants.",
+   "desc_en": "Top Spanish league — 20 clubs including Real Madrid and Barcelona.",
    "slug_en": "la-liga"
   },
   {
@@ -29478,10 +29688,10 @@
    "type": "folder",
    "icon": "de",
    "name": "Bundesliga",
-   "desc": "Najvyššia nemecká súťaž — 18 klubov na čele s Bayernom Mníchov. Oficiálne weby účastníkov sezóny 2026/27.",
+   "desc": "Najvyššia nemecká súťaž — 18 klubov na čele s Bayernom Mníchov.",
    "order": 0,
    "slug": "bundesliga",
-   "desc_en": "Top German league — 18 clubs led by Bayern Munich. Official websites of 2026/27 participants.",
+   "desc_en": "Top German league — 18 clubs led by Bayern Munich.",
    "slug_en": "bundesliga"
   },
   {
@@ -31191,10 +31401,10 @@
    "type": "folder",
    "icon": "fr",
    "name": "Ligue 1",
-   "desc": "Najvyššia francúzska súťaž — 18 klubov na čele s PSG. Oficiálne weby účastníkov sezóny 2026/27.",
+   "desc": "Najvyššia francúzska súťaž — 18 klubov na čele s PSG.",
    "order": 0,
    "slug": "ligue-1",
-   "desc_en": "Top French league — 18 clubs led by PSG. Official websites of 2026/27 participants.",
+   "desc_en": "Top French league — 18 clubs led by PSG.",
    "slug_en": "ligue-1"
   },
   {
@@ -31821,10 +32031,10 @@
    "type": "folder",
    "icon": "sk",
    "name": "Niké liga",
-   "desc": "Najvyššia slovenská futbalová súťaž — 12 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia slovenská futbalová súťaž — 12 klubov.",
    "order": 0,
    "slug": "nike-liga",
-   "desc_en": "Top Slovak football league — 12 clubs, 2026/27 season.",
+   "desc_en": "Top Slovak football league — 12 clubs.",
    "slug_en": "nike-liga"
   },
   {
@@ -31965,10 +32175,10 @@
    "type": "folder",
    "icon": "sk",
    "name": "2. liga",
-   "desc": "Druhá najvyššia slovenská futbalová súťaž (MONACObet liga) — 16 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia slovenská futbalová súťaž (MONACObet liga) — 16 klubov.",
    "order": 1,
    "slug": "2-liga",
-   "desc_en": "Second Slovak football tier (MONACObet liga) — 16 clubs, 2026/27 season.",
+   "desc_en": "Second Slovak football tier (MONACObet liga) — 16 clubs.",
    "slug_en": "2-liga"
   },
   {
@@ -32153,10 +32363,10 @@
    "type": "folder",
    "icon": "cz",
    "name": "Chance Liga",
-   "desc": "Najvyššia česká futbalová súťaž — 16 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia česká futbalová súťaž — 16 klubov.",
    "order": 0,
    "slug": "chance-liga",
-   "desc_en": "Top Czech football league — 16 clubs, 2026/27 season.",
+   "desc_en": "Top Czech football league — 16 clubs.",
    "slug_en": "chance-liga"
   },
   {
@@ -32341,10 +32551,10 @@
    "type": "folder",
    "icon": "cz",
    "name": "Chance Národní Liga",
-   "desc": "Druhá najvyššia česká futbalová súťaž (ChNL) — 16 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia česká futbalová súťaž (ChNL) — 16 klubov.",
    "order": 1,
    "slug": "chance-narodni-liga",
-   "desc_en": "Second Czech football tier (ChNL) — 16 clubs, 2026/27 season.",
+   "desc_en": "Second Czech football tier (ChNL) — 16 clubs.",
    "slug_en": "chance-narodni-liga"
   },
   {
@@ -32529,10 +32739,10 @@
    "type": "folder",
    "icon": "al",
    "name": "Abissnet Superiore",
-   "desc": "Najvyššia albánska futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia albánska futbalová súťaž — 10 klubov.",
    "order": 0,
    "slug": "abissnet-superiore",
-   "desc_en": "Top Albanian football league — 10 clubs, 2026/27 season.",
+   "desc_en": "Top Albanian football league — 10 clubs.",
    "slug_en": "abissnet-superiore"
   },
   {
@@ -32651,10 +32861,10 @@
    "type": "folder",
    "icon": "ad",
    "name": "Primera Divisió",
-   "desc": "Najvyššia andorrská futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia andorrská futbalová súťaž — 10 klubov.",
    "order": 0,
    "slug": "primera-divisio",
-   "desc_en": "Top Andorran football league — 10 clubs, 2026/27 season.",
+   "desc_en": "Top Andorran football league — 10 clubs.",
    "slug_en": "primera-divisio"
   },
   {
@@ -32773,11 +32983,11 @@
    "type": "folder",
    "icon": "by",
    "name": "Vyššia liga",
-   "desc": "Najvyššia bieloruská futbalová súťaž — 16 klubov, sezóna 2026.",
+   "desc": "Najvyššia bieloruská futbalová súťaž — 16 klubov.",
    "order": 0,
    "slug": "vyssia-liga",
    "name_en": "Vysshaya Liga",
-   "desc_en": "Top Belarusian football league — 16 clubs, 2026 season.",
+   "desc_en": "Top Belarusian football league — 16 clubs.",
    "slug_en": "vysshaya-liga"
   },
   {
@@ -32962,10 +33172,10 @@
    "type": "folder",
    "icon": "be",
    "name": "Jupiler Pro League",
-   "desc": "Najvyššia belgická futbalová súťaž — 18 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia belgická futbalová súťaž — 18 klubov.",
    "order": 0,
    "slug": "jupiler-pro-league",
-   "desc_en": "Top Belgian football league — 18 clubs, 2026/27 season.",
+   "desc_en": "Top Belgian football league — 18 clubs.",
    "slug_en": "jupiler-pro-league"
   },
   {
@@ -33172,10 +33382,10 @@
    "type": "folder",
    "icon": "be",
    "name": "Challenger Pro League",
-   "desc": "Druhá najvyššia belgická futbalová súťaž — 15 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia belgická futbalová súťaž — 15 klubov.",
    "order": 1,
    "slug": "challenger-pro-league",
-   "desc_en": "Second Belgian football tier — 15 clubs, 2026/27 season.",
+   "desc_en": "Second Belgian football tier — 15 clubs.",
    "slug_en": "challenger-pro-league"
   },
   {
@@ -33349,10 +33559,10 @@
    "type": "folder",
    "icon": "ba",
    "name": "Premijer liga BiH",
-   "desc": "Najvyššia bosnianska futbalová súťaž (WWIN liga) — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia bosnianska futbalová súťaž (WWIN liga) — 10 klubov.",
    "order": 0,
    "slug": "premijer-liga-bih",
-   "desc_en": "Top Bosnian football league (WWIN liga) — 10 clubs, 2026/27 season.",
+   "desc_en": "Top Bosnian football league (WWIN liga) — 10 clubs.",
    "slug_en": "premijer-liga-bih"
   },
   {
@@ -33471,10 +33681,10 @@
    "type": "folder",
    "icon": "bg",
    "name": "efbet League (Parva liga)",
-   "desc": "Najvyššia bulharská futbalová súťaž — 14 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia bulharská futbalová súťaž — 14 klubov.",
    "order": 0,
    "slug": "efbet-league-parva-liga",
-   "desc_en": "Top Bulgarian football league — 14 clubs, 2026/27 season.",
+   "desc_en": "Top Bulgarian football league — 14 clubs.",
    "slug_en": "efbet-league-parva-liga"
   },
   {
@@ -33637,10 +33847,10 @@
    "type": "folder",
    "icon": "bg",
    "name": "Vtora liga",
-   "desc": "Druhá najvyššia bulharská futbalová súťaž — 18 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia bulharská futbalová súťaž — 18 klubov.",
    "order": 1,
    "slug": "vtora-liga",
-   "desc_en": "Second Bulgarian football tier — 18 clubs, 2026/27 season.",
+   "desc_en": "Second Bulgarian football tier — 18 clubs.",
    "slug_en": "vtora-liga"
   },
   {
@@ -34221,10 +34431,10 @@
    "type": "folder",
    "icon": "me",
    "name": "Prva Crnogorska Liga",
-   "desc": "Najvyššia čiernohorská futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia čiernohorská futbalová súťaž — 10 klubov.",
    "order": 1,
    "slug": "prva-crnogorska-liga",
-   "desc_en": "Top Montenegrin football league — 10 clubs, 2026/27 season.",
+   "desc_en": "Top Montenegrin football league — 10 clubs.",
    "slug_en": "prva-crnogorska-liga"
   },
   {
@@ -34343,10 +34553,10 @@
    "type": "folder",
    "icon": "me",
    "name": "Druga Crnogorska Liga",
-   "desc": "Druhá čiernohorská futbalová súťaž — 10 klubov, sezóna 2026/27.",
+   "desc": "Druhá čiernohorská futbalová súťaž — 10 klubov.",
    "order": 2,
    "slug": "druga-crnogorska-liga",
-   "desc_en": "Second Montenegrin football tier — 10 clubs, 2026/27 season.",
+   "desc_en": "Second Montenegrin football tier — 10 clubs.",
    "slug_en": "druga-crnogorska-liga"
   },
   {
@@ -34465,10 +34675,10 @@
    "type": "folder",
    "icon": "dk",
    "name": "Superliga",
-   "desc": "Najvyššia dánska futbalová súťaž — 12 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia dánska futbalová súťaž — 12 klubov.",
    "order": 1,
    "slug": "superliga",
-   "desc_en": "Top Danish football league — 12 clubs, 2026/27 season.",
+   "desc_en": "Top Danish football league — 12 clubs.",
    "slug_en": "superliga"
   },
   {
@@ -34609,10 +34819,10 @@
    "type": "folder",
    "icon": "dk",
    "name": "1st Division (NordicBet Liga)",
-   "desc": "Druhá dánska futbalová súťaž — 12 klubov, sezóna 2026/27.",
+   "desc": "Druhá dánska futbalová súťaž — 12 klubov.",
    "order": 2,
    "slug": "1st-division-nordicbet-liga",
-   "desc_en": "Second Danish football tier — 12 clubs, 2026/27 season.",
+   "desc_en": "Second Danish football tier — 12 clubs.",
    "slug_en": "1st-division-nordicbet-liga"
   },
   {
@@ -34753,10 +34963,10 @@
    "type": "folder",
    "icon": "dk",
    "name": "2nd Division",
-   "desc": "Tretia dánska futbalová súťaž — 12 klubov, sezóna 2026/27.",
+   "desc": "Tretia dánska futbalová súťaž — 12 klubov.",
    "order": 3,
    "slug": "2nd-division",
-   "desc_en": "Third Danish football tier — 12 clubs, 2026/27 season.",
+   "desc_en": "Third Danish football tier — 12 clubs.",
    "slug_en": "2nd-division"
   },
   {
@@ -34897,10 +35107,10 @@
    "type": "folder",
    "icon": "ee",
    "name": "Meistriliiga",
-   "desc": "Najvyššia estónska futbalová súťaž — 10 klubov, sezóna 2026 (hrá sa systémom jar–jeseň).",
+   "desc": "Najvyššia estónska futbalová súťaž — 10 klubov, hrá sa systémom jar–jeseň.",
    "order": 1,
    "slug": "meistriliiga",
-   "desc_en": "Top Estonian football league — 10 clubs, 2026 season (spring–autumn format).",
+   "desc_en": "Top Estonian football league — 10 clubs, spring–autumn format.",
    "slug_en": "meistriliiga"
   },
   {
@@ -35019,10 +35229,10 @@
    "type": "folder",
    "icon": "ee",
    "name": "Esiliiga",
-   "desc": "Druhá estónska futbalová súťaž — 10 tímov, sezóna 2026 (hrá sa systémom jar–jeseň).",
+   "desc": "Druhá estónska futbalová súťaž — 10 tímov, hrá sa systémom jar–jeseň.",
    "order": 2,
    "slug": "esiliiga",
-   "desc_en": "Second Estonian football tier — 10 teams, 2026 season (spring–autumn format).",
+   "desc_en": "Second Estonian football tier — 10 teams, spring–autumn format.",
    "slug_en": "esiliiga"
   },
   {
@@ -35141,10 +35351,10 @@
    "type": "folder",
    "icon": "fi",
    "name": "Veikkausliiga",
-   "desc": "Najvyššia fínska futbalová súťaž — 12 klubov, sezóna 2026 (hrá sa systémom jar–jeseň).",
+   "desc": "Najvyššia fínska futbalová súťaž — 12 klubov, hrá sa systémom jar–jeseň.",
    "order": 1,
    "slug": "veikkausliiga",
-   "desc_en": "Top Finnish football league — 12 clubs, 2026 season (spring–autumn format).",
+   "desc_en": "Top Finnish football league — 12 clubs, spring–autumn format.",
    "slug_en": "veikkausliiga"
   },
   {
@@ -35285,10 +35495,10 @@
    "type": "folder",
    "icon": "fi",
    "name": "Ykkösliiga",
-   "desc": "Druhá fínska futbalová súťaž — 10 tímov, sezóna 2026 (hrá sa systémom jar–jeseň).",
+   "desc": "Druhá fínska futbalová súťaž — 10 tímov, hrá sa systémom jar–jeseň.",
    "order": 2,
    "slug": "ykkosliiga",
-   "desc_en": "Second Finnish football tier — 10 teams, 2026 season (spring–autumn format).",
+   "desc_en": "Second Finnish football tier — 10 teams, spring–autumn format.",
    "slug_en": "ykkosliiga"
   },
   {
@@ -35407,10 +35617,10 @@
    "type": "folder",
    "icon": "fi",
    "name": "Ykkönen",
-   "desc": "Tretia fínska futbalová súťaž — 12 tímov, sezóna 2026 (hrá sa systémom jar–jeseň).",
+   "desc": "Tretia fínska futbalová súťaž — 12 tímov, hrá sa systémom jar–jeseň.",
    "order": 3,
    "slug": "ykkonen",
-   "desc_en": "Third Finnish football tier — 12 teams, 2026 season (spring–autumn format).",
+   "desc_en": "Third Finnish football tier — 12 teams, spring–autumn format.",
    "slug_en": "ykkonen"
   },
   {
@@ -35551,10 +35761,10 @@
    "type": "folder",
    "icon": "gr",
    "name": "Super League 1",
-   "desc": "Najvyššia grécka futbalová súťaž — 14 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia grécka futbalová súťaž — 14 klubov.",
    "order": 1,
    "slug": "super-league-1",
-   "desc_en": "Top Greek football league — 14 clubs, 2026/27 season.",
+   "desc_en": "Top Greek football league — 14 clubs.",
    "slug_en": "super-league-1"
   },
   {
@@ -35563,10 +35773,10 @@
    "type": "folder",
    "icon": "gr",
    "name": "Super League 2",
-   "desc": "Druhá grécka liga — jednoskupinová súťaž so 16 klubmi, štart 6.9.2026 (zatiaľ 14 potvrdených účastníkov).",
+   "desc": "Druhá grécka liga (Super League 2) — jednoskupinová súťaž, 14 klubov.",
    "order": 2,
    "slug": "super-league-2",
-   "desc_en": "Second Greek tier — single-group competition with 16 clubs, starting 6 Sep 2026 (14 participants confirmed so far).",
+   "desc_en": "Second Greek tier (Super League 2) — a single-group competition, 14 clubs.",
    "slug_en": "super-league-2"
   },
   {
@@ -35883,10 +36093,10 @@
    "type": "folder",
    "icon": "nl",
    "name": "Eredivisie",
-   "desc": "Najvyššia holandská futbalová súťaž — 18 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia holandská futbalová súťaž — 18 klubov.",
    "order": 1,
    "slug": "eredivisie",
-   "desc_en": "Top Dutch football league — 18 clubs, 2026/27 season.",
+   "desc_en": "Top Dutch football league — 18 clubs.",
    "slug_en": "eredivisie"
   },
   {
@@ -36535,10 +36745,10 @@
    "type": "folder",
    "icon": "hr",
    "name": "HNL",
-   "desc": "SuperSport HNL — najvyššia chorvátska futbalová súťaž, 10 klubov, sezóna 2026/27.",
+   "desc": "SuperSport HNL — najvyššia chorvátska futbalová súťaž, 10 klubov.",
    "order": 1,
    "slug": "hnl",
-   "desc_en": "SuperSport HNL — top Croatian football league, 10 clubs, 2026/27 season.",
+   "desc_en": "SuperSport HNL — top Croatian football league, 10 clubs.",
    "slug_en": "hnl"
   },
   {
@@ -37565,10 +37775,10 @@
    "type": "folder",
    "icon": "xk",
    "name": "Superliga",
-   "desc": "Najvyššia kosovská súťaž (Superliga e Kosovës) — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia kosovská súťaž (Superliga e Kosovës) — 10 klubov.",
    "order": 1,
    "slug": "superliga",
-   "desc_en": "Top Kosovar league (Superliga e Kosovës) — 10 clubs, 2026/27 season.",
+   "desc_en": "Top Kosovar league (Superliga e Kosovës) — 10 clubs.",
    "slug_en": "superliga"
   },
   {
@@ -38981,10 +39191,10 @@
    "type": "folder",
    "icon": "ch",
    "name": "Super League",
-   "desc": "Najvyššia švajčiarska futbalová liga (sezóna 2026/27) – 12 klubov.",
+   "desc": "Najvyššia švajčiarska futbalová liga – 12 klubov.",
    "order": 1,
    "slug": "super-league",
-   "desc_en": "Top Swiss football league (2026/27 season) – 12 clubs.",
+   "desc_en": "Top Swiss football league – 12 clubs.",
    "slug_en": "super-league"
   },
   {
@@ -38993,10 +39203,10 @@
    "type": "folder",
    "icon": "ch",
    "name": "Challenge League",
-   "desc": "Druhá najvyššia švajčiarska liga (2026/27) – 10 klubov.",
+   "desc": "Druhá najvyššia švajčiarska liga – 10 klubov.",
    "order": 2,
    "slug": "challenge-league",
-   "desc_en": "Second Swiss tier (2026/27) – 10 clubs.",
+   "desc_en": "Second Swiss tier – 10 clubs.",
    "slug_en": "challenge-league"
   },
   {
@@ -39005,10 +39215,10 @@
    "type": "folder",
    "icon": "se",
    "name": "Allsvenskan",
-   "desc": "Najvyššia švédska futbalová liga (sezóna 2026) – 16 klubov.",
+   "desc": "Najvyššia švédska futbalová liga – 16 klubov.",
    "order": 1,
    "slug": "allsvenskan",
-   "desc_en": "Top Swedish football league (2026 season) – 16 clubs.",
+   "desc_en": "Top Swedish football league – 16 clubs.",
    "slug_en": "allsvenskan"
   },
   {
@@ -39017,10 +39227,10 @@
    "type": "folder",
    "icon": "se",
    "name": "Superettan",
-   "desc": "Druhá najvyššia švédska liga (2026) – 16 klubov.",
+   "desc": "Druhá najvyššia švédska liga – 16 klubov.",
    "order": 2,
    "slug": "superettan",
-   "desc_en": "Second Swedish tier (2026) – 16 clubs.",
+   "desc_en": "Second Swedish tier – 16 clubs.",
    "slug_en": "superettan"
   },
   {
@@ -39029,10 +39239,10 @@
    "type": "folder",
    "icon": "se",
    "name": "Ettan Norra",
-   "desc": "Tretia švédska liga, severná skupina (2026) – 16 klubov.",
+   "desc": "Tretia švédska liga, severná skupina – 16 klubov.",
    "order": 3,
    "slug": "ettan-norra",
-   "desc_en": "Third Swedish tier, northern group (2026) – 16 clubs.",
+   "desc_en": "Third Swedish tier, northern group – 16 clubs.",
    "slug_en": "ettan-norra"
   },
   {
@@ -39041,10 +39251,10 @@
    "type": "folder",
    "icon": "se",
    "name": "Ettan Södra",
-   "desc": "Tretia švédska liga, južná skupina (2026) – 16 klubov.",
+   "desc": "Tretia švédska liga, južná skupina – 16 klubov.",
    "order": 4,
    "slug": "ettan-sodra",
-   "desc_en": "Third Swedish tier, southern group (2026) – 16 clubs.",
+   "desc_en": "Third Swedish tier, southern group – 16 clubs.",
    "slug_en": "ettan-sodra"
   },
   {
@@ -41686,10 +41896,10 @@
    "type": "folder",
    "icon": "lu",
    "name": "BGL Ligue",
-   "desc": "Najvyššia luxemburská futbalová súťaž (National Division) — 16 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia luxemburská futbalová súťaž (National Division) — 16 klubov.",
    "order": 1,
    "slug": "bgl-ligue",
-   "desc_en": "Top Luxembourg football league (National Division) — 16 clubs, 2026/27 season.",
+   "desc_en": "Top Luxembourg football league (National Division) — 16 clubs.",
    "slug_en": "bgl-ligue"
   },
   {
@@ -41874,10 +42084,10 @@
    "type": "folder",
    "icon": "mk",
    "name": "1. MFL",
-   "desc": "Najvyššia severomacedónska súťaž (Prva makedonska fudbalska liga) — 10 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia severomacedónska súťaž (Prva makedonska fudbalska liga) — 10 klubov.",
    "order": 1,
    "slug": "1-mfl",
-   "desc_en": "Top North Macedonian league (Prva makedonska fudbalska liga) — 10 clubs, 2026/27 season.",
+   "desc_en": "Top North Macedonian league (Prva makedonska fudbalska liga) — 10 clubs.",
    "slug_en": "1-mfl"
   },
   {
@@ -41886,10 +42096,10 @@
    "type": "folder",
    "icon": "mk",
    "name": "2. MFL",
-   "desc": "Druhá najvyššia severomacedónska súťaž (Vtora MFL) — 14 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia severomacedónska súťaž (Vtora MFL) — 14 klubov.",
    "order": 2,
    "slug": "2-mfl",
-   "desc_en": "Second North Macedonian tier (Vtora MFL) — 14 clubs, 2026/27 season.",
+   "desc_en": "Second North Macedonian tier (Vtora MFL) — 14 clubs.",
    "slug_en": "2-mfl"
   },
   {
@@ -42162,10 +42372,10 @@
    "type": "folder",
    "icon": "mt",
    "name": "Premier League",
-   "desc": "Najvyššia maltská súťaž (Malta Premier League) — 12 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia maltská súťaž (Malta Premier League) — 12 klubov.",
    "order": 1,
    "slug": "premier-league",
-   "desc_en": "Top Maltese league (Malta Premier League) — 12 clubs, 2026/27 season.",
+   "desc_en": "Top Maltese league (Malta Premier League) — 12 clubs.",
    "slug_en": "premier-league"
   },
   {
@@ -42174,10 +42384,10 @@
    "type": "folder",
    "icon": "mt",
    "name": "Challenge League",
-   "desc": "Druhá najvyššia maltská súťaž (BOV Challenge League) — 16 klubov, sezóna 2026/27.",
+   "desc": "Druhá najvyššia maltská súťaž (BOV Challenge League) — 16 klubov.",
    "order": 2,
    "slug": "challenge-league",
-   "desc_en": "Second Maltese tier (BOV Challenge League) — 16 clubs, 2026/27 season.",
+   "desc_en": "Second Maltese tier (BOV Challenge League) — 16 clubs.",
    "slug_en": "challenge-league"
   },
   {
@@ -42494,10 +42704,10 @@
    "type": "folder",
    "icon": "md",
    "name": "Super Liga",
-   "desc": "Najvyššia moldavská súťaž (Super Liga) — 8 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia moldavská súťaž (Super Liga) — 8 klubov.",
    "order": 1,
    "slug": "super-liga",
-   "desc_en": "Top Moldovan league (Super Liga) — 8 clubs, 2026/27 season.",
+   "desc_en": "Top Moldovan league (Super Liga) — 8 clubs.",
    "slug_en": "super-liga"
   },
   {
@@ -42594,10 +42804,10 @@
    "type": "folder",
    "icon": "pt",
    "name": "Liga Portugal",
-   "desc": "Najvyššia portugalská súťaž (Liga Portugal) — 18 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia portugalská súťaž (Liga Portugal) — 18 klubov.",
    "order": 1,
    "slug": "liga-portugal",
-   "desc_en": "Top Portuguese league (Liga Portugal) — 18 clubs, 2026/27 season.",
+   "desc_en": "Top Portuguese league (Liga Portugal) — 18 clubs.",
    "slug_en": "liga-portugal"
   },
   {
@@ -42804,10 +43014,10 @@
    "type": "folder",
    "icon": "pt",
    "name": "Liga Portugal 2",
-   "desc": "Druhá portugalská liga (Liga Portugal 2) — 18 klubov, sezóna 2026/27.",
+   "desc": "Druhá portugalská liga (Liga Portugal 2) — 18 klubov.",
    "order": 2,
    "slug": "liga-portugal-2",
-   "desc_en": "Second Portuguese tier (Liga Portugal 2) — 18 clubs, 2026/27 season.",
+   "desc_en": "Second Portuguese tier (Liga Portugal 2) — 18 clubs.",
    "slug_en": "liga-portugal-2"
   },
   {
@@ -43014,10 +43224,10 @@
    "type": "folder",
    "icon": "ro",
    "name": "SuperLiga",
-   "desc": "Najvyššia rumunská súťaž (SuperLiga) — 16 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia rumunská súťaž (SuperLiga) — 16 klubov.",
    "order": 1,
    "slug": "superliga",
-   "desc_en": "Top Romanian league (SuperLiga) — 16 clubs, 2026/27 season.",
+   "desc_en": "Top Romanian league (SuperLiga) — 16 clubs.",
    "slug_en": "superliga"
   },
   {
@@ -43202,10 +43412,10 @@
    "type": "folder",
    "icon": "ro",
    "name": "Liga 2",
-   "desc": "Druhá rumunská liga (Liga 2 Casa Pariurilor) — 22 klubov, sezóna 2026/27.",
+   "desc": "Druhá rumunská liga (Liga 2 Casa Pariurilor) — 22 klubov.",
    "order": 2,
    "slug": "liga-2",
-   "desc_en": "Second Romanian tier (Liga 2 Casa Pariurilor) — 22 clubs, 2026/27 season.",
+   "desc_en": "Second Romanian tier (Liga 2 Casa Pariurilor) — 22 clubs.",
    "slug_en": "liga-2"
   },
   {
@@ -43456,10 +43666,10 @@
    "type": "folder",
    "icon": "ru",
    "name": "Premier liga",
-   "desc": "Najvyššia ruská súťaž (Premier liga) — 16 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia ruská súťaž (Premier liga) — 16 klubov.",
    "order": 1,
    "slug": "premier-liga",
-   "desc_en": "Top Russian league (Premier Liga) — 16 clubs, 2026/27 season.",
+   "desc_en": "Top Russian league (Premier Liga) — 16 clubs.",
    "slug_en": "premier-liga"
   },
   {
@@ -43644,11 +43854,11 @@
    "type": "folder",
    "icon": "ru",
    "name": "Pervaja liga (FNL)",
-   "desc": "Druhá ruská súťaž (Pervaja liga, tzv. Liga PARI/FNL) — 18 klubov, sezóna 2026/27.",
+   "desc": "Druhá ruská súťaž (Pervaja liga, tzv. Liga PARI/FNL) — 18 klubov.",
    "order": 2,
    "slug": "pervaja-liga",
    "name_en": "Pervaya Liga (FNL)",
-   "desc_en": "Second Russian tier (Pervaya Liga, aka Liga PARI/FNL) — 18 clubs, 2026/27 season.",
+   "desc_en": "Second Russian tier (Pervaya Liga, aka Liga PARI/FNL) — 18 clubs.",
    "slug_en": "pervaya-liga-fnl"
   },
   {
@@ -44209,10 +44419,10 @@
    "type": "folder",
    "icon": "rs",
    "name": "Prva liga",
-   "desc": "Druhá srbská súťaž (Mozzart Bet Prva liga) — 16 klubov, sezóna 2026/27.",
+   "desc": "Druhá srbská súťaž (Mozzart Bet Prva liga) — 16 klubov.",
    "order": 2,
    "slug": "prva-liga",
-   "desc_en": "Second Serbian tier (Mozzart Bet Prva liga) — 16 clubs, 2026/27 season.",
+   "desc_en": "Second Serbian tier (Mozzart Bet Prva liga) — 16 clubs.",
    "slug_en": "prva-liga"
   },
   {
@@ -47393,11 +47603,11 @@
    "type": "folder",
    "icon": "it",
    "name": "Serie C – skupina A",
-   "desc": "Tretia úroveň, severná skupina A — kluby zo severného Talianska (sezóna 2026/27, provizórne zloženie).",
+   "desc": "Tretia úroveň, severná skupina A — kluby zo severného Talianska.",
    "order": 3,
    "slug": "serie-c-skupina-a",
    "name_en": "Serie C – Group A",
-   "desc_en": "Third tier, northern group A — clubs from northern Italy (2026/27 season, provisional line-up).",
+   "desc_en": "Third tier, northern group A — clubs from northern Italy.",
    "slug_en": "serie-c-group-a"
   },
   {
@@ -47406,11 +47616,11 @@
    "type": "folder",
    "icon": "it",
    "name": "Serie C – skupina B",
-   "desc": "Tretia úroveň, stredná skupina B — kluby zo stredného Talianska (sezóna 2026/27, provizórne zloženie).",
+   "desc": "Tretia úroveň, stredná skupina B — kluby zo stredného Talianska.",
    "order": 4,
    "slug": "serie-c-skupina-b",
    "name_en": "Serie C – Group B",
-   "desc_en": "Third tier, central group B — clubs from central Italy (2026/27 season, provisional line-up).",
+   "desc_en": "Third tier, central group B — clubs from central Italy.",
    "slug_en": "serie-c-group-b"
   },
   {
@@ -47419,11 +47629,11 @@
    "type": "folder",
    "icon": "it",
    "name": "Serie C – skupina C",
-   "desc": "Tretia úroveň, južná skupina C — kluby z južného Talianska a ostrovov (sezóna 2026/27, provizórne zloženie).",
+   "desc": "Tretia úroveň, južná skupina C — kluby z južného Talianska a ostrovov.",
    "order": 5,
    "slug": "serie-c-skupina-c",
    "name_en": "Serie C – Group C",
-   "desc_en": "Third tier, southern group C — clubs from southern Italy and the islands (2026/27 season, provisional line-up).",
+   "desc_en": "Third tier, southern group C — clubs from southern Italy and the islands.",
    "slug_en": "serie-c-group-c"
   },
   {
@@ -48532,10 +48742,10 @@
    "type": "folder",
    "icon": "tr",
    "name": "Süper Lig",
-   "desc": "Najvyššia turecká súťaž — 18 klubov, jedna z najsilnejších líg mimo veľkej päťky (sezóna 2026/27).",
+   "desc": "Najvyššia turecká súťaž — 18 klubov, jedna z najsilnejších líg mimo veľkej päťky.",
    "order": 1,
    "slug": "super-lig",
-   "desc_en": "Top Turkish league — 18 clubs, one of the strongest leagues outside the big five (2026/27 season).",
+   "desc_en": "Top Turkish league — 18 clubs, one of the strongest leagues outside the big five.",
    "slug_en": "super-lig"
   },
   {
@@ -48544,10 +48754,10 @@
    "type": "folder",
    "icon": "tr",
    "name": "1. Lig",
-   "desc": "Druhá najvyššia turecká súťaž (TFF 1. Lig) — 20 klubov (sezóna 2026/27).",
+   "desc": "Druhá najvyššia turecká súťaž (TFF 1. Lig) — 20 klubov.",
    "order": 2,
    "slug": "1-lig",
-   "desc_en": "Second Turkish tier (TFF 1. Lig) — 20 clubs (2026/27 season).",
+   "desc_en": "Second Turkish tier (TFF 1. Lig) — 20 clubs.",
    "slug_en": "1-lig"
   },
   {
@@ -48974,10 +49184,10 @@
    "type": "folder",
    "icon": "cy",
    "name": "1. liga",
-   "desc": "Najvyššia cyperská súťaž (Cypriot First Division) — 14 klubov (sezóna 2026/27).",
+   "desc": "Najvyššia cyperská súťaž (Cypriot First Division) — 14 klubov.",
    "order": 1,
    "slug": "1-liga",
-   "desc_en": "Top Cypriot league (Cypriot First Division) — 14 clubs (2026/27 season).",
+   "desc_en": "Top Cypriot league (Cypriot First Division) — 14 clubs.",
    "slug_en": "1-liga"
   },
   {
@@ -48986,10 +49196,10 @@
    "type": "folder",
    "icon": "cy",
    "name": "2. liga",
-   "desc": "Druhá najvyššia cyperská súťaž (Cypriot Second Division) — 16 klubov (sezóna 2026/27).",
+   "desc": "Druhá najvyššia cyperská súťaž (Cypriot Second Division) — 16 klubov.",
    "order": 2,
    "slug": "2-liga",
-   "desc_en": "Second Cypriot tier (Cypriot Second Division) — 16 clubs (2026/27 season).",
+   "desc_en": "Second Cypriot tier (Cypriot Second Division) — 16 clubs.",
    "slug_en": "2-liga"
   },
   {
@@ -50516,10 +50726,10 @@
    "type": "folder",
    "icon": "ua",
    "name": "Premier liha",
-   "desc": "Najvyššia ukrajinská súťaž (Ukrajinska Premjer-liha) — 16 klubov (sezóna 2026/27).",
+   "desc": "Najvyššia ukrajinská súťaž (Ukrajinska Premjer-liha) — 16 klubov.",
    "order": 1,
    "slug": "premier-liha",
-   "desc_en": "Top Ukrainian league (Ukrainska Premier Liha) — 16 clubs (2026/27 season).",
+   "desc_en": "Top Ukrainian league (Ukrainska Premier Liha) — 16 clubs.",
    "slug_en": "premier-liha"
   },
   {
@@ -50528,11 +50738,11 @@
    "type": "folder",
    "icon": "ua",
    "name": "Perša liha",
-   "desc": "Druhá najvyššia ukrajinská súťaž — 16 klubov (sezóna 2026/27).",
+   "desc": "Druhá najvyššia ukrajinská súťaž — 16 klubov.",
    "order": 2,
    "slug": "persa-liha",
    "name_en": "Persha Liha",
-   "desc_en": "Second Ukrainian tier — 16 clubs (2026/27 season).",
+   "desc_en": "Second Ukrainian tier — 16 clubs.",
    "slug_en": "persha-liha"
   },
   {
@@ -50553,10 +50763,10 @@
    "type": "folder",
    "icon": "gb-wls",
    "name": "Cymru North",
-   "desc": "Druhá waleská liga — severná skupina, 16 klubov (sezóna 2026/27).",
+   "desc": "Druhá waleská liga — severná skupina, 16 klubov.",
    "order": 2,
    "slug": "cymru-north",
-   "desc_en": "Second Welsh tier — northern group, 16 clubs (2026/27 season).",
+   "desc_en": "Second Welsh tier — northern group, 16 clubs.",
    "slug_en": "cymru-north"
   },
   {
@@ -50565,10 +50775,10 @@
    "type": "folder",
    "icon": "gb-wls",
    "name": "Cymru South",
-   "desc": "Druhá waleská liga — južná skupina, 16 klubov (sezóna 2026/27).",
+   "desc": "Druhá waleská liga — južná skupina, 16 klubov.",
    "order": 3,
    "slug": "cymru-south",
-   "desc_en": "Second Welsh tier — southern group, 16 clubs (2026/27 season).",
+   "desc_en": "Second Welsh tier — southern group, 16 clubs.",
    "slug_en": "cymru-south"
   },
   {
@@ -51457,10 +51667,10 @@
    "type": "folder",
    "icon": "ge",
    "name": "Crystalbet Erovnuli Liga",
-   "desc": "Najvyššia gruzínska súťaž, 10 klubov (sezóna 2026, hrá sa v kalendárnom roku).",
+   "desc": "Najvyššia gruzínska súťaž, 10 klubov (hrá sa v kalendárnom roku).",
    "order": 1,
    "slug": "crystalbet-erovnuli-liga",
-   "desc_en": "Top Georgian league, 10 clubs (2026 season, played over the calendar year).",
+   "desc_en": "Top Georgian league, 10 clubs (played over the calendar year).",
    "slug_en": "crystalbet-erovnuli-liga"
   },
   {
@@ -51469,10 +51679,10 @@
    "type": "folder",
    "icon": "ge",
    "name": "Crystalbet Erovnuli Liga 2",
-   "desc": "Druhá najvyššia gruzínska súťaž, 10 klubov (sezóna 2026).",
+   "desc": "Druhá najvyššia gruzínska súťaž, 10 klubov.",
    "order": 2,
    "slug": "crystalbet-erovnuli-liga-2",
-   "desc_en": "Second Georgian tier, 10 clubs (2026 season).",
+   "desc_en": "Second Georgian tier, 10 clubs.",
    "slug_en": "crystalbet-erovnuli-liga-2"
   },
   {
@@ -51701,10 +51911,10 @@
    "type": "folder",
    "icon": "il",
    "name": "Ligat ha'Al",
-   "desc": "Najvyššia izraelská súťaž, 14 klubov (sezóna 2026/27).",
+   "desc": "Najvyššia izraelská súťaž, 14 klubov.",
    "order": 1,
    "slug": "ligat-haal",
-   "desc_en": "Top Israeli league, 14 clubs (2026/27 season).",
+   "desc_en": "Top Israeli league, 14 clubs.",
    "slug_en": "ligat-ha-al"
   },
   {
@@ -51713,10 +51923,10 @@
    "type": "folder",
    "icon": "il",
    "name": "Leumit League",
-   "desc": "Druhá najvyššia izraelská súťaž, 16 klubov (sezóna 2026/27).",
+   "desc": "Druhá najvyššia izraelská súťaž, 16 klubov.",
    "order": 2,
    "slug": "leumit-league",
-   "desc_en": "Second Israeli tier, 16 clubs (2026/27 season).",
+   "desc_en": "Second Israeli tier, 16 clubs.",
    "slug_en": "leumit-league"
   },
   {
@@ -52055,10 +52265,10 @@
    "type": "folder",
    "icon": "kz",
    "name": "Premier League",
-   "desc": "Najvyššia kazašská súťaž, 16 klubov (sezóna 2026).",
+   "desc": "Najvyššia kazašská súťaž, 16 klubov.",
    "order": 1,
    "slug": "premier-league",
-   "desc_en": "Top Kazakhstani league, 16 clubs (2026 season).",
+   "desc_en": "Top Kazakhstani league, 16 clubs.",
    "slug_en": "premier-league"
   },
   {
@@ -52067,10 +52277,10 @@
    "type": "folder",
    "icon": "kz",
    "name": "First League",
-   "desc": "Druhá najvyššia kazašská súťaž, 14 klubov vrátane rezervných tímov top klubov (sezóna 2026).",
+   "desc": "Druhá najvyššia kazašská súťaž, 14 klubov vrátane rezervných tímov top klubov.",
    "order": 2,
    "slug": "first-league",
-   "desc_en": "Second Kazakhstani tier, 14 clubs including top clubs' reserve teams (2026 season).",
+   "desc_en": "Second Kazakhstani tier, 14 clubs including top clubs' reserve teams.",
    "slug_en": "first-league"
   },
   {
@@ -52409,10 +52619,10 @@
    "type": "folder",
    "icon": "az",
    "name": "Premier League",
-   "desc": "Najvyššia azerbajdžanská súťaž, 12 klubov (sezóna 2026/27).",
+   "desc": "Najvyššia azerbajdžanská súťaž, 12 klubov.",
    "order": 1,
    "slug": "premier-league",
-   "desc_en": "Top Azerbaijani league, 12 clubs (2026/27 season).",
+   "desc_en": "Top Azerbaijani league, 12 clubs.",
    "slug_en": "premier-league"
   },
   {
@@ -55805,10 +56015,10 @@
    "type": "folder",
    "icon": "cn",
    "name": "Super League",
-   "desc": "Najvyššia čínska súťaž, 16 klubov, sezóna 2026 (kalendárny rok).",
+   "desc": "Najvyššia čínska súťaž — 16 klubov, hrá sa v kalendárnom roku.",
    "order": 1,
    "slug": "super-league",
-   "desc_en": "Top Chinese league, 16 clubs, 2026 season (calendar year).",
+   "desc_en": "Top Chinese league — 16 clubs, played over the calendar year.",
    "slug_en": "super-league"
   },
   {
@@ -55993,10 +56203,10 @@
    "type": "folder",
    "icon": "cn",
    "name": "League One",
-   "desc": "Druhá čínska súťaž, 16 klubov, sezóna 2026.",
+   "desc": "Druhá čínska súťaž — 16 klubov, hrá sa v kalendárnom roku.",
    "order": 2,
    "slug": "league-one",
-   "desc_en": "Second Chinese tier, 16 clubs, 2026 season.",
+   "desc_en": "Second Chinese tier — 16 clubs, played over the calendar year.",
    "slug_en": "league-one"
   },
   {
@@ -56181,10 +56391,10 @@
    "type": "folder",
    "icon": "ph",
    "name": "PFL",
-   "desc": "Philippines Football League, najvyššia filipínska súťaž, 11 klubov, sezóna 2025/26.",
+   "desc": "Philippines Football League, najvyššia filipínska súťaž — 11 klubov.",
    "order": 1,
    "slug": "pfl",
-   "desc_en": "Philippines Football League, the top Filipino league, 11 clubs, 2025/26 season.",
+   "desc_en": "Philippines Football League, the country's top flight — 11 clubs.",
    "slug_en": "pfl"
   },
   {
@@ -56314,10 +56524,10 @@
    "type": "folder",
    "icon": "in",
    "name": "Indian Super League",
-   "desc": "Najvyššia indická súťaž (ISL), 14 klubov, sezóna 2025/26.",
+   "desc": "Najvyššia indická súťaž (ISL) — 14 klubov.",
    "order": 1,
    "slug": "indian-super-league",
-   "desc_en": "Top Indian league (ISL), 14 clubs, 2025/26 season.",
+   "desc_en": "Top Indian league (ISL) — 14 clubs.",
    "slug_en": "indian-super-league"
   },
   {
@@ -56480,10 +56690,10 @@
    "type": "folder",
    "icon": "in",
    "name": "I-League",
-   "desc": "Druhá indická súťaž (I-League), 10 klubov, sezóna 2025/26.",
+   "desc": "Druhá indická súťaž (I-League) — 10 klubov.",
    "order": 2,
    "slug": "i-league",
-   "desc_en": "Second Indian tier (I-League), 10 clubs, 2025/26 season.",
+   "desc_en": "Second Indian tier (I-League) — 10 clubs.",
    "slug_en": "i-league"
   },
   {
@@ -56602,10 +56812,10 @@
    "type": "folder",
    "icon": "id",
    "name": "Super League",
-   "desc": "Najvyššia indonézska súťaž (Liga 1), 18 klubov, sezóna 2026/27.",
+   "desc": "Najvyššia indonézska súťaž (Super League, predtým Liga 1) — 18 klubov.",
    "order": 1,
    "slug": "super-league",
-   "desc_en": "Top Indonesian league (Liga 1), 18 clubs, 2026/27 season.",
+   "desc_en": "Top Indonesian league (Super League, formerly Liga 1) — 18 clubs.",
    "slug_en": "super-league"
   },
   {
@@ -56812,10 +57022,10 @@
    "type": "folder",
    "icon": "id",
    "name": "Championship",
-   "desc": "Druhá indonézska súťaž (Liga 2), 20 klubov, sezóna 2026/27.",
+   "desc": "Druhá indonézska súťaž (Championship, predtým Liga 2) — 20 klubov.",
    "order": 2,
    "slug": "championship",
-   "desc_en": "Second Indonesian tier (Liga 2), 20 clubs, 2026/27 season.",
+   "desc_en": "Second Indonesian tier (Championship, formerly Liga 2) — 20 clubs.",
    "slug_en": "championship"
   },
   {
@@ -57044,10 +57254,10 @@
    "type": "folder",
    "icon": "iq",
    "name": "Stars League",
-   "desc": "Najvyššia iracká súťaž, 20 klubov, sezóna 2025/26 (kompletná tabuľka).",
+   "desc": "Najvyššia iracká súťaž — 20 klubov.",
    "order": 1,
    "slug": "stars-league",
-   "desc_en": "Top Iraqi league, 20 clubs, 2025/26 season (complete table).",
+   "desc_en": "Top Iraqi league — 20 clubs.",
    "slug_en": "stars-league"
   },
   {
@@ -57276,10 +57486,10 @@
    "type": "folder",
    "icon": "ir",
    "name": "Persian Gulf Pro League",
-   "desc": "Najvyššia iránska súťaž, 16 klubov, sezóna 2025/26.",
+   "desc": "Najvyššia iránska súťaž — 16 klubov.",
    "order": 1,
    "slug": "persian-gulf-pro-league",
-   "desc_en": "Top Iranian league, 16 clubs, 2025/26 season.",
+   "desc_en": "Top Iranian league — 16 clubs.",
    "slug_en": "persian-gulf-pro-league"
   },
   {
@@ -57464,10 +57674,10 @@
    "type": "folder",
    "icon": "jp",
    "name": "J1 League",
-   "desc": "Najvyššia japonská súťaž, 20 klubov, prvá sezóna 2026/27 v novom formáte leto–jar (august 2026 – jún 2027).",
+   "desc": "Najvyššia japonská súťaž — 20 klubov, od sezóny 2026/27 hraná v novom formáte leto–jar.",
    "order": 1,
    "slug": "j1-league",
-   "desc_en": "Top Japanese league, 20 clubs, first 2026/27 season in the new summer–spring format (August 2026 – June 2027).",
+   "desc_en": "Top Japanese league — 20 clubs, played in the new summer-to-spring format since 2026/27.",
    "slug_en": "j1-league"
   },
   {
@@ -57696,10 +57906,10 @@
    "type": "folder",
    "icon": "jp",
    "name": "J2 League",
-   "desc": "Druhá japonská súťaž, 20 klubov, prvá sezóna 2026/27 v novom formáte leto–jar (august 2026 – máj 2027).",
+   "desc": "Druhá japonská súťaž — 20 klubov, od sezóny 2026/27 hraná v novom formáte leto–jar.",
    "order": 2,
    "slug": "j2-league",
-   "desc_en": "Second Japanese tier, 20 clubs, first 2026/27 season in the new summer–spring format (August 2026 – May 2027).",
+   "desc_en": "Second Japanese tier — 20 clubs, played in the new summer-to-spring format since 2026/27.",
    "slug_en": "j2-league"
   },
   {
@@ -57928,10 +58138,10 @@
    "type": "folder",
    "icon": "jo",
    "name": "Premier League",
-   "desc": "Najvyššia jordánska súťaž, 10 klubov, sezóna 2025/26.",
+   "desc": "Najvyššia jordánska súťaž — 10 klubov.",
    "order": 1,
    "slug": "premier-league",
-   "desc_en": "Top Jordanian league, 10 clubs, 2025/26 season.",
+   "desc_en": "Top Jordanian league — 10 clubs.",
    "slug_en": "premier-league"
   },
   {
@@ -58050,10 +58260,10 @@
    "type": "folder",
    "icon": "kr",
    "name": "K League 1",
-   "desc": "Najvyššia juhokórejská súťaž, 12 klubov, sezóna 2026.",
+   "desc": "Najvyššia juhokórejská súťaž — 12 klubov, hrá sa v kalendárnom roku.",
    "order": 1,
    "slug": "k-league-1",
-   "desc_en": "Top South Korean league, 12 clubs, 2026 season.",
+   "desc_en": "Top South Korean league — 12 clubs, played over the calendar year.",
    "slug_en": "k-league-1"
   },
   {
@@ -58062,10 +58272,10 @@
    "type": "folder",
    "icon": "kr",
    "name": "K League 2",
-   "desc": "Druhá juhokórejská súťaž, 17 klubov, sezóna 2026.",
+   "desc": "Druhá juhokórejská súťaž — 17 klubov, hrá sa v kalendárnom roku.",
    "order": 2,
    "slug": "k-league-2",
-   "desc_en": "Second South Korean tier, 17 clubs, 2026 season.",
+   "desc_en": "Second South Korean tier — 17 clubs, played over the calendar year.",
    "slug_en": "k-league-2"
   },
   {
@@ -81012,8 +81222,8 @@
    "type": "folder",
    "icon": "gp",
    "name": "Régionale 1",
-   "desc": "Najvyššia futbalová súťaž na Guadeloupe (Division d'Honneur), momentálne 14 klubov, sezóna 2025/26 skončila titulom Siroco Les Abymes.",
-   "desc_en": "The top football division in Guadeloupe (Division d'Honneur), currently with 14 clubs, the 2025/26 season ended with the title going to Siroco Les Abymes.",
+   "desc": "Najvyššia futbalová súťaž na Guadeloupe (Division d'Honneur) — 14 klubov.",
+   "desc_en": "The top football division in Guadeloupe (Division d'Honneur) — 14 clubs.",
    "order": 1,
    "slug": "regionale-1"
   },
@@ -81191,8 +81401,8 @@
    "type": "folder",
    "icon": "gy",
    "name": "GFF Elite League",
-   "desc": "Najvyššia futbalová súťaž v Guyane, momentálne 10 klubov, sezóna 2025 (9.3.-26.10.) skončila titulom Slingerz FC.",
-   "desc_en": "The top football division in Guyana, currently with 10 clubs, the 2025 season (9 Mar-26 Oct) ended with the title going to Slingerz FC.",
+   "desc": "Najvyššia futbalová súťaž v Guyane — 10 klubov.",
+   "desc_en": "The top football division in Guyana — 10 clubs.",
    "order": 1,
    "slug": "gff-elite-league"
   },
@@ -81322,8 +81532,8 @@
    "type": "folder",
    "icon": "ky",
    "name": "CIFA Premier League",
-   "desc": "Najvyššia futbalová súťaž na Kajmanských ostrovoch, momentálne 12 klubov, sezóna 2025/26 skončila titulom Elite SC.",
-   "desc_en": "The top football division in the Cayman Islands, currently with 12 clubs, the 2025/26 season ended with the title going to Elite SC.",
+   "desc": "Najvyššia futbalová súťaž na Kajmanských ostrovoch — 12 klubov.",
+   "desc_en": "The top football division in the Cayman Islands — 12 clubs.",
    "order": 1,
    "slug": "cifa-premier-league"
   },
@@ -81524,8 +81734,8 @@
    "type": "folder",
    "icon": "sx",
    "name": "Sint Maarten Premier League",
-   "desc": "Najvyššia futbalová súťaž na Sint Maartene, momentálne 6 klubov, sezóna 2024/25 skončila 4. titulom SCSA Eagles.",
-   "desc_en": "The top football division in Sint Maarten, currently with 6 clubs, the 2024/25 season ended with the 4th title for SCSA Eagles.",
+   "desc": "Najvyššia futbalová súťaž na Sint Maartene — 6 klubov.",
+   "desc_en": "The top football division in Sint Maarten — 6 clubs.",
    "order": 1,
    "slug": "sint-maarten-premier-league"
   },
@@ -81607,8 +81817,8 @@
    "type": "folder",
    "icon": "kn",
    "name": "SKNFA Premier League",
-   "desc": "Najvyššia futbalová súťaž na St. Kitts a Nevise, sezóna 2025/26 dohratá, 10 klubov, titul obhájil Old Road Jets United FC.",
-   "desc_en": "The top football division in St. Kitts and Nevis, 2025/26 season completed, 10 clubs, champions Old Road Jets United FC.",
+   "desc": "Najvyššia futbalová súťaž na St. Kitts a Nevise — 10 klubov.",
+   "desc_en": "The top football division in St. Kitts and Nevis — 10 clubs.",
    "order": 1,
    "slug": "sknfa-premier-league"
   },
@@ -81738,8 +81948,8 @@
    "type": "folder",
    "icon": "lc",
    "name": "SPFL Premier League",
-   "desc": "Najvyššia futbalová súťaž na Sv. Lucii, ktorú tvorí 10 krajských/mestských líg SLFA, obhajca titulu z rokov 2024 aj 2025 je La Clery.",
-   "desc_en": "The top football division in Saint Lucia, contested by 10 SLFA district/zone leagues, back-to-back 2024 and 2025 champions La Clery.",
+   "desc": "Najvyššia futbalová súťaž na Svätej Lucii — 10 klubov.",
+   "desc_en": "The top football division in Saint Lucia — 10 clubs.",
    "order": 1,
    "slug": "spfl-premier-league"
   },
@@ -81869,8 +82079,8 @@
    "type": "folder",
    "icon": "vc",
    "name": "SVGFF Premier Division",
-   "desc": "Najvyššia futbalová súťaž na Sv. Vincentovi a Grenadínach, sezóna 2024/25 dohratá, 10 klubov, titul získal North Leeward Predators FC.",
-   "desc_en": "The top football division in St. Vincent and the Grenadines, 2024/25 season completed, 10 clubs, champions North Leeward Predators FC.",
+   "desc": "Najvyššia futbalová súťaž na Sv. Vincentovi a Grenadínach — 10 klubov.",
+   "desc_en": "The top football division in St. Vincent and the Grenadines — 10 clubs.",
    "order": 1,
    "slug": "svgff-premier-division"
   },
@@ -82000,8 +82210,8 @@
    "type": "folder",
    "icon": "mf",
    "name": "Championnat de Saint-Martin",
-   "desc": "Najvyššia futbalová súťaž na francúzskej časti Svätého Martina, sezóna 2024/25 dohratá, obhajca titulu Junior Stars FC (5. titul v rade).",
-   "desc_en": "The top football division in the French part of Saint Martin, 2024/25 season completed, defending champions Junior Stars FC (5th consecutive title).",
+   "desc": "Najvyššia futbalová súťaž na francúzskej časti Svätého Martina — 8 klubov.",
+   "desc_en": "The top football division in the French part of Saint Martin — 8 clubs.",
    "order": 1,
    "slug": "championnat-de-saint-martin"
   },
@@ -82107,8 +82317,8 @@
    "type": "folder",
    "icon": "tc",
    "name": "Provo Premier League",
-   "desc": "Najvyššia futbalová súťaž na ostrovoch Turks a Caicos, sezóna 2025/26 dohratá, titul obhájili Academy Eagles FC.",
-   "desc_en": "The top football division in the Turks and Caicos Islands, 2025/26 season completed, champions Academy Eagles FC.",
+   "desc": "Najvyššia futbalová súťaž na ostrovoch Turks a Caicos — 7 klubov.",
+   "desc_en": "The top football division in the Turks and Caicos Islands — 7 clubs.",
    "order": 1,
    "slug": "provo-premier-league"
   },
@@ -87852,10 +88062,10 @@
    "type": "folder",
    "icon": "jp",
    "name": "J3 League",
-   "desc": "Tretia najvyššia japonská súťaž, 20 klubov, sezóna 2026/27 v novom formáte leto–jar.",
+   "desc": "Tretia najvyššia japonská súťaž — 20 klubov, od sezóny 2026/27 hraná v novom formáte leto–jar.",
    "order": 3,
    "slug": "j3-league",
-   "desc_en": "Third-tier Japanese league, 20 clubs, 2026/27 season in the new summer–spring format.",
+   "desc_en": "Third Japanese tier — 20 clubs, played in the new summer-to-spring format since 2026/27.",
    "slug_en": "j3-league"
   },
   {
@@ -87864,10 +88074,10 @@
    "type": "folder",
    "icon": "nl",
    "name": "Derde Divisie A",
-   "desc": "Štvrtá najvyššia holandská súťaž, skupina A, 18 klubov, sezóna 2026/27.",
+   "desc": "Štvrtá najvyššia holandská súťaž, skupina A, 18 klubov.",
    "order": 4,
    "slug": "derde-divisie-a",
-   "desc_en": "Fourth-tier Dutch league, group A, 18 clubs, 2026/27 season.",
+   "desc_en": "Fourth-tier Dutch league, group A, 18 clubs.",
    "slug_en": "derde-divisie-a"
   },
   {
@@ -87876,10 +88086,10 @@
    "type": "folder",
    "icon": "nl",
    "name": "Derde Divisie B",
-   "desc": "Štvrtá najvyššia holandská súťaž, skupina B, 18 klubov, sezóna 2026/27.",
+   "desc": "Štvrtá najvyššia holandská súťaž, skupina B, 18 klubov.",
    "order": 5,
    "slug": "derde-divisie-b",
-   "desc_en": "Fourth-tier Dutch league, group B, 18 clubs, 2026/27 season.",
+   "desc_en": "Fourth-tier Dutch league, group B, 18 clubs.",
    "slug_en": "derde-divisie-b"
   },
   {
@@ -87888,10 +88098,10 @@
    "type": "folder",
    "icon": "be",
    "name": "Division 1 VV",
-   "desc": "Tretia najvyššia belgická súťaž, vlámska skupina (Voetbal Vlaanderen), 16 klubov, sezóna 2026/27.",
+   "desc": "Tretia najvyššia belgická súťaž, vlámska skupina (Voetbal Vlaanderen), 16 klubov.",
    "order": 2,
    "slug": "division-1-vv",
-   "desc_en": "Third-tier Belgian league, Flemish group (Voetbal Vlaanderen), 16 clubs, 2026/27 season.",
+   "desc_en": "Third-tier Belgian league, Flemish group (Voetbal Vlaanderen), 16 clubs.",
    "slug_en": "division-1-vv"
   },
   {
@@ -87900,10 +88110,10 @@
    "type": "folder",
    "icon": "be",
    "name": "Division 1 ACFF",
-   "desc": "Tretia najvyššia belgická súťaž, francúzska skupina (ACFF/FFA), 12 klubov, sezóna 2026/27.",
+   "desc": "Tretia najvyššia belgická súťaž, francúzska skupina (ACFF/FFA), 12 klubov.",
    "order": 3,
    "slug": "division-1-acff",
-   "desc_en": "Third-tier Belgian league, French-speaking group (ACFF/FFA), 12 clubs, 2026/27 season.",
+   "desc_en": "Third-tier Belgian league, French-speaking group (ACFF/FFA), 12 clubs.",
    "slug_en": "division-1-acff"
   },
   {
@@ -90237,10 +90447,11 @@
    "type": "folder",
    "icon": "fo",
    "name": "Faerské ostrovy",
-   "desc": "",
+   "desc": "Faerské kluby najvyššej súťaže Meistaradeildin",
    "order": 15,
    "slug": "faerske-ostrovy",
-   "name_en": "Faroe Islands"
+   "name_en": "Faroe Islands",
+   "desc_en": "Faroese clubs of the top-flight Meistaradeildin"
   },
   {
    "id": "f_fut_klu_eu_gib",
@@ -90248,10 +90459,11 @@
    "type": "folder",
    "icon": "gi",
    "name": "Gibraltár",
-   "desc": "",
+   "desc": "Gibraltárske kluby jedinej súťaže Gibraltar Football League",
    "order": 17,
    "slug": "gibraltar",
-   "name_en": "Gibraltar"
+   "name_en": "Gibraltar",
+   "desc_en": "Gibraltarian clubs of the single-division Gibraltar Football League"
   },
   {
    "id": "f_fut_klu_az_gum",
@@ -90259,11 +90471,12 @@
    "type": "folder",
    "icon": "gu",
    "name": "Guam",
-   "desc": "",
+   "desc": "Guamské kluby najvyššej Budweiser G League",
    "order": 8,
    "slug": "guam",
    "name_en": "Guam",
-   "slug_en": "guam"
+   "slug_en": "guam",
+   "desc_en": "Guamanian clubs of the top-flight Budweiser G League"
   },
   {
    "id": "f_fut_klu_az_hkg",
@@ -90271,11 +90484,12 @@
    "type": "folder",
    "icon": "hk",
    "name": "Hongkong",
-   "desc": "",
+   "desc": "Hongkonské kluby najvyššej Hong Kong Premier League",
    "order": 9,
    "slug": "hongkong",
    "name_en": "Hong Kong",
-   "slug_en": "hong-kong"
+   "slug_en": "hong-kong",
+   "desc_en": "Hong Kong clubs of the top-flight Premier League"
   },
   {
    "id": "f_fut_klu_az_mac",
@@ -94056,11 +94270,12 @@
    "type": "folder",
    "icon": "es",
    "name": "Španielsko",
-   "desc": "",
+   "desc": "Španielske kluby ACB, druhej Primera FEB a ženskej Liga Femenina",
    "order": 0,
    "slug": "spanielsko",
    "name_en": "Spain",
-   "slug_en": "spain"
+   "slug_en": "spain",
+   "desc_en": "Spanish clubs of the ACB, the second-tier Primera FEB and the women's Liga Femenina"
   },
   {
    "id": "f_bas_esp_l1",
@@ -94094,11 +94309,12 @@
    "type": "folder",
    "icon": "de",
    "name": "Nemecko",
-   "desc": "",
+   "desc": "Nemecké kluby Basketball Bundesligy, druhej ProA a ženskej DBBL",
    "order": 1,
    "slug": "nemecko",
    "name_en": "Germany",
-   "slug_en": "germany"
+   "slug_en": "germany",
+   "desc_en": "German clubs of the Basketball Bundesliga, the second-tier ProA and the women's DBBL"
   },
   {
    "id": "f_bas_ger_l1",
@@ -94132,11 +94348,12 @@
    "type": "folder",
    "icon": "it",
    "name": "Taliansko",
-   "desc": "",
+   "desc": "Talianske kluby Serie A, druhej Serie A2 a ženskej Serie A1",
    "order": 2,
    "slug": "taliansko",
    "name_en": "Italy",
-   "slug_en": "italy"
+   "slug_en": "italy",
+   "desc_en": "Italian clubs of Serie A, the second-tier Serie A2 and the women's Serie A1"
   },
   {
    "id": "f_bas_ita_l1",
@@ -94170,11 +94387,12 @@
    "type": "folder",
    "icon": "fr",
    "name": "Francúzsko",
-   "desc": "",
+   "desc": "Francúzske kluby Betclic ÉLITE, druhej Élite 2 a ženskej Wonderligue",
    "order": 3,
    "slug": "francuzsko",
    "name_en": "France",
-   "slug_en": "france"
+   "slug_en": "france",
+   "desc_en": "French clubs of the Betclic ÉLITE, the second-tier Élite 2 and the women's Wonderligue"
   },
   {
    "id": "f_bas_fra_l1",
@@ -94208,11 +94426,12 @@
    "type": "folder",
    "icon": "al",
    "name": "Albánsko",
-   "desc": "",
+   "desc": "Albánske kluby najvyššej basketbalovej Superligy",
    "order": 4,
    "slug": "albansko",
    "name_en": "Albania",
-   "slug_en": "albania"
+   "slug_en": "albania",
+   "desc_en": "Albanian clubs of the top-flight basketball Superliga"
   },
   {
    "id": "f_bas_klu_eu_arm",
@@ -94220,11 +94439,12 @@
    "type": "folder",
    "icon": "am",
    "name": "Arménsko",
-   "desc": "",
+   "desc": "Arménske kluby najvyššej domácej basketbalovej súťaže",
    "order": 5,
    "slug": "armensko",
    "name_en": "Armenia",
-   "slug_en": "armenia"
+   "slug_en": "armenia",
+   "desc_en": "Armenian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_aze",
@@ -94232,11 +94452,12 @@
    "type": "folder",
    "icon": "az",
    "name": "Azerbajdžán",
-   "desc": "",
+   "desc": "Azerbajdžanské kluby najvyššej Azerbaijan Basketball League",
    "order": 6,
    "slug": "azerbajdzan",
    "name_en": "Azerbaijan",
-   "slug_en": "azerbaijan"
+   "slug_en": "azerbaijan",
+   "desc_en": "Azerbaijani clubs of the top-flight Azerbaijan Basketball League"
   },
   {
    "id": "f_bas_klu_eu_bel",
@@ -94244,11 +94465,12 @@
    "type": "folder",
    "icon": "be",
    "name": "Belgicko",
-   "desc": "",
+   "desc": "Belgické kluby spoločnej belgicko-holandskej BNXT League a ženskej Top Division",
    "order": 7,
    "slug": "belgicko",
    "name_en": "Belgium",
-   "slug_en": "belgium"
+   "slug_en": "belgium",
+   "desc_en": "Belgian clubs of the joint Belgian-Dutch BNXT League and the women's Top Division"
   },
   {
    "id": "f_bas_klu_eu_blr",
@@ -94256,11 +94478,12 @@
    "type": "folder",
    "icon": "by",
    "name": "Bielorusko",
-   "desc": "",
+   "desc": "Bieloruské kluby najvyššej domácej basketbalovej súťaže",
    "order": 8,
    "slug": "bielorusko",
    "name_en": "Belarus",
-   "slug_en": "belarus"
+   "slug_en": "belarus",
+   "desc_en": "Belarusian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_bih",
@@ -94268,11 +94491,12 @@
    "type": "folder",
    "icon": "ba",
    "name": "Bosna a Hercegovina",
-   "desc": "",
+   "desc": "Bosnianske kluby najvyššej basketbalovej súťaže",
    "order": 9,
    "slug": "bosna-a-hercegovina",
    "name_en": "Bosnia and Herzegovina",
-   "slug_en": "bosnia-and-herzegovina"
+   "slug_en": "bosnia-and-herzegovina",
+   "desc_en": "Bosnian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_bul",
@@ -94280,11 +94504,12 @@
    "type": "folder",
    "icon": "bg",
    "name": "Bulharsko",
-   "desc": "",
+   "desc": "Bulharské kluby najvyššej basketbalovej ligy NBL",
    "order": 10,
    "slug": "bulharsko",
    "name_en": "Bulgaria",
-   "slug_en": "bulgaria"
+   "slug_en": "bulgaria",
+   "desc_en": "Bulgarian clubs of the top-flight NBL"
   },
   {
    "id": "f_bas_klu_eu_cyp",
@@ -94292,11 +94517,12 @@
    "type": "folder",
    "icon": "cy",
    "name": "Cyprus",
-   "desc": "",
+   "desc": "Cyperské kluby najvyššej basketbalovej Division A",
    "order": 11,
    "slug": "cyprus",
    "name_en": "Cyprus",
-   "slug_en": "cyprus"
+   "slug_en": "cyprus",
+   "desc_en": "Cypriot clubs of the top-flight basketball Division A"
   },
   {
    "id": "f_bas_klu_eu_cze",
@@ -94304,11 +94530,12 @@
    "type": "folder",
    "icon": "cz",
    "name": "Česko",
-   "desc": "",
+   "desc": "České kluby mužskej NBL a ženskej ŽBL",
    "order": 12,
    "slug": "ceska-republika",
    "name_en": "Czechia",
-   "slug_en": "czech-republic"
+   "slug_en": "czech-republic",
+   "desc_en": "Czech clubs of the men's NBL and the women's ŽBL"
   },
   {
    "id": "f_bas_klu_eu_mne",
@@ -94316,11 +94543,12 @@
    "type": "folder",
    "icon": "me",
    "name": "Čierna Hora",
-   "desc": "",
+   "desc": "Čiernohorské kluby najvyššej basketbalovej Prva A ligy",
    "order": 13,
    "slug": "cierna-hora",
    "name_en": "Montenegro",
-   "slug_en": "montenegro"
+   "slug_en": "montenegro",
+   "desc_en": "Montenegrin clubs of the top-flight Prva A liga"
   },
   {
    "id": "f_bas_klu_eu_den",
@@ -94328,11 +94556,12 @@
    "type": "folder",
    "icon": "dk",
    "name": "Dánsko",
-   "desc": "",
+   "desc": "Dánske kluby najvyššej súťaže Basketligaen",
    "order": 14,
    "slug": "dansko",
    "name_en": "Denmark",
-   "slug_en": "denmark"
+   "slug_en": "denmark",
+   "desc_en": "Danish clubs of the top-flight Basketligaen"
   },
   {
    "id": "f_bas_klu_eu_est",
@@ -94340,11 +94569,12 @@
    "type": "folder",
    "icon": "ee",
    "name": "Estónsko",
-   "desc": "",
+   "desc": "Estónske kluby spoločnej estónsko-lotyšskej basketbalovej ligy",
    "order": 15,
    "slug": "estonsko",
    "name_en": "Estonia",
-   "slug_en": "estonia"
+   "slug_en": "estonia",
+   "desc_en": "Estonian clubs of the joint Estonian–Latvian basketball league"
   },
   {
    "id": "f_bas_klu_eu_fin",
@@ -94352,11 +94582,12 @@
    "type": "folder",
    "icon": "fi",
    "name": "Fínsko",
-   "desc": "",
+   "desc": "Fínske kluby najvyššej súťaže Korisliiga",
    "order": 16,
    "slug": "finsko",
    "name_en": "Finland",
-   "slug_en": "finland"
+   "slug_en": "finland",
+   "desc_en": "Finnish clubs of the top-flight Korisliiga"
   },
   {
    "id": "f_bas_klu_eu_gre",
@@ -94364,11 +94595,12 @@
    "type": "folder",
    "icon": "gr",
    "name": "Grécko",
-   "desc": "",
+   "desc": "Grécke kluby mužskej A1 (Basket League) a ženskej A1",
    "order": 17,
    "slug": "grecko",
    "name_en": "Greece",
-   "slug_en": "greece"
+   "slug_en": "greece",
+   "desc_en": "Greek clubs of the men's A1 (Basket League) and the women's A1"
   },
   {
    "id": "f_bas_klu_eu_geo",
@@ -94376,11 +94608,12 @@
    "type": "folder",
    "icon": "ge",
    "name": "Gruzínsko",
-   "desc": "",
+   "desc": "Gruzínske kluby najvyššej basketbalovej Superligy",
    "order": 18,
    "slug": "gruzinsko",
    "name_en": "Georgia",
-   "slug_en": "georgia"
+   "slug_en": "georgia",
+   "desc_en": "Georgian clubs of the top-flight basketball Superliga"
   },
   {
    "id": "f_bas_klu_eu_ned",
@@ -94388,11 +94621,12 @@
    "type": "folder",
    "icon": "nl",
    "name": "Holandsko",
-   "desc": "",
+   "desc": "Holandské kluby spoločnej belgicko-holandskej BNXT League",
    "order": 19,
    "slug": "holandsko",
    "name_en": "Netherlands",
-   "slug_en": "netherlands"
+   "slug_en": "netherlands",
+   "desc_en": "Dutch clubs of the joint Belgian-Dutch BNXT League"
   },
   {
    "id": "f_bas_klu_eu_cro",
@@ -94400,11 +94634,12 @@
    "type": "folder",
    "icon": "hr",
    "name": "Chorvátsko",
-   "desc": "",
+   "desc": "Chorvátske kluby najvyššej Premijer ligy",
    "order": 20,
    "slug": "chorvatsko",
    "name_en": "Croatia",
-   "slug_en": "croatia"
+   "slug_en": "croatia",
+   "desc_en": "Croatian clubs of the top-flight Premijer liga"
   },
   {
    "id": "f_bas_klu_eu_irl",
@@ -94412,11 +94647,12 @@
    "type": "folder",
    "icon": "ie",
    "name": "Írsko",
-   "desc": "",
+   "desc": "Írske kluby najvyššej basketbalovej Super League",
    "order": 21,
    "slug": "irsko",
    "name_en": "Ireland",
-   "slug_en": "ireland"
+   "slug_en": "ireland",
+   "desc_en": "Irish clubs of the top-flight basketball Super League"
   },
   {
    "id": "f_bas_klu_eu_isl",
@@ -94424,11 +94660,12 @@
    "type": "folder",
    "icon": "is",
    "name": "Island",
-   "desc": "",
+   "desc": "Islandské kluby najvyššej súťaže Úrvalsdeild",
    "order": 22,
    "slug": "island",
    "name_en": "Iceland",
-   "slug_en": "iceland"
+   "slug_en": "iceland",
+   "desc_en": "Icelandic clubs of the top-flight Úrvalsdeild"
   },
   {
    "id": "f_bas_klu_eu_isr",
@@ -94436,11 +94673,12 @@
    "type": "folder",
    "icon": "il",
    "name": "Izrael",
-   "desc": "",
+   "desc": "Izraelské kluby najvyššej ligy Ligat Winner",
    "order": 23,
    "slug": "izrael",
    "name_en": "Israel",
-   "slug_en": "israel"
+   "slug_en": "israel",
+   "desc_en": "Israeli clubs of the top-flight Ligat Winner"
   },
   {
    "id": "f_bas_klu_eu_kos",
@@ -94448,11 +94686,12 @@
    "type": "folder",
    "icon": "xk",
    "name": "Kosovo",
-   "desc": "",
+   "desc": "Kosovské kluby najvyššej basketbalovej Superligy",
    "order": 24,
    "slug": "kosovo",
    "name_en": "Kosovo",
-   "slug_en": "kosovo"
+   "slug_en": "kosovo",
+   "desc_en": "Kosovar clubs of the top-flight basketball Superliga"
   },
   {
    "id": "f_bas_klu_eu_ltu",
@@ -94460,11 +94699,12 @@
    "type": "folder",
    "icon": "lt",
    "name": "Litva",
-   "desc": "",
+   "desc": "Litovské kluby mužskej LKL a ženskej LMKL",
    "order": 25,
    "slug": "litva",
    "name_en": "Lithuania",
-   "slug_en": "lithuania"
+   "slug_en": "lithuania",
+   "desc_en": "Lithuanian clubs of the men's LKL and the women's LMKL"
   },
   {
    "id": "f_bas_klu_eu_lat",
@@ -94472,11 +94712,12 @@
    "type": "folder",
    "icon": "lv",
    "name": "Lotyšsko",
-   "desc": "",
+   "desc": "Lotyšské kluby spoločnej lotyšsko-estónskej basketbalovej ligy",
    "order": 26,
    "slug": "lotyssko",
    "name_en": "Latvia",
-   "slug_en": "latvia"
+   "slug_en": "latvia",
+   "desc_en": "Latvian clubs of the joint Latvian–Estonian basketball league"
   },
   {
    "id": "f_bas_klu_eu_lux",
@@ -94484,11 +94725,12 @@
    "type": "folder",
    "icon": "lu",
    "name": "Luxembursko",
-   "desc": "",
+   "desc": "Luxemburské kluby najvyššej domácej basketbalovej súťaže",
    "order": 27,
    "slug": "luxembursko",
    "name_en": "Luxembourg",
-   "slug_en": "luxembourg"
+   "slug_en": "luxembourg",
+   "desc_en": "Luxembourg clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_hun",
@@ -94496,11 +94738,12 @@
    "type": "folder",
    "icon": "hu",
    "name": "Maďarsko",
-   "desc": "",
+   "desc": "Maďarské kluby mužskej aj ženskej NB I/A",
    "order": 28,
    "slug": "madarsko",
    "name_en": "Hungary",
-   "slug_en": "hungary"
+   "slug_en": "hungary",
+   "desc_en": "Hungarian clubs of both the men's and women's NB I/A"
   },
   {
    "id": "f_bas_klu_eu_mlt",
@@ -94508,11 +94751,12 @@
    "type": "folder",
    "icon": "mt",
    "name": "Malta",
-   "desc": "",
+   "desc": "Maltské kluby najvyššej domácej basketbalovej súťaže",
    "order": 29,
    "slug": "malta",
    "name_en": "Malta",
-   "slug_en": "malta"
+   "slug_en": "malta",
+   "desc_en": "Maltese clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_mda",
@@ -94520,11 +94764,12 @@
    "type": "folder",
    "icon": "md",
    "name": "Moldavsko",
-   "desc": "",
+   "desc": "Moldavské kluby najvyššej domácej basketbalovej súťaže",
    "order": 30,
    "slug": "moldavsko",
    "name_en": "Moldova",
-   "slug_en": "moldova"
+   "slug_en": "moldova",
+   "desc_en": "Moldovan clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_nor",
@@ -94532,11 +94777,12 @@
    "type": "folder",
    "icon": "no",
    "name": "Nórsko",
-   "desc": "",
+   "desc": "Nórske kluby najvyššej ligy BLNO",
    "order": 31,
    "slug": "norsko",
    "name_en": "Norway",
-   "slug_en": "norway"
+   "slug_en": "norway",
+   "desc_en": "Norwegian clubs of the top-flight BLNO"
   },
   {
    "id": "f_bas_klu_eu_pol",
@@ -94544,11 +94790,12 @@
    "type": "folder",
    "icon": "pl",
    "name": "Poľsko",
-   "desc": "",
+   "desc": "Poľské kluby mužskej PLK a ženskej Basket Liga Kobiet",
    "order": 32,
    "slug": "polsko",
    "name_en": "Poland",
-   "slug_en": "poland"
+   "slug_en": "poland",
+   "desc_en": "Polish clubs of the men's PLK and the women's Basket Liga Kobiet"
   },
   {
    "id": "f_bas_klu_eu_por",
@@ -94556,11 +94803,12 @@
    "type": "folder",
    "icon": "pt",
    "name": "Portugalsko",
-   "desc": "",
+   "desc": "Portugalské kluby najvyššej Liga Portuguesa de Basquetebol",
    "order": 33,
    "slug": "portugalsko",
    "name_en": "Portugal",
-   "slug_en": "portugal"
+   "slug_en": "portugal",
+   "desc_en": "Portuguese clubs of the top-flight Liga Portuguesa de Basquetebol"
   },
   {
    "id": "f_bas_klu_eu_aut",
@@ -94568,11 +94816,12 @@
    "type": "folder",
    "icon": "at",
    "name": "Rakúsko",
-   "desc": "",
+   "desc": "Rakúske kluby najvyššej basketbalovej Superligy",
    "order": 34,
    "slug": "rakusko",
    "name_en": "Austria",
-   "slug_en": "austria"
+   "slug_en": "austria",
+   "desc_en": "Austrian clubs of the top-flight basketball Superliga"
   },
   {
    "id": "f_bas_klu_eu_rou",
@@ -94580,11 +94829,12 @@
    "type": "folder",
    "icon": "ro",
    "name": "Rumunsko",
-   "desc": "",
+   "desc": "Rumunské kluby mužskej aj ženskej Liga Națională",
    "order": 35,
    "slug": "rumunsko",
    "name_en": "Romania",
-   "slug_en": "romania"
+   "slug_en": "romania",
+   "desc_en": "Romanian clubs of both the men's and women's Liga Națională"
   },
   {
    "id": "f_bas_klu_eu_rus",
@@ -94592,11 +94842,12 @@
    "type": "folder",
    "icon": "ru",
    "name": "Rusko",
-   "desc": "",
+   "desc": "Ruské kluby hrajúce nadnárodnú VTB United League",
    "order": 36,
    "slug": "rusko",
    "name_en": "Russia",
-   "slug_en": "russia"
+   "slug_en": "russia",
+   "desc_en": "Russian clubs playing in the transnational VTB United League"
   },
   {
    "id": "f_bas_klu_eu_mkd",
@@ -94604,11 +94855,12 @@
    "type": "folder",
    "icon": "mk",
    "name": "Severné Macedónsko",
-   "desc": "",
+   "desc": "Severomacedónske kluby najvyššej basketbalovej Prvej ligy",
    "order": 37,
    "slug": "macedonsko",
    "name_en": "North Macedonia",
-   "slug_en": "north-macedonia"
+   "slug_en": "north-macedonia",
+   "desc_en": "North Macedonian clubs of the top-flight Prva liga"
   },
   {
    "id": "f_bas_klu_eu_svk",
@@ -94616,11 +94868,12 @@
    "type": "folder",
    "icon": "sk",
    "name": "Slovensko",
-   "desc": "",
+   "desc": "Slovenské kluby najvyššej Slovenskej basketbalovej ligy",
    "order": 38,
    "slug": "slovensko",
    "name_en": "Slovakia",
-   "slug_en": "slovakia"
+   "slug_en": "slovakia",
+   "desc_en": "Slovak clubs of the top-flight Slovak Basketball League"
   },
   {
    "id": "f_bas_klu_eu_slo",
@@ -94628,11 +94881,12 @@
    "type": "folder",
    "icon": "si",
    "name": "Slovinsko",
-   "desc": "",
+   "desc": "Slovinské kluby najvyššej domácej basketbalovej ligy",
    "order": 39,
    "slug": "slovinsko",
    "name_en": "Slovenia",
-   "slug_en": "slovenia"
+   "slug_en": "slovenia",
+   "desc_en": "Slovenian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_eu_srb",
@@ -94640,11 +94894,12 @@
    "type": "folder",
    "icon": "rs",
    "name": "Srbsko",
-   "desc": "",
+   "desc": "Srbské kluby mužskej KLS a ženskej 1. ŽLS",
    "order": 40,
    "slug": "srbsko",
    "name_en": "Serbia",
-   "slug_en": "serbia"
+   "slug_en": "serbia",
+   "desc_en": "Serbian clubs of the men's KLS and the women's 1. ŽLS"
   },
   {
    "id": "f_bas_klu_eu_sui",
@@ -94652,11 +94907,12 @@
    "type": "folder",
    "icon": "ch",
    "name": "Švajčiarsko",
-   "desc": "",
+   "desc": "Švajčiarske kluby najvyššej Swiss Basketball League",
    "order": 41,
    "slug": "svajciarsko",
    "name_en": "Switzerland",
-   "slug_en": "switzerland"
+   "slug_en": "switzerland",
+   "desc_en": "Swiss clubs of the top-flight Swiss Basketball League"
   },
   {
    "id": "f_bas_klu_eu_swe",
@@ -94664,11 +94920,12 @@
    "type": "folder",
    "icon": "se",
    "name": "Švédsko",
-   "desc": "",
+   "desc": "Švédske kluby najvyššej súťaže Basketligan",
    "order": 42,
    "slug": "svedsko",
    "name_en": "Sweden",
-   "slug_en": "sweden"
+   "slug_en": "sweden",
+   "desc_en": "Swedish clubs of the top-flight Basketligan"
   },
   {
    "id": "f_bas_klu_eu_tur",
@@ -94676,11 +94933,12 @@
    "type": "folder",
    "icon": "tr",
    "name": "Turecko",
-   "desc": "",
+   "desc": "Turecké kluby mužskej Basketbol Süper Ligi a ženskej Kadınlar Süper Ligi",
    "order": 43,
    "slug": "turecko",
    "name_en": "Turkey",
-   "slug_en": "turkey"
+   "slug_en": "turkey",
+   "desc_en": "Turkish clubs of the men's Basketbol Süper Ligi and the women's Kadınlar Süper Ligi"
   },
   {
    "id": "f_bas_klu_eu_ukr",
@@ -94688,11 +94946,12 @@
    "type": "folder",
    "icon": "ua",
    "name": "Ukrajina",
-   "desc": "",
+   "desc": "Ukrajinské kluby najvyššej basketbalovej Superligy",
    "order": 44,
    "slug": "ukrajina",
    "name_en": "Ukraine",
-   "slug_en": "ukraine"
+   "slug_en": "ukraine",
+   "desc_en": "Ukrainian clubs of the top-flight basketball Superleague"
   },
   {
    "id": "f_bas_klu_eu_gbr",
@@ -94700,11 +94959,12 @@
    "type": "folder",
    "icon": "gb",
    "name": "Veľká Británia",
-   "desc": "",
+   "desc": "Britské kluby najvyššej Super League Basketball",
    "order": 45,
    "slug": "velka-britania",
    "name_en": "Great Britain",
-   "slug_en": "great-britain"
+   "slug_en": "great-britain",
+   "desc_en": "British clubs of the top-flight Super League Basketball"
   },
   {
    "id": "f_bas_esp_l1_k1",
@@ -102891,11 +103151,11 @@
    "type": "folder",
    "icon": "ro",
    "name": "Liga Națională",
-   "desc": "Najvyššia rumunská mužská basketbalová súťaž, aktuálnym majstrom je U-BT Cluj-Napoca.",
+   "desc": "Najvyššia rumunská mužská basketbalová súťaž — 16 tímov na čele s U-BT Cluj-Napoca.",
    "order": 0,
    "slug": "liga-nationala",
    "name_en": "Liga Națională",
-   "desc_en": "Romania's top men's basketball league, with U-BT Cluj-Napoca the reigning champion.",
+   "desc_en": "Romania's top men's basketball league — 16 teams led by U-BT Cluj-Napoca.",
    "slug_en": "liga-nationala"
   },
   {
@@ -106768,11 +107028,12 @@
    "type": "folder",
    "icon": "ar",
    "name": "Argentína",
-   "desc": "",
+   "desc": "Argentínske kluby najvyššej Liga Nacional de Básquet",
    "order": 0,
    "slug": "argentina",
    "name_en": "Argentina",
-   "slug_en": "argentina"
+   "slug_en": "argentina",
+   "desc_en": "Argentine clubs of the top-flight Liga Nacional de Básquet"
   },
   {
    "id": "f_bas_klu_ja_bol",
@@ -106780,11 +107041,12 @@
    "type": "folder",
    "icon": "bo",
    "name": "Bolívia",
-   "desc": "",
+   "desc": "Bolívijské kluby najvyššej súťaže Libobasquet",
    "order": 1,
    "slug": "bolivia",
    "name_en": "Bolivia",
-   "slug_en": "bolivia"
+   "slug_en": "bolivia",
+   "desc_en": "Bolivian clubs of the top-flight Libobasquet"
   },
   {
    "id": "f_bas_klu_ja_bra",
@@ -106792,11 +107054,12 @@
    "type": "folder",
    "icon": "br",
    "name": "Brazília",
-   "desc": "",
+   "desc": "Brazílske kluby najvyššej ligy NBB",
    "order": 2,
    "slug": "brazilia",
    "name_en": "Brazil",
-   "slug_en": "brazil"
+   "slug_en": "brazil",
+   "desc_en": "Brazilian clubs of the top-flight NBB"
   },
   {
    "id": "f_bas_klu_ja_chi",
@@ -106804,11 +107067,12 @@
    "type": "folder",
    "icon": "cl",
    "name": "Chile",
-   "desc": "",
+   "desc": "Čilské kluby najvyššej Liga Nacional de Básquetbol",
    "order": 3,
    "slug": "chile",
    "name_en": "Chile",
-   "slug_en": "chile"
+   "slug_en": "chile",
+   "desc_en": "Chilean clubs of the top-flight Liga Nacional de Básquetbol"
   },
   {
    "id": "f_bas_klu_ja_ecu",
@@ -106816,11 +107080,12 @@
    "type": "folder",
    "icon": "ec",
    "name": "Ekvádor",
-   "desc": "",
+   "desc": "Ekvádorské kluby najvyššej domácej basketbalovej súťaže",
    "order": 4,
    "slug": "ekvador",
    "name_en": "Ecuador",
-   "slug_en": "ecuador"
+   "slug_en": "ecuador",
+   "desc_en": "Ecuadorian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_ja_col",
@@ -106828,11 +107093,12 @@
    "type": "folder",
    "icon": "co",
    "name": "Kolumbia",
-   "desc": "",
+   "desc": "Kolumbijské kluby najvyššej profesionálnej basketbalovej ligy",
    "order": 5,
    "slug": "kolumbia",
    "name_en": "Colombia",
-   "slug_en": "colombia"
+   "slug_en": "colombia",
+   "desc_en": "Colombian clubs of the country's top professional basketball league"
   },
   {
    "id": "f_bas_klu_ja_par",
@@ -106840,11 +107106,12 @@
    "type": "folder",
    "icon": "py",
    "name": "Paraguaj",
-   "desc": "",
+   "desc": "Paraguajské kluby najvyššej domácej basketbalovej súťaže",
    "order": 6,
    "slug": "paraguaj",
    "name_en": "Paraguay",
-   "slug_en": "paraguay"
+   "slug_en": "paraguay",
+   "desc_en": "Paraguayan clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_ja_per",
@@ -106852,11 +107119,12 @@
    "type": "folder",
    "icon": "pe",
    "name": "Peru",
-   "desc": "",
+   "desc": "Peruánske kluby najvyššej domácej basketbalovej súťaže",
    "order": 7,
    "slug": "peru",
    "name_en": "Peru",
-   "slug_en": "peru"
+   "slug_en": "peru",
+   "desc_en": "Peruvian clubs of the country's top basketball division"
   },
   {
    "id": "f_bas_klu_ja_uru",
@@ -106864,11 +107132,12 @@
    "type": "folder",
    "icon": "uy",
    "name": "Uruguaj",
-   "desc": "",
+   "desc": "Uruguajské kluby najvyššej Liga Uruguaya de Básquetbol",
    "order": 8,
    "slug": "uruguaj",
    "name_en": "Uruguay",
-   "slug_en": "uruguay"
+   "slug_en": "uruguay",
+   "desc_en": "Uruguayan clubs of the top-flight Liga Uruguaya de Básquetbol"
   },
   {
    "id": "f_bas_klu_ja_ven",
@@ -106876,11 +107145,12 @@
    "type": "folder",
    "icon": "ve",
    "name": "Venezuela",
-   "desc": "",
+   "desc": "Venezuelské kluby najvyššej Superliga Profesional de Baloncesto",
    "order": 9,
    "slug": "venezuela",
    "name_en": "Venezuela",
-   "slug_en": "venezuela"
+   "slug_en": "venezuela",
+   "desc_en": "Venezuelan clubs of the top-flight Superliga Profesional de Baloncesto"
   },
   {
    "id": "f_bas_klu_ja_arg_k1",
@@ -109605,8 +109875,8 @@
    "icon": "id",
    "name": "Indonézia",
    "name_en": "Indonesia",
-   "desc": "",
-   "desc_en": "",
+   "desc": "Indonézske kluby najvyššej ligy IBL",
+   "desc_en": "Indonesian clubs of the top-flight IBL",
    "order": 4,
    "slug": "indonezia",
    "slug_en": "indonesia"
@@ -109618,8 +109888,8 @@
    "icon": "ph",
    "name": "Filipíny",
    "name_en": "Philippines",
-   "desc": "",
-   "desc_en": "",
+   "desc": "Filipínske kluby profesionálnej ligy PBA, najstaršej v Ázii",
+   "desc_en": "Filipino clubs of the PBA, Asia's oldest professional league",
    "order": 5,
    "slug": "filipiny",
    "slug_en": "philippines"
@@ -109631,8 +109901,8 @@
    "icon": "hk",
    "name": "Hongkong",
    "name_en": "Hong Kong",
-   "desc": "",
-   "desc_en": "",
+   "desc": "Hongkonské kluby najvyššej divízie A1",
+   "desc_en": "Hong Kong clubs of the top-flight A1 Division",
    "order": 6,
    "slug": "hongkong",
    "slug_en": "hong-kong"
@@ -109644,8 +109914,8 @@
    "icon": "in",
    "name": "India",
    "name_en": "India",
-   "desc": "",
-   "desc_en": "",
+   "desc": "Indické kluby najvyššej domácej basketbalovej súťaže",
+   "desc_en": "Indian clubs of the country's top basketball division",
    "order": 7,
    "slug": "india",
    "slug_en": "india"
