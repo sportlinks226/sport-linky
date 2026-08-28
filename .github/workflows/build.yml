@@ -1,5 +1,8 @@
 # GitHub Actions: pri každej zmene v repozitári vygeneruje SEO stránky
 # a nasadí web na GitHub Pages.
+# Denný rebuild (cron): statické stránky sa každé ráno prestavajú z existujúceho
+# data.json — expirované Aktuálne/Live This Week udalosti vypadnú a dátum
+# v titulkoch sa obnoví aj bez nahrávania nových dát. Verziu dát to NEMENÍ.
 # UMIESTNENIE V REPOZITÁRI: .github/workflows/build.yml
 
 name: Build & Deploy
@@ -7,6 +10,8 @@ name: Build & Deploy
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "30 2 * * *"   # denne 2:30 UTC — pred denným buildom EN webu (3:00)
   workflow_dispatch:
 
 permissions:
@@ -34,18 +39,4 @@ jobs:
       - name: Vygeneruj SEO stránky
         run: python generator.py --out _site
         env:
-          BASE_URL: ${{ steps.pages.outputs.base_url }}
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/deploy-pages@v4
-        id: deployment
+          BASE_URL: ${{ steps.pages.o
