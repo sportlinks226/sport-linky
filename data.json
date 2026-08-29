@@ -1,5 +1,5 @@
 {
- "version": 222,
+ "version": 224,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -1650,11 +1650,12 @@
    "type": "folder",
    "icon": "li",
    "name": "Lichtenštajnsko",
-   "desc": "",
+   "desc": "Lichtenštajnsko nemá vlastnú ligu — kluby hrajú vo švajčiarskych súťažiach",
    "order": 24,
    "slug": "lichtenstajnsko",
    "name_en": "Liechtenstein",
-   "slug_en": "liechtenstein"
+   "slug_en": "liechtenstein",
+   "desc_en": "Liechtenstein has no league of its own — its clubs play in Swiss competitions"
   },
   {
    "id": "f_fut_klu_eu_ltu",
@@ -2169,11 +2170,12 @@
    "type": "folder",
    "icon": "er",
    "name": "Eritrea",
-   "desc": "",
+   "desc": "Eritrejský futbal riadi federácia ENFF — najvyššou súťažou je Eritrean Premier League",
    "order": 9,
    "slug": "eritrea",
    "slug_en": "eritrea",
-   "name_en": "Eritrea"
+   "name_en": "Eritrea",
+   "desc_en": "Eritrean football is run by the ENFF — the Eritrean Premier League is the top competition"
   },
   {
    "id": "f_fut_klu_af_eth",
@@ -2272,11 +2274,12 @@
    "type": "folder",
    "icon": "ss",
    "name": "Južný Sudán",
-   "desc": "",
+   "desc": "Juhosudánsky futbal riadi federácia SSFF — najvyššou súťažou je South Sudan Premier League",
    "order": 17,
    "slug": "juzny-sudan",
    "name_en": "South Sudan",
-   "slug_en": "south-sudan"
+   "slug_en": "south-sudan",
+   "desc_en": "South Sudanese football is run by the SSFF — the South Sudan Premier League is the top competition"
   },
   {
    "id": "f_fut_klu_af_cmr",
@@ -2622,11 +2625,12 @@
    "type": "folder",
    "icon": "cf",
    "name": "Stredoafrická rep.",
-   "desc": "",
+   "desc": "Najvyššia stredoafrická súťaž Super Ligue",
    "order": 44,
    "slug": "stredoafricka-rep",
    "name_en": "Central African Rep.",
-   "slug_en": "central-african-rep"
+   "slug_en": "central-african-rep",
+   "desc_en": "The top Central African division, the Super Ligue"
   },
   {
    "id": "f_fut_klu_af_sdn",
@@ -2751,11 +2755,12 @@
    "type": "folder",
    "icon": "af",
    "name": "Afganistan",
-   "desc": "",
+   "desc": "Afganský futbal riadi federácia AFF — najvyššou súťažou je Afghanistan Champions League",
    "order": 0,
    "slug": "afganistan",
    "name_en": "Afghanistan",
-   "slug_en": "afghanistan"
+   "slug_en": "afghanistan",
+   "desc_en": "Afghan football is run by the AFF — the Afghanistan Champions League is the top competition"
   },
   {
    "id": "f_fut_klu_az_bhr",
@@ -2958,11 +2963,12 @@
    "type": "folder",
    "icon": "kp",
    "name": "Severná Kórea",
-   "desc": "",
+   "desc": "Severokórejský futbal riadi asociácia KĽDR — najvyššou súťažou je DPR Korea Premier Football League",
    "order": 19,
    "slug": "severna-korea",
    "name_en": "North Korea",
-   "slug_en": "north-korea"
+   "slug_en": "north-korea",
+   "desc_en": "North Korean football is run by the DPR Korea FA — the DPR Korea Premier Football League is the top competition"
   },
   {
    "id": "f_fut_klu_az_kor",
@@ -3074,11 +3080,12 @@
    "type": "folder",
    "icon": "np",
    "name": "Nepál",
-   "desc": "",
+   "desc": "Nepálsky futbal riadi asociácia ANFA — najvyššou súťažou je A-Division League",
    "order": 29,
    "slug": "nepal",
    "name_en": "Nepal",
-   "slug_en": "nepal"
+   "slug_en": "nepal",
+   "desc_en": "Nepali football is run by the ANFA — the A-Division League is the top competition"
   },
   {
    "id": "f_fut_klu_az_omn",
@@ -3099,11 +3106,12 @@
    "type": "folder",
    "icon": "pk",
    "name": "Pakistan",
-   "desc": "",
+   "desc": "Pakistanský futbal riadi federácia PFF — celoštátna najvyššia liga sa momentálne nehrá",
    "order": 31,
    "slug": "pakistan",
    "name_en": "Pakistan",
-   "slug_en": "pakistan"
+   "slug_en": "pakistan",
+   "desc_en": "Pakistani football is run by the PFF — the national top league is currently not being played"
   },
   {
    "id": "f_fut_klu_az_pse",
@@ -3111,11 +3119,12 @@
    "type": "folder",
    "icon": "ps",
    "name": "Palestína",
-   "desc": "",
+   "desc": "Najvyššia palestínska súťaž West Bank Premier League",
    "order": 32,
    "slug": "palestina",
    "name_en": "Palestine",
-   "slug_en": "palestine"
+   "slug_en": "palestine",
+   "desc_en": "The top Palestinian division, the West Bank Premier League"
   },
   {
    "id": "f_fut_klu_az_sau",
@@ -3214,11 +3223,12 @@
    "type": "folder",
    "icon": "tm",
    "name": "Turkménsko",
-   "desc": "",
+   "desc": "Najvyššia turkménska súťaž Ýokary Liga s ôsmimi klubmi",
    "order": 41,
    "slug": "turkmensko",
    "name_en": "Turkmenistan",
-   "slug_en": "turkmenistan"
+   "slug_en": "turkmenistan",
+   "desc_en": "The top Turkmen division, the Ýokary Liga, with eight clubs"
   },
   {
    "id": "f_fut_klu_az_are",
@@ -24239,11 +24249,11 @@
    "type": "link",
    "icon": "",
    "name": "Turkménsko",
-   "desc": "Profil Turkménskej futbalovej federácie na stránke AFC — federácia nemá vlastný web.",
-   "url": "https://www.the-afc.com/en/central/turkmenistan.html",
+   "desc": "Futbalová federácia Turkménska (TFF) — reprezentácia a Ýokary Liga.",
+   "url": "https://tff.com.tm/",
    "order": 43,
    "name_en": "Turkmenistan",
-   "desc_en": "Turkmenistan Football Federation profile on the AFC website — the federation has no website of its own."
+   "desc_en": "Football Federation of Turkmenistan (TFF) — the national team and the Ýokary Liga."
   },
   {
    "id": "n1784037413218wq5",
@@ -24503,10 +24513,10 @@
    "type": "link",
    "icon": "",
    "name": "Eritrea",
-   "desc": "Profil Eritrejskej futbalovej federácie na stránke CAF — federácia nemá vlastný web.",
-   "url": "https://www.cafonline.com/inside-caf/member-associations/eritrea/",
+   "desc": "Eritrejská národná futbalová federácia (ENFF) — reprezentácia a domáce súťaže.",
+   "url": "https://enff-online.com/",
    "order": 9,
-   "desc_en": "Eritrean Football Federation profile on the CAF website — the federation has no website of its own.",
+   "desc_en": "Eritrean National Football Federation (ENFF) — the national team and domestic competitions.",
    "name_en": "Eritrea"
   },
   {
@@ -90497,11 +90507,12 @@
    "type": "folder",
    "icon": "mo",
    "name": "Macao",
-   "desc": "",
+   "desc": "Najvyššia macajská súťaž Liga de Elite",
    "order": 24,
    "slug": "macao",
    "name_en": "Macau",
-   "slug_en": "macau"
+   "slug_en": "macau",
+   "desc_en": "Macau's top division, the Liga de Elite"
   },
   {
    "id": "f_fut_klu_az_mnp",
@@ -90509,11 +90520,12 @@
    "type": "folder",
    "icon": "mp",
    "name": "Severné Mariány",
-   "desc": "",
+   "desc": "Najvyššia súťaž Severných Marián Marianas Soccer League",
    "order": 34,
    "slug": "severne-mariany",
    "name_en": "Northern Mariana Islands",
-   "slug_en": "northern-mariana-islands"
+   "slug_en": "northern-mariana-islands",
+   "desc_en": "The Northern Mariana Islands' top division, the Marianas Soccer League"
   },
   {
    "id": "f_fro_l1",
@@ -115305,6 +115317,211 @@
    "url": "https://www.tcifootballassociation.com/",
    "order": -1,
    "desc_en": "Official Turks and Caicos Islands Football Association (TCIFA) website — information on the Provo Premier League and other competitions"
+  },
+  {
+   "id": "f_gib_l1_liga",
+   "parentId": "f_gib_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Gibraltar Football League",
+   "desc": "Oficiálna stránka Gibraltar Football League na webe Gibraltárskej futbalovej asociácie (GFA) — tabuľka, program a výsledky",
+   "url": "https://www.gibraltarfa.com/competitions/gibraltar-football-league-26-27-3395567",
+   "order": -1,
+   "desc_en": "Official Gibraltar Football League page on the Gibraltar FA (GFA) website — table, fixtures and results"
+  },
+  {
+   "id": "f_tkm_l1",
+   "parentId": "f_fut_klu_az_tkm",
+   "type": "folder",
+   "icon": "",
+   "name": "Ýokary Liga",
+   "desc": "Najvyššia futbalová súťaž Turkménska — 8 klubov, hrá sa od roku 1992, rekordným šampiónom je Altyn Asyr.",
+   "desc_en": "The top football division of Turkmenistan — 8 clubs, played since 1992, with Altyn Asyr as record champions.",
+   "order": 0,
+   "slug": "yokary-liga"
+  },
+  {
+   "id": "f_tkm_l1_liga",
+   "parentId": "f_tkm_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Ýokary Liga",
+   "desc": "Oficiálna stránka šampionátu na webe Futbalovej federácie Turkménska (TFF) — tabuľka, výsledky a program",
+   "url": "https://tff.com.tm/competitions",
+   "order": -1,
+   "desc_en": "Official championship page on the Football Federation of Turkmenistan (TFF) website — table, results and fixtures"
+  },
+  {
+   "id": "f_mac_l1",
+   "parentId": "f_fut_klu_az_mac",
+   "type": "folder",
+   "icon": "",
+   "name": "Liga de Elite",
+   "desc": "Najvyššia futbalová súťaž Macaa organizovaná Macajskou futbalovou asociáciou — hrá sa od roku 1973.",
+   "desc_en": "The top football division of Macau, organised by the Macau Football Association — played since 1973.",
+   "order": 0,
+   "slug": "liga-de-elite"
+  },
+  {
+   "id": "f_mac_l1_liga",
+   "parentId": "f_mac_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Liga de Elite",
+   "desc": "Oficiálna stránka súťaží na webe Macajskej futbalovej asociácie — tabuľka, program a výsledky ligy",
+   "url": "https://www.macaufa.com/matchinfo",
+   "order": -1,
+   "desc_en": "Official competitions page on the Macau Football Association website — league table, fixtures and results"
+  },
+  {
+   "id": "f_pse_l1",
+   "parentId": "f_fut_klu_az_pse",
+   "type": "folder",
+   "icon": "",
+   "name": "West Bank Premier League",
+   "desc": "Najvyššia palestínska futbalová súťaž na Západnom brehu organizovaná Palestínskou futbalovou asociáciou (PFA).",
+   "desc_en": "The top Palestinian football division in the West Bank, organised by the Palestine Football Association (PFA).",
+   "order": 0,
+   "slug": "west-bank-premier-league"
+  },
+  {
+   "id": "f_pse_l1_liga",
+   "parentId": "f_pse_l1",
+   "type": "link",
+   "icon": "",
+   "name": "West Bank Premier League",
+   "desc": "Oficiálna tabuľka ligy na webe Palestínskej futbalovej asociácie (PFA) — poradie tímov a zápasy",
+   "url": "https://www.pfa.ps/matches/positions",
+   "order": -1,
+   "desc_en": "Official league table on the Palestine Football Association (PFA) website — standings and matches"
+  },
+  {
+   "id": "f_mnp_l1",
+   "parentId": "f_fut_klu_az_mnp",
+   "type": "folder",
+   "icon": "",
+   "name": "Marianas Soccer League",
+   "desc": "Najvyššia futbalová súťaž Severných Marián organizovaná asociáciou NMIFA — hrá sa na ostrove Saipan.",
+   "desc_en": "The top football division of the Northern Mariana Islands, organised by NMIFA — played on the island of Saipan.",
+   "order": 0,
+   "slug": "marianas-soccer-league"
+  },
+  {
+   "id": "f_mnp_l1_liga",
+   "parentId": "f_mnp_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Marianas Soccer League",
+   "desc": "Oficiálna stránka Marianas Soccer League na webe futbalovej asociácie NMIFA — informácie o lige a súťažiach",
+   "url": "https://nmifa.com/mens-league",
+   "order": -1,
+   "desc_en": "Official Marianas Soccer League page on the NMIFA website — league and competition information"
+  },
+  {
+   "id": "f_caf_l1",
+   "parentId": "f_fut_klu_af_caf",
+   "type": "folder",
+   "icon": "",
+   "name": "Super Ligue",
+   "slug": "super-ligue",
+   "order": 0,
+   "desc": "Najvyššia futbalová súťaž Stredoafrickej republiky organizovaná federáciou FCF.",
+   "desc_en": "The top football division of the Central African Republic, organised by the FCF."
+  },
+  {
+   "id": "f_caf_l1_liga",
+   "parentId": "f_caf_l1",
+   "type": "link",
+   "icon": "",
+   "name": "Super Ligue",
+   "order": -1,
+   "url": "https://fcf-officiel.com/les-ligues/",
+   "desc": "Oficiálna stránka Super Ligue na webe Stredoafrickej futbalovej federácie (FCF) — kalendár a výsledky",
+   "desc_en": "Official Super Ligue page on the Central African Football Federation (FCF) website — calendar and results"
+  },
+  {
+   "id": "f_fut_klu_eu_lie_fed",
+   "parentId": "f_fut_klu_eu_lie",
+   "type": "link",
+   "icon": "",
+   "name": "Lichtenštajnský futbalový zväz (LFV)",
+   "name_en": "Liechtenstein Football Association (LFV)",
+   "desc": "Oficiálny web zväzu LFV — reprezentácia a Lichtenštajnský pohár (krajina nemá vlastnú ligu)",
+   "desc_en": "Official LFV website — the national team and the Liechtenstein Cup (the country has no league of its own)",
+   "url": "https://www.lfv.li/",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_af_eri_fed",
+   "parentId": "f_fut_klu_af_eri",
+   "type": "link",
+   "icon": "",
+   "name": "Eritrejská národná futbalová federácia (ENFF)",
+   "name_en": "Eritrean National Football Federation (ENFF)",
+   "desc": "Oficiálny web federácie ENFF — reprezentácia a domáce súťaže",
+   "desc_en": "Official ENFF website — the national team and domestic competitions",
+   "url": "https://enff-online.com/",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_af_ssd_fed",
+   "parentId": "f_fut_klu_af_ssd",
+   "type": "link",
+   "icon": "",
+   "name": "Futbalová federácia Južného Sudánu (SSFF)",
+   "name_en": "South Sudan Football Federation (SSFF)",
+   "desc": "Oficiálny web federácie SSFF — reprezentácia a domáce súťaže",
+   "desc_en": "Official SSFF website — the national team and domestic competitions",
+   "url": "https://ssff.ss/",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_az_afg_fed",
+   "parentId": "f_fut_klu_az_afg",
+   "type": "link",
+   "icon": "",
+   "name": "Afganská futbalová federácia (AFF)",
+   "name_en": "Afghanistan Football Federation (AFF)",
+   "desc": "Oficiálny Facebook federácie AFF — správy o reprezentácii a Afghanistan Champions League",
+   "desc_en": "Official AFF Facebook page — news on the national team and the Afghanistan Champions League",
+   "url": "https://www.facebook.com/affofficial/",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_az_prk_fed",
+   "parentId": "f_fut_klu_az_prk",
+   "type": "link",
+   "icon": "",
+   "name": "Futbalová asociácia KĽDR",
+   "name_en": "DPR Korea Football Association",
+   "desc": "Profil futbalovej asociácie KĽDR na stránke AFC (zväz nemá vlastný web)",
+   "desc_en": "DPR Korea Football Association profile on the AFC website (the FA has no website of its own)",
+   "url": "https://www.the-afc.com/en/east/dpr_korea.html",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_az_npl_fed",
+   "parentId": "f_fut_klu_az_npl",
+   "type": "link",
+   "icon": "",
+   "name": "Celonepálska futbalová asociácia (ANFA)",
+   "name_en": "All Nepal Football Association (ANFA)",
+   "desc": "Oficiálny Facebook asociácie ANFA — správy o reprezentácii a domácich súťažiach",
+   "desc_en": "Official ANFA Facebook page — news on the national team and domestic competitions",
+   "url": "https://www.facebook.com/theanfaofficial/",
+   "order": 0
+  },
+  {
+   "id": "f_fut_klu_az_pak_fed",
+   "parentId": "f_fut_klu_az_pak",
+   "type": "link",
+   "icon": "",
+   "name": "Pakistanská futbalová federácia (PFF)",
+   "name_en": "Pakistan Football Federation (PFF)",
+   "desc": "Oficiálny web federácie PFF — reprezentácia a domáce súťaže",
+   "desc_en": "Official PFF website — the national team and domestic competitions",
+   "url": "https://pff.com.pk/",
+   "order": 0
   }
  ],
  "title_en": "Sportlinking",
