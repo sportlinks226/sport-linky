@@ -1,5 +1,5 @@
 {
-  "version": 238,
+  "version": 242,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -59135,7 +59135,7 @@
       "icon": "",
       "name": "Deportivo Riestra",
       "desc": "Klub z Villa Soldati, najmladší medzi elitou, do najvyššej ligy postúpil až v roku 2023.",
-      "url": "https://www.facebook.com/deportivoriestra/",
+      "url": "https://www.transfermarkt.com/cd-riestra/startseite/verein/19775",
       "order": 10,
       "desc_en": "Club from Villa Soldati, the youngest among the elite, only promoted to the top division in 2023."
     },
@@ -59388,7 +59388,7 @@
       "icon": "",
       "name": "Ciudad Bolivar",
       "desc": "Mladý klub zo San Carlos de Bolívar, založený v roku 2002.",
-      "url": "https://www.instagram.com/clubciudaddebolivar/",
+      "url": "https://www.facebook.com/clubciudadbolivar",
       "order": 3,
       "desc_en": "Young club from San Carlos de Bolívar, founded in 2002."
     },
@@ -59795,7 +59795,7 @@
       "icon": "",
       "name": "9 de Julio (Rafaela)",
       "desc": "Klub z Rafaely, založený v roku 1904.",
-      "url": "https://www.instagram.com/club9dejuliooficial/",
+      "url": "https://ca9j.com.ar/",
       "order": 4,
       "desc_en": "Club from Rafaela, founded in 1904."
     },
@@ -59872,7 +59872,7 @@
       "icon": "",
       "name": "Bartolome Mitre (Colonia Dora)",
       "desc": "Klub z Colonia Dora v provincii Santiago del Estero.",
-      "url": "https://www.facebook.com/mitrecoloniadora/",
+      "url": "https://us.soccerway.com/team/bartolome-mitre/jHM2P3an/",
       "order": 11,
       "desc_en": "Club from Colonia Dora in Santiago del Estero province."
     },
@@ -59916,7 +59916,7 @@
       "icon": "",
       "name": "Defensores de Vilelas",
       "desc": "Klub z Puerto Vilelas v provincii Chaco, založený v roku 1952.",
-      "url": "https://x.com/defeprensa",
+      "url": "https://us.soccerway.com/team/defensores-de-vilelas/zirJ44ye/",
       "order": 15,
       "desc_en": "Club from Puerto Vilelas in Chaco province, founded in 1952."
     },
@@ -59938,7 +59938,7 @@
       "icon": "",
       "name": "Tucuman Central",
       "desc": "Klub zo San Miguel de Tucumán, nie je priamo pridružený k AFA.",
-      "url": "https://www.instagram.com/clubtucumancentralof/",
+      "url": "https://us.soccerway.com/team/tucuman-central/YPbw4gvq/",
       "order": 17,
       "desc_en": "Club from San Miguel de Tucumán, not directly affiliated with the AFA."
     },
@@ -61074,7 +61074,7 @@
       "icon": "",
       "name": "Anapolis",
       "desc": "Klub z Anápolisu v štáte Goiás, prezývka „Galo da Comarca“.",
-      "url": "https://www.instagram.com/anapolisfutebolclube/",
+      "url": "https://www.transfermarkt.com/anapolis-futebol-clube-go-/startseite/verein/17568",
       "order": 18,
       "desc_en": "Club from Anápolis in Goiás state, nicknamed \"Galo da Comarca\"."
     },
@@ -61672,7 +61672,7 @@
       "icon": "",
       "name": "FC Cajamarca",
       "desc": "Cajamarca, postup po víťazstve v Liga 2 2025.",
-      "url": "https://www.facebook.com/FutbolClubCajamarca",
+      "url": "https://futbolclubcajamarca.com/",
       "order": 16,
       "desc_en": "Cajamarca, promoted after winning Liga 2 in 2025."
     },
@@ -61848,7 +61848,7 @@
       "icon": "",
       "name": "Unión Minas",
       "desc": "Cerro de Pasco, majster Copa Perú 2025.",
-      "url": "https://www.instagram.com/unionminascp.oficial/",
+      "url": "https://www.facebook.com/profile.php?id=61575991606888",
       "order": 14,
       "desc_en": "Cerro de Pasco, Copa Perú champions in 2025."
     },
@@ -62003,7 +62003,7 @@
       "icon": "",
       "name": "Nacional Potosí",
       "desc": "Druhý klub z Potosí, hráva vo vysokohorskom prostredí nad 4000 m n. m.",
-      "url": "https://www.facebook.com/NacionalPotosi1942",
+      "url": "https://www.facebook.com/CA.Nacional.Potosi",
       "order": 9,
       "desc_en": "Potosí's second club, playing at high altitude above 4,000m."
     },
@@ -62036,7 +62036,7 @@
       "icon": "",
       "name": "Universitario de Vinto",
       "desc": "Klub z mestečka Vinto pri Cochabambe, do prvej ligy postúpil prvýkrát v roku 2022.",
-      "url": "https://www.facebook.com/p/Universitario-de-Vinto-100085550296387/",
+      "url": "https://www.facebook.com/laudevinto",
       "order": 12,
       "desc_en": "Club from the town of Vinto near Cochabamba, promoted to the first division for the first time in 2022."
     },
@@ -62147,7 +62147,7 @@
       "icon": "",
       "name": "Guayaquil City FC",
       "desc": "Mladší klub z Guayaquilu, súčasť medzinárodnej futbalovej skupiny City Football Group.",
-      "url": "https://www.facebook.com/GuayaquilCityFC/",
+      "url": "https://www.guayaquilcityfc.com/",
       "order": 5,
       "desc_en": "Younger club from Guayaquil, part of the international City Football Group."
     },
@@ -62213,7 +62213,7 @@
       "icon": "",
       "name": "Manta FC",
       "desc": "Klub z prístavnej Manty prezývaný Atuneros podľa miestneho rybolovu tuniakov.",
-      "url": "https://www.facebook.com/Mantafcoficial/",
+      "url": "https://www.mantafutbolclub.com/",
       "order": 11,
       "desc_en": "Club from the port city of Manta nicknamed Atuneros after the local tuna fishing industry."
     },
@@ -62313,7 +62313,7 @@
       "icon": "",
       "name": "Cuenca Juniors",
       "desc": "Mladý klub z Cuenky spojený s podnikateľskou rodinou Eljuri, založený v roku 2023.",
-      "url": "https://www.instagram.com/cuenca_juniors/",
+      "url": "https://www.facebook.com/p/Cuenca-Jrs-61556039132911/",
       "order": 3,
       "desc_en": "Young club from Cuenca linked to the Eljuri business family, founded in 2023."
     },
@@ -62324,7 +62324,7 @@
       "icon": "",
       "name": "Vinotinto FC Ecuador",
       "desc": "Klub z mesta Cayambe, pôvodne pôsobiaci pod menom Cuniburo FC, prvýkrát postúpil do Serie A v roku 2024.",
-      "url": "https://www.facebook.com/VinotintoFCecuador/",
+      "url": "https://vinotinto.ec/",
       "order": 4,
       "desc_en": "Club from the town of Cayambe, originally playing under the name Cuniburo FC, promoted to Serie A for the first time in 2024."
     },
@@ -62390,7 +62390,7 @@
       "icon": "",
       "name": "22 de Julio",
       "desc": "Klub z prístavného mesta Esmeraldas na severnom pobreží Ekvádoru.",
-      "url": "https://www.instagram.com/22dejuliofc/",
+      "url": "https://www.facebook.com/p/22-de-JULIO-FC-100088426908841/",
       "order": 10,
       "desc_en": "Club from the port city of Esmeraldas on Ecuador's northern coast."
     },
@@ -62401,7 +62401,7 @@
       "icon": "",
       "name": "El Nacional",
       "desc": "Tradičný klub z Quita, bývalý rekordný majster ligy, ktorý administratívne zostúpil zo Serie A pre finančné problémy.",
-      "url": "https://www.facebook.com/elnacionalecu/",
+      "url": "https://elnacional.ec/",
       "order": 11,
       "desc_en": "Traditional club from Quito, former record league champions, administratively relegated from Serie A due to financial problems."
     },
@@ -62457,7 +62457,7 @@
       "icon": "",
       "name": "Universidad Central",
       "desc": "Univerzitný klub z Caracasu (UCV), majster Venezuely v roku 2025.",
-      "url": "https://www.facebook.com/ucvfcoficial/",
+      "url": "https://ucvfcoficial.com/",
       "order": 3,
       "desc_en": "University club from Caracas (UCV), Venezuelan champions in 2025."
     },
@@ -62501,7 +62501,7 @@
       "icon": "",
       "name": "Academia Puerto Cabello",
       "desc": "Klub z prístavného mesta Puerto Cabello v štáte Carabobo.",
-      "url": "https://www.facebook.com/AcademiaPuertoCabello/",
+      "url": "https://www.academiapuertocabello.com/",
       "order": 7,
       "desc_en": "Club from the port city of Puerto Cabello in Carabobo state."
     },
@@ -62567,7 +62567,7 @@
       "icon": "",
       "name": "Trujillanos FC",
       "desc": "Klub z andského mesta Valera, dvojnásobný víťaz Copa Venezuela.",
-      "url": "https://www.facebook.com/trufcoficial/",
+      "url": "https://www.transfermarkt.com/trujillanos-fc/startseite/verein/17392",
       "order": 13,
       "desc_en": "Club from the Andean city of Valera, two-time Copa Venezuela winners."
     },
@@ -62590,7 +62590,7 @@
       "icon": "",
       "name": "Lara",
       "desc": "Klub z Cabudare pri Barquisimete, hráva na jednom z najväčších štadiónov krajiny.",
-      "url": "https://www.instagram.com/deportivolara",
+      "url": "https://www.facebook.com/deportivolaraoficial",
       "order": 0,
       "desc_en": "Club from Cabudare near Barquisimeto, playing at one of the country's largest stadiums."
     },
@@ -62601,7 +62601,7 @@
       "icon": "",
       "name": "Ureña",
       "desc": "Klub z pohraničného mesta Ureña v štáte Táchira, blízko hraníc s Kolumbiou.",
-      "url": "https://www.facebook.com/urenasportclub/",
+      "url": "https://www.soccerway.com/team/urena/x6MdZOGO/",
       "order": 1,
       "desc_en": "Club from the border town of Ureña in Táchira state, close to the border with Colombia."
     },
@@ -62623,7 +62623,7 @@
       "icon": "",
       "name": "Yaracuyanos FC",
       "desc": "Klub z mesta San Felipe v štáte Yaracuy.",
-      "url": "https://www.facebook.com/YaracuyanosOficial/",
+      "url": "https://www.facebook.com/profile.php?id=100094561884346",
       "order": 3,
       "desc_en": "Club from the city of San Felipe in Yaracuy state."
     },
@@ -62645,7 +62645,7 @@
       "icon": "",
       "name": "Puerto Cabello FC B",
       "desc": "Rezervný B-tím klubu Academia Puerto Cabello — odkaz vedie na web materského klubu.",
-      "url": "https://www.facebook.com/AcademiaPuertoCabello/",
+      "url": "https://www.academiapuertocabello.com/",
       "order": 5,
       "desc_en": "The B reserve team of Academia Puerto Cabello — the link leads to the parent club's website."
     },
@@ -62667,7 +62667,7 @@
       "icon": "",
       "name": "Frontera FC",
       "desc": "Klub z pohraničného štátu Táchira, oficiálne známy ako Real Frontera.",
-      "url": "https://www.facebook.com/realfronteraoficial/",
+      "url": "https://www.transfermarkt.com/real-frontera-sc/startseite/verein/52439",
       "order": 7,
       "desc_en": "Club from the border state of Táchira, officially known as Real Frontera."
     },
@@ -62744,7 +62744,7 @@
       "icon": "",
       "name": "Aragua FC",
       "desc": "Klub z Maracay prezývaný Chocolateros.",
-      "url": "https://www.facebook.com/AraguaFC.OFICIAL/",
+      "url": "https://www.transfermarkt.com/aragua-fc/startseite/verein/8331",
       "order": 14,
       "desc_en": "Club from Maracay nicknamed Chocolateros."
     },
@@ -62766,7 +62766,7 @@
       "icon": "",
       "name": "Mineros de Guayana",
       "desc": "Klub z Ciudad Guayana v ťažobnom regióne štátu Bolívar.",
-      "url": "https://www.facebook.com/ACCDMinerosdeG/",
+      "url": "https://www.transfermarkt.com/mineros-de-guayana/startseite/verein/17194",
       "order": 16,
       "desc_en": "Club from Ciudad Guayana in the mining region of Bolívar state."
     },
@@ -63043,7 +63043,7 @@
       "icon": "",
       "name": "Patriotas Boyacá FC",
       "desc": "Klub z Tunje, ktorý si štadión La Independencia delí s Boyacá Chicó.",
-      "url": "https://www.instagram.com/patriotasboyfc/",
+      "url": "https://www.patriotasboyaca.com.co/",
       "order": 3,
       "desc_en": "Club from Tunja, sharing the Estadio La Independencia with Boyacá Chicó."
     },
@@ -63109,7 +63109,7 @@
       "icon": "",
       "name": "Atlético FC",
       "desc": "Klub s pohnutou históriou sťahovania (Cartago, Jamundí, dnes Cali), hrajúci na štadióne Pascual Guerrero.",
-      "url": "https://www.instagram.com/atleticofcsa",
+      "url": "https://us.soccerway.com/team/atletico-f-c/jD7zZpR7/",
       "order": 9,
       "desc_en": "Club with a turbulent history of relocations (Cartago, Jamundí, now Cali), playing at the Estadio Pascual Guerrero."
     },
@@ -63518,7 +63518,7 @@
       "icon": "",
       "name": "Club Sportivo Cerrito",
       "desc": "Klub zo štvrte Cerrito de la Victoria v Montevideu, hrajúci na štadióne Parque Maracaná.",
-      "url": "https://twitter.com/sportivocerrito",
+      "url": "https://www.facebook.com/SportivoCerritoOficial/",
       "order": 12,
       "desc_en": "Club from the Cerrito de la Victoria district of Montevideo, playing at the Estadio Parque Maracaná."
     },
@@ -63529,7 +63529,7 @@
       "icon": "",
       "name": "Paysandú Fútbol Club",
       "desc": "Klub z mesta Paysandú, ktorý v roku 2025 bez prehry vyhral treťoligovú Primera División Amateur a postúpil do druhej ligy.",
-      "url": "https://www.instagram.com/paysandufc_of/",
+      "url": "https://www.facebook.com/paysandufcoficial/",
       "order": 13,
       "desc_en": "Club from the city of Paysandú, who went unbeaten to win the third-tier Primera División Amateur in 2025 and were promoted to the second division."
     },
@@ -63817,7 +63817,7 @@
       "icon": "",
       "name": "Independiente Foot-Ball Club",
       "desc": "Klub zo štvrte Campo Grande v Asunción, založený v roku 1925.",
-      "url": "https://www.facebook.com/indeoficial/",
+      "url": "https://www.facebook.com/Inde2004",
       "order": 11,
       "desc_en": "Club from the Campo Grande district of Asunción, founded in 1925."
     },
