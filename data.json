@@ -1,15 +1,42 @@
 {
-  "version": 251,
+  "version": 252,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
   "aktualne": [
     {
+      "id": "a1788280011823",
+      "icon": "⚽",
+      "name": "MS U20 ženy",
+      "url": "https://www.fifa.com/en/tournaments/womens/u20womensworldcup/poland-2026",
+      "endsAt": "2026-09-27",
+      "addedAt": 1788280011823,
+      "name_en": "U-20 Women's World Cup"
+    },
+    {
+      "id": "a1788275975965",
+      "icon": "🏎️",
+      "name": "Veľká cena Talianska",
+      "url": "https://www.formula1.com/",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788275975965,
+      "name_en": "GP of Italy"
+    },
+    {
+      "id": "a1788276206492",
+      "icon": "🏃",
+      "name": "Diamantová liga Brusel",
+      "url": "https://brussels.diamondleague.com/",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788276206492,
+      "name_en": "Diamond League Brussels"
+    },
+    {
       "id": "a1787566310663",
       "icon": "🎖️",
       "name": "Stredomorské hry",
       "url": "https://taranto2026.microplustimingservices.com/#/general-schedule?lang=en",
-      "endsAt": "2026-09-03",
+      "endsAt": "2026-09-04",
       "addedAt": 1787566310663,
       "name_en": "Mediterranean Games"
     },
@@ -18,54 +45,18 @@
       "icon": "🚴",
       "name": "La Vuelta",
       "url": "https://www.lavuelta.es/en/overall-route",
-      "endsAt": "2026-09-13",
+      "endsAt": "2026-09-14",
       "addedAt": 1787231185844,
       "name_en": "La Vuelta"
     },
     {
-      "id": "a1787232192049",
-      "icon": "🏑",
-      "name": "Pozemný hokej MS",
-      "url": "https://www.worldcup.hockey/",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787232192049,
-      "name_en": "Field Hockey World Cup"
-    },
-    {
-      "id": "a1787575260335",
-      "icon": "🚣",
-      "name": "Veslovanie MS",
-      "url": "https://worldrowing.com/event/2026-world-rowing-championships/",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787575260335,
-      "name_en": "World Rowing Championships"
-    },
-    {
-      "id": "a1787566429432",
-      "icon": "⚽",
-      "name": "Liga Majstrov",
-      "url": "https://www.uefa.com/uefachampionsleague/",
-      "endsAt": "2026-08-27",
-      "addedAt": 1787566429432,
-      "name_en": "Champions League"
-    },
-    {
-      "id": "a1784634663367",
-      "icon": "⚽",
-      "name": "Európska liga",
-      "url": "https://www.uefa.com/uefaeuropaleague/",
-      "endsAt": "2026-08-27",
-      "addedAt": 1784634663367,
-      "name_en": "Europa League"
-    },
-    {
-      "id": "a1784634702063",
-      "icon": "⚽",
-      "name": "Konferenčná liga",
-      "url": "https://www.uefa.com/uefaconferenceleague/",
-      "endsAt": "2026-08-27",
-      "addedAt": 1784634702063,
-      "name_en": "Conference League"
+      "id": "a1787566609331",
+      "icon": "🎾",
+      "name": "US Open",
+      "url": "https://www.usopen.org/en_US/scores/index.html",
+      "endsAt": "2026-09-13",
+      "addedAt": 1787566609331,
+      "name_en": "US Open"
     },
     {
       "id": "a1784538636873",
@@ -86,31 +77,13 @@
       "name_en": "WTA Scores"
     },
     {
-      "id": "a1787566609331",
-      "icon": "🎾",
-      "name": "US Open",
-      "url": "https://www.usopen.org/en_US/scores/index.html",
+      "id": "a1788278020844",
+      "icon": "🏀",
+      "name": "MS v basketbale žien",
+      "url": "https://www.fiba.basketball/en/events/fiba-womens-basketball-world-cup-2026/games",
       "endsAt": "2026-09-13",
-      "addedAt": 1787566609331,
-      "name_en": "US Open"
-    },
-    {
-      "id": "a1787566668793",
-      "icon": "🎾",
-      "name": "ATP Winston Salem",
-      "url": "https://www.winstonsalemopen.com/en",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787566668793,
-      "name_en": "ATP Winston-Salem"
-    },
-    {
-      "id": "a1787566720239",
-      "icon": "🎾",
-      "name": "WTA Monterrey",
-      "url": "https://www.wtatennis.com/tournaments/1039/monterrey/2026",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787566720239,
-      "name_en": "WTA Monterrey"
+      "addedAt": 1788278020844,
+      "name_en": "Women's Basketball World Cup"
     },
     {
       "id": "a1784541154016",
@@ -140,31 +113,67 @@
       "name_en": "Boys' U17 Volleyball World Championship"
     },
     {
-      "id": "a1787576593112",
-      "icon": "🏐",
-      "name": "NORCECA Final 6 muži",
-      "url": "https://norceca.info/event/2026-norceca-mens-final-six/",
+      "id": "a1784541193793",
+      "icon": "⚾",
+      "name": "MLB",
+      "url": "https://www.mlb.com/",
       "endsAt": "",
-      "addedAt": 1787576593112,
-      "name_en": "NORCECA Men's Final Six"
+      "addedAt": 1784541193793,
+      "name_en": "MLB"
     },
     {
-      "id": "a1787229661208",
-      "icon": "🏐",
-      "name": "NORCECA ženy",
-      "url": "https://norceca.net/2026%20Competition%20&%20Activities/NORCECA%20Continental%20Championship%202026/Women/2026-%20Women%20Continental%20Championship.htm",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787229661208,
-      "name_en": "NORCECA Women"
+      "id": "a1788276408695",
+      "icon": "🏸",
+      "name": "Badminton China Masters",
+      "url": "https://match-centre.bwfbadminton.com/5625",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788276408695,
+      "name_en": "Badminton China Masters"
     },
     {
-      "id": "a1787575368226",
+      "id": "a1788277024343",
+      "icon": "🏸",
+      "name": "Badminton Indonesia Open",
+      "url": "https://match-centre.bwfbadminton.com/5528",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788277024343,
+      "name_en": "Badminton Indonesia Open"
+    },
+    {
+      "id": "a1788276871449",
+      "icon": "🎾",
+      "name": "Londýn Squash Classic",
+      "url": "https://www.psasquashtour.com/live/",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788276871449,
+      "name_en": "London Squash Classic"
+    },
+    {
+      "id": "a1788277744948",
+      "icon": "🎾",
+      "name": "Padel Comunidad de Madrid",
+      "url": "https://premierpadel.com/en/tournaments-detail/comunidad-de-madrid-p1",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788277744948,
+      "name_en": "Padel Comunidad de Madrid"
+    },
+    {
+      "id": "a1788277501544",
       "icon": "🎱",
-      "name": "Snooker Wuhan open",
-      "url": "https://www.wst.tv/matches",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787575368226,
-      "name_en": "Snooker Wuhan Open"
+      "name": "Snooker British Open",
+      "url": "https://www.wst.tv/matches?",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788277501544,
+      "name_en": "Snooker British Open"
+    },
+    {
+      "id": "a1788278474782",
+      "icon": "🎯",
+      "name": "Czech Darts Open",
+      "url": "https://www.czechdartsopen.cz/",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788278474782,
+      "name_en": "Czech darts Open"
     },
     {
       "id": "a1785147664719",
@@ -176,31 +185,13 @@
       "name_en": "TT Star Series"
     },
     {
-      "id": "a1784541193793",
-      "icon": "⚾",
-      "name": "MLB",
-      "url": "https://www.mlb.com/",
-      "endsAt": "",
-      "addedAt": 1784541193793,
-      "name_en": "MLB"
-    },
-    {
-      "id": "a1787231762400",
-      "icon": "🏈",
-      "name": "NFL preseason",
-      "url": "https://www.nfl.com/schedules",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787231762400,
-      "name_en": "NFL Preseason"
-    },
-    {
-      "id": "a1787576719374",
-      "icon": "🏃",
-      "name": "Diamantová liga Zurich",
-      "url": "https://zurich.diamondleague.com/en/programme-results/",
-      "endsAt": "2026-08-30",
-      "addedAt": 1787576719374,
-      "name_en": "Diamond League Zurich"
+      "id": "a1788279853486",
+      "icon": "🏓",
+      "name": "WTT Contender Almaty",
+      "url": "https://www.worldtabletennis.com/eventInfo?selectedTab=Matches&eventId=3247",
+      "endsAt": "2026-09-06",
+      "addedAt": 1788279853486,
+      "name_en": "WTT Contender Almaty"
     }
   ],
   "banners": [
