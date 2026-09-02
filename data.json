@@ -1,5 +1,5 @@
 {
-  "version": 268,
+  "version": 275,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -94559,12 +94559,12 @@
       "type": "folder",
       "icon": "dk",
       "name": "Dánsko",
-      "desc": "Dánske kluby najvyššej súťaže Basketligaen",
+      "desc": "Dánske kluby mužskej Basketligaen a ženskej Kvindebasketligaen",
       "order": 14,
       "slug": "dansko",
       "name_en": "Denmark",
       "slug_en": "denmark",
-      "desc_en": "Danish clubs of the top-flight Basketligaen"
+      "desc_en": "Danish clubs of the men's Basketligaen and the women's Kvindebasketligaen"
     },
     {
       "id": "f_bas_klu_eu_est",
@@ -94585,12 +94585,12 @@
       "type": "folder",
       "icon": "fi",
       "name": "Fínsko",
-      "desc": "Fínske kluby najvyššej súťaže Korisliiga",
+      "desc": "Fínske kluby mužskej Korisliigy a ženskej Naisten Korisliigy",
       "order": 16,
       "slug": "finsko",
       "name_en": "Finland",
       "slug_en": "finland",
-      "desc_en": "Finnish clubs of the top-flight Korisliiga"
+      "desc_en": "Finnish clubs of the men's Korisliiga and the women's Naisten Korisliiga"
     },
     {
       "id": "f_bas_klu_eu_gre",
@@ -94624,12 +94624,12 @@
       "type": "folder",
       "icon": "nl",
       "name": "Holandsko",
-      "desc": "Holandské kluby spoločnej belgicko-holandskej BNXT League",
+      "desc": "Holandské kluby mužskej BNXT League a ženskej WBL",
       "order": 19,
       "slug": "holandsko",
       "name_en": "Netherlands",
       "slug_en": "netherlands",
-      "desc_en": "Dutch clubs of the joint Belgian-Dutch BNXT League"
+      "desc_en": "Dutch clubs of the men's BNXT League and the women's WBL"
     },
     {
       "id": "f_bas_klu_eu_cro",
@@ -94663,12 +94663,12 @@
       "type": "folder",
       "icon": "is",
       "name": "Island",
-      "desc": "Islandské kluby najvyššej súťaže Úrvalsdeild",
+      "desc": "Islandské kluby mužskej Úrvalsdeild a ženskej Úrvalsdeild kvenna",
       "order": 22,
       "slug": "island",
       "name_en": "Iceland",
       "slug_en": "iceland",
-      "desc_en": "Icelandic clubs of the top-flight Úrvalsdeild"
+      "desc_en": "Icelandic clubs of the men's Úrvalsdeild and the women's Úrvalsdeild kvenna"
     },
     {
       "id": "f_bas_klu_eu_isr",
@@ -94819,12 +94819,12 @@
       "type": "folder",
       "icon": "at",
       "name": "Rakúsko",
-      "desc": "Rakúske kluby najvyššej basketbalovej Superligy",
+      "desc": "Rakúske kluby mužskej Superligy a ženskej Damen Superligy",
       "order": 34,
       "slug": "rakusko",
       "name_en": "Austria",
       "slug_en": "austria",
-      "desc_en": "Austrian clubs of the top-flight basketball Superliga"
+      "desc_en": "Austrian clubs of the men's Superliga and the women's Damen Superliga"
     },
     {
       "id": "f_bas_klu_eu_rou",
@@ -94871,12 +94871,12 @@
       "type": "folder",
       "icon": "sk",
       "name": "Slovensko",
-      "desc": "Slovenské kluby najvyššej Slovenskej basketbalovej ligy",
+      "desc": "Slovenské kluby mužskej SBL a ženskej extraligy",
       "order": 38,
       "slug": "slovensko",
       "name_en": "Slovakia",
       "slug_en": "slovakia",
-      "desc_en": "Slovak clubs of the top-flight Slovak Basketball League"
+      "desc_en": "Slovak clubs of the men's SBL and the women's Extraliga"
     },
     {
       "id": "f_bas_klu_eu_slo",
@@ -94923,12 +94923,12 @@
       "type": "folder",
       "icon": "se",
       "name": "Švédsko",
-      "desc": "Švédske kluby najvyššej súťaže Basketligan",
+      "desc": "Švédske kluby mužskej Basketligan a ženskej SBL Dam",
       "order": 42,
       "slug": "svedsko",
       "name_en": "Sweden",
       "slug_en": "sweden",
-      "desc_en": "Swedish clubs of the top-flight Basketligan"
+      "desc_en": "Swedish clubs of the men's Basketligan and the women's SBL Dam"
     },
     {
       "id": "f_bas_klu_eu_tur",
@@ -94962,12 +94962,12 @@
       "type": "folder",
       "icon": "gb",
       "name": "Veľká Británia",
-      "desc": "Britské kluby najvyššej Super League Basketball",
+      "desc": "Britské kluby mužskej aj ženskej Super League Basketball",
       "order": 45,
       "slug": "velka-britania",
       "name_en": "Great Britain",
       "slug_en": "great-britain",
-      "desc_en": "British clubs of the top-flight Super League Basketball"
+      "desc_en": "British clubs of the men's and women's Super League Basketball"
     },
     {
       "id": "f_bas_esp_l1_k1",
@@ -96950,8 +96950,8 @@
       "desc_en": "Ioannina — a city that reached the Greek top flight for the very first time in 2026."
     },
     {
-      "id": "f_bas_klu_eu_fin_k1",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k1",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Bisons Loimaa",
@@ -96961,8 +96961,8 @@
       "desc_en": "Loimaa — a small town in southwestern Finland, a long-standing member of the top flight."
     },
     {
-      "id": "f_bas_klu_eu_fin_k2",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k2",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Helsinki Seagulls",
@@ -96972,8 +96972,8 @@
       "desc_en": "Helsinki — a club founded in 2013 that brought the national title back to the capital after a 25-year gap."
     },
     {
-      "id": "f_bas_klu_eu_fin_k3",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k3",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Karhu Basket",
@@ -96983,8 +96983,8 @@
       "desc_en": "Kauhajoki — nicknamed \"the Orange\", from a small town in the South Ostrobothnia region."
     },
     {
-      "id": "f_bas_klu_eu_fin_k4",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k4",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Kataja Basket",
@@ -96994,8 +96994,8 @@
       "desc_en": "Joensuu — the basketball department of a club founded in 1900, playing under this name since 1949."
     },
     {
-      "id": "f_bas_klu_eu_fin_k5",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k5",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Kipinä Basket",
@@ -97005,8 +97005,8 @@
       "desc_en": "Äänekoski — a club returning the town to the top flight after a 21-year absence."
     },
     {
-      "id": "f_bas_klu_eu_fin_k6",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k6",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Korihait",
@@ -97016,8 +97016,8 @@
       "desc_en": "Uusikaupunki — a small coastal town whose club regularly challenges bigger rivals for the title."
     },
     {
-      "id": "f_bas_klu_eu_fin_k7",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k7",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Kouvot",
@@ -97027,8 +97027,8 @@
       "desc_en": "Kouvola — four-time Finnish champions (1995, 1999, 2004 and 2016)."
     },
     {
-      "id": "f_bas_klu_eu_fin_k8",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k8",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "KTP-Basket",
@@ -97038,8 +97038,8 @@
       "desc_en": "Kotka — a port city in eastern Finland."
     },
     {
-      "id": "f_bas_klu_eu_fin_k9",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k9",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Lahti Basketball",
@@ -97049,8 +97049,8 @@
       "desc_en": "Lahti — a club from a city best known for hosting Nordic skiing world championships."
     },
     {
-      "id": "f_bas_klu_eu_fin_k10",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k10",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Salon Vilpas",
@@ -97060,8 +97060,8 @@
       "desc_en": "Salo — Finnish champions in 2021, also known internationally as Vilpas Vikings."
     },
     {
-      "id": "f_bas_klu_eu_fin_k11",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k11",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Tampereen Pyrintö",
@@ -97071,8 +97071,8 @@
       "desc_en": "Tampere — the basketball section of a large multi-sport club founded in 1896."
     },
     {
-      "id": "f_bas_klu_eu_fin_k12",
-      "parentId": "f_bas_klu_eu_fin",
+      "id": "f_bas_fin_l1_k12",
+      "parentId": "f_bas_fin_l1",
       "type": "link",
       "icon": "",
       "name": "Tapiolan Honka",
@@ -98127,8 +98127,8 @@
       "desc_en": "Golubovci — the \"Wolves\" club from a Podgorica suburb by the Zeta river."
     },
     {
-      "id": "f_bas_klu_eu_den_k1",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k1",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Bakken Bears",
@@ -98138,8 +98138,8 @@
       "desc_en": "Aarhus — Denmark's record champion and by far the country's most successful club."
     },
     {
-      "id": "f_bas_klu_eu_den_k2",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k2",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "BC Copenhagen",
@@ -98149,8 +98149,8 @@
       "desc_en": "Copenhagen — a club from the Danish capital, playing in the country's top league."
     },
     {
-      "id": "f_bas_klu_eu_den_k3",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k3",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Bears Academy",
@@ -98160,8 +98160,8 @@
       "desc_en": "Aarhus — the youth/reserve team of Bakken Bears, competing in the top flight."
     },
     {
-      "id": "f_bas_klu_eu_den_k4",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k4",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "BK Vejen",
@@ -98171,8 +98171,8 @@
       "desc_en": "Vejen — a club from southern Jutland."
     },
     {
-      "id": "f_bas_klu_eu_den_k5",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k5",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "BMS Herlev",
@@ -98182,8 +98182,8 @@
       "desc_en": "Herlev — nicknamed the \"Wolfpack\", a club from the Copenhagen suburbs."
     },
     {
-      "id": "f_bas_klu_eu_den_k6",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k6",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Gladsaxe Basketball",
@@ -98193,8 +98193,8 @@
       "desc_en": "Gladsaxe — a club from the Copenhagen suburbs."
     },
     {
-      "id": "f_bas_klu_eu_den_k7",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k7",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Holbæk-Stenhus",
@@ -98204,8 +98204,8 @@
       "desc_en": "Holbæk — a club linked to the Stenhus sports high school."
     },
     {
-      "id": "f_bas_klu_eu_den_k8",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k8",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Horsens IC",
@@ -98215,8 +98215,8 @@
       "desc_en": "Horsens — a club from eastern Jutland."
     },
     {
-      "id": "f_bas_klu_eu_den_k9",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k9",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Randers Cimbria",
@@ -98226,8 +98226,8 @@
       "desc_en": "Randers — a club from eastern Jutland, a regular in the top flight."
     },
     {
-      "id": "f_bas_klu_eu_den_k10",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k10",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Svendborg Rabbits",
@@ -98237,8 +98237,8 @@
       "desc_en": "Svendborg — a club from the island of Funen, nicknamed the \"Rabbits\"."
     },
     {
-      "id": "f_bas_klu_eu_den_k11",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k11",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Team FOG Næstved",
@@ -98248,8 +98248,8 @@
       "desc_en": "Næstved — a club from Zealand."
     },
     {
-      "id": "f_bas_klu_eu_den_k12",
-      "parentId": "f_bas_klu_eu_den",
+      "id": "f_bas_den_l1_k12",
+      "parentId": "f_bas_den_l1",
       "type": "link",
       "icon": "",
       "name": "Værløse Blue Hawks",
@@ -98457,8 +98457,8 @@
       "desc_en": "Tbilisi — the club of Georgia's oldest and largest university, champions of the 2025/26 league."
     },
     {
-      "id": "f_bas_klu_eu_ned_k1",
-      "parentId": "f_bas_klu_eu_ned",
+      "id": "f_bas_ned_l1_k1",
+      "parentId": "f_bas_ned_l1",
       "type": "link",
       "icon": "",
       "name": "Donar",
@@ -98468,8 +98468,8 @@
       "desc_en": "Groningen — Dutch record champion, playing at the MartiniPlaza arena."
     },
     {
-      "id": "f_bas_klu_eu_ned_k2",
-      "parentId": "f_bas_klu_eu_ned",
+      "id": "f_bas_ned_l1_k2",
+      "parentId": "f_bas_ned_l1",
       "type": "link",
       "icon": "",
       "name": "Heroes Den Bosch",
@@ -98479,8 +98479,8 @@
       "desc_en": "’s-Hertogenbosch — a club with a rich history (formerly EBBC/Hurricanes), a multiple Dutch champion."
     },
     {
-      "id": "f_bas_klu_eu_ned_k3",
-      "parentId": "f_bas_klu_eu_ned",
+      "id": "f_bas_ned_l1_k3",
+      "parentId": "f_bas_ned_l1",
       "type": "link",
       "icon": "",
       "name": "Landstede Hammers",
@@ -98490,8 +98490,8 @@
       "desc_en": "Zwolle — the most successful Dutch club in recent years, 2026 Dutch champions."
     },
     {
-      "id": "f_bas_klu_eu_ned_k4",
-      "parentId": "f_bas_klu_eu_ned",
+      "id": "f_bas_ned_l1_k4",
+      "parentId": "f_bas_ned_l1",
       "type": "link",
       "icon": "",
       "name": "Rotterdam City Basketball",
@@ -98501,8 +98501,8 @@
       "desc_en": "Rotterdam — the city's representative in the top flight, playing under sponsor name Zeeuw & Zeeuw."
     },
     {
-      "id": "f_bas_klu_eu_ned_k5",
-      "parentId": "f_bas_klu_eu_ned",
+      "id": "f_bas_ned_l1_k5",
+      "parentId": "f_bas_ned_l1",
       "type": "link",
       "icon": "",
       "name": "ZZ Leiden",
@@ -98776,8 +98776,8 @@
       "desc_en": "Dublin — a club formed from the merger of University College Dublin and the Marian club."
     },
     {
-      "id": "f_bas_klu_eu_isl_k1",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k1",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Álftanes",
@@ -98787,8 +98787,8 @@
       "desc_en": "Álftanes — a club from a small peninsula near Reykjavík."
     },
     {
-      "id": "f_bas_klu_eu_isl_k2",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k2",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Ármann",
@@ -98798,8 +98798,8 @@
       "desc_en": "Reykjavík — one of Iceland's oldest sports clubs."
     },
     {
-      "id": "f_bas_klu_eu_isl_k3",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k3",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Grindavík",
@@ -98809,8 +98809,8 @@
       "desc_en": "Grindavík — a fishing town on the Reykjanes peninsula, a multiple Icelandic basketball champion."
     },
     {
-      "id": "f_bas_klu_eu_isl_k4",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k4",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Höttur",
@@ -98820,8 +98820,8 @@
       "desc_en": "Egilsstaðir — a club from eastern Iceland."
     },
     {
-      "id": "f_bas_klu_eu_isl_k5",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k5",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "ÍR Reykjavík",
@@ -98831,8 +98831,8 @@
       "desc_en": "Reykjavík — one of the traditional Reykjavík sports clubs."
     },
     {
-      "id": "f_bas_klu_eu_isl_k6",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k6",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Keflavík",
@@ -98842,8 +98842,8 @@
       "desc_en": "Keflavík — one of the historically most successful Icelandic basketball clubs, a town by the international airport."
     },
     {
-      "id": "f_bas_klu_eu_isl_k7",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k7",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "KR Reykjavík",
@@ -98853,8 +98853,8 @@
       "desc_en": "Reykjavík — Iceland's oldest sports club, founded in 1899."
     },
     {
-      "id": "f_bas_klu_eu_isl_k8",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k8",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Njarðvík",
@@ -98864,8 +98864,8 @@
       "desc_en": "Njarðvík — a club from Reykjanesbær, one of Iceland's traditional basketball strongholds."
     },
     {
-      "id": "f_bas_klu_eu_isl_k9",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k9",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Sindri",
@@ -98875,8 +98875,8 @@
       "desc_en": "Höfn — a club from southeastern Iceland's Hornafjörður region."
     },
     {
-      "id": "f_bas_klu_eu_isl_k10",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k10",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Stjarnan",
@@ -98886,8 +98886,8 @@
       "desc_en": "Garðabær — a club from a town neighboring Reykjavík."
     },
     {
-      "id": "f_bas_klu_eu_isl_k11",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k11",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Tindastóll",
@@ -98897,8 +98897,8 @@
       "desc_en": "Sauðárkrókur — a club from northern Iceland."
     },
     {
-      "id": "f_bas_klu_eu_isl_k12",
-      "parentId": "f_bas_klu_eu_isl",
+      "id": "f_bas_isl_l1_k12",
+      "parentId": "f_bas_isl_l1",
       "type": "link",
       "icon": "",
       "name": "Valur",
@@ -100019,8 +100019,8 @@
       "desc_en": "Guimarães — the club's basketball section, a multiple Portuguese league finalist."
     },
     {
-      "id": "f_bas_klu_eu_aut_k1",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k1",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "BBC Nord Dragonz",
@@ -100030,8 +100030,8 @@
       "desc_en": "Eisenstadt — based in the capital of Burgenland state."
     },
     {
-      "id": "f_bas_klu_eu_aut_k2",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k2",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "BC Vienna",
@@ -100041,8 +100041,8 @@
       "desc_en": "Vienna — the capital's club, Austrian champions in 2022."
     },
     {
-      "id": "f_bas_klu_eu_aut_k3",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k3",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Dukes Klosterneuburg",
@@ -100052,8 +100052,8 @@
       "desc_en": "Klosterneuburg, north of Vienna — a long-standing member of Austria's top flight."
     },
     {
-      "id": "f_bas_klu_eu_aut_k4",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k4",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Eagles Graz",
@@ -100063,8 +100063,8 @@
       "desc_en": "Graz — the club of Austria's second-largest city, formerly known as UBSC Graz."
     },
     {
-      "id": "f_bas_klu_eu_aut_k5",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k5",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Flyers Wels",
@@ -100074,8 +100074,8 @@
       "desc_en": "Wels (Upper Austria) — a regular fixture in the top flight."
     },
     {
-      "id": "f_bas_klu_eu_aut_k6",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k6",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Kapfenberg Bulls",
@@ -100085,8 +100085,8 @@
       "desc_en": "Kapfenberg (Styria) — reigning Austrian champions (2025/26)."
     },
     {
-      "id": "f_bas_klu_eu_aut_k7",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k7",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Oberwart Gunners",
@@ -100096,8 +100096,8 @@
       "desc_en": "Oberwart (Burgenland) — back-to-back Austrian champions (2024, 2025)."
     },
     {
-      "id": "f_bas_klu_eu_aut_k8",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k8",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Panthers Fürstenfeld",
@@ -100107,8 +100107,8 @@
       "desc_en": "Fürstenfeld (Styria) — a club from southeastern Austria near the Slovenian border."
     },
     {
-      "id": "f_bas_klu_eu_aut_k9",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k9",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "SKN St. Pölten",
@@ -100118,8 +100118,8 @@
       "desc_en": "St. Pölten — the club of the Lower Austria state capital."
     },
     {
-      "id": "f_bas_klu_eu_aut_k10",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k10",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Swans Gmunden",
@@ -100129,8 +100129,8 @@
       "desc_en": "Gmunden, on Lake Traunsee — two-time Austrian champions (2021, 2023)."
     },
     {
-      "id": "f_bas_klu_eu_aut_k11",
-      "parentId": "f_bas_klu_eu_aut",
+      "id": "f_bas_aut_l1_k11",
+      "parentId": "f_bas_aut_l1",
       "type": "link",
       "icon": "",
       "name": "Traiskirchen Lions",
@@ -100558,8 +100558,8 @@
       "desc_en": "Laško — a brewing town whose club reached the Slovenian league final in 2016."
     },
     {
-      "id": "f_bas_klu_eu_svk_k1",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k1",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Baník Handlová",
@@ -100569,8 +100569,8 @@
       "desc_en": "Handlová — a former mining town whose basketball club competes in the Tipos SBL."
     },
     {
-      "id": "f_bas_klu_eu_svk_k2",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k2",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Inter Basket",
@@ -100580,8 +100580,8 @@
       "desc_en": "Bratislava — a youth academy that returned to the top flight in the 2026/27 season under the traditional Inter brand."
     },
     {
-      "id": "f_bas_klu_eu_svk_k3",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k3",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Iskra Svit",
@@ -100591,8 +100591,8 @@
       "desc_en": "Svit — a club from beneath the High Tatras, a longtime member of Slovakia's top division."
     },
     {
-      "id": "f_bas_klu_eu_svk_k4",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k4",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Komárno",
@@ -100602,8 +100602,8 @@
       "desc_en": "Komárno — a town at the confluence of the Danube and Váh rivers, its club plays in the Tipos SBL."
     },
     {
-      "id": "f_bas_klu_eu_svk_k5",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k5",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Košice Wolves",
@@ -100613,8 +100613,8 @@
       "desc_en": "Košice — a new club that brought top-flight basketball back to the capital of eastern Slovakia after years of absence."
     },
     {
-      "id": "f_bas_klu_eu_svk_k6",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k6",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Lučenec",
@@ -100624,8 +100624,8 @@
       "desc_en": "Lučenec — a southern Slovak club and long-standing member of the top basketball league."
     },
     {
-      "id": "f_bas_klu_eu_svk_k7",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k7",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Nitra Blue Wings",
@@ -100635,8 +100635,8 @@
       "desc_en": "Nitra — back-to-back Tipos SBL bronze medalist (2024/25, 2025/26), aiming to return to European competition."
     },
     {
-      "id": "f_bas_klu_eu_svk_k8",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k8",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Patrioti Levice",
@@ -100646,8 +100646,8 @@
       "desc_en": "Levice — the reigning champion and the dominant force in Slovak basketball in recent years."
     },
     {
-      "id": "f_bas_klu_eu_svk_k9",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k9",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Prievidza",
@@ -100657,8 +100657,8 @@
       "desc_en": "Prievidza — a town below the Vtáčnik mountains, competing in both the Tipos SBL and the FIBA Europe Cup."
     },
     {
-      "id": "f_bas_klu_eu_svk_k10",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k10",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Slovan Bratislava",
@@ -100668,8 +100668,8 @@
       "desc_en": "Bratislava — part of the traditional Slovan sports club, runner-up in the 2025/26 Tipos SBL."
     },
     {
-      "id": "f_bas_klu_eu_svk_k11",
-      "parentId": "f_bas_klu_eu_svk",
+      "id": "f_bas_svk_l1_k11",
+      "parentId": "f_bas_svk_l1",
       "type": "link",
       "icon": "",
       "name": "Spišskí Rytieri",
@@ -101284,8 +101284,8 @@
       "desc_en": "Neuchâtel — an SB League club."
     },
     {
-      "id": "f_bas_klu_eu_swe_k1",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k1",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "BC Luleå",
@@ -101295,8 +101295,8 @@
       "desc_en": "Luleå — a city in northern Sweden on the Gulf of Bothnia, playing at the Luleå Energi Arena."
     },
     {
-      "id": "f_bas_klu_eu_swe_k2",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k2",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Borås Basket",
@@ -101306,8 +101306,8 @@
       "desc_en": "Borås — 2026 Swedish champions, having beaten Norrköping Dolphins in the final."
     },
     {
-      "id": "f_bas_klu_eu_swe_k3",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k3",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Högsbo Basket",
@@ -101317,8 +101317,8 @@
       "desc_en": "Högsbo Basket — a club from the Gothenburg district of Högsbo, nicknamed the \"Lions\"."
     },
     {
-      "id": "f_bas_klu_eu_swe_k4",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k4",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Jämtland Basket",
@@ -101328,8 +101328,8 @@
       "desc_en": "Östersund — winners of the 2025/26 regular season."
     },
     {
-      "id": "f_bas_klu_eu_swe_k5",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k5",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Köping Stars",
@@ -101339,8 +101339,8 @@
       "desc_en": "Köping — a small town in central Sweden."
     },
     {
-      "id": "f_bas_klu_eu_swe_k6",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k6",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Nässjö Basket",
@@ -101350,8 +101350,8 @@
       "desc_en": "Nässjö — a small town in the Småland region."
     },
     {
-      "id": "f_bas_klu_eu_swe_k7",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k7",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Norrköping Dolphins",
@@ -101361,8 +101361,8 @@
       "desc_en": "Norrköping — lost the 2026 final to Borås."
     },
     {
-      "id": "f_bas_klu_eu_swe_k8",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k8",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Sloga Basket",
@@ -101372,8 +101372,8 @@
       "desc_en": "Uppsala — a club founded by Sweden's Balkan diaspora community, promoted to the top league in 2025."
     },
     {
-      "id": "f_bas_klu_eu_swe_k9",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k9",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Södertälje BBK",
@@ -101383,8 +101383,8 @@
       "desc_en": "Södertälje — a city with a rich basketball tradition and a multiple-time past Swedish champion (as Södertälje Kings)."
     },
     {
-      "id": "f_bas_klu_eu_swe_k10",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k10",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Umeå BSKT",
@@ -101394,8 +101394,8 @@
       "desc_en": "Umeå — a university city in northern Sweden."
     },
     {
-      "id": "f_bas_klu_eu_swe_k11",
-      "parentId": "f_bas_klu_eu_swe",
+      "id": "f_bas_swe_l1_k11",
+      "parentId": "f_bas_swe_l1",
       "type": "link",
       "icon": "",
       "name": "Uppsala Basket",
@@ -101680,8 +101680,8 @@
       "desc_en": "Cherkasy — a club nicknamed the \"Monkeys\" (Мавпи), from a city in central Ukraine."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k1",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k1",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Bristol Flyers",
@@ -101691,8 +101691,8 @@
       "desc_en": "Bristol — a club from South West England, playing at the SGS College Arena."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k2",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k2",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Caledonia Gladiators",
@@ -101702,8 +101702,8 @@
       "desc_en": "East Kilbride — Scotland's only club in Great Britain's top flight."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k3",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k3",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Cheshire Phoenix",
@@ -101713,8 +101713,8 @@
       "desc_en": "Ellesmere Port — a club founded in 1984, one of the league's oldest."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k4",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k4",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Leicester Riders",
@@ -101724,8 +101724,8 @@
       "desc_en": "Leicester — winners of the play-off final in SLB's inaugural 2024/25 season, traditionally England's most successful club."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k5",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k5",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Liverpool Basketball",
@@ -101735,8 +101735,8 @@
       "desc_en": "Liverpool — a brand-new club that brought top-flight basketball back to the city in August 2026 after more than a decade; without its own website yet (not to be confused with the older amateur Liverpool Basketball Club)."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k6",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k6",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "London Lions",
@@ -101746,8 +101746,8 @@
       "desc_en": "London — two-time SLB champions (2024/25, 2025/26), the league's most successful club."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k7",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k7",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Manchester Basketball",
@@ -101757,8 +101757,8 @@
       "desc_en": "Manchester — one of two entirely new clubs founded alongside the league's 2024 launch, playing at the National Basketball Centre."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k8",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k8",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Newcastle Eagles",
@@ -101768,8 +101768,8 @@
       "desc_en": "Newcastle — historically the most successful British basketball club from the BBL era."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k9",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k9",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Sheffield Sharks",
@@ -101779,8 +101779,8 @@
       "desc_en": "Sheffield — winners of the Cup in SLB's inaugural 2024/25 season."
     },
     {
-      "id": "f_bas_klu_eu_gbr_k10",
-      "parentId": "f_bas_klu_eu_gbr",
+      "id": "f_bas_gbr_l1_k10",
+      "parentId": "f_bas_gbr_l1",
       "type": "link",
       "icon": "",
       "name": "Surrey 89ers",
@@ -106442,7 +106442,7 @@
       "name": "EuroLeague Stats",
       "desc": "Oficiálne štatistiky hráčov a tímov najlepšej európskej klubovej súťaže.",
       "url": "https://www.euroleaguebasketball.net/en/euroleague/stats/",
-      "order": 3,
+      "order": 22,
       "desc_en": "Official player and team statistics from Europe's top club competition."
     },
     {
@@ -106453,7 +106453,7 @@
       "name": "Basketball-Reference",
       "desc": "Absolútny štandard pre NBA, WNBA aj históriu — pokročilé metriky (PER, Win Shares, True Shooting) a obrovský archív.",
       "url": "https://www.basketball-reference.com/",
-      "order": 4,
+      "order": 3,
       "desc_en": "The absolute standard for the NBA, WNBA and history — advanced metrics (PER, Win Shares, True Shooting) and a huge archive."
     },
     {
@@ -106464,7 +106464,7 @@
       "name": "Cleaning the Glass",
       "desc": "Detailné NBA štatistiky, ktoré ako jedny z mála odfiltrujú „garbage time“ a dajú presnejší obraz o sile tímu.",
       "url": "https://cleaningtheglass.com/",
-      "order": 5,
+      "order": 4,
       "desc_en": "Detailed NBA stats that, unusually, filter out garbage time for a truer picture of a team's strength."
     },
     {
@@ -106475,7 +106475,7 @@
       "name": "PBP Stats",
       "desc": "Play-by-play dáta, herné kombinácie a on/off court porovnania výkonu tímu s hráčom a bez neho.",
       "url": "https://www.pbpstats.com/",
-      "order": 6,
+      "order": 5,
       "desc_en": "Play-by-play data, lineup combinations and on/off court comparisons of team performance with and without a player."
     },
     {
@@ -106486,7 +106486,7 @@
       "name": "Dunks & Threes",
       "desc": "Domov metriky EPM — moderného hodnotenia prínosu hráčov v NBA.",
       "url": "https://dunksandthrees.com/",
-      "order": 7,
+      "order": 6,
       "desc_en": "Home of EPM, a modern metric for measuring NBA player impact."
     },
     {
@@ -106497,7 +106497,7 @@
       "name": "NBAstuffer",
       "desc": "Tempo, efektivita a tímové metriky NBA prehľadne na jednom mieste.",
       "url": "https://www.nbastuffer.com/",
-      "order": 8,
+      "order": 7,
       "desc_en": "NBA pace, efficiency and team metrics laid out clearly in one place."
     },
     {
@@ -106508,7 +106508,7 @@
       "name": "Basketball Monster",
       "desc": "Analytický nástroj s modelom Usage Monster, ktorý prepočíta rozdelenie striel a minút pri absencii lídra.",
       "url": "https://basketballmonster.com/",
-      "order": 9,
+      "order": 8,
       "desc_en": "An analytics tool whose Usage Monster model recalculates shot and minute distribution when a leading player is out."
     },
     {
@@ -106519,7 +106519,7 @@
       "name": "PopcornMachine",
       "desc": "Vizualizácia striedaní po štvrtinách — na prvý pohľad ukáže, ako tréneri rotujú zostavu.",
       "url": "https://popcornmachine.net/",
-      "order": 10,
+      "order": 9,
       "desc_en": "Substitution charts quarter by quarter, showing at a glance how coaches rotate their lineups."
     },
     {
@@ -106530,7 +106530,7 @@
       "name": "RotoWire NBA Injury Report",
       "desc": "Neustále aktualizovaný zoznam zranených hráčov celej NBA s očakávaným dátumom návratu.",
       "url": "https://www.rotowire.com/basketball/injury-report.php",
-      "order": 11,
+      "order": 10,
       "desc_en": "A constantly updated list of injured players across the NBA with expected return dates."
     },
     {
@@ -106541,7 +106541,7 @@
       "name": "Covers NBA Statistics",
       "desc": "Bilancie ATS, štatistiky Over/Under, trendy rozhodcov a hlásenia o zraneniach v NBA.",
       "url": "https://www.covers.com/sport/basketball/nba/statistics",
-      "order": 12,
+      "order": 11,
       "desc_en": "NBA against-the-spread records, over/under stats, referee trends and injury reports."
     },
     {
@@ -106552,7 +106552,7 @@
       "name": "HoopsHype",
       "desc": "Prestupové fámy, novinky a najmä ťažko dostupné údaje o platoch hráčov.",
       "url": "https://hoopshype.com/",
-      "order": 13,
+      "order": 12,
       "desc_en": "Trade rumours, news and, above all, hard-to-find player salary data."
     },
     {
@@ -106563,7 +106563,7 @@
       "name": "Basketball Insiders",
       "desc": "Denné NBA spravodajstvo, analýzy a rebríčky.",
       "url": "https://www.basketballinsiders.com/",
-      "order": 14,
+      "order": 13,
       "desc_en": "Daily NBA news, analysis and rankings."
     },
     {
@@ -106574,7 +106574,7 @@
       "name": "SLAM",
       "desc": "Legendárny americký magazín — basketbal ako kultúra, nielen ako výsledky.",
       "url": "https://slamonline.com/",
-      "order": 15,
+      "order": 14,
       "desc_en": "The legendary American magazine — basketball as culture, not just results."
     },
     {
@@ -106585,7 +106585,7 @@
       "name": "NBADraft.net",
       "desc": "Mock drafty, skautingové profily a rebríčky talentov pred vstupom do NBA.",
       "url": "https://www.nbadraft.net/",
-      "order": 16,
+      "order": 15,
       "desc_en": "Mock drafts, scouting profiles and prospect rankings ahead of the NBA draft."
     },
     {
@@ -106596,7 +106596,7 @@
       "name": "Tankathon",
       "desc": "Poradie draftových výberov, simulátor lotérie a prehľad, komu ktorá voľba patrí.",
       "url": "https://www.tankathon.com/",
-      "order": 17,
+      "order": 16,
       "desc_en": "Draft order, a lottery simulator and an overview of who owns which pick."
     },
     {
@@ -106607,7 +106607,7 @@
       "name": "Fadeaway World",
       "desc": "Rebríčky, debaty a ľahšie čítanie zo sveta NBA.",
       "url": "https://fadeawayworld.net/",
-      "order": 18,
+      "order": 17,
       "desc_en": "Rankings, debates and lighter reading from the NBA world."
     },
     {
@@ -106618,7 +106618,7 @@
       "name": "Bart Torvik",
       "desc": "Bezplatná a vysoko prispôsobiteľná analytika univerzitnej NCAA — dáta sa dajú filtrovať aj podľa časových úsekov.",
       "url": "https://barttorvik.com/",
-      "order": 19,
+      "order": 18,
       "desc_en": "Free, highly customisable NCAA college analytics, with data filterable by time period."
     },
     {
@@ -106629,7 +106629,7 @@
       "name": "KenPom",
       "desc": "Zlatý štandard analytiky univerzitného basketbalu, väčšina obsahu je platená.",
       "url": "https://kenpom.com/",
-      "order": 20,
+      "order": 19,
       "desc_en": "The gold standard of college basketball analytics; most of the content is paid."
     },
     {
@@ -106640,7 +106640,7 @@
       "name": "Her Hoop Stats",
       "desc": "Základ pokročilej analytiky ženského basketbalu — WNBA aj univerzitná NCAA.",
       "url": "https://herhoopstats.com/",
-      "order": 21,
+      "order": 20,
       "desc_en": "The cornerstone of women's basketball analytics, covering both the WNBA and NCAA."
     },
     {
@@ -106651,7 +106651,7 @@
       "name": "RealGM",
       "desc": "Súpisky, prestupy, zmluvy a štatistiky z amerických aj medzinárodných súťaží.",
       "url": "https://basketball.realgm.com/",
-      "order": 22,
+      "order": 21,
       "desc_en": "Rosters, transfers, contracts and stats from both American and international competitions."
     },
     {
@@ -107057,12 +107057,12 @@
       "type": "folder",
       "icon": "br",
       "name": "Brazília",
-      "desc": "Brazílske kluby najvyššej ligy NBB",
+      "desc": "Brazílske kluby mužskej NBB a ženskej LBF",
       "order": 2,
       "slug": "brazilia",
       "name_en": "Brazil",
       "slug_en": "brazil",
-      "desc_en": "Brazilian clubs of the top-flight NBB"
+      "desc_en": "Brazilian clubs of the men's NBB and the women's LBF"
     },
     {
       "id": "f_bas_klu_ja_chi",
@@ -107365,8 +107365,8 @@
       "desc_en": "Santa Fe — the basketball section of the football club, back among the elite of Argentine basketball."
     },
     {
-      "id": "f_bas_klu_ja_bra_k1",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k1",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Basket Osasco",
@@ -107376,8 +107376,8 @@
       "desc_en": "Osasco — a club from the São Paulo suburbs that earned its NBB place through the second-tier Liga Ouro; it has no website of its own and posts official news on Facebook."
     },
     {
-      "id": "f_bas_klu_ja_bra_k2",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k2",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Basquete Cearense",
@@ -107387,8 +107387,8 @@
       "desc_en": "Fortaleza — the only club from the north-eastern state of Ceará in the NBB; it has no website of its own, so the link points to its profile on the league site."
     },
     {
-      "id": "f_bas_klu_ja_bra_k3",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k3",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Bauru Basket",
@@ -107398,8 +107398,8 @@
       "desc_en": "Bauru — an inland club from São Paulo state and the 2016/17 NBB champion; it has no website of its own and posts official news on Facebook."
     },
     {
-      "id": "f_bas_klu_ja_bra_k4",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k4",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Botafogo",
@@ -107409,8 +107409,8 @@
       "desc_en": "Rio de Janeiro — the basketball section of a traditional club that helped pioneer Brazilian basketball."
     },
     {
-      "id": "f_bas_klu_ja_bra_k5",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k5",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Brasília Basquete",
@@ -107420,8 +107420,8 @@
       "desc_en": "Brasília — the capital's club and champion of the first NBB seasons."
     },
     {
-      "id": "f_bas_klu_ja_bra_k6",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k6",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Caxias do Sul Basquete",
@@ -107431,8 +107431,8 @@
       "desc_en": "Caxias do Sul — a club from the highlands of Rio Grande do Sul that worked its way into the NBB from the lower tier."
     },
     {
-      "id": "f_bas_klu_ja_bra_k7",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k7",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Corinthians",
@@ -107442,8 +107442,8 @@
       "desc_en": "São Paulo — the basketball section of one of Brazil's most popular clubs."
     },
     {
-      "id": "f_bas_klu_ja_bra_k8",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k8",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Cruzeiro",
@@ -107453,8 +107453,8 @@
       "desc_en": "Belo Horizonte — the basketball project of the famous football club; it has no website of its own yet, so the link points to its profile on the league site."
     },
     {
-      "id": "f_bas_klu_ja_bra_k9",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k9",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Flamengo",
@@ -107464,8 +107464,8 @@
       "desc_en": "Rio de Janeiro — the most successful NBB club and a FIBA Intercontinental Cup winner, playing at the Maracanãzinho."
     },
     {
-      "id": "f_bas_klu_ja_bra_k10",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k10",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Franca",
@@ -107475,8 +107475,8 @@
       "desc_en": "Franca — the oldest basketball club in São Paulo state and the record champion of Brazilian basketball."
     },
     {
-      "id": "f_bas_klu_ja_bra_k11",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k11",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Minas Tênis Clube",
@@ -107486,8 +107486,8 @@
       "desc_en": "Belo Horizonte — a large multi-sport club, an NBB champion and Basketball Champions League Americas winner."
     },
     {
-      "id": "f_bas_klu_ja_bra_k12",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k12",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Mogi Basquete",
@@ -107497,8 +107497,8 @@
       "desc_en": "Mogi das Cruzes — a club from Greater São Paulo and an NBB regular; it has no website of its own and posts official news on Facebook."
     },
     {
-      "id": "f_bas_klu_ja_bra_k13",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k13",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Pato Basquete",
@@ -107508,8 +107508,8 @@
       "desc_en": "Pato Branco — a club from south-western Paraná state, one of the youngest in the NBB."
     },
     {
-      "id": "f_bas_klu_ja_bra_k14",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k14",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Paulistano",
@@ -107519,8 +107519,8 @@
       "desc_en": "São Paulo — a traditional club from Jardim América, an NBB champion and Liga Sudamericana winner; basketball is one of the club's sections."
     },
     {
-      "id": "f_bas_klu_ja_bra_k15",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k15",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Pinheiros",
@@ -107530,19 +107530,19 @@
       "desc_en": "São Paulo — a large multi-sport club whose basketball team is an NBB regular; the club website is unavailable, so the link points to its official Facebook page."
     },
     {
-      "id": "f_bas_klu_ja_bra_k16",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k16",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "São José Basketball",
-      "desc": "São José dos Campos — klub z údolia rieky Paraíba, ktorý sa vrátil do NBB; vlastný web nemá, oficiálne informácie dáva na Facebooku.",
-      "url": "https://www.facebook.com/saojosebasketball/",
+      "desc": "São José dos Campos — klub z údolia rieky Paraíba, ktorý sa vrátil do NBB.",
+      "url": "https://saojosebasketball.com.br/",
       "order": 15,
-      "desc_en": "São José dos Campos — a club from the Paraíba Valley that has returned to the NBB; it has no website of its own and posts official news on Facebook."
+      "desc_en": "São José dos Campos — a club from the Paraíba Valley that has returned to the NBB."
     },
     {
-      "id": "f_bas_klu_ja_bra_k17",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k17",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "União Corinthians",
@@ -107552,8 +107552,8 @@
       "desc_en": "Santa Cruz do Sul — a club from Rio Grande do Sul state that has fought its way into the NBB."
     },
     {
-      "id": "f_bas_klu_ja_bra_k18",
-      "parentId": "f_bas_klu_ja_bra",
+      "id": "f_bas_bra_l1_k18",
+      "parentId": "f_bas_bra_l1",
       "type": "link",
       "icon": "",
       "name": "Unifacisa",
@@ -119293,6 +119293,1175 @@
       "url": "https://www.facebook.com/titanesLNB/",
       "order": 8,
       "desc_en": "National District — three-time LNB champion (2008, 2024, 2025), formerly playing as Constituyentes de San Cristóbal."
+    },
+    {
+      "id": "f_bas_svk_l1",
+      "parentId": "f_bas_klu_eu_svk",
+      "type": "folder",
+      "icon": "sk",
+      "name": "SBL",
+      "desc": "Najvyššia slovenská basketbalová súťaž mužov — Slovenská basketbalová liga, 11 tímov.",
+      "order": 0,
+      "slug": "sbl",
+      "name_en": "SBL",
+      "slug_en": "sbl",
+      "desc_en": "Slovakia's top men's basketball league — the Slovenská basketbalová liga, 11 clubs."
+    },
+    {
+      "id": "f_bas_svk_l3",
+      "parentId": "f_bas_klu_eu_svk",
+      "type": "folder",
+      "icon": "sk",
+      "name": "Extraliga žien",
+      "desc": "Najvyššia slovenská súťaž ženských klubov, 9 tímov v jedinej lige.",
+      "order": 1,
+      "slug": "extraliga-zien",
+      "name_en": "Extraliga (women)",
+      "slug_en": "extraliga-women",
+      "desc_en": "Slovakia's top women's basketball league, featuring 9 clubs in a single division."
+    },
+    {
+      "id": "f_bas_swe_l1",
+      "parentId": "f_bas_klu_eu_swe",
+      "type": "folder",
+      "icon": "se",
+      "name": "Basketligan",
+      "desc": "Najvyššia švédska basketbalová súťaž mužov — Basketligan, 11 tímov.",
+      "order": 0,
+      "slug": "basketligan",
+      "name_en": "Basketligan",
+      "slug_en": "basketligan",
+      "desc_en": "Sweden's top men's basketball league — the Basketligan, 11 clubs."
+    },
+    {
+      "id": "f_bas_swe_l3",
+      "parentId": "f_bas_klu_eu_swe",
+      "type": "folder",
+      "icon": "se",
+      "name": "SBL Dam (ženy)",
+      "desc": "Najvyššia švédska súťaž ženských klubov — Svenska Basketligan Dam, 12 tímov.",
+      "order": 1,
+      "slug": "sbl-dam-zeny",
+      "name_en": "SBL Dam (women)",
+      "slug_en": "sbl-dam-women",
+      "desc_en": "Sweden's top women's basketball league — the Svenska Basketligan Dam, 12 clubs."
+    },
+    {
+      "id": "f_bas_svk_l3_k1",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Basketbal Trenčín",
+      "desc": "Trenčín — klub pôsobiaci v extralige žien od sezóny 2023/24, v baráži 2026 si udržal miesto medzi elitou.",
+      "url": "https://basketbaltrencin.sk/",
+      "order": 0,
+      "desc_en": "Trenčín — a club in the women's Extraliga since 2023/24, which kept its top-flight spot in the 2026 relegation play-off."
+    },
+    {
+      "id": "f_bas_svk_l3_k2",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BK Klokani Ivanka pri Dunaji",
+      "desc": "Ivanka pri Dunaji — klub s prezývkou „Klokani“ z obce neďaleko Bratislavy, dlhoročná liaheň mládeže.",
+      "url": "https://bkklokani.sk/",
+      "order": 1,
+      "desc_en": "Ivanka pri Dunaji — nicknamed the \"Kangaroos\", from a village near Bratislava with a long youth tradition."
+    },
+    {
+      "id": "f_bas_svk_l3_k3",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BK ŠK UMB Banská Bystrica",
+      "desc": "Banská Bystrica — univerzitný klub UMB prezývaný „Sovičky“, pred sezónou 2026/27 spojil sily so Sláviou.",
+      "url": "https://www.sportklub.umb.sk/basket-uvod",
+      "order": 2,
+      "desc_en": "Banská Bystrica — the UMB university club nicknamed the \"Little Owls\", which joined forces with Slávia before the 2026/27 season."
+    },
+    {
+      "id": "f_bas_svk_l3_k4",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CBK Košice",
+      "desc": "Košice — klub s koreňmi siahajúcimi do roku 1984, hráva v mestskej časti Šaca.",
+      "url": "https://www.cbkkosice.sk/",
+      "order": 3,
+      "desc_en": "Košice — a club with roots going back to 1984, playing in the Šaca district."
+    },
+    {
+      "id": "f_bas_svk_l3_k5",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "MBK Ružomberok",
+      "desc": "Ružomberok — obhajca slovenského titulu a dvojnásobný víťaz ženskej Euroligy (1999, 2000).",
+      "url": "https://www.mbkruzomberok.sk/",
+      "order": 4,
+      "desc_en": "Ružomberok — the reigning Slovak champion and two-time EuroLeague Women winner (1999, 2000)."
+    },
+    {
+      "id": "f_bas_svk_l3_k6",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Piešťanské Čajky",
+      "desc": "Piešťany — štvornásobný majster Slovenska a víťaz Stredoeurópskej ligy žien, hrá v Diplomat aréne.",
+      "url": "https://www.piestanskecajky.sk/",
+      "order": 5,
+      "desc_en": "Piešťany — four-time Slovak champion and Central Europe Women's League winner, playing at the Diplomat Arena."
+    },
+    {
+      "id": "f_bas_svk_l3_k7",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "ŠBK Šamorín",
+      "desc": "Šamorín — žitnoostrovský klub s vlastnou mládežníckou akadémiou.",
+      "url": "https://sbksamorin.sk/",
+      "order": 6,
+      "desc_en": "Šamorín — a club from the Žitný ostrov region with its own youth academy."
+    },
+    {
+      "id": "f_bas_svk_l3_k8",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "WBC Slovan Bratislava",
+      "desc": "Bratislava — ženská vetva tradičnej značky Slovan, finalista Ronchettiho pohára 1978.",
+      "url": "https://www.wbcslovan.sk/sk/",
+      "order": 7,
+      "desc_en": "Bratislava — the women's branch of the traditional Slovan brand, runner-up in the 1978 Ronchetti Cup."
+    },
+    {
+      "id": "f_bas_svk_l3_k9",
+      "parentId": "f_bas_svk_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Young Angels Košice",
+      "desc": "Košice — akadémia nadväzujúca na slávne Good Angels, dlhoročný líder slovenského ženského basketbalu.",
+      "url": "https://www.youngangels.sk/sk",
+      "order": 8,
+      "desc_en": "Košice — the academy carrying on from the famous Good Angels, a long-time leader of Slovak women's basketball."
+    },
+    {
+      "id": "f_bas_swe_l3_k1",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "AIK Basket",
+      "desc": "Solna — basketbalová vetva tradičnej štokholmskej značky AIK.",
+      "url": "https://www.aikbasket.se/",
+      "order": 0,
+      "desc_en": "Solna — the basketball branch of Stockholm's traditional AIK brand."
+    },
+    {
+      "id": "f_bas_swe_l3_k2",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Alvik Basket",
+      "desc": "Štokholm — klub zo štvrte Alvik, známa liaheň švédskych reprezentantov.",
+      "url": "https://alvikbasket.nu/",
+      "order": 1,
+      "desc_en": "Stockholm — a club from the Alvik district, a renowned cradle of Swedish internationals."
+    },
+    {
+      "id": "f_bas_swe_l3_k3",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Brahe Basket",
+      "desc": "Huskvarna — klub od jazera Vättern, do najvyššej súťaže sa vrátil po 14 rokoch v roku 2025.",
+      "url": "https://www.brahebasket.se/",
+      "order": 2,
+      "desc_en": "Huskvarna — a club by Lake Vättern that returned to the top flight in 2025 after 14 years."
+    },
+    {
+      "id": "f_bas_swe_l3_k4",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Högsbo Basket",
+      "desc": "Göteborg — ženský tím klubu zo štvrte Högsbo, prezývaného „Lions“.",
+      "url": "https://www.hogsbolions.se",
+      "order": 3,
+      "desc_en": "Gothenburg — the women's team of the Högsbo district club, nicknamed the \"Lions\"."
+    },
+    {
+      "id": "f_bas_swe_l3_k5",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "IK Eos",
+      "desc": "Lund — klub z univerzitného mesta na juhu Švédska, hráva v Eoshallen.",
+      "url": "https://www.eoslund.se/",
+      "order": 4,
+      "desc_en": "Lund — a club from the university city in southern Sweden, playing at the Eoshallen."
+    },
+    {
+      "id": "f_bas_swe_l3_k6",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Luleå Basket",
+      "desc": "Luleå — obhajca titulu a dlhodobo najúspešnejší švédsky ženský klub.",
+      "url": "https://luleabasket.com/",
+      "order": 5,
+      "desc_en": "Luleå — the reigning champion and Sweden's most successful women's club of recent times."
+    },
+    {
+      "id": "f_bas_swe_l3_k7",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Norrköping Dolphins",
+      "desc": "Norrköping — ženský tím Dolphins, klub pôsobí v najvyššej súťaži mužov aj žien.",
+      "url": "https://www.dolphins.se",
+      "order": 6,
+      "desc_en": "Norrköping — the Dolphins' women's team; the club plays in both the men's and women's top flight."
+    },
+    {
+      "id": "f_bas_swe_l3_k8",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Onsala Pirates",
+      "desc": "Onsala — klub z okolia Kungsbacky na západnom pobreží, založený v roku 2007.",
+      "url": "https://www.onsalapirates.se/",
+      "order": 7,
+      "desc_en": "Onsala — a club from the Kungsbacka area on the west coast, founded in 2007."
+    },
+    {
+      "id": "f_bas_swe_l3_k9",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Östersund Basket",
+      "desc": "Östersund — samostatný ženský klub z Jämtlandu, vznikol rozdelením mestského basketbalu v roku 2017.",
+      "url": "https://ostersundbasket.se/",
+      "order": 8,
+      "desc_en": "Östersund — an independent women's club from Jämtland, created when the city's basketball split in 2017."
+    },
+    {
+      "id": "f_bas_swe_l3_k10",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Södertälje BBK",
+      "desc": "Södertälje — ženská zložka klubu s bohatou tradíciou a titulmi v mužskej aj ženskej kategórii.",
+      "url": "https://www.sbbk.se",
+      "order": 9,
+      "desc_en": "Södertälje — the women's section of a club with a rich tradition and titles in both the men's and women's game."
+    },
+    {
+      "id": "f_bas_swe_l3_k11",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Uppsala Basket",
+      "desc": "Uppsala — ženský tím klubu z jedného z najstarších univerzitných miest Švédska.",
+      "url": "https://www.uppsalabasket.se",
+      "order": 10,
+      "desc_en": "Uppsala — the women's team of the club from one of Sweden's oldest university cities."
+    },
+    {
+      "id": "f_bas_swe_l3_k12",
+      "parentId": "f_bas_swe_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Visby Ladies",
+      "desc": "Visby — klub z ostrova Gotland, v najvyššej súťaži hrá nepretržite už piate desaťročie.",
+      "url": "https://www.visbyladies.se/",
+      "order": 11,
+      "desc_en": "Visby — a club from the island of Gotland, now in its fifth straight decade in the top flight."
+    },
+    {
+      "id": "f_bas_isl_l1",
+      "parentId": "f_bas_klu_eu_isl",
+      "type": "folder",
+      "icon": "is",
+      "name": "Úrvalsdeild",
+      "desc": "Najvyššia islandská basketbalová súťaž mužov — Úrvalsdeild karla, 12 tímov.",
+      "order": 0,
+      "slug": "urvalsdeild",
+      "name_en": "Úrvalsdeild",
+      "slug_en": "urvalsdeild",
+      "desc_en": "Iceland's top men's basketball league — the Úrvalsdeild karla, 12 clubs."
+    },
+    {
+      "id": "f_bas_isl_l3",
+      "parentId": "f_bas_klu_eu_isl",
+      "type": "folder",
+      "icon": "is",
+      "name": "Úrvalsdeild kvenna (ženy)",
+      "desc": "Najvyššia islandská súťaž ženských klubov — Úrvalsdeild kvenna (Bónus deild kvenna), 10 tímov.",
+      "order": 1,
+      "slug": "urvalsdeild-kvenna-zeny",
+      "name_en": "Úrvalsdeild kvenna (women)",
+      "slug_en": "urvalsdeild-kvenna-women",
+      "desc_en": "Iceland's top women's basketball league — the Úrvalsdeild kvenna (Bónus deild kvenna), 10 clubs."
+    },
+    {
+      "id": "f_bas_fin_l1",
+      "parentId": "f_bas_klu_eu_fin",
+      "type": "folder",
+      "icon": "fi",
+      "name": "Korisliiga",
+      "desc": "Najvyššia fínska basketbalová súťaž mužov — Korisliiga, 12 tímov.",
+      "order": 0,
+      "slug": "korisliiga",
+      "name_en": "Korisliiga",
+      "slug_en": "korisliiga",
+      "desc_en": "Finland's top men's basketball league — the Korisliiga, 12 clubs."
+    },
+    {
+      "id": "f_bas_fin_l3",
+      "parentId": "f_bas_klu_eu_fin",
+      "type": "folder",
+      "icon": "fi",
+      "name": "Naisten Korisliiga (ženy)",
+      "desc": "Najvyššia fínska súťaž ženských klubov — Naisten Korisliiga, 9 tímov.",
+      "order": 1,
+      "slug": "naisten-korisliiga-zeny",
+      "name_en": "Naisten Korisliiga (women)",
+      "slug_en": "naisten-korisliiga-women",
+      "desc_en": "Finland's top women's basketball league — the Naisten Korisliiga, 9 clubs."
+    },
+    {
+      "id": "f_bas_isl_l3_k1",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Ármann",
+      "desc": "Reykjavík — ženský tím jedného z najstarších športových klubov na Islande.",
+      "url": "https://armenningar.is/korfubolti/meistaraflokkur-kvenna/",
+      "order": 0,
+      "desc_en": "Reykjavík — the women's team of one of Iceland's oldest sports clubs."
+    },
+    {
+      "id": "f_bas_isl_l3_k2",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Fjölnir",
+      "desc": "Reykjavík — tím z mestskej časti Grafarvogur, súčasť veľkého viacšportového klubu.",
+      "url": "https://fjolnir.is/korfubolti/meistaraflokkur-kvk/",
+      "order": 1,
+      "desc_en": "Reykjavík — a team from the Grafarvogur district, part of a large multi-sport club."
+    },
+    {
+      "id": "f_bas_isl_l3_k3",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Grindavík",
+      "desc": "Grindavík — ženský tím klubu z rybárskeho mesta na polostrove Reykjanes.",
+      "url": "https://www.facebook.com/umfgrindavik/",
+      "order": 2,
+      "desc_en": "Grindavík — the women's team of the club from the fishing town on the Reykjanes peninsula."
+    },
+    {
+      "id": "f_bas_isl_l3_k4",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Haukar",
+      "desc": "Hafnarfjörður — dlhodobá špička islandského ženského basketbalu, majsterky z roku 2025.",
+      "url": "https://www.haukar.is/meistaraflokkur-kvenna-korfubolti/",
+      "order": 3,
+      "desc_en": "Hafnarfjörður — a long-time force in Icelandic women's basketball, champions in 2025."
+    },
+    {
+      "id": "f_bas_isl_l3_k5",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Keflavík",
+      "desc": "Keflavík — rekordný majster ženskej súťaže, mesto pri medzinárodnom letisku.",
+      "url": "https://korfubolti.keflavik.is/meistaraflokkar/mfl-kvenna",
+      "order": 4,
+      "desc_en": "Keflavík — record champions of the women's league, from the town by the international airport."
+    },
+    {
+      "id": "f_bas_isl_l3_k6",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "KR Reykjavík",
+      "desc": "Reykjavík — ženský tím najstaršieho islandského športového klubu, založeného v roku 1899.",
+      "url": "https://www.kr.is/karfa-kvk",
+      "order": 5,
+      "desc_en": "Reykjavík — the women's team of Iceland's oldest sports club, founded in 1899."
+    },
+    {
+      "id": "f_bas_isl_l3_k7",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Njarðvík",
+      "desc": "Njarðvík — tím z basketbalovej bašty Reykjanesbær, majsterky z roku 2026.",
+      "url": "https://umfn.is/meistaraflokkur-kvenna/",
+      "order": 6,
+      "desc_en": "Njarðvík — a team from the basketball stronghold of Reykjanesbær, champions in 2026."
+    },
+    {
+      "id": "f_bas_isl_l3_k8",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Stjarnan",
+      "desc": "Garðabær — ženský tím viacšportového klubu z mesta susediaceho s Reykjavíkom.",
+      "url": "https://www.stjarnan.is/meistaraflokkur-kvenna-korfubolti",
+      "order": 7,
+      "desc_en": "Garðabær — the women's team of the multi-sport club from the town neighbouring Reykjavík."
+    },
+    {
+      "id": "f_bas_isl_l3_k9",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Tindastóll",
+      "desc": "Sauðárkrókur — ženský tím klubu zo severného Islandu.",
+      "url": "https://www.tindastoll.is/korfubolti",
+      "order": 8,
+      "desc_en": "Sauðárkrókur — the women's team of the club from northern Iceland."
+    },
+    {
+      "id": "f_bas_isl_l3_k10",
+      "parentId": "f_bas_isl_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Valur",
+      "desc": "Reykjavík — ženský tím jedného z najúspešnejších športových klubov krajiny.",
+      "url": "https://www.valur.is/korfubolti/dominos-deild-kvenna.aspx",
+      "order": 9,
+      "desc_en": "Reykjavík — the women's team of one of the country's most successful sports clubs."
+    },
+    {
+      "id": "f_bas_fin_l3_k1",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BC Nokia",
+      "desc": "Nokia — klub z mesta, ktoré dalo meno slávnej telekomunikačnej firme.",
+      "url": "https://www.bcnokianaiset.fi",
+      "order": 0,
+      "desc_en": "Nokia — a club from the town that gave its name to the famous telecoms company."
+    },
+    {
+      "id": "f_bas_fin_l3_k2",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Espoo Basket Team",
+      "desc": "Espoo — klub z druhého najväčšieho fínskeho mesta, vystupuje pod skratkou EBT.",
+      "url": "https://ebt.fi/naisten-korisliiga/",
+      "order": 1,
+      "desc_en": "Espoo — a club from Finland's second-largest city, known by the abbreviation EBT."
+    },
+    {
+      "id": "f_bas_fin_l3_k3",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "HBA-Märsky",
+      "desc": "Helsinki — tím basketbalovej akadémie pri športovom gymnáziu Mäkelänrinne, hrá v hale Urhea.",
+      "url": "https://www.hba.fi",
+      "order": 2,
+      "desc_en": "Helsinki — the team of the basketball academy at the Mäkelänrinne sports school, playing at the Urhea Arena."
+    },
+    {
+      "id": "f_bas_fin_l3_k4",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Kouvottaret",
+      "desc": "Kouvola — ženská odnož klubu Kouvot, názov je ženským tvarom mena materského klubu.",
+      "url": "https://www.kouvottaret.fi",
+      "order": 3,
+      "desc_en": "Kouvola — the women's offshoot of the Kouvot club, its name being the feminine form of the parent club's."
+    },
+    {
+      "id": "f_bas_fin_l3_k5",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Peli-Karhut",
+      "desc": "Kotka — prístavné mesto, dlhodobo najúspešnejší klub fínskeho ženského basketbalu.",
+      "url": "https://www.pelikarhut.fi/naiset-edustus/",
+      "order": 4,
+      "desc_en": "Kotka — a port city, home to the most successful club in Finnish women's basketball."
+    },
+    {
+      "id": "f_bas_fin_l3_k6",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Tampereen Pyrintö",
+      "desc": "Tampere — basketbalový oddiel veľkého viacšportového klubu založeného v roku 1896.",
+      "url": "https://tampereenpyrinto.fi/koripallo/",
+      "order": 5,
+      "desc_en": "Tampere — the basketball section of a large multi-sport club founded in 1896."
+    },
+    {
+      "id": "f_bas_fin_l3_k7",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Tapiolan Honka",
+      "desc": "Espoo — ženský tím klubu presláveného výchovou basketbalovej mládeže.",
+      "url": "https://www.tapiolanhonka.fi/joukkueet/naiset-edustus/",
+      "order": 6,
+      "desc_en": "Espoo — the women's team of a club renowned for its basketball youth development."
+    },
+    {
+      "id": "f_bas_fin_l3_k8",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Torpan Pojat",
+      "desc": "Helsinki — tradičný klub známy pod skratkou ToPo, založený v roku 1932.",
+      "url": "https://www.topo.fi/topo-naiset/",
+      "order": 7,
+      "desc_en": "Helsinki — a traditional club known as ToPo, founded in 1932."
+    },
+    {
+      "id": "f_bas_fin_l3_k9",
+      "parentId": "f_bas_fin_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Vimpelin Veto",
+      "desc": "Vimpeli — klub preslávený najmä fínskym bejzbalom pesäpallo, basketbalistky hrajú najvyššiu súťaž.",
+      "url": "https://vimpelinveto.fi/korisliiga",
+      "order": 8,
+      "desc_en": "Vimpeli — a club famed mainly for pesäpallo, Finnish baseball, whose women's side plays top-flight basketball."
+    },
+    {
+      "id": "f_bas_gbr_l1",
+      "parentId": "f_bas_klu_eu_gbr",
+      "type": "folder",
+      "icon": "gb",
+      "name": "Super League Basketball",
+      "desc": "Najvyššia britská basketbalová súťaž mužov — Super League Basketball, 10 tímov.",
+      "order": 0,
+      "slug": "super-league-basketball",
+      "name_en": "Super League Basketball",
+      "slug_en": "super-league-basketball",
+      "desc_en": "Britain's top men's basketball league — Super League Basketball, 10 clubs."
+    },
+    {
+      "id": "f_bas_gbr_l3",
+      "parentId": "f_bas_klu_eu_gbr",
+      "type": "folder",
+      "icon": "gb",
+      "name": "Super League Basketball (ženy)",
+      "desc": "Najvyššia britská súťaž ženských klubov — Super League Basketball Women, 10 tímov.",
+      "order": 1,
+      "slug": "super-league-basketball-zeny",
+      "name_en": "Super League Basketball (women)",
+      "slug_en": "super-league-basketball-women",
+      "desc_en": "Britain's top women's basketball league — Super League Basketball Women, 10 clubs."
+    },
+    {
+      "id": "f_bas_gbr_l3_k1",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Caledonia Gladiators",
+      "desc": "East Kilbride — jediný škótsky klub súťaže, ženský tím Gladiators hrá v Playsport Arene.",
+      "url": "https://caledoniagladiators.com/womens-team-roster/",
+      "order": 0,
+      "desc_en": "East Kilbride — the league's only Scottish club, with the Gladiators' women's team playing at the Playsport Arena."
+    },
+    {
+      "id": "f_bas_gbr_l3_k2",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Cardiff Met Archers",
+      "desc": "Cardiff — jediný waleský klub súťaže, spätý s univerzitou Cardiff Met, hrá v Archers Arene.",
+      "url": "https://archers.basketball/",
+      "order": 1,
+      "desc_en": "Cardiff — the league's only Welsh club, tied to Cardiff Met University, playing at the Archers Arena."
+    },
+    {
+      "id": "f_bas_gbr_l3_k3",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Essex Rebels",
+      "desc": "Colchester — klub Essexskej univerzity, jediný profesionálny basketbalový oddiel v grófstve.",
+      "url": "https://www.essexrebels.co.uk/basketball/basketball-teams/womens-team/",
+      "order": 2,
+      "desc_en": "Colchester — the University of Essex club and the county's only professional basketball programme."
+    },
+    {
+      "id": "f_bas_gbr_l3_k4",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Leicester Riders",
+      "desc": "Loughborough — ženská zložka najstaršieho profesionálneho basketbalového klubu Británie.",
+      "url": "https://riders.basketball/women/about-riders-women/",
+      "order": 3,
+      "desc_en": "Loughborough — the women's section of Britain's oldest professional basketball club."
+    },
+    {
+      "id": "f_bas_gbr_l3_k5",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "London Lions",
+      "desc": "Londýn — Lions ako prvý britský klub vyhrali európsku trofej, ženský EuroCup 2023.",
+      "url": "https://www.thelondonlions.com",
+      "order": 4,
+      "desc_en": "London — the Lions became the first British club to win a European trophy, the 2023 women's EuroCup."
+    },
+    {
+      "id": "f_bas_gbr_l3_k6",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Manchester Basketball",
+      "desc": "Manchester — mladý klub založený v roku 2024, ženský tím hrá v National Basketball Centre.",
+      "url": "https://www.manchester.basketball/women",
+      "order": 5,
+      "desc_en": "Manchester — a young club founded in 2024, its women's team playing at the National Basketball Centre."
+    },
+    {
+      "id": "f_bas_gbr_l3_k7",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Newcastle Eagles",
+      "desc": "Newcastle — ženská zložka najtrofejnejšieho klubu britskej ligovej histórie, hrá vo Vertu Arene.",
+      "url": "https://newcastle-eagles.com/club/women/",
+      "order": 6,
+      "desc_en": "Newcastle — the women's section of the most decorated club in British league history, playing at the Vertu Arena."
+    },
+    {
+      "id": "f_bas_gbr_l3_k8",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Nottingham Wildcats",
+      "desc": "Nottingham — klub s tradíciou od roku 1976, hrá vo vlastnej Nottingham Wildcats Arene.",
+      "url": "https://nottinghamwildcats.com",
+      "order": 7,
+      "desc_en": "Nottingham — a club with a tradition dating back to 1976, playing at its own Nottingham Wildcats Arena."
+    },
+    {
+      "id": "f_bas_gbr_l3_k9",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Oaklands Wolves",
+      "desc": "St Albans — akademický klub Oaklands College, vychováva mladé hráčky popri štúdiu.",
+      "url": "https://www.oaklands.ac.uk/wolves/basketball/",
+      "order": 8,
+      "desc_en": "St Albans — the Oaklands College academy club, developing young players alongside their studies."
+    },
+    {
+      "id": "f_bas_gbr_l3_k10",
+      "parentId": "f_bas_gbr_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Sheffield Hatters",
+      "desc": "Sheffield — najstarší a najtrofejnejší ženský basketbalový klub Británie, založila ho v roku 1961 Betty Codona.",
+      "url": "https://sheffieldhatters.com",
+      "order": 9,
+      "desc_en": "Sheffield — Britain's oldest and most decorated women's basketball club, founded in 1961 by Betty Codona."
+    },
+    {
+      "id": "f_bas_den_l1",
+      "parentId": "f_bas_klu_eu_den",
+      "type": "folder",
+      "icon": "dk",
+      "name": "Basketligaen",
+      "desc": "Najvyššia dánska basketbalová súťaž mužov — Basketligaen.",
+      "order": 0,
+      "slug": "basketligaen",
+      "name_en": "Basketligaen",
+      "slug_en": "basketligaen",
+      "desc_en": "Denmark's top men's basketball league — the Basketligaen."
+    },
+    {
+      "id": "f_bas_den_l3",
+      "parentId": "f_bas_klu_eu_den",
+      "type": "folder",
+      "icon": "dk",
+      "name": "Kvindebasketligaen (ženy)",
+      "desc": "Najvyššia dánska súťaž ženských klubov — Kvindebasketligaen, 7 tímov.",
+      "order": 1,
+      "slug": "kvindebasketligaen-zeny",
+      "name_en": "Kvindebasketligaen (women)",
+      "slug_en": "kvindebasketligaen-women",
+      "desc_en": "Denmark's top women's basketball league — the Kvindebasketligaen, 7 clubs."
+    },
+    {
+      "id": "f_bas_den_l3_k1",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Aabyhøj IF",
+      "desc": "Aarhus — zeleno-biely klub z Aabyhøj s tradíciou od roku 1963, stálica finálových bojov ligy.",
+      "url": "https://aabybasket.dk/",
+      "order": 0,
+      "desc_en": "Aarhus — the green-and-white club from Aabyhøj, founded in 1963 and a fixture in the league's title battles."
+    },
+    {
+      "id": "f_bas_den_l3_k2",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BK Amager",
+      "desc": "Kastrup — klub z ostrova Amager na okraji Kodane.",
+      "url": "https://www.bkamager.dk/klub/bk-amager/hold/k1",
+      "order": 1,
+      "desc_en": "Kastrup — a club from the island of Amager on the edge of Copenhagen."
+    },
+    {
+      "id": "f_bas_den_l3_k3",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "BMS Herlev",
+      "desc": "Herlev — klub z kodanského predmestia s ligovými tímami mužov aj žien.",
+      "url": "https://bmsherlev.dk/",
+      "order": 2,
+      "desc_en": "Herlev — a Copenhagen-suburb club fielding league teams in both the men's and women's competitions."
+    },
+    {
+      "id": "f_bas_den_l3_k4",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Falcon",
+      "desc": "Frederiksberg — najväčší dánsky basketbalový klub, jeho ženy v posledných rokoch nazbierali sériu titulov.",
+      "url": "https://www.falconbasket.dk/klub/falcon-basketball-klub/hold/kvindebasketligaen",
+      "order": 3,
+      "desc_en": "Frederiksberg — Denmark's largest basketball club, whose women have collected a string of recent titles."
+    },
+    {
+      "id": "f_bas_den_l3_k5",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Hørsholm 79ers",
+      "desc": "Hørsholm — rekordný majster dánskej ženskej ligy, klub založený v roku 1979.",
+      "url": "https://www.79ers.dk/klub/horsholm-79ers-basketball/hold/senior-dame-1-u19-dame-1",
+      "order": 4,
+      "desc_en": "Hørsholm — record champions of the Danish women's league, founded in 1979."
+    },
+    {
+      "id": "f_bas_den_l3_k6",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "SISU",
+      "desc": "Gentofte — jeden z najstarších dánskych basketbalových klubov (1954), hrá v Kildeskovshallen.",
+      "url": "https://sisu.dk/",
+      "order": 5,
+      "desc_en": "Gentofte — one of Denmark's oldest basketball clubs (1954), playing at Kildeskovshallen."
+    },
+    {
+      "id": "f_bas_den_l3_k7",
+      "parentId": "f_bas_den_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Skovbakken Sirens",
+      "desc": "Aarhus — nováčik ligy 2026/27, ktorý vracia elitný ženský basketbal na sever mesta; zatiaľ len facebooková prezentácia.",
+      "url": "https://www.facebook.com/profile.php?id=61590440819841",
+      "order": 6,
+      "desc_en": "Aarhus — the league's 2026/27 newcomer bringing elite women's basketball back to the city's north side; online presence so far only on Facebook."
+    },
+    {
+      "id": "f_bas_aut_l1",
+      "parentId": "f_bas_klu_eu_aut",
+      "type": "folder",
+      "icon": "at",
+      "name": "Basketball Superliga",
+      "desc": "Najvyššia rakúska basketbalová súťaž mužov — Basketball Superliga, 11 tímov.",
+      "order": 0,
+      "slug": "basketball-superliga",
+      "name_en": "Basketball Superliga",
+      "slug_en": "basketball-superliga",
+      "desc_en": "Austria's top men's basketball league — the Basketball Superliga, 11 clubs."
+    },
+    {
+      "id": "f_bas_aut_l3",
+      "parentId": "f_bas_klu_eu_aut",
+      "type": "folder",
+      "icon": "at",
+      "name": "Damen Superliga (ženy)",
+      "desc": "Najvyššia rakúska súťaž ženských klubov — Basketball Damen Superliga, 8 tímov.",
+      "order": 1,
+      "slug": "damen-superliga-zeny",
+      "name_en": "Damen Superliga (women)",
+      "slug_en": "damen-superliga-women",
+      "desc_en": "Austria's top women's basketball league — the Basketball Damen Superliga, 8 clubs."
+    },
+    {
+      "id": "f_bas_aut_l3_k1",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Basket Flames",
+      "desc": "Viedeň — ženský tím najväčšieho viedenského basketbalového klubu, stálica najvyššej súťaže.",
+      "url": "https://basketflames.at/news/mannschaft/damen-1/",
+      "order": 0,
+      "desc_en": "Vienna — the women's team of Vienna's largest basketball club, a fixture of the top league."
+    },
+    {
+      "id": "f_bas_aut_l3_k2",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Danubz Linz",
+      "desc": "Linz — nový ženský klub, ktorý získal licenciu do najvyššej súťaže od sezóny 2026/27.",
+      "url": "https://danubz.at/",
+      "order": 1,
+      "desc_en": "Linz — a new women's club that earned a top-flight licence starting with the 2026/27 season."
+    },
+    {
+      "id": "f_bas_aut_l3_k3",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "DBB Wels",
+      "desc": "Wels — ženské basketbalové výkonnostné centrum Horného Rakúska, zamerané na výchovu talentov.",
+      "url": "https://www.damenbaskets.at/",
+      "order": 2,
+      "desc_en": "Wels — Upper Austria's women's basketball performance centre, focused on developing young talent."
+    },
+    {
+      "id": "f_bas_aut_l3_k4",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Duchess Klosterneuburg",
+      "desc": "Klosterneuburg — ženská sekcia klubu Dukes a viacnásobný rakúsky majster.",
+      "url": "https://bk-klosterneuburg.at/duchess/",
+      "order": 3,
+      "desc_en": "Klosterneuburg — the women's section of the Dukes club and a multiple Austrian champion."
+    },
+    {
+      "id": "f_bas_aut_l3_k5",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "UBI Graz",
+      "desc": "Graz — ženský klub, ktorý pravidelne bojuje o rakúsky titul.",
+      "url": "https://ubi-graz.com/",
+      "order": 4,
+      "desc_en": "Graz — a women's club that regularly contends for the Austrian title."
+    },
+    {
+      "id": "f_bas_aut_l3_k6",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "UBSC-DBBC Graz",
+      "desc": "Graz — klub venovaný výhradne dievčenskému a ženskému basketbalu.",
+      "url": "https://www.dbbc.at/",
+      "order": 5,
+      "desc_en": "Graz — a club dedicated exclusively to girls' and women's basketball."
+    },
+    {
+      "id": "f_bas_aut_l3_k7",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Vienna Timberwolves",
+      "desc": "Viedeň — ženský tím klubu z Donaustadtu, hráva vo Wolves Dome.",
+      "url": "https://viennatimberwolves.at/team/bdsl/",
+      "order": 6,
+      "desc_en": "Vienna — the women's team of the Donaustadt club, playing at the Wolves Dome."
+    },
+    {
+      "id": "f_bas_aut_l3_k8",
+      "parentId": "f_bas_aut_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Vienna United",
+      "desc": "Viedeň — klub nadväzujúci na tradíciu PSV Capricorns, bez vlastného webu — oficiálny facebookový profil.",
+      "url": "https://www.facebook.com/viennaunitedbasketball/",
+      "order": 7,
+      "desc_en": "Vienna — a club continuing the PSV Capricorns tradition; with no website of its own, this is its official Facebook page."
+    },
+    {
+      "id": "f_bas_ned_l1",
+      "parentId": "f_bas_klu_eu_ned",
+      "type": "folder",
+      "icon": "nl",
+      "name": "BNXT League",
+      "desc": "Holandská časť spoločnej belgicko-holandskej BNXT League, 5 klubov.",
+      "order": 0,
+      "slug": "bnxt-league",
+      "name_en": "BNXT League",
+      "slug_en": "bnxt-league",
+      "desc_en": "The Dutch side of the joint Belgian-Dutch BNXT League, 5 clubs."
+    },
+    {
+      "id": "f_bas_ned_l3",
+      "parentId": "f_bas_klu_eu_ned",
+      "type": "folder",
+      "icon": "nl",
+      "name": "WBL (ženy)",
+      "desc": "Najvyššia holandská súťaž ženských klubov — Women's Basketball League, 10 tímov.",
+      "order": 1,
+      "slug": "wbl-zeny",
+      "name_en": "WBL (women)",
+      "slug_en": "wbl-women",
+      "desc_en": "The Netherlands' top women's basketball league — the Women's Basketball League, 10 clubs."
+    },
+    {
+      "id": "f_bas_ned_l3_k1",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "CBV Binnenland",
+      "desc": "Barendrecht — viacgeneračný klub pri Rotterdame, ktorého ženy patria k stáliciam najvyššej súťaže.",
+      "url": "https://cbvbinnenland.nl/",
+      "order": 0,
+      "desc_en": "Barendrecht — a long-established club near Rotterdam whose women's team is a fixture of the top league."
+    },
+    {
+      "id": "f_bas_ned_l3_k2",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Den Helder Suns",
+      "desc": "Den Helder — mesto s najbohatšou tradíciou holandského ženského basketbalu, majsterky z rokov 2021 a 2022.",
+      "url": "https://dames.denheldersuns.nl/",
+      "order": 1,
+      "desc_en": "Den Helder — the town with the richest tradition in Dutch women's basketball, champions in 2021 and 2022."
+    },
+    {
+      "id": "f_bas_ned_l3_k3",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "GET United",
+      "desc": "Bemmel — spoločný gelderský klub, v sezóne 2026/27 vystupuje pod sponzorským názvom QSTA United.",
+      "url": "https://unitedbasketball.nl/team/dames/",
+      "order": 2,
+      "desc_en": "Bemmel — a joint Gelderland club, competing under the sponsored name QSTA United in the 2026/27 season."
+    },
+    {
+      "id": "f_bas_ned_l3_k4",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Grasshoppers",
+      "desc": "Katwijk — úradujúce majsterky a dominantný klub posledných rokov holandskej ligy.",
+      "url": "https://grasshoppers.nl/teams/vse-1/",
+      "order": 3,
+      "desc_en": "Katwijk — the reigning champions and the dominant club of recent years in the Dutch league."
+    },
+    {
+      "id": "f_bas_ned_l3_k5",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Jolly Jumpers",
+      "desc": "Tubbergen — dedinský klub s vyše polstoročnou históriou, majster z roku 2002.",
+      "url": "https://jollyjumpersbasketbal.nl/",
+      "order": 4,
+      "desc_en": "Tubbergen — a village club with more than half a century of history, champions in 2002."
+    },
+    {
+      "id": "f_bas_ned_l3_k6",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Landstede Hammers",
+      "desc": "Zwolle — ženský tím klubu z BNXT League, v najvyššej súťaži hráva pod názvom Comfective Hammers.",
+      "url": "https://landstedehammers.nl/comfective-hammers/",
+      "order": 5,
+      "desc_en": "Zwolle — the women's team of the BNXT League club, playing in the top flight as Comfective Hammers."
+    },
+    {
+      "id": "f_bas_ned_l3_k7",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Lions Landsmeer",
+      "desc": "Landsmeer — klub s množstvom titulov z 21. storočia, dnes vystupuje pod názvom TopKip Lions.",
+      "url": "https://www.lionsbasketball.nl/",
+      "order": 6,
+      "desc_en": "Landsmeer — a club with numerous 21st-century titles, currently competing as TopKip Lions."
+    },
+    {
+      "id": "f_bas_ned_l3_k8",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Orange Lions Academy",
+      "desc": "Amsterdam — rozvojový tím holandskej basketbalovej federácie pre najväčšie mladé talenty.",
+      "url": "https://basketball.nl/orange-lions/academy/vrouwen/",
+      "order": 7,
+      "desc_en": "Amsterdam — the Dutch basketball federation's development team for its top young talents."
+    },
+    {
+      "id": "f_bas_ned_l3_k9",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "Triple Threat",
+      "desc": "Haarlem — klub založený v roku 2009 pre mládež zo štvrte Schalkwijk, dnes hrá aj najvyššiu ženskú súťaž.",
+      "url": "https://www.vereniging.triplethreat.nl/",
+      "order": 8,
+      "desc_en": "Haarlem — a club founded in 2009 for youth from the Schalkwijk neighbourhood, now also playing in the top women's league."
+    },
+    {
+      "id": "f_bas_ned_l3_k10",
+      "parentId": "f_bas_ned_l3",
+      "type": "link",
+      "icon": "",
+      "name": "ZZ Leiden",
+      "desc": "Leiden — ženský tím pod hlavičkou Basketbal School Leiden, hráva v Sportcomplexe 1574.",
+      "url": "https://damesleiden.nl/",
+      "order": 9,
+      "desc_en": "Leiden — the women's team run under the Basketbal School Leiden banner, playing at Sportcomplex 1574."
+    },
+    {
+      "id": "f_bas_bra_l1",
+      "parentId": "f_bas_klu_ja_bra",
+      "type": "folder",
+      "icon": "br",
+      "name": "NBB",
+      "desc": "Najvyššia brazílska basketbalová súťaž mužov — Novo Basquete Brasil.",
+      "order": 0,
+      "slug": "nbb",
+      "name_en": "NBB",
+      "slug_en": "nbb",
+      "desc_en": "Brazil's top men's basketball league — Novo Basquete Brasil."
+    },
+    {
+      "id": "f_bas_bra_l2",
+      "parentId": "f_bas_klu_ja_bra",
+      "type": "folder",
+      "icon": "br",
+      "name": "LBF (ženy)",
+      "desc": "Najvyššia brazílska súťaž ženských klubov — Liga de Basquete Feminino, 10 tímov.",
+      "order": 1,
+      "slug": "lbf-zeny",
+      "name_en": "LBF (women)",
+      "slug_en": "lbf-women",
+      "desc_en": "Brazil's top women's basketball league — Liga de Basquete Feminino, with 10 teams."
+    },
+    {
+      "id": "f_bas_bra_l2_k1",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "ADRM Maringá",
+      "desc": "Maringá — majster štátu Paraná, ktorý sa do LBF prebojoval v roku 2025; oficiálne informácie dáva na Facebooku.",
+      "url": "https://www.facebook.com/ADRMMARINGA.OFICIAL/",
+      "order": 0,
+      "desc_en": "Maringá — Paraná state champions who reached the LBF in 2025; official updates are posted on Facebook."
+    },
+    {
+      "id": "f_bas_bra_l2_k2",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Cerrado Basquete",
+      "desc": "Brasília — klub hlavného mesta s mužským aj ženským tímom, ženy hrajú LBF pod sponzorským menom Cerrado BRB.",
+      "url": "https://clubeesportivocerrado.com.br/",
+      "order": 1,
+      "desc_en": "Brasília — the capital's club with both men's and women's teams; the women play in the LBF under the sponsored name Cerrado BRB."
+    },
+    {
+      "id": "f_bas_bra_l2_k3",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Salvador Basketball",
+      "desc": "Salvador — historicky prvý zástupca štátu Bahia v LBF; vlastnú web prezentáciu nemá, odkaz vedie na profil na Latinbasket.",
+      "url": "https://basketball.latinbasket.com/team/Salvador-Basket/74182?Women=1",
+      "order": 2,
+      "desc_en": "Salvador — historically the first club from Bahia state in the LBF; it has no web presence of its own, so the link goes to its Latinbasket profile."
+    },
+    {
+      "id": "f_bas_bra_l2_k4",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sampaio Basquete",
+      "desc": "São Luís — basketbalová sekcia futbalového klubu Sampaio Corrêa a rekordný majster LBF.",
+      "url": "https://www.sampaiocorreafc.com.br/",
+      "order": 3,
+      "desc_en": "São Luís — the basketball section of football club Sampaio Corrêa and the LBF's record champions."
+    },
+    {
+      "id": "f_bas_bra_l2_k5",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Santo André",
+      "desc": "Santo André — prvý majster LBF zo sezóny 2010/11 a účastník všetkých ročníkov ligy; aktuálnu online prezentáciu nemá, odkaz vedie na profil na Latinbasket.",
+      "url": "https://basketball.latinbasket.com/team/AD-Santo-Andre/7798?Women=1",
+      "order": 4,
+      "desc_en": "Santo André — the first LBF champion back in 2010/11 and an ever-present in the league; it has no active online presence, so the link goes to its Latinbasket profile."
+    },
+    {
+      "id": "f_bas_bra_l2_k6",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "São José Basketball",
+      "desc": "São José dos Campos — klub s mužským aj ženským tímom, ženy hrávajú LBF pod sponzorským menom Pontz São José.",
+      "url": "https://saojosebasketball.com.br/",
+      "order": 5,
+      "desc_en": "São José dos Campos — a club with both men's and women's teams; the women play in the LBF under the sponsored name Pontz São José."
+    },
+    {
+      "id": "f_bas_bra_l2_k7",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sesi Araraquara",
+      "desc": "Araraquara — tím priemyselného inštitútu SESI a trojnásobný majster LBF z rokov 2023 – 2025; oficiálne informácie dáva na Facebooku.",
+      "url": "https://www.facebook.com/sesisp.araraquarabasquete/",
+      "order": 6,
+      "desc_en": "Araraquara — the SESI industrial institute's team and a three-time LBF champion from 2023 to 2025; official updates are posted on Facebook."
+    },
+    {
+      "id": "f_bas_bra_l2_k8",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sodiê Mesquita",
+      "desc": "Mesquita — mladý klub z Baixady Fluminense pri Riu de Janeiro, založený v roku 2019.",
+      "url": "https://sodiemesquita.com/",
+      "order": 7,
+      "desc_en": "Mesquita — a young club from the Baixada Fluminense near Rio de Janeiro, founded in 2019."
+    },
+    {
+      "id": "f_bas_bra_l2_k9",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Sport Recife",
+      "desc": "Recife — ženská basketbalová sekcia futbalového Sport Clubu do Recife, v LBF hráva pod menom Sport/Uninassau.",
+      "url": "https://sportrecife.com.br/",
+      "order": 8,
+      "desc_en": "Recife — the women's basketball section of football club Sport Club do Recife, playing in the LBF as Sport/Uninassau."
+    },
+    {
+      "id": "f_bas_bra_l2_k10",
+      "parentId": "f_bas_bra_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Unimed Campinas",
+      "desc": "Campinas — klub predtým známy ako Vera Cruz Campinas, majster Brazílie z roku 2018; oficiálne informácie dáva na Facebooku.",
+      "url": "https://www.facebook.com/unimedcampinasbasquete/",
+      "order": 9,
+      "desc_en": "Campinas — formerly known as Vera Cruz Campinas and Brazilian champions in 2018; official updates are posted on Facebook."
     }
   ],
   "title_en": "Sportlinking",
