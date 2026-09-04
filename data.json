@@ -1,5 +1,5 @@
 {
-  "version": 360,
+  "version": 362,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -128451,10 +128451,10 @@
       "type": "link",
       "icon": "",
       "name": "Senior Men's League",
-      "desc": "Oficiálna stránka mužskej Senior Men's League na webe Škótskej hádzanárskej asociácie.",
-      "url": "https://handball.scot/competitions/leagues/mens-league/",
+      "desc": "Súťažný portál Škótskej hádzanárskej asociácie (GameDay) — rozpis, výsledky a tabuľka Senior Men's League.",
+      "url": "https://websites.mygameday.app/assoc_page.cgi?c=0-13219-0-0-0&a=COMPS",
       "order": -1,
-      "desc_en": "Official Senior Men's League page on the Scottish Handball Association website."
+      "desc_en": "Competition portal of the Scottish Handball Association (GameDay) — fixtures, results and table of the Senior Men's League."
     },
     {
       "id": "f_had_sco_l1_k1",
@@ -128496,7 +128496,7 @@
       "icon": "",
       "name": "Kelvinside",
       "desc": "Glasgow — klub spätý s Kelvinside Academy, víťaz škótskeho pohára v sezóne 2008/09.",
-      "url": "https://www.facebook.com/kelvinside.handball.club/",
+      "url": "https://websites.mygameday.app/club_info.cgi?c=0-13219-0-0-0&clubID=211711",
       "order": 3,
       "desc_en": "Glasgow — a club linked to Kelvinside Academy, winner of the Scottish Cup in the 2008/09 season."
     },
@@ -130634,7 +130634,7 @@
       "icon": "",
       "name": "Agustinos Alicante",
       "desc": "Alicante — hádzanárska nadácia založená v roku 1979, referenčný klub v cantere španielskej hádzanej.",
-      "url": "https://www.fmbalonmano.com/clubs/396",
+      "url": "https://www.flashscore.es/equipo/agustinos-alicante/6u3JSu7c/",
       "order": 0,
       "desc_en": "Alicante — a handball foundation founded in 1979, a reference club in Spanish handball's youth development."
     },
@@ -132374,7 +132374,7 @@
       "parentId": "f_had_are",
       "type": "folder",
       "icon": "ae",
-      "name": "Emirátska liga",
+      "name": "Liga SAE",
       "desc": "",
       "order": 0,
       "slug": "emiratska-liga",
@@ -132762,7 +132762,7 @@
       "parentId": "f_had_jpn_l2",
       "type": "link",
       "icon": "",
-      "name": "League H",
+      "name": "League H (ženy)",
       "desc": "Oficiálny web najvyššej japonskej ženskej hádzanárskej súťaže League H — program, výsledky, tabuľka, tímy.",
       "url": "https://leagueh.jp/",
       "order": -1,
@@ -132807,10 +132807,10 @@
       "type": "link",
       "icon": "",
       "name": "Daido Phenix Tokai",
-      "desc": "Tokai (Aiči) — firemný tím oceliarskej spoločnosti Daido Steel.",
+      "desc": "Tokai (Aiči) — firemný tím oceliarskej spoločnosti Daido Steel, založený v roku 1964; 18 ligových titulov (naposledy 2014/15) a 14 víťazstiev v Japonskom pohári.",
       "url": "https://www.daido-sports.jp/phenix/",
       "order": 3,
-      "desc_en": "Tokai (Aichi) — a company team of the steelmaker Daido Steel."
+      "desc_en": "Tokai (Aichi) — the company team of steelmaker Daido Steel, founded in 1964; 18 league titles (the last in 2014-15) and 14 Japan Championship wins."
     },
     {
       "id": "f_had_jpn_l1_k5",
@@ -132994,10 +132994,10 @@
       "type": "link",
       "icon": "",
       "name": "Honey Bee Ishikawa",
-      "desc": "Kanazawa (Išikawa) — klub založený v roku 1975, v novembri 2024 sa transformoval na akciovú spoločnosť; materskou firmou je Hokkoku Bank.",
+      "desc": "Kanazawa (Išikawa) — klub založený v roku 1975 ako oddiel banky Hokkoku Bank; od novembra 2024 ho prevádzkuje spoločnosť Honey Bee Sports zo skupiny CCI Group (holding Hokkoku Bank). Držiteľ série desiatich ligových titulov v rade (2014–2023).",
       "url": "https://www.honeybee-ishikawa.co.jp/",
       "order": 5,
-      "desc_en": "Kanazawa (Ishikawa) — a club founded in 1975 that became an incorporated company in November 2024, run by Hokkoku Bank."
+      "desc_en": "Kanazawa (Ishikawa) — founded in 1975 as the Hokkoku Bank works team; since November 2024 run by Honey Bee Sports, part of CCI Group (Hokkoku Bank's holding company). Winner of ten league titles in a row (2014–2023)."
     },
     {
       "id": "f_had_jpn_l2_k7",
@@ -133015,11 +133015,11 @@
       "parentId": "f_had_jpn_l2",
       "type": "link",
       "icon": "",
-      "name": "Kagawa Bank GiraSol",
-      "desc": "Takamacu (Kagawa) — prvý ženský firemný hádzanársky tím na ostrove Šikoku, v sezóne 2025/26 získal svoj prvý titul.",
+      "name": "Kagawa Bank GiraSol Kagawa",
+      "desc": "Takamacu (Kagawa) — prvý ženský firemný hádzanársky tím na ostrove Šikoku; v roku 2024 vyhral Japonský pohár a v sezóne 2025/26 získal svoj prvý ligový titul.",
       "url": "https://www.kagawabank.co.jp/about/handball/handball.html",
       "order": 7,
-      "desc_en": "Takamatsu (Kagawa) — the first women's corporate handball team on the island of Shikoku, winning its first title in the 2025-26 season."
+      "desc_en": "Takamatsu (Kagawa) — the first women's corporate handball team on the island of Shikoku; won the Japan Championship in 2024 and its first league title in 2025-26."
     },
     {
       "id": "f_had_jpn_l2_k9",
@@ -133027,10 +133027,10 @@
       "type": "link",
       "icon": "",
       "name": "Kumamoto Beaust Pindys",
-      "desc": "Jamaga (Kumamoto) — jeden z najúspešnejších klubov súťaže, hrá od jej prvého ročníka v roku 1976.",
+      "desc": "Jamaga (Kumamoto) — hrá od prvého ročníka súťaže v roku 1976 a so 17 ligovými titulmi (naposledy 2013) patrí k najúspešnejším klubom ženskej ligy.",
       "url": "https://pindys.jp/",
       "order": 8,
-      "desc_en": "Yamaga (Kumamoto) — one of the league's most successful clubs, playing since its very first edition in 1976."
+      "desc_en": "Yamaga (Kumamoto) — in the league since its very first season in 1976 and, with 17 league titles (the last in 2013), one of the most successful clubs in the women's league."
     },
     {
       "id": "f_had_jpn_l2_k10",
@@ -133104,10 +133104,10 @@
       "type": "link",
       "icon": "",
       "name": "Doosan",
-      "desc": "Klub založený v roku 1991 ako prvý mužský seniorský tím v kórejskej hádzanej, rekordný počet titulov v histórii súťaže.",
+      "desc": "Klub založený v roku 1991 ako prvý mužský firemný tím v kórejskej hádzanej, rekordný počet titulov v histórii súťaže.",
       "url": "https://www.koreahandball.com/introduce/team_men.php?team_num=149&page_type=1",
       "order": 1,
-      "desc_en": "Founded in 1991 as Korea's first men's senior handball team, the club holds the record number of league titles."
+      "desc_en": "Founded in 1991 as Korea's first men's company handball team, the club holds the record number of league titles."
     },
     {
       "id": "f_had_kor_l1_k3",
@@ -133126,10 +133126,10 @@
       "type": "link",
       "icon": "",
       "name": "Incheon City Corporation",
-      "desc": "Klub mestskej spoločnosti Incheonu založený v roku 2006 — v sezóne 2025/26 získal prvý titul H ligy po 20 rokoch existencie.",
+      "desc": "Klub mestskej spoločnosti Incheonu založený v roku 2006 — v sezóne 2025/26 získal prvý titul H ligy po 20 rokoch existencie, keď vyhral základnú časť aj play-off.",
       "url": "https://www.koreahandball.com/introduce/team_men.php?team_num=120&page_type=1",
       "order": 3,
-      "desc_en": "Club of the Incheon city corporation founded in 2006 — won its first H League title in the 2025/26 season, 20 years after founding."
+      "desc_en": "Club of the Incheon city corporation founded in 2006 — won its first H League title in 2025/26, 20 years after founding, topping both the regular season and the play-offs."
     },
     {
       "id": "f_had_kor_l1_k5",
@@ -133192,10 +133192,10 @@
       "type": "link",
       "icon": "",
       "name": "Gyeongnam Development Corporation",
-      "desc": "Klub založený vo februári 2007 podnikom Changwon Keirin, neskôr ho prevzala spoločnosť Gyeongnam Development Corporation — v sezóne 2023/24 dosiahol doteraz najlepšie 2. miesto.",
+      "desc": "Klub založený vo februári 2007 podnikom Changwon Keirin, neskôr ho prevzala spoločnosť Gyeongnam Development Corporation — v sezóne 2023/24 dosiahol doteraz najlepšie 2. miesto a v roku 2024 prvýkrát v histórii klubu vyhral Národné športové hry.",
       "url": "https://www.koreahandball.com/introduce/team_women.php?team_num=102&page_type=1",
       "order": 3,
-      "desc_en": "Club founded in February 2007 by the Changwon Keirin corporation and later taken over by the Gyeongnam Development Corporation — it achieved its best-ever finish of 2nd place in 2023/24."
+      "desc_en": "Club founded in February 2007 by the Changwon Keirin corporation and later taken over by the Gyeongnam Development Corporation — best-ever 2nd place in 2023/24 and, in 2024, the club's first National Sports Festival title."
     },
     {
       "id": "f_had_kor_l2_k5",
@@ -133214,10 +133214,10 @@
       "type": "link",
       "icon": "",
       "name": "Samcheok City Hall",
-      "desc": "Mestský klub zo Samcheoku v provincii Kangwon, založený v roku 2004.",
+      "desc": "Mestský klub zo Samcheoku v provincii Kangwon, založený 12. februára 2004 — v sezónach 2024/25 aj 2025/26 skončil druhý v základnej časti aj vo finále play-off.",
       "url": "https://www.samcheok.go.kr/specialty/00468/01660.web",
       "order": 5,
-      "desc_en": "City club from Samcheok in Gangwon Province, founded in 2004."
+      "desc_en": "City club from Samcheok in Gangwon Province, founded on 12 February 2004 — runner-up in both the regular season and the play-off final in 2024/25 and 2025/26."
     },
     {
       "id": "f_had_kor_l2_k7",
@@ -133598,7 +133598,7 @@
       "parentId": "f_had_are_l1",
       "type": "link",
       "icon": "",
-      "name": "Emirátska liga",
+      "name": "Liga SAE",
       "desc": "Sekcia mužskej najvyššej súťaže na webe Emirátskeho zväzu hádzanej — program, výsledky a tabuľka.",
       "url": "https://uae-handball.vercel.app/competitions/51/1/500",
       "order": -1,
