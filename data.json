@@ -1,5 +1,5 @@
 {
-  "version": 342,
+  "version": 346,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -100299,10 +100299,10 @@
       "type": "link",
       "icon": "",
       "name": "U-BT Cluj-Napoca",
-      "desc": "Kluž-Napoca — aktuálny rekordný majster (11 titulov), účastník európskeho Eurocupu aj ABA ligy.",
+      "desc": "Kluž-Napoca — aktuálny majster s 11 titulmi, účastník európskeho Eurocupu aj ABA ligy.",
       "url": "https://u-bt.basketball/",
       "order": 14,
-      "desc_en": "Cluj-Napoca — the current record champion (11 titles), competing in both the EuroCup and the ABA League."
+      "desc_en": "Cluj-Napoca — the current champion with 11 titles, competing in both the EuroCup and the ABA League."
     },
     {
       "id": "f_bas_rou_l1_k16",
@@ -122221,7 +122221,7 @@
       "icon": "gb-eng",
       "name": "Anglicko",
       "desc": "",
-      "order": 0,
+      "order": 11,
       "slug": "anglicko",
       "name_en": "England",
       "slug_en": "england",
@@ -122234,7 +122234,7 @@
       "icon": "az",
       "name": "Azerbajdžán",
       "desc": "",
-      "order": 1,
+      "order": 12,
       "slug": "azerbajdzan",
       "name_en": "Azerbaijan",
       "slug_en": "azerbaijan",
@@ -122247,7 +122247,7 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "",
-      "order": 2,
+      "order": 13,
       "slug": "belgicko",
       "name_en": "Belgium",
       "slug_en": "belgium",
@@ -122260,7 +122260,7 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "",
-      "order": 3,
+      "order": 14,
       "slug": "bielorusko",
       "name_en": "Belarus",
       "slug_en": "belarus",
@@ -122273,7 +122273,7 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "",
-      "order": 4,
+      "order": 15,
       "slug": "bosna-a-hercegovina",
       "name_en": "Bosnia and Herzegovina",
       "slug_en": "bosnia-and-herzegovina",
@@ -122286,7 +122286,7 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "",
-      "order": 5,
+      "order": 16,
       "slug": "bulharsko",
       "name_en": "Bulgaria",
       "slug_en": "bulgaria",
@@ -122299,7 +122299,7 @@
       "icon": "cy",
       "name": "Cyprus",
       "desc": "",
-      "order": 6,
+      "order": 17,
       "slug": "cyprus",
       "name_en": "Cyprus",
       "slug_en": "cyprus",
@@ -122312,7 +122312,7 @@
       "icon": "cz",
       "name": "Česko",
       "desc": "",
-      "order": 7,
+      "order": 6,
       "slug": "ceska-republika",
       "name_en": "Czechia",
       "slug_en": "czech-republic",
@@ -122325,7 +122325,7 @@
       "icon": "me",
       "name": "Čierna Hora",
       "desc": "",
-      "order": 8,
+      "order": 18,
       "slug": "cierna-hora",
       "name_en": "Montenegro",
       "slug_en": "montenegro",
@@ -122338,7 +122338,7 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "",
-      "order": 9,
+      "order": 3,
       "slug": "dansko",
       "name_en": "Denmark",
       "slug_en": "denmark",
@@ -122351,7 +122351,7 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "",
-      "order": 10,
+      "order": 19,
       "slug": "estonsko",
       "name_en": "Estonia",
       "slug_en": "estonia",
@@ -122364,7 +122364,7 @@
       "icon": "fo",
       "name": "Faerské ostrovy",
       "desc": "",
-      "order": 11,
+      "order": 20,
       "slug": "faerske-ostrovy",
       "name_en": "Faroe Islands",
       "slug_en": "faroe-islands",
@@ -122377,7 +122377,7 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "",
-      "order": 12,
+      "order": 21,
       "slug": "finsko",
       "name_en": "Finland",
       "slug_en": "finland",
@@ -122390,7 +122390,7 @@
       "icon": "fr",
       "name": "Francúzsko",
       "desc": "",
-      "order": 13,
+      "order": 1,
       "slug": "francuzsko",
       "name_en": "France",
       "slug_en": "france",
@@ -122403,7 +122403,7 @@
       "icon": "gr",
       "name": "Grécko",
       "desc": "",
-      "order": 14,
+      "order": 22,
       "slug": "grecko",
       "name_en": "Greece",
       "slug_en": "greece",
@@ -122416,7 +122416,7 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "",
-      "order": 15,
+      "order": 23,
       "slug": "holandsko",
       "name_en": "Netherlands",
       "slug_en": "netherlands",
@@ -122429,7 +122429,7 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "",
-      "order": 16,
+      "order": 24,
       "slug": "chorvatsko",
       "name_en": "Croatia",
       "slug_en": "croatia",
@@ -122442,7 +122442,7 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "",
-      "order": 17,
+      "order": 25,
       "slug": "irsko",
       "name_en": "Ireland",
       "slug_en": "ireland",
@@ -122455,7 +122455,7 @@
       "icon": "is",
       "name": "Island",
       "desc": "",
-      "order": 18,
+      "order": 26,
       "slug": "island",
       "name_en": "Iceland",
       "slug_en": "iceland",
@@ -122468,7 +122468,7 @@
       "icon": "il",
       "name": "Izrael",
       "desc": "",
-      "order": 19,
+      "order": 27,
       "slug": "izrael",
       "name_en": "Israel",
       "slug_en": "israel",
@@ -122481,7 +122481,7 @@
       "icon": "xk",
       "name": "Kosovo",
       "desc": "",
-      "order": 20,
+      "order": 28,
       "slug": "kosovo",
       "name_en": "Kosovo",
       "slug_en": "kosovo",
@@ -122494,7 +122494,7 @@
       "icon": "li",
       "name": "Lichtenštajnsko",
       "desc": "",
-      "order": 21,
+      "order": 29,
       "slug": "lichtenstajnsko",
       "name_en": "Liechtenstein",
       "slug_en": "liechtenstein",
@@ -122507,7 +122507,7 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "",
-      "order": 22,
+      "order": 30,
       "slug": "litva",
       "name_en": "Lithuania",
       "slug_en": "lithuania",
@@ -122520,7 +122520,7 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "",
-      "order": 23,
+      "order": 31,
       "slug": "lotyssko",
       "name_en": "Latvia",
       "slug_en": "latvia",
@@ -122533,7 +122533,7 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "",
-      "order": 24,
+      "order": 32,
       "slug": "luxembursko",
       "name_en": "Luxembourg",
       "slug_en": "luxembourg",
@@ -122546,7 +122546,7 @@
       "icon": "hu",
       "name": "Maďarsko",
       "desc": "",
-      "order": 25,
+      "order": 8,
       "slug": "madarsko",
       "name_en": "Hungary",
       "slug_en": "hungary",
@@ -122559,7 +122559,7 @@
       "icon": "mt",
       "name": "Malta",
       "desc": "",
-      "order": 26,
+      "order": 33,
       "slug": "malta",
       "name_en": "Malta",
       "slug_en": "malta",
@@ -122572,7 +122572,7 @@
       "icon": "mc",
       "name": "Monako",
       "desc": "",
-      "order": 27,
+      "order": 34,
       "slug": "monako",
       "name_en": "Monaco",
       "slug_en": "monaco",
@@ -122585,7 +122585,7 @@
       "icon": "de",
       "name": "Nemecko",
       "desc": "",
-      "order": 28,
+      "order": 0,
       "slug": "nemecko",
       "name_en": "Germany",
       "slug_en": "germany",
@@ -122598,7 +122598,7 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "",
-      "order": 29,
+      "order": 4,
       "slug": "norsko",
       "name_en": "Norway",
       "slug_en": "norway",
@@ -122611,7 +122611,7 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "",
-      "order": 30,
+      "order": 35,
       "slug": "polsko",
       "name_en": "Poland",
       "slug_en": "poland",
@@ -122624,7 +122624,7 @@
       "icon": "pt",
       "name": "Portugalsko",
       "desc": "",
-      "order": 31,
+      "order": 36,
       "slug": "portugalsko",
       "name_en": "Portugal",
       "slug_en": "portugal",
@@ -122637,7 +122637,7 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "",
-      "order": 32,
+      "order": 37,
       "slug": "rakusko",
       "name_en": "Austria",
       "slug_en": "austria",
@@ -122650,7 +122650,7 @@
       "icon": "ro",
       "name": "Rumunsko",
       "desc": "",
-      "order": 33,
+      "order": 9,
       "slug": "rumunsko",
       "name_en": "Romania",
       "slug_en": "romania",
@@ -122663,7 +122663,7 @@
       "icon": "ru",
       "name": "Rusko",
       "desc": "",
-      "order": 34,
+      "order": 10,
       "slug": "rusko",
       "name_en": "Russia",
       "slug_en": "russia",
@@ -122676,7 +122676,7 @@
       "icon": "mk",
       "name": "Severné Macedónsko",
       "desc": "",
-      "order": 35,
+      "order": 38,
       "slug": "macedonsko",
       "name_en": "North Macedonia",
       "slug_en": "north-macedonia",
@@ -122689,7 +122689,7 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "",
-      "order": 36,
+      "order": 7,
       "slug": "slovensko",
       "name_en": "Slovakia",
       "slug_en": "slovakia",
@@ -122702,7 +122702,7 @@
       "icon": "si",
       "name": "Slovinsko",
       "desc": "",
-      "order": 37,
+      "order": 39,
       "slug": "slovinsko",
       "name_en": "Slovenia",
       "slug_en": "slovenia",
@@ -122715,7 +122715,7 @@
       "icon": "rs",
       "name": "Srbsko",
       "desc": "",
-      "order": 38,
+      "order": 40,
       "slug": "srbsko",
       "name_en": "Serbia",
       "slug_en": "serbia",
@@ -122728,7 +122728,7 @@
       "icon": "gb-sct",
       "name": "Škótsko",
       "desc": "",
-      "order": 39,
+      "order": 41,
       "slug": "skotsko",
       "name_en": "Scotland",
       "slug_en": "scotland",
@@ -122741,7 +122741,7 @@
       "icon": "es",
       "name": "Španielsko",
       "desc": "",
-      "order": 40,
+      "order": 2,
       "slug": "spanielsko",
       "name_en": "Spain",
       "slug_en": "spain",
@@ -122754,7 +122754,7 @@
       "icon": "ch",
       "name": "Švajčiarsko",
       "desc": "",
-      "order": 41,
+      "order": 42,
       "slug": "svajciarsko",
       "name_en": "Switzerland",
       "slug_en": "switzerland",
@@ -122767,7 +122767,7 @@
       "icon": "se",
       "name": "Švédsko",
       "desc": "",
-      "order": 42,
+      "order": 5,
       "slug": "svedsko",
       "name_en": "Sweden",
       "slug_en": "sweden",
@@ -124413,10 +124413,10 @@
       "type": "link",
       "icon": "",
       "name": "Shumen 61",
-      "desc": "Šumen — jeden z historicky najúspešnejších bulharských klubov, viacnásobný majster krajiny.",
+      "desc": "Šumen — jeden z historicky najúspešnejších bulharských klubov, sedemnásobný majster krajiny (naposledy 2023).",
       "url": "https://hcshumen.com",
       "order": 8,
-      "desc_en": "Shumen — one of Bulgaria's historically most successful clubs and multiple national champions."
+      "desc_en": "Shumen — one of Bulgaria's historically most successful clubs, seven-time national champions (most recently in 2023)."
     },
     {
       "id": "f_had_bgr_l1_k10",
@@ -128361,10 +128361,10 @@
       "type": "link",
       "icon": "",
       "name": "Donbas",
-      "desc": "Doneck — viacnásobný majster Ukrajiny, klub vznikol v roku 1983 pod menom Špartak, neskôr Šachtar.",
+      "desc": "Doneck — trojnásobný majster Ukrajiny, klub vznikol v roku 1983 pod menom Špartak, neskôr Šachtar.",
       "url": "https://handball.org.ua/team/donbas/",
       "order": 1,
-      "desc_en": "Donetsk — a multiple Ukrainian champion, founded in 1983 as Spartak and later known as Shakhtar."
+      "desc_en": "Donetsk — a three-time Ukrainian champion, founded in 1983 as Spartak and later known as Shakhtar."
     },
     {
       "id": "f_had_ukr_l1_k3",
@@ -128417,7 +128417,7 @@
       "icon": "",
       "name": "Charkiv",
       "desc": "Charkiv — návrat medzi elitu, klub postúpil do Superligy ako majster Vyššej ligy 2025/26.",
-      "url": "https://handball.ua/",
+      "url": "https://handball.org.ua/team/fgho-kdyussh-1/",
       "order": 6,
       "desc_en": "Kharkiv — a return to the elite, promoted to the Super League as champion of the Higher League in 2025/26."
     },
@@ -128942,11 +128942,11 @@
       "parentId": "f_had_fro",
       "type": "folder",
       "icon": "fo",
-      "name": "Landskappingin",
+      "name": "Landskappingin (muži)",
       "desc": "",
       "order": 0,
       "slug": "landskappingin",
-      "name_en": "Faroese Championship",
+      "name_en": "Faroese Championship (men)",
       "slug_en": "faroese-championship",
       "desc_en": ""
     },
@@ -130248,10 +130248,10 @@
       "type": "link",
       "icon": "",
       "name": "Skövde HF",
-      "desc": "Skövde HF — samostatný ženský klub zo Skövde, odlišný od mužského klubu IFK Skövde, v najvyššej súťaži hráva od roku 1997.",
+      "desc": "Skövde HF — samostatný ženský klub zo Skövde, odlišný od mužského klubu IFK Skövde, v najvyššej súťaži hráva od roku 1997, prvý švédsky titul získal v roku 2008.",
       "url": "https://skovdehf.se/",
       "order": 8,
-      "desc_en": "Skövde HF — an independent women's club from Skövde, separate from the men's club IFK Skövde, competing in the top flight since 1997."
+      "desc_en": "Skövde HF — an independent women's club from Skövde, separate from the men's club IFK Skövde, competing in the top flight since 1997 and Swedish champions for the first time in 2008."
     },
     {
       "id": "f_had_swe_l3_k10",
@@ -130545,10 +130545,10 @@
       "type": "link",
       "icon": "",
       "name": "Odense Håndbold",
-      "desc": "Odense Håndbold — klub založený v roku 2009, hráva na Sydbank Arena.",
+      "desc": "Odense Håndbold — klub založený v roku 2009, dvojnásobný dánsky majster, hráva na Sydbank Arena.",
       "url": "https://odensehaandbold.dk/",
       "order": 7,
-      "desc_en": "Odense Håndbold — a club founded in 2009, playing at Sydbank Arena."
+      "desc_en": "Odense Håndbold — a club founded in 2009, two-time Danish champions, playing at Sydbank Arena."
     },
     {
       "id": "f_had_dnk_l3_k9",
@@ -130600,10 +130600,10 @@
       "type": "link",
       "icon": "",
       "name": "Team Esbjerg",
-      "desc": "Team Esbjerg — klub z Esbjergu, hráva v hale Blue Water Dokken.",
+      "desc": "Team Esbjerg — klub z Esbjergu, víťaz EHF Ligy majstrov, hráva v hale Blue Water Dokken.",
       "url": "https://www.teamesbjerg.dk/",
       "order": 12,
-      "desc_en": "Team Esbjerg — a club from Esbjerg, playing at Blue Water Dokken."
+      "desc_en": "Team Esbjerg — a club from Esbjerg, EHF Champions League winners, playing at Blue Water Dokken."
     },
     {
       "id": "f_had_dnk_l3_k14",
@@ -130710,10 +130710,10 @@
       "type": "link",
       "icon": "",
       "name": "BM Zamora",
-      "desc": "Zamora — klub s viac ako 25-ročnou tradíciou a rozsiahlou mládežníckou základňou.",
+      "desc": "Zamora — klub založený v roku 2001, s rozsiahlou mládežníckou základňou.",
       "url": "https://www.balonmanozamora.es/",
       "order": 7,
-      "desc_en": "Zamora — a club with more than 25 years of tradition and a large youth academy."
+      "desc_en": "Zamora — a club founded in 2001, with a large youth academy."
     },
     {
       "id": "f_had_esp_l2_k9",
@@ -130798,10 +130798,10 @@
       "type": "link",
       "icon": "",
       "name": "Zarautz ZKE",
-      "desc": "Zarautz — baskický klub, do Plata postúpil v roku 2024.",
+      "desc": "Zarautz — baskický klub, do Plata sa vrátil v sezóne 2026/27 (v súťaži hral aj 2024/25).",
       "url": "https://zke-eskubaloia.com/",
       "order": 15,
-      "desc_en": "Zarautz — a Basque club, promoted to Plata in 2024."
+      "desc_en": "Zarautz — a Basque club, back in Plata for the 2026/27 season (it also played there in 2024/25)."
     },
     {
       "id": "f_had_esp_l3_liga",
@@ -130853,10 +130853,10 @@
       "type": "link",
       "icon": "",
       "name": "Bera Bera",
-      "desc": "San Sebastián — sekcia klubu Bera Bera RT, jeden z najúspešnejších španielskych klubov s viacerými titulmi Copa de la Reina.",
+      "desc": "San Sebastián — sekcia klubu Bera Bera RT založená v roku 1983, desaťnásobný španielsky majster a viacnásobný víťaz Copa de la Reina.",
       "url": "https://berabera.com/es/secciones/balonmano",
       "order": 3,
-      "desc_en": "San Sebastián — a section of Bera Bera RT, one of Spain's most successful clubs with multiple Copa de la Reina titles."
+      "desc_en": "San Sebastián — a section of Bera Bera RT founded in 1983, ten-time Spanish champions and multiple Copa de la Reina winners."
     },
     {
       "id": "f_had_esp_l3_k5",
@@ -130897,10 +130897,10 @@
       "type": "link",
       "icon": "",
       "name": "Costa del Sol Málaga",
-      "desc": "Málaga — klub hrá v Pabellón José Luís Pérez Canca, držiteľ ligového titulu aj Copa de la Reina a účastník EHF European Cupu.",
+      "desc": "Málaga — klub hrá v Pabellón José Luís Pérez Canca, víťaz EHF European Cupu 2021, španielsky majster 2022/23 a dvojnásobný víťaz Copa de la Reina.",
       "url": "https://www.bmmalagacostadelsol.com/",
       "order": 7,
-      "desc_en": "Málaga — playing at the Pabellón José Luís Pérez Canca, a league and Copa de la Reina champion and EHF European Cup contender."
+      "desc_en": "Málaga — playing at the Pabellón José Luís Pérez Canca, 2021 EHF European Cup winners, 2022/23 Spanish champions and two-time Copa de la Reina winners."
     },
     {
       "id": "f_had_esp_l3_k9",
@@ -130919,10 +130919,10 @@
       "type": "link",
       "icon": "",
       "name": "Lobas Oviedo",
-      "desc": "Oviedo — astúrsky klub hrajúci od roku 1986, do Ligy Guerreras Iberdrola postúpil v sezóne 2025/26.",
+      "desc": "Oviedo — astúrsky klub hrajúci od roku 1986, v Lige Guerreras Iberdrola od sezóny 2026/27.",
       "url": "https://lobasalimerkaoviedo.com/",
       "order": 9,
-      "desc_en": "Oviedo — an Asturian club playing since 1986, promoted to the Liga Guerreras Iberdrola for the 2025/26 season."
+      "desc_en": "Oviedo — an Asturian club playing since 1986, in the Liga Guerreras Iberdrola from the 2026/27 season."
     },
     {
       "id": "f_had_esp_l3_k11",
@@ -130930,10 +130930,10 @@
       "type": "link",
       "icon": "",
       "name": "Pozuelo de Calatrava",
-      "desc": "Pozuelo de Calatrava — klub z Kastílie-La Mancha, do najvyššej súťaže postúpil po prvý raz v sezóne 2025/26.",
+      "desc": "Pozuelo de Calatrava — klub z Kastílie-La Mancha, v najvyššej súťaži po prvý raz od sezóny 2026/27.",
       "url": "https://www.facebook.com/p/Balonmano-Pozuelo-de-Calatrava-61554418262316/",
       "order": 10,
-      "desc_en": "Pozuelo de Calatrava — a club from Castilla-La Mancha, promoted to the top flight for the first time in the 2025/26 season."
+      "desc_en": "Pozuelo de Calatrava — a club from Castilla-La Mancha, in the top flight for the first time from the 2026/27 season."
     },
     {
       "id": "f_had_esp_l3_k12",
@@ -130985,10 +130985,10 @@
       "type": "link",
       "icon": "",
       "name": "Åsane Håndball",
-      "desc": "Åsane — mestský klub z bergenskej štvrte Nyborg s približne 400 členmi, domáca hala Åsane Arena.",
+      "desc": "Åsane — mestský klub z bergenskej štvrte Nyborg, domáca hala Åsane Arena.",
       "url": "https://www.aasanehandball.no",
       "order": 0,
-      "desc_en": "Åsane — a community club from the Nyborg district of Bergen with around 400 members, home arena Åsane Arena."
+      "desc_en": "Åsane — a community club from the Nyborg district of Bergen, home arena Åsane Arena."
     },
     {
       "id": "f_had_nor_l2_k2",
@@ -131062,10 +131062,10 @@
       "type": "link",
       "icon": "",
       "name": "Lillestrøm Håndballklubb",
-      "desc": "Lillestrøm — klub s vyše 500 aktívnymi hráčmi, domáca hala Skedsmohallen.",
+      "desc": "Lillestrøm — klub z mesta Lillestrøm pri Osle, domáca hala Skedsmohallen.",
       "url": "https://lillestromhandballklubb.no",
       "order": 7,
-      "desc_en": "Lillestrøm — a club with over 500 active players, home arena Skedsmohallen."
+      "desc_en": "Lillestrøm — a club from the town of Lillestrøm near Oslo, home arena Skedsmohallen."
     },
     {
       "id": "f_had_nor_l2_k9",
@@ -131140,7 +131140,7 @@
       "icon": "",
       "name": "Eliteserien (ženy)",
       "desc": "Oficiálna stránka Elkjøp-ligaen na webe federácie — program, výsledky, tabuľka najvyššej ženskej súťaže.",
-      "url": "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/eliteserien/",
+      "url": "https://www.flashscore.com/handball/norway/elkjop-ligaen-women/",
       "order": -1,
       "desc_en": "Official federation page for Elkjøp-ligaen — schedule, results, standings of the top-flight women's league."
     },
@@ -131227,10 +131227,10 @@
       "type": "link",
       "icon": "",
       "name": "Larvik HK",
-      "desc": "Larvik — klub z mesta Larvik, domáca hala Jotron Arena Larvik.",
+      "desc": "Larvik — najúspešnejší nórsky ženský klub, 19-násobný majster Nórska (1994–2017) a 17-násobný víťaz nórskeho pohára, domáca hala Jotron Arena Larvik.",
       "url": "https://www.larvikhk.no",
       "order": 7,
-      "desc_en": "Larvik — a club from the town of Larvik, home arena Jotron Arena Larvik."
+      "desc_en": "Larvik — Norway's most successful women's club, 19-time Norwegian champions (1994–2017) and 17-time Norwegian Cup winners, home arena Jotron Arena Larvik."
     },
     {
       "id": "f_had_nor_l3_k9",
@@ -131315,10 +131315,10 @@
       "type": "link",
       "icon": "",
       "name": "HAOLK Velká Bystřice-Olomouc",
-      "desc": "Spoločná talentovaná akadémia Olomouckého kraja (HBC Olomouc 1966, Házená Velká Bystřice, TJ Sokol Centrum Haná), od sezóny 2023/24 regionálne klubové centrum mládeže.",
-      "url": "https://hazena.velkabystrice.cz/",
+      "desc": "Spoločná akadémia Olomouckého kraja (HBC Olomouc 1966, Házená Velká Bystřice, TJ Sokol Centrum Haná) — mládež hrá spoločné súťaže od sezóny 2020/21, mužský tím v 1. lige od sezóny 2023/24.",
+      "url": "https://www.haolk.cz/",
       "order": 0,
-      "desc_en": "A joint talent academy of the Olomouc region (HBC Olomouc 1966, Házená Velká Bystřice, TJ Sokol Centrum Haná), a regional youth development centre since 2023/24."
+      "desc_en": "A joint academy of the Olomouc region (HBC Olomouc 1966, Házená Velká Bystřice, TJ Sokol Centrum Haná) — its youth teams have competed jointly since 2020/21, with a men's team in the 1st league since 2023/24."
     },
     {
       "id": "f_had_cze_l2_k2",
@@ -131348,10 +131348,10 @@
       "type": "link",
       "icon": "",
       "name": "SK Kuřim",
-      "desc": "Kuřim — klub s viac ako 70-ročnou tradíciou, jeden z najväčších na južnej Morave v práci s mládežou.",
+      "desc": "Kuřim — klub z južnej Moravy zameraný na prácu s mládežou.",
       "url": "https://hazena-kurim.cz/",
       "order": 3,
-      "desc_en": "Kuřim — a club with over 70 years of tradition, one of the largest in South Moravia for youth development."
+      "desc_en": "Kuřim — a South Moravian club focused on youth development."
     },
     {
       "id": "f_had_cze_l2_k5",
@@ -131436,10 +131436,10 @@
       "type": "link",
       "icon": "",
       "name": "TJ Rožnov p.R.",
-      "desc": "Rožnov pod Radhoštěm — házená sa tu hrá od roku 1919, klub usporadúva mládežnícky turnaj Dobiáš Cup.",
+      "desc": "Rožnov pod Radhoštěm — klub usporadúva mládežnícky turnaj Dobiáš Cup.",
       "url": "https://hazenaroznov.cz/",
       "order": 11,
-      "desc_en": "Rožnov pod Radhoštěm — handball has been played here since 1919; the club hosts the youth tournament Dobiáš Cup."
+      "desc_en": "Rožnov pod Radhoštěm — the club hosts the youth tournament Dobiáš Cup."
     },
     {
       "id": "f_had_svk_l2_liga",
@@ -131711,10 +131711,10 @@
       "type": "link",
       "icon": "",
       "name": "HK Slovan Duslo Šaľa",
-      "desc": "Šaľa — klub založený v roku 1943, trojnásobný československý a deväťnásobný slovenský majster (naposledy 2004/05).",
-      "url": "https://www.duslo.sk/sk/sport/hadzana-zien",
+      "desc": "Šaľa — klub založený v roku 1943, trojnásobný československý a deväťnásobný slovenský majster (naposledy 2004/05), dvojnásobný víťaz medzinárodnej ligy WHIL (2004, 2008).",
+      "url": "https://www.facebook.com/hkduslosala/",
       "order": 2,
-      "desc_en": "Šaľa — founded in 1943, a three-time Czechoslovak and nine-time Slovak champion (most recently in 2004/05)."
+      "desc_en": "Šaľa — founded in 1943, a three-time Czechoslovak and nine-time Slovak champion (most recently in 2004/05) and two-time winner of the international WHIL league (2004, 2008)."
     },
     {
       "id": "f_had_svk_l3_k4",
@@ -131788,10 +131788,10 @@
       "type": "link",
       "icon": "",
       "name": "Eszterházy SC",
-      "desc": "Eger — hádzanársky oddiel univerzitného klubu, ktorý postúpil do najvyššej súťaže v roku 2026.",
+      "desc": "Eger — hádzanársky oddiel univerzitného klubu, nováčik najvyššej súťaže 2026/27.",
       "url": "https://eszterhazysc.hu",
       "order": 4,
-      "desc_en": "Eger — the handball section of the university club, promoted to the top flight in 2026."
+      "desc_en": "Eger — the handball section of the university club, a newcomer to the top flight in 2026/27."
     },
     {
       "id": "f_had_hun_l2_k6",
@@ -131887,10 +131887,10 @@
       "type": "link",
       "icon": "",
       "name": "Vasas SC",
-      "desc": "Budapešť — hádzanársky oddiel Vasasu, jedného z najúspešnejších maďarských klubov histórie.",
+      "desc": "Budapešť — hádzanársky oddiel Vasasu, rekordný 15-násobný maďarský majster a víťaz Európskeho pohára majstrov 1982.",
       "url": "https://www.vasassc.hu/sportagaink/kezilabda",
       "order": 13,
-      "desc_en": "Budapest — the handball section of Vasas, one of Hungary's most successful clubs historically."
+      "desc_en": "Budapest — the handball section of Vasas, record 15-time Hungarian champions and 1982 European Champions Cup winners."
     },
     {
       "id": "f_had_rou_l2_liga",
@@ -131909,10 +131909,10 @@
       "type": "link",
       "icon": "",
       "name": "CS Gloria Bistrița",
-      "desc": "Bistrița — ženský hádzanársky oddiel klubu CS Gloria 2018 Bistrița-Năsăud, hrá v červeno-čiernom.",
+      "desc": "Bistrița — ženský hádzanársky oddiel klubu CS Gloria 2018 Bistrița-Năsăud.",
       "url": "https://gloria2018.ro",
       "order": 0,
-      "desc_en": "Bistrița — the women's handball section of CS Gloria 2018 Bistrița-Năsăud, playing in red and black."
+      "desc_en": "Bistrița — the women's handball section of CS Gloria 2018 Bistrița-Năsăud."
     },
     {
       "id": "f_had_rou_l2_k2",
@@ -131932,7 +131932,7 @@
       "icon": "",
       "name": "CS Rapid București",
       "desc": "Bukurešť-Giulești — klub založený v roku 1934, šesťnásobný majster Rumunska.",
-      "url": "https://www.csrapid.ro/portfolio-item/handbal/",
+      "url": "https://www.facebook.com/handbalrapidbucuresti/",
       "order": 2,
       "desc_en": "Bucharest-Giulești — founded in 1934, six-time Romanian champions."
     },
@@ -131953,10 +131953,10 @@
       "type": "link",
       "icon": "",
       "name": "CSM Corona Brașov",
-      "desc": "Brašov — hrá v hale Sala Sporturilor „Dumitru Popescu Colibași“, v najvyššej súťaži od sezóny 2023/24.",
+      "desc": "Brašov — dvojnásobný rumunský majster (1981, 2006) a víťaz Challenge Cupu 2006, hrá v hale Sala Sporturilor „Dumitru Popescu Colibași“, v najvyššej súťaži opäť od sezóny 2023/24.",
       "url": "https://coronabrasov.ro/organisations/csm-corona-brasov-handbal-senioare/",
       "order": 4,
-      "desc_en": "Brașov — playing at the \"Dumitru Popescu Colibași\" Sports Hall, in the top flight since 2023/24."
+      "desc_en": "Brașov — two-time Romanian champions (1981, 2006) and 2006 Challenge Cup winners, playing at the \"Dumitru Popescu Colibași\" Sports Hall, back in the top flight since 2023/24."
     },
     {
       "id": "f_had_rou_l2_k6",
@@ -131964,10 +131964,10 @@
       "type": "link",
       "icon": "",
       "name": "CSM Iași 2020",
-      "desc": "Jasy — mladý klub mestskej samosprávy, do najvyššej súťaže postúpil v roku 2024.",
+      "desc": "Jasy — mladý klub mestskej samosprávy založený v roku 2020.",
       "url": "https://csmiasi2020.ro",
       "order": 5,
-      "desc_en": "Iași — a young municipal club promoted to the top flight in 2024."
+      "desc_en": "Iași — a young municipal club founded in 2020."
     },
     {
       "id": "f_had_rou_l2_k7",
@@ -131998,7 +131998,7 @@
       "icon": "",
       "name": "CSM Târgu Mureș",
       "desc": "Târgu Mureș — ženská hádzaná pod hlavičkou mestského viacšportového klubu.",
-      "url": "https://csmtgm.ro",
+      "url": "https://csmtgm.ro/handbal/",
       "order": 8,
       "desc_en": "Târgu Mureș — women's handball under the umbrella of the municipal multi-sport club."
     },
@@ -132008,10 +132008,10 @@
       "type": "link",
       "icon": "",
       "name": "CSU Știința București",
-      "desc": "Bukurešť — univerzitný klub pod Polytechnickou univerzitou, v najvyššej súťaži od roku 2021.",
+      "desc": "Bukurešť — univerzitný klub pod Polytechnickou univerzitou.",
       "url": "https://stiintabucuresti.ro",
       "order": 9,
-      "desc_en": "Bucharest — a university club under the Politehnica University, in the top flight since 2021."
+      "desc_en": "Bucharest — a university club under the Politehnica University."
     },
     {
       "id": "f_had_rou_l2_k11",
@@ -132052,10 +132052,10 @@
       "type": "link",
       "icon": "",
       "name": "SCM Universitatea Craiova",
-      "desc": "Craiova — hrá v Sala Polivalentă s kapacitou vyše 4 000 divákov.",
+      "desc": "Craiova — ženská hádzanárska sekcia klubu SCM Universitatea, hrá v Sala Polivalentă.",
       "url": "https://scmcraiova.ro/handbal-feminin",
       "order": 13,
-      "desc_en": "Craiova — playing at the Sala Polivalentă with a capacity of over 4,000."
+      "desc_en": "Craiova — the women's handball section of SCM Universitatea, playing at the Sala Polivalentă."
     },
     {
       "id": "f_had_rus_l2_liga",
@@ -132140,10 +132140,10 @@
       "type": "link",
       "icon": "",
       "name": "Kubáň Krasnodar",
-      "desc": "Krasnodar — ženský hádzanársky klub Kubáň, tradičný účastník Superligy.",
+      "desc": "Krasnodar — ženský klub Kubáň založený v roku 1973, dvojnásobný majster ZSSR (1989, 1992) a dvojnásobný víťaz Pohára víťazov pohárov, hráva v Dvorci športu Olimp.",
       "url": "https://whckuban.com",
       "order": 6,
-      "desc_en": "Krasnodar — the Kuban women's handball club, a traditional Super League participant."
+      "desc_en": "Krasnodar — the Kuban women's club founded in 1973, two-time Soviet champions (1989, 1992) and two-time Cup Winners' Cup winners, playing at the Olimp Sports Palace."
     },
     {
       "id": "f_had_rus_l2_k8",
@@ -132195,10 +132195,10 @@
       "type": "link",
       "icon": "",
       "name": "Zvezda Zvenigorod",
-      "desc": "Zvenigorod v Moskovskej oblasti — majster Ruska a víťaz Pohára EHF.",
+      "desc": "Zvenigorod v Moskovskej oblasti — majster Ruska a víťaz Pohára EHF 2006/07, jediný ruský klub, ktorý vyhral Ligu majstrov (2007/08).",
       "url": "https://zvezda-handball.ru",
       "order": 11,
-      "desc_en": "Zvenigorod in the Moscow region — Russian champions and EHF Cup winners."
+      "desc_en": "Zvenigorod in the Moscow region — 2006/07 Russian champions and EHF Cup winners, the only Russian club ever to win the Champions League (2007/08)."
     }
   ],
   "title_en": "Sportlinking",
