@@ -1,5 +1,5 @@
 {
-  "version": 710,
+  "version": 728,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -136308,7 +136308,7 @@
       "icon": "",
       "name": "League H",
       "desc": "Oficiálny web najvyššej japonskej mužskej hádzanárskej súťaže League H — program, výsledky, tabuľka, tímy.",
-      "url": "https://leagueh.jp/",
+      "url": "https://leagueh.jp/rankings/",
       "order": -1,
       "desc_en": "Official site of League H, Japan's top men's handball division — schedule, results, standings, teams."
     },
@@ -136319,7 +136319,7 @@
       "icon": "",
       "name": "League H (ženy)",
       "desc": "Oficiálny web najvyššej japonskej ženskej hádzanárskej súťaže League H — program, výsledky, tabuľka, tímy.",
-      "url": "https://leagueh.jp/",
+      "url": "https://leagueh.jp/rankings/?g=W",
       "order": -1,
       "desc_en": "Official site of League H, Japan's top women's handball division — schedule, results, standings, teams."
     },
@@ -136332,7 +136332,9 @@
       "desc": "Akitakata (Hirošima) — klub prevádzkuje farmaceutická spoločnosť Wakunaga Pharmaceutical.",
       "url": "https://handball.wakunaga.co.jp/",
       "order": 0,
-      "desc_en": "Akitakata (Hiroshima) — the club is run by the pharmaceutical company Wakunaga Pharmaceutical."
+      "desc_en": "Akitakata (Hiroshima) — the club is run by the pharmaceutical company Wakunaga Pharmaceutical.",
+      "fb": "https://www.facebook.com/wakunagahandball/",
+      "ig": "https://www.instagram.com/akitakata_wakunaga_hc/"
     },
     {
       "id": "f_had_jpn_l1_k2",
@@ -136343,7 +136345,9 @@
       "desc": "Takaiši (Osaka) — klub mesta Takaiši v osackej prefektúre.",
       "url": "https://www.alvamososaka.com/",
       "order": 1,
-      "desc_en": "Takaishi (Osaka) — a club representing the city of Takaishi in Osaka Prefecture."
+      "desc_en": "Takaishi (Osaka) — a club representing the city of Takaishi in Osaka Prefecture.",
+      "fb": "https://www.facebook.com/profile.php?id=100091496935092",
+      "ig": "https://www.instagram.com/alvamososaka/"
     },
     {
       "id": "f_had_jpn_l1_k3",
@@ -136365,7 +136369,8 @@
       "desc": "Tokai (Aiči) — firemný tím oceliarskej spoločnosti Daido Steel, založený v roku 1964; 18 ligových titulov (naposledy 2014/15) a 14 víťazstiev v Japonskom pohári.",
       "url": "https://www.daido-sports.jp/phenix/",
       "order": 3,
-      "desc_en": "Tokai (Aichi) — the company team of steelmaker Daido Steel, founded in 1964; 18 league titles (the last in 2014-15) and 14 Japan Championship wins."
+      "desc_en": "Tokai (Aichi) — the company team of steelmaker Daido Steel, founded in 1964; 18 league titles (the last in 2014-15) and 14 Japan Championship wins.",
+      "ig": "https://www.instagram.com/daido_phenix/"
     },
     {
       "id": "f_had_jpn_l1_k5",
@@ -136376,7 +136381,8 @@
       "desc": "Tokio/Kanagawa — do najvyššej súťaže League H patrí od sezóny 2022/23.",
       "url": "https://earthfriends-bm.jp/",
       "order": 4,
-      "desc_en": "Tokyo/Kanagawa — a member of the top-flight League H since the 2022-23 season."
+      "desc_en": "Tokyo/Kanagawa — a member of the top-flight League H since the 2022-23 season.",
+      "ig": "https://www.instagram.com/earthfriends_bm/"
     },
     {
       "id": "f_had_jpn_l1_k6",
@@ -136387,7 +136393,8 @@
       "desc": "Eiheidži (Fukui) — klub z fukuiskej prefektúry, prezývaný „Blue Thunder\".",
       "url": "https://www.fukuieiheijihand.co.jp/",
       "order": 5,
-      "desc_en": "Eiheiji (Fukui) — a club from Fukui Prefecture, nicknamed \"Blue Thunder\"."
+      "desc_en": "Eiheiji (Fukui) — a club from Fukui Prefecture, nicknamed \"Blue Thunder\".",
+      "ig": "https://www.instagram.com/fukui_eiheiji_bluethunder/"
     },
     {
       "id": "f_had_jpn_l1_k7",
@@ -136398,7 +136405,9 @@
       "desc": "Fukuoka — klub postavený na koncepte „cez deň farmár, večer hádzanár\".",
       "url": "https://golden-wolves.co.jp/",
       "order": 6,
-      "desc_en": "Fukuoka — a club built on the concept of players who farm by day and play handball by night."
+      "desc_en": "Fukuoka — a club built on the concept of players who farm by day and play handball by night.",
+      "fb": "https://www.facebook.com/profile.php?id=100047634825742",
+      "ig": "https://www.instagram.com/goldenwolves_fukuoka/"
     },
     {
       "id": "f_had_jpn_l1_k8",
@@ -136409,7 +136418,8 @@
       "desc": "Saitama — firemný tím elektrotechnickej spoločnosti Osaki Electric.",
       "url": "https://www.osaki-osol.net/",
       "order": 7,
-      "desc_en": "Saitama — a company team of the electrical equipment maker Osaki Electric."
+      "desc_en": "Saitama — a company team of the electrical equipment maker Osaki Electric.",
+      "ig": "https://www.instagram.com/osakiosol_handballofficial/"
     },
     {
       "id": "f_had_jpn_l1_k9",
@@ -136420,7 +136430,8 @@
       "desc": "Kanzaki (Sága) — firemný tím spoločnosti Toyota Boshoku Kyushu.",
       "url": "https://red-tornado.com/",
       "order": 8,
-      "desc_en": "Kanzaki (Saga) — a company team of Toyota Boshoku Kyushu."
+      "desc_en": "Kanzaki (Saga) — a company team of Toyota Boshoku Kyushu.",
+      "ig": "https://www.instagram.com/tbk_redtornado_official/"
     },
     {
       "id": "f_had_jpn_l1_k10",
@@ -136431,7 +136442,8 @@
       "desc": "Mijagi — jediný tím z regiónu Tóhoku v najvyššej japonskej súťaži, založený v roku 1966, prevádzkuje ho Toyota Motor East Japan.",
       "url": "https://www.toyota-ej.co.jp/sports/handball/index.html",
       "order": 9,
-      "desc_en": "Miyagi — the only team from the Tohoku region in Japan's top flight, founded in 1966 and run by Toyota Motor East Japan."
+      "desc_en": "Miyagi — the only team from the Tohoku region in Japan's top flight, founded in 1966 and run by Toyota Motor East Japan.",
+      "ig": "https://www.instagram.com/tmej_hand1/"
     },
     {
       "id": "f_had_jpn_l1_k11",
@@ -136442,7 +136454,9 @@
       "desc": "Okinawa — klub s menom „Corazón\" (španielsky „srdce\") z ostrova Okinawa.",
       "url": "https://www.ryukyu-corazon.com/",
       "order": 10,
-      "desc_en": "Okinawa — a club whose name \"Corazón\" is Spanish for \"heart\", based on Okinawa."
+      "desc_en": "Okinawa — a club whose name \"Corazón\" is Spanish for \"heart\", based on Okinawa.",
+      "fb": "https://www.facebook.com/RyukyuCorazonOfficial/",
+      "ig": "https://www.instagram.com/ryukyucorazon/"
     },
     {
       "id": "f_had_jpn_l1_k12",
@@ -136453,7 +136467,8 @@
       "desc": "Sakai (Osaka) — meno „Liaison\" znamená vo francúzštine „spojenie\", tím vznikol na podporu hádzanej v regióne.",
       "url": "https://sakai-liaison-osaka.com/",
       "order": 11,
-      "desc_en": "Sakai (Osaka) — the name \"Liaison\" is French for \"connection\", a club founded to promote handball in the region."
+      "desc_en": "Sakai (Osaka) — the name \"Liaison\" is French for \"connection\", a club founded to promote handball in the region.",
+      "ig": "https://www.instagram.com/sakai_liaison_osaka/"
     },
     {
       "id": "f_had_jpn_l1_k13",
@@ -136464,7 +136479,9 @@
       "desc": "Tojama — do najvyššej súťaže League H patrí od sezóny 2023/24.",
       "url": "https://toyama-dreams.com/",
       "order": 12,
-      "desc_en": "Toyama — a member of the top-flight League H since the 2023-24 season."
+      "desc_en": "Toyama — a member of the top-flight League H since the 2023-24 season.",
+      "fb": "https://www.facebook.com/profile.php?id=100063703175983",
+      "ig": "https://www.instagram.com/toyamadreams2022/"
     },
     {
       "id": "f_had_jpn_l1_k14",
@@ -136475,7 +136492,8 @@
       "desc": "Kijosu (Aiči) — firemný tím výrobcu gumových a plastových automobilových dielov Toyoda Gosei zo skupiny Toyota, prezývaný „Blue Falcon\".",
       "url": "https://www.toyoda-gosei.co.jp/sports/handball/",
       "order": 13,
-      "desc_en": "Kiyosu (Aichi) — a company team of Toyoda Gosei, a Toyota-group maker of rubber and plastic car parts, nicknamed \"Blue Falcon\"."
+      "desc_en": "Kiyosu (Aichi) — a company team of Toyoda Gosei, a Toyota-group maker of rubber and plastic car parts, nicknamed \"Blue Falcon\".",
+      "ig": "https://www.instagram.com/toyodagosei_bluefalcon/"
     },
     {
       "id": "f_had_jpn_l1_k15",
@@ -136486,7 +136504,9 @@
       "desc": "Tokio — klub so sídlom v štvrti Šinagawa.",
       "url": "https://www.zeekstar.tokyo/",
       "order": 14,
-      "desc_en": "Tokyo — a club based in the Shinagawa ward."
+      "desc_en": "Tokyo — a club based in the Shinagawa ward.",
+      "fb": "https://www.facebook.com/ZEEKSTARTOKYO/",
+      "ig": "https://www.instagram.com/zeekstar_tokyo/"
     },
     {
       "id": "f_had_jpn_l2_k1",
@@ -136497,7 +136517,9 @@
       "desc": "Imizu (Tojama) — klub spoločnosti Prestige International, v najvyššej japonskej lige hrá od sezóny 2017/18.",
       "url": "https://www.aranmare.jp/handball/",
       "order": 0,
-      "desc_en": "Imizu (Toyama) — a club run by Prestige International, in Japan’s top division since the 2017-18 season."
+      "desc_en": "Imizu (Toyama) — a club run by Prestige International, in Japan’s top division since the 2017-18 season.",
+      "fb": "https://www.facebook.com/aranmare.hand/",
+      "ig": "https://www.instagram.com/aranmare.handball.toyama/"
     },
     {
       "id": "f_had_jpn_l2_k2",
@@ -136508,7 +136530,8 @@
       "desc": "Kirišima (Kagošima) — firemný tím spoločnosti Sony Semiconductor.",
       "url": "https://www.sony-semicon.com/ja/bluesakuya/",
       "order": 1,
-      "desc_en": "Kirishima (Kagoshima) — a company team of Sony Semiconductor."
+      "desc_en": "Kirishima (Kagoshima) — a company team of Sony Semiconductor.",
+      "ig": "https://www.instagram.com/sony.bluesakuya/"
     },
     {
       "id": "f_had_jpn_l2_k3",
@@ -136516,10 +136539,10 @@
       "type": "link",
       "icon": "",
       "name": "Dellefore Okayama",
-      "desc": "Kurašiki (Okajama) — tím založila v marci 2025 firma Kanko Gakuseifuku (výrobca školských uniforiem), do League H vstupuje od sezóny 2027/28; klub zatiaľ nemá vlastný web.",
-      "url": "https://leagueh.jp/team/dellefore/profile/",
+      "desc": "Kurašiki (Okajama) — tím založila v marci 2025 firma Kanko Gakuseifuku (výrobca školských uniforiem), do League H vstupuje od sezóny 2027/28; klub zatiaľ nemá vlastný web, odkaz vedie na jeho Instagram.",
+      "url": "https://www.instagram.com/dellefore_okayama/",
       "order": 2,
-      "desc_en": "Kurashiki (Okayama) — founded in March 2025 by the school-uniform maker Kanko Gakuseifuku, joining League H from the 2027-28 season; the club has no own website yet."
+      "desc_en": "Kurashiki (Okayama) — founded in March 2025 by the school-uniform maker Kanko Gakuseifuku, joining League H from the 2027-28 season; the club has no own website yet, the link leads to its Instagram."
     },
     {
       "id": "f_had_jpn_l2_k4",
@@ -136530,7 +136553,9 @@
       "desc": "Nagoja (Aiči), štvrť Mizuho — klub prevádzkuje občianske združenie TEAM758.",
       "url": "https://hc-nagoya.jp/",
       "order": 3,
-      "desc_en": "Nagoya (Aichi), Mizuho ward — the club is run by the general incorporated association TEAM758."
+      "desc_en": "Nagoya (Aichi), Mizuho ward — the club is run by the general incorporated association TEAM758.",
+      "fb": "https://www.facebook.com/HCnagoya/",
+      "ig": "https://www.instagram.com/hcnagoya_official/"
     },
     {
       "id": "f_had_jpn_l2_k5",
@@ -136541,7 +136566,9 @@
       "desc": "Takajama (Gifu) — klub založený v roku 2013, prevádzkuje ho neziskové združenie Hida Takayama Handball Club.",
       "url": "https://blackbulls.jp/",
       "order": 4,
-      "desc_en": "Takayama (Gifu) — a club founded in 2013, run by the non-profit Hida Takayama Handball Club."
+      "desc_en": "Takayama (Gifu) — a club founded in 2013, run by the non-profit Hida Takayama Handball Club.",
+      "fb": "https://www.facebook.com/htbbg/",
+      "ig": "https://www.instagram.com/blackbulls__hidatakayama/"
     },
     {
       "id": "f_had_jpn_l2_k6",
@@ -136552,7 +136579,9 @@
       "desc": "Kanazawa (Išikawa) — klub založený v roku 1975 ako oddiel banky Hokkoku Bank; od novembra 2024 ho prevádzkuje spoločnosť Honey Bee Sports zo skupiny CCI Group (holding Hokkoku Bank). Držiteľ série desiatich ligových titulov v rade (2014–2023).",
       "url": "https://www.honeybee-ishikawa.co.jp/",
       "order": 5,
-      "desc_en": "Kanazawa (Ishikawa) — founded in 1975 as the Hokkoku Bank works team; since November 2024 run by Honey Bee Sports, part of CCI Group (Hokkoku Bank's holding company). Winner of ten league titles in a row (2014–2023)."
+      "desc_en": "Kanazawa (Ishikawa) — founded in 1975 as the Hokkoku Bank works team; since November 2024 run by Honey Bee Sports, part of CCI Group (Hokkoku Bank's holding company). Winner of ten league titles in a row (2014–2023).",
+      "fb": "https://www.facebook.com/profile.php?id=100057221750630",
+      "ig": "https://www.instagram.com/honeybeeishikawa/"
     },
     {
       "id": "f_had_jpn_l2_k7",
@@ -136563,7 +136592,8 @@
       "desc": "Hirošima — klub založený v roku 1993, patrí medzi dlhoročných účastníkov najvyššej japonskej ligy.",
       "url": "https://www.izumi-maplereds.com/",
       "order": 6,
-      "desc_en": "Hiroshima — a club founded in 1993 and a long-standing member of Japan’s top division."
+      "desc_en": "Hiroshima — a club founded in 1993 and a long-standing member of Japan’s top division.",
+      "ig": "https://www.instagram.com/izumi_maplereds/"
     },
     {
       "id": "f_had_jpn_l2_k8",
@@ -136574,7 +136604,8 @@
       "desc": "Takamacu (Kagawa) — prvý ženský firemný hádzanársky tím na ostrove Šikoku; v roku 2024 vyhral Japonský pohár a v sezóne 2025/26 získal svoj prvý ligový titul.",
       "url": "https://www.kagawabank.co.jp/about/handball/handball.html",
       "order": 7,
-      "desc_en": "Takamatsu (Kagawa) — the first women's corporate handball team on the island of Shikoku; won the Japan Championship in 2024 and its first league title in 2025-26."
+      "desc_en": "Takamatsu (Kagawa) — the first women's corporate handball team on the island of Shikoku; won the Japan Championship in 2024 and its first league title in 2025-26.",
+      "ig": "https://www.instagram.com/kb_girasol/"
     },
     {
       "id": "f_had_jpn_l2_k9",
@@ -136585,7 +136616,9 @@
       "desc": "Jamaga (Kumamoto) — hrá od prvého ročníka súťaže v roku 1976 a so 17 ligovými titulmi (naposledy 2013) patrí k najúspešnejším klubom ženskej ligy.",
       "url": "https://pindys.jp/",
       "order": 8,
-      "desc_en": "Yamaga (Kumamoto) — in the league since its very first season in 1976 and, with 17 league titles (the last in 2013), one of the most successful clubs in the women's league."
+      "desc_en": "Yamaga (Kumamoto) — in the league since its very first season in 1976 and, with 17 league titles (the last in 2013), one of the most successful clubs in the women's league.",
+      "ig": "https://www.instagram.com/pindys.hb/",
+      "fb": "https://www.facebook.com/profile.php?id=100083393742672"
     },
     {
       "id": "f_had_jpn_l2_k10",
@@ -136596,7 +136629,9 @@
       "desc": "Suzuka (Mie) — klub z mesta Suzuka v prefektúre Mie.",
       "url": "https://mie-visc.jp/",
       "order": 9,
-      "desc_en": "Suzuka (Mie) — a club from the city of Suzuka in Mie Prefecture."
+      "desc_en": "Suzuka (Mie) — a club from the city of Suzuka in Mie Prefecture.",
+      "fb": "https://www.facebook.com/mievioletiris/",
+      "ig": "https://www.instagram.com/mvi_handball_official/"
     },
     {
       "id": "f_had_jpn_l2_k11",
@@ -136607,7 +136642,9 @@
       "desc": "Osaka — klub založený v roku 2016, prevádzkuje ho združenie Osaka Handball Club.",
       "url": "https://lovvits.jp/",
       "order": 10,
-      "desc_en": "Osaka — a club founded in 2016, run by the Osaka Handball Club association."
+      "desc_en": "Osaka — a club founded in 2016, run by the Osaka Handball Club association.",
+      "fb": "https://www.facebook.com/OsakaLovvits/",
+      "ig": "https://www.instagram.com/osakalovvits/"
     },
     {
       "id": "f_had_jpn_l2_k12",
@@ -136618,7 +136655,8 @@
       "desc": "Nago (Okinawa) — založený v roku 2017 ako prvý ženský firemný hádzanársky tím na Okinawe, v League H hrá od sezóny 2021/22.",
       "url": "https://www.hclatida.com/",
       "order": 11,
-      "desc_en": "Nago (Okinawa) — founded in 2017 as Okinawa's first women's corporate handball team, in League H since the 2021-22 season."
+      "desc_en": "Nago (Okinawa) — founded in 2017 as Okinawa's first women's corporate handball team, in League H since the 2021-22 season.",
+      "ig": "https://www.instagram.com/terrace_hotels/"
     },
     {
       "id": "f_had_kor_l1_liga",
@@ -136627,7 +136665,7 @@
       "icon": "",
       "name": "H League",
       "desc": "Oficiálny web Kórejskej hádzanárskej federácie (KOHA) — rozpis, výsledky a tabuľka mužskej H ligy.",
-      "url": "https://www.koreahandball.com",
+      "url": "https://www.koreahandball.com/game/teamranking.php?league_gender=M",
       "order": -1,
       "desc_en": "Official site of the Korea Handball Association (KOHA) — schedule, results and standings of the men's H League."
     },
@@ -136638,7 +136676,7 @@
       "icon": "",
       "name": "H League (ženy)",
       "desc": "Oficiálny web Kórejskej hádzanárskej federácie (KOHA) — rozpis, výsledky a tabuľka ženskej H ligy.",
-      "url": "https://www.koreahandball.com",
+      "url": "https://www.koreahandball.com/game/teamranking.php?league_gender=W",
       "order": -1,
       "desc_en": "Official site of the Korea Handball Association (KOHA) — schedule, results and standings of the women's H League."
     },
@@ -136704,9 +136742,10 @@
       "icon": "",
       "name": "SK Hawks",
       "desc": "Tím SK Hynixu založený v roku 2016 so sídlom v Čchongdžu — trojnásobný finalista H ligy (2023/24 – 2025/26).",
-      "url": "https://www.koreahandball.com/introduce/team_men.php?team_num=132&page_type=1",
+      "url": "https://www.instagram.com/skhawks.official/",
       "order": 5,
-      "desc_en": "SK Hynix-backed team founded in 2016 and based in Cheongju — three-time H League runner-up (2023/24-2025/26)."
+      "desc_en": "SK Hynix-backed team founded in 2016 and based in Cheongju — three-time H League runner-up (2023/24-2025/26).",
+      "fb": "https://www.facebook.com/SKHawksHandballTeam/"
     },
     {
       "id": "f_had_kor_l2_k1",
@@ -136726,7 +136765,7 @@
       "icon": "",
       "name": "Daegu Metropolitan City Hall",
       "desc": "Založený v roku 1984, s vyše 40-ročnou históriou patrí medzi tradičné kluby ženskej kórejskej hádzanej, viacnásobný majster ligy začiatkom 2000. rokov.",
-      "url": "https://www.koreahandball.com/introduce/team_women.php?team_num=23&page_type=1",
+      "url": "https://www.instagram.com/daegucity_handball/",
       "order": 1,
       "desc_en": "Founded in 1984, with over 40 years of history it is one of the traditional clubs of Korean women's handball and a multiple league champion in the early 2000s."
     },
@@ -136770,7 +136809,7 @@
       "icon": "",
       "name": "Samcheok City Hall",
       "desc": "Mestský klub zo Samcheoku v provincii Kangwon, založený 12. februára 2004 — v sezónach 2024/25 aj 2025/26 skončil druhý v základnej časti aj vo finále play-off.",
-      "url": "https://www.samcheok.go.kr/specialty/00468/01660.web",
+      "url": "https://www.koreahandball.com/introduce/team_women.php?team_num=93&page_type=1",
       "order": 5,
       "desc_en": "City club from Samcheok in Gangwon Province, founded on 12 February 2004 — runner-up in both the regular season and the play-off final in 2024/25 and 2025/26."
     },
@@ -136792,7 +136831,7 @@
       "icon": "",
       "name": "SK Sugar Gliders",
       "desc": "Klub so sídlom v Gwangmjongu založený v roku 2012 — prvý ženský tím s tromi celkovými prvenstvami H ligy v rade (2023/24 – 2025/26), v sezóne 2025/26 s bilanciou 21-0.",
-      "url": "https://www.koreahandball.com/introduce/team_women.php?team_num=123&page_type=1",
+      "url": "https://www.instagram.com/sksugargliders_handballclub/",
       "order": 7,
       "desc_en": "Club based in Gwangmyeong, founded in 2012 — the first women's team to win three consecutive overall H League titles (2023/24-2025/26), going 21-0 in the 2025/26 regular season."
     },
@@ -136816,7 +136855,9 @@
       "desc": "Dauhá — štvornásobný katarský majster.",
       "url": "https://alahlisc.qa",
       "order": 0,
-      "desc_en": "Doha — four-time Qatari champions."
+      "desc_en": "Doha — four-time Qatari champions.",
+      "fb": "https://www.facebook.com/ahliqat/",
+      "ig": "https://www.instagram.com/ahliqat/"
     },
     {
       "id": "f_had_qat_l1_k2",
@@ -136827,7 +136868,9 @@
       "desc": "Dauhá — úradujúci katarský majster (2024/25 aj 2025/26) a víťaz Katarského pohára 2026.",
       "url": "https://alarabi.qa",
       "order": 1,
-      "desc_en": "Doha — reigning Qatari champions (2024–25 and 2025–26) and 2026 Qatar Cup winners."
+      "desc_en": "Doha — reigning Qatari champions (2024–25 and 2025–26) and 2026 Qatar Cup winners.",
+      "fb": "https://www.facebook.com/alarabiclub1952/",
+      "ig": "https://www.instagram.com/alarabi_club/"
     },
     {
       "id": "f_had_qat_l1_k3",
@@ -136836,9 +136879,10 @@
       "icon": "",
       "name": "Al-Duhail SC",
       "desc": "Dauhá (štvrť Duhail) — predtým Lekhwiya SC, štyri tituly katarského majstra.",
-      "url": "https://www.duhailsc.qa",
+      "url": "https://www.facebook.com/DuhailSC/",
       "order": 2,
-      "desc_en": "Doha (Duhail district) — formerly Lekhwiya SC, four-time Qatari champions."
+      "desc_en": "Doha (Duhail district) — formerly Lekhwiya SC, four-time Qatari champions.",
+      "ig": "https://www.instagram.com/duhailsc/"
     },
     {
       "id": "f_had_qat_l1_k4",
@@ -136847,7 +136891,7 @@
       "icon": "",
       "name": "Al-Gharafa SC",
       "desc": "Ar-Rajján — titul katarského majstra zo sezóny 2014/15.",
-      "url": "https://al-gharafa.com",
+      "url": "https://www.instagram.com/algharafaclub/",
       "order": 3,
       "desc_en": "Al Rayyan — Qatari champions in 2014–15."
     },
@@ -136858,9 +136902,10 @@
       "icon": "",
       "name": "Al-Khor SC",
       "desc": "Mesto Al-Chaur na severovýchode Kataru — viacšportový klub založený v roku 1961.",
-      "url": "https://alkhor-club.com",
+      "url": "https://www.facebook.com/alkhorclub/",
       "order": 4,
-      "desc_en": "Al Khor, northeastern Qatar — multi-sport club founded in 1961."
+      "desc_en": "Al Khor, northeastern Qatar — multi-sport club founded in 1961.",
+      "ig": "https://www.instagram.com/alkhor_club/"
     },
     {
       "id": "f_had_qat_l1_k6",
@@ -136871,7 +136916,9 @@
       "desc": "Ar-Rajján — rekordný katarský majster s 15 titulmi.",
       "url": "https://alrayyansc.com",
       "order": 5,
-      "desc_en": "Al Rayyan — record Qatari champions with 15 league titles."
+      "desc_en": "Al Rayyan — record Qatari champions with 15 league titles.",
+      "fb": "https://www.facebook.com/alrayyansc/",
+      "ig": "https://www.instagram.com/alrayyansc/"
     },
     {
       "id": "f_had_qat_l1_k7",
@@ -136882,7 +136929,9 @@
       "desc": "Dauhá (štvrť As-Sadd) — deväťnásobný katarský majster, druhý najúspešnejší klub krajiny.",
       "url": "https://al-saddclub.com",
       "order": 6,
-      "desc_en": "Doha (Al Sadd district) — nine-time Qatari champions, the country's second most successful club."
+      "desc_en": "Doha (Al Sadd district) — nine-time Qatari champions, the country's second most successful club.",
+      "fb": "https://www.facebook.com/saddsc/",
+      "ig": "https://www.instagram.com/alsaddsc/"
     },
     {
       "id": "f_had_qat_l1_k8",
@@ -136893,7 +136942,9 @@
       "desc": "Madínat aš-Šamál na severe Kataru — viacšportový klub založený v roku 1980.",
       "url": "https://alshamal.qa",
       "order": 7,
-      "desc_en": "Madinat ash Shamal, northern Qatar — multi-sport club founded in 1980."
+      "desc_en": "Madinat ash Shamal, northern Qatar — multi-sport club founded in 1980.",
+      "ig": "https://www.instagram.com/alshamal_club/",
+      "fb": "https://www.facebook.com/profile.php?id=100068521213621"
     },
     {
       "id": "f_had_qat_l1_k9",
@@ -136902,7 +136953,7 @@
       "icon": "",
       "name": "Al-Wakrah SC",
       "desc": "Mesto Al-Wakra — titul katarského majstra zo sezóny 2018/19.",
-      "url": "https://alwakrahsc.qa",
+      "url": "https://www.instagram.com/alwakrah_sc/",
       "order": 8,
       "desc_en": "Al Wakrah — Qatari champions in 2018–19."
     },
@@ -136915,7 +136966,9 @@
       "desc": "Dauhá — dvojnásobný katarský majster.",
       "url": "https://qatarsc.qa/category/handball",
       "order": 9,
-      "desc_en": "Doha — two-time Qatari champions."
+      "desc_en": "Doha — two-time Qatari champions.",
+      "fb": "https://www.facebook.com/Qatarsc/",
+      "ig": "https://www.instagram.com/qatarsportsclub/"
     },
     {
       "id": "f_had_sau_l1_liga",
@@ -136929,26 +136982,16 @@
       "desc_en": "Official Facebook page of the Saudi Arabian Handball Federation — news, results and standings of the men's Premier League."
     },
     {
-      "id": "f_had_sau_l1_k1",
-      "parentId": "f_had_sau_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Al-Adalah",
-      "desc": "Oblasť Al-Halíla, guvernorát Al-Ahsá — klub založený 1984, v najvyššej hádzanárskej súťaži hrá od sezóny 2005/06.",
-      "url": "https://aladalahclub.com",
-      "order": 0,
-      "desc_en": "Al-Haleela, Al-Ahsa Governorate — club founded in 1984, competing in the top handball flight since the 2005–06 season."
-    },
-    {
       "id": "f_had_sau_l1_k2",
       "parentId": "f_had_sau_l1",
       "type": "link",
       "icon": "",
       "name": "Al-Fateh",
       "desc": "Guvernorát Al-Ahsá vo Východnej provincii — klub má vlastnú halu pre hádzanú, basketbal aj volejbal.",
-      "url": "https://fatehclub.com/ar",
-      "order": 1,
-      "desc_en": "Al-Ahsa Governorate, Eastern Province — the club has its own indoor hall for handball, basketball and volleyball."
+      "url": "https://www.instagram.com/fatehclub/",
+      "order": 0,
+      "desc_en": "Al-Ahsa Governorate, Eastern Province — the club has its own indoor hall for handball, basketball and volleyball.",
+      "fb": "https://www.facebook.com/fatehclub/"
     },
     {
       "id": "f_had_sau_l1_k3",
@@ -136957,8 +137000,8 @@
       "icon": "",
       "name": "Al-Hada",
       "desc": "Ostrov Tárút v Katífe — v sezóne 2024/25 získal turnaj Saudi Games, vo finále zdolal Al-Khaleej.",
-      "url": "https://www.sofascore.com/handball/team/al-hada/238501",
-      "order": 2,
+      "url": "https://www.instagram.com/alhadaclub/",
+      "order": 1,
       "desc_en": "Tarout Island, Qatif — won the 2024–25 Saudi Games tournament, beating Al-Khaleej in the final."
     },
     {
@@ -136969,8 +137012,10 @@
       "name": "Al-Hazm",
       "desc": "Mesto Ar-Rass v regióne Al-Qasím — postup do najvyššej súťaže pred sezónou 2026/27.",
       "url": "https://alhazem.sa",
-      "order": 3,
-      "desc_en": "Al-Rass, Qassim region — promoted to the top flight for the 2026–27 season."
+      "order": 2,
+      "desc_en": "Al-Rass, Qassim region — promoted to the top flight for the 2026–27 season.",
+      "fb": "https://www.facebook.com/alhazemfc/",
+      "ig": "https://www.instagram.com/alhazem_fc/"
     },
     {
       "id": "f_had_sau_l1_k5",
@@ -136980,8 +137025,10 @@
       "name": "Al-Khaleej",
       "desc": "Mesto Sajhát vo Východnej provincii — obhajca titulu, 13-násobný saudský majster, štvrtý titul v rade.",
       "url": "https://khaleejclub.sa",
-      "order": 4,
-      "desc_en": "Saihat, Eastern Province — defending champions, 13-time Saudi title holders, fourth title in a row."
+      "order": 3,
+      "desc_en": "Saihat, Eastern Province — defending champions, 13-time Saudi title holders, fourth title in a row.",
+      "fb": "https://www.facebook.com/khaleejclub/",
+      "ig": "https://www.instagram.com/khaleejclub/"
     },
     {
       "id": "f_had_sau_l1_k7",
@@ -136991,8 +137038,10 @@
       "name": "Al-Muheet",
       "desc": "Oblasť Al-Džarúdíja v Katífe — klub založený 1976, nedávno postúpil do najvyššej hádzanárskej súťaže.",
       "url": "https://almuheetclub.com",
-      "order": 6,
-      "desc_en": "Al-Jarudiyah, Qatif — club founded in 1976, recently promoted to the top handball flight."
+      "order": 5,
+      "desc_en": "Al-Jarudiyah, Qatif — club founded in 1976, recently promoted to the top handball flight.",
+      "fb": "https://www.facebook.com/almuheet.club.3/",
+      "ig": "https://www.instagram.com/muheetclub/"
     },
     {
       "id": "f_had_sau_l1_k8",
@@ -137002,8 +137051,9 @@
       "name": "Al-Noor",
       "desc": "Mesto Sanábis v Katífe — osemnásobný saudský majster, tretí najúspešnejší klub v histórii súťaže.",
       "url": "https://alnoorclub.net",
-      "order": 7,
-      "desc_en": "Sanabis, Qatif — eight-time Saudi champions, the competition's third most successful club."
+      "order": 6,
+      "desc_en": "Sanabis, Qatif — eight-time Saudi champions, the competition's third most successful club.",
+      "ig": "https://www.instagram.com/alnoor_sc/"
     },
     {
       "id": "f_had_sau_l1_k10",
@@ -137013,8 +137063,10 @@
       "name": "Al-Wehda",
       "desc": "Mekka — viacšportový klub založený 1916, štyri tituly saudského majstra.",
       "url": "https://alwehdaclub.sa",
-      "order": 9,
-      "desc_en": "Mecca — multi-sport club founded in 1916, four-time Saudi champions."
+      "order": 8,
+      "desc_en": "Mecca — multi-sport club founded in 1916, four-time Saudi champions.",
+      "fb": "https://www.facebook.com/profile.php?id=100075886912169",
+      "ig": "https://www.instagram.com/alwehdaclub1/"
     },
     {
       "id": "f_had_sau_l1_k11",
@@ -137024,8 +137076,9 @@
       "name": "Mudhar",
       "desc": "Mesto Al-Qudajh vo Východnej provincii — štvornásobný saudský majster, naposledy 2022.",
       "url": "https://mudharclub.org",
-      "order": 10,
-      "desc_en": "Al-Qudaih, Eastern Province — four-time Saudi champions, most recently in 2022."
+      "order": 9,
+      "desc_en": "Al-Qudaih, Eastern Province — four-time Saudi champions, most recently in 2022.",
+      "ig": "https://www.instagram.com/mudharclub/"
     },
     {
       "id": "f_had_sau_l1_k6",
@@ -137036,7 +137089,9 @@
       "desc": "Dedina Al-Chuwajldíja v guvernoráte Katíf — viacšportový klub založený v roku 1398 AH (1978), do najvyššej súťaže postúpil pred sezónou 2026/27.",
       "desc_en": "Al-Khuwaildiyah village, Qatif Governorate — multi-sport club founded in 1398 AH (1978), promoted to the top flight for the 2026–27 season.",
       "url": "https://alkhowildiahclub.com",
-      "order": 5
+      "order": 4,
+      "fb": "https://www.facebook.com/nadialkhowildiah/",
+      "ig": "https://www.instagram.com/alkhowildiah_club/"
     },
     {
       "id": "f_had_sau_l1_k9",
@@ -137047,7 +137102,9 @@
       "desc": "Al-Chubar vo Východnej provincii — víťaz 1. ligy 2025/26 s plným počtom bodov (18 víťazstiev z 18) a postupom do najvyššej súťaže.",
       "desc_en": "Al-Khobar, Eastern Province — won the 2025–26 first division with a perfect record (18 wins from 18) and promotion to the top flight.",
       "url": "https://alqadsiah.com",
-      "order": 8
+      "order": 7,
+      "fb": "https://www.facebook.com/fcqadsiah/",
+      "ig": "https://www.instagram.com/fcqadsiah/"
     },
     {
       "id": "f_had_kwt_l1_liga",
@@ -137069,7 +137126,8 @@
       "desc": "Desaťnásobný majster kuvajtskej hádzanej, naposledy v sezóne 2011/12; klub vznikol v roku 1960.",
       "url": "https://www.facebook.com/alarabisckw/",
       "order": 0,
-      "desc_en": "Ten-time Kuwaiti handball champions, most recently in 2011–12; the club was founded in 1960."
+      "desc_en": "Ten-time Kuwaiti handball champions, most recently in 2011–12; the club was founded in 1960.",
+      "ig": "https://www.instagram.com/alarabisckw/"
     },
     {
       "id": "f_had_kwt_l1_k2",
@@ -137078,7 +137136,7 @@
       "icon": "",
       "name": "Al-Nasr SC",
       "desc": "Klub z guvernorátu Farwáníja prezývaný „Al-Annábi“ podľa vínovej farby dresov, založený v roku 1965.",
-      "url": "https://www.sofascore.com/handball/team/al-nasr-kuwait/245955",
+      "url": "https://www.instagram.com/clubalnasr/",
       "order": 1,
       "desc_en": "Club from Farwaniya Governorate nicknamed \"Al-Annabi\" after its maroon colours, founded in 1965."
     },
@@ -137089,7 +137147,7 @@
       "icon": "",
       "name": "Al-Qadsia SC",
       "desc": "Päťnásobný majster súťaže, naposledy v sezóne 2005/06; do roku 1960 klub niesol názov Al-Džazíra.",
-      "url": "https://www.sofascore.com/handball/team/al-qadsia/335082",
+      "url": "https://www.instagram.com/qadsiaclub/",
       "order": 2,
       "desc_en": "Five-time league champions, most recently in 2005–06; until 1960 the club was named Al-Jazira."
     },
@@ -137100,7 +137158,7 @@
       "icon": "",
       "name": "Al-Salmiya SC",
       "desc": "Salmíja — jedenásťnásobný majster kuvajtskej hádzanej, naposledy v sezóne 2000/01.",
-      "url": "https://www.sofascore.com/handball/team/al-salmija/245937",
+      "url": "https://www.instagram.com/alsalmiyaclub/",
       "order": 3,
       "desc_en": "Salmiya — eleven-time Kuwaiti handball champions, most recently in 2000–01."
     },
@@ -137122,7 +137180,7 @@
       "icon": "",
       "name": "Burgan SC",
       "desc": "Najmladší klub súťaže zo štvrte Alí Sabáh as-Sálim, oficiálne uznaný ako športový klub v septembri 2013.",
-      "url": "https://www.sofascore.com/handball/team/burgan-sc/245938",
+      "url": "https://www.instagram.com/burgan_sc/",
       "order": 5,
       "desc_en": "The competition's youngest club, from the Ali Sabah Al-Salem suburb, officially recognised as a sports club in September 2013."
     },
@@ -137133,9 +137191,10 @@
       "icon": "",
       "name": "Kazma SC",
       "desc": "Šesťnásobný majster kuvajtskej hádzanej prezývaný „Veľvyslanec“; klub bol založený 31. augusta 1964.",
-      "url": "https://kazmasc.com",
+      "url": "https://www.facebook.com/KAZMASPORTCLUB/",
       "order": 6,
-      "desc_en": "Six-time Kuwaiti handball champions nicknamed \"the Ambassador\"; the club was founded on 31 August 1964."
+      "desc_en": "Six-time Kuwaiti handball champions nicknamed \"the Ambassador\"; the club was founded on 31 August 1964.",
+      "ig": "https://www.instagram.com/kazma_sc/"
     },
     {
       "id": "f_had_kwt_l1_k8",
@@ -137144,9 +137203,10 @@
       "icon": "",
       "name": "Kuwait SC",
       "desc": "Rekordný majster kuvajtskej hádzanej, ktorý súťaž ovláda nepretržite od sezóny 2012/13; klub z Kuvajtu vznikol v roku 1960.",
-      "url": "https://www.facebook.com/KuwaitSportsClub/",
+      "url": "https://www.instagram.com/kuwaitclub/",
       "order": 7,
-      "desc_en": "Kuwait's record handball champions, who have won every title since 2012–13; the Kuwait City club was founded in 1960."
+      "desc_en": "Kuwait's record handball champions, who have won every title since 2012–13; the Kuwait City club was founded in 1960.",
+      "fb": "https://www.facebook.com/KuwaitSportsClub/"
     },
     {
       "id": "f_had_are_l1_liga",
@@ -137166,7 +137226,7 @@
       "icon": "",
       "name": "Al Dhaid",
       "desc": "Adh-Dhaid v strednom regióne emirátu Šardža — kultúrno-športový klub, v sezóne 2025/26 štvrtý tím ligy.",
-      "url": "https://aldhaidclub.ae/",
+      "url": "https://www.instagram.com/dhaidclub/",
       "order": 0,
       "desc_en": "Al Dhaid in the central region of the Emirate of Sharjah — a cultural and sports club that finished fourth in 2025/26."
     },
@@ -137179,7 +137239,9 @@
       "desc": "Dubaj — hádzanársky oddiel viacšportového klubu Al Nasr, bronzový v sezóne 2025/26.",
       "url": "https://www.alnasrclub.com/en/handball",
       "order": 1,
-      "desc_en": "Dubai — the handball section of the Al Nasr multi-sports club, third in the 2025/26 season."
+      "desc_en": "Dubai — the handball section of the Al Nasr multi-sports club, third in the 2025/26 season.",
+      "fb": "https://www.facebook.com/alnasrsc/",
+      "ig": "https://www.instagram.com/alnasr_sc/"
     },
     {
       "id": "f_had_are_l1_k3",
@@ -137187,10 +137249,10 @@
       "type": "link",
       "icon": "",
       "name": "Al Sharjah",
-      "desc": "Šardža — rekordný majster SAE, ktorý ligu ovládol aj v sezóne 2025/26; klubový web je momentálne v režime údržby.",
-      "url": "https://sharjahclub.ae",
+      "desc": "Šardža — rekordný majster SAE, ktorý ligu ovládol aj v sezóne 2025/26; odkaz vedie na instagramový účet hádzanárskeho tímu, klubový web je v režime údržby.",
+      "url": "https://www.instagram.com/sharjah_handball/",
       "order": 2,
-      "desc_en": "Sharjah — the UAE's record champions, who won the league again in 2025/26; the club's website is currently under maintenance."
+      "desc_en": "Sharjah — the UAE's record champions, who won the league again in 2025/26; the link leads to the handball team's Instagram account, as the club's website is under maintenance."
     },
     {
       "id": "f_had_are_l1_k4",
@@ -137201,7 +137263,9 @@
       "desc": "Dubaj — hádzanársky oddiel známeho viacšportového klubu Al Wasl.",
       "url": "https://www.alwaslsc.ae/en-gb/sports-details/al-wasl-handball-academy",
       "order": 3,
-      "desc_en": "Dubai — the handball section of the well-known Al Wasl multi-sports club."
+      "desc_en": "Dubai — the handball section of the well-known Al Wasl multi-sports club.",
+      "fb": "https://www.facebook.com/alwaslsc/",
+      "ig": "https://www.instagram.com/alwaslsc/"
     },
     {
       "id": "f_had_are_l1_k5",
@@ -137209,10 +137273,11 @@
       "type": "link",
       "icon": "",
       "name": "Dibba Al-Hisn",
-      "desc": "Dibba Al-Hisn na pobreží Ománskeho zálivu — kultúrno-športový klub s vlastnou stránkou hádzanárskeho oddielu.",
-      "url": "https://dhclub.ae/en/games/handball/",
+      "desc": "Dibba Al-Hisn na pobreží Ománskeho zálivu — kultúrno-športový klub; odkaz vedie na jeho oficiálnu stránku na Facebooku.",
+      "url": "https://www.facebook.com/dhclub.1980/",
       "order": 4,
-      "desc_en": "Dibba Al-Hisn on the Gulf of Oman coast — a cultural and sports club with its own handball section page."
+      "desc_en": "Dibba Al-Hisn on the Gulf of Oman coast — a cultural and sports club; the link leads to its official Facebook page.",
+      "ig": "https://www.instagram.com/dhclub1980/"
     },
     {
       "id": "f_had_are_l1_k6",
@@ -137221,9 +137286,10 @@
       "icon": "",
       "name": "Mleiha",
       "desc": "Mleiha vo vnútrozemí emirátu Šardža — kultúrno-športový klub, v sezóne 2025/26 piaty tím ligy.",
-      "url": "https://www.mleehaclub.com/",
+      "url": "https://www.instagram.com/mleehaclub/",
       "order": 5,
-      "desc_en": "Mleiha in the interior of the Emirate of Sharjah — a cultural and sports club that finished fifth in 2025/26."
+      "desc_en": "Mleiha in the interior of the Emirate of Sharjah — a cultural and sports club that finished fifth in 2025/26.",
+      "fb": "https://www.facebook.com/mleehaculturalsportsclub/"
     },
     {
       "id": "f_had_are_l1_k7",
@@ -137234,7 +137300,8 @@
       "desc": "Dubaj — hádzanársky oddiel veľkého viacšportového klubu Shabab Al Ahli, vicemajster sezóny 2025/26.",
       "url": "https://www.shababalahli.ae/category/handball/",
       "order": 6,
-      "desc_en": "Dubai — the handball section of the large Shabab Al Ahli multi-sports club, runners-up in 2025/26."
+      "desc_en": "Dubai — the handball section of the large Shabab Al Ahli multi-sports club, runners-up in 2025/26.",
+      "ig": "https://www.instagram.com/shababalahlidubaifc/"
     },
     {
       "id": "f_had_bra_l1_liga",
@@ -137242,10 +137309,10 @@
       "type": "link",
       "icon": "",
       "name": "Liga Nacional",
-      "desc": "Kalendár a výsledky brazílskej Ligy Nacional na webe federácie CBHb — regionálne konferencie aj národná fáza.",
-      "url": "https://cbhb.org.br/eventos",
+      "desc": "Tabuľka a výsledky národnej fázy brazílskej Ligy Nacional 2026 na webe federácie CBHb — dve skupiny po šesť tímov, najlepšie dva z každej postupujú do Final Four.",
+      "url": "https://cbhb.org.br/evento/3464/liga-nacional-masculino-2026-fase-de-grupos",
       "order": -1,
-      "desc_en": "Calendar and results of Brazil's Liga Nacional on the CBHb federation site — regional conferences and the national phase."
+      "desc_en": "Standings and results of the 2026 Brazilian Liga Nacional national phase on the CBHb federation site — two groups of six, with the top two of each advancing to the Final Four."
     },
     {
       "id": "f_had_bra_l1_k1",
@@ -137253,10 +137320,10 @@
       "type": "link",
       "icon": "",
       "name": "ASHb Sorriso",
-      "desc": "Sorriso v Mato Grosso — víťaz konferencie Centro-Oeste Ligy Nacional 2026; klub nemá vlastný web, profil vedie federácia CBHb.",
-      "url": "https://cbhb.org.br/clube/1112/ashb-prefeitura-de-sorriso-mt",
+      "desc": "Sorriso v Mato Grosso — víťaz konferencie Centro-Oeste Ligy Nacional 2026; odkaz vedie na instagram klubu ASHb.",
+      "url": "https://www.instagram.com/handebolsorriso/",
       "order": 0,
-      "desc_en": "Sorriso in Mato Grosso — winners of the 2026 Liga Nacional Centro-Oeste Conference; the club has no site of its own, so this is its CBHb federation profile."
+      "desc_en": "Sorriso in Mato Grosso — winners of the 2026 Liga Nacional Centro-Oeste Conference; the link goes to the ASHb club's Instagram."
     },
     {
       "id": "f_had_bra_l1_k2",
@@ -137276,7 +137343,7 @@
       "icon": "",
       "name": "Clube Português do Recife",
       "desc": "Recife — viacšportový klub založený v roku 1934, hádzanársky oddiel bol vo finále Ligy Nacional 2025.",
-      "url": "https://www.clubeportuguesdorecife.com.br/",
+      "url": "https://www.instagram.com/handebolportugues/",
       "order": 2,
       "desc_en": "Recife — a multi-sport club founded in 1934 whose handball side reached the 2025 Liga Nacional final."
     },
@@ -137289,7 +137356,8 @@
       "desc": "São Paulo — rekordný víťaz Ligy Nacional a najslávnejší brazílsky hádzanársky klub; odkaz vedie na Facebook viacšportového klubu.",
       "url": "https://www.facebook.com/ecpinheiros/",
       "order": 3,
-      "desc_en": "São Paulo — record Liga Nacional winners and Brazil's most storied handball club; the link goes to the multi-sport club's Facebook page."
+      "desc_en": "São Paulo — record Liga Nacional winners and Brazil's most storied handball club; the link goes to the multi-sport club's Facebook page.",
+      "ig": "https://www.instagram.com/ecpinheiros_handebol/"
     },
     {
       "id": "f_had_bra_l1_k5",
@@ -137300,7 +137368,8 @@
       "desc": "Cascavel v Paraná — Associação Cascavelense de Handebol, trojnásobný majster brazílskeho klubového šampionátu (2023–2025).",
       "url": "https://www.facebook.com/handcascavel/",
       "order": 5,
-      "desc_en": "Cascavel in Paraná — Associação Cascavelense de Handebol, three-time Brazilian club champions (2023–2025)."
+      "desc_en": "Cascavel in Paraná — Associação Cascavelense de Handebol, three-time Brazilian club champions (2023–2025).",
+      "ig": "https://www.instagram.com/cascavelhandebol/"
     },
     {
       "id": "f_had_bra_l1_k6",
@@ -137308,10 +137377,10 @@
       "type": "link",
       "icon": "",
       "name": "Handebol Itajaí",
-      "desc": "Itajaí v Santa Catarine — finalista Ligy Nacional 2022; klub nemá aktuálny vlastný web, profil vedie federácia CBHb.",
-      "url": "https://cbhb.org.br/clube/193/associacao-amigos-do-handebol-de-itajai",
+      "desc": "Itajaí v Santa Catarine — finalista Ligy Nacional 2022; odkaz vedie na instagram klubu.",
+      "url": "https://www.instagram.com/handebolitajai/",
       "order": 6,
-      "desc_en": "Itajaí in Santa Catarina — 2022 Liga Nacional finalists; the club has no current site of its own, so this is its CBHb federation profile."
+      "desc_en": "Itajaí in Santa Catarina — 2022 Liga Nacional finalists; the link goes to the club's Instagram."
     },
     {
       "id": "f_had_bra_l1_k7",
@@ -137322,7 +137391,8 @@
       "desc": "Osasco pri São Paule — tím FAE/Osasco hrá popri Lige Nacional aj štátny Super Paulistão.",
       "url": "https://www.facebook.com/osascohandebol/",
       "order": 7,
-      "desc_en": "Osasco near São Paulo — the FAE/Osasco side plays the state Super Paulistão alongside the Liga Nacional."
+      "desc_en": "Osasco near São Paulo — the FAE/Osasco side plays the state Super Paulistão alongside the Liga Nacional.",
+      "ig": "https://www.instagram.com/handebolosasco/"
     },
     {
       "id": "f_had_bra_l1_k8",
@@ -137331,9 +137401,10 @@
       "icon": "",
       "name": "Handebol Taubaté",
       "desc": "Taubaté v štáte São Paulo — majster Ligy Nacional 2025 a spolu s Pinheiros dlhodobo najúspešnejší klub súťaže.",
-      "url": "https://www.facebook.com/handeboltaubateoficial/",
+      "url": "https://www.instagram.com/handeboltaubate/",
       "order": 8,
-      "desc_en": "Taubaté in São Paulo state — 2025 Liga Nacional champions and, alongside Pinheiros, the competition's dominant club."
+      "desc_en": "Taubaté in São Paulo state — 2025 Liga Nacional champions and, alongside Pinheiros, the competition's dominant club.",
+      "fb": "https://www.facebook.com/handeboltaubateoficial/"
     },
     {
       "id": "f_had_bra_l1_k9",
@@ -137341,10 +137412,10 @@
       "type": "link",
       "icon": "",
       "name": "Nacional Handebol",
-      "desc": "São José v Santa Catarine — finalista Ligy Nacional 2023; profil na webe federácie CBHb, klub vlastný web nemá.",
-      "url": "https://cbhb.org.br/clube/713/sociedade-esportiva-cultural-e-social-nacional",
+      "desc": "São José v Santa Catarine — finalista Ligy Nacional 2023; odkaz vedie na instagram klubu.",
+      "url": "https://www.instagram.com/nacionalhandebol/",
       "order": 9,
-      "desc_en": "São José in Santa Catarina — 2023 Liga Nacional finalists; profile on the CBHb federation site, as the club has no site of its own."
+      "desc_en": "São José in Santa Catarina — 2023 Liga Nacional finalists; the link goes to the club's Instagram."
     },
     {
       "id": "f_had_bra_l1_k10",
@@ -137355,7 +137426,9 @@
       "desc": "Teresina v Piauí — Giuliano Handebol Clube, majster brazílskeho klubového šampionátu 2026 a postupujúci z konferencie Nordeste Ligy Nacional.",
       "url": "https://ghchandebol.com.br/",
       "order": 4,
-      "desc_en": "Teresina in Piauí — Giuliano Handebol Clube, 2026 Brazilian club champions and a Liga Nacional Nordeste Conference qualifier."
+      "desc_en": "Teresina in Piauí — Giuliano Handebol Clube, 2026 Brazilian club champions and a Liga Nacional Nordeste Conference qualifier.",
+      "fb": "https://www.facebook.com/ghchandebol/",
+      "ig": "https://www.instagram.com/ghchandebol/"
     },
     {
       "id": "f_had_bra_l2_liga",
@@ -137363,10 +137436,10 @@
       "type": "link",
       "icon": "",
       "name": "Liga Nacional (ženy)",
-      "desc": "Kalendár a výsledky ženskej Ligy Nacional na webe federácie CBHb — konferencie Sul-Sudeste, Nordeste, Centro-Oeste a Norte.",
-      "url": "https://cbhb.org.br/eventos",
+      "desc": "Tabuľka a výsledky národnej fázy ženskej Ligy Nacional 2026 na webe federácie CBHb — dve skupiny po štyri tímy, najlepšie dva z každej postupujú do Final Four.",
+      "url": "https://cbhb.org.br/evento/3465/liga-nacional-feminino-2026-fase-de-grupos",
       "order": -1,
-      "desc_en": "Calendar and results of the women's Liga Nacional on the CBHb federation site — the Sul-Sudeste, Nordeste, Centro-Oeste and Norte conferences."
+      "desc_en": "Standings and results of the 2026 women's Liga Nacional national phase on the CBHb federation site — two groups of four, with the top two of each advancing to the Final Four."
     },
     {
       "id": "f_had_bra_l2_k1",
@@ -137377,18 +137450,8 @@
       "desc": "Blumenau v Santa Catarine — ženský klub spolupracujúci s univerzitou FURB a mestom, stály účastník Ligy Nacional.",
       "url": "https://www.facebook.com/abluhand/",
       "order": 0,
-      "desc_en": "Blumenau in Santa Catarina — a women's club working with FURB university and the city, a regular in the Liga Nacional."
-    },
-    {
-      "id": "f_had_bra_l2_k2",
-      "parentId": "f_had_bra_l2",
-      "type": "link",
-      "icon": "",
-      "name": "Atlética Nilton Lins",
-      "desc": "Manaus — ženský tím športovej asociácie univerzity Nilton Lins hrá severnú konferenciu Taça Amazônica; profil na webe CBHb.",
-      "url": "https://cbhb.org.br/clube/714/associacao-atletica-nilton-lins",
-      "order": 1,
-      "desc_en": "Manaus — the women's team of Nilton Lins University's sports association plays the Taça Amazônica northern conference; profile on the CBHb site."
+      "desc_en": "Blumenau in Santa Catarina — a women's club working with FURB university and the city, a regular in the Liga Nacional.",
+      "ig": "https://www.instagram.com/abluhand/"
     },
     {
       "id": "f_had_bra_l2_k3",
@@ -137397,8 +137460,8 @@
       "icon": "",
       "name": "Clube Português do Recife",
       "desc": "Recife — majsterky Brazílie 2026 bez jedinej prehry a víťazky konferencie Nordeste Ligy Nacional.",
-      "url": "https://www.clubeportuguesdorecife.com.br/",
-      "order": 2,
+      "url": "https://www.instagram.com/handebolclubeportuguesfmo/",
+      "order": 1,
       "desc_en": "Recife — 2026 Brazilian champions with a perfect record and winners of the Liga Nacional's Nordeste Conference."
     },
     {
@@ -137409,8 +137472,9 @@
       "name": "EC Pinheiros",
       "desc": "São Paulo — najúspešnejší brazílsky hádzanársky klub, ktorý vyhral Ligu Nacional v mužskej aj ženskej kategórii; odkaz na Facebook klubu.",
       "url": "https://www.facebook.com/ecpinheiros/",
-      "order": 3,
-      "desc_en": "São Paulo — Brazil's most successful handball club, a Liga Nacional winner in both the men's and women's categories; link to the club's Facebook page."
+      "order": 2,
+      "desc_en": "São Paulo — Brazil's most successful handball club, a Liga Nacional winner in both the men's and women's categories; link to the club's Facebook page.",
+      "ig": "https://www.instagram.com/ecpinheiros_handebol/"
     },
     {
       "id": "f_had_bra_l2_k5",
@@ -137418,10 +137482,10 @@
       "type": "link",
       "icon": "",
       "name": "H7 Esportes São Carlos",
-      "desc": "São Carlos v štáte São Paulo — tím H7 Esportes/La Salle, štvrtý na Campeonato Paulista 2025; profil na webe federácie CBHb.",
-      "url": "https://cbhb.org.br/clube/2623/h7-esportes-la-salle-sao-carlos",
-      "order": 4,
-      "desc_en": "São Carlos in São Paulo state — the H7 Esportes/La Salle side, fourth at the 2025 Campeonato Paulista; profile on the CBHb federation site."
+      "desc": "São Carlos v štáte São Paulo — tím H7 Esportes/La Salle, štvrtý na Campeonato Paulista 2025; odkaz vedie na instagram ženského tímu.",
+      "url": "https://www.instagram.com/handsaocarlos/",
+      "order": 3,
+      "desc_en": "São Carlos in São Paulo state — the H7 Esportes/La Salle side, fourth at the 2025 Campeonato Paulista; the link goes to the women's team's Instagram."
     },
     {
       "id": "f_had_bra_l2_k6",
@@ -137430,9 +137494,10 @@
       "icon": "",
       "name": "Handebol Cascavel",
       "desc": "Cascavel v Paraná — ženský tím Associação Cascavelense de Handebol hrá konferenciu Sul-Sudeste.",
-      "url": "https://www.facebook.com/handcascavel/",
-      "order": 5,
-      "desc_en": "Cascavel in Paraná — the women's team of Associação Cascavelense de Handebol competes in the Sul-Sudeste Conference."
+      "url": "https://www.facebook.com/handebolfag/",
+      "order": 4,
+      "desc_en": "Cascavel in Paraná — the women's team of Associação Cascavelense de Handebol competes in the Sul-Sudeste Conference.",
+      "ig": "https://www.instagram.com/handebolfag/"
     },
     {
       "id": "f_had_bra_l2_k7",
@@ -137440,10 +137505,11 @@
       "type": "link",
       "icon": "",
       "name": "Handebol Criciúma",
-      "desc": "Criciúma v Santa Catarine — ACRIHF spolupracuje s mestom a univerzitou Unesc; profil na webe federácie CBHb.",
-      "url": "https://cbhb.org.br/clube/127/associacao-criciumense-de-handebol-feminino",
-      "order": 6,
-      "desc_en": "Criciúma in Santa Catarina — ACRIHF partners with the city and Unesc university; profile on the CBHb federation site."
+      "desc": "Criciúma v Santa Catarine — ACRIHF spolupracuje s mestom a univerzitou Unesc; odkaz vedie na instagram klubu.",
+      "url": "https://www.instagram.com/acrihf.criciuma/",
+      "order": 5,
+      "desc_en": "Criciúma in Santa Catarina — ACRIHF partners with the city and Unesc university; the link goes to the club's Instagram.",
+      "fb": "https://www.facebook.com/acrihf/"
     },
     {
       "id": "f_had_bra_l2_k8",
@@ -137453,8 +137519,10 @@
       "name": "Handebol Maringá",
       "desc": "Maringá v Paraná — Associação Maringaense de Handebol, jeden z najúspešnejších klubov štátu Paraná.",
       "url": "https://www.handebolmaringa.com.br/",
-      "order": 7,
-      "desc_en": "Maringá in Paraná — Associação Maringaense de Handebol, one of the most successful clubs in Paraná state."
+      "order": 6,
+      "desc_en": "Maringá in Paraná — Associação Maringaense de Handebol, one of the most successful clubs in Paraná state.",
+      "fb": "https://www.facebook.com/handebolfemmga/",
+      "ig": "https://www.instagram.com/handebol.fem.mga/"
     },
     {
       "id": "f_had_bra_l2_k9",
@@ -137463,9 +137531,10 @@
       "icon": "",
       "name": "Handebol Torres",
       "desc": "Torres v Rio Grande do Sul — ATHB, majsterky Brazílie klubov v kategórii juvenil (do 18 rokov) 2025.",
-      "url": "https://www.facebook.com/HandTorres/",
-      "order": 8,
-      "desc_en": "Torres in Rio Grande do Sul — ATHB, 2025 Brazilian under-18 (juvenil) club champions."
+      "url": "https://www.instagram.com/athbhand/",
+      "order": 7,
+      "desc_en": "Torres in Rio Grande do Sul — ATHB, 2025 Brazilian under-18 (juvenil) club champions.",
+      "fb": "https://www.facebook.com/HandTorres/"
     },
     {
       "id": "f_had_arg_l1_liga",
@@ -137474,7 +137543,7 @@
       "icon": "",
       "name": "Liga de Honor Oro",
       "desc": "Turnajový prehľad Fe.Me.Bal. — program, tabuľky a strelci najvyššej argentínskej mužskej súťaže.",
-      "url": "https://www.femebal.com/tournament-tracker/",
+      "url": "https://www.femebal.com/tournament-tracker/RUdVX3RkflE=",
       "order": -1,
       "desc_en": "Fe.Me.Bal. tournament tracker — fixtures, standings and scorers of Argentina's top men's competition."
     },
@@ -137484,10 +137553,10 @@
       "type": "link",
       "icon": "",
       "name": "Alemán de Quilmes",
-      "desc": "Quilmes — nemecký klub A.A.C.F. založený v roku 1923; nemá funkčnú vlastnú prezentáciu, preto profil tímu.",
-      "url": "https://www.sofascore.com/handball/team/aacf-quilmes/1232472",
+      "desc": "Quilmes — nemecký klub A.A.C.F. založený v roku 1923; aktuality hádzanárskeho oddielu zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/alemanquilmeshandball/",
       "order": 0,
-      "desc_en": "Quilmes — the German club A.A.C.F., founded in 1923; it has no working site of its own, hence the team profile."
+      "desc_en": "Quilmes — the German club A.A.C.F., founded in 1923; its handball section posts news on Instagram."
     },
     {
       "id": "f_had_arg_l1_k2",
@@ -137498,7 +137567,8 @@
       "desc": "La Paternal, Buenos Aires — hádzanárska sekcia viacšportového klubu prezývaného „El Bicho“.",
       "url": "https://argentinosjuniors.com.ar/deportes/handball/",
       "order": 1,
-      "desc_en": "La Paternal, Buenos Aires — the handball section of the multi-sport club nicknamed \"El Bicho\"."
+      "desc_en": "La Paternal, Buenos Aires — the handball section of the multi-sport club nicknamed \"El Bicho\".",
+      "ig": "https://www.instagram.com/handballaaaj/"
     },
     {
       "id": "f_had_arg_l1_k3",
@@ -137509,7 +137579,8 @@
       "desc": "Ramos Mejía — tím školy Colegio Ward, ktorá vychováva hráčov od detských kategórií až po Ligu de Honor.",
       "url": "https://www.facebook.com/HandballWard/",
       "order": 2,
-      "desc_en": "Ramos Mejía — the team of Colegio Ward, a school that develops players from junior levels up to the Liga de Honor."
+      "desc_en": "Ramos Mejía — the team of Colegio Ward, a school that develops players from junior levels up to the Liga de Honor.",
+      "ig": "https://www.instagram.com/handballward/"
     },
     {
       "id": "f_had_arg_l1_k4",
@@ -137518,9 +137589,10 @@
       "icon": "",
       "name": "Dorrego",
       "desc": "Morón — hádzanárska škola založená v roku 1982, do federácie Fe.Me.Bal. vstúpila v roku 1985.",
-      "url": "https://www.facebook.com/dorregohandball/",
+      "url": "https://www.instagram.com/dorregohandballoficial/",
       "order": 3,
-      "desc_en": "Morón — a handball school founded in 1982 that joined the Fe.Me.Bal. federation in 1985."
+      "desc_en": "Morón — a handball school founded in 1982 that joined the Fe.Me.Bal. federation in 1985.",
+      "fb": "https://www.facebook.com/dorregohandball/"
     },
     {
       "id": "f_had_arg_l1_k5",
@@ -137531,7 +137603,8 @@
       "desc": "La Plata — hádzaná je v klube inštitucionálnou disciplínou od augusta 1969.",
       "url": "https://estudiantesdelaplata.com/deportes/handball/",
       "order": 4,
-      "desc_en": "La Plata — handball has been an institutional discipline at the club since August 1969."
+      "desc_en": "La Plata — handball has been an institutional discipline at the club since August 1969.",
+      "ig": "https://www.instagram.com/edelphandball/"
     },
     {
       "id": "f_had_arg_l1_k6",
@@ -137540,9 +137613,10 @@
       "icon": "",
       "name": "Ferro Carril Oeste",
       "desc": "Caballito, Buenos Aires — hádzanársky oddiel tradičného viacšportového klubu, líder Apertury 2026.",
-      "url": "https://www.facebook.com/FerroOficial/",
+      "url": "https://www.ferrocarriloeste.org.ar/categoria/handball/",
       "order": 5,
-      "desc_en": "Caballito, Buenos Aires — the handball section of a traditional multi-sport club, leaders of the 2026 Apertura."
+      "desc_en": "Caballito, Buenos Aires — the handball section of a traditional multi-sport club, leaders of the 2026 Apertura.",
+      "ig": "https://www.instagram.com/fcohandball/"
     },
     {
       "id": "f_had_arg_l1_k7",
@@ -137553,7 +137627,8 @@
       "desc": "Miguelete, General San Martín — železničiarsky klub založený v roku 1924.",
       "url": "https://www.facebook.com/handballmitre/",
       "order": 6,
-      "desc_en": "Miguelete, General San Martín — a railway workers' club founded in 1924."
+      "desc_en": "Miguelete, General San Martín — a railway workers' club founded in 1924.",
+      "ig": "https://www.instagram.com/mitrehandballok/"
     },
     {
       "id": "f_had_arg_l1_k8",
@@ -137564,7 +137639,8 @@
       "desc": "Villa Maipú, General San Martín — klub vyrástol zo školského strediska a hádzaná je jeho hlavným športom.",
       "url": "https://www.facebook.com/NSLHandball/",
       "order": 7,
-      "desc_en": "Villa Maipú, General San Martín — the club grew out of a school sports centre and handball is its main sport."
+      "desc_en": "Villa Maipú, General San Martín — the club grew out of a school sports centre and handball is its main sport.",
+      "ig": "https://www.instagram.com/lujanhandballoficial/"
     },
     {
       "id": "f_had_arg_l1_k9",
@@ -137575,7 +137651,8 @@
       "desc": "Núñez, Buenos Aires — hádzanársky oddiel jedného z najväčších argentínskych klubov.",
       "url": "https://www.riverplate.com/deportes/handball",
       "order": 8,
-      "desc_en": "Núñez, Buenos Aires — the handball section of one of Argentina's biggest clubs."
+      "desc_en": "Núñez, Buenos Aires — the handball section of one of Argentina's biggest clubs.",
+      "ig": "https://www.instagram.com/riverplate.handball/"
     },
     {
       "id": "f_had_arg_l1_k10",
@@ -137584,7 +137661,7 @@
       "icon": "",
       "name": "SAG Lomas de Zamora",
       "desc": "Burzaco — Nemecká gymnastická spoločnosť založená v roku 1944 bývalými žiakmi nemeckej školy v Temperley.",
-      "url": "https://sagab.com.ar/",
+      "url": "https://www.instagram.com/handballsagab/",
       "order": 9,
       "desc_en": "Burzaco — a German gymnastics society founded in 1944 by former pupils of the German school in Temperley."
     },
@@ -137594,10 +137671,10 @@
       "type": "link",
       "icon": "",
       "name": "SAG Polvorines",
-      "desc": "Los Polvorines — „Club Alemán“ z roku 1911; vlastný web nefunguje a facebooková stránka je neaktuálna.",
-      "url": "https://www.sofascore.com/handball/team/sag-polvorines/1232466",
+      "desc": "Los Polvorines — „Club Alemán“ z roku 1911; hádzanársky oddiel informuje na Instagrame.",
+      "url": "https://www.instagram.com/handballpolvorines/",
       "order": 10,
-      "desc_en": "Los Polvorines — the \"Club Alemán\" dating from 1911; its own site is down and its Facebook page is out of date."
+      "desc_en": "Los Polvorines — the \"Club Alemán\" dating from 1911; its handball section posts updates on Instagram."
     },
     {
       "id": "f_had_arg_l1_k12",
@@ -137608,7 +137685,8 @@
       "desc": "Villa Ballester, General San Martín — nemecký klub z roku 1924 a jeden z najúspešnejších v argentínskej hádzanej.",
       "url": "https://www.facebook.com/sagvbhandball/",
       "order": 11,
-      "desc_en": "Villa Ballester, General San Martín — a German club from 1924 and one of the most successful in Argentine handball."
+      "desc_en": "Villa Ballester, General San Martín — a German club from 1924 and one of the most successful in Argentine handball.",
+      "ig": "https://www.instagram.com/sagvbhandball/"
     },
     {
       "id": "f_had_arg_l1_k13",
@@ -137616,10 +137694,10 @@
       "type": "link",
       "icon": "",
       "name": "San Fernando Handball",
-      "desc": "San Fernando — juhoamerický klubový šampión 2023, keď vo finále v São Paule zdolal Taubaté; klub nemá vlastný web ani facebook.",
-      "url": "https://www.sofascore.com/handball/team/san-fernando-handball/343388",
+      "desc": "San Fernando — juhoamerický klubový šampión 2023, keď vo finále v São Paule zdolal Taubaté; klub nemá vlastný web, aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/sanfernandohb/",
       "order": 12,
-      "desc_en": "San Fernando — 2023 South and Central American club champions after beating Taubaté in the São Paulo final; the club has no website or Facebook page."
+      "desc_en": "San Fernando — 2023 South and Central American club champions after beating Taubaté in the São Paulo final; the club has no website and posts news on Instagram."
     },
     {
       "id": "f_had_arg_l1_k14",
@@ -137641,7 +137719,8 @@
       "desc": "Liniers, Buenos Aires — hádzanárska sekcia veľkého viacšportového klubu; oficiálny web hádzanú neuvádza.",
       "url": "https://www.facebook.com/VelezHandball",
       "order": 14,
-      "desc_en": "Liniers, Buenos Aires — the handball section of a large multi-sport club; the official website does not cover handball."
+      "desc_en": "Liniers, Buenos Aires — the handball section of a large multi-sport club; the official website does not cover handball.",
+      "ig": "https://www.instagram.com/velez_handball/"
     },
     {
       "id": "f_had_arg_l1_k16",
@@ -137650,9 +137729,10 @@
       "icon": "",
       "name": "Vicente López",
       "desc": "Vicente López — klub známy ako VILO, hádzaná patrí k jeho hlavným športom.",
-      "url": "https://www.facebook.com/handballvilo/",
+      "url": "https://www.instagram.com/vilohandball/",
       "order": 15,
-      "desc_en": "Vicente López — the club known as VILO, where handball is one of the main sports."
+      "desc_en": "Vicente López — the club known as VILO, where handball is one of the main sports.",
+      "fb": "https://www.facebook.com/handballvilo/"
     },
     {
       "id": "f_had_arg_l2_liga",
@@ -137661,7 +137741,7 @@
       "icon": "",
       "name": "Liga de Honor Oro (ženy)",
       "desc": "Turnajový prehľad Fe.Me.Bal. — program, tabuľky a strelkyne najvyššej argentínskej ženskej súťaže.",
-      "url": "https://www.femebal.com/tournament-tracker/",
+      "url": "https://www.femebal.com/tournament-tracker/RUdVX3RkeFA=",
       "order": -1,
       "desc_en": "Fe.Me.Bal. tournament tracker — fixtures, standings and scorers of Argentina's top women's competition."
     },
@@ -137674,7 +137754,8 @@
       "desc": "La Paternal, Buenos Aires — hádzanárska sekcia viacšportového klubu prezývaného „El Bicho“.",
       "url": "https://argentinosjuniors.com.ar/deportes/handball/",
       "order": 0,
-      "desc_en": "La Paternal, Buenos Aires — the handball section of the multi-sport club nicknamed \"El Bicho\"."
+      "desc_en": "La Paternal, Buenos Aires — the handball section of the multi-sport club nicknamed \"El Bicho\".",
+      "ig": "https://www.instagram.com/handballaaaj/"
     },
     {
       "id": "f_had_arg_l2_k2",
@@ -137682,10 +137763,10 @@
       "type": "link",
       "icon": "",
       "name": "CID Mariano Moreno",
-      "desc": "Moreno — hádzaná sa tu hrá od roku 2000 v telocvični školy Mariano Moreno; klub nemá aktuálnu vlastnú prezentáciu.",
-      "url": "https://www.sofascore.com/handball/team/cid-mariano-moreno/316801",
+      "desc": "Moreno — hádzaná sa tu hrá od roku 2000 v telocvični školy Mariano Moreno; odkaz vedie na instagram klubu.",
+      "url": "https://www.instagram.com/cidhandball/",
       "order": 1,
-      "desc_en": "Moreno — handball has been played here since 2000 in the gym of the Mariano Moreno school; the club has no up-to-date site of its own."
+      "desc_en": "Moreno — handball has been played here since 2000 in the gym of the Mariano Moreno school; the link goes to the club's Instagram."
     },
     {
       "id": "f_had_arg_l2_k3",
@@ -137696,7 +137777,8 @@
       "desc": "Lanús — klub zameraný na ženskú hádzanú, stály účastník Ligy de Honor.",
       "url": "https://www.facebook.com/p/Cideco-Handball-Argentina-100057400271950/",
       "order": 2,
-      "desc_en": "Lanús — a club focused on women's handball and a regular in the Liga de Honor."
+      "desc_en": "Lanús — a club focused on women's handball and a regular in the Liga de Honor.",
+      "ig": "https://www.instagram.com/cidecohandball/"
     },
     {
       "id": "f_had_arg_l2_k4",
@@ -137705,9 +137787,10 @@
       "icon": "",
       "name": "Dorrego",
       "desc": "Morón — hádzanárska škola založená v roku 1982, do federácie Fe.Me.Bal. vstúpila v roku 1985.",
-      "url": "https://www.facebook.com/dorregohandball/",
+      "url": "https://www.instagram.com/dorregohandballoficial/",
       "order": 3,
-      "desc_en": "Morón — a handball school founded in 1982 that joined the Fe.Me.Bal. federation in 1985."
+      "desc_en": "Morón — a handball school founded in 1982 that joined the Fe.Me.Bal. federation in 1985.",
+      "fb": "https://www.facebook.com/dorregohandball/"
     },
     {
       "id": "f_had_arg_l2_k5",
@@ -137716,9 +137799,10 @@
       "icon": "",
       "name": "Ferro Carril Oeste",
       "desc": "Caballito, Buenos Aires — hádzanársky oddiel tradičného viacšportového klubu, víťaz Apertury 2026.",
-      "url": "https://www.facebook.com/FerroOficial/",
+      "url": "https://www.ferrocarriloeste.org.ar/categoria/handball/",
       "order": 4,
-      "desc_en": "Caballito, Buenos Aires — the handball section of a traditional multi-sport club, winners of the 2026 Apertura."
+      "desc_en": "Caballito, Buenos Aires — the handball section of a traditional multi-sport club, winners of the 2026 Apertura.",
+      "ig": "https://www.instagram.com/fcohandball/"
     },
     {
       "id": "f_had_arg_l2_k6",
@@ -137729,7 +137813,8 @@
       "desc": "Miguelete, General San Martín — železničiarsky klub založený v roku 1924.",
       "url": "https://www.facebook.com/handballmitre/",
       "order": 5,
-      "desc_en": "Miguelete, General San Martín — a railway workers' club founded in 1924."
+      "desc_en": "Miguelete, General San Martín — a railway workers' club founded in 1924.",
+      "ig": "https://www.instagram.com/mitrehandballok/"
     },
     {
       "id": "f_had_arg_l2_k7",
@@ -137740,7 +137825,8 @@
       "desc": "San Miguel — hádzanárska sekcia klubu Club Deportivo y Social Juventud Unida.",
       "url": "https://www.facebook.com/JuvUnidaHB/",
       "order": 6,
-      "desc_en": "San Miguel — the handball section of Club Deportivo y Social Juventud Unida."
+      "desc_en": "San Miguel — the handball section of Club Deportivo y Social Juventud Unida.",
+      "ig": "https://www.instagram.com/juvunidahb/"
     },
     {
       "id": "f_had_arg_l2_k8",
@@ -137751,7 +137837,8 @@
       "desc": "Lanús — hádzanárska sekcia klubu Club Atlético Lanús, ktorý hrá vo svojom mestskom polideportive.",
       "url": "https://clublanus.com/handball/",
       "order": 7,
-      "desc_en": "Lanús — the handball section of Club Atlético Lanús, playing at the town's own sports complex."
+      "desc_en": "Lanús — the handball section of Club Atlético Lanús, playing at the town's own sports complex.",
+      "ig": "https://www.instagram.com/lanushandballoficial/"
     },
     {
       "id": "f_had_arg_l2_k9",
@@ -137762,7 +137849,8 @@
       "desc": "Don Bosco, Quilmes — v Lige de Honor Oro hrá od roku 2011 a v roku 2026 získal národný klubový titul kategórie Adulto A.",
       "url": "https://www.marianoacostahandball.com.ar/",
       "order": 8,
-      "desc_en": "Don Bosco, Quilmes — in the Liga de Honor Oro since 2011, national Adulto A club champions in 2026."
+      "desc_en": "Don Bosco, Quilmes — in the Liga de Honor Oro since 2011, national Adulto A club champions in 2026.",
+      "ig": "https://www.instagram.com/marianoacostahandball_/"
     },
     {
       "id": "f_had_arg_l2_k10",
@@ -137773,7 +137861,8 @@
       "desc": "Núñez, Buenos Aires — hádzanársky oddiel jedného z najväčších argentínskych klubov.",
       "url": "https://www.riverplate.com/deportes/handball",
       "order": 9,
-      "desc_en": "Núñez, Buenos Aires — the handball section of one of Argentina's biggest clubs."
+      "desc_en": "Núñez, Buenos Aires — the handball section of one of Argentina's biggest clubs.",
+      "ig": "https://www.instagram.com/riverplate.handball/"
     },
     {
       "id": "f_had_arg_l2_k11",
@@ -137782,7 +137871,7 @@
       "icon": "",
       "name": "SAG Lomas de Zamora",
       "desc": "Burzaco — Nemecká gymnastická spoločnosť založená v roku 1944 bývalými žiakmi nemeckej školy v Temperley.",
-      "url": "https://sagab.com.ar/",
+      "url": "https://www.instagram.com/handballsagab/",
       "order": 10,
       "desc_en": "Burzaco — a German gymnastics society founded in 1944 by former pupils of the German school in Temperley."
     },
@@ -137795,7 +137884,8 @@
       "desc": "Villa Ballester, General San Martín — nemecký klub z roku 1924 a jeden z najúspešnejších v argentínskej hádzanej.",
       "url": "https://www.facebook.com/sagvbhandball/",
       "order": 11,
-      "desc_en": "Villa Ballester, General San Martín — a German club from 1924 and one of the most successful in Argentine handball."
+      "desc_en": "Villa Ballester, General San Martín — a German club from 1924 and one of the most successful in Argentine handball.",
+      "ig": "https://www.instagram.com/sagvbhandball/"
     },
     {
       "id": "f_had_arg_l2_k13",
@@ -137804,7 +137894,7 @@
       "icon": "",
       "name": "SEDALO",
       "desc": "Lanús Oeste — nemecký školský a športový spolok, jeden z priekopníkov hádzanej v Argentíne.",
-      "url": "https://sedalo.edu.ar/handball-femenino/",
+      "url": "https://www.instagram.com/lhd_sedalo/",
       "order": 12,
       "desc_en": "Lanús Oeste — a German school and sports association, one of the pioneers of handball in Argentina."
     },
@@ -137814,10 +137904,10 @@
       "type": "link",
       "icon": "",
       "name": "UBA",
-      "desc": "Buenos Aires — federovaná hádzaná Univerzity v Buenos Aires; klub nemá aktuálny vlastný web ani facebook.",
-      "url": "https://www.sofascore.com/handball/team/uba/1232459",
+      "desc": "Buenos Aires — federovaná hádzaná Univerzity v Buenos Aires; odkaz vedie na oficiálny instagram hádzanárskeho programu UBA.",
+      "url": "https://www.instagram.com/handball.uba/",
       "order": 13,
-      "desc_en": "Buenos Aires — the federated handball programme of the University of Buenos Aires; it has no current site or Facebook page."
+      "desc_en": "Buenos Aires — the federated handball programme of the University of Buenos Aires; the link goes to the programme's official Instagram."
     },
     {
       "id": "f_had_arg_l2_k15",
@@ -137826,9 +137916,10 @@
       "icon": "",
       "name": "Vicente López",
       "desc": "Vicente López — klub známy ako VILO, hádzaná patrí k jeho hlavným športom.",
-      "url": "https://www.facebook.com/handballvilo/",
+      "url": "https://www.instagram.com/vilohandball/",
       "order": 14,
-      "desc_en": "Vicente López — the club known as VILO, where handball is one of the main sports."
+      "desc_en": "Vicente López — the club known as VILO, where handball is one of the main sports.",
+      "fb": "https://www.facebook.com/handballvilo/"
     },
     {
       "id": "f_had_arg_l2_k16",
@@ -137839,7 +137930,8 @@
       "desc": "Gerli, Avellaneda — hádzanárska sekcia klubu Villa Modelo.",
       "url": "https://www.facebook.com/villamodelohbl/",
       "order": 15,
-      "desc_en": "Gerli, Avellaneda — the handball section of Club Villa Modelo."
+      "desc_en": "Gerli, Avellaneda — the handball section of Club Villa Modelo.",
+      "ig": "https://www.instagram.com/vmodelohandball/"
     },
     {
       "id": "f_had_usa_l1_liga",
@@ -138229,7 +138321,9 @@
       "desc": "Káhira — hádzanárska sekcia najúspešnejšieho egyptského klubu a rekordný majster ligy.",
       "url": "https://www.alahlyegypt.com/ar/sports/kr-alyd",
       "order": 0,
-      "desc_en": "Cairo — handball section of Egypt's most successful club and the league's record champions."
+      "desc_en": "Cairo — handball section of Egypt's most successful club and the league's record champions.",
+      "fb": "https://www.facebook.com/alahly/",
+      "ig": "https://www.instagram.com/alahly/"
     },
     {
       "id": "f_had_egy_l1_k2",
@@ -138240,7 +138334,9 @@
       "desc": "Alexandria — klub založený v roku 1890, jeden z najstarších v Afrike a viacnásobný vicemajster ligy.",
       "url": "https://alexsportingclub.com/",
       "order": 1,
-      "desc_en": "Alexandria — founded in 1890, one of Africa's oldest clubs and a repeat league runner-up."
+      "desc_en": "Alexandria — founded in 1890, one of Africa's oldest clubs and a repeat league runner-up.",
+      "fb": "https://www.facebook.com/Sporting.Club.Alexandria/",
+      "ig": "https://www.instagram.com/sportingofficial/"
     },
     {
       "id": "f_had_egy_l1_k3",
@@ -138249,9 +138345,10 @@
       "icon": "",
       "name": "Arab Contractors",
       "desc": "Káhira — klub stavebnej spoločnosti Al-Mokawloon, ktorý sa pred sezónou 2026/27 prebojoval do profesionálnej ligy.",
-      "url": "https://www.facebook.com/arabcont.club",
+      "url": "https://www.facebook.com/arabcont.club/",
       "order": 2,
-      "desc_en": "Cairo — club of the Arab Contractors construction company, promoted to the professional league for 2026/27."
+      "desc_en": "Cairo — club of the Arab Contractors construction company, promoted to the professional league for 2026/27.",
+      "ig": "https://www.instagram.com/arabcontclub/"
     },
     {
       "id": "f_had_egy_l1_k4",
@@ -138262,7 +138359,8 @@
       "desc": "Káhira — klub leteckých spoločností, majster egyptskej ligy v sezóne 1967/68.",
       "url": "https://www.facebook.com/Aviation.Sports.Club.since.1955/",
       "order": 3,
-      "desc_en": "Cairo — the aviation industry club, Egyptian league champions in 1967/68."
+      "desc_en": "Cairo — the aviation industry club, Egyptian league champions in 1967/68.",
+      "ig": "https://www.instagram.com/tayran_a.s.c/"
     },
     {
       "id": "f_had_egy_l1_k5",
@@ -138295,7 +138393,8 @@
       "desc": "Káhira — klub z Mesr El Gedida založený v roku 1963, hádzaná má na webe vlastnú sekciu.",
       "url": "https://www.alshams.club/category/handball/",
       "order": 6,
-      "desc_en": "Cairo — club from Mesr El Gedida founded in 1963, with its own handball section on the website."
+      "desc_en": "Cairo — club from Mesr El Gedida founded in 1963, with its own handball section on the website.",
+      "fb": "https://www.facebook.com/AlshamsSC/"
     },
     {
       "id": "f_had_egy_l1_k8",
@@ -138306,7 +138405,8 @@
       "desc": "Káhira — klub z Nasr City, ktorý hádzanú radí medzi svoje hlavné športy.",
       "url": "https://www.facebook.com/ZohourSC/",
       "order": 7,
-      "desc_en": "Cairo — Nasr City club that counts handball among its flagship sports."
+      "desc_en": "Cairo — Nasr City club that counts handball among its flagship sports.",
+      "ig": "https://www.instagram.com/zohour_sc/"
     },
     {
       "id": "f_had_egy_l1_k9",
@@ -138328,7 +138428,8 @@
       "desc": "Káhira — klub z Mesr El Gedida založený v roku 1910, jeden z najstarších v hlavnom meste.",
       "url": "https://www.facebook.com/HeliopolisSC/",
       "order": 9,
-      "desc_en": "Cairo — Mesr El Gedida club founded in 1910, one of the capital's oldest."
+      "desc_en": "Cairo — Mesr El Gedida club founded in 1910, one of the capital's oldest.",
+      "ig": "https://www.instagram.com/heliopolissc/"
     },
     {
       "id": "f_had_egy_l1_k11",
@@ -138337,9 +138438,10 @@
       "icon": "",
       "name": "Horse Owners Club",
       "desc": "Alexandria — klub „Ashab El Geyad“ založený v roku 1934, hádzaná patrí k jeho vlajkovým športom.",
-      "url": "https://www.facebook.com/giadownershandball",
+      "url": "https://www.facebook.com/giadownershandball/",
       "order": 10,
-      "desc_en": "Alexandria — the \"Ashab El Geyad\" club founded in 1934, with handball among its flagship sports."
+      "desc_en": "Alexandria — the \"Ashab El Geyad\" club founded in 1934, with handball among its flagship sports.",
+      "ig": "https://www.instagram.com/horseownershandball/"
     },
     {
       "id": "f_had_egy_l1_k13",
@@ -138350,7 +138452,8 @@
       "desc": "Káhira — klub Maadi Sporting & Yacht z južnej časti mesta.",
       "url": "https://www.facebook.com/MSYC.OFFICIAL/",
       "order": 11,
-      "desc_en": "Cairo — the Maadi Sporting & Yacht Club from the south of the city."
+      "desc_en": "Cairo — the Maadi Sporting & Yacht Club from the south of the city.",
+      "ig": "https://www.instagram.com/msycegypt.official/"
     },
     {
       "id": "f_had_egy_l1_k14",
@@ -138359,9 +138462,10 @@
       "icon": "",
       "name": "National Bank of Egypt",
       "desc": "Káhira — klub Národnej banky Egypta, ktorý hádzanú vedie popri futbale ako jeden zo svojich hlavných tímov.",
-      "url": "https://nationalbankegyptclub.com/",
+      "url": "https://www.facebook.com/NationalBankOfEgyptClub/",
       "order": 12,
-      "desc_en": "Cairo — the National Bank of Egypt club, running handball alongside football as one of its main teams."
+      "desc_en": "Cairo — the National Bank of Egypt club, running handball alongside football as one of its main teams.",
+      "ig": "https://www.instagram.com/nationalbankegyptclub/"
     },
     {
       "id": "f_had_egy_l1_k15",
@@ -138381,9 +138485,10 @@
       "icon": "",
       "name": "Smouha SC",
       "desc": "Alexandria — trojnásobný majster zo sedemdesiatych rokov (1973, 1975, 1976).",
-      "url": "https://www.smouhaclub.com/ar/",
+      "url": "https://www.facebook.com/SmouhaOfficial/",
       "order": 14,
-      "desc_en": "Alexandria — three-time champions in the 1970s (1973, 1975, 1976)."
+      "desc_en": "Alexandria — three-time champions in the 1970s (1973, 1975, 1976).",
+      "ig": "https://www.instagram.com/smouhasc.official/"
     },
     {
       "id": "f_had_egy_l1_k17",
@@ -138392,7 +138497,7 @@
       "icon": "",
       "name": "Talaea El Gaish",
       "desc": "Káhira — armádny klub, majster egyptskej ligy v sezóne 2006/07.",
-      "url": "https://talaaelgaish.com/",
+      "url": "https://www.facebook.com/Talaea.Elgish.Club/",
       "order": 15,
       "desc_en": "Cairo — the army club, Egyptian league champions in 2006/07."
     },
@@ -138447,7 +138552,7 @@
       "icon": "",
       "name": "CHB Jemmal",
       "desc": "Jemmal — klub špecializovaný výhradne na hádzanú, hrá v Krytej hale v Jemmale.",
-      "url": "https://www.facebook.com/profile.php?id=100069612723210",
+      "url": "https://www.facebook.com/profile.php?id=61561156111362",
       "order": 2,
       "desc_en": "Jemmal — a club devoted solely to handball, playing at the Jemmal indoor hall."
     },
@@ -138460,7 +138565,8 @@
       "desc": "Tunis — hádzanársky oddiel klubu z Bab Jdid, dlhoročný súper Espérance o titul.",
       "url": "https://www.facebook.com/clubafricain.com.tn/",
       "order": 3,
-      "desc_en": "Tunis — handball section of the Bab Jdid club, Espérance's long-time rival for the title."
+      "desc_en": "Tunis — handball section of the Bab Jdid club, Espérance's long-time rival for the title.",
+      "ig": "https://www.instagram.com/clubafricain__officiel/"
     },
     {
       "id": "f_had_tun_l1_k5",
@@ -138471,7 +138577,8 @@
       "desc": "Sakiet Ezzit pri Sfaxe — klub, ktorý sa v posledných sezónach usadil v hornej polovici tabuľky.",
       "url": "https://www.facebook.com/CSSE.Officielle/",
       "order": 4,
-      "desc_en": "Sakiet Ezzit near Sfax — a club that has settled into the upper half of the table in recent seasons."
+      "desc_en": "Sakiet Ezzit near Sfax — a club that has settled into the upper half of the table in recent seasons.",
+      "ig": "https://www.instagram.com/csse_officiel/"
     },
     {
       "id": "f_had_tun_l1_k6",
@@ -138482,7 +138589,8 @@
       "desc": "Béni Khiar — klub z polostrova Cap Bon založený v roku 1960.",
       "url": "https://www.facebook.com/profile.php?id=100063672245762",
       "order": 5,
-      "desc_en": "Béni Khiar — Cap Bon peninsula club founded in 1960."
+      "desc_en": "Béni Khiar — Cap Bon peninsula club founded in 1960.",
+      "ig": "https://www.instagram.com/ebsbk/"
     },
     {
       "id": "f_had_tun_l1_k7",
@@ -138493,7 +138601,8 @@
       "desc": "Mahdia — hádzanárska sekcia z roku 1962, majster Tuniska 1994 a dvojnásobný víťaz Tuniského pohára, hrá v hale Rached Khouja.",
       "url": "https://www.facebook.com/MAKAREM.MAHDIA/",
       "order": 6,
-      "desc_en": "Mahdia — handball section founded in 1962, Tunisian champions in 1994 and twice Tunisian Cup winners, playing at the Rached Khouja hall."
+      "desc_en": "Mahdia — handball section founded in 1962, Tunisian champions in 1994 and twice Tunisian Cup winners, playing at the Rached Khouja hall.",
+      "ig": "https://www.instagram.com/elmakarem.de.mahdia/"
     },
     {
       "id": "f_had_tun_l1_k8",
@@ -138504,7 +138613,8 @@
       "desc": "Tunis — klub z mestskej časti El Menzah, ktorý sa v roku 2026 vrátil do elitnej súťaže po pätnástich rokoch.",
       "url": "https://www.facebook.com/ElMenzahSports/",
       "order": 7,
-      "desc_en": "Tunis — El Menzah district club that returned to the elite division in 2026 after fifteen years away."
+      "desc_en": "Tunis — El Menzah district club that returned to the elite division in 2026 after fifteen years away.",
+      "ig": "https://www.instagram.com/elmenzahsports/"
     },
     {
       "id": "f_had_tun_l1_k9",
@@ -138537,7 +138647,8 @@
       "desc": "Moknine — klub zo Sahelu, ktorého hádzanárska sekcia má vlastnú stránku „Jeunes Sporting Club Moknine Handball“.",
       "url": "https://www.facebook.com/profile.php?id=100063595117114",
       "order": 10,
-      "desc_en": "Moknine — Sahel club whose handball section runs its own \"Jeunes Sporting Club Moknine Handball\" page."
+      "desc_en": "Moknine — Sahel club whose handball section runs its own \"Jeunes Sporting Club Moknine Handball\" page.",
+      "ig": "https://www.instagram.com/sporting.moknine/"
     },
     {
       "id": "f_had_tun_l1_k12",
@@ -138546,7 +138657,7 @@
       "icon": "",
       "name": "US Témimienne",
       "desc": "Menzel Témime — klub, ktorý si postupom cez Jeunesse Sportive de Chihia vybojoval návrat do elitnej súťaže 2026/27.",
-      "url": "https://www.federationhandball.tn/team/union-sportive-temimienne/",
+      "url": "https://www.instagram.com/uste1969/",
       "order": 11,
       "desc_en": "Menzel Temime — club that beat Jeunesse Sportive de Chihia to earn promotion back to the 2026/27 elite division."
     },
@@ -138581,7 +138692,8 @@
       "desc": "Ras El Oued vo wilaji Bordj Bou Arréridj — účastník najvyššej alžírskej súťaže.",
       "url": "https://www.facebook.com/profile.php?id=275094026670388",
       "order": 1,
-      "desc_en": "Ras El Oued in Bordj Bou Arréridj Province — a side in Algeria's top flight."
+      "desc_en": "Ras El Oued in Bordj Bou Arréridj Province — a side in Algeria's top flight.",
+      "ig": "https://www.instagram.com/acraseloued/"
     },
     {
       "id": "f_had_alg_l1_k3",
@@ -138592,7 +138704,8 @@
       "desc": "Zighoud Youcef vo wilaji Constantine — klub z okolia Konštantíny v Division Excellence.",
       "url": "https://www.facebook.com/profile.php?id=61586339035743",
       "order": 2,
-      "desc_en": "Zighoud Youcef in Constantine Province — a club from the Constantine area in the Division Excellence."
+      "desc_en": "Zighoud Youcef in Constantine Province — a club from the Constantine area in the Division Excellence.",
+      "ig": "https://www.instagram.com/c_h_b_z_y/"
     },
     {
       "id": "f_had_alg_l1_k4",
@@ -138603,7 +138716,8 @@
       "desc": "Mila na východe krajiny — klub hrá v hale Salle Omnisports Tayeb Ben Abderrahmane.",
       "url": "https://www.facebook.com/jandball/",
       "order": 3,
-      "desc_en": "Mila in eastern Algeria — the club plays at the Salle Omnisports Tayeb Ben Abderrahmane."
+      "desc_en": "Mila in eastern Algeria — the club plays at the Salle Omnisports Tayeb Ben Abderrahmane.",
+      "ig": "https://www.instagram.com/crbmila43/"
     },
     {
       "id": "f_had_alg_l1_k5",
@@ -138625,7 +138739,8 @@
       "desc": "El Biar nad Alžírom — majster Alžírska 2026 (prvý titul v histórii) a víťaz pohára 2025 aj 2026; ženský tím klubu je dlhoročným dominátorom alžírskej hádzanej.",
       "url": "https://www.facebook.com/hbceb/",
       "order": 5,
-      "desc_en": "El Biar above Algiers — 2026 Algerian champions (a first ever title) and cup winners in both 2025 and 2026; the club's women's team has long dominated Algerian handball."
+      "desc_en": "El Biar above Algiers — 2026 Algerian champions (a first ever title) and cup winners in both 2025 and 2026; the club's women's team has long dominated Algerian handball.",
+      "ig": "https://www.instagram.com/hbc_el_biar/"
     },
     {
       "id": "f_had_alg_l1_k7",
@@ -138647,7 +138762,8 @@
       "desc": "Bordj Bou Arréridj — majster Alžírska 2024, prvý titul dva roky po postupe medzi elitu.",
       "url": "https://www.facebook.com/MBBA.HandballClub/",
       "order": 7,
-      "desc_en": "Bordj Bou Arréridj — 2024 Algerian champions, a first title just two years after reaching the top flight."
+      "desc_en": "Bordj Bou Arréridj — 2024 Algerian champions, a first title just two years after reaching the top flight.",
+      "ig": "https://www.instagram.com/moloudia_bordj_bouararij_34/"
     },
     {
       "id": "f_had_alg_l1_k9",
@@ -138669,7 +138785,8 @@
       "desc": "El Oued na okraji Sahary — majster Alžírska 2025, prvý titul v histórii klubu.",
       "url": "https://www.facebook.com/profile.php?id=100063268357817",
       "order": 9,
-      "desc_en": "El Oued on the edge of the Sahara — 2025 Algerian champions, the club's first ever title."
+      "desc_en": "El Oued on the edge of the Sahara — 2025 Algerian champions, the club's first ever title.",
+      "ig": "https://www.instagram.com/oeohandball/"
     },
     {
       "id": "f_had_alg_l1_k11",
@@ -138702,7 +138819,8 @@
       "desc": "Luanda — hádzanársky oddiel jedného z najväčších angolských viacšportových klubov, majster Angoly 2026.",
       "url": "https://www.facebook.com/clube1deagosto/",
       "order": 0,
-      "desc_en": "Luanda — the handball section of one of Angola's biggest multi-sport clubs, Angolan champions in 2026."
+      "desc_en": "Luanda — the handball section of one of Angola's biggest multi-sport clubs, Angolan champions in 2026.",
+      "ig": "https://www.instagram.com/clube1deagosto/"
     },
     {
       "id": "f_had_ago_l1_k2",
@@ -138733,9 +138851,10 @@
       "icon": "",
       "name": "Interclube",
       "desc": "Luanda — hádzanársky oddiel viacšportového Grupo Desportivo Interclube, trojnásobný majster Angoly 2023 – 2025; vo finále 2026 podľahol 1º de Agosto.",
-      "url": "https://interclube.co.ao/modalidade/andebol",
+      "url": "https://www.facebook.com/InterclubeAngolaGDI/",
       "order": 3,
-      "desc_en": "Luanda — the handball section of the multi-sport Grupo Desportivo Interclube, Angolan champions three times running in 2023–2025; beaten by 1º de Agosto in the 2026 final."
+      "desc_en": "Luanda — the handball section of the multi-sport Grupo Desportivo Interclube, Angolan champions three times running in 2023–2025; beaten by 1º de Agosto in the 2026 final.",
+      "ig": "https://www.instagram.com/interclube_angola/"
     },
     {
       "id": "f_had_ago_l1_k5",
@@ -138757,7 +138876,8 @@
       "desc": "Talatona pri Luande — Visionário Sport Club, účastník Campeonato Nacional.",
       "url": "https://www.facebook.com/profile.php?id=61573779903684",
       "order": 5,
-      "desc_en": "Talatona near Luanda — Visionário Sport Club, a Campeonato Nacional side."
+      "desc_en": "Talatona near Luanda — Visionário Sport Club, a Campeonato Nacional side.",
+      "ig": "https://www.instagram.com/visionariossc/"
     },
     {
       "id": "f_had_aso_af_k1",
@@ -188614,6 +188734,17 @@
       "url": "https://www.instagram.com/philly_handball/",
       "order": 15,
       "desc_en": "Philadelphia — a Pennsylvania handball club listed in the USA Team Handball directory, open to complete beginners."
+    },
+    {
+      "id": "f_had_bra_l1_k11",
+      "parentId": "f_had_bra_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Pato Handebol",
+      "desc": "Pato Branco v Paraná — Associação de Handebol de Pato Branco, účastník národnej fázy Ligy Nacional 2026 (4. miesto v skupine B); odkaz vedie na instagram klubu.",
+      "url": "https://www.instagram.com/patohandebol/",
+      "order": 10,
+      "desc_en": "Pato Branco in Paraná — Associação de Handebol de Pato Branco, a 2026 Liga Nacional national-phase side (4th in Group B); the link goes to the club's Instagram."
     }
   ],
   "title_en": "Sportlinking",
