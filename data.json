@@ -1,5 +1,5 @@
 {
-  "version": 728,
+  "version": 749,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -162647,8 +162647,8 @@
       "parentId": "f_vol_klu_eu_italy",
       "type": "folder",
       "icon": "it",
-      "name": "SuperLega",
-      "name_en": "SuperLega",
+      "name": "SuperLega mužov",
+      "name_en": "SuperLega (men)",
       "desc": "Najvyššia talianska mužská volejbalová súťaž — 12 klubov v sezóne 2026/27.",
       "desc_en": "Italy's top men's volleyball league — 12 clubs in the 2026/27 season.",
       "order": 0,
@@ -163009,8 +163009,8 @@
       "parentId": "f_vol_klu_eu_poland",
       "type": "folder",
       "icon": "pl",
-      "name": "TAURON Liga",
-      "name_en": "TAURON Liga",
+      "name": "TAURON Liga mužov",
+      "name_en": "TAURON Liga (men)",
       "desc": "Najvyššia poľská mužská volejbalová súťaž — 14 klubov v sezóne 2026/27.",
       "desc_en": "Poland's top men's volleyball league — 14 clubs in the 2026/27 season.",
       "order": 0,
@@ -163023,7 +163023,7 @@
       "type": "folder",
       "icon": "pl",
       "name": "TAURON Liga žien",
-      "name_en": "TAURON Liga Kobiet",
+      "name_en": "TAURON Liga Kobiet (women)",
       "desc": "Najvyššia poľská ženská volejbalová súťaž — 12 klubov v sezóne 2026/27.",
       "desc_en": "Poland's top women's volleyball league — 12 clubs in the 2026/27 season.",
       "order": 2,
@@ -166943,8 +166943,8 @@
       "parentId": "f_vol_klu_eu_poland",
       "type": "folder",
       "icon": "pl",
-      "name": "TAURON 1. Liga",
-      "name_en": "TAURON 1. Liga",
+      "name": "TAURON 1. Liga mužov",
+      "name_en": "TAURON 1. Liga (men)",
       "desc": "Druhá najvyššia poľská mužská volejbalová súťaž — 16 klubov v sezóne 2026/27, ktorá sa začala 10. septembra 2026; do roku 2026 sa volala PLS 1. Liga.",
       "desc_en": "Poland's second-tier men's volleyball league — 16 clubs in the 2026/27 season, which started on 10 September 2026; it was called PLS 1. Liga until 2026.",
       "order": 1,
@@ -166956,8 +166956,8 @@
       "parentId": "f_vol_klu_eu_france",
       "type": "folder",
       "icon": "fr",
-      "name": "Volstar Masculine 2",
-      "name_en": "Volstar Masculine 2",
+      "name": "Volstar Masculine 2 (muži)",
+      "name_en": "Volstar Masculine 2 (men)",
       "desc": "Druhá najvyššia francúzska mužská volejbalová súťaž — 12 klubov v sezóne 2026/27; do roku 2026 sa volala Ligue B.",
       "desc_en": "France's second-tier men's volleyball league — 12 clubs in the 2026/27 season; it was called Ligue B until 2026.",
       "order": 1,
@@ -180739,7 +180739,7 @@
       "parentId": "f_vol_klu_ao_nepal",
       "type": "folder",
       "icon": "np",
-      "name": "Everest Women's Volleyball League",
+      "name": "Everest Women's Volleyball League (ženy)",
       "name_en": "Everest Women's Volleyball League",
       "desc": "Najvyššia nepálska ženská volejbalová súťaž — šesť franšíz, stav podľa druhého ročníka dohraného v novembri 2025.",
       "desc_en": "Nepal's top women's volleyball competition — six franchises, as of the second season, completed in November 2025.",
@@ -181085,7 +181085,9 @@
       "desc_en": "Cairo — Egypt’s most successful volleyball club, founded in 1932, also won the title in 2023/24, 2024/25 and 2025/26. The link goes to the volleyball section of the club’s official website.",
       "url": "https://www.alahlyegypt.com/ar/sports/alkr-altayr",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/OfficialAhlyVolleyBall/",
+      "ig": "https://www.instagram.com/ahly_volleyball/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k3",
@@ -181109,7 +181111,8 @@
       "desc_en": "Cairo — the link goes to the volleyball section of the club’s official website, which covers both the men’s and the women’s teams.",
       "url": "https://www.alshams.club/category/volleyball/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/AlshamsSC/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k5",
@@ -181129,11 +181132,12 @@
       "type": "link",
       "icon": "",
       "name": "Al-Tayaran",
-      "desc": "Káhira — klub egyptského letectva (Aviation Club) skončil v sezóne 2016/17 v lige tretí. Jeho facebooková stránka sa už nespravuje, odkaz preto vedie na oficiálny instagramový účet klubu.",
-      "desc_en": "Cairo — the Egyptian aviation club finished third in the 2016/17 league. Its Facebook page is no longer maintained, so the link goes to the club’s official Instagram account.",
-      "url": "https://www.instagram.com/tayran_a.s.c/",
+      "desc": "Káhira — klub egyptského letectva (Aviation Club) skončil v sezóne 2016/17 v lige tretí. Odkaz vedie na oficiálnu facebookovú stránku klubu.",
+      "desc_en": "Cairo — the Egyptian aviation club finished third in the 2016/17 league. The link goes to the club’s official Facebook page.",
+      "url": "https://www.facebook.com/Aviation.Sports.Club.since.1955/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/tayran_a.s.c/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k7",
@@ -181145,7 +181149,8 @@
       "desc_en": "Nasr City in Cairo — a multi-sport club whose own website has no volleyball section, so the link goes to its official Facebook page with 159,000 followers.",
       "url": "https://www.facebook.com/ZohourSC",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/zohour_sc/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k8",
@@ -181153,11 +181158,12 @@
       "type": "link",
       "icon": "",
       "name": "Arab Contractors",
-      "desc": "Káhira — klub stavebnej spoločnosti Al-Mukáwilún al-Arab vznikol v roku 1973. Jeho vlastný web sa v prehliadači neotvorí a facebooková stránka volejbalu je od mája 2026 bez príspevku, odkaz preto vedie na oficiálny instagramový účet klubu.",
-      "desc_en": "Cairo — the club of the Arab Contractors construction company was founded in 1973. Its own website will not open in a browser and its volleyball Facebook page has had no post since May 2026, so the link goes to the club’s official Instagram account.",
-      "url": "https://www.instagram.com/arabcontclub/",
+      "desc": "Káhira — klub stavebnej spoločnosti Al-Mukáwilún al-Arab vznikol v roku 1973. Jeho vlastný web sa v prehliadači neotvorí, odkaz preto vedie na oficiálnu facebookovú stránku klubu.",
+      "desc_en": "Cairo — the club of the Arab Contractors construction company was founded in 1973. Its own website will not open in a browser, so the link goes to the club’s official Facebook page.",
+      "url": "https://www.facebook.com/arabcont.club/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/arabcontclub/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k9",
@@ -181205,7 +181211,8 @@
       "desc_en": "Cairo — Gezira Sporting Club on Zamalek island was founded in 1882 as the Khedivial Sporting Club and is the largest multi-sport facility in Egypt. Its Facebook page and Instagram account both went quiet in 2021 and gsc.eg is only a members’ login page, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://volleybox.net/gezira-sporting-club-t6776",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "ig": "https://www.instagram.com/geziraclub/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k13",
@@ -181229,7 +181236,8 @@
       "desc_en": "Cairo — Heliopolis Sporting Club was founded in 1910. It has no website covering volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/HeliopolisSC",
       "order": 13,
-      "order_en": 13
+      "order_en": 13,
+      "ig": "https://www.instagram.com/heliopolissc/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k15",
@@ -181253,7 +181261,8 @@
       "desc_en": "Cairo — the club of the Petrojet oil company finished second in 2024/25 and third in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/PJSCOfficial",
       "order": 15,
-      "order_en": 15
+      "order_en": 15,
+      "ig": "https://www.instagram.com/pjscofficial/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k17",
@@ -181277,7 +181286,8 @@
       "desc_en": "Katameya in Cairo — the Shooting Club was founded in 1939. The link goes to the Facebook page of its volleyball section.",
       "url": "https://www.facebook.com/profile.php?id=100084446315829",
       "order": 17,
-      "order_en": 17
+      "order_en": 17,
+      "ig": "https://www.instagram.com/egyptianshootingclubofficial/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k19",
@@ -181289,7 +181299,8 @@
       "desc_en": "Alexandria — the club finished second in 2015/16 and third in 2019/20. Its own website does not cover volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/SmouhaOfficial",
       "order": 18,
-      "order_en": 18
+      "order_en": 18,
+      "ig": "https://www.instagram.com/smouhasc.official/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k20",
@@ -181301,7 +181312,8 @@
       "desc_en": "Alexandria — Alexandria Sporting Club finished third in the men’s league in 2023/24. It has no website covering volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/Sporting.Club.Alexandria",
       "order": 19,
-      "order_en": 19
+      "order_en": 19,
+      "ig": "https://www.instagram.com/sportingofficial/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k21",
@@ -181337,7 +181349,8 @@
       "desc_en": "Cairo — the club was founded in 2002. It has no website covering volleyball, so the link goes to the official Facebook page of the Wadi Degla clubs.",
       "url": "https://www.facebook.com/wadideglaclubs",
       "order": 22,
-      "order_en": 22
+      "order_en": 22,
+      "ig": "https://www.instagram.com/wadideglaclubs/"
     },
     {
       "id": "f_vol_klu_af_egypt_m1_k24",
@@ -181386,7 +181399,9 @@
       "desc_en": "Cairo — the Al Ahly women’s team is utterly dominant, champion in every season from 1995/96 through 2025/26. The link goes to the volleyball section of the club’s official website.",
       "url": "https://www.alahlyegypt.com/ar/sports/alkr-altayr",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/OfficialAhlyVolleyBall/",
+      "ig": "https://www.instagram.com/ahly_volleyball/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k3",
@@ -181410,7 +181425,8 @@
       "desc_en": "Cairo — the club’s women’s team finished second in 2016/17 and third in 2019/20 and 2020/21. The link goes to the volleyball section of the club’s official website.",
       "url": "https://www.alshams.club/category/volleyball/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/AlshamsSC/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k5",
@@ -181422,7 +181438,8 @@
       "desc_en": "Nasr City in Cairo — a multi-sport club whose own website has no volleyball section, so the link goes to its official Facebook page with 159,000 followers.",
       "url": "https://www.facebook.com/ZohourSC",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/zohour_sc/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k6",
@@ -181430,11 +181447,12 @@
       "type": "link",
       "icon": "",
       "name": "Arab Contractors",
-      "desc": "Káhira — klub stavebnej spoločnosti Al-Mukáwilún al-Arab vznikol v roku 1973. Jeho vlastný web sa v prehliadači neotvorí a facebooková stránka volejbalu je od mája 2026 bez príspevku, odkaz preto vedie na oficiálny instagramový účet klubu.",
-      "desc_en": "Cairo — the club of the Arab Contractors construction company was founded in 1973. Its own website will not open in a browser and its volleyball Facebook page has had no post since May 2026, so the link goes to the club’s official Instagram account.",
-      "url": "https://www.instagram.com/arabcontclub/",
+      "desc": "Káhira — klub stavebnej spoločnosti Al-Mukáwilún al-Arab vznikol v roku 1973. Jeho vlastný web sa v prehliadači neotvorí, odkaz preto vedie na oficiálnu facebookovú stránku klubu.",
+      "desc_en": "Cairo — the club of the Arab Contractors construction company was founded in 1973. Its own website will not open in a browser, so the link goes to the club’s official Facebook page.",
+      "url": "https://www.facebook.com/arabcont.club/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/arabcontclub/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k7",
@@ -181458,7 +181476,8 @@
       "desc_en": "Cairo — Gezira Sporting Club on Zamalek island was founded in 1882 as the Khedivial Sporting Club. Its Facebook page and Instagram account both went quiet in 2021 and gsc.eg is only a members’ login page, so the link goes to the women’s team profile in the Volleybox database.",
       "url": "https://women.volleybox.net/gezira-sporting-club-t18512",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/geziraclub/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k9",
@@ -181470,7 +181489,8 @@
       "desc_en": "Cairo — Heliopolis Sporting Club was founded in 1910 and fields a women’s team in the 2026/27 top division. It has no website covering volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/HeliopolisSC",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/heliopolissc/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k10",
@@ -181494,7 +181514,8 @@
       "desc_en": "Cairo — the National Bank of Egypt club is entered only in the women’s league. Its own website deals solely with football, so the link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/NationalBankOfEgyptClub",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "ig": "https://www.instagram.com/nationalbankegyptclub/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k12",
@@ -181506,7 +181527,8 @@
       "desc_en": "Katameya in Cairo — the Shooting Club was founded in 1939 and finished third in the women’s league in 2021/22. The link goes to the Facebook page of its volleyball section.",
       "url": "https://www.facebook.com/profile.php?id=100084446315829",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "ig": "https://www.instagram.com/egyptianshootingclubofficial/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k13",
@@ -181518,7 +181540,8 @@
       "desc_en": "Alexandria — the club’s women’s team won the title in 1994/95. Its own website does not cover volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/SmouhaOfficial",
       "order": 12,
-      "order_en": 12
+      "order_en": 12,
+      "ig": "https://www.instagram.com/smouhasc.official/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k14",
@@ -181530,7 +181553,8 @@
       "desc_en": "Alexandria — Alexandria Sporting Club is a regular medallist in the women’s league: second in 2021/22 and third in every season from 2022/23 to 2025/26. It has no website covering volleyball, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/Sporting.Club.Alexandria",
       "order": 13,
-      "order_en": 13
+      "order_en": 13,
+      "ig": "https://www.instagram.com/sportingofficial/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k15",
@@ -181542,7 +181566,8 @@
       "desc_en": "Maadi in Cairo — founded in 2002, the club also fields a women’s team in the 2026/27 top division. It has no website covering volleyball, so the link goes to the official Facebook page of the Wadi Degla clubs.",
       "url": "https://www.facebook.com/wadideglaclubs",
       "order": 14,
-      "order_en": 14
+      "order_en": 14,
+      "ig": "https://www.instagram.com/wadideglaclubs/"
     },
     {
       "id": "f_vol_klu_af_egypt_z1_k16",
@@ -181589,11 +181614,13 @@
       "type": "link",
       "icon": "",
       "name": "Elyon",
-      "desc": "Namugongo pri Kampale — klub založený v roku 2020 skončil v sezóne 2025/26 štvrtý, v semifinále play-off vyrovnal sériu s Nemostars. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Namugongo near Kampala — founded in 2020, the club finished fourth in 2025/26 and levelled its play-off semi-final series against Nemostars. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/mtcbeats",
+      "desc": "Namugongo pri Kampale — klub založený v roku 2020 skončil v sezóne 2025/26 štvrtý, v semifinále play-off vyrovnal sériu s Nemostars. Vlastný web nemá a jeho sociálne siete od apríla 2026 nepíšu, odkaz preto vedie na profil tímu v databáze Volleybox.",
+      "desc_en": "Namugongo near Kampala — founded in 2020, the club finished fourth in 2025/26 and levelled its play-off semi-final series against Nemostars. It has no website and its social media have been quiet since April 2026, so the link goes to the team’s profile in the Volleybox database.",
+      "url": "https://volleybox.net/elyon-volleyball-club-t37686",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/mtcbeats/",
+      "ig": "https://www.instagram.com/elyonvolleyballclub/"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k2",
@@ -181617,7 +181644,8 @@
       "desc_en": "Kampala — founded in 1971, the Kampala Amateur Volleyball Club celebrates 55 years of volleyball on its own website and runs holiday volleyball clinics for children aged 6 to 16.",
       "url": "https://kavcuganda.org/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/kavc.official/"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k4",
@@ -181625,11 +181653,13 @@
       "type": "link",
       "icon": "",
       "name": "KCCA",
-      "desc": "Kampala — klub mestskej samosprávy Kampala Capital City Authority, založený v roku 1983, skončil v sezóne 2025/26 tretí. Vlastný web nemá, odkaz vedie na facebookovú stránku jeho volejbalového klubu.",
-      "desc_en": "Kampala — the club of the Kampala Capital City Authority, founded in 1983, finished third in 2025/26. It has no website of its own, so the link goes to the Facebook page of its volleyball club.",
-      "url": "https://www.facebook.com/profile.php?id=100063768652006",
+      "desc": "Kampala — klub mestskej samosprávy Kampala Capital City Authority, založený v roku 1983, skončil v sezóne 2025/26 tretí. Vlastný web nemá a jeho sociálne siete dlhšie nepíšu, odkaz preto vedie na profil tímu v databáze Volleybox.",
+      "desc_en": "Kampala — the club of the Kampala Capital City Authority, founded in 1983, finished third in 2025/26. It has no website and its social media have not posted for a while, so the link goes to the team’s profile in the Volleybox database.",
+      "url": "https://volleybox.net/kampala-capital-city-authority-t38736",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/profile.php?id=100063768652006",
+      "ig": "https://www.instagram.com/kccavolleyball/"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k5",
@@ -181641,7 +181671,8 @@
       "desc_en": "Kampala — founded in 2005, the club topped the 2025/26 regular season and, according to Volleybox, won the whole edition; in April 2026 it played the African Club Championship in Kigali. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/NemostarsVolleyballClub",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/nemostarsclub/"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k6",
@@ -181653,7 +181684,8 @@
       "desc_en": "Kampala — the Uganda Police volleyball club, eighth in 2025/26. It has no website of its own and its Facebook page has only a handful of followers, so the link goes to the club’s official Instagram account.",
       "url": "https://www.instagram.com/uganda_policevc/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/profile.php?id=61575839150421"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k7",
@@ -181673,11 +181705,12 @@
       "type": "link",
       "icon": "",
       "name": "Sport-S",
-      "desc": "Ugandský klub založený v roku 1995 získal v sezóne 2024/25 tretí ligový titul za sebou a v sezóne 2025/26 skončil druhý. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "A Ugandan club founded in 1995, it won its third consecutive league title in 2024/25 and finished second in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/SportSVolleyballClub",
+      "desc": "Ugandský klub založený v roku 1995 získal v sezóne 2024/25 tretí ligový titul za sebou a v sezóne 2025/26 skončil druhý. Vlastný web nemá, odkaz vedie na jeho oficiálny instagramový účet.",
+      "desc_en": "A Ugandan club founded in 1995, it won its third consecutive league title in 2024/25 and finished second in 2025/26. It has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/sport_svolleyballclub/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "fb": "https://www.facebook.com/SportSVolleyballClub/"
     },
     {
       "id": "f_vol_klu_af_uganda_m1_k9",
@@ -181697,9 +181730,9 @@
       "type": "link",
       "icon": "",
       "name": "UCU Doves",
-      "desc": "Mukono — tím Uganda Christian University založený v roku 1997 skončil v sezóne 2025/26 piaty. Volejbalová stránka univerzitného webu je len nevyplnená šablóna, odkaz preto vedie na profil tímu v databáze Volleybox.",
-      "desc_en": "Mukono — the Uganda Christian University team, founded in 1997, finished fifth in 2025/26. The volleyball page on the university website is only an unfilled template, so the link goes to the team’s profile in the Volleybox database.",
-      "url": "https://volleybox.net/christian-university-t7571",
+      "desc": "Mukono — tím Uganda Christian University založený v roku 1997 skončil v sezóne 2025/26 piaty. Volejbalová stránka univerzitného webu je len nevyplnená šablóna, odkaz preto vedie na instagramový účet univerzitného volejbalu.",
+      "desc_en": "Mukono — the Uganda Christian University team, founded in 1997, finished fifth in 2025/26. The volleyball page on the university website is only an unfilled template, so the link goes to the university volleyball Instagram account.",
+      "url": "https://www.instagram.com/ucu_doves_vc/",
       "order": 9,
       "order_en": 9
     },
@@ -181760,9 +181793,9 @@
       "type": "link",
       "icon": "",
       "name": "Gisagara",
-      "desc": "Gisagara na juhu Rwandy — klub vyhral základnú časť sezóny 2025/26, v semifinále play-off však prehral s Police VC 0:3 na zápasy a skončil štvrtý. Živú sociálnu sieť nemá, odkaz preto vedie na profil tímu v databáze Volleybox.",
-      "desc_en": "Gisagara in southern Rwanda — the club topped the 2025/26 regular season but lost its play-off semi-final 0–3 in matches to Police VC and finished fourth. It has no live social network, so the link goes to the team’s profile in the Volleybox database.",
-      "url": "https://volleybox.net/gisagara-t7106",
+      "desc": "Gisagara na juhu Rwandy — klub vyhral základnú časť sezóny 2025/26, v semifinále play-off však prehral s Police VC 0:3 na zápasy a skončil štvrtý. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
+      "desc_en": "Gisagara in southern Rwanda — the club topped the 2025/26 regular season but lost its play-off semi-final 0–3 in matches to Police VC and finished fourth. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/gisagara_volleyball_club/",
       "order": 2,
       "order_en": 2
     },
@@ -181788,7 +181821,8 @@
       "desc_en": "Kigali — the club finished seventh in 2025/26. It has neither a website nor a live social network, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://volleybox.net/kigali-vc-t11041",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/kvc_capa/"
     },
     {
       "id": "f_vol_klu_af_rwanda_m1_k6",
@@ -181808,11 +181842,12 @@
       "type": "link",
       "icon": "",
       "name": "Police VC",
-      "desc": "Volejbalový klub rwandskej polície bol v sezóne 2025/26 druhý a na africkom klubovom šampionáte 2026 v Kigali prehral až vo finále s Al Ahly. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "The Rwanda National Police volleyball club finished second in 2025/26 and reached the final of the 2026 African Club Championship in Kigali, where it lost to Al Ahly. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/rnpvc",
+      "desc": "Volejbalový klub rwandskej polície bol v sezóne 2025/26 druhý a na africkom klubovom šampionáte 2026 v Kigali prehral až vo finále s Al Ahly. Vlastný web nemá, odkaz vedie na jeho oficiálny instagramový účet.",
+      "desc_en": "The Rwanda National Police volleyball club finished second in 2025/26 and reached the final of the 2026 African Club Championship in Kigali, where it lost to Al Ahly. It has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/rnpvcofficial/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/rnpvc/"
     },
     {
       "id": "f_vol_klu_af_rwanda_m1_k8",
@@ -181836,7 +181871,8 @@
       "desc_en": "Ngoma in eastern Rwanda — the Rwanda Polytechnic Ngoma College team, eighth in 2025/26. The team’s Instagram has no recent posts, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://volleybox.net/polytechni-ngoma-t38241",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/rp_ngoma_vc/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1",
@@ -181875,7 +181911,8 @@
       "desc_en": "La Marsa near Tunis — Avenir Sportif de La Marsa are seven-time Tunisian champions (1962–1980) and finished eighth in 2025/26. The club’s volleyball page is inactive, so the link goes to the official Facebook of the whole multi-sport club.",
       "url": "https://www.facebook.com/asmarsaofficiel",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/asmarsa_volleyball/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1_k2",
@@ -181911,7 +181948,8 @@
       "desc_en": "Hammam-Lif near Tunis — the volleyball section of the multi-sport Club Sportif d’Hammam-Lif finished ninth in 2025/26. It has no website of its own, so the link goes to the section’s official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61581801060843",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/cshl_volleyball_club/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1_k5",
@@ -181935,7 +181973,8 @@
       "desc_en": "Tunis — record 26-time Tunisian champions (most recently in 2026) and five-time African Club Championship winners (1994, 1998, 2000, 2014, 2021). The link goes to the volleyball section of the club website with fixtures, roster and honours.",
       "url": "https://www.est.org.tn/fr/calendrier-et-resultats-volleyball",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/EsperanceSportivedeTunisVolleyBall/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1_k7",
@@ -181983,7 +182022,8 @@
       "desc_en": "Sidi Bou Saïd near Tunis — a volleyball club active since 1955, Tunisian champions in 2010, seventh in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063630097414",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "ig": "https://www.instagram.com/saydia_sidibousaid_officiel/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1_k11",
@@ -182046,7 +182086,8 @@
       "desc_en": "La Marsa near Tunis — the Avenir Sportif de La Marsa women won six titles in a row (1974–1979) and finished seventh in 2025/26. The club’s volleyball page is inactive, so the link goes to the official Facebook of the whole multi-sport club.",
       "url": "https://www.facebook.com/asmarsaofficiel",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/asmarsa_volleyball/"
     },
     {
       "id": "f_vol_klu_af_tunisia_z1_k2",
@@ -182070,7 +182111,8 @@
       "desc_en": "Carthage near Tunis — founded in 2011, Club Féminin de Carthage are 13-time Tunisian champions (2013–2026, including seven straight titles since 2020) and also won the Tunisian Cup in 2026. The club website does not work, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/CFCarthageVolleyTunisie",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/cfc_tunisia_official/"
     },
     {
       "id": "f_vol_klu_af_tunisia_z1_k4",
@@ -182082,7 +182124,8 @@
       "desc_en": "Tunis — the Club Africain women are 13-time Tunisian champions (1959–1994) and finished fourth in 2025/26. Neither the club website nor its volleyball accounts work, so the link goes to the official Facebook of the whole multi-sport club.",
       "url": "https://www.facebook.com/clubafricain.com.tn",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/clubafricain__officiel/"
     },
     {
       "id": "f_vol_klu_af_tunisia_z1_k5",
@@ -182106,7 +182149,8 @@
       "desc_en": "Sfax — the Club Sportif Sfaxien women are eight-time Tunisian champions (most recently in 2019) and finished third in 2025/26. They have no website of their own, so the link goes to the Facebook page of the club’s women’s volleyball.",
       "url": "https://www.facebook.com/profile.php?id=61551916201225",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/css_volleyball_feminine/"
     },
     {
       "id": "f_vol_klu_af_tunisia_z1_k7",
@@ -182205,7 +182249,8 @@
       "desc_en": "Teniet El Abed — the amateur club CASTEL (Culture, Art, Sport, Triomphe, Étoile Libre) won bronze in 2023/24. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100088167409786",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/volleyballcastel/"
     },
     {
       "id": "f_vol_klu_af_algeria_m1_k3",
@@ -182253,7 +182298,8 @@
       "desc_en": "El Eulma — the amateur club played in the Centre-East group in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100083237085184",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/eseleulma.official/"
     },
     {
       "id": "f_vol_klu_af_algeria_m1_k7",
@@ -182289,7 +182335,8 @@
       "desc_en": "Ouled Adouane near Sétif — the club were runners-up in 2024/25 and third in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100076508001630",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/jscoa_ouled_adouane/"
     },
     {
       "id": "f_vol_klu_af_algeria_m1_k10",
@@ -182321,11 +182368,13 @@
       "type": "link",
       "icon": "",
       "name": "NC Béjaïa",
-      "desc": "Béjaïa — klub postúpil do najvyššej súťaže pred sezónou 2025/26. Volejbalová stránka je neaktívna, odkaz vedie na oficiálny Facebook celého klubu.",
-      "desc_en": "Béjaïa — the club were promoted to the top flight before the 2025/26 season. The volleyball page is inactive, so the link goes to the official Facebook of the whole club.",
-      "url": "https://www.facebook.com/bejaiaNCB",
+      "desc": "Béjaïa — klub postúpil do najvyššej súťaže pred sezónou 2025/26. Odkaz vedie na oficiálny web klubu.",
+      "desc_en": "Béjaïa — the club were promoted to the top flight before the 2025/26 season. The link goes to the official club website.",
+      "url": "https://ncbejaia.com/",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "fb": "https://www.facebook.com/bejaiaNCB/",
+      "ig": "https://www.instagram.com/ncbejaia/"
     },
     {
       "id": "f_vol_klu_af_algeria_m1_k13",
@@ -182361,7 +182410,8 @@
       "desc_en": "El Milia — Olympique Milien Ketamien were runners-up in 2017/18. The club’s Facebook is dormant and its Instagram has no recent post, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://volleybox.net/omk-el-milia-t6517",
       "order": 14,
-      "order_en": 14
+      "order_en": 14,
+      "ig": "https://www.instagram.com/omk_volley_ball/"
     },
     {
       "id": "f_vol_klu_af_algeria_m1_k16",
@@ -182397,7 +182447,8 @@
       "desc_en": "Tlemcen — Widad Amel Tlemcen are four-time Algerian champions (1969/70 and three titles in a row, 2023/24–2025/26). It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/nabilouu1977",
       "order": 17,
-      "order_en": 17
+      "order_en": 17,
+      "ig": "https://www.instagram.com/wat_tlemcen_volleyball/"
     },
     {
       "id": "f_vol_klu_af_algeria_z1",
@@ -182436,7 +182487,8 @@
       "desc_en": "Toudja near Béjaïa — the amateur volleyball club played in the Centre-East group in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/CRRT.Toudja",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/crrtoudja_volleyball_/"
     },
     {
       "id": "f_vol_klu_af_algeria_z1_k2",
@@ -182460,7 +182512,8 @@
       "desc_en": "Tizi N’Berber near Béjaïa — Jeunesse Sportive Tizi N’Berber have played volleyball since 2011. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063938730364",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/jstb__volleyball/"
     },
     {
       "id": "f_vol_klu_af_algeria_z1_k4",
@@ -182492,11 +182545,13 @@
       "type": "link",
       "icon": "",
       "name": "NC Béjaïa",
-      "desc": "Béjaïa — ženy sú štvornásobné majsterky Alžírska (2003/04, 2004/05, 2024/25, 2025/26). Volejbalová stránka je neaktívna, odkaz vedie na oficiálny Facebook celého klubu.",
-      "desc_en": "Béjaïa — the women are four-time Algerian champions (2003/04, 2004/05, 2024/25, 2025/26). The volleyball page is inactive, so the link goes to the official Facebook of the whole club.",
-      "url": "https://www.facebook.com/bejaiaNCB",
+      "desc": "Béjaïa — ženy sú štvornásobné majsterky Alžírska (2003/04, 2004/05, 2024/25, 2025/26). Odkaz vedie na oficiálny web klubu.",
+      "desc_en": "Béjaïa — the women are four-time Algerian champions (2003/04, 2004/05, 2024/25, 2025/26). The link goes to the official club website.",
+      "url": "https://ncbejaia.com/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/bejaiaNCB/",
+      "ig": "https://www.instagram.com/ncbejaia/"
     },
     {
       "id": "f_vol_klu_af_algeria_z1_k7",
@@ -182508,7 +182563,8 @@
       "desc_en": "Chlef — the Nedjmet Riadhi Chlef women were runners-up in both 2020/21 and 2021/22. Neither their Facebook nor Instagram has a recent post, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://women.volleybox.net/nr-chlef-t8419",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/nr_chlef1/"
     },
     {
       "id": "f_vol_klu_af_algeria_z1_k8",
@@ -182580,7 +182636,8 @@
       "desc_en": "Béjaïa — the Widad Amel Béjaïa women reached the title play-offs in 2025/26. It has no website of its own, so the link goes to the official Facebook page of the club’s volleyball.",
       "url": "https://www.facebook.com/WABejaiaVolley.Algerie",
       "order": 12,
-      "order_en": 12
+      "order_en": 12,
+      "ig": "https://www.instagram.com/wabejaia_volleyball_officiel/"
     },
     {
       "id": "f_vol_aso_af_chad",
@@ -182631,7 +182688,7 @@
       "name_en": "Cameroonian League",
       "desc": "Tabuľky na portáli zväzu FECAVOLLEY — základná časť a play-off národného šampionátu aj skupiny Pohára Kamerunu, pre mužov aj ženy. Ročník 2025/26 vyhral u mužov Port Autonome de Douala, ktorý vo finále play-off zdolal Cameroun Sports Volleyball.",
       "desc_en": "Standings on the FECAVOLLEY federation portal — the regular season and play-offs of the national championship plus the Cameroon Cup groups, for men and women. Port Autonome de Douala won the 2025/26 men’s title, beating Cameroun Sports Volleyball in the play-off final.",
-      "url": "https://fecavolley.org/index.php?page=public_classements&fed=fecavolley",
+      "url": "https://fecavolley.org/index.php?page=public_classements&saison=2025-2026&fed=fecavolley",
       "order": -1,
       "order_en": -1
     },
@@ -182645,7 +182702,8 @@
       "desc_en": "Yaoundé — two-time Cameroonian champions (2015, 2019) and three-time cup winners (2021–2023), runners-up in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61588220703137",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/camerounsportsvb/"
     },
     {
       "id": "f_vol_klu_af_cameroon_m1_k2",
@@ -182665,11 +182723,12 @@
       "type": "link",
       "icon": "",
       "name": "Dynamic Volleyball de Douala",
-      "desc": "Douala — mužský tím skončil v sezóne 2025/26 šiesty. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Douala — the men’s team finished sixth in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=100090630916190",
+      "desc": "Douala — mužský tím skončil v sezóne 2025/26 šiesty. Vlastný web nemá, odkaz vedie na profil tímu na portáli zväzu FECAVOLLEY.",
+      "desc_en": "Douala — the men’s team finished sixth in 2025/26. It has no website of its own, so the link goes to the team’s profile on the FECAVOLLEY federation portal.",
+      "url": "https://fecavolley.org/index.php?page=public_club&id=11&genre=M&fed=fecavolley",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/profile.php?id=100090630916190"
     },
     {
       "id": "f_vol_klu_af_cameroon_m1_k4",
@@ -182754,7 +182813,7 @@
       "name_en": "Cameroonian Women’s League",
       "desc": "Tabuľky na portáli zväzu FECAVOLLEY — základná časť a play-off národného šampionátu aj skupiny Pohára Kamerunu, pre ženy aj mužov. Ročník 2025/26 vyhral u žien Litto Team s jedinou prehrou v základnej časti.",
       "desc_en": "Standings on the FECAVOLLEY federation portal — the regular season and play-offs of the national championship plus the Cameroon Cup groups, for women and men. Litto Team won the 2025/26 women’s title with a single regular-season defeat.",
-      "url": "https://fecavolley.org/index.php?page=public_classements&fed=fecavolley",
+      "url": "https://fecavolley.org/index.php?page=public_classements&saison=2025-2026&fed=fecavolley",
       "order": -1,
       "order_en": -1
     },
@@ -182828,7 +182887,8 @@
       "desc_en": "Yaoundé — the women finished second in 2025/26 and lost the 2026 Cameroon Cup final. Their Facebook has been dormant since 2023 and their Instagram has no recent post, so the link goes to the team’s profile on the FECAVOLLEY federation portal.",
       "url": "https://fecavolley.org/index.php?page=public_club&id=2&genre=F&fed=fecavolley",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/mke_mayokanievolutiondames/"
     },
     {
       "id": "f_vol_klu_af_cameroon_z1_k7",
@@ -182836,11 +182896,12 @@
       "type": "link",
       "icon": "",
       "name": "Nyong et Kellé",
-      "desc": "Yaoundé — ženy skončili v sezóne 2025/26 piate a vo finále klubového šampionátu zóny 4 CAVB 2025 prehrali s Litto Team. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Yaoundé — the women finished fifth in 2025/26 and lost the 2025 CAVB Zone 4 club championship final to Litto Team. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=61565568462143",
+      "desc": "Yaoundé — ženy skončili v sezóne 2025/26 piate a vo finále klubového šampionátu zóny 4 CAVB 2025 prehrali s Litto Team. Vlastný web nemá, odkaz vedie na profil tímu na portáli zväzu FECAVOLLEY.",
+      "desc_en": "Yaoundé — the women finished fifth in 2025/26 and lost the 2025 CAVB Zone 4 club championship final to Litto Team. It has no website of its own, so the link goes to the team’s profile on the FECAVOLLEY federation portal.",
+      "url": "https://fecavolley.org/index.php?page=public_club&id=3&genre=F&fed=fecavolley",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/profile.php?id=61565568462143"
     },
     {
       "id": "f_vol_klu_af_morocco_m1",
@@ -182875,11 +182936,12 @@
       "type": "link",
       "icon": "",
       "name": "AC Larache",
-      "desc": "Larache — Athletic Club Larache bol v sezóne 2025/26 po 16. kole piaty. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
-      "desc_en": "Larache — Athletic Club Larache were fifth after round 16 of the 2025/26 season. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
-      "url": "https://www.instagram.com/acllarache_volley/",
+      "desc": "Larache — Athletic Club Larache bol v sezóne 2025/26 po 16. kole piaty. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Larache — Athletic Club Larache were fifth after round 16 of the 2025/26 season. It has no website of its own, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/larachevolleyball/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/acllarache_volley/"
     },
     {
       "id": "f_vol_klu_af_morocco_m1_k2",
@@ -182915,7 +182977,8 @@
       "desc_en": "Aïn Harrouda near Casablanca — Club Zenata Volley-Ball were eighth after round 16 of the 2025/26 season. Its Instagram has no recent post, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://volleybox.net/czvb-t19534",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/czvb_officiel/"
     },
     {
       "id": "f_vol_klu_af_morocco_m1_k5",
@@ -182927,7 +182990,8 @@
       "desc_en": "El Jadida — the volleyball section of Difaâ Hassani El Jadida were sixth after round 16 of the 2025/26 season. It has no website of its own, so the link goes to the official Facebook page of the club’s volleyball.",
       "url": "https://www.facebook.com/profile.php?id=61582246576163",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/dhj.volleyball/"
     },
     {
       "id": "f_vol_klu_af_morocco_m1_k6",
@@ -182951,7 +183015,8 @@
       "desc_en": "Tangier — Ittihad Riadi de Tanger won their fifth league title in 2024/25. It has no website of its own, so the link goes to the official Facebook page of the club’s volleyball.",
       "url": "https://www.facebook.com/IRTvb",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/irtvolleyball/"
     },
     {
       "id": "f_vol_klu_af_morocco_m1_k8",
@@ -182998,11 +183063,12 @@
       "type": "link",
       "icon": "",
       "name": "AC Larache",
-      "desc": "Larache — ženy Athletic Club Larache hrali v sezóne 2025/26 skupinu A. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
-      "desc_en": "Larache — the Athletic Club Larache women played in group A in 2025/26. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
-      "url": "https://www.instagram.com/acllarache_volley/",
+      "desc": "Larache — ženy Athletic Club Larache hrali v sezóne 2025/26 skupinu A. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Larache — the Athletic Club Larache women played in group A in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/larachevolleyball/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/acllarache_volley/"
     },
     {
       "id": "f_vol_klu_af_morocco_z1_k2",
@@ -183050,7 +183116,8 @@
       "desc_en": "El Jadida — the Difaâ Hassani El Jadida women played in group B in 2025/26. It has no website of its own, so the link goes to the official Facebook page of the club’s volleyball.",
       "url": "https://www.facebook.com/profile.php?id=61582246576163",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/dhj.volleyball/"
     },
     {
       "id": "f_vol_klu_af_morocco_z1_k6",
@@ -183074,7 +183141,8 @@
       "desc_en": "Tangier — the Ittihad Riadi de Tanger women played in group A in 2025/26. It has no website of its own, so the link goes to the official Facebook page of the club’s volleyball.",
       "url": "https://www.facebook.com/IRTvb",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/irtvolleyball/"
     },
     {
       "id": "f_vol_klu_af_morocco_z1_k8",
@@ -183086,7 +183154,8 @@
       "desc_en": "Khémisset — the Ittihad Zemmouri de Khémisset women played in group A in 2025/26. Neither their Facebook nor Instagram has a recent post, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://women.volleybox.net/iz-khoumisset-t48720",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/i.z.k_volleyball_/"
     },
     {
       "id": "f_vol_klu_af_morocco_z1_k9",
@@ -183106,11 +183175,13 @@
       "type": "link",
       "icon": "",
       "name": "Mouloudia Tiznit",
-      "desc": "Tiznit — Mouloudia Tiznit de Volley-Ball hrá v hale Anarouz, v sezóne 2025/26 hral skupinu B. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Tiznit — Mouloudia Tiznit de Volley-Ball play at the Anarouz hall and were in group B in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/MOULOUDIATVB",
+      "desc": "Tiznit — Mouloudia Tiznit de Volley-Ball hrá v hale Anarouz, v sezóne 2025/26 hral skupinu B. Odkaz vedie na oficiálny web klubu.",
+      "desc_en": "Tiznit — Mouloudia Tiznit de Volley-Ball play at the Anarouz hall and were in group B in 2025/26. The link goes to the club's official website.",
+      "url": "https://www.mtvb.ma/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/MOULOUDIATVB/",
+      "ig": "https://www.instagram.com/mouloudia_tiznit_volleyball/"
     },
     {
       "id": "f_vol_klu_af_morocco_z1_k11",
@@ -183134,7 +183205,8 @@
       "desc_en": "Safi — the Olympic Club de Safi women won bronze in 2025/26. The team’s Instagram has no recent post, so the link goes to the team’s profile in the Volleybox database.",
       "url": "https://women.volleybox.net/ocs-t35818",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "ig": "https://www.instagram.com/ocs_volleyball_section/"
     },
     {
       "id": "f_vol_klu_af_cape-verde_m1",
@@ -183185,7 +183257,8 @@
       "desc_en": "Mindelo (São Vicente island) — Clube Desportivo Fonte Francês, Cape Verdean runners-up in 2025/26, losing the national championship final at home to Interclube da Praia 0–3. It has no website of its own, so the link goes to the official Facebook page of the whole club.",
       "url": "https://www.facebook.com/DesportivoFF",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/cdff_volei/"
     },
     {
       "id": "f_vol_klu_af_cape-verde_m1_k3",
@@ -183205,9 +183278,9 @@
       "type": "link",
       "icon": "",
       "name": "Voley Clube Espargos",
-      "desc": "Espargos (ostrov Sal) — zástupca ostrova Sal, v sezóne 2024/25 sa druhý rok po sebe prebojoval do finále národného šampionátu a prehral v ňom s Atléticom Mindelo 1:3. Web ani živú sociálnu sieť nemá, odkaz vedie na profil tímu v databáze Volleybox.",
-      "desc_en": "Espargos (Sal island) — the representative of Sal, it reached the national championship final for the second year running in 2024/25 and lost it to Atlético Mindelo 1–3. It has neither a website nor a live social media account, so the link goes to the team’s profile in the Volleybox database.",
-      "url": "https://volleybox.net/volei-clube-dos-espargos-t51507",
+      "desc": "Espargos (ostrov Sal) — zástupca ostrova Sal, v sezóne 2024/25 sa druhý rok po sebe prebojoval do finále národného šampionátu a prehral v ňom s Atléticom Mindelo 1:3. Vlastný web nemá, odkaz vedie na oficiálny Instagram klubu.",
+      "desc_en": "Espargos (Sal island) — the representative of Sal, it reached the national championship final for the second year running in 2024/25 and lost it to Atlético Mindelo 1–3. It has no website of its own, so the link goes to the club’s official Instagram account.",
+      "url": "https://www.instagram.com/voley_clube_espargos/",
       "order": 3,
       "order_en": 3
     },
@@ -183248,7 +183321,8 @@
       "desc_en": "Windhoek — the volleyball section of the Afrocat club, which also develops netball and football; it plays both indoor and beach volleyball. It has no website of its own, so the link goes to the Facebook page of its volleyball section.",
       "url": "https://www.facebook.com/profile.php?id=100089320621916",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/afrocat_volleyball_club/"
     },
     {
       "id": "f_vol_klu_af_namibia_m1_k2",
@@ -183271,8 +183345,8 @@
       "desc": "región Khomas — policajný klub NPV založený v roku 2004, podľa vlastného profilu majster Namíbie 2023. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
       "desc_en": "Khomas region — the police club NPV, founded in 2004 and, according to its own profile, Namibian champions in 2023. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
       "url": "https://www.instagram.com/nampol_volleyball/",
-      "order": 2,
-      "order_en": 2
+      "order": 3,
+      "order_en": 3
     },
     {
       "id": "f_vol_klu_af_namibia_m1_k4",
@@ -183280,11 +183354,12 @@
       "type": "link",
       "icon": "",
       "name": "NDF Raptors",
-      "desc": "región Khomas — tím Namíbijských obranných síl; v 3. kole sezóny 2026 v Katima Mulilo zdolal majstra ročníka 2025 NCS 3:2 a ukončil jeho sériu bez prehry. Vlastný web nemá, odkaz vedie na facebookovú stránku volejbalového klubu NDF.",
-      "desc_en": "Khomas region — the Namibian Defence Force team; in round 3 of the 2026 season in Katima Mulilo it beat 2025 champions NCS 3–2, ending their unbeaten run. It has no website of its own, so the link goes to the Facebook page of the NDF volleyball club.",
-      "url": "https://www.facebook.com/Club.NDF",
-      "order": 3,
-      "order_en": 3
+      "desc": "región Khomas — tím Namíbijských obranných síl; v 3. kole sezóny 2026 v Katima Mulilo zdolal majstra ročníka 2025 NCS 3:2 a ukončil jeho sériu bez prehry. Vlastný web nemá, odkaz vedie na instagramový účet volejbalového klubu NDF.",
+      "desc_en": "Khomas region — the Namibian Defence Force team; in round 3 of the 2026 season in Katima Mulilo it beat 2025 champions NCS 3–2, ending their unbeaten run. It has no website of its own, so the link goes to the Instagram account of the NDF volleyball club.",
+      "url": "https://www.instagram.com/ndf_volleyball_club/",
+      "order": 6,
+      "order_en": 6,
+      "fb": "https://www.facebook.com/Club.NDF/"
     },
     {
       "id": "f_vol_klu_af_benin_m1",
@@ -183697,9 +183772,9 @@
       "type": "link",
       "icon": "",
       "name": "Jeshi Stars",
-      "desc": "Dar es Salaam — armádny klub založený v roku 1998 (podľa Volleyboxu), vicemajster TVNL 2025 a semifinalista ročníka 2026. Facebook stojí od roku 2017 a Instagram od júna 2026, odkaz preto vedie na profil tímu v databáze Volleybox.",
-      "desc_en": "Dar es Salaam — an army club founded in 1998 (according to Volleybox), TVNL runners-up in 2025 and semi-finalists in 2026. Its Facebook page has been inactive since 2017 and its Instagram since June 2026, so the link goes to the team’s profile in the Volleybox database.",
-      "url": "https://volleybox.net/jeshi-stars-t20800",
+      "desc": "Dar es Salaam — armádny klub založený v roku 1998 (podľa Volleyboxu), vicemajster TVNL 2025 a semifinalista ročníka 2026. Facebook stojí od roku 2017, odkaz preto vedie na jeho instagramový účet.",
+      "desc_en": "Dar es Salaam — an army club founded in 1998 (according to Volleybox), TVNL runners-up in 2025 and semi-finalists in 2026. Its Facebook page has been inactive since 2017, so the link goes to its Instagram account.",
+      "url": "https://www.instagram.com/jeshi_stars/",
       "order": 3,
       "order_en": 3
     },
@@ -183820,11 +183895,12 @@
       "type": "link",
       "icon": "",
       "name": "Goiás Vôlei",
-      "desc": "Goiânia — v sezóne 2026/27 hrá ako Saneago Goiás Vôlei, základnú časť 2025/26 skončil ôsmy. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Goiânia — playing as Saneago Goiás Vôlei in 2026/27, the club finished eighth in the 2025/26 regular season. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/goiasvolei/",
+      "desc": "Goiânia — v sezóne 2026/27 hrá ako Saneago Goiás Vôlei, základnú časť 2025/26 skončil ôsmy. Vlastný web nemá, odkaz vedie na jeho oficiálny instagramový účet.",
+      "desc_en": "Goiânia — playing as Saneago Goiás Vôlei in 2026/27, the club finished eighth in the 2025/26 regular season. It has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/goiasvolei/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/goiasvolei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k2",
@@ -183836,7 +183912,9 @@
       "desc_en": "Belo Horizonte — seven-time Brazilian champions (most recently in 2006/07), playing as Itambé Minas in 2026/27. The link goes to the volleyball section of the club’s official website.",
       "url": "https://minastenisclube.com.br/esportes/volei-masculino/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/mtcvolei/",
+      "ig": "https://www.instagram.com/mtcvolei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k3",
@@ -183860,7 +183938,9 @@
       "desc_en": "Montes Claros in the state of Minas Gerais — the team was founded in Goiás in 1998 and moved to Montes Claros before the 2013/14 season; it won promotion to the 2026/27 Superliga as runner-up of the second-tier Superliga B.",
       "url": "https://montesclarosvolei.com.br/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/VoleiMontesClarosOficial/",
+      "ig": "https://www.instagram.com/montesclarosvoleioficial/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k5",
@@ -183884,7 +183964,9 @@
       "desc_en": "Uberlândia — the multi-sport club’s men’s team finished third in the 2025/26 regular season; it plays in the Superliga as Praia Clube Uberlândia Vôlei. The link goes to the volleyball section of the club’s official website.",
       "url": "https://praiaclube.org.br/volei-masculino/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/uberlandiavolei/",
+      "ig": "https://www.instagram.com/uberlandiavoleipraiaclube/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k7",
@@ -183896,7 +183978,9 @@
       "desc_en": "Contagem near Belo Horizonte — record ten-time Brazilian champions, including 2024/25 and 2025/26, when they beat Vôlei Renata in the final.",
       "url": "https://www.sadacruzeiro.com.br/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/SadaCruzeiro/",
+      "ig": "https://www.instagram.com/sadacruzeiro/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k8",
@@ -183904,11 +183988,12 @@
       "type": "link",
       "icon": "",
       "name": "Sesi Bauru",
-      "desc": "Bauru — mužský tím SESI São Paulo, majster Brazílie 2010/11 a 2023/24, základnú časť 2025/26 skončil deviaty. Odkaz vedie na volejbalovú stránku SESI-SP, ktorá predstavuje mužský aj ženský tím.",
-      "desc_en": "Bauru — the SESI São Paulo men’s team, Brazilian champions in 2010/11 and 2023/24, finished ninth in the 2025/26 regular season. The link goes to the SESI-SP volleyball page, which covers both the men’s and the women’s team.",
-      "url": "https://www.sesisp.org.br/esporte/esporte/volei",
+      "desc": "Bauru — mužský tím SESI São Paulo, majster Brazílie 2010/11 a 2023/24, základnú časť 2025/26 skončil deviaty. Odkaz vedie na oficiálnu facebookovú stránku volejbalu SESI-SP.",
+      "desc_en": "Bauru — the SESI São Paulo men’s team, Brazilian champions in 2010/11 and 2023/24, finished ninth in the 2025/26 regular season. The link goes to the official Facebook page of SESI-SP volleyball.",
+      "url": "https://www.facebook.com/sesisp.volei/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/sesisp.volei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k9",
@@ -183920,7 +184005,9 @@
       "desc_en": "Suzano in the state of São Paulo — the club finished fifth in the 2025/26 Superliga regular season.",
       "url": "https://suzanovoleioficial.com.br/",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "fb": "https://www.facebook.com/suzanovoleioficial/",
+      "ig": "https://www.instagram.com/suzanovolei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k10",
@@ -183928,11 +184015,12 @@
       "type": "link",
       "icon": "",
       "name": "Vôlei Guarulhos",
-      "desc": "Guarulhos v štáte São Paulo — základnú časť 2025/26 skončil šiesty a jeho Bryan bol najlepším strelcom súťaže. Doména voleiguarulhos.com.br ukazuje len predvolenú stránku hostingu, odkaz preto vedie na oficiálnu facebookovú stránku klubu.",
-      "desc_en": "Guarulhos in the state of São Paulo — the club finished sixth in the 2025/26 regular season and its Bryan was the league’s top scorer. The voleiguarulhos.com.br domain shows only a hosting placeholder, so the link goes to the club’s official Facebook page.",
-      "url": "https://www.facebook.com/voleigru/",
+      "desc": "Guarulhos v štáte São Paulo — základnú časť 2025/26 skončil šiesty a jeho Bryan bol najlepším strelcom súťaže. Doména voleiguarulhos.com.br ukazuje len predvolenú stránku hostingu, odkaz preto vedie na oficiálny instagramový účet klubu.",
+      "desc_en": "Guarulhos in the state of São Paulo — the club finished sixth in the 2025/26 regular season and its Bryan was the league’s top scorer. The voleiguarulhos.com.br domain shows only a hosting placeholder, so the link goes to the club’s official Instagram account.",
+      "url": "https://www.instagram.com/voleiguarulhos/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/voleigru/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k11",
@@ -183944,7 +184032,9 @@
       "desc_en": "Campinas — Brazilian runners-up three seasons in a row (2023/24, 2024/25 and 2025/26), losing all three finals.",
       "url": "https://voleirenata.com.br/",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "fb": "https://www.facebook.com/VoleiRenata/",
+      "ig": "https://www.instagram.com/voleirenata/"
     },
     {
       "id": "f_vol_klu_ja_brazil_m1_k12",
@@ -183956,7 +184046,9 @@
       "desc_en": "São José dos Campos in the state of São Paulo — playing as Viapol Vôlei São José in 2026/27, the club finished tenth in the 2025/26 regular season.",
       "url": "https://aamv.com.br/",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "fb": "https://www.facebook.com/viapolvoleisaojose/",
+      "ig": "https://www.instagram.com/viapolvoleisjc/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1",
@@ -183995,7 +184087,8 @@
       "desc_en": "Brusque in the state of Santa Catarina — playing in the Superliga as Abel Moda Vôlei, the club won the 2026 Superliga B, beating Pinheiros in the final, and returned to the top flight. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/abelmodavolei/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/abelvoleibrusque/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k2",
@@ -184007,7 +184100,8 @@
       "desc_en": "Barueri in the state of São Paulo — Barueri Volleyball Club plays in the Superliga in partnership with Club Athletico Paulistano as Paulistano Barueri, and were São Paulo state runners-up in 2025. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/baruerivolleyballclub/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/baruerivolleyballclub/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k3",
@@ -184019,7 +184113,9 @@
       "desc_en": "Brasília — Brasília Vôlei Esporte Clube represents the Federal District; it fields a women’s team in the Superliga, while its men played in the second-tier Superliga B in 2025/26.",
       "url": "https://timebrasiliavolei.com.br/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/BrasiliaVolei/",
+      "ig": "https://www.instagram.com/brasiliavolei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k4",
@@ -184039,11 +184135,12 @@
       "type": "link",
       "icon": "",
       "name": "Londrina",
-      "desc": "Londrina v štáte Paraná — tím združenia AMAVOLEI, ktorý hral pod menom Sancor Seguros Vôlei v Maringá, sa pred sezónou 2026/27 presťahoval do haly Moringão v Londrine. Odkaz vedie na web združenia AMAVOLEI.",
-      "desc_en": "Londrina in the state of Paraná — the AMAVOLEI team that played as Sancor Seguros Vôlei in Maringá moved to the Moringão arena in Londrina before the 2026/27 season. The link goes to the AMAVOLEI association’s website.",
-      "url": "https://amavolei.com.br/",
+      "desc": "Londrina v štáte Paraná — tím združenia AMAVOLEI, ktorý hral pod menom Sancor Seguros Vôlei v Maringá, sa pred sezónou 2026/27 presťahoval do haly Moringão v Londrine. Odkaz vedie na oficiálny instagramový účet tímu.",
+      "desc_en": "Londrina in the state of Paraná — the AMAVOLEI team that played as Sancor Seguros Vôlei in Maringá moved to the Moringão arena in Londrina before the 2026/27 season. The link goes to the team’s official Instagram account.",
+      "url": "https://www.instagram.com/sancorsegurosvolei/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/Unilifemaringa/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k6",
@@ -184051,9 +184148,9 @@
       "type": "link",
       "icon": "",
       "name": "Mackenzie",
-      "desc": "Belo Horizonte — klub známy výchovou hráčok, začínala v ňom dvojnásobná olympijská víťazka Sheilla Castro; v Superlige hrá ako Batavo Mackenzie. Odkaz vedie na volejbalovú sekciu oficiálneho webu klubu.",
-      "desc_en": "Belo Horizonte — a club known for developing players, where two-time Olympic champion Sheilla Castro began her career; it plays in the Superliga as Batavo Mackenzie. The link goes to the volleyball section of the club’s official website.",
-      "url": "https://mackenziebh.com.br/esportes/voleibol/",
+      "desc": "Belo Horizonte — klub známy výchovou hráčok, začínala v ňom dvojnásobná olympijská víťazka Sheilla Castro; v Superlige hrá ako Batavo Mackenzie. Odkaz vedie na oficiálny instagramový účet ženského tímu.",
+      "desc_en": "Belo Horizonte — a club known for developing players, where two-time Olympic champion Sheilla Castro began her career; it plays in the Superliga as Batavo Mackenzie. The link goes to the official Instagram account of the women’s team.",
+      "url": "https://www.instagram.com/mackenzievolei/",
       "order": 5,
       "order_en": 5
     },
@@ -184067,7 +184164,9 @@
       "desc_en": "Belo Horizonte — six-time Brazilian champions (most recently in 2023/24) and 2025/26 runners-up, playing as Gerdau Minas in 2026/27. The link goes to the volleyball section of the club’s official website.",
       "url": "https://minastenisclube.com.br/esportes/volei-feminino/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/mtcvolei/",
+      "ig": "https://www.instagram.com/mtcvolei/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k8",
@@ -184079,7 +184178,9 @@
       "desc_en": "Osasco in the state of São Paulo — Osasco Voleibol Clube are six-time Brazilian champions (most recently in 2024/25) and have played as Osasco São Cristóvão Saúde since 2021/22.",
       "url": "https://osascovoleibol.com.br/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "fb": "https://www.facebook.com/osascovoleibolclube/",
+      "ig": "https://www.instagram.com/osascovoleibolclube/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k9",
@@ -184115,7 +184216,8 @@
       "desc_en": "Rio de Janeiro — Rio de Janeiro Vôlei Clube are record twelve-time Brazilian champions (most recently in 2016/17) and have played in partnership with Flamengo and Sesc since 2020/21. The link goes to the volleyball news on Flamengo’s website.",
       "url": "https://www.flamengo.com.br/noticias/volei",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "ig": "https://www.instagram.com/sescrjflamengo/"
     },
     {
       "id": "f_vol_klu_ja_brazil_z1_k12",
@@ -184123,11 +184225,12 @@
       "type": "link",
       "icon": "",
       "name": "Sesi Bauru",
-      "desc": "Bauru — ženský tím Sesi Vôlei Bauru bol vicemajstrom Brazílie 2024/25. Odkaz vedie na volejbalovú stránku SESI-SP, ktorá predstavuje ženský aj mužský tím.",
-      "desc_en": "Bauru — the Sesi Vôlei Bauru women’s team were Brazilian runners-up in 2024/25. The link goes to the SESI-SP volleyball page, which covers both the women’s and the men’s team.",
-      "url": "https://www.sesisp.org.br/esporte/esporte/volei",
+      "desc": "Bauru — ženský tím Sesi Vôlei Bauru bol vicemajstrom Brazílie 2024/25. Odkaz vedie na oficiálnu facebookovú stránku tímu.",
+      "desc_en": "Bauru — the Sesi Vôlei Bauru women’s team were Brazilian runners-up in 2024/25. The link goes to the team’s official Facebook page.",
+      "url": "https://www.facebook.com/voleibolfemininobauru/",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "ig": "https://www.instagram.com/sesivoleibauru/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1",
@@ -184136,8 +184239,8 @@
       "icon": "ar",
       "name": "Superliga mužov",
       "name_en": "Superliga (men)",
-      "desc": "Najvyššia argentínska mužská volejbalová súťaž, ktorú organizuje ACLAV — od sezóny 2026/27 sa volá Superliga Argentina de Voleibol, predtým Liga de Voleibol Argentina. Zloženie ročníka 2026/27 zatiaľ nie je zverejnené, v priečinku je 10 klubov sezóny 2025/26, ktorú vyhral UPCN San Juan Vóley.",
-      "desc_en": "Argentina’s top men’s volleyball competition, run by ACLAV — from the 2026/27 season it is called Superliga Argentina de Voleibol, formerly Liga de Voleibol Argentina. The 2026/27 line-up has not been announced yet, so the folder lists the 10 clubs of the 2025/26 season, won by UPCN San Juan Vóley.",
+      "desc": "Najvyššia argentínska mužská volejbalová súťaž, ktorú organizuje ACLAV — od sezóny 2026/27 sa volá Superliga Argentina de Voleibol, predtým Liga de Voleibol Argentina. V priečinku je 10 klubov ročníka 2026/27 podľa zoznamu ACLAV (nováčikmi sú Ferro Carril Oeste a Sonder); titul 2025/26 získal UPCN San Juan Vóley.",
+      "desc_en": "Argentina’s top men’s volleyball competition, run by ACLAV — from the 2026/27 season it is called Superliga Argentina de Voleibol, formerly Liga de Voleibol Argentina. The folder lists the 10 clubs of the 2026/27 season according to ACLAV (newcomers Ferro Carril Oeste and Sonder); the 2025/26 title went to UPCN San Juan Vóley.",
       "order": 0,
       "order_en": 0,
       "slug": "superliga-muzov",
@@ -184178,19 +184281,8 @@
       "desc_en": "Buenos Aires — three-time Argentine champions (2022/23, 2023/24, 2024/25); in 2025/26 they topped the regular season and lost the final to UPCN San Juan. Home games are played at the Gorki Grana arena in Morón. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ClubCiudadVoley/",
       "order": 1,
-      "order_en": 1
-    },
-    {
-      "id": "f_vol_klu_ja_argentina_m1_k3",
-      "parentId": "f_vol_klu_ja_argentina_m1",
-      "type": "link",
-      "icon": "",
-      "name": "Defensores de Banfield",
-      "desc": "Banfield v provincii Buenos Aires — v sezóne 2025/26 skončil ôsmy, vo štvrťfinále ho vyradil Ciudad Vóley. Odkaz vedie na oficiálnu facebookovú stránku volejbalového oddielu.",
-      "desc_en": "Banfield in Buenos Aires Province — the club finished eighth in 2025/26, knocked out by Ciudad Vóley in the quarter-finals. The link goes to the volleyball section’s official Facebook page.",
-      "url": "https://www.facebook.com/voley.defensoresdebanfield.1/",
-      "order": 2,
-      "order_en": 2
+      "order_en": 1,
+      "ig": "https://www.instagram.com/ciudadvoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k4",
@@ -184202,7 +184294,8 @@
       "desc_en": "Monteros in Tucumán Province — the club finished third in the 2025/26 season. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/monterosvoley/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/monterosvoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k5",
@@ -184214,7 +184307,8 @@
       "desc_en": "Buenos Aires — Argentine champions in 1998/99, sixth in the 2025/26 season. The link goes to the volleyball page of the club’s website, shared by the men’s and women’s teams.",
       "url": "https://www.riverplate.com/deportes/voley",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/riverplate.voleibol/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k6",
@@ -184226,19 +184320,8 @@
       "desc_en": "Buenos Aires, Boedo — the San Lorenzo de Almagro men’s team finished seventh in 2025/26. The link goes to the volleyball section of the club’s official website.",
       "url": "https://www.sanlorenzo.com.ar/deportes/voley-masculino",
       "order": 5,
-      "order_en": 5
-    },
-    {
-      "id": "f_vol_klu_ja_argentina_m1_k7",
-      "parentId": "f_vol_klu_ja_argentina_m1",
-      "type": "link",
-      "icon": "",
-      "name": "Tucumán de Gimnasia",
-      "desc": "San Miguel de Tucumán — v sezóne 2025/26 došiel do semifinále a skončil štvrtý. Doména clubtucumandegimnasia.com nefunguje, odkaz preto vedie na oficiálnu facebookovú stránku klubu, ktorá informuje o mužskom aj ženskom volejbale.",
-      "desc_en": "San Miguel de Tucumán — the club reached the 2025/26 semi-finals and finished fourth. The clubtucumandegimnasia.com domain does not work, so the link goes to the club’s official Facebook page, which covers both men’s and women’s volleyball.",
-      "url": "https://www.facebook.com/ClubTucumanDeGimnasia/",
-      "order": 6,
-      "order_en": 6
+      "order_en": 5,
+      "ig": "https://www.instagram.com/caslavoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k8",
@@ -184250,7 +184333,8 @@
       "desc_en": "San Juan — record ten-time Argentine champions, most recently in 2025/26, when they beat Ciudad Vóley in the final; their home arena is the Estadio Aldo Cantoni. The upcnvoley.com.ar domain is now just a parked page, so the link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/UPCNVoleySJ/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/upcnvoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k9",
@@ -184274,7 +184358,8 @@
       "desc_en": "Comodoro Rivadavia in Chubut Province — the Patagonian club plays at the Estadio Socios Fundadores and finished ninth in 2025/26. The waiwenvoley.com domain listed on its Facebook page does not work, so the link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/waiwenvolley/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "ig": "https://www.instagram.com/waiwenvoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1",
@@ -184349,7 +184434,8 @@
       "desc_en": "Bell Ville in Córdoba Province — Club Atlético y Biblioteca Bell returned to the Liga Argentina in 2026 and finished fourth in the regular season. The link goes to the volleyball news on the club’s website.",
       "url": "https://www.cabell.com.ar/noticias/voley/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/voley_bell/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k5",
@@ -184357,11 +184443,12 @@
       "type": "link",
       "icon": "",
       "name": "Ferro Carril Oeste",
-      "desc": "Buenos Aires — v ročníku 2026 skončil v základnej časti ôsmy. Web klubu blokuje antivírus ako nebezpečný a volejbalová facebooková stránka je od roku 2023 neaktívna, odkaz preto vedie na oficiálny instagramový účet volejbalového oddielu.",
-      "desc_en": "Buenos Aires — the club finished eighth in the 2026 regular season. The club’s website is blocked by antivirus software as unsafe and the volleyball Facebook page has been inactive since 2023, so the link goes to the volleyball section’s official Instagram account.",
-      "url": "https://www.instagram.com/ferrovoley/",
+      "desc": "Buenos Aires — v ročníku 2026 skončil v základnej časti ôsmy. Odkaz vedie na volejbalovú rubriku oficiálneho webu klubu.",
+      "desc_en": "Buenos Aires — the club finished eighth in the 2026 regular season. The link goes to the volleyball section of the club’s official website.",
+      "url": "https://www.ferrocarriloeste.org.ar/categoria/voley/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/ferrovoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k6",
@@ -184409,7 +184496,8 @@
       "desc_en": "Buenos Aires — four-time Argentine champions (1998/99, 2004/05, 2005/06, 2006/07), tenth in the 2026 regular season. The link goes to the volleyball page of the club’s website, shared by the men’s and women’s teams.",
       "url": "https://www.riverplate.com/deportes/voley",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/riverplate.voleibol/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k10",
@@ -184433,7 +184521,8 @@
       "desc_en": "Buenos Aires, Boedo — Argentine champions in 2021, seventh in the 2026 regular season. The link goes to the volleyball section of the club’s official website.",
       "url": "https://www.sanlorenzo.com.ar/deportes/voley-femenino",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "ig": "https://www.instagram.com/caslavoley/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k12",
@@ -184445,7 +184534,8 @@
       "desc_en": "Rosario — Club Sonder Rosario, a volleyball-focused club, finished second in the 2026 regular season and reached the semi-finals. The club only has an information page on the website of the clothing brand of the same name, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ClubSonderRosario/",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "ig": "https://www.instagram.com/club.sonder/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k13",
@@ -184457,7 +184547,8 @@
       "desc_en": "San Miguel de Tucumán — as runners-up of the 2026 Liga Nacional (a 2–3 defeat to Glorias Argentinas) the club was promoted to the 2027 Liga Argentina. The clubtucumandegimnasia.com domain does not work, so the link goes to the club’s official Facebook page, which covers both men’s and women’s volleyball.",
       "url": "https://www.facebook.com/ClubTucumanDeGimnasia/",
       "order": 12,
-      "order_en": 12
+      "order_en": 12,
+      "ig": "https://www.instagram.com/tucumandegimnasia/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k14",
@@ -184516,11 +184607,12 @@
       "type": "link",
       "icon": "",
       "name": "DC Asociados",
-      "desc": "Tacna — mužský klub z juhu Peru, v ročníku 2025 ôsmy po základnej časti a štvrťfinalista. Facebookovú stránku klubu nepoužíva od roku 2023, odkaz preto vedie na jeho oficiálny instagramový účet.",
-      "desc_en": "Tacna — a men’s club from southern Peru, eighth after the 2025 regular season and quarter-finalists. The club has not used its Facebook page since 2023, so the link goes to its official Instagram account.",
-      "url": "https://www.instagram.com/dc.asociadosoficial/",
+      "desc": "Tacna — mužský klub z juhu Peru, v ročníku 2025 ôsmy po základnej časti a štvrťfinalista. Sociálne siete klubu v poslednom čase stoja, odkaz preto vedie na profil klubu na Volleyboxe.",
+      "desc_en": "Tacna — a men’s club from southern Peru, eighth after the 2025 regular season and quarter-finalists. The club’s social media have been quiet lately, so the link goes to its profile on Volleybox.",
+      "url": "https://volleybox.net/dc-asociados-de-tacna-t6741",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/dc.asociadosoficial/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k2",
@@ -184528,11 +184620,12 @@
       "type": "link",
       "icon": "",
       "name": "Fla Vóley",
-      "desc": "Lima — klub so sídlami v Comase a Surcu, v ročníku 2025 šiesty po základnej časti a štvrťfinalista. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Lima — a club based in Comas and Surco, sixth after the 2025 regular season and a quarter-finalist. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/ClubFlaVoley",
+      "desc": "Lima — klub so sídlami v Comase a Surcu, v ročníku 2025 šiesty po základnej časti a štvrťfinalista. Vlastný web nemá, odkaz vedie na jeho oficiálny instagramový účet.",
+      "desc_en": "Lima — a club based in Comas and Surco, sixth after the 2025 regular season and a quarter-finalist. It has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/clubflavoley/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/ClubFlaVoley/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k3",
@@ -184568,7 +184661,8 @@
       "desc_en": "Lima, San Miguel — a volleyball school promoted to the top flight in 2025 that finished fourth in its first season. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063718891798",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/mbvoley/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k6",
@@ -184604,7 +184698,8 @@
       "desc_en": "Lima, Comas — ADC San Antonio were seventh after the 2025 regular season and quarter-finalists. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/adc.sanantoniovoleibol/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/sanantoniovoleibol/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k9",
@@ -184616,7 +184711,8 @@
       "desc_en": "Lima, Pueblo Libre — entered the 2025 season as the 2024 champions and finished third. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100075727636111",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/vamos_peerless/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k10",
@@ -184628,7 +184724,8 @@
       "desc_en": "Lima, San Juan de Lurigancho — founded in 2001, runners-up in the 2025 Peruvian league. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ClubVonNewman/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "ig": "https://www.instagram.com/club_vonnewman/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1",
@@ -184667,7 +184764,9 @@
       "desc_en": "Lima — the women’s volleyball side of the famous football club; in 2025/26 they won a third straight title, beating USMP 2–1 in the final series. The link goes to the volleyball page of the club’s official website.",
       "url": "https://clubalianzalima.com.pe/#/plantilla/voley",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/ClubAlianzaLimaVoley/",
+      "ig": "https://www.instagram.com/alianzalimavoley/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k2",
@@ -184679,7 +184778,9 @@
       "desc_en": "Lima — a volleyball club with academies in La Victoria, La Molina, Chorrillos and Bellavista, sixth in 2025/26; its Nicole Pérez was the league’s top scorer (526 points).",
       "url": "https://caatenea.com/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/ca.atenea/",
+      "ig": "https://www.instagram.com/ca.atenea/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k3",
@@ -184691,7 +184792,8 @@
       "desc_en": "Lima, Pueblo Libre — the Italian community club founded in 1917, two-time Peruvian champions, seventh in 2025/26. The volleyball page on circolo.pe is empty, so the link goes to the whole club’s official Facebook page, which also covers volleyball.",
       "url": "https://www.facebook.com/CircoloPeru/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/circolo.pe/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k4",
@@ -184703,7 +184805,8 @@
       "desc_en": "Lima, Comas — Club Cultural Deportivo Géminis, founded in 1967, three-time Peruvian champions, fourth in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/geminisvoley.pe/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/ccdgeminisvoleyoficial/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k5",
@@ -184727,7 +184830,8 @@
       "desc_en": "Lima — eleventh in 2025/26, but won all three games of the relegation play-off (Revalidación 2026) and kept its place. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/voley.wanka/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/deportivowanka.voley/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k7",
@@ -184739,7 +184843,8 @@
       "desc_en": "Lima, Pueblo Libre — Club Deportivo Latino Amisa plays in the league under the sponsored name Olva Latino and finished tenth in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/latinoamisaoficial/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/clublatinoamisa/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k8",
@@ -184751,7 +184856,8 @@
       "desc_en": "Callao — Deportivo Estudiantil Rebaza Acosta, ninth in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/rebazavoleibol/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/rebazavoleibol/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k9",
@@ -184763,7 +184869,8 @@
       "desc_en": "Lima, Chorrillos — Peru’s most successful women’s club with nine titles (eight in the Liga Nacional Superior), fifth in 2025/26. The link goes to the volleyball news on the official Club de Regatas Lima website.",
       "url": "https://crl.pe/etiquetas/voley",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/regataslimavoley/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k10",
@@ -184775,7 +184882,8 @@
       "desc_en": "Lima — the USMP university club, five-time Peruvian champions and 2025/26 runners-up after the final against Alianza Lima. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/USMPVoley/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "ig": "https://www.instagram.com/usmpvoley/"
     },
     {
       "id": "f_vol_klu_ja_peru_z1_k11",
@@ -184787,7 +184895,9 @@
       "desc_en": "Lima — the women’s volleyball side of the Universitario football club; in 2025/26 they won the league’s first stage and took bronze, their first league medal. The link goes to the volleyball team page on the club’s official website, with the roster.",
       "url": "https://universitario.pe/equipo/voley",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "fb": "https://www.facebook.com/voleyuniversitario1924/",
+      "ig": "https://www.instagram.com/voleyuniversitario1924/"
     },
     {
       "id": "f_vol_klu_ja_colombia_m1",
@@ -184846,11 +184956,12 @@
       "type": "link",
       "icon": "",
       "name": "Dark Side Karma",
-      "desc": "Bogota — spoločný tím klubov Dark Side a Karma Volley Club, v Superlige 2026 štvrtý v základnej časti. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Superligy s výsledkami zápasov.",
-      "desc_en": "Bogotá — a joint team of the Dark Side and Karma Volley Club clubs, fourth in the 2026 Superliga regular season. It has neither a website nor an active social media account, so the link goes to its profile on the Superliga portal with match results.",
-      "url": "https://supervolley.co/equipo/dark-side-karma/",
+      "desc": "Bogota — spoločný tím klubov Dark Side a Karma Volley Club, v Superlige 2026 štvrtý v základnej časti. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Bogotá — a joint team of the Dark Side and Karma Volley Club clubs, fourth in the 2026 Superliga regular season. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/karmavolleyclub/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/karmavoley/"
     },
     {
       "id": "f_vol_klu_ja_colombia_m1_k4",
@@ -184874,7 +184985,8 @@
       "desc_en": "Bogotá — Club Deportivo LifeVolley, fifth in the 2026 Superliga regular season, losing 2–3 to eventual champions Colombia Más in the semi-final. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/club_lifevolley/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/LifeVolley/"
     },
     {
       "id": "f_vol_klu_ja_colombia_m1_k6",
@@ -184894,9 +185006,9 @@
       "type": "link",
       "icon": "",
       "name": "Parma",
-      "desc": "Bogota — Club Deportivo Parma Voleibol so sídlom v štvrti Serafina, v Superlige 2026 šiesty v základnej časti. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Superligy s výsledkami zápasov.",
-      "desc_en": "Bogotá — Club Deportivo Parma Voleibol, based in the Serafina district, sixth in the 2026 Superliga regular season. It has neither a website nor an active social media account, so the link goes to its profile on the Superliga portal with match results.",
-      "url": "https://supervolley.co/equipo/parma/",
+      "desc": "Bogota — Club Deportivo Parma Voleibol so sídlom v štvrti Serafina, v Superlige 2026 šiesty v základnej časti. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Bogotá — Club Deportivo Parma Voleibol, based in the Serafina district, sixth in the 2026 Superliga regular season. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/club_parmavoleibol/",
       "order": 6,
       "order_en": 6
     },
@@ -184906,9 +185018,9 @@
       "type": "link",
       "icon": "",
       "name": "Uniandina",
-      "desc": "Tím Superligy, v ročníku 2026 desiaty v základnej časti s jedinou výhrou. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Superligy s výsledkami zápasov.",
-      "desc_en": "A Superliga team, tenth in the 2026 regular season with a single win. It has neither a website nor an active social media account, so the link goes to its profile on the Superliga portal with match results.",
-      "url": "https://supervolley.co/equipo/uniandina/",
+      "desc": "Tím Superligy, v ročníku 2026 desiaty v základnej časti s jedinou výhrou. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "A Superliga team, tenth in the 2026 regular season with a single win. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/voley.area.andina/",
       "order": 7,
       "order_en": 7
     },
@@ -184922,7 +185034,8 @@
       "desc_en": "Bogotá — Ushuaia Volley Club, an indoor and beach volleyball club; second in the 2026 Superliga regular season and runners-up after the final against Colombia Más. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ushuaiavolleyclub",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/ushuaia.volley/"
     },
     {
       "id": "f_vol_klu_ja_colombia_m1_k10",
@@ -184934,7 +185047,9 @@
       "desc_en": "Bogotá — Vissel Volley Club from the north of the city, seventh in the 2026 Superliga regular season. The link goes to the club’s official website.",
       "url": "https://visselvolleyclub.com/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/VisselVolleyClub/",
+      "ig": "https://www.instagram.com/visselvolleyclub/"
     },
     {
       "id": "f_vol_klu_ja_colombia_z1",
@@ -184973,7 +185088,8 @@
       "desc_en": "Bogotá — the Atlas Bogotá volleyball club, which won the 2026 Superliga at its first attempt: top of the regular season, then a 3–2 final win over CVJ. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/Atlasbogotavoleibol",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/atlasbogota_voleibol/"
     },
     {
       "id": "f_vol_klu_ja_colombia_z1_k2",
@@ -185017,9 +185133,9 @@
       "type": "link",
       "icon": "",
       "name": "Dragons",
-      "desc": "Tím Superligy, v ročníku 2026 ôsmy v základnej časti. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Superligy s výsledkami zápasov.",
-      "desc_en": "A Superliga team, eighth in the 2026 regular season. It has neither a website nor an active social media account, so the link goes to its profile on the Superliga portal with match results.",
-      "url": "https://supervolley.co/equipo/dragons/",
+      "desc": "Tím Superligy, v ročníku 2026 ôsmy v základnej časti. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "A Superliga team, eighth in the 2026 regular season. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/dragonsvolley/",
       "order": 4,
       "order_en": 4
     },
@@ -185033,7 +185149,8 @@
       "desc_en": "Bogotá — the volleyball team of the Club Ecopetrol social and sports club, last (eleventh) in the 2026 Superliga. The club’s website does not cover volleyball, so the link goes to the official Instagram of its sports section.",
       "url": "https://www.instagram.com/deportesclubecopetrol/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/profile.php?id=100094215469641"
     },
     {
       "id": "f_vol_klu_ja_colombia_z1_k7",
@@ -185065,11 +185182,12 @@
       "type": "link",
       "icon": "",
       "name": "Master",
-      "desc": "Bogota — Club Voley Master Colombia, klub mládežníckeho aj výkonnostného volejbalu, v Superlige 2026 siedmy v základnej časti. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Bogotá — Club Voley Master Colombia, a youth and performance volleyball club, seventh in the 2026 Superliga regular season. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=100064704696819",
+      "desc": "Bogota — Club Voley Master Colombia, klub mládežníckeho aj výkonnostného volejbalu, v Superlige 2026 siedmy v základnej časti. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Superligy s výsledkami zápasov.",
+      "desc_en": "Bogotá — Club Voley Master Colombia, a youth and performance volleyball club, seventh in the 2026 Superliga regular season. It has neither a website nor an active social media account, so the link goes to its profile on the Superliga portal with match results.",
+      "url": "https://supervolley.co/equipo/master/",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "fb": "https://www.facebook.com/profile.php?id=100064704696819"
     },
     {
       "id": "f_vol_klu_ja_colombia_z1_k10",
@@ -185128,9 +185246,9 @@
       "type": "link",
       "icon": "",
       "name": "Arrieta-CDV",
-      "desc": "Montevideo — spoločný tím klubov Arrieta a Centro Desarrollo Voleibol (CDV), ktorý vyhral divíziu A v Apertura 2026 (finále 3:1 nad tímom Juan Ferreira) a na Clausura 2026 postúpil do Primera División. Odkaz vedie na oficiálny web CDV.",
-      "desc_en": "Montevideo — a joint team of the Arrieta and Centro Desarrollo Voleibol (CDV) clubs, which won Division A in the 2026 Apertura (a 3–1 final win over a Juan Ferreira team) and moved up to the Primera División for the 2026 Clausura. The link goes to CDV’s official website.",
-      "url": "https://www.cdv.uy/",
+      "desc": "Montevideo — spoločný tím klubov Arrieta a Centro Desarrollo Voleibol (CDV), ktorý vyhral divíziu A v Apertura 2026 (finále 3:1 nad tímom Juan Ferreira) a na Clausura 2026 postúpil do Primera División. Odkaz vedie na oficiálny Instagram CDV.",
+      "desc_en": "Montevideo — a joint team of the Arrieta and Centro Desarrollo Voleibol (CDV) clubs, which won Division A in the 2026 Apertura (a 3–1 final win over a Juan Ferreira team) and moved up to the Primera División for the 2026 Clausura. The link goes to CDV’s official Instagram.",
+      "url": "https://www.instagram.com/centrodesarrollovoleibol/",
       "order": 0,
       "order_en": 0
     },
@@ -185156,7 +185274,8 @@
       "desc_en": "Montevideo — Club Banco República (CBR), a social and sports club fielding teams in both the men’s and women’s Primera División. It has neither a website nor an active volleyball social media account, so the link goes to the club’s official Facebook page, which also covers volleyball.",
       "url": "https://www.facebook.com/CBROficial/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/cbrvolleya/"
     },
     {
       "id": "f_vol_klu_ja_uruguay_m1_k4",
@@ -185263,9 +185382,9 @@
       "type": "link",
       "icon": "",
       "name": "Arrieta-CDV",
-      "desc": "Montevideo — ženský tím Centro Desarrollo Voleibol (CDV) v spolupráci s klubom Arrieta; CDV bol finalistom Liga Uruguaya 2025 (prehra 2:3 s Club Banco República). Odkaz vedie na oficiálny web CDV.",
-      "desc_en": "Montevideo — the women’s team of Centro Desarrollo Voleibol (CDV) in partnership with the Arrieta club; CDV were runners-up in the 2025 Liga Uruguaya (2–3 to Club Banco República). The link goes to CDV’s official website.",
-      "url": "https://www.cdv.uy/",
+      "desc": "Montevideo — ženský tím Centro Desarrollo Voleibol (CDV) v spolupráci s klubom Arrieta; CDV bol finalistom Liga Uruguaya 2025 (prehra 2:3 s Club Banco República). Odkaz vedie na oficiálny Instagram CDV.",
+      "desc_en": "Montevideo — the women’s team of Centro Desarrollo Voleibol (CDV) in partnership with the Arrieta club; CDV were runners-up in the 2025 Liga Uruguaya (2–3 to Club Banco República). The link goes to CDV’s official Instagram.",
+      "url": "https://www.instagram.com/centrodesarrollovoleibol/",
       "order": 0,
       "order_en": 0
     },
@@ -185291,7 +185410,8 @@
       "desc_en": "Montevideo — Club Banco República (CBR), winners of the 2025 Liga Uruguaya (3–2 over CDV in the final on 9 November 2025) and the 2026 Apertura (3–2 over Juan Ferreira in the final); a 2026 South American Club Championship participant. It has neither a website nor an active volleyball social media account, so the link goes to the club’s official Facebook page, which also covers volleyball.",
       "url": "https://www.facebook.com/CBROficial/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/cbrvolley/"
     },
     {
       "id": "f_vol_klu_ja_uruguay_z1_k4",
@@ -185390,7 +185510,8 @@
       "desc_en": "Santiago — a club that finished third in the Liga A1 in 2017/18 and eleventh in 2025/26. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ALIANZARIVERAVOLEY/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/voleyarv/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k2",
@@ -185402,7 +185523,8 @@
       "desc_en": "Las Condes (Santiago) — the volleyball branch of the Estadio Español social and sports club, whose men played the Liga A1 for the first time in 2025/26 and went out to Murano in the quarter-finals. The link goes to the volleyball page of the club website, with news.",
       "url": "https://eespanol.cl/deportes/voleibol/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/voleibol.eespanol/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k3",
@@ -185410,11 +185532,12 @@
       "type": "link",
       "icon": "",
       "name": "Excelsior",
-      "desc": "Santiago — Club Deportivo Excelsior, majster Ligy A1 v sezóne 2021/22 a finalista v sezóne 2022/23. Vlastná doména excelsiorclub.cl už neexistuje, odkaz vedie na oficiálnu facebookovú stránku klubu.",
-      "desc_en": "Santiago — Club Deportivo Excelsior, Liga A1 champions in 2021/22 and runners-up in 2022/23. Its own excelsiorclub.cl domain no longer exists, so the link goes to the club’s official Facebook page.",
-      "url": "https://www.facebook.com/ClubDeportivoExcelsior/",
+      "desc": "Santiago — Club Deportivo Excelsior, majster Ligy A1 v sezóne 2021/22 a finalista v sezóne 2022/23. Vlastná doména excelsiorclub.cl už neexistuje, odkaz vedie na oficiálny Instagram klubu.",
+      "desc_en": "Santiago — Club Deportivo Excelsior, Liga A1 champions in 2021/22 and runners-up in 2022/23. Its own excelsiorclub.cl domain no longer exists, so the link goes to the club’s official Instagram.",
+      "url": "https://www.instagram.com/club_excelsior/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/ClubDeportivoExcelsior/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k4",
@@ -185426,7 +185549,8 @@
       "desc_en": "Linares (Maule region) — Club Linares Voleibol, founded in 2008 and, with ten titles, the most successful club in Chilean volleyball; its latest Liga A1 title came in 2025/26 (the final against Murano went to a golden set). It has a second base in Santiago.",
       "url": "https://clublinares.cl/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/clublinaresvoleibol/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k5",
@@ -185438,7 +185562,9 @@
       "desc_en": "Santiago — Club Deportivo Murano, men’s Liga A1 champions in three straight seasons (2022/23 – 2024/25) and 2025/26 runners-up; the club’s women won the 2025/26 Liga A1. It also has a branch in Concepción.",
       "url": "https://www.clubmurano.cl/wp/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/ClubMuranoVoleibol/",
+      "ig": "https://www.instagram.com/muranovoley/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k6",
@@ -185450,7 +185576,8 @@
       "desc_en": "Concepción — the Murano club’s branch with its own men’s team in the Liga A1 (ninth in 2025/26), winners of the lower A3 and A2 leagues in 2024. The link goes to the branch’s official Instagram.",
       "url": "https://www.instagram.com/muranoconce/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/ClubMuranoVoleibol/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k7",
@@ -185462,7 +185589,8 @@
       "desc_en": "Santiago — the volleyball branch (Pallavolo) of the Italian community club Stadio Italiano, Liga A1 runners-up in 2021/22 and fourth in 2025/26. The link goes to the volleyball branch page on the club website.",
       "url": "https://www.stadioitaliano.cl/deportes/pallavolo",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/pallavolo.stadio.italiano/"
     },
     {
       "id": "f_vol_klu_ja_chile_m1_k8",
@@ -185561,7 +185689,8 @@
       "desc_en": "Oruro — Club Atlético Nacional (CAN), sixth in the 2025 Liga Superior, which kept its place in the league for 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/candeoruro/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/candeoruro/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_m1_k3",
@@ -185573,7 +185702,8 @@
       "desc_en": "La Paz — Club Deportivo Ejército, promoted to the Liga Superior in 2023 and third in the 2025 edition. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/VoleibolEjercito/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/deportivo_ejercito_voleibol_/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_m1_k4",
@@ -185585,7 +185715,8 @@
       "desc_en": "Santa Cruz de la Sierra — Maranatha Volley, fourth in the 2025 Liga Superior, which was held in Santa Cruz for the first time that year. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/Maranathavoley/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/maranatha_volley/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_m1_k5",
@@ -185597,7 +185728,8 @@
       "desc_en": "Cochabamba — Club Nimbles Voley, third in the 2023/24 Liga Superior and fifth in 2025. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/Clubnimblesvoley/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/clubnimbles_voley/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_m1_k6",
@@ -185609,7 +185741,8 @@
       "desc_en": "Cochabamba — Club Olympic, 2024 Liga Superior champions (in La Paz) and 2025 runners-up; the club’s women won the 2025 Liga Superior. It has no website of its own, so the link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/clubolympicoficial/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/clubolympicoficial/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_m1_k7",
@@ -185656,11 +185789,13 @@
       "type": "link",
       "icon": "",
       "name": "Cafeteros de Yauco",
-      "desc": "Yauco — majster LVSM 2025, ktorý vo finále ukončil nadvládu Caribes de San Sebastián (majstri 2023 a 2024); celkovo sedemnásobný majster, prvý titul získal v roku 1961. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Yauco — 2025 LVSM champions, ending the reign of Caribes de San Sebastián (champions in 2023 and 2024) in the final; seven-time champions overall, with their first title in 1961. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/CafeterosVoli/",
+      "desc": "Yauco — majster LVSM 2025, ktorý vo finále ukončil nadvládu Caribes de San Sebastián (majstri 2023 a 2024); celkovo sedemnásobný majster, prvý titul získal v roku 1961. Odkaz vedie na oficiálny web klubu.",
+      "desc_en": "Yauco — 2025 LVSM champions, ending the reign of Caribes de San Sebastián (champions in 2023 and 2024) in the final; seven-time champions overall, with their first title in 1961. The link goes to the club’s official website.",
+      "url": "https://cafeterosdeyauco.com/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/CafeterosVoli/",
+      "ig": "https://www.instagram.com/cafeterosdeyaucovolley/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_m1_k2",
@@ -185672,7 +185807,8 @@
       "desc_en": "Adjuntas — 1973 LVSM champions, back in the men’s league since 2023. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/gigantesdeadjuntas/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/gigantesdeadjuntaslvsm/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_m1_k3",
@@ -185684,7 +185820,8 @@
       "desc_en": "Carolina — LVSM champions in 2010 under the name Nuevos Gigantes de Carolina. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/gigantesvolleyball/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/giganteslvsm/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_m1_k4",
@@ -185696,7 +185833,8 @@
       "desc_en": "Naranjito — the league’s most successful club with 24 titles, winners of the very first season in 1958; most recently champions in 2021. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61573871384750",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/changosvoleibol/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_m1_k5",
@@ -185708,7 +185846,8 @@
       "desc_en": "Lares — four-time LVSM champions (1981, 1983, 1990, 2002). It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/patriotasdelareslvsm/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/patriotasdelareslvsm/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_m1_k6",
@@ -185720,7 +185859,8 @@
       "desc_en": "Corozal — nine-time LVSM champions, most recently in 2009/10. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/platanerosdecorozal/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/platanerosdecorozal/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1",
@@ -185759,7 +185899,8 @@
       "desc_en": "Manatí — runners-up behind Criollas de Caguas in the final 2025 standings. The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100083395688096",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/ateniensesdemanati/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1_k2",
@@ -185771,7 +185912,8 @@
       "desc_en": "San Juan (Santurce) — LVSF champions in 2024 and 2026; in 2026 they went unbeaten through the regular season (20–0) and swept Leonas de Ponce 4–0 in the final. The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/cangrejeraslvsf/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/cangrejeraslvsf/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1_k3",
@@ -185783,7 +185925,9 @@
       "desc_en": "Caguas — 15-time LVSF champions, most recently in 2025. The team’s official website with news, roster, standings and results.",
       "url": "https://www.lascriollasdecaguas.com/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/profile.php?id=100083092312986",
+      "ig": "https://www.instagram.com/oficialcriollasdecaguas/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1_k4",
@@ -185795,7 +185939,8 @@
       "desc_en": "Ponce — three-time LVSF champions (1989, 1990, 1991); they returned to the league in 2026 and reached the final straight away (0–4 to Santurce). The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61583719293553",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/lasleonasdeponcelvsf/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1_k5",
@@ -185807,7 +185952,8 @@
       "desc_en": "Corozal — record 19-time LVSF champions, most recently in 2022 and 2023. The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/laspinkin/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/las_pinkin/"
     },
     {
       "id": "f_vol_klu_na_puerto-rico_z1_k6",
@@ -185819,7 +185965,8 @@
       "desc_en": "Juncos — 2007 LVSF champions; semi-finalists in 2026 (0–4 to Santurce). The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/valencianasoficial/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/valencianasofficial/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1",
@@ -185858,7 +186005,8 @@
       "desc_en": "Atenas (Alajuela) — the Asociación Deportiva de Voleibol de Atenas; the men finished third in 2025 and second in the 2026 regular season. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/profile.php?id=100091605980458",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/addv_atenas/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k2",
@@ -185870,7 +186018,8 @@
       "desc_en": "Belén (Heredia) — the Asociación de Voleibol de Belén, with both a men’s and a women’s team in the Primera División; the men finished fourth in 2025. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/belenvoleibolcr",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/voleibolbelen/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k3",
@@ -185882,7 +186031,8 @@
       "desc_en": "San Carlos (Alajuela) — the Asociación de Voleibol de San Carlos, with both a men’s and a women’s team in the Primera División. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/profile.php?id=100046779348907",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/asovol_sancarlos/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k4",
@@ -185894,7 +186044,8 @@
       "desc_en": "Cartago — 2025 Primera División champions. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063479805698",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/cartago_voleibol/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k5",
@@ -185906,7 +186057,8 @@
       "desc_en": "Grecia (Alajuela) — the volleyball teams of the Comité Cantonal de Deportes y Recreación de Grecia. It has no website of its own, so the link goes to the official Facebook page of Grecia’s volleyball teams.",
       "url": "https://www.facebook.com/profile.php?id=100054527646680",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/voleibol.grecia/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k6",
@@ -185914,9 +186066,9 @@
       "type": "link",
       "icon": "",
       "name": "Codea",
-      "desc": "Alajuela — mužský tím kantonálneho športového výboru Comité Cantonal de Deportes y Recreación de Alajuela (CODEA). Volejbalová stránka na webe výboru sa neotvorí a tím nemá vlastnú volejbalovú sociálnu sieť, odkaz vedie na jeho profil na Volleyboxe so súpiskou a zápasmi.",
-      "desc_en": "Alajuela — the men’s team of the Comité Cantonal de Deportes y Recreación de Alajuela (CODEA). The volleyball page on the committee’s website does not load and the team has no volleyball social media account of its own, so the link goes to its Volleybox profile with roster and matches.",
-      "url": "https://volleybox.net/codea-t29241",
+      "desc": "Alajuela — mužský tím kantonálneho športového výboru Comité Cantonal de Deportes y Recreación de Alajuela (CODEA), ktorý vedie Asociación Alajuelense de Voleibol (ADAVO). Volejbalová stránka na webe výboru sa neotvorí, odkaz vedie na Instagram asociácie, kde zverejňuje výsledky a program zápasov.",
+      "desc_en": "Alajuela — the men’s team of the Comité Cantonal de Deportes y Recreación de Alajuela (CODEA), run by the Asociación Alajuelense de Voleibol (ADAVO). The volleyball page on the committee’s website does not load, so the link goes to the association’s Instagram, where it posts results and match schedules.",
+      "url": "https://www.instagram.com/adavoalajuela/",
       "order": 5,
       "order_en": 5
     },
@@ -185930,7 +186082,8 @@
       "desc_en": "Turrialba (Cartago) — a men’s Primera División team, sixth in 2025. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/ietvoleibol_turrialba/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/ietvoleibolprimeradivision/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k8",
@@ -185942,7 +186095,8 @@
       "desc_en": "San José — the Asociación de Voleibol de San José; the men finished second in 2025 and won the 2026 regular season (17 wins from 18). It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/san.josevball",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/sanjosevolley/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k9",
@@ -185954,7 +186108,8 @@
       "desc_en": "San José — the team of the state distance-learning university, Universidad Estatal a Distancia (UNED), with both a men’s and a women’s side in the Primera División. It has no website of its own, so the link goes to UNED volleyball’s official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100084230146924",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/unedvoleibol/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_m1_k10",
@@ -186005,7 +186160,8 @@
       "desc_en": "Atenas (Alajuela) — the Asociación Deportiva de Voleibol de Atenas, with both a men’s and a women’s team in the Primera División. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/profile.php?id=100091605980458",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/addv_atenas/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k2",
@@ -186017,7 +186173,8 @@
       "desc_en": "Santa Bárbara (Heredia) — the non-profit volleyball organisation Asbavol, 2025 runners-up. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/asbavol.oficial",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/asbavol/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k3",
@@ -186029,7 +186186,8 @@
       "desc_en": "Belén (Heredia) — the Asociación de Voleibol de Belén, with both a men’s and a women’s team in the Primera División. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/belenvoleibolcr",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/voleibolbelen/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k4",
@@ -186041,7 +186199,8 @@
       "desc_en": "San Carlos (Alajuela) — the Asociación de Voleibol de San Carlos, with both a men’s and a women’s team in the Primera División. It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/profile.php?id=100046779348907",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/asovol_sancarlos/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k5",
@@ -186053,7 +186212,8 @@
       "desc_en": "Goicoechea (San José) — the Asociación de Voleibol de Goicoechea, third in 2025. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/VoleibolGoicoechea",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/goicoecheavoleibol/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k6",
@@ -186065,7 +186225,8 @@
       "desc_en": "Limón — the Layans club, which also focuses on youth development; second in the 2026 regular season (13 wins from 18). It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/CEDEVOLI",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/layans_limon/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k7",
@@ -186077,7 +186238,8 @@
       "desc_en": "San José — the Asociación de Voleibol de San José; the women won the 2025 Primera División and the 2026 regular season (17 wins from 18). It has no website of its own, so the link goes to the association’s official Facebook page, which covers both the men’s and the women’s team.",
       "url": "https://www.facebook.com/san.josevball",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/sanjosevolley/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k8",
@@ -186089,7 +186251,8 @@
       "desc_en": "San José — the team of the state distance-learning university, Universidad Estatal a Distancia (UNED), with both a men’s and a women’s side in the Primera División. It has no website of its own, so the link goes to UNED volleyball’s official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100084230146924",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/unedvoleibol/"
     },
     {
       "id": "f_vol_klu_na_costa-rica_z1_k9",
@@ -186152,7 +186315,8 @@
       "desc_en": "Zinacantepec (State of Mexico) — a new team entering the first men’s LVP Mx season in 2026; the league will officially launch the men’s competition in Zinacantepec on 28 September 2026. It has no website of its own, so the link goes to its official Instagram, which is far more active than its Facebook page.",
       "url": "https://www.instagram.com/aztecasvty_edomex/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/profile.php?id=61593518742336"
     },
     {
       "id": "f_vol_klu_na_mexico_m1_k2",
@@ -186164,7 +186328,8 @@
       "desc_en": "Mexico City — a new team welcomed by the league in September 2026 ahead of the first men’s LVP Mx season. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/angelescdmx.voleibol/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/angelescdmx.voleibol/"
     },
     {
       "id": "f_vol_klu_na_mexico_m1_k3",
@@ -186176,7 +186341,8 @@
       "desc_en": "Oaxtepec (Morelos) — the professional volleyball team of the state of Morelos, taking part in the first men’s LVP Mx season in 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61592869679084",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/danesesdorados.morelos/"
     },
     {
       "id": "f_vol_klu_na_mexico_m1_k4",
@@ -186184,11 +186350,12 @@
       "type": "link",
       "icon": "",
       "name": "Dragones de Querétaro",
-      "desc": "Querétaro — klub, ktorý v LVP Mx hrá mužskú aj ženskú súťaž; mužský tím si v júli 2026 vybral hráčov na otvorených výberoch pred prvým ročníkom 2026. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Querétaro — a club with teams in both the men’s and the women’s LVP Mx; the men’s squad was picked at open try-outs in July 2026 ahead of the first season. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=61565231862373",
+      "desc": "Querétaro — klub, ktorý v LVP Mx hrá mužskú aj ženskú súťaž; mužský tím si v júli 2026 vybral hráčov na otvorených výberoch pred prvým ročníkom 2026. Vlastný web nemá, odkaz vedie na oficiálny instagramový účet mužského tímu.",
+      "desc_en": "Querétaro — a club with teams in both the men’s and the women’s LVP Mx; the men’s squad was picked at open try-outs in July 2026 ahead of the first season. It has no website of its own, so the link goes to the men’s team’s official Instagram account.",
+      "url": "https://www.instagram.com/dragonesqro/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/profile.php?id=61594386035720"
     },
     {
       "id": "f_vol_klu_na_mexico_m1_k5",
@@ -186200,7 +186367,8 @@
       "desc_en": "Guadalajara (Jalisco) — a men’s team founded in 2018 by Héctor Oroz, who also founded the women’s Tapatías; playing in the first men’s LVP Mx season in 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063716462134",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/tapatiosvoleibolmx/"
     },
     {
       "id": "f_vol_klu_na_mexico_z1",
@@ -186239,7 +186407,8 @@
       "desc_en": "Durango — champions of the first LVP Mx season in 2026: unbeaten in the regular season (20–0), they beat Tapatías de Jalisco in the final. The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ClubCoronelasDgo/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/clubcoronelas.dgo/"
     },
     {
       "id": "f_vol_klu_na_mexico_z1_k2",
@@ -186259,11 +186428,12 @@
       "type": "link",
       "icon": "",
       "name": "Freseras de Irapuato",
-      "desc": "Irapuato (Guanajuato) — zakladajúci člen ženskej LVP Mx, domáce zápasy hrajú v hale Inforum. Vlastný web nemajú, odkaz vedie na ich oficiálnu facebookovú stránku.",
-      "desc_en": "Irapuato (Guanajuato) — a founding member of the women’s LVP Mx, playing home matches at the Inforum. The team has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=61587059227254",
+      "desc": "Irapuato (Guanajuato) — zakladajúci člen ženskej LVP Mx, domáce zápasy hrajú v hale Inforum. Vlastný web nemajú, odkaz vedie na ich oficiálny instagramový účet.",
+      "desc_en": "Irapuato (Guanajuato) — a founding member of the women’s LVP Mx, playing home matches at the Inforum. The team has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/freserasvoleibol/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/profile.php?id=61587059227254"
     },
     {
       "id": "f_vol_klu_na_mexico_z1_k4",
@@ -186275,7 +186445,9 @@
       "desc_en": "Aguascalientes — a founding member of the women’s LVP Mx and a semi-finalist in the first season, 2026; third in the regular season. The team’s official website with news, results and fixtures.",
       "url": "https://gigantes.mx/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/GigantesDeAguascalientes/",
+      "ig": "https://www.instagram.com/gigantesdeaguascalientes/"
     },
     {
       "id": "f_vol_klu_na_mexico_z1_k5",
@@ -186287,7 +186459,8 @@
       "desc_en": "Puebla — a founding member of the women’s LVP Mx and a semi-finalist in the first season, 2026; home matches at the Gimnasio Miguel Hidalgo. The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61584774697814",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/guerreras.puebla/"
     },
     {
       "id": "f_vol_klu_na_mexico_z1_k6",
@@ -186311,15 +186484,16 @@
       "desc_en": "Guadalajara (Jalisco) — a team founded in 2016, runners-up in the first LVP Mx season in 2026 (second in the regular season, beaten by Coronelas de Durango in the final). The team has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/TapatiasVoleibol/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "ig": "https://www.instagram.com/tapatiasvoleibolmx/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1",
       "parentId": "f_vol_klu_na_united-states",
       "type": "folder",
       "icon": "us",
-      "name": "Volleyball League of America — Tier 1",
-      "name_en": "Volleyball League of America — Tier 1",
+      "name": "Volleyball League of America — Tier 1 (muži)",
+      "name_en": "Volleyball League of America — Tier 1 (men)",
       "desc": "Najvyššia úroveň mužskej Volleyball League of America (VLA) — poloprofesionálnej ligy, ktorá od roku 2020 združuje americké klubové tímy dospelých. Dvanásť tímov v štyroch divíziách hrá od januára do mája turnajové víkendy; VLA Cup 2026 vyhrali Chicago Icemen bez prehry.",
       "desc_en": "The top tier of the men’s Volleyball League of America (VLA) — a semi-professional league that has brought together American adult club teams since 2020. Twelve teams in four divisions play tournament weekends from January to May; the Chicago Icemen won the 2026 VLA Cup unbeaten.",
       "order": 0,
@@ -186374,7 +186548,8 @@
       "desc_en": "Chicago (Illinois) — winners of the VLA Cup in both 2025 and 2026; in 2026 they went through the tournament unbeaten (5–0). It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/chicago_icemen_vla/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/ChicagoIcemen/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1_k4",
@@ -186394,11 +186569,12 @@
       "type": "link",
       "icon": "",
       "name": "Indiana Team Pineapple",
-      "desc": "Fort Wayne (Indiana) — jeden zo zakladajúcich členov Volleyball League of America, v tabuľke sezóny 2026 na 4. mieste (8:2). Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na webe ligy VLA.",
-      "desc_en": "Fort Wayne (Indiana) — one of the founding members of the Volleyball League of America, 4th in the 2026 table (8–2). It has neither a website nor an active social media account, so the link goes to its profile on the VLA website.",
-      "url": "https://www.usavla.com/team/indiana-team-pineapple-mens",
+      "desc": "Fort Wayne (Indiana) — jeden zo zakladajúcich členov Volleyball League of America, v tabuľke sezóny 2026 na 4. mieste (8:2). Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Fort Wayne (Indiana) — one of the founding members of the Volleyball League of America, 4th in the 2026 table (8–2). It has no website of its own, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/teampineapplevla/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/team_pineapple_vla/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1_k6",
@@ -186406,9 +186582,9 @@
       "type": "link",
       "icon": "",
       "name": "Milwaukee Dive",
-      "desc": "Milwaukee (Wisconsin) — tím severnej divízie VLA Tier 1, v tabuľke sezóny 2026 na 7. mieste (5:4). Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na webe ligy VLA.",
-      "desc_en": "Milwaukee (Wisconsin) — a North Division team in VLA Tier 1, 7th in the 2026 table (5–4). It has neither a website nor an active social media account, so the link goes to its profile on the VLA website.",
-      "url": "https://www.usavla.com/team/milwaukee-dive-mens",
+      "desc": "Milwaukee (Wisconsin) — tím severnej divízie VLA Tier 1, v tabuľke sezóny 2026 na 7. mieste (5:4). Vlastný web ani aktívnu facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Milwaukee (Wisconsin) — a North Division team in VLA Tier 1, 7th in the 2026 table (5–4). It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/milwaukeedive/",
       "order": 5,
       "order_en": 5
     },
@@ -186434,7 +186610,8 @@
       "desc_en": "Norwalk (Connecticut) — an East Division team in VLA Tier 1 that also has a women’s side in the league; 12th in the 2026 table. It has no website and its Facebook page has had no posts since May 2026, so the link goes to the official Instagram shared by the men’s and women’s teams.",
       "url": "https://www.instagram.com/nefvolley/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "fb": "https://www.facebook.com/NortheastForceMVB/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1_k9",
@@ -186446,7 +186623,8 @@
       "desc_en": "Cincinnati (Ohio) — a Central Division team in VLA Tier 1, 11th in the 2026 table. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/vlaunicorns",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/ovr_unis_vla/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1_k10",
@@ -186458,7 +186636,8 @@
       "desc_en": "Phoenix (Arizona) — winners of the VLA Tier 1 West Division in the 2026 season and second in the overall table (8–4). The club website is stuck on the 2025–26 season and the Facebook page has had no posts since March 2026, so the link goes to the official Instagram.",
       "url": "https://www.instagram.com/ascension_volleyball/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/ascensionvolleyball/"
     },
     {
       "id": "f_vol_klu_na_united-states_m1_k11",
@@ -186478,9 +186657,9 @@
       "type": "link",
       "icon": "",
       "name": "Sun City Team IX",
-      "desc": "Chandler (Arizona) — tím západnej divízie VLA Tier 1, v tabuľke sezóny 2026 na 8. mieste (8:5); v januári 2026 hostil West Division Cup. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na webe ligy VLA.",
-      "desc_en": "Chandler (Arizona) — a West Division team in VLA Tier 1, 8th in the 2026 table (8–5); it hosted the West Division Cup in January 2026. It has neither a website nor an active social media account, so the link goes to its profile on the VLA website.",
-      "url": "https://www.usavla.com/team/sun-city-team-ix-mens",
+      "desc": "Chandler (Arizona) — tím západnej divízie VLA Tier 1, v tabuľke sezóny 2026 na 8. mieste (8:5); v januári 2026 hostil West Division Cup. Vlastný web ani facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Chandler (Arizona) — a West Division team in VLA Tier 1, 8th in the 2026 table (8–5); it hosted the West Division Cup in January 2026. It has neither a website nor a Facebook page, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/suncityix.vla/",
       "order": 11,
       "order_en": 11
     },
@@ -186489,8 +186668,8 @@
       "parentId": "f_vol_klu_na_united-states",
       "type": "folder",
       "icon": "us",
-      "name": "Major League Volleyball",
-      "name_en": "Major League Volleyball",
+      "name": "Major League Volleyball (ženy)",
+      "name_en": "Major League Volleyball (women)",
       "desc": "Profesionálna ženská liga, ktorá sa hrá od roku 2024 — prvé dva ročníky pod názvom Pro Volleyball Federation. Majstrami boli Omaha Supernovas (2024), Orlando Valkyries (2025) a Dallas Pulse (2026); ročník 2027 bude mať 12 tímov vrátane piatich nových či obnovených.",
       "desc_en": "A professional women’s league played since 2024 — its first two seasons as the Pro Volleyball Federation. The champions were the Omaha Supernovas (2024), the Orlando Valkyries (2025) and the Dallas Pulse (2026); the 2027 season will have 12 teams, including five new or returning ones.",
       "order": 1,
@@ -186521,7 +186700,9 @@
       "desc_en": "Duluth (Georgia) — in the league since its first season in 2024, playing home matches at Gas South Arena. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/atlanta-vibe",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/AtlantaVibeVolleyball/",
+      "ig": "https://www.instagram.com/atlantavibevb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k2",
@@ -186533,7 +186714,9 @@
       "desc_en": "Columbus (Ohio) — in the league since its first season in 2024, playing home matches at Nationwide Arena. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/columbus-fury",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "fb": "https://www.facebook.com/columbusfury/",
+      "ig": "https://www.instagram.com/columbusfury/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k3",
@@ -186545,7 +186728,9 @@
       "desc_en": "Frisco (Texas) — MLV champions in 2026 in their very first season, beating the Omaha Supernovas 3–2 in the final; home matches at the Comerica Center. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/dallas-pulse",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/dallaspulsevb/",
+      "ig": "https://www.instagram.com/dallaspulsevb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k4",
@@ -186557,7 +186742,8 @@
       "desc_en": "Washington, D.C. — a new team joining the league for the 2027 season; home matches at The Anthem. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/dc",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "ig": "https://www.instagram.com/dcflightvb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k5",
@@ -186569,7 +186755,9 @@
       "desc_en": "Grand Rapids (Michigan) — in the league since its first season in 2024, playing home matches at Van Andel Arena. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/grand-rapids-rise",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/GrandRapidsRise/",
+      "ig": "https://www.instagram.com/grandrapidsrise/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k6",
@@ -186581,7 +186769,9 @@
       "desc_en": "Fishers (Indiana) — in the league since 2025, finalists in 2025 and regular-season winners in 2026 (23–5); home matches at the Fishers Event Center. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/indy-ignite",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/indyignitevb/",
+      "ig": "https://www.instagram.com/indyignitevb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k7",
@@ -186593,7 +186783,9 @@
       "desc_en": "St. Paul (Minnesota) — a new team joining the league for the 2027 season; home matches at the Grand Casino Arena. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/minnesota",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/minnesotaforge/",
+      "ig": "https://www.instagram.com/minnesotaforge/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k8",
@@ -186605,7 +186797,9 @@
       "desc_en": "Los Angeles (California) — a new team joining the league for the 2027 season; its majority owner is Patrick Soon-Shiong. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/la",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "fb": "https://www.facebook.com/profile.php?id=61592631783314",
+      "ig": "https://www.instagram.com/mlvlosangeles/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k9",
@@ -186617,7 +186811,9 @@
       "desc_en": "San Jose (California) — a new Northern California team joining the league for the 2027 season. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/norcalrumble",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "fb": "https://www.facebook.com/profile.php?id=61590314336107",
+      "ig": "https://www.instagram.com/norcalrumble/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k10",
@@ -186629,7 +186825,9 @@
       "desc_en": "Omaha (Nebraska) — the league’s first champions (then the Pro Volleyball Federation) in 2024 and MLV finalists in 2026; home matches at the CHI Health Center. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/omaha-supernovas",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/NeProVb/",
+      "ig": "https://www.instagram.com/omahasupernovas/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k11",
@@ -186641,7 +186839,9 @@
       "desc_en": "Orlando (Florida) — 2025 champions (beating the Indy Ignite in the final), playing home matches at the Addition Financial Arena. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/orlando-valkyries",
       "order": 10,
-      "order_en": 10
+      "order_en": 10,
+      "fb": "https://www.facebook.com/OrlValkyries/",
+      "ig": "https://www.instagram.com/orlvalkyries/"
     },
     {
       "id": "f_vol_klu_na_united-states_z1_k12",
@@ -186653,15 +186853,17 @@
       "desc_en": "Henderson (Nevada) — in the league since its first season in 2024; it sat out the 2026 season while new ownership was found and returns for 2027. The team’s official page on the MLV website — tickets, roster, news and schedule.",
       "url": "https://provolleyball.com/teams/vegas-thrill",
       "order": 11,
-      "order_en": 11
+      "order_en": 11,
+      "fb": "https://www.facebook.com/vegasthrill/",
+      "ig": "https://www.instagram.com/vegasthrill/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2",
       "parentId": "f_vol_klu_na_united-states",
       "type": "folder",
       "icon": "us",
-      "name": "LOVB Pro",
-      "name_en": "LOVB Pro",
+      "name": "LOVB Pro (ženy)",
+      "name_en": "LOVB Pro (women)",
       "desc": "Profesionálna ženská liga League One Volleyball, ktorá vyrástla zo siete mládežníckych klubov; prvý ročník sa hral v roku 2025 so šiestimi tímami a oba doterajšie tituly získal LOVB Austin (2025, 2026). Ročník 2026/27 s desiatimi tímami v dvoch konferenciách sa začína 17. decembra 2026 v San Antoniu.",
       "desc_en": "The professional women’s league of League One Volleyball, which grew out of a network of youth clubs; its first season was played in 2025 with six teams, and LOVB Austin have won both titles so far (2025, 2026). The 2026–27 season, with ten teams in two conferences, starts on 17 December 2026 in San Antonio.",
       "order": 2,
@@ -186691,8 +186893,10 @@
       "desc": "Atlanta (Georgia) — spolu s Houstonom prvé mesto, ktoré LOVB v roku 2023 ohlásila pre svoju profesionálnu ligu; hrá od prvého ročníka 2025. Oficiálna stránka tímu na webe ligy LOVB — súpiska, správy, rozpis a lístky.",
       "desc_en": "Atlanta (Georgia) — together with Houston the first city LOVB announced for its professional league in 2023; playing since the first season in 2025. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-atlanta-volleyball",
-      "order": 0,
-      "order_en": 0
+      "order": 1,
+      "order_en": 1,
+      "fb": "https://www.facebook.com/lovbatl/",
+      "ig": "https://www.instagram.com/lovbatl/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k2",
@@ -186703,8 +186907,10 @@
       "desc": "Austin (Texas) — majster LOVB Pro 2025 aj 2026; finále 2026 rozhodol až zlatý set proti LOVB Salt Lake. Oficiálna stránka tímu na webe ligy LOVB — súpiska, správy, rozpis a lístky.",
       "desc_en": "Austin (Texas) — LOVB Pro champions in 2025 and 2026; the 2026 final against LOVB Salt Lake was decided only by a golden set. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-austin-volleyball",
-      "order": 1,
-      "order_en": 1
+      "order": 2,
+      "order_en": 2,
+      "fb": "https://www.facebook.com/lovbatx/",
+      "ig": "https://www.instagram.com/lovbatx/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k3",
@@ -186715,20 +186921,24 @@
       "desc": "Houston (Texas) — spolu s Atlantou prvé mesto, ktoré LOVB v roku 2023 ohlásila pre svoju profesionálnu ligu; hrá od prvého ročníka 2025. Oficiálna stránka tímu na webe ligy LOVB — súpiska, správy, rozpis a lístky.",
       "desc_en": "Houston (Texas) — together with Atlanta the first city LOVB announced for its professional league in 2023; playing since the first season in 2025. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-houston-volleyball",
-      "order": 2,
-      "order_en": 2
+      "order": 3,
+      "order_en": 3,
+      "fb": "https://www.facebook.com/lovbhtx/",
+      "ig": "https://www.instagram.com/lovbhtx/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k4",
       "parentId": "f_vol_klu_na_united-states_z2",
       "type": "link",
       "icon": "",
-      "name": "LOVB Los Angeles",
-      "desc": "Los Angeles (Kalifornia) — nový tím, ktorý debutuje v ročníku 2026/27 a domáce zápasy bude hrať v Intuit Dome; spoluvlastníkom je Alexis Ohanian. Oficiálny web tímu.",
-      "desc_en": "Los Angeles (California) — a new team debuting in the 2026–27 season, with home matches at the Intuit Dome; co-owned by Alexis Ohanian. The team’s official website.",
-      "url": "https://www.lovbla.com/",
-      "order": 3,
-      "order_en": 3
+      "name": "LA Orbit",
+      "desc": "Los Angeles (Kalifornia) — nový tím, pôvodne ohlásený ako LOVB Los Angeles, ktorý debutuje v ročníku 2026/27 a domáce zápasy bude hrať v Intuit Dome; spoluvlastníkom je Alexis Ohanian. Oficiálny web tímu.",
+      "desc_en": "Los Angeles (California) — a new team, originally announced as LOVB Los Angeles, debuting in the 2026–27 season, with home matches at the Intuit Dome; co-owned by Alexis Ohanian. The team’s official website.",
+      "url": "https://www.laorbit.com/",
+      "order": 0,
+      "order_en": 0,
+      "fb": "https://www.facebook.com/lovblosangeles/",
+      "ig": "https://www.instagram.com/laorbitvb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k5",
@@ -186740,7 +186950,9 @@
       "desc_en": "Madison (Wisconsin) — a founding member of LOVB Pro, playing since the first season in 2025. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-madison-volleyball",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/lovbmad/",
+      "ig": "https://www.instagram.com/lovbmad/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k6",
@@ -186752,7 +186964,9 @@
       "desc_en": "Miami (Florida) — the league’s tenth team, announced in May 2026; it debuts in the 2026–27 season in the Eastern Conference. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-miami-volleyball",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/lovbmia/",
+      "ig": "https://www.instagram.com/lovbmia/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k7",
@@ -186764,7 +186978,9 @@
       "desc_en": "Minneapolis (Minnesota) — a new team debuting in the 2026–27 season in the Eastern Conference. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-minnesota-volleyball",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/lovbmn/",
+      "ig": "https://www.instagram.com/lovbmn/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k8",
@@ -186776,7 +186992,9 @@
       "desc_en": "Omaha (Nebraska) — a founding member of LOVB Pro from 2025; it opens the 2026–27 season against LOVB Austin in San Antonio on 17 December 2026. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-nebraska-volleyball",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "fb": "https://www.facebook.com/lovbneb/",
+      "ig": "https://www.instagram.com/lovbneb/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k9",
@@ -186788,7 +187006,9 @@
       "desc_en": "Salt Lake City (Utah) — a founding member of LOVB Pro and 2026 finalists, losing to LOVB Austin only in a golden set. The team’s official page on the LOVB website — roster, news, schedule and tickets.",
       "url": "https://www.lovb.com/teams/lovb-salt-lake-volleyball",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "fb": "https://www.facebook.com/lovbsl/",
+      "ig": "https://www.instagram.com/lovbsl/"
     },
     {
       "id": "f_vol_klu_na_united-states_z2_k10",
@@ -186800,7 +187020,9 @@
       "desc_en": "San Francisco (California) — a new team with women-led ownership, debuting in January 2027; home matches at the Bill Graham Civic Auditorium. The team’s official website.",
       "url": "https://www.sanfranciscosignal.com/",
       "order": 9,
-      "order_en": 9
+      "order_en": 9,
+      "fb": "https://www.facebook.com/sanfranciscosignal/",
+      "ig": "https://www.instagram.com/sanfranciscosignal/"
     },
     {
       "id": "f_vol_klu_na_martinique_m1",
@@ -186863,7 +187085,8 @@
       "desc_en": "Fort-de-France — the volleyball section of the multi-sport Good-Luck association. Its Facebook page has had no posts since January 2026, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/goodluck_volleyball_972/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/profile.php?id=100063580241157"
     },
     {
       "id": "f_vol_klu_na_martinique_m1_k4",
@@ -186871,11 +187094,12 @@
       "type": "link",
       "icon": "",
       "name": "Le Rayon de Petite Anse",
-      "desc": "Les Anses-d’Arlet (Petite Anse) — kultúrne a športové združenie ASC Le Rayon, ktoré v roku 2026 oslavuje 60 rokov; hrá mužskú aj ženskú súťaž. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Les Anses-d’Arlet (Petite Anse) — the ASC Le Rayon cultural and sports association, celebrating its 60th anniversary in 2026; it plays in both the men’s and women’s championships. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/asslerayondepetiteanse",
+      "desc": "Les Anses-d’Arlet (Petite Anse) — kultúrne a športové združenie ASC Le Rayon, ktoré v roku 2026 oslavuje 60 rokov; hrá mužskú aj ženskú súťaž. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Les Anses-d’Arlet (Petite Anse) — the ASC Le Rayon cultural and sports association, celebrating its 60th anniversary in 2026; it plays in both the men’s and women’s championships. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/asclerayondepetiteanse/",
       "order": 3,
-      "order_en": 3
+      "order_en": 3,
+      "fb": "https://www.facebook.com/asslerayondepetiteanse/"
     },
     {
       "id": "f_vol_klu_na_martinique_m1_k5",
@@ -186899,7 +187123,8 @@
       "desc_en": "Les Anses-d’Arlet — a sports and cultural club founded in 1947, finalist in the 2026 Martinique championship. The link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/RacingClubArlesienPageOfficiel",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/racing.club.arlesien/"
     },
     {
       "id": "f_vol_klu_na_martinique_m1_k7",
@@ -186946,9 +187171,9 @@
       "type": "link",
       "icon": "",
       "name": "Aiglon du Lamentin",
-      "desc": "Le Lamentin — volejbalový klub Aiglon s mládežníckymi aj seniorskými družstvami. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Score'n'co s výsledkami a tabuľkami.",
-      "desc_en": "Le Lamentin — the Aiglon volleyball club, with youth and senior teams. It has neither a website nor an active social media account, so the link goes to its Score'n'co profile with results and standings.",
-      "url": "https://scorenco.com/volley/clubs/aiglon-le-lamentin-volley-gfyj",
+      "desc": "Le Lamentin — volejbalový klub Aiglon s mládežníckymi aj seniorskými družstvami. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Le Lamentin — the Aiglon volleyball club, with youth and senior teams. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/aiglon_vb_martinique/",
       "order": 0,
       "order_en": 0
     },
@@ -186998,7 +187223,8 @@
       "desc_en": "Fort-de-France — the volleyball section of the multi-sport Good-Luck association. Its Facebook page has had no posts since January 2026, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/goodluck_volleyball_972/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/profile.php?id=100063580241157"
     },
     {
       "id": "f_vol_klu_na_martinique_z1_k6",
@@ -187006,11 +187232,12 @@
       "type": "link",
       "icon": "",
       "name": "Le Rayon de Petite Anse",
-      "desc": "Les Anses-d’Arlet (Petite Anse) — majster Martiniku 2026, tretí titul za sebou (finále 3:0 nad Empire de Trinité); združenie ASC Le Rayon v roku 2026 oslavuje 60 rokov. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Les Anses-d’Arlet (Petite Anse) — 2026 Martinique champions, a third title in a row (3–0 over Empire de Trinité in the final); the ASC Le Rayon association celebrates its 60th anniversary in 2026. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/asslerayondepetiteanse",
+      "desc": "Les Anses-d’Arlet (Petite Anse) — majster Martiniku 2026, tretí titul za sebou (finále 3:0 nad Empire de Trinité); združenie ASC Le Rayon v roku 2026 oslavuje 60 rokov. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Les Anses-d’Arlet (Petite Anse) — 2026 Martinique champions, a third title in a row (3–0 over Empire de Trinité in the final); the ASC Le Rayon association celebrates its 60th anniversary in 2026. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/asclerayondepetiteanse/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/asslerayondepetiteanse/"
     },
     {
       "id": "f_vol_klu_na_martinique_z1_k7",
@@ -187018,9 +187245,9 @@
       "type": "link",
       "icon": "",
       "name": "Mairie Sportive",
-      "desc": "Fort-de-France — volejbalová sekcia klubu Mairie Sportive de Fort-de-France. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
-      "desc_en": "Fort-de-France — the volleyball section of Mairie Sportive de Fort-de-France. It has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=100066631853672",
+      "desc": "Fort-de-France — volejbalová sekcia klubu Mairie Sportive de Fort-de-France. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Score'n'co s výsledkami a tabuľkami.",
+      "desc_en": "Fort-de-France — the volleyball section of Mairie Sportive de Fort-de-France. It has neither a website nor an active social media account, so the link goes to its Score'n'co profile with results and standings.",
+      "url": "https://scorenco.com/volley/clubs/mairie-sportive-volley-ball-1a80v",
       "order": 6,
       "order_en": 6
     },
@@ -187046,7 +187273,8 @@
       "desc_en": "Les Anses-d’Arlet — a sports and cultural club founded in 1947, playing in both the men’s and women’s championships. The link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/RacingClubArlesienPageOfficiel",
       "order": 8,
-      "order_en": 8
+      "order_en": 8,
+      "ig": "https://www.instagram.com/racing.club.arlesien/"
     },
     {
       "id": "f_vol_klu_na_martinique_z1_k10",
@@ -187066,9 +187294,9 @@
       "type": "link",
       "icon": "",
       "name": "T’Impulz",
-      "desc": "Schœlcher — združenie T’Impulz, ktoré ponúka rekreačný aj súťažný volejbal. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na portáli Score'n'co s výsledkami a tabuľkami.",
-      "desc_en": "Schœlcher — the T’Impulz association, offering both recreational and competitive volleyball. It has neither a website nor an active social media account, so the link goes to its Score'n'co profile with results and standings.",
-      "url": "https://scorenco.com/volley/clubs/t-impulz-volley-1a80y",
+      "desc": "Schœlcher — združenie T’Impulz, ktoré ponúka rekreačný aj súťažný volejbal. Vlastný web nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Schœlcher — the T’Impulz association, offering both recreational and competitive volleyball. It has no website of its own, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/timpulz/",
       "order": 10,
       "order_en": 10
     },
@@ -187109,7 +187337,8 @@
       "desc_en": "Petit-Bourg — the Arsenal volleyball club, whose women became Guadeloupe champions in 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/arsenal971",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/arsenal_volleyball97170/"
     },
     {
       "id": "f_vol_klu_na_guadeloupe_m1_k2",
@@ -187169,7 +187398,8 @@
       "desc_en": "Sainte-Anne — an indoor and beach volleyball club active since 1999. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100054482139085",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/racin_beach/"
     },
     {
       "id": "f_vol_klu_na_guadeloupe_m1_k7",
@@ -187189,11 +187419,12 @@
       "type": "link",
       "icon": "",
       "name": "Union Sportive de Goyave",
-      "desc": "Goyave — viacšportový klub založený v roku 1950 s oddielmi volejbalu, júda a futbalu. Vlastný web ani aktívnu facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
-      "desc_en": "Goyave — a multi-sport club founded in 1950 with volleyball, judo and football sections. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
-      "url": "https://www.instagram.com/usgoyave/",
+      "desc": "Goyave — viacšportový klub založený v roku 1950 s oddielmi volejbalu, júda a futbalu. Odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Goyave — a multi-sport club founded in 1950 with volleyball, judo and football sections. The link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/usgoyave97128/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/usgoyave/"
     },
     {
       "id": "f_vol_klu_na_guadeloupe_z1",
@@ -187232,7 +187463,8 @@
       "desc_en": "Petit-Bourg — 2026 Guadeloupe women’s champions, who played the Antilles final against Le Rayon of Martinique in June 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/arsenal971",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/arsenal_volleyball97170/"
     },
     {
       "id": "f_vol_klu_na_guadeloupe_z1_k2",
@@ -187292,7 +187524,8 @@
       "desc_en": "Sainte-Anne — an indoor and beach volleyball club active since 1999. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100054482139085",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/racin_beach/"
     },
     {
       "id": "f_vol_klu_na_guadeloupe_z1_k7",
@@ -187312,11 +187545,12 @@
       "type": "link",
       "icon": "",
       "name": "Union Sportive de Goyave",
-      "desc": "Goyave — viacšportový klub založený v roku 1950 s oddielmi volejbalu, júda a futbalu. Vlastný web ani aktívnu facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
-      "desc_en": "Goyave — a multi-sport club founded in 1950 with volleyball, judo and football sections. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
-      "url": "https://www.instagram.com/usgoyave/",
+      "desc": "Goyave — viacšportový klub založený v roku 1950 s oddielmi volejbalu, júda a futbalu. Odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Goyave — a multi-sport club founded in 1950 with volleyball, judo and football sections. The link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/usgoyave97128/",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/usgoyave/"
     },
     {
       "id": "f_vol_klu_na_suriname_m1",
@@ -187354,8 +187588,8 @@
       "desc": "Paramaribo — volejbalový spolok, ktorý hrá mužskú aj ženskú Hoofdklasse. Vlastný web ani aktívnu facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
       "desc_en": "Paramaribo — a volleyball club playing in both the men’s and women’s Hoofdklasse. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
       "url": "https://www.instagram.com/v.v.condor/",
-      "order": 0,
-      "order_en": 0
+      "order": 1,
+      "order_en": 1
     },
     {
       "id": "f_vol_klu_na_suriname_m1_k2",
@@ -187366,8 +187600,9 @@
       "desc": "Surinam — volejbalový spolok, ktorý hrá mužskú aj ženskú Hoofdklasse. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Suriname — a volleyball club playing in both the men’s and women’s Hoofdklasse. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/LyzecksAhoe",
-      "order": 1,
-      "order_en": 1
+      "order": 2,
+      "order_en": 2,
+      "ig": "https://www.instagram.com/lyzecks_ahoe/"
     },
     {
       "id": "f_vol_klu_na_suriname_m1_k3",
@@ -187378,8 +187613,8 @@
       "desc": "Surinam — volejbalový spolok Marwina, účastník mužskej Hoofdklasse 2026. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Suriname — the Marwina volleyball club, taking part in the 2026 men’s Hoofdklasse. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61590671695988",
-      "order": 2,
-      "order_en": 2
+      "order": 3,
+      "order_en": 3
     },
     {
       "id": "f_vol_klu_na_suriname_m1_k4",
@@ -187390,8 +187625,9 @@
       "desc": "Surinam — volejbalový spolok Yellowbirds, ktorý hrá mužskú aj ženskú Hoofdklasse; v septembri 2026 hral semifinále mužov proti Yelyco. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Suriname — the Yellowbirds volleyball club, playing in both the men’s and women’s Hoofdklasse; it met Yelyco in the men’s semi-final in September 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/yellowbirdsvolleybal",
-      "order": 3,
-      "order_en": 3
+      "order": 4,
+      "order_en": 4,
+      "ig": "https://www.instagram.com/vv_yellowbirds/"
     },
     {
       "id": "f_vol_klu_na_suriname_m1_k5",
@@ -187402,8 +187638,8 @@
       "desc": "Surinam — volejbalový spolok, ktorý hrá mužskú aj ženskú Hoofdklasse; muži hrali v septembri 2026 semifinále proti Yellow Birds. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Suriname — a volleyball club playing in both the men’s and women’s Hoofdklasse; the men met Yellow Birds in the semi-final in September 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61553780536374",
-      "order": 4,
-      "order_en": 4
+      "order": 5,
+      "order_en": 5
     },
     {
       "id": "f_vol_klu_na_suriname_z1",
@@ -187454,7 +187690,8 @@
       "desc_en": "Suriname — a volleyball club playing in both the men’s and women’s Hoofdklasse. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/LyzecksAhoe",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/lyzecks_ahoe/"
     },
     {
       "id": "f_vol_klu_na_suriname_z1_k3",
@@ -187466,7 +187703,8 @@
       "desc_en": "Suriname — the Yellowbirds volleyball club, playing in both the men’s and women’s Hoofdklasse. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/yellowbirdsvolleybal",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/vv_yellowbirds/"
     },
     {
       "id": "f_vol_klu_na_suriname_z1_k4",
@@ -187517,7 +187755,8 @@
       "desc_en": "Jinotega — the Jinotega department’s team in the women’s league. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61586643122502",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "ig": "https://www.instagram.com/brumas_.voleibol/"
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k2",
@@ -187529,7 +187768,8 @@
       "desc_en": "Managua — a participant in the 2026 women’s league. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61586186566691",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/fenixvoleibolnicaragua/"
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k3",
@@ -187540,8 +187780,8 @@
       "desc": "Rivas — družstvo departementu Rivas, v lige od prvého ročníka. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na Volleyboxe.",
       "desc_en": "Rivas — the Rivas department’s team, in the league since its first season. It has neither a website nor an active social media account, so the link goes to its Volleybox profile.",
       "url": "https://women.volleybox.net/frente-sur-rivas-t35328",
-      "order": 2,
-      "order_en": 2
+      "order": 3,
+      "order_en": 3
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k4",
@@ -187552,8 +187792,9 @@
       "desc": "Managua — volejbalová franšíza Universidad Americana (UAM); majsterky ligy 2026 (druhý titul), vo finále zdolali Panteras de Managua. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Managua — the volleyball franchise of Universidad Americana (UAM); 2026 league champions (their second title), beating Panteras de Managua in the final. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/jaguaresuamvoleibol",
-      "order": 3,
-      "order_en": 3
+      "order": 4,
+      "order_en": 4,
+      "ig": "https://www.instagram.com/jaguaresuamvoleibol/"
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k5",
@@ -187564,8 +187805,8 @@
       "desc": "Managua — tím mestskej samosprávy (Alcaldía de Managua); v roku 2025 získali štvrtý titul za sebou, keď vo finále zdolali Panteras 3:1. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Managua — the Managua city council (Alcaldía) team; in 2025 they won a fourth title in a row, beating Panteras 3–1 in the final. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/LeonasVoleibolALMA",
-      "order": 4,
-      "order_en": 4
+      "order": 5,
+      "order_en": 5
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k6",
@@ -187576,8 +187817,9 @@
       "desc": "Managua — franšíza založená v roku 2021; finalistky ligy 2025 aj 2026. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Managua — a franchise founded in 2021; league finalists in both 2025 and 2026. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/panterasdemanagua",
-      "order": 5,
-      "order_en": 5
+      "order": 6,
+      "order_en": 6,
+      "ig": "https://www.instagram.com/panterasdemanagua/"
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k7",
@@ -187588,8 +187830,9 @@
       "desc": "Estelí — volejbalová franšíza futbalového klubu Real Estelí. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Estelí — the volleyball franchise of the Real Estelí football club. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/realesteliv",
-      "order": 6,
-      "order_en": 6
+      "order": 7,
+      "order_en": 7,
+      "ig": "https://www.instagram.com/realesteliv/"
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k8",
@@ -187600,8 +187843,8 @@
       "desc": "Granada — družstvo departementu Granada, v lige od prvého ročníka. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Granada — the Granada department’s team, in the league since its first season. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=100063755664124",
-      "order": 7,
-      "order_en": 7
+      "order": 8,
+      "order_en": 8
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k9",
@@ -187612,8 +187855,8 @@
       "desc": "Chinandega — družstvo departementu Chinandega. Vlastný web ani aktívnu sociálnu sieť nemá, odkaz vedie na jeho profil na Volleyboxe.",
       "desc_en": "Chinandega — the Chinandega department’s team. It has neither a website nor an active social media account, so the link goes to its Volleybox profile.",
       "url": "https://women.volleybox.net/tigresas-de-chinandega-t35331",
-      "order": 8,
-      "order_en": 8
+      "order": 9,
+      "order_en": 9
     },
     {
       "id": "f_vol_klu_na_nicaragua_z1_k10",
@@ -187624,8 +187867,8 @@
       "desc": "Managua — volejbalové družstvo Národnej autonómnej univerzity Nikaraguy (UNAN-Managua). Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
       "desc_en": "Managua — the volleyball team of the National Autonomous University of Nicaragua (UNAN-Managua). It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/profile.php?id=61562785915370",
-      "order": 9,
-      "order_en": 9
+      "order": 10,
+      "order_en": 10
     },
     {
       "id": "f_vol_klu_ja_chile_z1",
@@ -187663,8 +187906,10 @@
       "desc": "Santiago — volejbal Corporación de Deportes Boston College, majster Ligy A1 žien 2024/25 a tretí tím sezóny 2025/26 (v zápase o bronz zdolal Colo-Colo 3:0). Odkaz vedie na volejbalovú rubriku klubového webu.",
       "desc_en": "Santiago — the volleyball section of the Corporación de Deportes Boston College, women’s Liga A1 champions in 2024/25 and third in 2025/26 (beating Colo-Colo 3–0 for bronze). The link goes to the volleyball section of the club website.",
       "url": "https://cdbostoncollege.cl/noticias/voleibol/",
-      "order": 0,
-      "order_en": 0
+      "order": 1,
+      "order_en": 1,
+      "fb": "https://www.facebook.com/CDBOSTONVOLEIBOL/",
+      "ig": "https://www.instagram.com/cdbostoncollegevoleibol/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k2",
@@ -187675,8 +187920,9 @@
       "desc": "Santiago — ženská volejbalová vetva Club Social y Deportivo Colo-Colo, obnovená v roku 2016, ktorá postúpila z ligy A3 až do A1; v sezóne 2025/26 štvrtá. Odkaz vedie na stránku volejbalu na webe klubu.",
       "desc_en": "Santiago — the women’s volleyball branch of Club Social y Deportivo Colo-Colo, relaunched in 2016, which climbed from the A3 league up to the A1; fourth in 2025/26. The link goes to the volleyball page of the club website.",
       "url": "https://csdcolocolo.cl/voleibol/",
-      "order": 1,
-      "order_en": 1
+      "order": 2,
+      "order_en": 2,
+      "ig": "https://www.instagram.com/colocolo.voley/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k3",
@@ -187687,8 +187933,9 @@
       "desc": "San Pedro de la Paz (Concepción) — volejbalová vetva Club Deportivo Alemán. Odkaz vedie na stránku vetvy na webe klubu.",
       "desc_en": "San Pedro de la Paz (Concepción) — the volleyball branch of Club Deportivo Alemán. The link goes to the branch page of the club website.",
       "url": "https://deportivoaleman.cl/ramas/voleibol/",
-      "order": 2,
-      "order_en": 2
+      "order": 3,
+      "order_en": 3,
+      "ig": "https://www.instagram.com/cda__voleibol/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k4",
@@ -187696,23 +187943,12 @@
       "type": "link",
       "icon": "",
       "name": "Excelsior",
-      "desc": "Santiago — Club Deportivo Excelsior. Vlastná doména excelsiorclub.cl už neexistuje, odkaz vedie na oficiálnu facebookovú stránku klubu.",
-      "desc_en": "Santiago — Club Deportivo Excelsior. Its own domain excelsiorclub.cl no longer exists, so the link goes to the club’s official Facebook page.",
-      "url": "https://www.facebook.com/ClubDeportivoExcelsior/",
-      "order": 3,
-      "order_en": 3
-    },
-    {
-      "id": "f_vol_klu_ja_chile_z1_k5",
-      "parentId": "f_vol_klu_ja_chile_z1",
-      "type": "link",
-      "icon": "",
-      "name": "Küpal",
-      "desc": "Rancagua — Club de Voleibol Küpal. Vlastný web ani aktívnu facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
-      "desc_en": "Rancagua — Club de Voleibol Küpal. It has neither a website nor an active Facebook page, so the link goes to its official Instagram.",
-      "url": "https://www.instagram.com/kupal_voleibol/",
+      "desc": "Santiago — Club Deportivo Excelsior. Vlastná doména excelsiorclub.cl už neexistuje, odkaz vedie na oficiálny Instagram klubu.",
+      "desc_en": "Santiago — Club Deportivo Excelsior. Its own domain excelsiorclub.cl no longer exists, so the link goes to the club’s official Instagram.",
+      "url": "https://www.instagram.com/club_excelsior/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "fb": "https://www.facebook.com/ClubDeportivoExcelsior/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k6",
@@ -187736,7 +187972,9 @@
       "desc_en": "Santiago — Club Deportivo Murano, 2025/26 women’s Liga A1 champions (final against La Pintana); the club’s men won the Liga A1 three times in a row (2022/23 – 2024/25).",
       "url": "https://www.clubmurano.cl/wp/",
       "order": 6,
-      "order_en": 6
+      "order_en": 6,
+      "fb": "https://www.facebook.com/ClubMuranoVoleibol/",
+      "ig": "https://www.instagram.com/muranovoley/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k8",
@@ -187748,7 +187986,8 @@
       "desc_en": "Santiago — the volleyball branch (Pallavolo) of the Italian community club Stadio Italiano, with both a men’s and a women’s team in the Liga A1. The link goes to the branch page on the club website.",
       "url": "https://www.stadioitaliano.cl/deportes/pallavolo",
       "order": 7,
-      "order_en": 7
+      "order_en": 7,
+      "ig": "https://www.instagram.com/pallavolo.stadio.italiano/"
     },
     {
       "id": "f_vol_klu_ja_chile_z1_k9",
@@ -187807,9 +188046,9 @@
       "icon": "",
       "name": "Liga Superior žien (Volleybox)",
       "name_en": "Liga Superior Women (Volleybox)",
-      "desc": "Stránka ženskej Ligy Superior v databáze Volleybox so zoznamom 18 ročníkov od sezóny 2009/10 — pri každom sú medailisti a po rozkliknutí konečné poradie. Zväz FBV tabuľku ligy na webe nezverejňuje.",
-      "desc_en": "The women’s Liga Superior on Volleybox, listing 18 seasons since 2009/10 — the medallists of each and, one click further, the final standings. The FBV federation does not publish a league table on its website.",
-      "url": "https://women.volleybox.net/women-bolivian-league-tt5452",
+      "desc": "Konečné poradie ženskej Ligy Superior 2025/26 (sezóna 2026) v databáze Volleybox — majster San Martín pred Olympicom Cochabamba a San Simónom. Zväz FBV tabuľku ligy na webe nezverejňuje.",
+      "desc_en": "Final standings of the 2025/26 women’s Liga Superior (2026 season) on Volleybox — champions San Martín ahead of Olympic Cochabamba and San Simón. The FBV federation does not publish a league table on its website.",
+      "url": "https://women.volleybox.net/women-bolivian-league-2025-26-o41489",
       "order": -1,
       "order_en": -1
     },
@@ -187835,7 +188074,8 @@
       "desc_en": "Cochabamba — Club Olympic, five-time women’s Liga Superior winners (most recently 2025) and 2026 runners-up; seventh at the 2026 South American Club Championship in Lima. It has no website of its own, so the link goes to the club’s official Facebook page.",
       "url": "https://www.facebook.com/clubolympicoficial/",
       "order": 1,
-      "order_en": 1
+      "order_en": 1,
+      "ig": "https://www.instagram.com/clubolympicoficial/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_z1_k3",
@@ -187847,7 +188087,8 @@
       "desc_en": "La Paz — Club San Antonio Galas Vóley, who stayed up in the women’s Liga Superior in September 2026 without losing a match. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/ClubSanAntonioGalasVoley",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "ig": "https://www.instagram.com/sgalas.voley/"
     },
     {
       "id": "f_vol_klu_ja_bolivia_z1_k4",
@@ -188745,6 +188986,128 @@
       "url": "https://www.instagram.com/patohandebol/",
       "order": 10,
       "desc_en": "Pato Branco in Paraná — Associação de Handebol de Pato Branco, a 2026 Liga Nacional national-phase side (4th in Group B); the link goes to the club's Instagram."
+    },
+    {
+      "id": "f_vol_klu_ja_argentina_m1_k11",
+      "parentId": "f_vol_klu_ja_argentina_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Ferro Carril Oeste",
+      "desc": "Buenos Aires — v roku 2026 sa stal majstrom Liga Nacional (vo finále zdolal Sonder, prvý titul po 37 rokoch) a od ročníka 2026/27 hrá Superligu. Odkaz vedie na volejbalovú rubriku oficiálneho webu klubu.",
+      "desc_en": "Buenos Aires — the club won the 2026 Liga Nacional (beating Sonder in the final, its first title in 37 years) and plays in the Superliga from 2026/27. The link goes to the volleyball section of the club’s official website.",
+      "url": "https://www.ferrocarriloeste.org.ar/categoria/voley/",
+      "ig": "https://www.instagram.com/ferrovoley/",
+      "order": 2,
+      "order_en": 2
+    },
+    {
+      "id": "f_vol_klu_ja_argentina_m1_k12",
+      "parentId": "f_vol_klu_ja_argentina_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Sonder",
+      "desc": "Rosario — Club Sonder Rosario, klub zameraný na volejbal, bol v roku 2026 finalistom Liga Nacional a od ročníka 2026/27 hrá Superligu. Klub má len informačnú stránku na webe rovnomennej značky oblečenia, odkaz preto vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Rosario — Club Sonder Rosario, a volleyball-focused club, was runner-up in the 2026 Liga Nacional and plays in the Superliga from 2026/27. The club only has an information page on the website of the clothing brand of the same name, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/ClubSonderRosario/",
+      "ig": "https://www.instagram.com/club.sonder/",
+      "order": 6,
+      "order_en": 6
+    },
+    {
+      "id": "f_vol_klu_ja_chile_z1_k12",
+      "parentId": "f_vol_klu_ja_chile_z1",
+      "type": "link",
+      "icon": "",
+      "name": "Anwandter",
+      "desc": "Viña del Mar / Valparaíso — Club de Voleibol Anwandter, nováčik Ligy A1 žien v sezóne 2026/27. Vlastný web ani facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Viña del Mar / Valparaíso — Club de Voleibol Anwandter, newcomers to the women’s Liga A1 in 2026/27. It has neither a website nor a Facebook page, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/anwandter_volley/",
+      "order": 0,
+      "order_en": 0
+    },
+    {
+      "id": "f_vol_klu_na_suriname_m1_k6",
+      "parentId": "f_vol_klu_na_suriname_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Bazooka",
+      "desc": "Paramaribo — volejbalový spolok v mužskej Hoofdklasse 2026. Vlastný web ani facebookovú stránku nemá, odkaz vedie na jeho oficiálny Instagram.",
+      "desc_en": "Paramaribo — a volleyball club in the 2026 men’s Hoofdklasse. It has neither a website nor a Facebook page, so the link goes to its official Instagram.",
+      "url": "https://www.instagram.com/vv_bazooka/",
+      "order": 0,
+      "order_en": 0
+    },
+    {
+      "id": "f_vol_klu_na_nicaragua_z1_k11",
+      "parentId": "f_vol_klu_na_nicaragua_z1",
+      "type": "link",
+      "icon": "",
+      "name": "Flecheras de Matagalpa",
+      "desc": "Matagalpa — účastník ženskej ligy 2026. Vlastný web ani facebookovú stránku nemá, odkaz vedie na jeho Instagram.",
+      "desc_en": "Matagalpa — a participant in the 2026 women’s league. It has neither a website nor a Facebook page, so the link goes to its Instagram.",
+      "url": "https://www.instagram.com/flecherasmatagalpavb/",
+      "order": 2,
+      "order_en": 2
+    },
+    {
+      "id": "f_vol_klu_af_tanzania_m1_k12",
+      "parentId": "f_vol_klu_af_tanzania_m1",
+      "type": "link",
+      "icon": "",
+      "name": "TPDC",
+      "desc": "Dar es Salaam — športový klub zamestnancov štátnej ropnej spoločnosti Tanzania Petroleum Development Corporation, účastník TVNL 2026 mužov. Vlastný web ani facebook nemá, odkaz vedie na instagramový účet klubu.",
+      "desc_en": "Dar es Salaam — the sports club of employees of the state oil company Tanzania Petroleum Development Corporation, a participant in the 2026 men’s TVNL. It has neither a website nor a Facebook page, so the link goes to the club’s Instagram account.",
+      "url": "https://www.instagram.com/tpdcsportsclub/",
+      "order": 11,
+      "order_en": 11
+    },
+    {
+      "id": "f_vol_klu_af_namibia_m1_k5",
+      "parentId": "f_vol_klu_af_namibia_m1",
+      "type": "link",
+      "icon": "",
+      "name": "NCS",
+      "desc": "región Khomas — klub Namíbijskej väzenskej služby (Namibian Correctional Service), majster ročníka 2025 MTC Volleyball National League. Vlastný web ani živý facebook nemá, odkaz vedie na jeho instagramový účet.",
+      "desc_en": "Khomas region — the club of the Namibian Correctional Service, 2025 champions of the MTC Volleyball National League. It has neither a website nor an active Facebook page, so the link goes to its Instagram account.",
+      "url": "https://www.instagram.com/ncs_volleyball_team/",
+      "order": 5,
+      "order_en": 5
+    },
+    {
+      "id": "f_vol_klu_af_namibia_m1_k6",
+      "parentId": "f_vol_klu_af_namibia_m1",
+      "type": "link",
+      "icon": "",
+      "name": "NamPower",
+      "desc": "región Khomas — tím štátnej energetickej spoločnosti NamPower, nováčik MTC Volleyball National League 2026, do ktorej postúpil spolu s Brutal Pact. Vlastný web ani živý facebook nemá, odkaz vedie na jeho instagramový účet.",
+      "desc_en": "Khomas region — the team of the state power utility NamPower, newcomers to the 2026 MTC Volleyball National League, promoted together with Brutal Pact. It has neither a website nor an active Facebook page, so the link goes to its Instagram account.",
+      "url": "https://www.instagram.com/nampower_vc/",
+      "order": 4,
+      "order_en": 4
+    },
+    {
+      "id": "f_vol_klu_af_namibia_m1_k7",
+      "parentId": "f_vol_klu_af_namibia_m1",
+      "type": "link",
+      "icon": "",
+      "name": "UNAM Hard Hitters",
+      "desc": "región Khomas — tím University of Namibia založený v roku 2015 (podľa jeho profilu), účastník MTC Volleyball National League 2026. Vlastný web ani facebook nemá, odkaz vedie na jeho instagramový účet.",
+      "desc_en": "Khomas region — the University of Namibia team founded in 2015 (according to its profile), taking part in the 2026 MTC Volleyball National League. It has neither a website nor a Facebook page, so the link goes to its Instagram account.",
+      "url": "https://www.instagram.com/unam_hard.hitters/",
+      "order": 7,
+      "order_en": 7
+    },
+    {
+      "id": "f_vol_klu_af_namibia_m1_k8",
+      "parentId": "f_vol_klu_af_namibia_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Calvary Eagles",
+      "desc": "región Khomas — Calvary Eagles Sports Club, účastník MTC Volleyball National League 2026. Vlastný web ani facebook nemá, odkaz vedie na jeho instagramový účet.",
+      "desc_en": "Khomas region — Calvary Eagles Sports Club, taking part in the 2026 MTC Volleyball National League. It has neither a website nor a Facebook page, so the link goes to its Instagram account.",
+      "url": "https://www.instagram.com/calvary_eagles.sc/",
+      "order": 2,
+      "order_en": 2
     }
   ],
   "title_en": "Sportlinking",
