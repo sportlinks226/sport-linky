@@ -1,5 +1,5 @@
 {
-  "version": 797,
+  "version": 802,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -147095,7 +147095,7 @@
       "icon": "",
       "name": "WHL – Western Hockey League",
       "desc": "Oficiálny web WHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
-      "url": "https://chl.ca/whl/",
+      "url": "https://chl.ca/whl/standings/",
       "order": -1,
       "name_en": "WHL – Western Hockey League",
       "desc_en": "Official WHL section on the CHL portal — schedule, results, standings and stats."
@@ -147120,7 +147120,7 @@
       "icon": "",
       "name": "OHL – Ontario Hockey League",
       "desc": "Oficiálny web OHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
-      "url": "https://chl.ca/ohl/",
+      "url": "https://chl.ca/ohl/standings/",
       "order": -1,
       "name_en": "OHL – Ontario Hockey League",
       "desc_en": "Official OHL section on the CHL portal — schedule, results, standings and stats."
@@ -147145,9 +147145,9 @@
       "icon": "",
       "name": "QMJHL – Quebec Maritimes Junior Hockey League",
       "desc": "Oficiálny web QMJHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
-      "url": "https://chl.ca/lhjmq/",
+      "url": "https://chl.ca/lhjmq/standings/",
       "order": -1,
-      "name_en": "QMJHL – Quebec Major Junior Hockey League",
+      "name_en": "QMJHL – Quebec Maritimes Junior Hockey League",
       "desc_en": "Official QMJHL section on the CHL portal — schedule, results, standings and stats."
     },
     {
@@ -147170,7 +147170,7 @@
       "icon": "",
       "name": "USHL – United States Hockey League",
       "desc": "Oficiálny web USHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
-      "url": "https://ushl.com/",
+      "url": "https://ushl.com/ht/#/team-stats",
       "order": -1,
       "name_en": "USHL – United States Hockey League",
       "desc_en": "Official USHL website — schedule, results, standings and team rosters."
@@ -147195,7 +147195,7 @@
       "icon": "",
       "name": "NAHL – North American Hockey League",
       "desc": "Oficiálny web NAHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
-      "url": "https://nahl.com/",
+      "url": "https://nahl.com/standings/",
       "order": -1,
       "name_en": "NAHL – North American Hockey League",
       "desc_en": "Official NAHL website — schedule, results, standings and team rosters."
@@ -147219,11 +147219,11 @@
       "type": "link",
       "icon": "",
       "name": "NCDC – National Collegiate Development Conference",
-      "desc": "Oficiálny web NCDC v rámci portálu USPHL — rozpis zápasov, výsledky a tabuľky.",
-      "url": "https://usphl.com/ncdc/",
+      "desc": "Tabuľka NCDC na portáli USPHL — aktuálne poradie všetkých tímov súťaže.",
+      "url": "https://usphl.com/ncdc/game-center/standings/",
       "order": -1,
       "name_en": "NCDC – National Collegiate Development Conference",
-      "desc_en": "Official NCDC section on the USPHL portal — schedule, results and standings."
+      "desc_en": "NCDC standings on the USPHL portal — current table of all teams in the league."
     },
     {
       "id": "f_hok_klu_na_bchl",
@@ -147245,7 +147245,7 @@
       "icon": "",
       "name": "BCHL – British Columbia Hockey League",
       "desc": "Oficiálny web BCHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
-      "url": "https://bchl.ca/",
+      "url": "https://bchl.ca/stats/standings",
       "order": -1,
       "name_en": "BCHL – British Columbia Hockey League",
       "desc_en": "Official BCHL website — schedule, results, standings and team rosters."
@@ -147270,7 +147270,7 @@
       "icon": "",
       "name": "PWHL – Professional Women's Hockey League",
       "desc": "Oficiálny web PWHL — rozpis zápasov, výsledky, tabuľka a štatistiky hráčok.",
-      "url": "https://www.thepwhl.com/en/",
+      "url": "https://www.thepwhl.com/en/stats/standings",
       "order": -1,
       "name_en": "PWHL – Professional Women's Hockey League",
       "desc_en": "Official PWHL website — schedule, results, standings and player stats."
@@ -148518,7 +148518,9 @@
       "desc": "Boston, Massachusetts — zakladajúci člen PWHL z roku 2023, domov má v Agganis Arene pre 6 150 divákov.",
       "url": "https://www.thepwhl.com/en/teams/boston-fleet",
       "order": 0,
-      "desc_en": "Boston, Massachusetts — a PWHL founding member from 2023, playing at the 6,150-seat Agganis Arena."
+      "desc_en": "Boston, Massachusetts — a PWHL founding member from 2023, playing at the 6,150-seat Agganis Arena.",
+      "fb": "https://www.facebook.com/PWHLBoston/",
+      "ig": "https://www.instagram.com/pwhl_fleet/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k2",
@@ -148529,7 +148531,9 @@
       "desc": "Saint Paul, Minnesota — najúspešnejší tím ligy s dvoma Walter Cupmi (2024 a 2025), hrá v Grand Casino Arene.",
       "url": "https://www.thepwhl.com/en/teams/minnesota-frost",
       "order": 1,
-      "desc_en": "Saint Paul, Minnesota — the league's most successful team with two Walter Cups (2024 and 2025), playing at Grand Casino Arena."
+      "desc_en": "Saint Paul, Minnesota — the league's most successful team with two Walter Cups (2024 and 2025), playing at Grand Casino Arena.",
+      "fb": "https://www.facebook.com/PWHLMinnesota/",
+      "ig": "https://www.instagram.com/pwhl_frost/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k3",
@@ -148540,7 +148544,9 @@
       "desc": "Laval, Quebec — víťaz Walter Cupu 2026 a vôbec prvý kanadský šampión PWHL, hrá v hale Place Bell.",
       "url": "https://www.thepwhl.com/en/teams/montreal-victoire",
       "order": 2,
-      "desc_en": "Laval, Quebec — 2026 Walter Cup winner and the first Canadian champion in PWHL history, playing at Place Bell."
+      "desc_en": "Laval, Quebec — 2026 Walter Cup winner and the first Canadian champion in PWHL history, playing at Place Bell.",
+      "fb": "https://www.facebook.com/PWHLMontreal/",
+      "ig": "https://www.instagram.com/victoire_lphf/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k4",
@@ -148551,7 +148557,9 @@
       "desc": "Zakladajúci člen ligy z roku 2023, ktorý napriek názvu hrá v Prudential Center v Newarku v New Jersey.",
       "url": "https://www.thepwhl.com/en/teams/new-york-sirens",
       "order": 3,
-      "desc_en": "A 2023 founding member that, despite its name, plays at the Prudential Center in Newark, New Jersey."
+      "desc_en": "A 2023 founding member that, despite its name, plays at the Prudential Center in Newark, New Jersey.",
+      "fb": "https://www.facebook.com/PWHLNewYork/",
+      "ig": "https://www.instagram.com/pwhl_sirens/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k5",
@@ -148562,7 +148570,9 @@
       "desc": "Kanata, Ontario — zakladajúci člen PWHL z roku 2023, hrá v Canadian Tire Centre pre 18 000 divákov.",
       "url": "https://www.thepwhl.com/en/teams/ottawa-charge",
       "order": 4,
-      "desc_en": "Kanata, Ontario — a PWHL founding member from 2023, playing at the 18,000-seat Canadian Tire Centre."
+      "desc_en": "Kanata, Ontario — a PWHL founding member from 2023, playing at the 18,000-seat Canadian Tire Centre.",
+      "fb": "https://www.facebook.com/PWHLOttawa/",
+      "ig": "https://www.instagram.com/pwhl_charge/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k6",
@@ -148573,7 +148583,9 @@
       "desc": "Detroit, Michigan — expanzný tím pre sezónu 2026/27 oznámený 6. mája 2026, hrá v Little Caesars Arene a zatiaľ čaká na svoj názov.",
       "url": "https://www.thepwhl.com/en/teams/detroit",
       "order": 5,
-      "desc_en": "Detroit, Michigan — an expansion team for 2026-27 announced on 6 May 2026, playing at Little Caesars Arena and still awaiting its nickname."
+      "desc_en": "Detroit, Michigan — an expansion team for 2026-27 announced on 6 May 2026, playing at Little Caesars Arena and still awaiting its nickname.",
+      "fb": "https://www.facebook.com/PWHLDetroit/",
+      "ig": "https://www.instagram.com/pwhl__detroit/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k7",
@@ -148584,7 +148596,9 @@
       "desc": "Hamilton, Ontario — expanzný tím oznámený 13. mája 2026, hrá v TD Coliseu a zatiaľ vystupuje pod pracovným názvom.",
       "url": "https://www.thepwhl.com/en/teams/hamilton",
       "order": 6,
-      "desc_en": "Hamilton, Ontario — an expansion team announced on 13 May 2026, playing at TD Coliseum under a working name for now."
+      "desc_en": "Hamilton, Ontario — an expansion team announced on 13 May 2026, playing at TD Coliseum under a working name for now.",
+      "fb": "https://www.facebook.com/PWHLHamilton/",
+      "ig": "https://www.instagram.com/pwhl_hamilton/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k8",
@@ -148595,7 +148609,9 @@
       "desc": "Paradise, Nevada — expanzný tím oznámený 13. mája 2026, hrá v T-Mobile Arene a zatiaľ vystupuje pod pracovným názvom.",
       "url": "https://www.thepwhl.com/en/teams/las-vegas",
       "order": 7,
-      "desc_en": "Paradise, Nevada — an expansion team announced on 13 May 2026, playing at T-Mobile Arena under a working name for now."
+      "desc_en": "Paradise, Nevada — an expansion team announced on 13 May 2026, playing at T-Mobile Arena under a working name for now.",
+      "fb": "https://www.facebook.com/PWHLLasVegas/",
+      "ig": "https://www.instagram.com/pwhl_lasvegas/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k9",
@@ -148606,7 +148622,9 @@
       "desc": "San Jose, Kalifornia — dvanásty tím ligy oznámený 19. mája 2026, hrá v SAP Center a zatiaľ čaká na svoj názov.",
       "url": "https://www.thepwhl.com/en/teams/san-jose",
       "order": 8,
-      "desc_en": "San Jose, California — the league's twelfth team, announced on 19 May 2026, playing at SAP Center and still awaiting its nickname."
+      "desc_en": "San Jose, California — the league's twelfth team, announced on 19 May 2026, playing at SAP Center and still awaiting its nickname.",
+      "fb": "https://www.facebook.com/PWHLSanJose/",
+      "ig": "https://www.instagram.com/pwhl_sanjose/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k10",
@@ -148617,7 +148635,9 @@
       "desc": "Seattle, Washington — druhý expanzný tím ligy so vstupom v sezóne 2025/26, hrá v Climate Pledge Arene po boku NHL klubu Kraken.",
       "url": "https://www.thepwhl.com/en/teams/seattle-torrent",
       "order": 9,
-      "desc_en": "Seattle, Washington — the league's second expansion team, joining in 2025-26 and sharing Climate Pledge Arena with the NHL's Kraken."
+      "desc_en": "Seattle, Washington — the league's second expansion team, joining in 2025-26 and sharing Climate Pledge Arena with the NHL's Kraken.",
+      "fb": "https://www.facebook.com/PWHLSeattle/",
+      "ig": "https://www.instagram.com/pwhl_torrent/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k11",
@@ -148628,7 +148648,9 @@
       "desc": "Toronto, Ontario — zakladajúci člen PWHL z roku 2023, hrá v Coca-Cola Coliseu pre 8 100 divákov.",
       "url": "https://www.thepwhl.com/en/teams/toronto-sceptres",
       "order": 10,
-      "desc_en": "Toronto, Ontario — a PWHL founding member from 2023, playing at the 8,100-seat Coca-Cola Coliseum."
+      "desc_en": "Toronto, Ontario — a PWHL founding member from 2023, playing at the 8,100-seat Coca-Cola Coliseum.",
+      "fb": "https://www.facebook.com/PWHLToronto/",
+      "ig": "https://www.instagram.com/pwhl_sceptres/"
     },
     {
       "id": "f_hok_klu_na_pwhl_k12",
@@ -148639,7 +148661,9 @@
       "desc": "Vancouver, Britská Kolumbia — vôbec prvý expanzný tím v histórii PWHL, do ligy vstúpil v sezóne 2025/26 a hrá v Pacific Coliseu.",
       "url": "https://www.thepwhl.com/en/teams/vancouver-goldeneyes",
       "order": 11,
-      "desc_en": "Vancouver, British Columbia — the first expansion team in PWHL history, joining in 2025-26 and playing at the Pacific Coliseum."
+      "desc_en": "Vancouver, British Columbia — the first expansion team in PWHL history, joining in 2025-26 and playing at the Pacific Coliseum.",
+      "fb": "https://www.facebook.com/PWHLVancouver/",
+      "ig": "https://www.instagram.com/pwhl_goldeneyes/"
     },
     {
       "id": "f_hok_klu_na_whl_k1",
@@ -148650,7 +148674,9 @@
       "desc": "Brandon v Manitobe, hala Keystone Centre — trikrát získal Ed Chynoweth Cup (1979, 1996, 2016).",
       "url": "https://chl.ca/whl-wheatkings/",
       "order": 0,
-      "desc_en": "Brandon, Manitoba, playing at the Keystone Centre — three-time Ed Chynoweth Cup champion (1979, 1996, 2016)."
+      "desc_en": "Brandon, Manitoba, playing at the Keystone Centre — three-time Ed Chynoweth Cup champion (1979, 1996, 2016).",
+      "fb": "https://www.facebook.com/bdnwheatkings/",
+      "ig": "https://www.instagram.com/bdnwheatkings/"
     },
     {
       "id": "f_hok_klu_na_whl_k2",
@@ -148661,7 +148687,9 @@
       "desc": "Calgary v Alberte, hrá v Scotiabank Saddledome — dvakrát vyhral Ed Chynoweth Cup (1999, 2010).",
       "url": "https://chl.ca/whl-hitmen/",
       "order": 1,
-      "desc_en": "Calgary, Alberta, playing at the Scotiabank Saddledome — two-time Ed Chynoweth Cup winner (1999, 2010)."
+      "desc_en": "Calgary, Alberta, playing at the Scotiabank Saddledome — two-time Ed Chynoweth Cup winner (1999, 2010).",
+      "fb": "https://www.facebook.com/HitmenHockey/",
+      "ig": "https://www.instagram.com/whlhitmen/"
     },
     {
       "id": "f_hok_klu_na_whl_k3",
@@ -148672,7 +148700,9 @@
       "desc": "Edmonton v Alberte, hala Rogers Place — päťkrát majster WHL a víťaz Memorial Cupu 2014.",
       "url": "https://chl.ca/whl-oilkings/",
       "order": 2,
-      "desc_en": "Edmonton, Alberta, at Rogers Place — five-time WHL champion and 2014 Memorial Cup winner."
+      "desc_en": "Edmonton, Alberta, at Rogers Place — five-time WHL champion and 2014 Memorial Cup winner.",
+      "fb": "https://www.facebook.com/EdmOilKings/",
+      "ig": "https://www.instagram.com/edmoilkings/"
     },
     {
       "id": "f_hok_klu_na_whl_k4",
@@ -148683,7 +148713,9 @@
       "desc": "Everett v štáte Washington, hala Angel of the Winds Arena — v roku 2026 získal prvý Ed Chynoweth Cup a na Memorial Cupe skončil druhý.",
       "url": "https://chl.ca/whl-silvertips/",
       "order": 3,
-      "desc_en": "Everett, Washington, at Angel of the Winds Arena — won its first Ed Chynoweth Cup in 2026 and finished runner-up at the Memorial Cup."
+      "desc_en": "Everett, Washington, at Angel of the Winds Arena — won its first Ed Chynoweth Cup in 2026 and finished runner-up at the Memorial Cup.",
+      "fb": "https://www.facebook.com/EverettSilvertips/",
+      "ig": "https://www.instagram.com/everett_silvertips/"
     },
     {
       "id": "f_hok_klu_na_whl_k5",
@@ -148694,7 +148726,9 @@
       "desc": "Kamloops v Britskej Kolumbii, hala Sandman Centre — šesťkrát majster WHL a trikrát víťaz Memorial Cupu (1992, 1994, 1995).",
       "url": "https://chl.ca/whl-blazers/",
       "order": 4,
-      "desc_en": "Kamloops, British Columbia, at the Sandman Centre — six-time WHL champion and three-time Memorial Cup winner (1992, 1994, 1995)."
+      "desc_en": "Kamloops, British Columbia, at the Sandman Centre — six-time WHL champion and three-time Memorial Cup winner (1992, 1994, 1995).",
+      "fb": "https://www.facebook.com/Blazerhockey/",
+      "ig": "https://www.instagram.com/blazerhockey/"
     },
     {
       "id": "f_hok_klu_na_whl_k6",
@@ -148705,7 +148739,9 @@
       "desc": "Kelowna v Britskej Kolumbii, hala Prospera Place — štyri tituly WHL a Memorial Cup 2004 v pozícii usporiadateľa.",
       "url": "https://chl.ca/whl-rockets/",
       "order": 5,
-      "desc_en": "Kelowna, British Columbia, at Prospera Place — four WHL titles and the 2004 Memorial Cup as host."
+      "desc_en": "Kelowna, British Columbia, at Prospera Place — four WHL titles and the 2004 Memorial Cup as host.",
+      "fb": "https://www.facebook.com/KelownaRockets/",
+      "ig": "https://www.instagram.com/kelownarocketswhl/"
     },
     {
       "id": "f_hok_klu_na_whl_k7",
@@ -148716,7 +148752,9 @@
       "desc": "Lethbridge v Alberte, hala VisitLethbridge.com Arena — jediný titul WHL získal v roku 1997.",
       "url": "https://chl.ca/whl-hurricanes/",
       "order": 6,
-      "desc_en": "Lethbridge, Alberta, at the VisitLethbridge.com Arena — won its only WHL title in 1997."
+      "desc_en": "Lethbridge, Alberta, at the VisitLethbridge.com Arena — won its only WHL title in 1997.",
+      "fb": "https://www.facebook.com/WHLHurricanes/",
+      "ig": "https://www.instagram.com/whlhurricanes/"
     },
     {
       "id": "f_hok_klu_na_whl_k8",
@@ -148727,7 +148765,9 @@
       "desc": "Medicine Hat v Alberte, hala Co-op Place — šesť titulov WHL (naposledy 2025) a dva Memorial Cupy (1987, 1988).",
       "url": "https://chl.ca/whl-tigers/",
       "order": 7,
-      "desc_en": "Medicine Hat, Alberta, at Co-op Place — six WHL titles (most recently 2025) and two Memorial Cups (1987, 1988)."
+      "desc_en": "Medicine Hat, Alberta, at Co-op Place — six WHL titles (most recently 2025) and two Memorial Cups (1987, 1988).",
+      "fb": "https://www.facebook.com/whltigers/",
+      "ig": "https://www.instagram.com/medhattigers/"
     },
     {
       "id": "f_hok_klu_na_whl_k9",
@@ -148738,7 +148778,9 @@
       "desc": "Moose Jaw v Saskatchewane, hala Temple Gardens Centre — prvý titul WHL získal v roku 2024.",
       "url": "https://chl.ca/whl-warriors/",
       "order": 8,
-      "desc_en": "Moose Jaw, Saskatchewan, at the Temple Gardens Centre — won its first WHL title in 2024."
+      "desc_en": "Moose Jaw, Saskatchewan, at the Temple Gardens Centre — won its first WHL title in 2024.",
+      "fb": "https://www.facebook.com/mjwarriors/",
+      "ig": "https://www.instagram.com/mjwarriors/"
     },
     {
       "id": "f_hok_klu_na_whl_k10",
@@ -148749,7 +148791,9 @@
       "desc": "Penticton v Britskej Kolumbii, hala South Okanagan Events Centre — do WHL vstúpil ako nováčik v sezóne 2025/26, medzi spolumajiteľmi sú Mark Scheifele a Mike Richter.",
       "url": "https://chl.ca/whl-vees/",
       "order": 9,
-      "desc_en": "Penticton, British Columbia, at the South Okanagan Events Centre — joined the WHL as an expansion team in 2025–26; co-owners include Mark Scheifele and Mike Richter."
+      "desc_en": "Penticton, British Columbia, at the South Okanagan Events Centre — joined the WHL as an expansion team in 2025–26; co-owners include Mark Scheifele and Mike Richter.",
+      "fb": "https://www.facebook.com/pentictonvees/",
+      "ig": "https://www.instagram.com/penticton.vees/"
     },
     {
       "id": "f_hok_klu_na_whl_k11",
@@ -148760,7 +148804,9 @@
       "desc": "Portland v Oregone, hala Veterans Memorial Coliseum — tri tituly WHL a dva Memorial Cupy (1983, 1998).",
       "url": "https://chl.ca/whl-winterhawks/",
       "order": 10,
-      "desc_en": "Portland, Oregon, at Veterans Memorial Coliseum — three WHL titles and two Memorial Cups (1983, 1998)."
+      "desc_en": "Portland, Oregon, at Veterans Memorial Coliseum — three WHL titles and two Memorial Cups (1983, 1998).",
+      "fb": "https://www.facebook.com/pdxwinterhawks/",
+      "ig": "https://www.instagram.com/winterhawks/"
     },
     {
       "id": "f_hok_klu_na_whl_k12",
@@ -148771,7 +148817,9 @@
       "desc": "Prince Albert v Saskatchewane, hala Art Hauser Centre — dva tituly WHL (1985, 2019) a Memorial Cup 1985.",
       "url": "https://chl.ca/whl-raiders/",
       "order": 11,
-      "desc_en": "Prince Albert, Saskatchewan, at the Art Hauser Centre — two WHL titles (1985, 2019) and the 1985 Memorial Cup."
+      "desc_en": "Prince Albert, Saskatchewan, at the Art Hauser Centre — two WHL titles (1985, 2019) and the 1985 Memorial Cup.",
+      "fb": "https://www.facebook.com/raiderhockey/",
+      "ig": "https://www.instagram.com/paraidershockey/"
     },
     {
       "id": "f_hok_klu_na_whl_k13",
@@ -148782,7 +148830,9 @@
       "desc": "Prince George v Britskej Kolumbii, domovskou halou je CN Centre.",
       "url": "https://chl.ca/whl-cougars/",
       "order": 12,
-      "desc_en": "Prince George, British Columbia, playing at the CN Centre."
+      "desc_en": "Prince George, British Columbia, playing at the CN Centre.",
+      "fb": "https://www.facebook.com/pgcougars/",
+      "ig": "https://www.instagram.com/pgcougars/"
     },
     {
       "id": "f_hok_klu_na_whl_k14",
@@ -148793,7 +148843,9 @@
       "desc": "Red Deer v Alberte, hala Marchant Crane Centrium — v roku 2001 získal titul WHL aj Memorial Cup.",
       "url": "https://chl.ca/whl-rebels/",
       "order": 13,
-      "desc_en": "Red Deer, Alberta, at the Marchant Crane Centrium — won both the WHL title and the Memorial Cup in 2001."
+      "desc_en": "Red Deer, Alberta, at the Marchant Crane Centrium — won both the WHL title and the Memorial Cup in 2001.",
+      "fb": "https://www.facebook.com/RedDeerRebelsOfficial/",
+      "ig": "https://www.instagram.com/rdrebels/"
     },
     {
       "id": "f_hok_klu_na_whl_k15",
@@ -148804,7 +148856,9 @@
       "desc": "Regina v Saskatchewane, klub z roku 1917 — trikrát vyhral Memorial Cup (1925, 1930, 1974), hrá v Brandt Centre.",
       "url": "https://chl.ca/whl-pats/",
       "order": 14,
-      "desc_en": "Regina, Saskatchewan, founded in 1917 — a three-time Memorial Cup winner (1925, 1930, 1974) playing at the Brandt Centre."
+      "desc_en": "Regina, Saskatchewan, founded in 1917 — a three-time Memorial Cup winner (1925, 1930, 1974) playing at the Brandt Centre.",
+      "fb": "https://www.facebook.com/WHLPats/",
+      "ig": "https://www.instagram.com/reginapatshockey/"
     },
     {
       "id": "f_hok_klu_na_whl_k16",
@@ -148815,7 +148869,9 @@
       "desc": "Saskatoon v Saskatchewane, hala SaskTel Centre — klub z roku 1964 päťkrát prehral finále WHL a na prvý titul stále čaká.",
       "url": "https://chl.ca/whl-blades/",
       "order": 15,
-      "desc_en": "Saskatoon, Saskatchewan, at SaskTel Centre — founded in 1964, the Blades have lost five WHL finals and are still chasing a first title."
+      "desc_en": "Saskatoon, Saskatchewan, at SaskTel Centre — founded in 1964, the Blades have lost five WHL finals and are still chasing a first title.",
+      "fb": "https://www.facebook.com/saskatoonblades/",
+      "ig": "https://www.instagram.com/bladeshockeyofficial/"
     },
     {
       "id": "f_hok_klu_na_whl_k17",
@@ -148826,7 +148882,9 @@
       "desc": "Klub zo Seattlu hrá v susednom meste Kent v hale accesso ShoWare Center — dva tituly WHL (2017, 2023).",
       "url": "https://chl.ca/whl-thunderbirds/",
       "order": 16,
-      "desc_en": "The Seattle club plays in neighbouring Kent, Washington, at the accesso ShoWare Center — two WHL titles (2017, 2023)."
+      "desc_en": "The Seattle club plays in neighbouring Kent, Washington, at the accesso ShoWare Center — two WHL titles (2017, 2023).",
+      "fb": "https://www.facebook.com/SeattleThunderbirds/",
+      "ig": "https://www.instagram.com/seattlethunderbirds/"
     },
     {
       "id": "f_hok_klu_na_whl_k18",
@@ -148837,7 +148895,9 @@
       "desc": "Spokane v štáte Washington, hala Numerica Veterans Arena — dva tituly WHL a dva Memorial Cupy (1991, 2008).",
       "url": "https://chl.ca/whl-chiefs/",
       "order": 17,
-      "desc_en": "Spokane, Washington, at Numerica Veterans Arena — two WHL titles and two Memorial Cups (1991, 2008)."
+      "desc_en": "Spokane, Washington, at Numerica Veterans Arena — two WHL titles and two Memorial Cups (1991, 2008).",
+      "fb": "https://www.facebook.com/spokanechiefs/",
+      "ig": "https://www.instagram.com/spokanechiefs/"
     },
     {
       "id": "f_hok_klu_na_whl_k19",
@@ -148848,7 +148908,9 @@
       "desc": "Swift Current v Saskatchewane, hala InnovationPlex — tri tituly WHL a Memorial Cup 1989.",
       "url": "https://chl.ca/whl-broncos/",
       "order": 18,
-      "desc_en": "Swift Current, Saskatchewan, at the InnovationPlex — three WHL titles and the 1989 Memorial Cup."
+      "desc_en": "Swift Current, Saskatchewan, at the InnovationPlex — three WHL titles and the 1989 Memorial Cup.",
+      "fb": "https://www.facebook.com/SwiftCurrentBroncos/",
+      "ig": "https://www.instagram.com/swiftcurrentbroncos/"
     },
     {
       "id": "f_hok_klu_na_whl_k20",
@@ -148859,7 +148921,9 @@
       "desc": "Klub zastupuje oblasť Tri-Cities v štáte Washington, hrá v Kennewicku v hale Toyota Center.",
       "url": "https://chl.ca/whl-americans/",
       "order": 19,
-      "desc_en": "Representing the Tri-Cities area of Washington, the club plays in Kennewick at the Toyota Center."
+      "desc_en": "Representing the Tri-Cities area of Washington, the club plays in Kennewick at the Toyota Center.",
+      "fb": "https://www.facebook.com/TCAmericans/",
+      "ig": "https://www.instagram.com/tcamericans/"
     },
     {
       "id": "f_hok_klu_na_whl_k21",
@@ -148870,7 +148934,9 @@
       "desc": "Vancouverský klub hrá v meste Langley v hale Langley Events Centre — titul WHL 2006 a Memorial Cup 2007.",
       "url": "https://chl.ca/whl-giants/",
       "order": 20,
-      "desc_en": "The Vancouver club plays in Langley at the Langley Events Centre — 2006 WHL title and 2007 Memorial Cup."
+      "desc_en": "The Vancouver club plays in Langley at the Langley Events Centre — 2006 WHL title and 2007 Memorial Cup.",
+      "fb": "https://www.facebook.com/WHLGiants/",
+      "ig": "https://www.instagram.com/whlgiants/"
     },
     {
       "id": "f_hok_klu_na_whl_k22",
@@ -148881,7 +148947,9 @@
       "desc": "Victoria v Britskej Kolumbii, hala Save-On-Foods Memorial Centre — jediný klub WHL na Vancouverskom ostrove.",
       "url": "https://chl.ca/whl-royals/",
       "order": 21,
-      "desc_en": "Victoria, British Columbia, at the Save-On-Foods Memorial Centre — the only WHL club on Vancouver Island."
+      "desc_en": "Victoria, British Columbia, at the Save-On-Foods Memorial Centre — the only WHL club on Vancouver Island.",
+      "fb": "https://www.facebook.com/victoriaroyals/",
+      "ig": "https://www.instagram.com/victoriaroyals/"
     },
     {
       "id": "f_hok_klu_na_whl_k23",
@@ -148892,7 +148960,9 @@
       "desc": "Wenatchee v štáte Washington, hala Town Toyota Center — franšíza pôsobila ako Kootenay Ice a Winnipeg Ice, presťahovala sa sem v roku 2023.",
       "url": "https://chl.ca/whl-wild/",
       "order": 22,
-      "desc_en": "Wenatchee, Washington, at the Town Toyota Center — the franchise played as the Kootenay Ice and Winnipeg Ice before relocating here in 2023."
+      "desc_en": "Wenatchee, Washington, at the Town Toyota Center — the franchise played as the Kootenay Ice and Winnipeg Ice before relocating here in 2023.",
+      "fb": "https://www.facebook.com/WHLWild/",
+      "ig": "https://www.instagram.com/whlwild_/"
     },
     {
       "id": "f_hok_klu_na_ohl_k1",
@@ -148903,7 +148973,9 @@
       "desc": "Barrie v Ontáriu — domovom je Sadlon Arena, jediný J. Ross Robertson Cup klub získal v sezóne 1999/2000.",
       "url": "https://chl.ca/ohl-colts/",
       "order": 0,
-      "desc_en": "Barrie, Ontario — plays at Sadlon Arena and won its only J. Ross Robertson Cup in 1999–2000."
+      "desc_en": "Barrie, Ontario — plays at Sadlon Arena and won its only J. Ross Robertson Cup in 1999–2000.",
+      "fb": "https://www.facebook.com/OHLBarrieColts/",
+      "ig": "https://www.instagram.com/barriecoltshockeyohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k2",
@@ -148914,7 +148986,9 @@
       "desc": "Brampton v Ontáriu — hrá v hale CAA Centre, do mesta sa klub presťahoval z Mississaugy v roku 2024.",
       "url": "https://chl.ca/ohl-steelheads/",
       "order": 1,
-      "desc_en": "Brampton, Ontario — plays at the CAA Centre after relocating from Mississauga in 2024."
+      "desc_en": "Brampton, Ontario — plays at the CAA Centre after relocating from Mississauga in 2024.",
+      "fb": "https://www.facebook.com/OHLSteelheads/",
+      "ig": "https://www.instagram.com/ohlsteelheads/"
     },
     {
       "id": "f_hok_klu_na_ohl_k3",
@@ -148925,7 +148999,9 @@
       "desc": "Brantford v Ontáriu — franšíza vznikla v roku 1981 ako Belleville Bulls, cez Hamilton sa sem presťahovala v roku 2023 a hrá v TD Civic Centre.",
       "url": "https://chl.ca/ohl-bulldogs/",
       "order": 2,
-      "desc_en": "Brantford, Ontario — the franchise began in 1981 as the Belleville Bulls, moved here via Hamilton in 2023 and plays at TD Civic Centre."
+      "desc_en": "Brantford, Ontario — the franchise began in 1981 as the Belleville Bulls, moved here via Hamilton in 2023 and plays at TD Civic Centre.",
+      "fb": "https://www.facebook.com/BulldogsOHL/",
+      "ig": "https://www.instagram.com/bulldogsohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k4",
@@ -148936,7 +149012,9 @@
       "desc": "Erie v Pensylvánii — jeden z troch amerických klubov ligy, hrá v Erie Insurance Arena a má dva J. Ross Robertson Cupy (2002, 2017).",
       "url": "https://chl.ca/ohl-otters/",
       "order": 3,
-      "desc_en": "Erie, Pennsylvania — one of the league's three US-based clubs, plays at Erie Insurance Arena and has two J. Ross Robertson Cups (2002, 2017)."
+      "desc_en": "Erie, Pennsylvania — one of the league's three US-based clubs, plays at Erie Insurance Arena and has two J. Ross Robertson Cups (2002, 2017).",
+      "fb": "https://www.facebook.com/erieottershockey/",
+      "ig": "https://www.instagram.com/erieotters/"
     },
     {
       "id": "f_hok_klu_na_ohl_k5",
@@ -148947,7 +149025,9 @@
       "desc": "Flint v Michigane — v OHL hrá od sezóny 2015/16, domácim štadiónom je Dort Financial Center.",
       "url": "https://chl.ca/ohl-firebirds/",
       "order": 4,
-      "desc_en": "Flint, Michigan — in the OHL since 2015–16, playing home games at the Dort Financial Center."
+      "desc_en": "Flint, Michigan — in the OHL since 2015–16, playing home games at the Dort Financial Center.",
+      "fb": "https://www.facebook.com/FlintFirebirds/",
+      "ig": "https://www.instagram.com/flintfirebirds/"
     },
     {
       "id": "f_hok_klu_na_ohl_k6",
@@ -148958,7 +149038,9 @@
       "desc": "Guelph v Ontáriu — v OHL od sezóny 1991/92 a v hale Sleeman Centre; štyri J. Ross Robertson Cupy, naposledy v roku 2019.",
       "url": "https://chl.ca/ohl-storm/",
       "order": 5,
-      "desc_en": "Guelph, Ontario — in the OHL since 1991–92 at the Sleeman Centre, with four J. Ross Robertson Cups, the last in 2019."
+      "desc_en": "Guelph, Ontario — in the OHL since 1991–92 at the Sleeman Centre, with four J. Ross Robertson Cups, the last in 2019.",
+      "fb": "https://www.facebook.com/StormCity/",
+      "ig": "https://www.instagram.com/guelph_storm_ohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k7",
@@ -148969,7 +149051,9 @@
       "desc": "Kingston v Ontáriu — hrá v hale Slush Puppie Place otvorenej v roku 2008.",
       "url": "https://chl.ca/ohl-frontenacs/",
       "order": 6,
-      "desc_en": "Kingston, Ontario — plays at Slush Puppie Place, which opened in 2008."
+      "desc_en": "Kingston, Ontario — plays at Slush Puppie Place, which opened in 2008.",
+      "fb": "https://www.facebook.com/KingstonFrontenacs/",
+      "ig": "https://www.instagram.com/kingstonfrontsohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k8",
@@ -148980,7 +149064,9 @@
       "desc": "Kitchener v Ontáriu — trojnásobný víťaz Memorial Cupu (1982, 2003, 2026), hrá v Kitchener Memorial Auditorium.",
       "url": "https://chl.ca/ohl-rangers/",
       "order": 7,
-      "desc_en": "Kitchener, Ontario — three-time Memorial Cup champion (1982, 2003, 2026), playing at the Kitchener Memorial Auditorium."
+      "desc_en": "Kitchener, Ontario — three-time Memorial Cup champion (1982, 2003, 2026), playing at the Kitchener Memorial Auditorium.",
+      "fb": "https://www.facebook.com/ohlrangers/",
+      "ig": "https://www.instagram.com/ohlrangers/"
     },
     {
       "id": "f_hok_klu_na_ohl_k9",
@@ -148991,7 +149077,9 @@
       "desc": "London v Ontáriu — tri Memorial Cupy (2005, 2016, 2025) a šesť J. Ross Robertson Cupov, hrá v Canada Life Place.",
       "url": "https://chl.ca/ohl-knights/",
       "order": 8,
-      "desc_en": "London, Ontario — three Memorial Cups (2005, 2016, 2025) and six J. Ross Robertson Cups, playing at Canada Life Place."
+      "desc_en": "London, Ontario — three Memorial Cups (2005, 2016, 2025) and six J. Ross Robertson Cups, playing at Canada Life Place.",
+      "fb": "https://www.facebook.com/londonknights/",
+      "ig": "https://www.instagram.com/londonknights/"
     },
     {
       "id": "f_hok_klu_na_ohl_k10",
@@ -149002,7 +149090,9 @@
       "desc": "Napriek názvu hrá v St. Catharines v Ontáriu — klub vznikol v roku 1996 v Mississauge a do regiónu Niagara sa presťahoval pred sezónou 2007/08.",
       "url": "https://chl.ca/ohl-icedogs/",
       "order": 9,
-      "desc_en": "Despite the name the team plays in St. Catharines, Ontario — founded in Mississauga in 1996 and moved to the Niagara region for 2007–08."
+      "desc_en": "Despite the name the team plays in St. Catharines, Ontario — founded in Mississauga in 1996 and moved to the Niagara region for 2007–08.",
+      "fb": "https://www.facebook.com/OHLIceDogs/",
+      "ig": "https://www.instagram.com/ohlicedogs/"
     },
     {
       "id": "f_hok_klu_na_ohl_k11",
@@ -149013,7 +149103,9 @@
       "desc": "North Bay v Ontáriu — klub vznikol v roku 1996 ako Brampton Battalion a do North Bay sa presťahoval pred sezónou 2013/14.",
       "url": "https://chl.ca/ohl-battalion/",
       "order": 10,
-      "desc_en": "North Bay, Ontario — founded in 1996 as the Brampton Battalion and relocated to North Bay for 2013–14."
+      "desc_en": "North Bay, Ontario — founded in 1996 as the Brampton Battalion and relocated to North Bay for 2013–14.",
+      "fb": "https://www.facebook.com/NorthBayBattalion/",
+      "ig": "https://www.instagram.com/ohlbattalion/"
     },
     {
       "id": "f_hok_klu_na_ohl_k12",
@@ -149024,7 +149116,9 @@
       "desc": "Oshawa v Ontáriu — rekordér ligy s 13 J. Ross Robertson Cupmi a piatimi Memorial Cupmi (naposledy 2015), hrá v Tribute Communities Centre.",
       "url": "https://chl.ca/ohl-generals/",
       "order": 11,
-      "desc_en": "Oshawa, Ontario — league record holder with 13 J. Ross Robertson Cups and five Memorial Cups (the last in 2015), playing at Tribute Communities Centre."
+      "desc_en": "Oshawa, Ontario — league record holder with 13 J. Ross Robertson Cups and five Memorial Cups (the last in 2015), playing at Tribute Communities Centre.",
+      "fb": "https://www.facebook.com/OshawaGeneralsOHL/",
+      "ig": "https://www.instagram.com/oshawageneralsohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k13",
@@ -149035,7 +149129,9 @@
       "desc": "Ottawa — hrá v TD Place Arena a dvakrát získala Memorial Cup (1984, 1999).",
       "url": "https://chl.ca/ohl-67s/",
       "order": 12,
-      "desc_en": "Ottawa — plays at TD Place Arena and has won the Memorial Cup twice (1984, 1999)."
+      "desc_en": "Ottawa — plays at TD Place Arena and has won the Memorial Cup twice (1984, 1999).",
+      "fb": "https://www.facebook.com/Ottawa67s/",
+      "ig": "https://www.instagram.com/ott67s/"
     },
     {
       "id": "f_hok_klu_na_ohl_k14",
@@ -149046,7 +149142,9 @@
       "desc": "Owen Sound v Ontáriu — pod týmto názvom hrá od roku 2000, jediný J. Ross Robertson Cup získal v roku 2011.",
       "url": "https://chl.ca/ohl-attack/",
       "order": 13,
-      "desc_en": "Owen Sound, Ontario — known by this name since 2000 and winner of a single J. Ross Robertson Cup in 2011."
+      "desc_en": "Owen Sound, Ontario — known by this name since 2000 and winner of a single J. Ross Robertson Cup in 2011.",
+      "fb": "https://www.facebook.com/attackohl/",
+      "ig": "https://www.instagram.com/attackohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k15",
@@ -149057,7 +149155,9 @@
       "desc": "Peterborough v Ontáriu — deväť J. Ross Robertson Cupov (naposledy 2023) a Memorial Cup z roku 1979, hrá v Peterborough Memorial Centre.",
       "url": "https://chl.ca/ohl-petes/",
       "order": 14,
-      "desc_en": "Peterborough, Ontario — nine J. Ross Robertson Cups (the last in 2023) and the 1979 Memorial Cup, playing at the Peterborough Memorial Centre."
+      "desc_en": "Peterborough, Ontario — nine J. Ross Robertson Cups (the last in 2023) and the 1979 Memorial Cup, playing at the Peterborough Memorial Centre.",
+      "fb": "https://www.facebook.com/PetesOHLhockey/",
+      "ig": "https://www.instagram.com/petesohlhockey/"
     },
     {
       "id": "f_hok_klu_na_ohl_k16",
@@ -149068,7 +149168,9 @@
       "desc": "Saginaw v Michigane — v roku 2024 získal Memorial Cup ako usporiadateľ, hrá v Dow Event Center.",
       "url": "https://chl.ca/ohl-spirit/",
       "order": 15,
-      "desc_en": "Saginaw, Michigan — won the 2024 Memorial Cup as host, playing at the Dow Event Center."
+      "desc_en": "Saginaw, Michigan — won the 2024 Memorial Cup as host, playing at the Dow Event Center.",
+      "fb": "https://www.facebook.com/spirithockey/",
+      "ig": "https://www.instagram.com/saginawspirit/"
     },
     {
       "id": "f_hok_klu_na_ohl_k17",
@@ -149079,7 +149181,9 @@
       "desc": "Sarnia v Ontáriu — domácim štadiónom je Progressive Auto Sales Arena.",
       "url": "https://chl.ca/ohl-sting/",
       "order": 16,
-      "desc_en": "Sarnia, Ontario — plays home games at Progressive Auto Sales Arena."
+      "desc_en": "Sarnia, Ontario — plays home games at Progressive Auto Sales Arena.",
+      "fb": "https://www.facebook.com/sarniastingohl/",
+      "ig": "https://www.instagram.com/stinghockey/"
     },
     {
       "id": "f_hok_klu_na_ohl_k18",
@@ -149090,7 +149194,9 @@
       "desc": "Sault Ste. Marie v Ontáriu — Memorial Cup z roku 1993 a tri J. Ross Robertson Cupy, hrá v GFL Memorial Gardens.",
       "url": "https://chl.ca/ohl-greyhounds/",
       "order": 17,
-      "desc_en": "Sault Ste. Marie, Ontario — 1993 Memorial Cup winner with three J. Ross Robertson Cups, playing at GFL Memorial Gardens."
+      "desc_en": "Sault Ste. Marie, Ontario — 1993 Memorial Cup winner with three J. Ross Robertson Cups, playing at GFL Memorial Gardens.",
+      "fb": "https://www.facebook.com/soogreyhounds/",
+      "ig": "https://www.instagram.com/ohlhoundpower/"
     },
     {
       "id": "f_hok_klu_na_ohl_k19",
@@ -149101,7 +149207,9 @@
       "desc": "Greater Sudbury v Ontáriu — hrá v Sudbury Community Arena.",
       "url": "https://chl.ca/ohl-wolves/",
       "order": 18,
-      "desc_en": "Greater Sudbury, Ontario — plays at Sudbury Community Arena."
+      "desc_en": "Greater Sudbury, Ontario — plays at Sudbury Community Arena.",
+      "fb": "https://www.facebook.com/sudburywolvesohl/",
+      "ig": "https://www.instagram.com/sudburywolvesohl/"
     },
     {
       "id": "f_hok_klu_na_ohl_k20",
@@ -149112,7 +149220,9 @@
       "desc": "Windsor v Ontáriu — tri Memorial Cupy (2009, 2010, 2017), hrá v hale WFCU Centre.",
       "url": "https://chl.ca/ohl-spitfires/",
       "order": 19,
-      "desc_en": "Windsor, Ontario — three Memorial Cups (2009, 2010, 2017), playing at the WFCU Centre."
+      "desc_en": "Windsor, Ontario — three Memorial Cups (2009, 2010, 2017), playing at the WFCU Centre.",
+      "fb": "https://www.facebook.com/WindsorSpitfiresHockey/",
+      "ig": "https://www.instagram.com/windsorspitfireshockey/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k1",
@@ -149123,7 +149233,9 @@
       "desc": "Baie-Comeau v Québecu — expanzný tím z roku 1997, hrá v hale Centre Henry-Leonard.",
       "url": "https://chl.ca/lhjmq-drakkar/",
       "order": 0,
-      "desc_en": "Baie-Comeau, Quebec — a 1997 expansion team playing at Centre Henry-Leonard."
+      "desc_en": "Baie-Comeau, Quebec — a 1997 expansion team playing at Centre Henry-Leonard.",
+      "fb": "https://www.facebook.com/ledrakkar/",
+      "ig": "https://www.instagram.com/drakkar_bc/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k2",
@@ -149134,7 +149246,9 @@
       "desc": "Boisbriand v Québecu — klub vznikol v roku 2011 z klubu Montreal Junior a hrá v Centre d'Excellence Sports Rousseau.",
       "url": "https://chl.ca/lhjmq-armada/",
       "order": 1,
-      "desc_en": "Boisbriand, Quebec — the club was created in 2011 out of the Montreal Junior Hockey Club and plays at Centre d'Excellence Sports Rousseau."
+      "desc_en": "Boisbriand, Quebec — the club was created in 2011 out of the Montreal Junior Hockey Club and plays at Centre d'Excellence Sports Rousseau.",
+      "fb": "https://www.facebook.com/ArmadaBLB/",
+      "ig": "https://www.instagram.com/armadablb/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k3",
@@ -149145,7 +149259,9 @@
       "desc": "Sydney v Novom Škótsku — v meste je od roku 1997, keď sa sem franšíza presťahovala z Granby, hrá v hale Centre 200.",
       "url": "https://chl.ca/lhjmq-eagles/",
       "order": 2,
-      "desc_en": "Sydney, Nova Scotia — in the city since the franchise moved from Granby in 1997, plays at Centre 200."
+      "desc_en": "Sydney, Nova Scotia — in the city since the franchise moved from Granby in 1997, plays at Centre 200.",
+      "fb": "https://www.facebook.com/capebretoneagles/",
+      "ig": "https://www.instagram.com/cbehockey/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k4",
@@ -149156,7 +149272,9 @@
       "desc": "Charlottetown na Ostrove princa Eduarda — v meste od roku 2003, meno Islanders nesie od roku 2013 a hrá v Eastlink Centre.",
       "url": "https://chl.ca/lhjmq-islanders/",
       "order": 3,
-      "desc_en": "Charlottetown, Prince Edward Island — in the city since 2003, named the Islanders since 2013 and playing at Eastlink Centre."
+      "desc_en": "Charlottetown, Prince Edward Island — in the city since 2003, named the Islanders since 2013 and playing at Eastlink Centre.",
+      "fb": "https://www.facebook.com/IslandersHKY/",
+      "ig": "https://www.instagram.com/islandershky/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k5",
@@ -149167,7 +149285,9 @@
       "desc": "Saguenay v Québecu — v lige od roku 1973, majster ligy 1991, 1994 a 2026, hrá v Centre Georges-Vézina.",
       "url": "https://chl.ca/lhjmq-sagueneens/",
       "order": 4,
-      "desc_en": "Saguenay, Quebec — in the league since 1973, league champion in 1991, 1994 and 2026, plays at Centre Georges-Vézina."
+      "desc_en": "Saguenay, Quebec — in the league since 1973, league champion in 1991, 1994 and 2026, plays at Centre Georges-Vézina.",
+      "fb": "https://www.facebook.com/SagueneensDeChicoutimi/",
+      "ig": "https://www.instagram.com/sagueneensdechicoutimi/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k6",
@@ -149178,7 +149298,9 @@
       "desc": "Drummondville v Québecu — zakladajúci klub ligy z roku 1969, po pauže sa vrátil v roku 1982 a hrá v Centre Marcel-Dionne.",
       "url": "https://chl.ca/lhjmq-voltigeurs/",
       "order": 5,
-      "desc_en": "Drummondville, Quebec — a 1969 founding member of the league that returned in 1982 after a break and plays at Centre Marcel-Dionne."
+      "desc_en": "Drummondville, Quebec — a 1969 founding member of the league that returned in 1982 after a break and plays at Centre Marcel-Dionne.",
+      "fb": "https://www.facebook.com/VoltigeursDRU/",
+      "ig": "https://www.instagram.com/voltigeursdru/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k7",
@@ -149189,7 +149311,9 @@
       "desc": "Gatineau v Québecu — rekordér ligy so siedmimi titulmi, Memorial Cup získal v roku 1997 ešte ako Hull Olympiques.",
       "url": "https://chl.ca/lhjmq-olympiques/",
       "order": 6,
-      "desc_en": "Gatineau, Quebec — the league record holder with seven titles, won the Memorial Cup in 1997 as the Hull Olympiques."
+      "desc_en": "Gatineau, Quebec — the league record holder with seven titles, won the Memorial Cup in 1997 as the Hull Olympiques.",
+      "fb": "https://www.facebook.com/OlympiquesdeGatineau/",
+      "ig": "https://www.instagram.com/olympiquesgat/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k8",
@@ -149200,7 +149324,9 @@
       "desc": "Halifax v Novom Škótsku — expanzný tím z roku 1994, Memorial Cup získal v roku 2013 a hrá v Scotiabank Centre.",
       "url": "https://chl.ca/lhjmq-mooseheads/",
       "order": 7,
-      "desc_en": "Halifax, Nova Scotia — a 1994 expansion team that won the Memorial Cup in 2013 and plays at Scotiabank Centre."
+      "desc_en": "Halifax, Nova Scotia — a 1994 expansion team that won the Memorial Cup in 2013 and plays at Scotiabank Centre.",
+      "fb": "https://www.facebook.com/HFXMooseheads/",
+      "ig": "https://www.instagram.com/hfx_mooseheads/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k9",
@@ -149211,7 +149337,9 @@
       "desc": "Moncton v Novom Brunšviku — v lige od roku 1995 ako Moncton Alpines, meno Wildcats nesie od roku 1996, hrá v Avenir Centre.",
       "url": "https://chl.ca/lhjmq-wildcats/",
       "order": 8,
-      "desc_en": "Moncton, New Brunswick — in the league since 1995 as the Moncton Alpines, named the Wildcats since 1996, plays at Avenir Centre."
+      "desc_en": "Moncton, New Brunswick — in the league since 1995 as the Moncton Alpines, named the Wildcats since 1996, plays at Avenir Centre.",
+      "fb": "https://www.facebook.com/MonctonWildcats/",
+      "ig": "https://www.instagram.com/monctonwildcats/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k10",
@@ -149222,7 +149350,9 @@
       "desc": "St. John's na Newfoundlande — najmladší klub ligy, vznikol v roku 2025 presťahovaním Acadie-Bathurst Titan, hrá v Mary Brown's Centre.",
       "url": "https://chl.ca/lhjmq-regiment/",
       "order": 9,
-      "desc_en": "St. John's, Newfoundland — the league's newest club, created in 2025 by relocating the Acadie-Bathurst Titan, plays at Mary Brown's Centre."
+      "desc_en": "St. John's, Newfoundland — the league's newest club, created in 2025 by relocating the Acadie-Bathurst Titan, plays at Mary Brown's Centre.",
+      "fb": "https://www.facebook.com/nlregiment/",
+      "ig": "https://www.instagram.com/nlregiment/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k11",
@@ -149233,7 +149363,9 @@
       "desc": "Mesto Québec — tri Memorial Cupy (1971, 2006, 2023), domovom je Centre Vidéotron.",
       "url": "https://chl.ca/lhjmq-remparts/",
       "order": 10,
-      "desc_en": "Quebec City — three Memorial Cups (1971, 2006, 2023), plays at Centre Vidéotron."
+      "desc_en": "Quebec City — three Memorial Cups (1971, 2006, 2023), plays at Centre Vidéotron.",
+      "fb": "https://www.facebook.com/rempartsdequebec/",
+      "ig": "https://www.instagram.com/quebec_remparts/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k12",
@@ -149244,7 +149376,9 @@
       "desc": "Rimouski v Québecu — Memorial Cup z roku 2000 a klub, v ktorom v rokoch 2003 – 2005 hrával Sidney Crosby.",
       "url": "https://chl.ca/lhjmq-oceanic/",
       "order": 11,
-      "desc_en": "Rimouski, Quebec — won the 2000 Memorial Cup and is the club where Sidney Crosby played from 2003 to 2005."
+      "desc_en": "Rimouski, Quebec — won the 2000 Memorial Cup and is the club where Sidney Crosby played from 2003 to 2005.",
+      "fb": "https://www.facebook.com/oceanicrimouski/",
+      "ig": "https://www.instagram.com/oceanicrimouski/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k13",
@@ -149255,7 +149389,9 @@
       "desc": "Rouyn-Noranda v Québecu — v meste od roku 1996, Memorial Cup získal v roku 2019 a hrá v hale Aréna Glencore.",
       "url": "https://chl.ca/lhjmq-huskies/",
       "order": 12,
-      "desc_en": "Rouyn-Noranda, Quebec — in the city since 1996, won the Memorial Cup in 2019 and plays at Aréna Glencore."
+      "desc_en": "Rouyn-Noranda, Quebec — in the city since 1996, won the Memorial Cup in 2019 and plays at Aréna Glencore.",
+      "fb": "https://www.facebook.com/HuskiesRN/",
+      "ig": "https://www.instagram.com/huskiesrn/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k14",
@@ -149266,7 +149402,9 @@
       "desc": "Saint John v Novom Brunšviku — expanzný tím z roku 2005 s dvoma Memorial Cupmi (2011, 2022), hrá v TD Station.",
       "url": "https://chl.ca/lhjmq-seadogs/",
       "order": 13,
-      "desc_en": "Saint John, New Brunswick — a 2005 expansion team with two Memorial Cups (2011, 2022), plays at TD Station."
+      "desc_en": "Saint John, New Brunswick — a 2005 expansion team with two Memorial Cups (2011, 2022), plays at TD Station.",
+      "fb": "https://www.facebook.com/sjseadogs/",
+      "ig": "https://www.instagram.com/sjseadogs/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k15",
@@ -149277,7 +149415,9 @@
       "desc": "Shawinigan v Québecu — jediný klub, ktorý je od vzniku ligy v roku 1969 nepretržite v tom istom meste, Memorial Cup 2012.",
       "url": "https://chl.ca/lhjmq-cataractes/",
       "order": 14,
-      "desc_en": "Shawinigan, Quebec — the only club that has stayed in the same city since the league was founded in 1969, Memorial Cup winner in 2012."
+      "desc_en": "Shawinigan, Quebec — the only club that has stayed in the same city since the league was founded in 1969, Memorial Cup winner in 2012.",
+      "fb": "https://www.facebook.com/CataractesDeShawinigan/",
+      "ig": "https://www.instagram.com/cataractes_shaw/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k16",
@@ -149288,7 +149428,9 @@
       "desc": "Sherbrooke v Québecu — hrá od roku 2012, keď mesto obnovilo franšízu po zaniknutom Lewiston MAINEiacs, domovom je Palais des Sports.",
       "url": "https://chl.ca/lhjmq-phoenix/",
       "order": 15,
-      "desc_en": "Sherbrooke, Quebec — playing since 2012, when the city revived the franchise of the defunct Lewiston MAINEiacs, home is the Palais des Sports."
+      "desc_en": "Sherbrooke, Quebec — playing since 2012, when the city revived the franchise of the defunct Lewiston MAINEiacs, home is the Palais des Sports.",
+      "fb": "https://www.facebook.com/phoenixsherbrooke/",
+      "ig": "https://www.instagram.com/phoenixsherbrooke/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k17",
@@ -149299,7 +149441,9 @@
       "desc": "Val-d'Or v Québecu — expanzný tím z roku 1993, hrá v hale Centre Agnico Eagle.",
       "url": "https://chl.ca/lhjmq-foreurs/",
       "order": 16,
-      "desc_en": "Val-d'Or, Quebec — a 1993 expansion team playing at Centre Agnico Eagle."
+      "desc_en": "Val-d'Or, Quebec — a 1993 expansion team playing at Centre Agnico Eagle.",
+      "fb": "https://www.facebook.com/foreurs/",
+      "ig": "https://www.instagram.com/foreursvd/"
     },
     {
       "id": "f_hok_klu_na_qmjhl_k18",
@@ -149310,7 +149454,9 @@
       "desc": "Victoriaville v Québecu — v meste od roku 1987, keď sa sem franšíza presťahovala z Longueuil, hrá v Colisée Desjardins.",
       "url": "https://chl.ca/lhjmq-tigres/",
       "order": 17,
-      "desc_en": "Victoriaville, Quebec — in the city since the franchise moved from Longueuil in 1987, plays at Colisée Desjardins."
+      "desc_en": "Victoriaville, Quebec — in the city since the franchise moved from Longueuil in 1987, plays at Colisée Desjardins.",
+      "fb": "https://www.facebook.com/TigresVicto/",
+      "ig": "https://www.instagram.com/tigresvicto/"
     },
     {
       "id": "f_hok_klu_na_ushl_k1",
@@ -149321,7 +149467,9 @@
       "desc": "Cedar Rapids v štáte Iowa — klub založený v roku 1998 hrá v ImOn Ice Arena a Clark Cup získal v roku 2005.",
       "url": "https://roughridershockey.com/",
       "order": 0,
-      "desc_en": "Cedar Rapids, Iowa — founded in 1998, the club plays at the ImOn Ice Arena and won the Clark Cup in 2005."
+      "desc_en": "Cedar Rapids, Iowa — founded in 1998, the club plays at the ImOn Ice Arena and won the Clark Cup in 2005.",
+      "fb": "https://www.facebook.com/ridertownusa/",
+      "ig": "https://www.instagram.com/ridertown_usa/"
     },
     {
       "id": "f_hok_klu_na_ushl_k2",
@@ -149332,7 +149480,9 @@
       "desc": "Chicago — od sezóny 2026/27 hrá v novej USG Arena v Blackhawks Ice Center na západe mesta, Clark Cup vyhral v rokoch 2017 a 2021.",
       "url": "https://chicagosteelhockeyteam.com/",
       "order": 1,
-      "desc_en": "Chicago — from the 2026-27 season the Steel play at the new USG Arena inside the Blackhawks Ice Center on the city's west side; Clark Cup winner in 2017 and 2021."
+      "desc_en": "Chicago — from the 2026-27 season the Steel play at the new USG Arena inside the Blackhawks Ice Center on the city's west side; Clark Cup winner in 2017 and 2021.",
+      "fb": "https://www.facebook.com/chicagosteel/",
+      "ig": "https://www.instagram.com/chicagosteel/"
     },
     {
       "id": "f_hok_klu_na_ushl_k3",
@@ -149343,7 +149493,9 @@
       "desc": "West Des Moines v štáte Iowa — klub z roku 1980 so štyrmi Clark Cupmi (1992, 1995, 1999 a 2006).",
       "url": "https://bucshockey.com/",
       "order": 2,
-      "desc_en": "West Des Moines, Iowa — founded in 1980, a four-time Clark Cup winner (1992, 1995, 1999 and 2006)."
+      "desc_en": "West Des Moines, Iowa — founded in 1980, a four-time Clark Cup winner (1992, 1995, 1999 and 2006).",
+      "fb": "https://www.facebook.com/bucshockey/",
+      "ig": "https://www.instagram.com/bucshockey/"
     },
     {
       "id": "f_hok_klu_na_ushl_k4",
@@ -149354,7 +149506,9 @@
       "desc": "Dubuque v štáte Iowa — súčasná franšíza vznikla v roku 2010 a Clark Cup získala v rokoch 2011 a 2013; hrá v Mystique Ice Center.",
       "url": "https://dubuquefightingsaints.com/",
       "order": 3,
-      "desc_en": "Dubuque, Iowa — the current franchise was founded in 2010 and won the Clark Cup in 2011 and 2013; it plays at the Mystique Ice Center."
+      "desc_en": "Dubuque, Iowa — the current franchise was founded in 2010 and won the Clark Cup in 2011 and 2013; it plays at the Mystique Ice Center.",
+      "fb": "https://www.facebook.com/fightingsaints/",
+      "ig": "https://www.instagram.com/fightingsaints/"
     },
     {
       "id": "f_hok_klu_na_ushl_k5",
@@ -149365,7 +149519,9 @@
       "desc": "Fargo v Severnej Dakote — klub z roku 2008 hrá v Scheels Arena, Clark Cup vyhral v rokoch 2018 a 2024 a v sezóne 2023/24 utvoril ligový rekord 50 výhier.",
       "url": "https://fargoforce.com/",
       "order": 4,
-      "desc_en": "Fargo, North Dakota — founded in 2008 and playing at Scheels Arena, the Force won the Clark Cup in 2018 and 2024 and set a league record of 50 wins in 2023-24."
+      "desc_en": "Fargo, North Dakota — founded in 2008 and playing at Scheels Arena, the Force won the Clark Cup in 2018 and 2024 and set a league record of 50 wins in 2023-24.",
+      "fb": "https://www.facebook.com/FargoForce/",
+      "ig": "https://www.instagram.com/fargoforce/"
     },
     {
       "id": "f_hok_klu_na_ushl_k6",
@@ -149376,7 +149532,9 @@
       "desc": "Ashwaubenon pri Green Bay vo Wisconsine — štvornásobný víťaz Clark Cupu (1996, 2000, 2010 a 2012), ktorý hrá v Resch Center.",
       "url": "https://gamblershockey.com/",
       "order": 5,
-      "desc_en": "Ashwaubenon near Green Bay, Wisconsin — a four-time Clark Cup winner (1996, 2000, 2010 and 2012) playing at the Resch Center."
+      "desc_en": "Ashwaubenon near Green Bay, Wisconsin — a four-time Clark Cup winner (1996, 2000, 2010 and 2012) playing at the Resch Center.",
+      "fb": "https://www.facebook.com/gamblershockey/",
+      "ig": "https://www.instagram.com/gamblershockey/"
     },
     {
       "id": "f_hok_klu_na_ushl_k7",
@@ -149387,7 +149545,9 @@
       "desc": "Lincoln v Nebraske — klub z roku 1996 hrá v hale Ice Box a Clark Cup získal v rokoch 1997 a 2003.",
       "url": "https://lincolnstars.com/",
       "order": 6,
-      "desc_en": "Lincoln, Nebraska — founded in 1996, the Stars play at the Ice Box and won the Clark Cup in 1997 and 2003."
+      "desc_en": "Lincoln, Nebraska — founded in 1996, the Stars play at the Ice Box and won the Clark Cup in 1997 and 2003.",
+      "fb": "https://www.facebook.com/LincolnStars/",
+      "ig": "https://www.instagram.com/officiallincolnstars/"
     },
     {
       "id": "f_hok_klu_na_ushl_k8",
@@ -149398,7 +149558,9 @@
       "desc": "Middleton pri Madisone vo Wisconsine — najmladší klub ligy (2014) hrá v hale Bob Suter's Legacy20 Arena.",
       "url": "https://madcapshockey.com/",
       "order": 7,
-      "desc_en": "Middleton near Madison, Wisconsin — the league's youngest club (2014) plays at Bob Suter's Legacy20 Arena."
+      "desc_en": "Middleton near Madison, Wisconsin — the league's youngest club (2014) plays at Bob Suter's Legacy20 Arena.",
+      "fb": "https://www.facebook.com/madcapshockey/",
+      "ig": "https://www.instagram.com/madcapshockey/"
     },
     {
       "id": "f_hok_klu_na_ushl_k9",
@@ -149409,7 +149571,9 @@
       "desc": "Muskegon v Michigane — klub z roku 2010 hrá v Trinity Health Arena a Clark Cup vyhral v roku 2025.",
       "url": "https://muskegonlumberjacks.com/",
       "order": 8,
-      "desc_en": "Muskegon, Michigan — founded in 2010, the Lumberjacks play at Trinity Health Arena and won the Clark Cup in 2025."
+      "desc_en": "Muskegon, Michigan — founded in 2010, the Lumberjacks play at Trinity Health Arena and won the Clark Cup in 2025.",
+      "fb": "https://www.facebook.com/MuskegonJacks/",
+      "ig": "https://www.instagram.com/muskegonjacks/"
     },
     {
       "id": "f_hok_klu_na_ushl_k10",
@@ -149420,7 +149584,9 @@
       "desc": "Ralston pri Omahe v Nebraske — rekordér Clark Cupu so siedmimi titulmi, naposledy v roku 2008.",
       "url": "https://lancers.com/",
       "order": 9,
-      "desc_en": "Ralston near Omaha, Nebraska — the Clark Cup record holder with seven titles, most recently in 2008."
+      "desc_en": "Ralston near Omaha, Nebraska — the Clark Cup record holder with seven titles, most recently in 2008.",
+      "fb": "https://www.facebook.com/OmahaLancers/",
+      "ig": "https://www.instagram.com/omahalancers/"
     },
     {
       "id": "f_hok_klu_na_ushl_k11",
@@ -149431,7 +149597,9 @@
       "desc": "Sioux City v štáte Iowa — jeden z najstarších klubov ligy (1972) so štyrmi Clark Cupmi, naposledy v roku 2022.",
       "url": "https://musketeershockey.com/",
       "order": 10,
-      "desc_en": "Sioux City, Iowa — one of the league's oldest clubs (1972) with four Clark Cups, most recently in 2022."
+      "desc_en": "Sioux City, Iowa — one of the league's oldest clubs (1972) with four Clark Cups, most recently in 2022.",
+      "fb": "https://www.facebook.com/musketeershockey/",
+      "ig": "https://www.instagram.com/musketeershockey/"
     },
     {
       "id": "f_hok_klu_na_ushl_k12",
@@ -149442,7 +149610,9 @@
       "desc": "Sioux Falls v Južnej Dakote — štvornásobný víťaz Clark Cupu (naposledy 2026); hrá v najväčšej hale ligy Denny Sanford Premier Center.",
       "url": "https://sfstampede.com/",
       "order": 11,
-      "desc_en": "Sioux Falls, South Dakota — four-time Clark Cup champion (most recently 2026), playing in the league's largest arena, the Denny Sanford Premier Center."
+      "desc_en": "Sioux Falls, South Dakota — four-time Clark Cup champion (most recently 2026), playing in the league's largest arena, the Denny Sanford Premier Center.",
+      "fb": "https://www.facebook.com/sfstampede/",
+      "ig": "https://www.instagram.com/sfstampede/"
     },
     {
       "id": "f_hok_klu_na_ushl_k13",
@@ -149453,7 +149623,9 @@
       "desc": "Kearney v Nebraske — klub z roku 2000 hrá vo Viaero Center a Clark Cup získal v roku 2016.",
       "url": "https://stormhockey.com/",
       "order": 12,
-      "desc_en": "Kearney, Nebraska — founded in 2000, the Storm play at the Viaero Center and won the Clark Cup in 2016."
+      "desc_en": "Kearney, Nebraska — founded in 2000, the Storm play at the Viaero Center and won the Clark Cup in 2016.",
+      "fb": "https://www.facebook.com/TriCityStorm/",
+      "ig": "https://www.instagram.com/tricitystorm/"
     },
     {
       "id": "f_hok_klu_na_ushl_k14",
@@ -149464,7 +149636,9 @@
       "desc": "Plymouth v Michigane — národný rozvojový program USA Hockey založený v roku 1996, ktorý v USHL štartuje pod menom Team USA a hrá v USA Hockey Arena.",
       "url": "https://www.usahockeyntdp.com/",
       "order": 13,
-      "desc_en": "Plymouth, Michigan — the USA Hockey National Team Development Program, founded in 1996, competes in the USHL as Team USA and plays at USA Hockey Arena."
+      "desc_en": "Plymouth, Michigan — the USA Hockey National Team Development Program, founded in 1996, competes in the USHL as Team USA and plays at USA Hockey Arena.",
+      "fb": "https://www.facebook.com/USANTDP/",
+      "ig": "https://www.instagram.com/usahockeyntdp/"
     },
     {
       "id": "f_hok_klu_na_ushl_k15",
@@ -149475,7 +149649,9 @@
       "desc": "Waterloo v štáte Iowa — najstarší klub ligy (1962) a rekordér v celkovom počte titulov (deväť), Clark Cup získal v roku 2004.",
       "url": "https://waterlooblackhawks.com/",
       "order": 14,
-      "desc_en": "Waterloo, Iowa — the league's oldest club (1962) and the overall title record holder with nine championships; Clark Cup winner in 2004."
+      "desc_en": "Waterloo, Iowa — the league's oldest club (1962) and the overall title record holder with nine championships; Clark Cup winner in 2004.",
+      "fb": "https://www.facebook.com/WaterlooBlackHawks/",
+      "ig": "https://www.instagram.com/waterlooblackhawks/"
     },
     {
       "id": "f_hok_klu_na_ushl_k16",
@@ -149486,7 +149662,9 @@
       "desc": "Youngstown v Ohiu — klub z roku 2003 hrá v Covelli Centre, Clark Cup vyhral v roku 2023 a v sezóne 2025/26 ovládol základnú časť.",
       "url": "https://youngstownphantoms.com/",
       "order": 15,
-      "desc_en": "Youngstown, Ohio — founded in 2003, the Phantoms play at the Covelli Centre, won the Clark Cup in 2023 and topped the 2025-26 regular season."
+      "desc_en": "Youngstown, Ohio — founded in 2003, the Phantoms play at the Covelli Centre, won the Clark Cup in 2023 and topped the 2025-26 regular season.",
+      "fb": "https://www.facebook.com/youngstownphantoms/",
+      "ig": "https://www.instagram.com/youngstownphantoms/"
     },
     {
       "id": "f_hok_klu_na_nahl_k1",
@@ -149497,7 +149675,9 @@
       "desc": "Aberdeen v Južnej Dakote, hrá v Odde Ice Center a v roku 2019 získal Robertson Cup.",
       "url": "https://www.aberdeenwings.com",
       "order": 0,
-      "desc_en": "Aberdeen, South Dakota; plays at the Odde Ice Center and won the Robertson Cup in 2019."
+      "desc_en": "Aberdeen, South Dakota; plays at the Odde Ice Center and won the Robertson Cup in 2019.",
+      "ig": "https://www.instagram.com/theofficialaberdeenwings/",
+      "fb": "https://www.facebook.com/aberdeen.wings/"
     },
     {
       "id": "f_hok_klu_na_nahl_k2",
@@ -149508,7 +149688,9 @@
       "desc": "Amarillo v Texase, domovom je Amarillo Civic Center.",
       "url": "https://www.amarillowranglers.com",
       "order": 1,
-      "desc_en": "Amarillo, Texas; home ice is the Amarillo Civic Center."
+      "desc_en": "Amarillo, Texas; home ice is the Amarillo Civic Center.",
+      "ig": "https://www.instagram.com/wranglershockey/",
+      "fb": "https://www.facebook.com/NAHLwranglers/"
     },
     {
       "id": "f_hok_klu_na_nahl_k3",
@@ -149519,7 +149701,9 @@
       "desc": "Anchorage na Aljaške, klub vznikol v roku 2021 a hrá v Sullivan Arene.",
       "url": "https://www.anchoragewolverines.com",
       "order": 2,
-      "desc_en": "Anchorage, Alaska; founded in 2021 and playing at Sullivan Arena."
+      "desc_en": "Anchorage, Alaska; founded in 2021 and playing at Sullivan Arena.",
+      "ig": "https://www.instagram.com/anchoragewolverines/",
+      "fb": "https://www.facebook.com/anchoragewolverines/"
     },
     {
       "id": "f_hok_klu_na_nahl_k4",
@@ -149530,7 +149714,9 @@
       "desc": "Austin v Minnesote, od roku 2010 hrá v Riverside Arene.",
       "url": "https://www.austinbruins.com",
       "order": 3,
-      "desc_en": "Austin, Minnesota; playing at Riverside Arena since 2010."
+      "desc_en": "Austin, Minnesota; playing at Riverside Arena since 2010.",
+      "ig": "https://www.instagram.com/austinbruinsnahl/",
+      "fb": "https://www.facebook.com/AustinBruinsNAHL/"
     },
     {
       "id": "f_hok_klu_na_nahl_k5",
@@ -149541,7 +149727,9 @@
       "desc": "Nováčik ligy z Billings v Montane, hrá v Signal Peak Energy Arene.",
       "url": "https://cattlepunchers.com",
       "order": 4,
-      "desc_en": "League newcomer from Billings, Montana, playing at Signal Peak Energy Arena."
+      "desc_en": "League newcomer from Billings, Montana, playing at Signal Peak Energy Arena.",
+      "ig": "https://www.instagram.com/cattlepunchers/",
+      "fb": "https://www.facebook.com/profile.php?id=61570676212638"
     },
     {
       "id": "f_hok_klu_na_nahl_k6",
@@ -149552,7 +149740,9 @@
       "desc": "Bismarck v Severnej Dakote, víťaz Robertson Cupu 2010 a 2025.",
       "url": "https://www.bismarckbobcats.com",
       "order": 5,
-      "desc_en": "Bismarck, North Dakota; Robertson Cup winner in 2010 and 2025."
+      "desc_en": "Bismarck, North Dakota; Robertson Cup winner in 2010 and 2025.",
+      "ig": "https://www.instagram.com/bismarckbobcats/",
+      "fb": "https://www.facebook.com/bismarckbobcats/"
     },
     {
       "id": "f_hok_klu_na_nahl_k7",
@@ -149563,7 +149753,9 @@
       "desc": "Prístavné mesto Corpus Christi v Texase, hrá v Hilliard Center.",
       "url": "https://www.goicerays.com",
       "order": 6,
-      "desc_en": "The Texas port city of Corpus Christi; plays at the Hilliard Center."
+      "desc_en": "The Texas port city of Corpus Christi; plays at the Hilliard Center.",
+      "ig": "https://www.instagram.com/iceraysnahl/",
+      "fb": "https://www.facebook.com/goicerays/"
     },
     {
       "id": "f_hok_klu_na_nahl_k8",
@@ -149572,9 +149764,11 @@
       "icon": "",
       "name": "Danbury Hat Tricks",
       "desc": "Danbury v Connecticute, domovom je Danbury Ice Arena.",
-      "url": "https://www.danburyhattricks.com",
+      "url": "https://www.hattricksnahl.com/",
       "order": 7,
-      "desc_en": "Danbury, Connecticut; home ice is the Danbury Ice Arena."
+      "desc_en": "Danbury, Connecticut; home ice is the Danbury Ice Arena.",
+      "ig": "https://www.instagram.com/hattricksnahl/",
+      "fb": "https://www.facebook.com/JrHatTricksNAHL/"
     },
     {
       "id": "f_hok_klu_na_nahl_k9",
@@ -149585,7 +149779,9 @@
       "desc": "El Paso v Texase, do NAHL vstúpil v roku 2021.",
       "url": "https://www.elpasorhinos.com",
       "order": 8,
-      "desc_en": "El Paso, Texas; joined the NAHL in 2021."
+      "desc_en": "El Paso, Texas; joined the NAHL in 2021.",
+      "ig": "https://www.instagram.com/el_paso_rhinos/",
+      "fb": "https://www.facebook.com/ElPasoRhinosHockey/"
     },
     {
       "id": "f_hok_klu_na_nahl_k10",
@@ -149596,7 +149792,9 @@
       "desc": "Elmira v štáte New York, klub vznikol v roku 2024 a hrá v LECOM Event Center.",
       "url": "https://www.elmiraaviatorsnahl.com",
       "order": 9,
-      "desc_en": "Elmira, New York; founded in 2024 and playing at the LECOM Event Center."
+      "desc_en": "Elmira, New York; founded in 2024 and playing at the LECOM Event Center.",
+      "ig": "https://www.instagram.com/elmiraaviatorsnahl/",
+      "fb": "https://www.facebook.com/profile.php?id=61559102730913"
     },
     {
       "id": "f_hok_klu_na_nahl_k11",
@@ -149607,7 +149805,9 @@
       "desc": "Fairbanks na Aljaške, trojnásobný víťaz Robertson Cupu (2011, 2014, 2016).",
       "url": "https://www.fairbanksicedogs.com",
       "order": 10,
-      "desc_en": "Fairbanks, Alaska; three-time Robertson Cup winner (2011, 2014, 2016)."
+      "desc_en": "Fairbanks, Alaska; three-time Robertson Cup winner (2011, 2014, 2016).",
+      "ig": "https://www.instagram.com/fairbanksicedogs/",
+      "fb": "https://www.facebook.com/fairbanksicedogs/"
     },
     {
       "id": "f_hok_klu_na_nahl_k12",
@@ -149618,7 +149818,9 @@
       "desc": "Grand Junction v Colorade, do NAHL vstúpil v roku 2026.",
       "url": "https://www.grandjunctionriverhawks.com",
       "order": 11,
-      "desc_en": "Grand Junction, Colorado; joined the NAHL in 2026."
+      "desc_en": "Grand Junction, Colorado; joined the NAHL in 2026.",
+      "ig": "https://www.instagram.com/grandjunctionriverhawks/",
+      "fb": "https://www.facebook.com/GrandJunctionRiverHawksNAHL/"
     },
     {
       "id": "f_hok_klu_na_nahl_k13",
@@ -149629,7 +149831,9 @@
       "desc": "Tím z okolia Houstonu so sídlom v Richmonde, vznikol presťahovaním North Iowa Bulls v roku 2026.",
       "url": "https://www.houstonbullsnahl.com",
       "order": 12,
-      "desc_en": "Houston-area team based in Richmond, Texas, created by the 2026 relocation of the North Iowa Bulls."
+      "desc_en": "Houston-area team based in Richmond, Texas, created by the 2026 relocation of the North Iowa Bulls.",
+      "ig": "https://www.instagram.com/houstonbullsnahl/",
+      "fb": "https://www.facebook.com/profile.php?id=61588068985116"
     },
     {
       "id": "f_hok_klu_na_nahl_k14",
@@ -149640,7 +149844,9 @@
       "desc": "Idaho Falls v Idahu, hrá v Mountain America Center a do NAHL vstúpil v roku 2026.",
       "url": "https://ifspudkings.com",
       "order": 13,
-      "desc_en": "Idaho Falls, Idaho; plays at the Mountain America Center and joined the NAHL in 2026."
+      "desc_en": "Idaho Falls, Idaho; plays at the Mountain America Center and joined the NAHL in 2026.",
+      "ig": "https://www.instagram.com/ifspudkings/",
+      "fb": "https://www.facebook.com/ifspudkings/"
     },
     {
       "id": "f_hok_klu_na_nahl_k15",
@@ -149651,7 +149857,9 @@
       "desc": "Janesville vo Wisconsine, od roku 2009 hrá v Janesville Ice Arene.",
       "url": "https://www.janesvillejets.com",
       "order": 14,
-      "desc_en": "Janesville, Wisconsin; playing at Janesville Ice Arena since 2009."
+      "desc_en": "Janesville, Wisconsin; playing at Janesville Ice Arena since 2009.",
+      "ig": "https://www.instagram.com/janesvillejets/",
+      "fb": "https://www.facebook.com/JanesvilleHockey/"
     },
     {
       "id": "f_hok_klu_na_nahl_k16",
@@ -149662,7 +149870,9 @@
       "desc": "Johnstown v Pensylvánii, hrá v Cambria County War Memorial Arene.",
       "url": "https://www.johnstowntomahawks.com",
       "order": 15,
-      "desc_en": "Johnstown, Pennsylvania; plays at the Cambria County War Memorial Arena."
+      "desc_en": "Johnstown, Pennsylvania; plays at the Cambria County War Memorial Arena.",
+      "ig": "https://www.instagram.com/tomahawkshockey/",
+      "fb": "https://www.facebook.com/johnstowntomahawks/"
     },
     {
       "id": "f_hok_klu_na_nahl_k17",
@@ -149673,7 +149883,9 @@
       "desc": "Soldotna na Aljaške, hrá v Soldotna Regional Sports Complex.",
       "url": "https://www.kenairiverbrownbears.com",
       "order": 16,
-      "desc_en": "Soldotna, Alaska; plays at the Soldotna Regional Sports Complex."
+      "desc_en": "Soldotna, Alaska; plays at the Soldotna Regional Sports Complex.",
+      "ig": "https://www.instagram.com/krbbears/",
+      "fb": "https://www.facebook.com/kenairiverbrownbears/"
     },
     {
       "id": "f_hok_klu_na_nahl_k18",
@@ -149684,7 +149896,9 @@
       "desc": "North Richland Hills v Texase, víťaz Robertson Cupu 2017 a 2024.",
       "url": "https://www.lonestarbrahmas.com",
       "order": 17,
-      "desc_en": "North Richland Hills, Texas; Robertson Cup winner in 2017 and 2024."
+      "desc_en": "North Richland Hills, Texas; Robertson Cup winner in 2017 and 2024.",
+      "ig": "https://www.instagram.com/brahmashockey/",
+      "fb": "https://www.facebook.com/lonestarbrahmas/"
     },
     {
       "id": "f_hok_klu_na_nahl_k19",
@@ -149695,7 +149909,9 @@
       "desc": "Odenton v Marylande, víťaz Robertson Cupu 2026.",
       "url": "https://www.marylandblackbears.com",
       "order": 18,
-      "desc_en": "Odenton, Maryland; 2026 Robertson Cup champion."
+      "desc_en": "Odenton, Maryland; 2026 Robertson Cup champion.",
+      "ig": "https://www.instagram.com/blackbearsnahl/",
+      "fb": "https://www.facebook.com/BlackBearsNAHL/"
     },
     {
       "id": "f_hok_klu_na_nahl_k20",
@@ -149706,7 +149922,9 @@
       "desc": "Forest Lake v Minnesote, klub vznikol v roku 2024.",
       "url": "https://www.mnmallards.com",
       "order": 19,
-      "desc_en": "Forest Lake, Minnesota; the club was founded in 2024."
+      "desc_en": "Forest Lake, Minnesota; the club was founded in 2024.",
+      "ig": "https://www.instagram.com/mnmallards/",
+      "fb": "https://www.facebook.com/mnmallards/"
     },
     {
       "id": "f_hok_klu_na_nahl_k21",
@@ -149717,7 +149935,9 @@
       "desc": "Cloquet v Minnesote, víťaz Robertson Cupu 2015.",
       "url": "https://www.wildernesshockey.com",
       "order": 20,
-      "desc_en": "Cloquet, Minnesota; Robertson Cup winner in 2015."
+      "desc_en": "Cloquet, Minnesota; Robertson Cup winner in 2015.",
+      "ig": "https://www.instagram.com/mnwilderness/",
+      "fb": "https://www.facebook.com/MinnesotaWildernessNahl/"
     },
     {
       "id": "f_hok_klu_na_nahl_k22",
@@ -149728,7 +149948,9 @@
       "desc": "Minot v Severnej Dakote, od roku 2011 hrá v Maysa Arene.",
       "url": "https://www.minotauroshockey.com",
       "order": 21,
-      "desc_en": "Minot, North Dakota; playing at Maysa Arena since 2011."
+      "desc_en": "Minot, North Dakota; playing at Maysa Arena since 2011.",
+      "ig": "https://www.instagram.com/minotauros.hockey/",
+      "fb": "https://www.facebook.com/TaurosHockey/"
     },
     {
       "id": "f_hok_klu_na_nahl_k23",
@@ -149739,7 +149961,9 @@
       "desc": "Hooksett v New Hampshire, klub vznikol v roku 2023.",
       "url": "https://nhmountainkings.com",
       "order": 22,
-      "desc_en": "Hooksett, New Hampshire; the club was founded in 2023."
+      "desc_en": "Hooksett, New Hampshire; the club was founded in 2023.",
+      "ig": "https://www.instagram.com/newhampshiremountainkings/",
+      "fb": "https://www.facebook.com/newhampshiremountainkings/"
     },
     {
       "id": "f_hok_klu_na_nahl_k24",
@@ -149750,7 +149974,9 @@
       "desc": "Middletown v New Jersey, víťaz Robertson Cupu 2022.",
       "url": "https://www.njtitansnahl.com",
       "order": 23,
-      "desc_en": "Middletown, New Jersey; Robertson Cup winner in 2022."
+      "desc_en": "Middletown, New Jersey; Robertson Cup winner in 2022.",
+      "ig": "https://www.instagram.com/nahltitans/",
+      "fb": "https://www.facebook.com/NAHLNewJerseyTitans/"
     },
     {
       "id": "f_hok_klu_na_nahl_k25",
@@ -149761,7 +149987,9 @@
       "desc": "Albuquerque v Novom Mexiku, od vzniku v roku 2019 hrá v Outpost Ice Arenas.",
       "url": "https://www.nmicewolves.com",
       "order": 24,
-      "desc_en": "Albuquerque, New Mexico; has played at Outpost Ice Arenas since its founding in 2019."
+      "desc_en": "Albuquerque, New Mexico; has played at Outpost Ice Arenas since its founding in 2019.",
+      "ig": "https://www.instagram.com/nmicewolves/",
+      "fb": "https://www.facebook.com/IceWolvesNAHL/"
     },
     {
       "id": "f_hok_klu_na_nahl_k26",
@@ -149772,7 +150000,9 @@
       "desc": "Canton v Massachusetts, klub vznikol v roku 2016 a hrá v Canton Ice House.",
       "url": "https://northeastgenerals.com",
       "order": 25,
-      "desc_en": "Canton, Massachusetts; founded in 2016 and playing at the Canton Ice House."
+      "desc_en": "Canton, Massachusetts; founded in 2016 and playing at the Canton Ice House.",
+      "ig": "https://www.instagram.com/negenerals/",
+      "fb": "https://www.facebook.com/profile.php?id=61552225611729"
     },
     {
       "id": "f_hok_klu_na_nahl_k27",
@@ -149783,7 +150013,9 @@
       "desc": "Odessa v Texase, domovom je Ector County Coliseum.",
       "url": "https://www.odessajackalopes.org",
       "order": 26,
-      "desc_en": "Odessa, Texas; home ice is the Ector County Coliseum."
+      "desc_en": "Odessa, Texas; home ice is the Ector County Coliseum.",
+      "ig": "https://www.instagram.com/letsgojacks/",
+      "fb": "https://www.facebook.com/LetsGoJacks/"
     },
     {
       "id": "f_hok_klu_na_nahl_k28",
@@ -149794,7 +150026,9 @@
       "desc": "Ogden v Utahu, hrá v hale The Ice Sheet a do NAHL vstúpil v roku 2026.",
       "url": "https://www.ogdenmustangs.com",
       "order": 27,
-      "desc_en": "Ogden, Utah; plays at The Ice Sheet and joined the NAHL in 2026."
+      "desc_en": "Ogden, Utah; plays at The Ice Sheet and joined the NAHL in 2026.",
+      "ig": "https://www.instagram.com/ogdenmustangs/",
+      "fb": "https://www.facebook.com/OgdenMustangs/"
     },
     {
       "id": "f_hok_klu_na_nahl_k29",
@@ -149805,7 +150039,9 @@
       "desc": "Oklahoma City, víťaz Robertson Cupu 2023.",
       "url": "https://www.okwarriors.com",
       "order": 28,
-      "desc_en": "Oklahoma City; Robertson Cup winner in 2023."
+      "desc_en": "Oklahoma City; Robertson Cup winner in 2023.",
+      "ig": "https://www.instagram.com/okwarriors_nahl/",
+      "fb": "https://www.facebook.com/okwarriorsnahl/"
     },
     {
       "id": "f_hok_klu_na_nahl_k30",
@@ -149816,7 +150052,9 @@
       "desc": "Tím z okolia Philadelphie so zázemím v Hollydell Ice Arena v New Jersey.",
       "url": "https://phillyrebels.com",
       "order": 29,
-      "desc_en": "Philadelphia-area team based at the Hollydell Ice Arena in New Jersey."
+      "desc_en": "Philadelphia-area team based at the Hollydell Ice Arena in New Jersey.",
+      "ig": "https://www.instagram.com/philadelphiarebels/",
+      "fb": "https://www.facebook.com/philadelphiarebels/"
     },
     {
       "id": "f_hok_klu_na_nahl_k31",
@@ -149827,7 +150065,9 @@
       "desc": "Pueblo v Colorade, hrá v Pueblo Ice Arena.",
       "url": "https://www.pueblopeppershockey.com",
       "order": 30,
-      "desc_en": "Pueblo, Colorado; plays at the Pueblo Ice Arena."
+      "desc_en": "Pueblo, Colorado; plays at the Pueblo Ice Arena.",
+      "ig": "https://www.instagram.com/pueblopeppershockey/",
+      "fb": "https://www.facebook.com/PuebloPeppersHockeyClub/"
     },
     {
       "id": "f_hok_klu_na_nahl_k32",
@@ -149838,7 +150078,9 @@
       "desc": "Shreveport v Louisiane, víťaz Robertson Cupu 2018 a 2021.",
       "url": "https://www.mudbugshockey.com",
       "order": 31,
-      "desc_en": "Shreveport, Louisiana; Robertson Cup winner in 2018 and 2021."
+      "desc_en": "Shreveport, Louisiana; Robertson Cup winner in 2018 and 2021.",
+      "ig": "https://www.instagram.com/mudbugshockey/",
+      "fb": "https://www.facebook.com/mudbugshockey/"
     },
     {
       "id": "f_hok_klu_na_nahl_k33",
@@ -149849,7 +150091,9 @@
       "desc": "Springfield v Illinois, hrá v Nelson Center.",
       "url": "https://www.jrblues.com",
       "order": 32,
-      "desc_en": "Springfield, Illinois; plays at the Nelson Center."
+      "desc_en": "Springfield, Illinois; plays at the Nelson Center.",
+      "ig": "https://www.instagram.com/springfieldjrblues/",
+      "fb": "https://www.facebook.com/SpringfieldJrBlues/"
     },
     {
       "id": "f_hok_klu_na_nahl_k34",
@@ -149860,7 +150104,9 @@
       "desc": "St. Cloud v Minnesote, domovom je Municipal Athletic Complex.",
       "url": "https://www.stcloudnorsemen.com",
       "order": 33,
-      "desc_en": "St. Cloud, Minnesota; home ice is the Municipal Athletic Complex."
+      "desc_en": "St. Cloud, Minnesota; home ice is the Municipal Athletic Complex.",
+      "ig": "https://www.instagram.com/stcloudnorsemen/",
+      "fb": "https://www.facebook.com/stcloudnorsemen/"
     },
     {
       "id": "f_hok_klu_na_nahl_k35",
@@ -149871,7 +150117,8 @@
       "desc": "Watertown v Južnej Dakote, klub vznikol v roku 2024.",
       "url": "https://watertownshamrocks.com",
       "order": 34,
-      "desc_en": "Watertown, South Dakota; the club was founded in 2024."
+      "desc_en": "Watertown, South Dakota; the club was founded in 2024.",
+      "ig": "https://www.instagram.com/shamrocksnahl/"
     },
     {
       "id": "f_hok_klu_na_nahl_k36",
@@ -149882,7 +150129,9 @@
       "desc": "Brookfield vo Wisconsine, hrá v hale The Ponds of Brookfield.",
       "url": "https://www.wisconsinjuniorhockey.com",
       "order": 35,
-      "desc_en": "Brookfield, Wisconsin; plays at The Ponds of Brookfield."
+      "desc_en": "Brookfield, Wisconsin; plays at The Ponds of Brookfield.",
+      "ig": "https://www.instagram.com/wisconsinwindigo/",
+      "fb": "https://www.facebook.com/WiscWindigo/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k1",
@@ -149893,7 +150142,8 @@
       "desc": "Morrisville v Severnej Karolíne — hrá v hale Wake Competition Center, v NCDC od roku 2017.",
       "url": "https://www.usphljrcanes.com/",
       "order": 3,
-      "desc_en": "Morrisville, North Carolina — plays at the Wake Competition Center, in the NCDC since 2017."
+      "desc_en": "Morrisville, North Carolina — plays at the Wake Competition Center, in the NCDC since 2017.",
+      "ig": "https://www.instagram.com/carolinajuniorcanes/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k2",
@@ -149904,7 +150154,9 @@
       "desc": "North Charleston v Južnej Karolíne — domovom je Carolina Ice Palace; klub bol od roku 2021 do roku 2025 mimo prevádzky.",
       "url": "https://www.charlestoncolonials.com/",
       "order": 5,
-      "desc_en": "North Charleston, South Carolina — home is the Carolina Ice Palace; the club was dormant from 2021 through 2025."
+      "desc_en": "North Charleston, South Carolina — home is the Carolina Ice Palace; the club was dormant from 2021 through 2025.",
+      "fb": "https://www.facebook.com/profile.php?id=61572562994628",
+      "ig": "https://www.instagram.com/charlestoncolonials/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k3",
@@ -149915,7 +150167,8 @@
       "desc": "Klub z okolia Charlotte v Severnej Karolíne — domovom je hala Pineville Ice House.",
       "url": "https://www.pinevilleice.com/charlotte-rush-junior-hockey",
       "order": 6,
-      "desc_en": "A club from the Charlotte area of North Carolina — its home is the Pineville Ice House."
+      "desc_en": "A club from the Charlotte area of North Carolina — its home is the Pineville Ice House.",
+      "ig": "https://www.instagram.com/charlotterushhockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k4",
@@ -149926,7 +150179,9 @@
       "desc": "Lockport pri Chicagu v Illinois — nováčik NCDC, do súťaže vstupuje v sezóne 2026/27.",
       "url": "https://www.chicagounionhockey.com/",
       "order": 7,
-      "desc_en": "Lockport near Chicago, Illinois — an NCDC newcomer entering the league in the 2026/27 season."
+      "desc_en": "Lockport near Chicago, Illinois — an NCDC newcomer entering the league in the 2026/27 season.",
+      "fb": "https://www.facebook.com/profile.php?id=61578700500151",
+      "ig": "https://www.instagram.com/chicagounionncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k5",
@@ -149937,7 +150192,9 @@
       "desc": "Lewis Center pri Columbuse v Ohiu — hrá v hale OhioHealth Chiller North, v NCDC od roku 2019.",
       "url": "https://www.columbusmavericks.com/",
       "order": 8,
-      "desc_en": "Lewis Center near Columbus, Ohio — plays at the OhioHealth Chiller North, in the NCDC since 2019."
+      "desc_en": "Lewis Center near Columbus, Ohio — plays at the OhioHealth Chiller North, in the NCDC since 2019.",
+      "fb": "https://www.facebook.com/ColumbusMavericks/",
+      "ig": "https://www.instagram.com/columbusmavericks/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k6",
@@ -149948,7 +150205,9 @@
       "desc": "Stamford v Connecticute — domovom je komplex Chelsea Piers Connecticut, zakladajúci člen NCDC z roku 2017.",
       "url": "https://www.cjrhockey.com/",
       "order": 9,
-      "desc_en": "Stamford, Connecticut — home is the Chelsea Piers Connecticut complex, a founding NCDC member from 2017."
+      "desc_en": "Stamford, Connecticut — home is the Chelsea Piers Connecticut complex, a founding NCDC member from 2017.",
+      "fb": "https://www.facebook.com/profile.php?id=61551770638469",
+      "ig": "https://www.instagram.com/ctjuniorrangers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k7",
@@ -149956,10 +150215,11 @@
       "type": "link",
       "icon": "",
       "name": "Coral Springs Jr. Cats",
-      "desc": "Coral Springs na Floride — hrá v hale Coral Springs IceDen; klub nemá funkčný vlastný web, odkaz vedie na jeho Facebook.",
-      "url": "https://www.facebook.com/p/Coral-Springs-Jr-Cats-61572969687114/",
+      "desc": "Coral Springs na Floride — hrá v hale Coral Springs IceDen; klub nemá funkčný vlastný web, odkaz vedie na jeho Instagram.",
+      "url": "https://www.instagram.com/jrcatshockey/",
       "order": 11,
-      "desc_en": "Coral Springs, Florida — plays at the Coral Springs IceDen; the club has no working website, so the link goes to its Facebook page."
+      "desc_en": "Coral Springs, Florida — plays at the Coral Springs IceDen; the club has no working website, so the link goes to its Instagram.",
+      "fb": "https://www.facebook.com/profile.php?id=61572969687114"
     },
     {
       "id": "f_hok_klu_na_ncdc_k8",
@@ -149970,7 +150230,9 @@
       "desc": "Fort Myers na Floride — domovom je Fort Myers Skatium, v NCDC od jeho vzniku v roku 2017.",
       "url": "https://www.floridaeelsjrhockey.com/",
       "order": 13,
-      "desc_en": "Fort Myers, Florida — home is the Fort Myers Skatium, in the NCDC since its creation in 2017."
+      "desc_en": "Fort Myers, Florida — home is the Fort Myers Skatium, in the NCDC since its creation in 2017.",
+      "fb": "https://www.facebook.com/FloridaEelsJuniorHockey/",
+      "ig": "https://www.instagram.com/floridaeels_usphl/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k9",
@@ -149981,7 +150243,9 @@
       "desc": "Estero na Floride — hrá v aréne Hertz Arena, v NCDC od roku 2017.",
       "url": "https://floridajrblades.com/",
       "order": 14,
-      "desc_en": "Estero, Florida — plays at the Hertz Arena, in the NCDC since 2017."
+      "desc_en": "Estero, Florida — plays at the Hertz Arena, in the NCDC since 2017.",
+      "fb": "https://www.facebook.com/FloridaJrBladesHockey/",
+      "ig": "https://www.instagram.com/floridajrblades/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k10",
@@ -149989,10 +150253,11 @@
       "type": "link",
       "icon": "",
       "name": "Florida Surge",
-      "desc": "Jacksonville na Floride — nováčik, ktorý v NCDC začína hrať v sezóne 2026/27; vlastný web zatiaľ nemá, odkaz vedie na Elite Prospects.",
-      "url": "https://www.eliteprospects.com/team/49338/florida-surge",
+      "desc": "Jacksonville na Floride — nováčik, ktorý v NCDC začína hrať v sezóne 2026/27; vlastný web zatiaľ nemá, odkaz vedie na jeho Instagram.",
+      "url": "https://www.instagram.com/florida.surge/",
       "order": 15,
-      "desc_en": "Jacksonville, Florida — a newcomer beginning NCDC play in the 2026/27 season; it has no website yet, so the link goes to Elite Prospects."
+      "desc_en": "Jacksonville, Florida — a newcomer beginning NCDC play in the 2026/27 season; it has no website yet, so the link goes to its Instagram.",
+      "fb": "https://www.facebook.com/profile.php?id=61583583487290"
     },
     {
       "id": "f_hok_klu_na_ncdc_k11",
@@ -150003,7 +150268,9 @@
       "desc": "Fort Wayne v Indiane — domovom je SportONE/Parkview Icehouse, v NCDC od roku 2019.",
       "url": "https://www.fwspacemen.com/",
       "order": 16,
-      "desc_en": "Fort Wayne, Indiana — home is the SportONE/Parkview Icehouse, in the NCDC since 2019."
+      "desc_en": "Fort Wayne, Indiana — home is the SportONE/Parkview Icehouse, in the NCDC since 2019.",
+      "fb": "https://www.facebook.com/FWSpacemen/",
+      "ig": "https://www.instagram.com/fwspacemen/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k12",
@@ -150014,7 +150281,9 @@
       "desc": "Chesapeake vo Virgínii — hrá v komplexe Chilled Ponds, v NCDC od roku 2017.",
       "url": "https://www.whalernation.com/",
       "order": 18,
-      "desc_en": "Chesapeake, Virginia — plays at the Chilled Ponds complex, in the NCDC since 2017."
+      "desc_en": "Chesapeake, Virginia — plays at the Chilled Ponds complex, in the NCDC since 2017.",
+      "fb": "https://www.facebook.com/HRJrWhalers/",
+      "ig": "https://www.instagram.com/hrwhalers_hockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k13",
@@ -150025,7 +150294,8 @@
       "desc": "Hudson vo Wisconsine — domovom je Hudson Sports & Civic Center, v USPHL od roku 2017.",
       "url": "https://hudsonhavoc.com/",
       "order": 19,
-      "desc_en": "Hudson, Wisconsin — home is the Hudson Sports & Civic Center, in the USPHL since 2017."
+      "desc_en": "Hudson, Wisconsin — home is the Hudson Sports & Civic Center, in the USPHL since 2017.",
+      "ig": "https://www.instagram.com/hudsonhavoc_ig/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k14",
@@ -150036,7 +150306,9 @@
       "desc": "Wayne v New Jersey — hrá v hale Ice Vault Arena, zakladajúci člen NCDC z roku 2017.",
       "url": "https://www.jerseyhitmen.net/",
       "order": 21,
-      "desc_en": "Wayne, New Jersey — plays at the Ice Vault Arena, a founding NCDC member from 2017."
+      "desc_en": "Wayne, New Jersey — plays at the Ice Vault Arena, a founding NCDC member from 2017.",
+      "fb": "https://www.facebook.com/TheJerseyHitmen/",
+      "ig": "https://www.instagram.com/thejerseyhitmen/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k15",
@@ -150047,7 +150319,9 @@
       "desc": "Hamilton v New Jersey — domovom je Ice Land Skating Center, v NCDC od roku 2022.",
       "url": "https://mercerchiefs.com/",
       "order": 25,
-      "desc_en": "Hamilton, New Jersey — home is the Ice Land Skating Center, in the NCDC since 2022."
+      "desc_en": "Hamilton, New Jersey — home is the Ice Land Skating Center, in the NCDC since 2022.",
+      "fb": "https://www.facebook.com/mercerchiefshockey/",
+      "ig": "https://www.instagram.com/mercerchiefshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k16",
@@ -150058,7 +150332,9 @@
       "desc": "Mount Clemens v Michigane — hrá v Mount Clemens Ice Arena, v NCDC od roku 2018.",
       "url": "https://www.metrojetshockey.com/",
       "order": 26,
-      "desc_en": "Mount Clemens, Michigan — plays at the Mount Clemens Ice Arena, in the NCDC since 2018."
+      "desc_en": "Mount Clemens, Michigan — plays at the Mount Clemens Ice Arena, in the NCDC since 2018.",
+      "fb": "https://www.facebook.com/MetroJetsUSPHL/",
+      "ig": "https://www.instagram.com/metrojetshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k17",
@@ -150069,7 +150345,9 @@
       "desc": "Coon Rapids v Minnesote — domovom je Coon Rapids Ice Center, v USPHL od roku 2017.",
       "url": "https://blueoxhockey.com/",
       "order": 27,
-      "desc_en": "Coon Rapids, Minnesota — home is the Coon Rapids Ice Center, in the USPHL since 2017."
+      "desc_en": "Coon Rapids, Minnesota — home is the Coon Rapids Ice Center, in the USPHL since 2017.",
+      "fb": "https://www.facebook.com/profile.php?id=61555526275769",
+      "ig": "https://www.instagram.com/mnblueoxhockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k18",
@@ -150080,7 +150358,9 @@
       "desc": "Elk River v Minnesote — hrá v hale Furniture-and-Things Community Event Center, v USPHL od roku 2022.",
       "url": "https://www.mnsquatch.com/",
       "order": 28,
-      "desc_en": "Elk River, Minnesota — plays at the Furniture-and-Things Community Event Center, in the USPHL since 2022."
+      "desc_en": "Elk River, Minnesota — plays at the Furniture-and-Things Community Event Center, in the USPHL since 2022.",
+      "fb": "https://www.facebook.com/profile.php?id=100544735990809",
+      "ig": "https://www.instagram.com/mnsquatchhockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k19",
@@ -150091,7 +150371,9 @@
       "desc": "Spooner vo Wisconsine — domovom je Spooner Civic Center, v USPHL od roku 2017.",
       "url": "https://www.nwexpresshockey.com/",
       "order": 33,
-      "desc_en": "Spooner, Wisconsin — home is the Spooner Civic Center, in the USPHL since 2017."
+      "desc_en": "Spooner, Wisconsin — home is the Spooner Civic Center, in the USPHL since 2017.",
+      "fb": "https://www.facebook.com/profile.php?id=61560958706205",
+      "ig": "https://www.instagram.com/nwexpresshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k20",
@@ -150102,7 +150384,9 @@
       "desc": "Hauppauge na Long Islande v štáte New York — hrá v Northwell Health Ice Center, tréningovej hale New York Islanders.",
       "url": "https://pal-ice-hockey.kreezee-sports.com/jr-islanders",
       "order": 36,
-      "desc_en": "Hauppauge on Long Island, New York — plays at the Northwell Health Ice Center, the New York Islanders' practice facility."
+      "desc_en": "Hauppauge on Long Island, New York — plays at the Northwell Health Ice Center, the New York Islanders' practice facility.",
+      "fb": "https://www.facebook.com/PALJrIslanders/",
+      "ig": "https://www.instagram.com/paljrislanders_ncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k21",
@@ -150113,7 +150397,9 @@
       "desc": "Woodbridge vo Virgínii pri Washingtone — domovom je Prince William Ice Center, v NCDC od roku 2017.",
       "url": "https://www.potomacpatriots.net/",
       "order": 39,
-      "desc_en": "Woodbridge, Virginia near Washington — home is the Prince William Ice Center, in the NCDC since 2017."
+      "desc_en": "Woodbridge, Virginia near Washington — home is the Prince William Ice Center, in the NCDC since 2017.",
+      "fb": "https://www.facebook.com/PotomacPatriots/",
+      "ig": "https://www.instagram.com/potomacpatriotshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k22",
@@ -150124,7 +150410,9 @@
       "desc": "Clarksville v Tennessee — hrá v aréne F&M Bank Arena, do mesta sa klub presťahoval po vstupe do ligy v roku 2022.",
       "url": "https://spartanshockeytn.com/",
       "order": 41,
-      "desc_en": "Clarksville, Tennessee — plays at the F&M Bank Arena; the club relocated there after joining the league in 2022."
+      "desc_en": "Clarksville, Tennessee — plays at the F&M Bank Arena; the club relocated there after joining the league in 2022.",
+      "fb": "https://www.facebook.com/profile.php?id=61574368349976",
+      "ig": "https://www.instagram.com/spartanshockeytn/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k23",
@@ -150135,7 +150423,9 @@
       "desc": "Bridgewater v New Jersey — domovom je Bridgewater Sports Arena, zakladajúci člen NCDC z roku 2017.",
       "url": "https://www.rocketshockeyclub.com/",
       "order": 43,
-      "desc_en": "Bridgewater, New Jersey — home is the Bridgewater Sports Arena, a founding NCDC member from 2017."
+      "desc_en": "Bridgewater, New Jersey — home is the Bridgewater Sports Arena, a founding NCDC member from 2017.",
+      "fb": "https://www.facebook.com/NJRockets/",
+      "ig": "https://www.instagram.com/rocketshockeyclub/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k24",
@@ -150146,7 +150436,9 @@
       "desc": "Ellenton pri Tampe na Floride — hrá v hale Ellenton Ice, v NCDC od roku 2017.",
       "url": "https://www.tampajr.com/",
       "order": 48,
-      "desc_en": "Ellenton near Tampa, Florida — plays at Ellenton Ice, in the NCDC since 2017."
+      "desc_en": "Ellenton near Tampa, Florida — plays at Ellenton Ice, in the NCDC since 2017.",
+      "fb": "https://www.facebook.com/TampaBayJuniorsHockeyClub/",
+      "ig": "https://www.instagram.com/tbjuniorsusphl/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k25",
@@ -150154,10 +150446,12 @@
       "type": "link",
       "icon": "",
       "name": "Toledo Cherokee",
-      "desc": "Toledo v Ohiu — hrá v hale Team Toledo Ice House; vlastný web má pokazený certifikát, odkaz preto vedie na Facebook klubu.",
-      "url": "https://www.facebook.com/ToledoCherokeeUSPHL/",
+      "desc": "Toledo v Ohiu — hrá v hale Team Toledo Ice House; odkaz vedie na oficiálny web klubu.",
+      "url": "https://cherokeehockey.com/",
       "order": 50,
-      "desc_en": "Toledo, Ohio — plays at the Team Toledo Ice House; the club's own website has a broken certificate, so the link goes to its Facebook page."
+      "desc_en": "Toledo, Ohio — plays at the Team Toledo Ice House; the link goes to the club's official website.",
+      "fb": "https://www.facebook.com/ToledoCherokeeUSPHL/",
+      "ig": "https://www.instagram.com/toledocherokeeusphl/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k26",
@@ -150168,7 +150462,9 @@
       "desc": "Palm Beach na Floride — domovom je Palm Beach Skate Zone, v NCDC od roku 2021.",
       "url": "https://www.palmbeachtyphoon.com/",
       "order": 51,
-      "desc_en": "Palm Beach, Florida — home is the Palm Beach Skate Zone, in the NCDC since 2021."
+      "desc_en": "Palm Beach, Florida — home is the Palm Beach Skate Zone, in the NCDC since 2021.",
+      "fb": "https://www.facebook.com/profile.php?id=61574654949798",
+      "ig": "https://www.instagram.com/typhoonhc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k27",
@@ -150179,7 +150475,9 @@
       "desc": "West Chester v Pensylvánii — hrá v PNY Sports Arena, v NCDC od roku 2024.",
       "url": "https://www.westchesterwolves.com/",
       "order": 57,
-      "desc_en": "West Chester, Pennsylvania — plays at the PNY Sports Arena, in the NCDC since 2024."
+      "desc_en": "West Chester, Pennsylvania — plays at the PNY Sports Arena, in the NCDC since 2024.",
+      "fb": "https://www.facebook.com/profile.php?id=61558333543106",
+      "ig": "https://www.instagram.com/wc_wolveshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k28",
@@ -150190,7 +150488,9 @@
       "desc": "Pittston v Pensylvánii — domovom je Revolution Ice Center, v NCDC od roku 2022.",
       "url": "https://www.wbs-usphl.com/",
       "order": 58,
-      "desc_en": "Pittston, Pennsylvania — home is the Revolution Ice Center, in the NCDC since 2022."
+      "desc_en": "Pittston, Pennsylvania — home is the Revolution Ice Center, in the NCDC since 2022.",
+      "fb": "https://www.facebook.com/wbsusphl/",
+      "ig": "https://www.instagram.com/wbsknightsncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k29",
@@ -150201,7 +150501,9 @@
       "desc": "Wisconsin Rapids vo Wisconsine — hrá v South Wood County Recreation Center, v USPHL od roku 2017.",
       "url": "https://riverkingshockey.com/",
       "order": 59,
-      "desc_en": "Wisconsin Rapids, Wisconsin — plays at the South Wood County Recreation Center, in the USPHL since 2017."
+      "desc_en": "Wisconsin Rapids, Wisconsin — plays at the South Wood County Recreation Center, in the USPHL since 2017.",
+      "fb": "https://www.facebook.com/RiverkingsHockey/",
+      "ig": "https://www.instagram.com/riverkingshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k30",
@@ -150212,7 +150514,9 @@
       "desc": "Yorktown vo Virgínii — nováčik NCDC, ktorý začína hrať v sezóne 2026/27 v hale Chilled Ponds Yorktown.",
       "url": "https://www.yorktownadmirals.com/",
       "order": 62,
-      "desc_en": "Yorktown, Virginia — an NCDC newcomer starting play in the 2026/27 season at Chilled Ponds Yorktown."
+      "desc_en": "Yorktown, Virginia — an NCDC newcomer starting play in the 2026/27 season at Chilled Ponds Yorktown.",
+      "fb": "https://www.facebook.com/profile.php?id=61584625749740",
+      "ig": "https://www.instagram.com/yorktownadmirals/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k31",
@@ -150223,7 +150527,9 @@
       "desc": "Newington v štáte Connecticut — v USPHL od roku 2025, hrá v Newington Arena.",
       "url": "https://ctchiefshockey.com/",
       "order": 12,
-      "desc_en": "Newington, Connecticut — in the USPHL since 2025, playing at Newington Arena."
+      "desc_en": "Newington, Connecticut — in the USPHL since 2025, playing at Newington Arena.",
+      "fb": "https://www.facebook.com/ctchiefshockey/",
+      "ig": "https://www.instagram.com/ctchiefshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k32",
@@ -150234,7 +150540,9 @@
       "desc": "Norwalk v štáte Connecticut — v USPHL od roku 2013, domovom je SoNo Icehouse.",
       "url": "https://www.ct-roughriders.com/",
       "order": 10,
-      "desc_en": "Norwalk, Connecticut — in the USPHL since 2013, based at the SoNo Icehouse."
+      "desc_en": "Norwalk, Connecticut — in the USPHL since 2013, based at the SoNo Icehouse.",
+      "fb": "https://www.facebook.com/ctroughriders/",
+      "ig": "https://www.instagram.com/ct.roughriders/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k33",
@@ -150245,7 +150553,9 @@
       "desc": "West Springfield v Massachusetts — v USPHL od roku 2025, hrá v Olympia Ice Center.",
       "url": "https://www.springfieldjrpics.com/",
       "order": 45,
-      "desc_en": "West Springfield, Massachusetts — in the USPHL since 2025, playing at the Olympia Ice Center."
+      "desc_en": "West Springfield, Massachusetts — in the USPHL since 2025, playing at the Olympia Ice Center.",
+      "fb": "https://www.facebook.com/springfield.jr.pics/",
+      "ig": "https://www.instagram.com/jrpicshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k34",
@@ -150256,7 +150566,9 @@
       "desc": "Clifton Park v štáte New York — program z regiónu Capital Region, hrá v Capital Ice Arena.",
       "url": "https://www.nydynamo.com/",
       "order": 34,
-      "desc_en": "Clifton Park, New York — a program from the Capital Region, playing at Capital Ice Arena."
+      "desc_en": "Clifton Park, New York — a program from the Capital Region, playing at Capital Ice Arena.",
+      "fb": "https://www.facebook.com/NYDynamo/",
+      "ig": "https://www.instagram.com/ny_dynamo/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k35",
@@ -150276,9 +150588,10 @@
       "icon": "",
       "name": "Syracuse Lightning",
       "desc": "Baldwinsville pri Syracuse — v USPHL od roku 2022, hrá v Three Rivers Athletic Complex.",
-      "url": "https://www.eliteprospects.com/team/49249/syracuse-lightning",
+      "url": "https://www.facebook.com/profile.php?id=61566185836653",
       "order": 47,
-      "desc_en": "Baldwinsville near Syracuse — in the USPHL since 2022, playing at the Three Rivers Athletic Complex."
+      "desc_en": "Baldwinsville near Syracuse — in the USPHL since 2022, playing at the Three Rivers Athletic Complex.",
+      "ig": "https://www.instagram.com/syracuselightning_ncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k37",
@@ -150289,7 +150602,9 @@
       "desc": "Utica v štáte New York — program z Mohawk Valley hrá v Adirondack Bank Center.",
       "url": "https://www.uticajrcomets.org/",
       "order": 54,
-      "desc_en": "Utica, New York — a Mohawk Valley program playing at the Adirondack Bank Center."
+      "desc_en": "Utica, New York — a Mohawk Valley program playing at the Adirondack Bank Center.",
+      "fb": "https://www.facebook.com/utica.j.comets/",
+      "ig": "https://www.instagram.com/uticajrcometsncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k38",
@@ -150311,7 +150626,9 @@
       "desc": "Lewiston v Maine — v USPHL od roku 2025, hrá v tradičnej hale The Colisée.",
       "url": "https://www.lewistonmaineiacshockey.com/",
       "order": 23,
-      "desc_en": "Lewiston, Maine — in the USPHL since 2025, playing at the storied Colisée."
+      "desc_en": "Lewiston, Maine — in the USPHL since 2025, playing at the storied Colisée.",
+      "fb": "https://www.facebook.com/profile.php?id=61578232950236",
+      "ig": "https://www.instagram.com/lewistonmaineiacshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k40",
@@ -150322,7 +150639,9 @@
       "desc": "Montreal v Quebecu — v USPHL od roku 2024, domovom je športové centrum Collège Saint-Jean-Vianney.",
       "url": "https://www.blackvees.com/",
       "order": 29,
-      "desc_en": "Montreal, Quebec — in the USPHL since 2024, based at the Collège Saint-Jean-Vianney sports centre."
+      "desc_en": "Montreal, Quebec — in the USPHL since 2024, based at the Collège Saint-Jean-Vianney sports centre.",
+      "fb": "https://www.facebook.com/profile.php?id=61554382766308",
+      "ig": "https://www.instagram.com/blackveesmontreal/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k41",
@@ -150333,7 +150652,9 @@
       "desc": "Presque Isle v Maine — v USPHL od roku 2025, hrá v hale The Forum.",
       "url": "https://northernmainepioneers.com/",
       "order": 32,
-      "desc_en": "Presque Isle, Maine — in the USPHL since 2025, playing at The Forum."
+      "desc_en": "Presque Isle, Maine — in the USPHL since 2025, playing at The Forum.",
+      "fb": "https://www.facebook.com/profile.php?id=61579410236916",
+      "ig": "https://www.instagram.com/northernmainepioneers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k42",
@@ -150344,7 +150665,9 @@
       "desc": "Perth-Andover v Novom Brunswicku — nováčik sezóny 2026/27, hrá v River Valley Civic Centre.",
       "url": "https://perthandoverbearcat.com/",
       "order": 38,
-      "desc_en": "Perth-Andover, New Brunswick — a 2026/27 newcomer playing at the River Valley Civic Centre."
+      "desc_en": "Perth-Andover, New Brunswick — a 2026/27 newcomer playing at the River Valley Civic Centre.",
+      "fb": "https://www.facebook.com/profile.php?id=61592900255897",
+      "ig": "https://www.instagram.com/bearcatncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k43",
@@ -150353,9 +150676,11 @@
       "icon": "",
       "name": "St. Stephen County Moose",
       "desc": "St. Stephen v Novom Brunswicku — v USPHL od roku 2025, hrá v Garcelon Civic Centre.",
-      "url": "https://www.facebook.com/countymoose/",
+      "url": "https://www.countymoose.com/",
       "order": 46,
-      "desc_en": "St. Stephen, New Brunswick — in the USPHL since 2025, playing at the Garcelon Civic Centre."
+      "desc_en": "St. Stephen, New Brunswick — in the USPHL since 2025, playing at the Garcelon Civic Centre.",
+      "fb": "https://www.facebook.com/countymoose/",
+      "ig": "https://www.instagram.com/countymoose/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k44",
@@ -150377,7 +150702,9 @@
       "desc": "Exeter v New Hampshire — v USPHL od roku 2019, domovom je The Rinks at Exeter.",
       "url": "https://www.thunderhockeyclub.com/",
       "order": 49,
-      "desc_en": "Exeter, New Hampshire — in the USPHL since 2019, based at The Rinks at Exeter."
+      "desc_en": "Exeter, New Hampshire — in the USPHL since 2019, based at The Rinks at Exeter.",
+      "fb": "https://www.facebook.com/twincitythunderhockeyusphl/",
+      "ig": "https://www.instagram.com/thunderhockeyclubncdc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k46",
@@ -150388,7 +150715,9 @@
       "desc": "Woodstock v Novom Brunswicku — v USPHL od roku 2025, domovom je AYR Motor Centre.",
       "url": "https://woodstockwarriors.com/",
       "order": 60,
-      "desc_en": "Woodstock, New Brunswick — in the USPHL since 2025, based at the AYR Motor Centre."
+      "desc_en": "Woodstock, New Brunswick — in the USPHL since 2025, based at the AYR Motor Centre.",
+      "fb": "https://www.facebook.com/profile.php?id=61582776539696",
+      "ig": "https://www.instagram.com/warriorsjra/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k47",
@@ -150399,7 +150728,9 @@
       "desc": "Canton v Massachusetts — program funguje od roku 1982, domácou halou je Canton Ice Center.",
       "url": "https://bostonjuniorterriers.com/",
       "order": 2,
-      "desc_en": "Canton, Massachusetts — a program running since 1982, home rink the Canton Ice Center."
+      "desc_en": "Canton, Massachusetts — a program running since 1982, home rink the Canton Ice Center.",
+      "fb": "https://www.facebook.com/BostonJuniorTerriers/",
+      "ig": "https://www.instagram.com/bjrterriers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k48",
@@ -150410,7 +150741,9 @@
       "desc": "Marlborough v Massachusetts — klub založený v roku 1991, hrá v New England Sports Center.",
       "url": "https://bostonjuniorbruins.com/",
       "order": 0,
-      "desc_en": "Marlborough, Massachusetts — founded in 1991, playing at the New England Sports Center."
+      "desc_en": "Marlborough, Massachusetts — founded in 1991, playing at the New England Sports Center.",
+      "fb": "https://www.facebook.com/juniorbruinshockey/",
+      "ig": "https://www.instagram.com/juniorbruins/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k49",
@@ -150421,7 +150754,9 @@
       "desc": "Tewksbury v Massachusetts — klub založený v roku 2008, domovom je Breakaway Ice Center.",
       "url": "https://bostonjuniorrangers.com/",
       "order": 1,
-      "desc_en": "Tewksbury, Massachusetts — founded in 2008, based at the Breakaway Ice Center."
+      "desc_en": "Tewksbury, Massachusetts — founded in 2008, based at the Breakaway Ice Center.",
+      "fb": "https://www.facebook.com/BostonJuniorRangers/",
+      "ig": "https://www.instagram.com/bostonjuniorrangers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k50",
@@ -150432,7 +150767,8 @@
       "desc": "Tyngsborough v Massachusetts — v USPHL od roku 2017, hrá v Skate 3 Ice Arena.",
       "url": "https://www.islandersusphl.com/",
       "order": 20,
-      "desc_en": "Tyngsborough, Massachusetts — in the USPHL since 2017, playing at the Skate 3 Ice Arena."
+      "desc_en": "Tyngsborough, Massachusetts — in the USPHL since 2017, playing at the Skate 3 Ice Arena.",
+      "ig": "https://www.instagram.com/islandershockeyclubusphl/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k51",
@@ -150443,7 +150779,9 @@
       "desc": "Laconia v New Hampshire — najstarší člen tejto skupiny, v USPHL od roku 2005, hrá v Merrill Fay Arena.",
       "url": "https://www.ne-wolveshockey.com/",
       "order": 30,
-      "desc_en": "Laconia, New Hampshire — the longest-serving of this group, in the USPHL since 2005, at Merrill Fay Arena."
+      "desc_en": "Laconia, New Hampshire — the longest-serving of this group, in the USPHL since 2005, at Merrill Fay Arena.",
+      "fb": "https://www.facebook.com/MJHLnewolves/",
+      "ig": "https://www.instagram.com/newenglandwolves/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k52",
@@ -150454,7 +150792,9 @@
       "desc": "Hudson v New Hampshire — v USPHL od roku 2017, domovom je vlastná Cyclones Arena.",
       "url": "https://www.northerncyclones.com/",
       "order": 31,
-      "desc_en": "Hudson, New Hampshire — in the USPHL since 2017, based at its own Cyclones Arena."
+      "desc_en": "Hudson, New Hampshire — in the USPHL since 2017, based at its own Cyclones Arena.",
+      "fb": "https://www.facebook.com/ncyclones/",
+      "ig": "https://www.instagram.com/njrcyclones/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k53",
@@ -150465,7 +150805,9 @@
       "desc": "Foxboro v Massachusetts — v USPHL od roku 2017, hrá vo Foxboro Sports Center.",
       "url": "https://southshorekings.com/",
       "order": 44,
-      "desc_en": "Foxboro, Massachusetts — in the USPHL since 2017, playing at the Foxboro Sports Center."
+      "desc_en": "Foxboro, Massachusetts — in the USPHL since 2017, playing at the Foxboro Sports Center.",
+      "fb": "https://www.facebook.com/southshorekings/",
+      "ig": "https://www.instagram.com/ssk_hockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k54",
@@ -150476,7 +150818,9 @@
       "desc": "Worcester v Massachusetts — v USPHL od roku 2024, hrá vo Fidelity Bank Worcester Ice Center.",
       "url": "https://www.worcesterrailersjhc.com/",
       "order": 61,
-      "desc_en": "Worcester, Massachusetts — in the USPHL since 2024, playing at the Fidelity Bank Worcester Ice Center."
+      "desc_en": "Worcester, Massachusetts — in the USPHL since 2024, playing at the Fidelity Bank Worcester Ice Center.",
+      "fb": "https://www.facebook.com/RailersJHC/",
+      "ig": "https://www.instagram.com/railersjhc/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k55",
@@ -150487,7 +150831,9 @@
       "desc": "Casper vo Wyomingu — v USPHL od roku 2023, domovom je Casper Ice Arena.",
       "url": "https://www.casperwarbirdsofficial.com/",
       "order": 4,
-      "desc_en": "Casper, Wyoming — in the USPHL since 2023, based at the Casper Ice Arena."
+      "desc_en": "Casper, Wyoming — in the USPHL since 2023, based at the Casper Ice Arena.",
+      "fb": "https://www.facebook.com/CasperWarbirdsHockey/",
+      "ig": "https://www.instagram.com/casperwarbirdshockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k56",
@@ -150498,7 +150844,9 @@
       "desc": "McCall v Idahu — juniorský tím Tier II, ktorý hrá v Manchester Ice & Event Centre.",
       "url": "https://www.smokejumpershockey.com/",
       "order": 24,
-      "desc_en": "McCall, Idaho — a Tier II junior team playing at the Manchester Ice & Event Centre."
+      "desc_en": "McCall, Idaho — a Tier II junior team playing at the Manchester Ice & Event Centre.",
+      "fb": "https://www.facebook.com/profile.php?id=61574964910477",
+      "ig": "https://www.instagram.com/ncdcsmokejumpers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k57",
@@ -150509,7 +150857,8 @@
       "desc": "Park City v Utahu — tím Mountain divízie NCDC.",
       "url": "https://www.pcoutliers.com/",
       "order": 37,
-      "desc_en": "Park City, Utah — a team in the NCDC Mountain Division."
+      "desc_en": "Park City, Utah — a team in the NCDC Mountain Division.",
+      "ig": "https://www.instagram.com/utahoutliershockey/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k58",
@@ -150520,7 +150869,9 @@
       "desc": "Rock Springs vo Wyomingu — v USPHL od roku 2023, hrá v Rock Springs Ice Arena.",
       "url": "https://rockspringsminers.com/",
       "order": 42,
-      "desc_en": "Rock Springs, Wyoming — in the USPHL since 2023, playing at the Rock Springs Ice Arena."
+      "desc_en": "Rock Springs, Wyoming — in the USPHL since 2023, playing at the Rock Springs Ice Arena.",
+      "fb": "https://www.facebook.com/profile.php?id=100094309825553",
+      "ig": "https://www.instagram.com/rock_springs_miners/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k59",
@@ -150531,7 +150882,9 @@
       "desc": "Vernal v Utahu — v USPHL od roku 2022, domovom je Western Park Ice Rink.",
       "url": "https://www.vernaloilers.com/",
       "order": 56,
-      "desc_en": "Vernal, Utah — in the USPHL since 2022, based at the Western Park Ice Rink."
+      "desc_en": "Vernal, Utah — in the USPHL since 2022, based at the Western Park Ice Rink.",
+      "fb": "https://www.facebook.com/vernaloilers/",
+      "ig": "https://www.instagram.com/vernaloilers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k60",
@@ -150542,7 +150895,9 @@
       "desc": "Fresno v Kalifornii — v USPHL od roku 2020, hrá v Gateway Ice Center.",
       "url": "https://www.fresnomonsters.com/",
       "order": 17,
-      "desc_en": "Fresno, California — in the USPHL since 2020, playing at the Gateway Ice Center."
+      "desc_en": "Fresno, California — in the USPHL since 2020, playing at the Gateway Ice Center.",
+      "fb": "https://www.facebook.com/USPHLMonsters/",
+      "ig": "https://www.instagram.com/ncdcmonsters/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k61",
@@ -150553,7 +150908,8 @@
       "desc": "South Lake Tahoe v Kalifornii — v USPHL od roku 2021, hrá v South Lake Tahoe Ice Arena.",
       "url": "https://www.laketahoelakers.com/",
       "order": 22,
-      "desc_en": "South Lake Tahoe, California — in the USPHL since 2021, playing at the South Lake Tahoe Ice Arena."
+      "desc_en": "South Lake Tahoe, California — in the USPHL since 2021, playing at the South Lake Tahoe Ice Arena.",
+      "ig": "https://www.instagram.com/laketahoelakers/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k62",
@@ -150564,7 +150920,9 @@
       "desc": "Ontario v Kalifornii — juniorský program, ktorý je v USPHL od roku 2021.",
       "url": "https://www.ontariojrreign.com/",
       "order": 35,
-      "desc_en": "Ontario, California — a junior program in the USPHL since 2021."
+      "desc_en": "Ontario, California — a junior program in the USPHL since 2021.",
+      "fb": "https://www.facebook.com/ojr909/",
+      "ig": "https://www.instagram.com/ojr909/"
     },
     {
       "id": "f_hok_klu_na_ncdc_k63",
@@ -150575,7 +150933,9 @@
       "desc": "Simi Valley v Kalifornii — v USPHL od roku 2022, domovom je Iceoplex Simi Valley.",
       "url": "https://venturavikings.com/",
       "order": 55,
-      "desc_en": "Simi Valley, California — in the USPHL since 2022, based at the Iceoplex Simi Valley."
+      "desc_en": "Simi Valley, California — in the USPHL since 2022, based at the Iceoplex Simi Valley.",
+      "fb": "https://www.facebook.com/VENTURAVIKINGSJRHOCKEY/",
+      "ig": "https://www.instagram.com/venturavikings/"
     },
     {
       "id": "f_hok_klu_na_bchl_k1",
@@ -150586,7 +150946,9 @@
       "desc": "Port Alberni na Vancouverskom ostrove, Weyerhaeuser Arena — franšíza sa v roku 2002 presťahovala z Burnaby.",
       "url": "https://www.albernivalleybulldogs.ca/",
       "order": 0,
-      "desc_en": "Port Alberni on Vancouver Island, Weyerhaeuser Arena — the franchise relocated from Burnaby in 2002."
+      "desc_en": "Port Alberni on Vancouver Island, Weyerhaeuser Arena — the franchise relocated from Burnaby in 2002.",
+      "fb": "https://www.facebook.com/AlberniValleyBulldogs/",
+      "ig": "https://www.instagram.com/avbulldogs/"
     },
     {
       "id": "f_hok_klu_na_bchl_k2",
@@ -150597,7 +150959,9 @@
       "desc": "Blackfalds v Alberte, Eagle Builders Centre — jeden z piatich klubov, ktoré v roku 2024 prešli z AJHL do BCHL.",
       "url": "https://www.blackfaldsbulldogs.com/",
       "order": 1,
-      "desc_en": "Blackfalds, Alberta, Eagle Builders Centre — one of five clubs that switched from the AJHL to the BCHL in 2024."
+      "desc_en": "Blackfalds, Alberta, Eagle Builders Centre — one of five clubs that switched from the AJHL to the BCHL in 2024.",
+      "fb": "https://www.facebook.com/BFBulldogs/",
+      "ig": "https://www.instagram.com/bbulldogs_/"
     },
     {
       "id": "f_hok_klu_na_bchl_k3",
@@ -150608,7 +150972,9 @@
       "desc": "Brooks v Alberte, Centennial Regional Arena — majster BCHL 2025 a 2026, do ligy prišiel z AJHL v roku 2024.",
       "url": "https://www.brooksbandits.net/",
       "order": 2,
-      "desc_en": "Brooks, Alberta, Centennial Regional Arena — BCHL champion in 2025 and 2026, joined from the AJHL in 2024."
+      "desc_en": "Brooks, Alberta, Centennial Regional Arena — BCHL champion in 2025 and 2026, joined from the AJHL in 2024.",
+      "fb": "https://www.facebook.com/BrooksBandits/",
+      "ig": "https://www.instagram.com/brooks_bandits/"
     },
     {
       "id": "f_hok_klu_na_bchl_k4",
@@ -150619,7 +150985,9 @@
       "desc": "Chilliwack, Chilliwack Coliseum — v roku 2018 vyhral kanadský národný šampionát Centennial Cup.",
       "url": "https://www.chilliwackchiefs.net/",
       "order": 3,
-      "desc_en": "Chilliwack, Chilliwack Coliseum — won the Centennial Cup, Canada's national junior title, in 2018."
+      "desc_en": "Chilliwack, Chilliwack Coliseum — won the Centennial Cup, Canada's national junior title, in 2018.",
+      "fb": "https://www.facebook.com/ChilliwackChiefs/",
+      "ig": "https://www.instagram.com/chwkchiefs/"
     },
     {
       "id": "f_hok_klu_na_bchl_k5",
@@ -150630,7 +150998,9 @@
       "desc": "Coquitlam, Poirier Sport & Leisure Complex — do ligy vstúpil v roku 2001, majster BCHL 2014.",
       "url": "https://www.coquitlamexpress.ca/",
       "order": 4,
-      "desc_en": "Coquitlam, Poirier Sport & Leisure Complex — joined the league in 2001, BCHL champion in 2014."
+      "desc_en": "Coquitlam, Poirier Sport & Leisure Complex — joined the league in 2001, BCHL champion in 2014.",
+      "fb": "https://www.facebook.com/CqtlmExpress/",
+      "ig": "https://www.instagram.com/bchlexpress/"
     },
     {
       "id": "f_hok_klu_na_bchl_k6",
@@ -150641,7 +151011,9 @@
       "desc": "Duncan na Vancouverskom ostrove, Cowichan Community Centre — súčasný názov nesie klub od roku 1989.",
       "url": "https://www.cowichancapitals.com/",
       "order": 5,
-      "desc_en": "Duncan on Vancouver Island, Cowichan Community Centre — the club has carried its current name since 1989."
+      "desc_en": "Duncan on Vancouver Island, Cowichan Community Centre — the club has carried its current name since 1989.",
+      "fb": "https://www.facebook.com/CowichanCapitals/",
+      "ig": "https://www.instagram.com/cowichancapitals/"
     },
     {
       "id": "f_hok_klu_na_bchl_k7",
@@ -150652,7 +151024,9 @@
       "desc": "Cranbrook vo Východnom Kootenay, Western Financial Place — do BCHL vstúpil ako nový klub v roku 2020.",
       "url": "https://www.cranbrookbucks.ca/",
       "order": 6,
-      "desc_en": "Cranbrook in the East Kootenays, Western Financial Place — entered the BCHL as an expansion team in 2020."
+      "desc_en": "Cranbrook in the East Kootenays, Western Financial Place — entered the BCHL as an expansion team in 2020.",
+      "fb": "https://www.facebook.com/BCHLBucks/",
+      "ig": "https://www.instagram.com/cranbrookbucks/"
     },
     {
       "id": "f_hok_klu_na_bchl_k8",
@@ -150663,7 +151037,9 @@
       "desc": "Langley, George Preston Recreation Centre — z Langley Chiefs sa klub premenoval na Rivermen v roku 2011.",
       "url": "https://www.langleyrivermen.com/",
       "order": 7,
-      "desc_en": "Langley, George Preston Recreation Centre — renamed from the Langley Chiefs to the Rivermen in 2011."
+      "desc_en": "Langley, George Preston Recreation Centre — renamed from the Langley Chiefs to the Rivermen in 2011.",
+      "fb": "https://www.facebook.com/LangleyRivermen/",
+      "ig": "https://www.instagram.com/langleyrivermen/"
     },
     {
       "id": "f_hok_klu_na_bchl_k9",
@@ -150674,7 +151050,9 @@
       "desc": "Nanaimo, Frank Crane Arena — v lige od roku 1972, štyri majstrovské tituly (1976, 1977, 2004, 2007).",
       "url": "https://www.nanaimoclippers.com/",
       "order": 8,
-      "desc_en": "Nanaimo, Frank Crane Arena — in the league since 1972, with four league titles (1976, 1977, 2004, 2007)."
+      "desc_en": "Nanaimo, Frank Crane Arena — in the league since 1972, with four league titles (1976, 1977, 2004, 2007).",
+      "fb": "https://www.facebook.com/nanaimoclippers/",
+      "ig": "https://www.instagram.com/nanaimoclippers/"
     },
     {
       "id": "f_hok_klu_na_bchl_k10",
@@ -150685,7 +151063,9 @@
       "desc": "Okotoks v Alberte, Viking Rentals Centre — z AJHL prešiel do BCHL v roku 2024.",
       "url": "https://www.okotoksoilers.com/",
       "order": 9,
-      "desc_en": "Okotoks, Alberta, Viking Rentals Centre — moved from the AJHL to the BCHL in 2024."
+      "desc_en": "Okotoks, Alberta, Viking Rentals Centre — moved from the AJHL to the BCHL in 2024.",
+      "fb": "https://www.facebook.com/okotoksoilers/",
+      "ig": "https://www.instagram.com/okotoks_oilers/"
     },
     {
       "id": "f_hok_klu_na_bchl_k11",
@@ -150696,7 +151076,9 @@
       "desc": "Powell River na pobreží Sunshine Coast, Hap Parker Arena — do roku 1998 hral ako Powell River Paper Kings.",
       "url": "https://www.powellriverkings.com/",
       "order": 10,
-      "desc_en": "Powell River on the Sunshine Coast, Hap Parker Arena — played as the Powell River Paper Kings until 1998."
+      "desc_en": "Powell River on the Sunshine Coast, Hap Parker Arena — played as the Powell River Paper Kings until 1998.",
+      "fb": "https://www.facebook.com/powellriverkings/",
+      "ig": "https://www.instagram.com/bchlkings/"
     },
     {
       "id": "f_hok_klu_na_bchl_k12",
@@ -150707,7 +151089,9 @@
       "desc": "Prince George na severe Britskej Kolumbie, Kopar Memorial Arena — majster BCHL 2019.",
       "url": "https://www.sprucekings.bc.ca/",
       "order": 11,
-      "desc_en": "Prince George in northern British Columbia, Kopar Memorial Arena — BCHL champion in 2019."
+      "desc_en": "Prince George in northern British Columbia, Kopar Memorial Arena — BCHL champion in 2019.",
+      "fb": "https://www.facebook.com/sprucekings/",
+      "ig": "https://www.instagram.com/pgsprucekings/"
     },
     {
       "id": "f_hok_klu_na_bchl_k13",
@@ -150718,7 +151102,9 @@
       "desc": "Salmon Arm v regióne Shuswap, Rogers Rink — do ligy vstúpil v roku 2001.",
       "url": "https://www.sasilverbacks.com/",
       "order": 12,
-      "desc_en": "Salmon Arm in the Shuswap region, Rogers Rink — joined the league in 2001."
+      "desc_en": "Salmon Arm in the Shuswap region, Rogers Rink — joined the league in 2001.",
+      "fb": "https://www.facebook.com/SalmonArmSilverbacks/",
+      "ig": "https://www.instagram.com/sasilverbacks/"
     },
     {
       "id": "f_hok_klu_na_bchl_k14",
@@ -150729,7 +151115,9 @@
       "desc": "Sherwood Park pri Edmontone, Sherwood Park Arena — jeden z piatich albertských klubov, ktoré prišli v roku 2024.",
       "url": "https://www.spcrusaders.com/",
       "order": 13,
-      "desc_en": "Sherwood Park near Edmonton, Sherwood Park Arena — one of the five Alberta clubs that arrived in 2024."
+      "desc_en": "Sherwood Park near Edmonton, Sherwood Park Arena — one of the five Alberta clubs that arrived in 2024.",
+      "fb": "https://www.facebook.com/spcrusaders/",
+      "ig": "https://www.instagram.com/spcrusaders/"
     },
     {
       "id": "f_hok_klu_na_bchl_k15",
@@ -150740,7 +151128,9 @@
       "desc": "Spruce Grove pri Edmontone, Thompson Family Arena — z AJHL prešiel do BCHL v roku 2024.",
       "url": "https://www.sgsaints.ca/",
       "order": 14,
-      "desc_en": "Spruce Grove near Edmonton, Thompson Family Arena — moved from the AJHL to the BCHL in 2024."
+      "desc_en": "Spruce Grove near Edmonton, Thompson Family Arena — moved from the AJHL to the BCHL in 2024.",
+      "fb": "https://www.facebook.com/sgsaints/",
+      "ig": "https://www.instagram.com/sgsaints/"
     },
     {
       "id": "f_hok_klu_na_bchl_k16",
@@ -150751,7 +151141,9 @@
       "desc": "Surrey, South Surrey Arena — majster BCHL 2024; ako South Surrey Eagles vyhral v roku 1998 Centennial Cup.",
       "url": "https://www.surreyeagles.net/",
       "order": 15,
-      "desc_en": "Surrey, South Surrey Arena — BCHL champion in 2024; as the South Surrey Eagles it won the 1998 Centennial Cup."
+      "desc_en": "Surrey, South Surrey Arena — BCHL champion in 2024; as the South Surrey Eagles it won the 1998 Centennial Cup.",
+      "fb": "https://www.facebook.com/SurreyEagles/",
+      "ig": "https://www.instagram.com/surreyeagles/"
     },
     {
       "id": "f_hok_klu_na_bchl_k17",
@@ -150762,7 +151154,9 @@
       "desc": "Trail v Kootenay, Cominco Arena — do BCHL vstúpil v roku 1995 po prevzatí franšízových práv.",
       "url": "https://www.trailsmokeeaters.com/",
       "order": 16,
-      "desc_en": "Trail in the Kootenays, Cominco Arena — joined the BCHL in 1995 after taking over franchise rights."
+      "desc_en": "Trail in the Kootenays, Cominco Arena — joined the BCHL in 1995 after taking over franchise rights.",
+      "fb": "https://www.facebook.com/BCHLSmokeEaters/",
+      "ig": "https://www.instagram.com/bchlsmokeeaters/"
     },
     {
       "id": "f_hok_klu_na_bchl_k18",
@@ -150773,7 +151167,9 @@
       "desc": "Vernon v Okanagane, Kal Tire Place — najúspešnejší klub ligy v národnom šampionáte, Centennial Cup získal v rokoch 1996, 1999, 2009 a 2010.",
       "url": "https://www.vernonvipers.com/",
       "order": 17,
-      "desc_en": "Vernon in the Okanagan, Kal Tire Place — the league's most successful club nationally, winning the Centennial Cup in 1996, 1999, 2009 and 2010."
+      "desc_en": "Vernon in the Okanagan, Kal Tire Place — the league's most successful club nationally, winning the Centennial Cup in 1996, 1999, 2009 and 2010.",
+      "fb": "https://www.facebook.com/VernonVipersHockey/",
+      "ig": "https://www.instagram.com/vernonvipersbchl/"
     },
     {
       "id": "f_hok_klu_na_bchl_k19",
@@ -150784,7 +151180,9 @@
       "desc": "Victoria na Vancouverskom ostrove, The Q Centre — z Victoria Salsa sa klub premenoval v roku 2006.",
       "url": "https://www.victoriagrizzlies.com/",
       "order": 18,
-      "desc_en": "Victoria on Vancouver Island, The Q Centre — renamed from the Victoria Salsa in 2006."
+      "desc_en": "Victoria on Vancouver Island, The Q Centre — renamed from the Victoria Salsa in 2006.",
+      "fb": "https://www.facebook.com/VictoriaGrizzlies/",
+      "ig": "https://www.instagram.com/victoriagrizzlies/"
     },
     {
       "id": "f_hok_klu_na_bchl_k20",
@@ -150795,7 +151193,9 @@
       "desc": "West Kelowna v Okanagane, Royal LePage Place — v roku 2016 vyhral majstrovský titul aj Centennial Cup.",
       "url": "https://www.westkelownawarriors.ca/",
       "order": 19,
-      "desc_en": "West Kelowna in the Okanagan, Royal LePage Place — won both the league title and the Centennial Cup in 2016."
+      "desc_en": "West Kelowna in the Okanagan, Royal LePage Place — won both the league title and the Centennial Cup in 2016.",
+      "fb": "https://www.facebook.com/WestKelownaWarriors/",
+      "ig": "https://www.instagram.com/bchlwarriors/"
     },
     {
       "id": "f_hok_klu_na_sphl_k1",
