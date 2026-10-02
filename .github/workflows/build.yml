@@ -3,6 +3,8 @@
 # Denný rebuild (cron): statické stránky sa každé ráno prestavajú z existujúceho
 # data.json — expirované Aktuálne/Live This Week udalosti vypadnú a dátum
 # v titulkoch sa obnoví aj bez nahrávania nových dát. Verziu dát to NEMENÍ.
+# Sitemap lastmod sa pritom NEMENÍ (od 2.10.2026 podľa skutočnej zmeny stránky,
+# stav v sitemap-lastmod.json — commitne ho krok „Ulož dátumy zmien pre sitemap").
 # UMIESTNENIE V REPOZITÁRI: .github/workflows/build.yml
 
 name: Build & Deploy
@@ -15,7 +17,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write   # commit sitemap-lastmod.json (dátumy zmien pre sitemap)
   pages: write
   id-token: write
 
@@ -40,6 +42,24 @@ jobs:
         run: python generator.py --out _site
         env:
           BASE_URL: ${{ steps.pages.outputs.base_url }}
+
+      # lastmod v sitemape podľa skutočnej zmeny (generator.py, od 2.10.2026):
+      # generator zapíše sitemap-lastmod.json; ak sa zmenil, uloží sa do repozitára.
+      # „[skip ci]" zabráni, aby tento commit spustil ďalší build. Zlyhanie
+      # (napr. súbežný push) deploy NEZASTAVÍ — dátumy sa dorovnajú pri ďalšom builde.
+      - name: Ulož dátumy zmien pre sitemap
+        continue-on-error: true
+        run: |
+          if git status --porcelain -- sitemap-lastmod.json | grep -q .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add sitemap-lastmod.json
+            git commit -m "sitemap: dátumy zmien stránok [skip ci]"
+            git pull --rebase origin main || true
+            git push
+          else
+            echo "sitemap-lastmod.json bez zmeny"
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:
