@@ -1,5 +1,5 @@
 {
-  "version": 802,
+  "version": 807,
   "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
   "title": "Športové Linky",
   "subtitle": "Naviguj sa cez kategórie",
@@ -183073,9 +183073,9 @@
       "type": "link",
       "icon": "",
       "name": "Misr Petroleum",
-      "desc": "Al-Azbakíja v Kaire — klub ropnej spoločnosti Misr Petroleum vznikol v roku 1932 na deviatich feddánoch a má ihriská pre futbal, tenis, basketbal, hádzanú, volejbal aj plávanie. Vlastný klubový web neexistuje, firemná stránka o volejbale nepíše a facebooková stránka je od roku 2024 bez príspevku, odkaz preto vedie na profil tímu v databáze Volleybox.",
-      "desc_en": "Al-Azbakeya in Cairo — the club of the Misr Petroleum oil company was founded in 1932 on nine feddans and has grounds for football, tennis, basketball, handball, volleyball and swimming. There is no club website, the company page says nothing about volleyball and the Facebook page has had no post since 2024, so the link goes to the team’s profile in the Volleybox database.",
-      "url": "https://volleybox.net/misr-petroleum-t10862",
+      "desc": "Al-Azbakíja v Kaire — klub ropnej spoločnosti Misr Petroleum vznikol v roku 1932 na deviatich feddánoch a má ihriská pre futbal, tenis, basketbal, hádzanú, volejbal aj plávanie. Vlastný klubový web neexistuje a firemná stránka o volejbale nepíše, odkaz preto vedie na facebookovú stránku volejbalového oddielu klubu.",
+      "desc_en": "Al-Azbakeya in Cairo — the club of the Misr Petroleum oil company was founded in 1932 on nine feddans and has grounds for football, tennis, basketball, handball, volleyball and swimming. There is no club website and the company page says nothing about volleyball, so the link goes to the Facebook page of the club’s volleyball section.",
+      "url": "https://www.facebook.com/profile.php?id=100084927696105",
       "order": 14,
       "order_en": 14
     },
@@ -183785,11 +183785,12 @@
       "type": "link",
       "icon": "",
       "name": "CS Sfaxien",
-      "desc": "Sfax — Club Sportif Sfaxien je jedenásťnásobný majster Tuniska (naposledy 2013) a po Espérance druhý najúspešnejší klub ligy, v sezóne 2025/26 skončil štvrtý. Živú volejbalovú facebookovú stránku nemá, odkaz vedie na oficiálny Instagram jeho volejbalovej sekcie.",
-      "desc_en": "Sfax — Club Sportif Sfaxien are eleven-time Tunisian champions (most recently in 2013) and the league’s second most successful club after Espérance; they finished fourth in 2025/26. There is no live volleyball Facebook page, so the link goes to the official Instagram of its volleyball section.",
-      "url": "https://www.instagram.com/css.volleyball_/",
+      "desc": "Sfax — Club Sportif Sfaxien je jedenásťnásobný majster Tuniska (naposledy 2013) a po Espérance druhý najúspešnejší klub ligy, v sezóne 2025/26 skončil štvrtý. Odkaz vedie na oficiálnu facebookovú stránku jeho volejbalovej sekcie.",
+      "desc_en": "Sfax — Club Sportif Sfaxien are eleven-time Tunisian champions (most recently in 2013) and the league’s second most successful club after Espérance; they finished fourth in 2025/26. The link goes to the official Facebook page of its volleyball section.",
+      "url": "https://www.facebook.com/VolleyballCSSfaxien/",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/css.volleyball_/"
     },
     {
       "id": "f_vol_klu_af_tunisia_m1_k6",
@@ -184588,11 +184589,12 @@
       "type": "link",
       "icon": "",
       "name": "Litto Team",
-      "desc": "Douala — klub založený v roku 2008 hrá v hale Logbaba, muži obhajovali v roku 2026 Pohár Kamerunu a prehrali jeho finále s Port Autonome de Douala. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
-      "desc_en": "Douala — founded in 2008, the club play at the Logbaba hall; the men were defending Cameroon Cup holders in 2026 and lost the final to Port Autonome de Douala. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
-      "url": "https://www.instagram.com/littoteamvbacademy/",
+      "desc": "Douala — klub založený v roku 2008 hrá v hale Logbaba, muži obhajovali v roku 2026 Pohár Kamerunu a prehrali jeho finále s Port Autonome de Douala. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Douala — founded in 2008, the club play at the Logbaba hall; the men were defending Cameroon Cup holders in 2026 and lost the final to Port Autonome de Douala. It has no website, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/profile.php?id=61585801473028",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/littoteamvbacademy/"
     },
     {
       "id": "f_vol_klu_af_cameroon_m1_k7",
@@ -184699,11 +184701,12 @@
       "type": "link",
       "icon": "",
       "name": "Litto Team",
-      "desc": "Douala — ženy sú majsterky Kamerunu 2025/26, víťazky Pohára Kamerunu 2026 a v rokoch 2024 a 2025 vyhrali klubový šampionát zóny 4 CAVB. Vlastný web ani živý facebook nemá, odkaz vedie na jeho oficiálny instagramový účet.",
-      "desc_en": "Douala — the women are 2025/26 Cameroonian champions and 2026 Cameroon Cup winners, and won the CAVB Zone 4 club championship in 2024 and 2025. It has neither a website nor an active Facebook page, so the link goes to its official Instagram account.",
-      "url": "https://www.instagram.com/littoteamvbacademy/",
+      "desc": "Douala — ženy sú majsterky Kamerunu 2025/26, víťazky Pohára Kamerunu 2026 a v rokoch 2024 a 2025 vyhrali klubový šampionát zóny 4 CAVB. Vlastný web nemá, odkaz vedie na jeho oficiálnu facebookovú stránku.",
+      "desc_en": "Douala — the women are 2025/26 Cameroonian champions and 2026 Cameroon Cup winners, and won the CAVB Zone 4 club championship in 2024 and 2025. It has no website, so the link goes to its official Facebook page.",
+      "url": "https://www.facebook.com/profile.php?id=61585801473028",
       "order": 4,
-      "order_en": 4
+      "order_en": 4,
+      "ig": "https://www.instagram.com/littoteamvbacademy/"
     },
     {
       "id": "f_vol_klu_af_cameroon_z1_k6",
@@ -186097,7 +186100,8 @@
       "desc_en": "Buenos Aires, La Boca — the men’s team finished fifth in 2025/26 and were twice league runners-up (1997, 2012). The club’s website has no volleyball page, so the link goes to the official Boca Juniors volleyball Instagram account, shared by the men’s and women’s teams.",
       "url": "https://www.instagram.com/bocavoley/",
       "order": 0,
-      "order_en": 0
+      "order_en": 0,
+      "fb": "https://www.facebook.com/voleyboca/"
     },
     {
       "id": "f_vol_klu_ja_argentina_m1_k2",
@@ -186250,7 +186254,8 @@
       "desc_en": "Buenos Aires, La Boca — record nine-time Argentine champions, most recently in 2026, when they beat Gimnasia La Plata 2–0 in the final series. The club’s website has no volleyball page, so the link goes to the official Boca Juniors volleyball Instagram account, shared by the men’s and women’s teams.",
       "url": "https://www.instagram.com/bocavoley/",
       "order": 2,
-      "order_en": 2
+      "order_en": 2,
+      "fb": "https://www.facebook.com/voleyboca/"
     },
     {
       "id": "f_vol_klu_ja_argentina_z1_k4",
@@ -186502,7 +186507,8 @@
       "desc_en": "Arequipa — the Peruvian National Police club (Club Social Deportivo Policía Nacional del Perú), last in 2025 and relegated. It has no website of its own, so the link goes to its official Facebook page.",
       "url": "https://www.facebook.com/100042580998217/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "ig": "https://www.instagram.com/polpervoleibol/"
     },
     {
       "id": "f_vol_klu_ja_peru_m1_k7",
@@ -188178,12 +188184,12 @@
       "type": "link",
       "icon": "",
       "name": "Dragones de Querétaro",
-      "desc": "Querétaro — klub, ktorý v LVP Mx hrá mužskú aj ženskú súťaž; mužský tím si v júli 2026 vybral hráčov na otvorených výberoch pred prvým ročníkom 2026. Vlastný web nemá, odkaz vedie na oficiálny instagramový účet mužského tímu.",
-      "desc_en": "Querétaro — a club with teams in both the men’s and the women’s LVP Mx; the men’s squad was picked at open try-outs in July 2026 ahead of the first season. It has no website of its own, so the link goes to the men’s team’s official Instagram account.",
-      "url": "https://www.instagram.com/dragonesqro/",
+      "desc": "Querétaro — klub, ktorý v LVP Mx hrá mužskú aj ženskú súťaž; mužský tím si v júli 2026 vybral hráčov na otvorených výberoch pred prvým ročníkom 2026. Vlastný web nemá, odkaz vedie na oficiálnu facebookovú stránku mužského tímu.",
+      "desc_en": "Querétaro — a club with teams in both the men’s and the women’s LVP Mx; the men’s squad was picked at open try-outs in July 2026 ahead of the first season. It has no website of its own, so the link goes to the men’s team’s official Facebook page.",
+      "url": "https://www.facebook.com/profile.php?id=61594386035720",
       "order": 3,
       "order_en": 3,
-      "fb": "https://www.facebook.com/profile.php?id=61594386035720"
+      "ig": "https://www.instagram.com/dragonesqro/"
     },
     {
       "id": "f_vol_klu_na_mexico_m1_k5",
@@ -188296,11 +188302,12 @@
       "type": "link",
       "icon": "",
       "name": "Leonas de León",
-      "desc": "León (Guanajuato) — zakladajúci člen ženskej LVP Mx, v ročníku 2026 piate v základnej časti. Vlastný web nemajú, odkaz vedie na ich oficiálnu facebookovú stránku.",
-      "desc_en": "León (Guanajuato) — a founding member of the women’s LVP Mx, fifth in the 2026 regular season. The team has no website of its own, so the link goes to its official Facebook page.",
-      "url": "https://www.facebook.com/profile.php?id=61580713467924",
+      "desc": "León (Guanajuato) — zakladajúci člen ženskej LVP Mx, v ročníku 2026 piate v základnej časti. Vlastný web nemajú, odkaz vedie na ich oficiálny instagramový účet.",
+      "desc_en": "León (Guanajuato) — a founding member of the women’s LVP Mx, fifth in the 2026 regular season. The team has no website of its own, so the link goes to its official Instagram account.",
+      "url": "https://www.instagram.com/leonasvolei/",
       "order": 5,
-      "order_en": 5
+      "order_en": 5,
+      "fb": "https://www.facebook.com/profile.php?id=61580713467924"
     },
     {
       "id": "f_vol_klu_na_mexico_z1_k7",
