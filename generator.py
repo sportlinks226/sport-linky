@@ -240,6 +240,60 @@ def folder_paths(children: dict, lang: str = None):
     return paths
 
 
+def build_boot(data: dict, children: dict) -> dict:
+    """ŠTARTOVACÍ BALÍK pre appku (od 2.10.2026, rýchlosť domovskej stránky).
+
+    Appka (index.html) má riadok `let BOOT = null;` — main() doň vloží tento
+    malý výrez dát (~25 kB), z ktorého sa domovská stránka a hlavné sekcie
+    vykreslia OKAMŽITE, ešte pred stiahnutím celého data.json (8 MB):
+      - priečinky 1. a 2. úrovne (bez popisov) s predpočítanými počtami
+        _cnt (liniek v podstrome) a _sub (podpriečinkov) — presne to, čo appka
+        píše na karty, takže po príchode celých dát čísla nepreskočia;
+      - Aktuálne, bannery, promá, názov webu;
+      - _totalLinks = počet VŠETKÝCH liniek v dátach (appka počíta rovnako,
+        bez ohľadu na jazyk).
+    Strom `children` je už filtrovaný podľa jazyka (visible), rovnako ako
+    getChildren() v appke."""
+    link_count = {}
+
+    def cnt(fid):
+        c = 0
+        for k in children.get(fid, []):
+            c += 1 if k.get("type") == "link" else cnt(k["id"])
+        link_count[fid] = c
+        return c
+
+    for top in children.get(None, []):
+        if top.get("type") == "folder":
+            cnt(top["id"])
+
+    keep = ("id", "parentId", "type", "name", "name_en", "slug", "slug_en",
+            "icon", "order", "order_en", "en", "enOnly")
+    nodes = []
+
+    def take(n, depth):
+        if n.get("type") != "folder":
+            return
+        m = {k: n[k] for k in keep if k in n}
+        m["_cnt"] = link_count.get(n["id"], 0)
+        m["_sub"] = sum(1 for k in children.get(n["id"], []) if k.get("type") == "folder")
+        nodes.append(m)
+        if depth < 2:
+            for k in children.get(n["id"], []):
+                take(k, depth + 1)
+
+    for top in children.get(None, []):
+        take(top, 1)
+
+    boot = {"version": data.get("version"), "nodes": nodes,
+            "_totalLinks": sum(1 for n in data.get("nodes", []) if n.get("type") == "link")}
+    for k in ("title", "subtitle", "title_en", "subtitle_en", "aktualne",
+              "banners", "bannerSettings", "promos", "promoBanner"):
+        if k in data:
+            boot[k] = data[k]
+    return boot
+
+
 def compute_has_link(children: dict) -> dict:
     """Pre každý priečinok zistí, či má v podstrome aspoň 1 linku.
     Priečinky bez liniek nedostanú statickú stránku („tenký obsah")."""
@@ -853,6 +907,8 @@ def main():
                      '<span class="wm-w">SPORT</span><span class="wm-r">LINKING</span>'),
                     ('Naviguj sa cez kategórie', 'Navigate through the categories'),
                     ('🔍  Hľadaj kdekoľvek v strome...', '🔍  Search anywhere in the tree...'),
+                    ('aria-label="Hľadaj v strome"', 'aria-label="Search the tree"'),
+                    ('aria-label="Heslo"', 'aria-label="Password"'),
                     ('animation:pulse 1.5s infinite"></span>\n      Aktuálne',
                      'animation:pulse 1.5s infinite"></span>\n      Live this week'),
                     ('© 2026 · Všetky športové weby sveta na jednom mieste<br>\n  Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES). Jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.',
@@ -888,6 +944,20 @@ def main():
                     "CHYBA: v index.html chýba riadok 'let DATA_VER = \"\";' — "
                     "appka by data.json sťahovala stále odznova. Skontroluj index.html.")
             html = html.replace(ver_marker, f'let DATA_VER = "{DATA_VER}";')
+
+            # ŠTARTOVACÍ BALÍK (od 2.10.2026) — viď build_boot(). Starší index.html
+            # bez markera sa správa ako doteraz (čaká na celé dáta).
+            boot_marker = 'let BOOT = null;'
+            if boot_marker in html:
+                boot_js = json.dumps(build_boot(data, children), ensure_ascii=False,
+                                     separators=(",", ":")).replace("</", "<\\/")
+                html = html.replace(boot_marker, "let BOOT = " + boot_js + ";", 1)
+            # data.json nech sa začne sťahovať už pri čítaní HTML (preload) —
+            # rovnaká adresa a credentials ako fetch() v appke.
+            if DATA_VER and "</title>" in html:
+                html = html.replace("</title>", (
+                    "</title>\n"
+                    f'<link rel="preload" href="{SITE_ABS_ROOT}data.json?v={DATA_VER}" as="fetch" crossorigin>'), 1)
 
             # 404.html NAJPRV a BEZ hreflangu — poistka pre adresy bez vlastnej
             # statickej stránky (rozostavané sekcie, preklepy). GitHub Pages ju
