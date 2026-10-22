@@ -24,7 +24,7 @@ Generátor som raz spustil **na skúšku v dočasnom priečinku mimo repozitára
 | 5 | 🟠 | SEO | Domovská stránka nemá v HTML canonical a titulok je len „Športové Linky“ | malá |
 | 6 | 🟠 | SEO | Domovská stránka nemá v surovom HTML žiadne odkazy na sekcie | stredná |
 | 7 | 🟠 | SEO | Favicon je vložený priamo do kódu; Google ho vo výsledkoch hľadania asi neukáže | malá |
-| 8 | 🟢 | SEO | hreflang na `https://sportlinky.sk` je správne (Miro overil); ostáva overiť sportlinking.com a opraviť zavádzajúci komentár | malá |
+| 8 | 🟢 | SEO | hreflang je správne, oba weby sú bez www (Miro overil); ostáva len opraviť zavádzajúci komentár | malá |
 | 9 | 🟠 | Mobil | Na iPhone sa pri ťuknutí do vyhľadávania stránka sama priblíži | malá |
 | 10 | 🟠 | Mobil | Prilepená hlavička zaberá na mobile asi pätinu obrazovky | malá |
 | 11 | 🟠 | Mobil | Banner sa na mobile oreže po stranách | malá |
@@ -184,10 +184,10 @@ Výsledok skúšobného buildu: **1 545 stránok**, **0 duplicitných titulkov**
 - **Oprava:** Pridať súbory `favicon.svg`, `favicon-48.png` (alebo `favicon.ico`) a `apple-touch-icon.png` (180×180), odkázať na ne v `<head>` a v generátore ich kopírovať do `_site`.
 - **Náročnosť:** malá (overiť po nasadení v Google vyhľadávaní, trvá to týždne)
 
-### 🟢 8. hreflang a adresa s „www“ — slovenská časť OVERENÁ, je v poriadku
+### 🟢 8. hreflang a adresa s „www“ — OVERENÉ, je v poriadku
 - **Výsledok overenia (Miro, 22. 10. 2026):** `https://sportlinky.sk` ostáva bez www, takže hlavná adresa je **bez www** a `_ALT_DEFAULTS` pre slovenský web je **správne**. Problém, ktorého som sa obával, pri slovenskom webe nenastáva.
 - **Čo ešte ostáva:**
-  1. Rovnako overiť `https://sportlinking.com` (či sa neprepne na `www.sportlinking.com`). Ak ostane bez www, je všetko v poriadku.
+  1. ~~Overiť `https://sportlinking.com`~~: Miro overil, že aj ten ostáva bez www. `_ALT_DEFAULTS` je teda správne pre oba weby.
   2. Komentár v `generator.py` riadok 70 tvrdí, že slovenský web beží na „www.sportlinky.sk“. To nesedí a pri budúcich úpravách to môže zmiasť, preto ho treba opraviť na „sportlinky.sk“. *(malá)*
 
 Pôvodný popis pre úplnosť:
@@ -296,7 +296,7 @@ Namerané pomery (norma WCAG žiada pre bežný text aspoň **4,5 : 1**):
 1. **Bod 1 (Tipsport v Tipovaní)**: malá oprava a priamo súvisí so zárobkom.
 2. **Body 9, 10, 11, 12 (mobil)** a **4, 5 (SEO)**: všetko malé opravy s viditeľným efektom, dajú sa spraviť naraz v jednom PR.
 3. **Body 13 a 3 (heslo a menšie data.json)**: spolu v jednom PR v generátore.
-4. **Body 7, 8, 17**: favicon súbory, overenie www pri sportlinking.com a farby.
+4. **Body 7, 8, 17**: favicon súbory, oprava komentára o www a farby.
 5. **Body 2, 6, 14, 15**: väčšie zmeny, každú najprv naplánovať samostatne.
 
 Všetko platí aj pre anglický web **sportlinking**. Každú opravu treba urobiť v oboch repozitároch (samostatnou úlohou).
