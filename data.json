@@ -1,5 +1,5 @@
 {
- "version": 1051,
+ "version": 1056,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
@@ -119854,10 +119854,10 @@
    "type": "link",
    "icon": "",
    "name": "Championship",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Championship (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/championship/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Championship (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ang_l1_liga",
@@ -119865,10 +119865,10 @@
    "type": "link",
    "icon": "",
    "name": "League One",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže League One (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/league-one/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "League One (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ang_l2_liga",
@@ -119876,10 +119876,10 @@
    "type": "link",
    "icon": "",
    "name": "League Two",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže League Two (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/league-two/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "League Two (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ang_nl_liga",
@@ -119887,10 +119887,10 @@
    "type": "link",
    "icon": "",
    "name": "National League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže National League (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/national-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "National League (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ang_nln_liga",
@@ -119898,10 +119898,10 @@
    "type": "link",
    "icon": "",
    "name": "National League North",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže National League North (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/national-league-north/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "National League North (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ang_nls_liga",
@@ -119909,10 +119909,10 @@
    "type": "link",
    "icon": "",
    "name": "National League South",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže National League South (Anglicko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/england/national-league-south/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "National League South (England) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_esp_l1_liga",
@@ -119988,10 +119988,10 @@
    "type": "link",
    "icon": "",
    "name": "3. Liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 3. Liga (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/3-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "3. Liga (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ger_rn_liga",
@@ -119999,10 +119999,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Nord",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Nord (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/regionalliga-north/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Nord (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ger_rno_liga",
@@ -120010,10 +120010,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Nordost",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Nordost (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/regionalliga-nordost/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Nordost (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ger_rw_liga",
@@ -120021,10 +120021,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga West",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga West (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/regionalliga-west/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga West (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ger_rsw_liga",
@@ -120032,10 +120032,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Südwest",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Südwest (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/regionalliga-sudwest/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Südwest (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ger_rb_liga",
@@ -120043,10 +120043,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Bayern",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Bayern (Nemecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/germany/regionalliga-bayern/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Bayern (Germany) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_fra_l1_liga",
@@ -120098,10 +120098,10 @@
    "type": "link",
    "icon": "",
    "name": "2. liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. liga (Slovensko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/slovakia/2-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. Liga (Slovakia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cze_l1_liga",
@@ -120131,10 +120131,10 @@
    "type": "link",
    "icon": "",
    "name": "Abissnet Superiore",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Abissnet Superiore (Albánsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/albania/abissnet-superiore/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Abissnet Superiore (Albania) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_and_l1_liga",
@@ -120329,10 +120329,10 @@
    "type": "link",
    "icon": "",
    "name": "Veikkausliiga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Veikkausliiga (Fínsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/finland/veikkausliiga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Veikkausliiga (Finland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_fin_l2_liga",
@@ -120340,10 +120340,10 @@
    "type": "link",
    "icon": "",
    "name": "Ykkösliiga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ykkösliiga (Fínsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/finland/ykkosliiga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ykkösliiga (Finland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_fin_l3_liga",
@@ -120351,10 +120351,10 @@
    "type": "link",
    "icon": "",
    "name": "Ykkönen",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ykkönen (Fínsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/finland/ykkonen/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ykkönen (Finland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gre_l1_liga",
@@ -120362,10 +120362,10 @@
    "type": "link",
    "icon": "",
    "name": "Super League 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super League 1 (Grécko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/greece/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super League 1 (Greece) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gre_l2_liga",
@@ -120373,10 +120373,10 @@
    "type": "link",
    "icon": "",
    "name": "Super League 2",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super League 2 (Grécko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/greece/super-league-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super League 2 (Greece) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ned_l1_liga",
@@ -120384,10 +120384,10 @@
    "type": "link",
    "icon": "",
    "name": "Eredivisie",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Eredivisie (Holandsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/netherlands/eredivisie/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures",
+   "desc_en": "Eredivisie (Netherlands) standings on Soccerway — current table, results and fixtures",
    "name_en": "Eredivisie"
   },
   {
@@ -120396,10 +120396,10 @@
    "type": "link",
    "icon": "",
    "name": "Eerste Divisie",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Eerste Divisie (Holandsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/netherlands/eerste-divisie/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures",
+   "desc_en": "Eerste Divisie (Netherlands) standings on Soccerway — current table, results and fixtures",
    "name_en": "Eerste Divisie"
   },
   {
@@ -120455,10 +120455,10 @@
    "type": "link",
    "icon": "",
    "name": "Prva NL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Prva NL (Chorvátsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/croatia/prva-nl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Prva NL (Croatia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cro_l3_liga",
@@ -120466,10 +120466,10 @@
    "type": "link",
    "icon": "",
    "name": "Druga NL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Druga NL (Chorvátsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/croatia/druga-nl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Druga NL (Croatia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_irl_l1_liga",
@@ -120510,10 +120510,10 @@
    "type": "link",
    "icon": "",
    "name": "1. deild karla",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 1. deild karla (Island) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/iceland/division-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "1. deild karla (Iceland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_xkx_l1_liga",
@@ -120587,10 +120587,10 @@
    "type": "link",
    "icon": "",
    "name": "1. MFL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 1. MFL (Severné Macedónsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/north-macedonia/1-mfl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "1. MFL (North Macedonia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mkd_l2_liga",
@@ -120598,10 +120598,10 @@
    "type": "link",
    "icon": "",
    "name": "2. MFL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. MFL (Severné Macedónsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/north-macedonia/2-mfl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. MFL (North Macedonia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_hun_l1_liga",
@@ -120631,10 +120631,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Malta) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/malta/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Malta) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mlt_l2_liga",
@@ -120642,10 +120642,10 @@
    "type": "link",
    "icon": "",
    "name": "Challenge League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Challenge League (Malta) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/malta/challenge-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Challenge League (Malta) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mda_l1_liga",
@@ -120653,10 +120653,10 @@
    "type": "link",
    "icon": "",
    "name": "Super Liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super Liga (Moldavsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/moldova/super-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super Liga (Moldova) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nor_l1_liga",
@@ -120730,10 +120730,10 @@
    "type": "link",
    "icon": "",
    "name": "II liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže II liga (Poľsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/poland/division-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "II liga (Poland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_prt_l1_liga",
@@ -120741,10 +120741,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga Portugal",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga Portugal (Portugalsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/portugal/liga-portugal/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga Portugal (Portugal) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_prt_l2_liga",
@@ -120752,10 +120752,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga Portugal 2",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga Portugal 2 (Portugalsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/portugal/liga-portugal-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga Portugal 2 (Portugal) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_prt_l3a_liga",
@@ -120873,10 +120873,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Azerbajdžán) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/azerbaijan/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Azerbaijan) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cyp_l1_liga",
@@ -120884,10 +120884,10 @@
    "type": "link",
    "icon": "",
    "name": "1. liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 1. liga (Cyprus) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/cyprus/cyprus-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "First Division (Cyprus) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cyp_l2_liga",
@@ -120895,10 +120895,10 @@
    "type": "link",
    "icon": "",
    "name": "2. liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. liga (Cyprus) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/cyprus/division-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Second Division (Cyprus) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l1_liga",
@@ -120906,10 +120906,10 @@
    "type": "link",
    "icon": "",
    "name": "Bundesliga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Bundesliga (Rakúsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/austria/bundesliga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Bundesliga (Austria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l2_liga",
@@ -120917,10 +120917,10 @@
    "type": "link",
    "icon": "",
    "name": "2. Liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. Liga (Rakúsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/austria/2-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. Liga (Austria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l3ost_liga",
@@ -120928,10 +120928,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Ost",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Ost (Rakúsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/austria/regionalliga-east/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Ost (Austria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l3nord_liga",
@@ -120939,10 +120939,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga Nord",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga Nord (Rakúsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/austria/regionalliga-north/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga Nord (Austria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l3west_liga",
@@ -120950,10 +120950,10 @@
    "type": "link",
    "icon": "",
    "name": "Regionalliga West",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Regionalliga West (Rakúsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/austria/regionalliga-west/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Regionalliga West (Austria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_rou_l1_liga",
@@ -120961,10 +120961,10 @@
    "type": "link",
    "icon": "",
    "name": "SuperLiga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže SuperLiga (Rumunsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/romania/superliga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "SuperLiga (Romania) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_rou_l2_liga",
@@ -120983,10 +120983,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier liga (Rusko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/russia/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Russia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_rus_l2_liga",
@@ -121005,10 +121005,10 @@
    "type": "link",
    "icon": "",
    "name": "Campionato Sammarinese",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Campionato Sammarinese (San Maríno) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/san-marino/campionato-sammarinese/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Campionato Sammarinese (San Marino) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nir_l1_liga",
@@ -121016,10 +121016,10 @@
    "type": "link",
    "icon": "",
    "name": "NIFL Premiership",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže NIFL Premiership (Severné Írsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/northern-ireland/nifl-premiership/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "NIFL Premiership (Northern Ireland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nir_l2_liga",
@@ -121027,10 +121027,10 @@
    "type": "link",
    "icon": "",
    "name": "NIFL Championship",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže NIFL Championship (Severné Írsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/northern-ireland/nifl-championship/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "NIFL Championship (Northern Ireland) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_sco_l1_liga",
@@ -121086,10 +121086,10 @@
    "type": "link",
    "icon": "",
    "name": "Prva liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Prva liga (Slovinsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/slovenia/prva-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Prva Liga (Slovenia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_svn_l2_liga",
@@ -121097,10 +121097,10 @@
    "type": "link",
    "icon": "",
    "name": "2. SNL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. SNL (Slovinsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/slovenia/2-snl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. SNL (Slovenia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_srb_l1_liga",
@@ -121108,10 +121108,10 @@
    "type": "link",
    "icon": "",
    "name": "Super liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super liga (Srbsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/serbia/mozzart-bet-super-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super Liga (Serbia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_srb_l2_liga",
@@ -121119,10 +121119,10 @@
    "type": "link",
    "icon": "",
    "name": "Prva liga",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Prva liga (Srbsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/serbia/mozzart-bet-prva-liga/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "First League (Serbia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_che_l1_liga",
@@ -121207,10 +121207,10 @@
    "type": "link",
    "icon": "",
    "name": "Serie B",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Serie B (Taliansko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/italy/serie-b/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Serie B (Italy) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ita_l3a_liga",
@@ -121218,10 +121218,10 @@
    "type": "link",
    "icon": "",
    "name": "Serie C – skupina A",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Serie C – skupina A (Taliansko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/italy/serie-c-group-a/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Serie C – Group A (Italy) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ita_l3b_liga",
@@ -121229,10 +121229,10 @@
    "type": "link",
    "icon": "",
    "name": "Serie C – skupina B",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Serie C – skupina B (Taliansko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/italy/serie-c-group-b/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Serie C – Group B (Italy) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ita_l3c_liga",
@@ -121240,10 +121240,10 @@
    "type": "link",
    "icon": "",
    "name": "Serie C – skupina C",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Serie C – skupina C (Taliansko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/italy/serie-c-group-c/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Serie C – Group C (Italy) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tur_l1_liga",
@@ -121251,10 +121251,10 @@
    "type": "link",
    "icon": "",
    "name": "Süper Lig",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Süper Lig (Turecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/turkey/super-lig/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Süper Lig (Turkey) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tur_l2_liga",
@@ -121262,10 +121262,10 @@
    "type": "link",
    "icon": "",
    "name": "1. Lig",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 1. Lig (Turecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/turkey/1-lig/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "1. Lig (Turkey) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tur_l3b_liga",
@@ -121273,10 +121273,10 @@
    "type": "link",
    "icon": "",
    "name": "2. Lig - Beyaz Grup",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. Lig - Beyaz Grup (Turecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/turkey/2-lig-white-group/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. Lig - Beyaz Grup (Turkey) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tur_l3k_liga",
@@ -121284,10 +121284,10 @@
    "type": "link",
    "icon": "",
    "name": "2. Lig - Kırmızı Grup",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže 2. Lig - Kırmızı Grup (Turecko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/turkey/2-lig-red-group/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "2. Lig - Kırmızı Grup (Turkey) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ukr_l1_liga",
@@ -121317,10 +121317,10 @@
    "type": "link",
    "icon": "",
    "name": "Cymru Premier",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Cymru Premier (Wales) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/wales/cymru-premier/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Cymru Premier (Wales) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_wal_l2n_liga",
@@ -121328,10 +121328,10 @@
    "type": "link",
    "icon": "",
    "name": "Cymru North",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Cymru North (Wales) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/wales/cymru-north/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Cymru North (Wales) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_wal_l2s_liga",
@@ -121339,10 +121339,10 @@
    "type": "link",
    "icon": "",
    "name": "Cymru South",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Cymru South (Wales) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/wales/cymru-south/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Cymru South (Wales) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aut_l3sud_liga_stmk",
@@ -121372,10 +121372,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Alžírsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/algeria/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Algeria) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ago_l1_liga",
@@ -121394,10 +121394,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1 (Championnat National)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Championnat National, Benin) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/benin/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Championnat National, Benin) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bwa_l1_liga",
@@ -121405,10 +121405,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Botswana) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/botswana/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Botswana) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bfa_l1_liga",
@@ -121416,10 +121416,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Burkina Faso) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/burkina-faso/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Burkina Faso) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bdi_l1_liga",
@@ -121427,10 +121427,10 @@
    "type": "link",
    "icon": "",
    "name": "Primus League (Ligue A)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Primus League (Ligue A, Burundi) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/burundi/primus-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Primus League (Ligue A, Burundi) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tcd_l1_liga",
@@ -121460,10 +121460,10 @@
    "type": "link",
    "icon": "",
    "name": "Egyptian Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Egyptian Premier League (Egypt) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/egypt/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Egyptian Premier League (Egypt) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_egy_l2_liga",
@@ -121471,10 +121471,10 @@
    "type": "link",
    "icon": "",
    "name": "Egyptian Second Division A",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Egyptian Second Division A (Egypt) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/egypt/division-2-a/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Egyptian Second Division A (Egypt) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_eth_l1_liga",
@@ -121482,10 +121482,10 @@
    "type": "link",
    "icon": "",
    "name": "Ethiopian Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ethiopian Premier League (Etiópia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/ethiopia/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ethiopian Premier League (Ethiopia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gab_l1_liga",
@@ -121493,10 +121493,10 @@
    "type": "link",
    "icon": "",
    "name": "National Foot 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže National Foot 1 (Gabon) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/gabon/championnat-d1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "National Foot 1 (Gabon) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gmb_l1_liga",
@@ -121515,10 +121515,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Ghana) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/ghana/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Ghana) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gin_l1_liga",
@@ -121526,10 +121526,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Guinea) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/guinea/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Guinea) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_zaf_l1_liga",
@@ -121548,10 +121548,10 @@
    "type": "link",
    "icon": "",
    "name": "Motsepe Foundation Championship",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Motsepe Foundation Championship (JAR) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/south-africa/motsepe-foundation-championship/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Motsepe Foundation Championship (South Africa) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gnb_l1_liga",
@@ -121570,10 +121570,10 @@
    "type": "link",
    "icon": "",
    "name": "Elite One",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Elite One (Kamerun) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/cameroon/elite-one/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Elite One (Cameroon) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cmr_l2_liga",
@@ -121581,10 +121581,10 @@
    "type": "link",
    "icon": "",
    "name": "Elite Two",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Elite Two (Kamerun) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/cameroon/elite-two/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Elite Two (Cameroon) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cpv_l1_liga",
@@ -121592,10 +121592,10 @@
    "type": "link",
    "icon": "",
    "name": "Campeonato Nacional",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Campeonato Nacional (Kapverdy) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/cape-verde/campeonato-nacional/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Campeonato Nacional (Cape Verde) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ken_l1_liga",
@@ -121614,10 +121614,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Kongo) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/republic-of-the-congo/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Congo) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_cod_l1_liga",
@@ -121625,10 +121625,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1 (Linafoot)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Linafoot, DR Kongo) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/dr-congo/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Linafoot, DR Congo) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_lso_l1_liga",
@@ -121636,10 +121636,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Lesotho) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/lesotho/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Lesotho) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_lbr_l1_liga",
@@ -121647,10 +121647,10 @@
    "type": "link",
    "icon": "",
    "name": "LFA First Division",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže LFA First Division (Libéria) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/liberia/lfa-first-division/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "LFA First Division (Liberia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_lby_l1_liga",
@@ -121658,10 +121658,10 @@
    "type": "link",
    "icon": "",
    "name": "Libyan Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Libyan Premier League (Líbya) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/libya/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Libyan Premier League (Libya) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mdg_l1_liga",
@@ -121691,10 +121691,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Mali) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mali/premiere-division/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Mali) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mar_l1_liga",
@@ -121702,10 +121702,10 @@
    "type": "link",
    "icon": "",
    "name": "Botola Pro 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Botola Pro 1 (Maroko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/morocco/botola-pro/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Botola Pro 1 (Morocco) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mar_l2_liga",
@@ -121713,10 +121713,10 @@
    "type": "link",
    "icon": "",
    "name": "Botola Pro 2",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Botola Pro 2 (Maroko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/morocco/botola-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Botola Pro 2 (Morocco) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mus_l1_liga",
@@ -121724,10 +121724,10 @@
    "type": "link",
    "icon": "",
    "name": "National Super League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže National Super League (Maurícius) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mauritius/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "National Super League (Mauritius) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mrt_l1_liga",
@@ -121735,10 +121735,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Mauritánia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mauritania/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Mauritania) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_moz_l1_liga",
@@ -121746,10 +121746,10 @@
    "type": "link",
    "icon": "",
    "name": "Mocambola",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Mocambola (Mozambik) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mozambique/mocambola/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Mocambola (Mozambique) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nam_l1_liga",
@@ -121768,10 +121768,10 @@
    "type": "link",
    "icon": "",
    "name": "Super Ligue",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super Ligue (Niger) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/niger/super-ligue/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super Ligue (Niger) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nga_l1_liga",
@@ -121790,10 +121790,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Pobrežie Slonoviny) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/ivory-coast/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Ivory Coast) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gnq_l1_liga",
@@ -121834,10 +121834,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue 1 (Senegal) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/senegal/ligue-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue 1 (Senegal) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_syc_l1_liga",
@@ -121845,10 +121845,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Seychely) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/seychelles/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Seychelles) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_sle_l1_liga",
@@ -121867,10 +121867,10 @@
    "type": "link",
    "icon": "",
    "name": "Somali National League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Somali National League (Somálsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/somalia/national-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Somali National League (Somalia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_sdn_l1_liga",
@@ -121878,10 +121878,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League — Elitná skupina",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League – Elitná skupina (Sudán) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/sudan/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League – Elite Group (Sudan) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_swz_l1_liga",
@@ -121889,10 +121889,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League of Eswatini",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League of Eswatini (Eswatini) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/eswatini/swazi-mtn-premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League of Eswatini (Eswatini) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tza_l1_liga",
@@ -121900,10 +121900,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Tanzánia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/tanzania/ligi-kuu-bara/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Tanzania) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tgo_l1_liga",
@@ -121911,10 +121911,10 @@
    "type": "link",
    "icon": "",
    "name": "Championnat National",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Championnat National (Togo) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/togo/championnat-national/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Championnat National (Togo) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tun_l1_liga",
@@ -121922,10 +121922,10 @@
    "type": "link",
    "icon": "",
    "name": "Ligue Professionnelle 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Ligue Professionnelle 1 (Tunisko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/tunisia/ligue-professionnelle-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Ligue Professionnelle 1 (Tunisia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_uga_l1_liga",
@@ -121944,10 +121944,10 @@
    "type": "link",
    "icon": "",
    "name": "Super League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super League (Zambia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/zambia/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super League (Zambia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_zwe_l1_liga",
@@ -121955,10 +121955,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier Soccer League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier Soccer League (Zimbabwe) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/zimbabwe/premier-soccer-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier Soccer League (Zimbabwe) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_arg_l1_liga",
@@ -121966,10 +121966,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga Profesional (Primera División)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga Profesional (Primera División, Argentína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/argentina/liga-profesional/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga Profesional (Primera División, Argentina) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_arg_l2_liga",
@@ -121977,10 +121977,10 @@
    "type": "link",
    "icon": "",
    "name": "Primera Nacional",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Primera Nacional (Argentína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/argentina/primera-nacional/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Primera Nacional (Argentina) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_arg_l3a_liga",
@@ -121988,10 +121988,10 @@
    "type": "link",
    "icon": "",
    "name": "Torneo Federal A",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Torneo Federal A (Argentína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/argentina/torneo-federal/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Torneo Federal A (Argentina) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_arg_l3b_liga",
@@ -121999,10 +121999,10 @@
    "type": "link",
    "icon": "",
    "name": "Primera B Metropolitana",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Primera B Metropolitana (Argentína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/argentina/primera-b/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Primera B Metropolitana (Argentina) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bra_l1_liga",
@@ -122043,10 +122043,10 @@
    "type": "link",
    "icon": "",
    "name": "División Profesional",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže División Profesional (Bolívia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/bolivia/division-profesional/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "División Profesional (Bolivia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_chl_l1_liga",
@@ -122054,10 +122054,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga de Primera",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga de Primera (Chile) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/chile/liga-de-primera/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga de Primera (Chile) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_chl_l2_liga",
@@ -122065,10 +122065,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga de Ascenso",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga de Ascenso (Chile) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/chile/liga-de-ascenso/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga de Ascenso (Chile) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_per_l1_liga",
@@ -122087,10 +122087,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga 2",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga 2 (Peru) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/peru/liga-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga 2 (Peru) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ecu_l1_liga",
@@ -122109,10 +122109,10 @@
    "type": "link",
    "icon": "",
    "name": "Serie B",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Serie B (Ekvádor) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/ecuador/serie-b/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Serie B (Ecuador) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_col_l1_liga",
@@ -122120,10 +122120,10 @@
    "type": "link",
    "icon": "",
    "name": "Categoría Primera A",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Categoría Primera A (Kolumbia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/colombia/primera-a/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Categoría Primera A (Colombia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_col_l2_liga",
@@ -122131,10 +122131,10 @@
    "type": "link",
    "icon": "",
    "name": "Categoría Primera B",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Categoría Primera B (Kolumbia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/colombia/primera-b/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Categoría Primera B (Colombia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_par_l1_liga",
@@ -122153,10 +122153,10 @@
    "type": "link",
    "icon": "",
    "name": "División Intermedia",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže División Intermedia (Paraguaj) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/paraguay/division-intermedia/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "División Intermedia (Paraguay) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_uru_l1_liga",
@@ -122164,10 +122164,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga AUF Uruguaya",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga AUF Uruguaya (Uruguaj) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/uruguay/liga-auf-uruguaya/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga AUF Uruguaya (Uruguay) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_uru_l2_liga",
@@ -122175,10 +122175,10 @@
    "type": "link",
    "icon": "",
    "name": "Segunda División",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Segunda División (Uruguaj) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/uruguay/segunda-division/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Segunda División (Uruguay) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ven_l1_liga",
@@ -122197,10 +122197,10 @@
    "type": "link",
    "icon": "",
    "name": "Segunda División",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Segunda División (Venezuela) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/venezuela/liga-futve-2/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Segunda División (Venezuela) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aus_l1_liga",
@@ -122230,10 +122230,10 @@
    "type": "link",
    "icon": "",
    "name": "Nasser bin Hamad Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Nasser bin Hamad Premier League (Bahrajn) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/bahrain/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Nasser bin Hamad Premier League (Bahrain) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bgd_l1_liga",
@@ -122241,10 +122241,10 @@
    "type": "link",
    "icon": "",
    "name": "Bangladesh Football League (BFL)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Bangladesh Football League (BFL, Bangladéš) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/bangladesh/bfl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Bangladesh Football League (BFL, Bangladesh) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_btn_l1_liga",
@@ -122252,10 +122252,10 @@
    "type": "link",
    "icon": "",
    "name": "BOB Bhutan Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže BOB Bhutan Premier League (Bhután) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/bhutan/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "BOB Bhutan Premier League (Bhutan) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_brn_l1_liga",
@@ -122274,10 +122274,10 @@
    "type": "link",
    "icon": "",
    "name": "Super League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super League (Čína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/china/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super League (China) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_chn_l2_liga",
@@ -122285,10 +122285,10 @@
    "type": "link",
    "icon": "",
    "name": "League One",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže League One (Čína) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/china/league-one/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "League One (China) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_phl_l1_liga",
@@ -122296,10 +122296,10 @@
    "type": "link",
    "icon": "",
    "name": "PFL",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže PFL (Filipíny) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/philippines/pfl/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "PFL (Philippines) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_gum_l1_liga",
@@ -122318,10 +122318,10 @@
    "type": "link",
    "icon": "",
    "name": "Hong Kong Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Hong Kong Premier League (Hongkong) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/hong-kong/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Hong Kong Premier League (Hong Kong) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ind_l1_liga",
@@ -122351,10 +122351,10 @@
    "type": "link",
    "icon": "",
    "name": "Super League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Super League (Indonézia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/indonesia/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Super League (Indonesia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_idn_l2_liga",
@@ -122362,10 +122362,10 @@
    "type": "link",
    "icon": "",
    "name": "Championship",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Championship (Indonézia) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/indonesia/championship/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Championship (Indonesia) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_irq_l1_liga",
@@ -122384,10 +122384,10 @@
    "type": "link",
    "icon": "",
    "name": "Persian Gulf Pro League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Persian Gulf Pro League (Irán) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/iran/persian-gulf-pro-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Persian Gulf Pro League (Iran) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_jpn_l1_liga",
@@ -122431,10 +122431,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Jordánsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/jordan/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Jordan) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_khm_l1_liga",
@@ -122508,10 +122508,10 @@
    "type": "link",
    "icon": "",
    "name": "Lao League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Lao League (Laos) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/laos/lao-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Lao League (Laos) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_lbn_l1_liga",
@@ -122607,10 +122607,10 @@
    "type": "link",
    "icon": "",
    "name": "Sri Lanka Super League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Sri Lanka Super League (Srí Lanka) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/sri-lanka/super-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Sri Lanka Super League (Sri Lanka) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_syr_l1_liga",
@@ -122651,10 +122651,10 @@
    "type": "link",
    "icon": "",
    "name": "Thai League 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Thai League 1 (Thajsko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/thailand/thai-league-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Thai League 1 (Thailand) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_are_l1_liga",
@@ -122684,10 +122684,10 @@
    "type": "link",
    "icon": "",
    "name": "V.League 1",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže V.League 1 (Vietnam) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/vietnam/v-league-1/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "V.League 1 (Vietnam) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tls_l1_liga",
@@ -122739,10 +122739,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Fidži) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/fiji/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Fiji) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_ncl_l1_liga",
@@ -122797,10 +122797,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier Soccer League",
-   "desc": "Tabuľka súťaže na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie)",
+   "desc": "Tabuľka súťaže Premier Soccer League (Papua-Nová Guinea) na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie)",
    "url": "https://footystats.org/papua-new-guinea/national-soccer-league",
    "order": -1,
-   "desc_en": "Competition table on FootyStats — standings, results and statistics (Soccerway does not track the league)"
+   "desc_en": "Premier Soccer League (Papua New Guinea) standings on FootyStats — table, results and statistics (Soccerway does not track the league)"
   },
   {
    "id": "f_wsm_l1_liga",
@@ -122819,10 +122819,10 @@
    "type": "link",
    "icon": "",
    "name": "S-League",
-   "desc": "Tabuľka súťaže na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie)",
+   "desc": "Tabuľka súťaže S-League (Šalamúnove ostrovy) na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie)",
    "url": "https://footystats.org/solomon-islands/s-league",
    "order": -1,
-   "desc_en": "Competition table on FootyStats — standings, results and statistics (Soccerway does not track the league)"
+   "desc_en": "S-League (Solomon Islands) standings on FootyStats — table, results and statistics (Soccerway does not track the league)"
   },
   {
    "id": "f_tah_l1_liga",
@@ -122874,10 +122874,10 @@
    "type": "link",
    "icon": "",
    "name": "ABFA Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže ABFA Premier League (Antigua a Barbuda) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/antigua-barbuda/abfa-premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "ABFA Premier League (Antigua and Barbuda) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_aru_l1_liga",
@@ -122885,10 +122885,10 @@
    "type": "link",
    "icon": "",
    "name": "Division di Honor",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Division di Honor (Aruba) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/aruba/division-di-honor/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Division di Honor (Aruba) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_bah_l1_liga",
@@ -122907,10 +122907,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier League (Barbados) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/barbados/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier League (Barbados) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_blz_l1_liga",
@@ -122929,10 +122929,10 @@
    "type": "link",
    "icon": "",
    "name": "Premier Division",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Premier Division (Bermudy) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/bermuda/premier-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Premier Division (Bermuda) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_vgb_l1_liga",
@@ -122940,10 +122940,10 @@
    "type": "link",
    "icon": "",
    "name": "BVIFA National League",
-   "desc": "Tabuľka súťaže na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie alebo má starú sezónu)",
+   "desc": "Tabuľka súťaže BVIFA National League (Britské Panenské ostrovy) na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie alebo má starú sezónu)",
    "url": "https://footystats.org/british-virgin-islands/bvifa-national-league",
    "order": -1,
-   "desc_en": "Competition table on FootyStats — standings, results and statistics (Soccerway does not track the league or shows an old season)"
+   "desc_en": "BVIFA National League (British Virgin Islands) standings on FootyStats — table, results and statistics (Soccerway does not track the league or shows an old season)"
   },
   {
    "id": "f_cur_l1_liga",
@@ -122973,10 +122973,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga Dominicana de Fútbol",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga Dominicana de Fútbol (Dominikánska republika) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/dominican-republic/ldf/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga Dominicana de Fútbol (Dominican Republic) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_guf_l1_liga",
@@ -122995,10 +122995,10 @@
    "type": "link",
    "icon": "",
    "name": "GFA Premier League",
-   "desc": "Tabuľka súťaže na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie alebo má starú sezónu)",
+   "desc": "Tabuľka súťaže GFA Premier League (Grenada) na FootyStats — poradie, výsledky a štatistiky (Soccerway súťaž nevedie alebo má starú sezónu)",
    "url": "https://footystats.org/grenada/gfa-premier-league",
    "order": -1,
-   "desc_en": "Competition table on FootyStats — standings, results and statistics (Soccerway does not track the league or shows an old season)"
+   "desc_en": "GFA Premier League (Grenada) standings on FootyStats — table, results and statistics (Soccerway does not track the league or shows an old season)"
   },
   {
    "id": "f_glp_l1_liga",
@@ -123105,10 +123105,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga de Ascenso (2. liga)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga de Ascenso (2. liga, Kostarika) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/costa-rica/liga-de-ascenso/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga de Ascenso (2nd tier, Costa Rica) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mtq_l1_liga",
@@ -123116,10 +123116,10 @@
    "type": "link",
    "icon": "",
    "name": "Régional 1 (Trophée Gérard Janvion)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Régional 1 (Trophée Gérard Janvion, Martinik) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/martinique/trophee-gerard-janvion/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Régional 1 (Trophée Gérard Janvion, Martinique) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mex_l1_liga",
@@ -123127,10 +123127,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga MX",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga MX (Mexiko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mexico/liga-mx/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga MX (Mexico) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_mex_l2_liga",
@@ -123138,10 +123138,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga de Expansión MX (2. liga)",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga de Expansión MX (2. liga, Mexiko) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/mexico/liga-de-expansion-mx/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga de Expansión MX (2nd tier, Mexico) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_nic_l1_liga",
@@ -123149,10 +123149,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga Primera de Nicaragua",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga Primera de Nicaragua (Nikaragua) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/nicaragua/liga-primera/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Liga Primera de Nicaragua (Nicaragua) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_pan_l1_liga",
@@ -123182,10 +123182,10 @@
    "type": "link",
    "icon": "",
    "name": "Primera División de El Salvador",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Primera División de El Salvador (Salvádor) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/el-salvador/primera-division/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures",
+   "desc_en": "Primera División de El Salvador (El Salvador) standings on Soccerway — current table, results and fixtures",
    "name_en": "Salvadoran Primera División"
   },
   {
@@ -123304,10 +123304,10 @@
    "type": "link",
    "icon": "",
    "name": "Gibraltar Football League",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Gibraltar Football League (Gibraltár) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/gibraltar/national-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures"
+   "desc_en": "Gibraltar Football League (Gibraltar) standings on Soccerway — current table, results and fixtures"
   },
   {
    "id": "f_tkm_l1",
@@ -123352,10 +123352,10 @@
    "type": "link",
    "icon": "",
    "name": "Liga de Elite",
-   "desc": "Tabuľka súťaže na Soccerway — aktuálne poradie, výsledky a program",
+   "desc": "Tabuľka súťaže Liga de Elite (Macao) na Soccerway — aktuálne poradie, výsledky a program",
    "url": "https://www.soccerway.com/macao/elite-league/standings/",
    "order": -1,
-   "desc_en": "Competition table on Soccerway — current standings, results and fixtures",
+   "desc_en": "Liga de Elite (Macau) standings on Soccerway — current table, results and fixtures",
    "name_en": "Liga de Elite"
   },
   {
@@ -152031,11 +152031,11 @@
    "type": "link",
    "icon": "",
    "name": "NHL – National Hockey League",
-   "desc": "Oficiálny web NHL — rozpis zápasov, výsledky, tabuľky, štatistiky a prestupy.",
+   "desc": "Tabuľka NHL na oficiálnom webe ligy — aktuálne poradie divízií, konferencií a divoké karty",
    "url": "https://www.nhl.com/standings/",
    "order": -1,
    "name_en": "NHL – National Hockey League",
-   "desc_en": "Official NHL website — schedule, results, standings, stats and transactions."
+   "desc_en": "NHL standings on the official league website — current division, conference and wild card standings"
   },
   {
    "id": "f_hok_klu_na_ahl",
@@ -152056,11 +152056,11 @@
    "type": "link",
    "icon": "",
    "name": "AHL – American Hockey League",
-   "desc": "Oficiálny web AHL — rozpis zápasov, výsledky, tabuľky a súpisky klubov.",
+   "desc": "Tabuľka AHL na oficiálnom webe ligy — aktuálne poradie štyroch divízií",
    "url": "https://theahl.com/stats/standings",
    "order": -1,
    "name_en": "AHL – American Hockey League",
-   "desc_en": "Official AHL website — schedule, results, standings and club rosters."
+   "desc_en": "AHL standings on the official league website — current table of all four divisions"
   },
   {
    "id": "f_hok_klu_na_echl",
@@ -152081,11 +152081,11 @@
    "type": "link",
    "icon": "",
    "name": "ECHL – tretia zámorská liga",
-   "desc": "Oficiálny web ECHL — rozpis zápasov, výsledky, tabuľky a štatistiky hráčov.",
+   "desc": "Tabuľka ECHL, tretej zámorskej ligy, na jej oficiálnom webe — poradie Východnej a Západnej konferencie",
    "url": "https://echl.com/standings",
    "order": -1,
    "name_en": "ECHL – third-tier North American league",
-   "desc_en": "Official ECHL website — schedule, results, standings and player stats."
+   "desc_en": "ECHL standings on the official website of the third-tier North American league — Eastern and Western Conference tables"
   },
   {
    "id": "f_hok_klu_na_sphl",
@@ -152106,11 +152106,11 @@
    "type": "link",
    "icon": "",
    "name": "SPHL – Southern Professional Hockey League",
-   "desc": "Oficiálny web SPHL — rozpis zápasov, výsledky a tabuľka súťaže.",
+   "desc": "Tabuľka SPHL na oficiálnom webe ligy — aktuálne poradie celej súťaže",
    "url": "https://www.thesphl.com/stats/standings",
    "order": -1,
    "name_en": "SPHL – Southern Professional Hockey League",
-   "desc_en": "Official SPHL website — schedule, results and league standings."
+   "desc_en": "SPHL standings on the official league website — current table of the whole league"
   },
   {
    "id": "f_hok_klu_na_fphl",
@@ -152131,11 +152131,11 @@
    "type": "link",
    "icon": "",
    "name": "FPHL – Federal Prospects Hockey League",
-   "desc": "Oficiálny web FPHL — rozpis zápasov, výsledky a tabuľka súťaže.",
+   "desc": "Tabuľka FPHL na oficiálnom webe ligy — aktuálne poradie podľa divízií",
    "url": "https://www.federalhockey.com/stats#/182/standings",
    "order": -1,
    "name_en": "FPHL – Federal Prospects Hockey League",
-   "desc_en": "Official FPHL website — schedule, results and league standings."
+   "desc_en": "FPHL standings on the official league website — current table by division"
   },
   {
    "id": "f_hok_klu_na_lnah",
@@ -152156,11 +152156,11 @@
    "type": "link",
    "icon": "",
    "name": "LNAH – Ligue Nord-Américaine de Hockey",
-   "desc": "Oficiálny web LNAH — rozpis zápasov, výsledky a tabuľka súťaže.",
+   "desc": "Tabuľka LNAH na oficiálnom webe ligy (po francúzsky) — aktuálne poradie quebeckej súťaže",
    "url": "https://www.lnah.com/fr/stats/classement.html",
    "order": -1,
    "name_en": "LNAH – Ligue Nord-Américaine de Hockey",
-   "desc_en": "Official LNAH website — schedule, results and league standings."
+   "desc_en": "LNAH standings on the official league website (in French) — current table of the Quebec league"
   },
   {
    "id": "f_hok_klu_na_whl",
@@ -152181,11 +152181,11 @@
    "type": "link",
    "icon": "",
    "name": "WHL – Western Hockey League",
-   "desc": "Oficiálny web WHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
+   "desc": "Tabuľka WHL na portáli CHL — aktuálne poradie Východnej a Západnej konferencie",
    "url": "https://chl.ca/whl/standings/",
    "order": -1,
    "name_en": "WHL – Western Hockey League",
-   "desc_en": "Official WHL section on the CHL portal — schedule, results, standings and stats."
+   "desc_en": "WHL standings on the CHL portal — current Eastern and Western Conference tables"
   },
   {
    "id": "f_hok_klu_na_ohl",
@@ -152206,11 +152206,11 @@
    "type": "link",
    "icon": "",
    "name": "OHL – Ontario Hockey League",
-   "desc": "Oficiálny web OHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
+   "desc": "Tabuľka OHL na portáli CHL — aktuálne poradie ontárijskej juniorskej ligy podľa konferencií",
    "url": "https://chl.ca/ohl/standings/",
    "order": -1,
    "name_en": "OHL – Ontario Hockey League",
-   "desc_en": "Official OHL section on the CHL portal — schedule, results, standings and stats."
+   "desc_en": "OHL standings on the CHL portal — current table of the Ontario junior league by conference"
   },
   {
    "id": "f_hok_klu_na_qmjhl",
@@ -152231,11 +152231,11 @@
    "type": "link",
    "icon": "",
    "name": "QMJHL – Quebec Maritimes Junior Hockey League",
-   "desc": "Oficiálny web QMJHL na portáli CHL — rozpis zápasov, výsledky, tabuľky a štatistiky.",
+   "desc": "Tabuľka QMJHL na portáli CHL — aktuálne poradie juniorskej ligy z Quebecu a prímorských provincií",
    "url": "https://chl.ca/lhjmq/standings/",
    "order": -1,
    "name_en": "QMJHL – Quebec Maritimes Junior Hockey League",
-   "desc_en": "Official QMJHL section on the CHL portal — schedule, results, standings and stats."
+   "desc_en": "QMJHL standings on the CHL portal — current table of the junior league from Quebec and the Maritimes"
   },
   {
    "id": "f_hok_klu_na_ushl",
@@ -152256,11 +152256,11 @@
    "type": "link",
    "icon": "",
    "name": "USHL – United States Hockey League",
-   "desc": "Oficiálny web USHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
+   "desc": "Tabuľka USHL na oficiálnom webe ligy — poradie Východnej a Západnej konferencie",
    "url": "https://ushl.com/ht/#/team-stats",
    "order": -1,
    "name_en": "USHL – United States Hockey League",
-   "desc_en": "Official USHL website — schedule, results, standings and team rosters."
+   "desc_en": "USHL standings on the official league website — Eastern and Western Conference tables"
   },
   {
    "id": "f_hok_klu_na_nahl",
@@ -152281,11 +152281,11 @@
    "type": "link",
    "icon": "",
    "name": "NAHL – North American Hockey League",
-   "desc": "Oficiálny web NAHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
+   "desc": "Tabuľka NAHL na oficiálnom webe ligy — aktuálne poradie podľa divízií",
    "url": "https://nahl.com/standings/",
    "order": -1,
    "name_en": "NAHL – North American Hockey League",
-   "desc_en": "Official NAHL website — schedule, results, standings and team rosters."
+   "desc_en": "NAHL standings on the official league website — current table by division"
   },
   {
    "id": "f_hok_klu_na_ncdc",
@@ -152331,11 +152331,11 @@
    "type": "link",
    "icon": "",
    "name": "BCHL – British Columbia Hockey League",
-   "desc": "Oficiálny web BCHL — rozpis zápasov, výsledky, tabuľky a súpisky tímov.",
+   "desc": "Tabuľka BCHL na oficiálnom webe ligy — aktuálne poradie juniorskej ligy z Britskej Kolumbie",
    "url": "https://bchl.ca/stats/standings",
    "order": -1,
    "name_en": "BCHL – British Columbia Hockey League",
-   "desc_en": "Official BCHL website — schedule, results, standings and team rosters."
+   "desc_en": "BCHL standings on the official league website — current table of the British Columbia junior league"
   },
   {
    "id": "f_hok_klu_na_pwhl",
@@ -152356,11 +152356,11 @@
    "type": "link",
    "icon": "",
    "name": "PWHL – Professional Women's Hockey League",
-   "desc": "Oficiálny web PWHL — rozpis zápasov, výsledky, tabuľka a štatistiky hráčok.",
+   "desc": "Tabuľka PWHL na oficiálnom webe ligy — aktuálne poradie najvyššej ženskej profesionálnej ligy",
    "url": "https://www.thepwhl.com/en/stats/standings",
    "order": -1,
    "name_en": "PWHL – Professional Women's Hockey League",
-   "desc_en": "Official PWHL website — schedule, results, standings and player stats."
+   "desc_en": "PWHL standings on the official league website — current table of the top women's professional league"
   },
   {
    "id": "n1788903011382ncw",
@@ -156782,11 +156782,11 @@
    "type": "link",
    "icon": "",
    "name": "Slovensko – Tipsport liga",
-   "desc": "Tabuľka slovenskej extraligy na webe SZĽH — poradie aktuálnej sezóny, na stránke aj program, výsledky a štatistiky.",
-   "url": "https://www.hockeyslovakia.sk/sk/stats/standings/1197/tipsport-liga",
+   "desc": "Tabuľka súťaže Tipsport liga (Slovensko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/slovakia/tipsport-liga/standings/",
    "order": -1,
    "name_en": "Slovakia – Tipsport Liga",
-   "desc_en": "Slovak Extraliga standings on the Slovak Ice Hockey Federation site — current season table, plus schedule, results and stats."
+   "desc_en": "Tipsport Liga (Slovakia) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_svk_l1_k1",
@@ -158292,11 +158292,11 @@
    "type": "link",
    "icon": "",
    "name": "Dánsko – Metal Ligaen",
-   "desc": "Oficiálny web dánskej najvyššej ligy (názov podľa sponzora, odborového zväzu kovospracujúcich) — program, výsledky, tabuľky a štatistiky.",
-   "url": "https://metalligaen.dk/",
+   "desc": "Tabuľka súťaže Metal Ligaen (Dánsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/denmark/metal-ligaen/standings/",
    "order": -1,
    "name_en": "Denmark – Metal Ligaen",
-   "desc_en": "Official website of the Danish top league (named after its sponsor, the Danish Union of Metalworkers) — schedule, results, standings and stats."
+   "desc_en": "Metal Ligaen (Denmark) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_dnk_l1_k1",
@@ -158999,11 +158999,11 @@
    "type": "link",
    "icon": "",
    "name": "Bielorusko – Extraliga",
-   "desc": "Stránka bieloruskej extraligy na webe zväzu hockey.by (rusky, v názve sponzor Betera) — tabuľka aktuálnej sezóny, novinky, program a štatistiky.",
-   "url": "https://hockey.by/natsionalnyy-chempionat/ekstraliga-a/",
+   "desc": "Tabuľka súťaže Extraliga (Bielorusko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/belarus/extraleague/standings/",
    "order": -1,
    "name_en": "Belarus – Extraleague",
-   "desc_en": "Belarusian Extraleague page on the federation website hockey.by (in Russian, sponsored by Betera) — current season standings, news, schedule and stats."
+   "desc_en": "Extraleague (Belarus) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_blr_l1_k1",
@@ -159345,11 +159345,11 @@
    "type": "link",
    "icon": "",
    "name": "Nórsko – HockeyLiga1",
-   "desc": "Prehľad druhej najvyššej nórskej súťaže, ktorá od sezóny 2026/27 nesie názov HockeyLiga1 — tabuľka, súpisky a výsledky.",
-   "url": "https://www.eliteprospects.com/league/norway2",
+   "desc": "Tabuľka súťaže HockeyLiga1 (Nórsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/norway/division-1/standings/",
    "order": -1,
    "name_en": "Norway – HockeyLiga1",
-   "desc_en": "Overview of Norway’s second tier, renamed HockeyLiga1 from the 2026/27 season — standings, rosters and results."
+   "desc_en": "HockeyLiga1 (Norway) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_nor_l2_k1",
@@ -159610,11 +159610,11 @@
    "type": "link",
    "icon": "",
    "name": "Poľsko – Polska Hokej Liga",
-   "desc": "Tabuľka aktuálnej sezóny Polska Hokej Liga (pod menom sponzora TAURON Hokej Liga) na Elite Prospects — web zväzu PZHL tabuľku nevedie.",
-   "url": "https://www.eliteprospects.com/league/poland",
+   "desc": "Tabuľka súťaže Polska Hokej Liga (Poľsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/poland/polish-hockey-league/standings/",
    "order": -1,
    "name_en": "Poland – Polska Hokej Liga",
-   "desc_en": "Current-season standings of the Polska Hokej Liga (sponsored as TAURON Hokej Liga) on Elite Prospects — the PZHL federation website has no standings page."
+   "desc_en": "Polska Hokej Liga (Poland) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_pol_l1_k1",
@@ -159763,11 +159763,11 @@
    "type": "link",
    "icon": "",
    "name": "Bulharsko – Hokejová liga",
-   "desc": "Tabuľka, výsledky a štatistiky bulharskej ligy na Elite Prospects — liga nemá vlastný web a stránka zväzu hockey.bg končí sezónou 2023/24.",
-   "url": "https://www.eliteprospects.com/league/bulgaria",
+   "desc": "Tabuľka súťaže Hokejová liga (Bulharsko) na Elite Prospects — aktuálne poradie, zápasy a štatistiky",
+   "url": "https://www.eliteprospects.com/league/bulgaria/standings",
    "order": -1,
    "name_en": "Bulgaria – Hockey League",
-   "desc_en": "Standings, results and stats of the Bulgarian league on Elite Prospects — the league has no website of its own and the federation page hockey.bg stops at the 2023/24 season."
+   "desc_en": "Hockey League (Bulgaria) standings on Elite Prospects — current table, games and statistics"
   },
   {
    "id": "f_hok_klu_eu_bgr_l1_k1",
@@ -159965,11 +159965,11 @@
    "type": "link",
    "icon": "",
    "name": "Maďarsko – Erste Liga",
-   "desc": "Tabuľka Erste Ligy na jej oficiálnom webe (maďarsky aj anglicky) — aktuálna sezóna, program a štatistiky; liga vznikla v roku 2008 ako MOL Liga a hrajú ju maďarské aj rumunské kluby.",
-   "url": "https://www.ersteliga.hu/stats/standings",
+   "desc": "Tabuľka súťaže Erste Liga (Maďarsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/hungary/erste-liga/standings/",
    "order": -1,
    "name_en": "Hungary – Erste Liga",
-   "desc_en": "Erste Liga standings on its official website (Hungarian and English) — current season, schedule and stats; founded in 2008 as the MOL Liga, it features Hungarian and Romanian clubs."
+   "desc_en": "Erste Liga (Hungary) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_hun_l1_k1",
@@ -160094,11 +160094,11 @@
    "type": "link",
    "icon": "",
    "name": "Rumunsko – Liga Națională",
-   "desc": "Tabuľka rumunského seniorského šampionátu na Elite Prospects (aktuálna sezóna) — Rumunská hokejová federácia (FRHG) na svojom webe uvádza len rozpis a výsledky; prvý majster Rumunska bol vyhlásený v roku 1925.",
-   "url": "https://www.eliteprospects.com/league/romania/standings",
+   "desc": "Tabuľka súťaže Liga Națională (Rumunsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/romania/campionatul-national/standings/",
    "order": -1,
    "name_en": "Romania – Liga Națională",
-   "desc_en": "Standings of the Romanian senior championship on Elite Prospects (current season) — the Romanian Ice Hockey Federation (FRHG) website only lists the schedule and results; the first Romanian champion was crowned in 1925."
+   "desc_en": "Liga Națională (Romania) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_rou_l1_k1",
@@ -160371,11 +160371,11 @@
    "type": "link",
    "icon": "",
    "name": "Belgicko – Division 1",
-   "desc": "Stránka 1. divízie na webe Kráľovskej belgickej hokejovej federácie (RBIHF) — tímy, program, výsledky a tabuľka.",
-   "url": "https://www.rbihf.be/league/d1",
+   "desc": "Tabuľka súťaže Division 1 (Belgicko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/belgium/division-1/standings/",
    "order": -1,
    "name_en": "Belgium – Division 1",
-   "desc_en": "The Division 1 page on the Royal Belgian Ice Hockey Federation (RBIHF) website — teams, schedule, results and standings."
+   "desc_en": "Division 1 (Belgium) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_bel_l1_k1",
@@ -160500,11 +160500,11 @@
    "type": "link",
    "icon": "",
    "name": "Holandsko – Eredivisie",
-   "desc": "Stránka Eredivisie 2026/27 na webe zväzu IJshockey Nederland — tímy, program, výsledky a tabuľka.",
-   "url": "https://www.ijshockey.nl/competities/2026-2027/eredivisie",
+   "desc": "Tabuľka súťaže Eredivisie (Holandsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/netherlands/eredivisie/standings/",
    "order": -1,
    "name_en": "Netherlands – Eredivisie",
-   "desc_en": "The 2026/27 Eredivisie page on the IJshockey Nederland website — teams, schedule, results and standings."
+   "desc_en": "Eredivisie (Netherlands) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_nld_l1_k1",
@@ -160796,9 +160796,9 @@
    "icon": "",
    "name": "Španielsko – Liga Nacional de Hockey Hielo",
    "name_en": "Spain – Liga Nacional de Hockey Hielo",
-   "desc": "Tabuľka LNHH na Elite Prospects — aktuálne poradie prebiehajúcej sezóny; liga sa hrá od roku 1972, prvým majstrom bola Real Sociedad.",
-   "desc_en": "The LNHH standings on Elite Prospects — the current table of the ongoing season; played since 1972, with Real Sociedad as the first champion.",
-   "url": "https://www.eliteprospects.com/league/spain",
+   "desc": "Tabuľka súťaže Liga Nacional de Hockey Hielo (Španielsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "desc_en": "Liga Nacional de Hockey Hielo (Spain) standings on Flashscore — current table, results and fixtures",
+   "url": "https://www.flashscore.com/hockey/spain/lnhh/standings/",
    "order": -1
   },
   {
@@ -160905,9 +160905,9 @@
    "icon": "",
    "name": "Island – Toppdeild karla",
    "name_en": "Iceland – Toppdeild karla",
-   "desc": "Tabuľka islandskej Toppdeild karla na Elite Prospects — aktuálna sezóna vrátane islandskej reprezentácie do 20 rokov; liga sa hrá od roku 1991.",
-   "desc_en": "Standings of the Icelandic Toppdeild karla on Elite Prospects — the current season including the Iceland U20 team; the league has been played since 1991.",
-   "url": "https://www.eliteprospects.com/league/iceland",
+   "desc": "Tabuľka súťaže Toppdeild karla (Island) na Elite Prospects — aktuálne poradie, zápasy a štatistiky",
+   "desc_en": "Toppdeild karla (Iceland) standings on Elite Prospects — current table, games and statistics",
+   "url": "https://www.eliteprospects.com/league/iceland/standings",
    "order": -1
   },
   {
@@ -161217,9 +161217,9 @@
    "icon": "",
    "name": "Chorvátsko – Prvenstvo Hrvatske",
    "name_en": "Croatia – Prvenstvo Hrvatske",
-   "desc": "Tabuľka chorvátskeho šampionátu na Elite Prospects — liga nemá vlastný web a zväz HSHL zverejňuje len štatistiky; samostatný chorvátsky šampionát sa hrá od roku 1991.",
-   "desc_en": "Standings of the Croatian championship on Elite Prospects — the league has no website of its own and the HSHL federation publishes only stats; the independent Croatian championship has been played since 1991.",
-   "url": "https://www.eliteprospects.com/league/croatia",
+   "desc": "Tabuľka súťaže Prvenstvo Hrvatske (Chorvátsko) na Elite Prospects — aktuálne poradie, zápasy a štatistiky",
+   "desc_en": "Prvenstvo Hrvatske (Croatia) standings on Elite Prospects — current table, games and statistics",
+   "url": "https://www.eliteprospects.com/league/croatia/standings",
    "order": -1
   },
   {
@@ -161293,9 +161293,9 @@
    "icon": "",
    "name": "Bosna a Hercegovina – Hokejová liga",
    "name_en": "Bosnia and Herzegovina – Hockey League",
-   "desc": "Tabuľka, výsledky a štatistiky bosnianskej ligy na Elite Prospects — liga nemá vlastný web a stránka zväzu hsbih.com ukazuje tabuľku ešte zo sezóny 2019/20.",
-   "desc_en": "Standings, results and stats of the Bosnian league on Elite Prospects — the league has no website of its own and the federation page hsbih.com still shows the 2019/20 table.",
-   "url": "https://www.eliteprospects.com/league/bosnia",
+   "desc": "Tabuľka súťaže Hokejová liga (Bosna a Hercegovina) na Elite Prospects — aktuálne poradie, zápasy a štatistiky",
+   "desc_en": "Hockey League (Bosnia and Herzegovina) standings on Elite Prospects — current table, games and statistics",
+   "url": "https://www.eliteprospects.com/league/bosnia/standings",
    "order": -1
   },
   {
@@ -161456,9 +161456,9 @@
    "icon": "",
    "name": "Ukrajina – Hokejová liga",
    "name_en": "Ukraine – Hockey League",
-   "desc": "Tabuľka, zápasy a súpisky ukrajinskej ligy na Elite Prospects — liga nemá vlastný web a stránka zväzu fhu.com.ua súťaže nezobrazuje.",
-   "desc_en": "Standings, games and rosters of the Ukrainian league on Elite Prospects — the league has no website of its own and the federation site fhu.com.ua does not show the competitions.",
-   "url": "https://www.eliteprospects.com/league/ukraine",
+   "desc": "Tabuľka súťaže Hokejová liga (Ukrajina) na Flashscore — aktuálne poradie, výsledky a program",
+   "desc_en": "Hockey League (Ukraine) standings on Flashscore — current table, results and fixtures",
+   "url": "https://www.flashscore.com/hockey/ukraine/championship/standings/",
    "order": -1
   },
   {
@@ -162881,11 +162881,11 @@
    "type": "link",
    "icon": "",
    "name": "Taliansko – IHL",
-   "desc": "Oficiálna stránka Italian Hockey League na portáli Talianskej federácie ľadových športov (FISG) — tabuľka, program a štatistiky.",
-   "url": "https://italia.hockey/championship/ihl/?level_name=ihl",
+   "desc": "Tabuľka súťaže IHL (Taliansko) na Flashscore — aktuálne poradie, výsledky a program",
+   "url": "https://www.flashscore.com/hockey/italy/ihl/standings/",
    "order": -1,
    "name_en": "Italy – IHL",
-   "desc_en": "Official Italian Hockey League page on the portal of the Italian Ice Sports Federation (FISG) — standings, fixtures and statistics."
+   "desc_en": "IHL (Italy) standings on Flashscore — current table, results and fixtures"
   },
   {
    "id": "f_hok_klu_eu_ita_l2_k1",
@@ -163626,9 +163626,9 @@
    "icon": "",
    "name": "Japonsko – Asia League",
    "name_en": "Japan – Asia League",
-   "desc": "Oficiálny web Asia League Ice Hockey — rozpis, výsledky, tabuľky, štatistiky a profily všetkých šiestich tímov.",
-   "desc_en": "Official website of Asia League Ice Hockey — schedule, results, standings, stats and profiles of all six teams.",
-   "url": "https://asiaicehockey.com/standings",
+   "desc": "Tabuľka súťaže Asia League (Japonsko) na Flashscore — aktuálne poradie, výsledky a program",
+   "desc_en": "Asia League (Japan) standings on Flashscore — current table, results and fixtures",
+   "url": "https://www.flashscore.com/hockey/asia/asia-league/standings/",
    "order": -1
   },
   {
@@ -163716,8 +163716,8 @@
    "icon": "",
    "name": "Austrália – AIHL",
    "name_en": "Australia – AIHL",
-   "desc": "Oficiálny web Australian Ice Hockey League — rozpis, výsledky, tabuľky a štatistiky; liga sa hrá v kalendárnom roku od apríla do augusta.",
-   "desc_en": "Official website of the Australian Ice Hockey League — fixtures, results, standings and stats; the league runs from April to August within one calendar year.",
+   "desc": "Tabuľka AIHL na oficiálnom webe ligy — liga sa hrá v kalendárnom roku od apríla do augusta",
+   "desc_en": "AIHL standings on the official league website — the league runs from April to August within one calendar year",
    "url": "https://www.theaihl.com/leagues/standings.cfm?clientid=3856&leagueid=11464",
    "order": -1
   },
@@ -163871,8 +163871,8 @@
    "icon": "",
    "name": "Nový Zéland – NZIHL",
    "name_en": "New Zealand – NZIHL",
-   "desc": "Oficiálny web New Zealand Ice Hockey League — rozpis, výsledky, tabuľky a štatistiky; liga sa hrá v kalendárnom roku od apríla do augusta.",
-   "desc_en": "Official website of the New Zealand Ice Hockey League — fixtures, results, standings and stats; the league runs from April to August within one calendar year.",
+   "desc": "Tabuľka NZIHL na oficiálnom webe ligy — liga sa hrá v kalendárnom roku od apríla do augusta",
+   "desc_en": "NZIHL standings on the official league website — the league runs from April to August within one calendar year",
    "url": "https://www.nzihl.com/leagues/standings.cfm?clientid=7131&leagueid=35499",
    "order": -1
   },
