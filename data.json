@@ -1,6 +1,5 @@
 {
- "version": 1070,
- "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
+ "version": 1071,
  "pwKdf": {
   "salt": "8cef5f6775fe491fb45dbc7db86717b7",
   "iter": 600000,
