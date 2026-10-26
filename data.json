@@ -1,6 +1,11 @@
 {
- "version": 1069,
+ "version": 1070,
  "passwordHash": "3a2e92ef4684bc7a5644ebbd47b4b65b428a40f01e7a5e9b7abaaa6f7207f0f6",
+ "pwKdf": {
+  "salt": "8cef5f6775fe491fb45dbc7db86717b7",
+  "iter": 600000,
+  "hash": "6f235b06f75c698490eafc2bb9b528a59d8df9f55e96b4b3bc2f4b04ee7021d5"
+ },
  "title": "Športové Linky",
  "subtitle": "Naviguj sa cez kategórie",
  "aktualne": [
