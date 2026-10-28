@@ -1,5 +1,5 @@
 {
- "version": 1071,
+ "version": 1079,
  "pwKdf": {
   "salt": "8cef5f6775fe491fb45dbc7db86717b7",
   "iter": 600000,
@@ -3469,11 +3469,11 @@
    "type": "folder",
    "icon": "⛷️",
    "name": "Zimné športy",
-   "desc": "Odkazy na zimné športy: alpské lyžovanie, biatlon, skoky na lyžiach, korčuľovanie a ďalšie",
+   "desc": "Zimné športy: live výsledky FIS, IBU, ISU, IBSF a FIL v 13 športoch — lyžovanie, skoky, biatlon, korčuľovanie, curling, boby, snowboard aj skialp.",
    "order": 7,
    "slug": "zimne-sporty",
    "name_en": "Winter Sports",
-   "desc_en": "Winter sports links: alpine skiing, biathlon, ski jumping, skating and more",
+   "desc_en": "Winter sports: live results from FIS, IBU, ISU, IBSF and FIL in 13 sports — skiing, ski jumping, biathlon, skating, curling, bobsleigh, snowboard, skimo.",
    "slug_en": "winter-sports"
   },
   {
@@ -3482,11 +3482,11 @@
    "type": "folder",
    "icon": "⛷️",
    "name": "Alpské lyžovanie",
-   "desc": "Zjazdové lyžovanie: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, archívna databáza a spravodajstvo z lyžiarskych krajín.",
+   "desc": "Alpské lyžovanie: live výsledky a kalendár Svetového pohára FIS, boj o veľký krištáľový glóbus, Ski-DB, Swiss-Ski, Ski Austria, ORF a slovenský ZSL.",
    "order": 0,
    "slug": "alpske-lyzovanie",
    "name_en": "Alpine Skiing",
-   "desc_en": "Alpine skiing: live results and calendar for the FIS World Cup, current standings, a results archive and news from top skiing nations.",
+   "desc_en": "Alpine skiing: live results and FIS World Cup calendar, the overall crystal globe race, Ski-DB, Swiss-Ski, Ski Austria, ORF and the Slovak federation.",
    "slug_en": "alpine-skiing"
   },
   {
@@ -3495,11 +3495,11 @@
    "type": "folder",
    "icon": "🎿",
    "name": "Beh na lyžiach",
-   "desc": "Beh na lyžiach: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, maratónsky seriál Worldloppet a spravodajstvo z lyžiarskych krajín.",
+   "desc": "Beh na lyžiach: live výsledky Svetového pohára FIS vrátane Tour de Ski, seriály Ski Classics a Worldloppet, zväzy Nórska, Švédska a Fínska.",
    "order": 1,
    "slug": "beh-na-lyziach",
    "name_en": "Cross-Country Skiing",
-   "desc_en": "Cross-country skiing: live results and calendar for the FIS World Cup, current standings, the Worldloppet marathon series and news from top nations.",
+   "desc_en": "Cross-country skiing: live FIS World Cup results incl. the Tour de Ski, Ski Classics and Worldloppet series, Norwegian, Swedish and Finnish federations.",
    "slug_en": "cross-country-skiing"
   },
   {
@@ -3508,11 +3508,11 @@
    "type": "folder",
    "icon": "⛷️",
    "name": "Skoky na lyžiach",
-   "desc": "Skoky na lyžiach: live výsledky a kalendár FIS Svetového pohára, priebežné poradie, databáza mostíkov a spravodajstvo z lyžiarskych krajín.",
+   "desc": "Skoky na lyžiach: live výsledky Svetového pohára FIS vrátane Turné štyroch mostíkov, štatistiky Berkutschi, Skijumping.pl a databáza mostíkov.",
    "order": 2,
    "slug": "skoky-na-lyziach",
    "name_en": "Ski Jumping",
-   "desc_en": "Ski jumping: live results and calendar for the FIS World Cup, current standings, a hill database and news from top ski jumping nations.",
+   "desc_en": "Ski jumping: live FIS World Cup results incl. the Four Hills Tournament, Berkutschi statistics, Poland's Skijumping.pl and a world jumping hill database.",
    "slug_en": "ski-jumping"
   },
   {
@@ -3521,11 +3521,11 @@
    "type": "folder",
    "icon": "🎯",
    "name": "Biatlon",
-   "desc": "Biatlon: live výsledky a štatistiky IBU, archívna databáza pretekov, spravodajstvo zo sveta biatlonu a slovenský zväz biatlonu.",
-   "order": 3,
+   "desc": "Biatlon: live výsledky Svetového pohára a IBU Cupu v datacentre IBU, štatistiky Real Biathlon a Biathlonstats, Focus Biathlon a slovenský zväz.",
+   "order": 4,
    "slug": "biatlon",
    "name_en": "Biathlon",
-   "desc_en": "Biathlon: live results and statistics from the IBU, a results archive, news from the biathlon world and the Slovak biathlon federation.",
+   "desc_en": "Biathlon: live World Cup and IBU Cup results in the IBU datacenter, Real Biathlon and Biathlonstats statistics, Focus Biathlon, Slovak federation.",
    "slug_en": "biathlon"
   },
   {
@@ -3534,11 +3534,11 @@
    "type": "folder",
    "icon": "⛸️",
    "name": "Krasokorčuľovanie",
-   "desc": "Krasokorčuľovanie: kalendár podujatí ISU, výsledky súťaží, databáza bodovania a medzinárodné spravodajstvo z krasokorčuľovania.",
-   "order": 4,
+   "desc": "Krasokorčuľovanie: kalendár a výsledky ISU vrátane Grand Prix a MS, bodovacia databáza SkatingScores, Golden Skate, FSUniverse a slovenský zväz.",
+   "order": 5,
    "slug": "krasokorculovanie",
    "name_en": "Figure Skating",
-   "desc_en": "Figure skating: the ISU events calendar, competition results, a scoring database and international figure skating news.",
+   "desc_en": "Figure skating: ISU calendar and results incl. the Grand Prix and Worlds, the SkatingScores database, Golden Skate, FSUniverse and the Slovak federation.",
    "slug_en": "figure-skating"
   },
   {
@@ -3547,11 +3547,11 @@
    "type": "folder",
    "icon": "⛸️",
    "name": "Rýchlokorčuľovanie",
-   "desc": "Rýchlokorčuľovanie a short track: live výsledky ISU aj short tracku, archívna databáza výsledkov a medzinárodné spravodajstvo.",
-   "order": 5,
+   "desc": "Rýchlokorčuľovanie a short track: live výsledky ISU, databáza SpeedskatingResults, Shorttracklive, holandský KNSB a zväzy Česka, USA a Kanady.",
+   "order": 6,
    "slug": "rychlokorculovanie",
    "name_en": "Speed Skating",
-   "desc_en": "Speed skating and short track: live results from the ISU and short track, a results archive and international speed skating news.",
+   "desc_en": "Speed skating and short track: live ISU results, the SpeedskatingResults database, Shorttracklive, Dutch KNSB and Czech, US and Canadian federations.",
    "slug_en": "speed-skating"
   },
   {
@@ -3560,10 +3560,10 @@
    "type": "folder",
    "icon": "🥌",
    "name": "Curling",
-   "desc": "Curling: live výsledky a archív World Curling, profesionálny seriál Grand Slam of Curling a medzinárodné curlingové spravodajstvo.",
-   "order": 6,
+   "desc": "Curling: live výsledky a archív World Curling, seriál Grand Slam of Curling, štatistiky CurlingZone, kanadská TSN a slovenský aj český zväz.",
+   "order": 7,
    "slug": "curling",
-   "desc_en": "Curling: live results and an archive from World Curling, the professional Grand Slam of Curling series and international curling news.",
+   "desc_en": "Curling: live results and the World Curling archive, Grand Slam of Curling, CurlingZone statistics, Canada's TSN and the Slovak and Czech federations.",
    "slug_en": "curling",
    "name_en": "Curling"
   },
@@ -3573,11 +3573,11 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Sánkovanie",
-   "desc": "Sánkovanie: live výsledky Svetového pohára FIL, národné sánkarske zväzy a medzinárodné spravodajstvo o sánkovaní.",
-   "order": 7,
+   "desc": "Sánkovanie: live výsledky Svetového pohára FIL, rakúsky zväz pre umelé aj prírodné dráhy, nemecký BSD, taliansky FISI, USA Luge a Inside the Games.",
+   "order": 8,
    "slug": "sankovanie",
    "name_en": "Luge",
-   "desc_en": "Luge: live World Cup results from the FIL, national luge federations and international luge news.",
+   "desc_en": "Luge: live FIL World Cup results, the Austrian federation for artificial and natural tracks, Germany's BSD, Italy's FISI, USA Luge, Inside the Games.",
    "slug_en": "luge"
   },
   {
@@ -3586,11 +3586,11 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Bob",
-   "desc": "Boby: live výsledky IBSF, oficiálne video IBSF TV, národné zväzy, spravodajstvo a vysielanie na Eurosporte.",
-   "order": 8,
+   "desc": "Bob: live výsledky Svetového pohára IBSF v dvojbobe, štvorbobe aj monobobe, IBSF TV, zväzy Nemecka, Švajčiarska, USA a Česka a TNT Sports.",
+   "order": 9,
    "slug": "bob",
    "name_en": "Bobsleigh",
-   "desc_en": "Bobsleigh: live results from the IBSF, official IBSF TV video, national federations, news and Eurosport coverage.",
+   "desc_en": "Bobsleigh: live IBSF World Cup results in two-man, four-man and monobob, IBSF TV, German, Swiss, US and Czech federations and TNT Sports.",
    "slug_en": "bobsleigh"
   },
   {
@@ -3599,10 +3599,10 @@
    "type": "folder",
    "icon": "🛷",
    "name": "Skeleton",
-   "desc": "Skeleton: live výsledky IBSF, britský zväz bobov a skeletonu a vysielanie zo skeletonu na Eurosporte.",
-   "order": 9,
+   "desc": "Skeleton: live výsledky a kalendár Svetového pohára IBSF, oficiálna stránka disciplíny, britský zväz bobov a skeletonu BBSA a TNT Sports.",
+   "order": 10,
    "slug": "skeleton",
-   "desc_en": "Skeleton: live results from the IBSF, the British bobsleigh and skeleton federation and skeleton coverage on Eurosport.",
+   "desc_en": "Skeleton: live results and IBSF World Cup calendar, the official discipline page, the British Bobsleigh and Skeleton Association and TNT Sports.",
    "slug_en": "skeleton",
    "name_en": "Skeleton"
   },
@@ -3612,11 +3612,11 @@
    "type": "folder",
    "icon": "🏂",
    "name": "Freestyle a Snowboard",
-   "desc": "Freestyle a snowboard: live výsledky FIS pre všetky disciplíny, svetové série Freeride World Tour a Snowleague a spravodajstvo z voľného štýlu.",
-   "order": 10,
+   "desc": "Freestyle a snowboard: live výsledky FIS v skikrose, snowboardkrose, park & pipe a alpskom snowboarde, Freeride World Tour, Snow League a WSPL.",
+   "order": 11,
    "slug": "freestyle-a-snowboard",
    "name_en": "Freestyle & Snowboard",
-   "desc_en": "Freestyle and snowboard: live FIS results across all disciplines, the Freeride World Tour and Snowleague series and freestyle/snowboard news.",
+   "desc_en": "Freestyle and snowboard: live FIS results in ski cross, snowboard cross, park & pipe and alpine snowboard, Freeride World Tour, Snow League and WSPL.",
    "slug_en": "freestyle-snowboard"
   },
   {
@@ -8592,7 +8592,7 @@
    "icon": "",
    "name": "FIS TV",
    "desc": "Oficiálne video prenosy a zostrihy FIS",
-   "url": "https://watch.fis-ski.com/home",
+   "url": "https://watch.fis-ski.com/en/home",
    "order": 4,
    "desc_en": "Official FIS video broadcasts and highlights"
   },
@@ -8779,7 +8779,7 @@
    "parentId": "f_zim_beh",
    "type": "link",
    "icon": "",
-   "name": "Hiihtoliittoo",
+   "name": "Hiihtoliitto",
    "desc": "Fínsky lyžiarsky zväz",
    "url": "https://hiihtoliitto.fi/",
    "order": 9,
@@ -8791,10 +8791,10 @@
    "type": "link",
    "icon": "",
    "name": "Skidor",
-   "desc": "Švédska lyžiarska asociácia",
-   "url": "https://www.skidor.com/",
+   "desc": "Švédsky lyžiarsky zväz — sekcia behu na lyžiach",
+   "url": "https://www.skidor.com/idrotter/langdakning",
    "order": 10,
-   "desc_en": "Swedish ski association"
+   "desc_en": "Swedish Ski Association — cross-country skiing section"
   },
   {
    "id": "n1780763885842pw3",
@@ -8845,7 +8845,7 @@
    "parentId": "f_zim_sko",
    "type": "link",
    "icon": "",
-   "name": "FIS skoky na lyziach",
+   "name": "FIS skoky na lyžiach",
    "desc": "Oficiálna stránka FIS pre skoky na lyžiach",
    "url": "https://www.fis-ski.com/ski-jumping",
    "order": 0,
@@ -8915,7 +8915,7 @@
    "icon": "",
    "name": "Skispringen",
    "desc": "Nemecké spravodajstvo zo skokov na lyžiach",
-   "url": "https://www.skispringen.com/#google_vignette",
+   "url": "https://www.skispringen.com/",
    "order": 6,
    "desc_en": "German news coverage of ski jumping"
   },
@@ -8926,7 +8926,7 @@
    "icon": "",
    "name": "Skisprungschanzen",
    "desc": "Databáza skokanských mostíkov celého sveta",
-   "url": "https://www.skisprungschanzen.com/#google_vignette",
+   "url": "https://www.skisprungschanzen.com/",
    "order": 7,
    "desc_en": "A worldwide database of ski jumping hills"
   },
@@ -9036,7 +9036,7 @@
    "icon": "",
    "name": "ISU figure skating",
    "desc": "Oficiálna stránka ISU pre krasokorčuľovanie",
-   "url": "https://isu-skating.com/figure-skating/",
+   "url": "https://isu-skating.com/en/figure-skating/",
    "order": 0,
    "desc_en": "Official ISU website for figure skating"
   },
@@ -9047,7 +9047,7 @@
    "icon": "",
    "name": "ISU events",
    "desc": "Oficiálny kalendár podujatí ISU",
-   "url": "https://www.isu.org/events/?month=All&discipline=FIGURE+SKATING&season=2026%2F2027&event_type=All+ISU+Events&event_level=ISU",
+   "url": "https://isu-skating.com/en/figure-skating/events/",
    "order": 1,
    "desc_en": "Official ISU events calendar"
   },
@@ -9113,7 +9113,7 @@
    "icon": "",
    "name": "ISU speed skating",
    "desc": "Oficiálna stránka ISU pre rýchlokorčuľovanie",
-   "url": "https://isu-skating.com/speed-skating/",
+   "url": "https://isu-skating.com/en/speed-skating/",
    "order": 0,
    "desc_en": "Official ISU website for speed skating"
   },
@@ -9179,7 +9179,7 @@
    "icon": "",
    "name": "Speedskating.cz",
    "desc": "Český zväz rýchlokorčuľovania",
-   "url": "http://speedskating.cz/",
+   "url": "https://speedskating.cz/",
    "order": 6,
    "desc_en": "Czech Speed Skating Federation"
   },
@@ -9276,7 +9276,7 @@
    "parentId": "f_zim_cur",
    "type": "link",
    "icon": "",
-   "name": "TNS curling",
+   "name": "TSN curling",
    "desc": "Curling v kanadskej športovej TV TSN",
    "url": "https://www.tsn.ca/curling/",
    "order": 5,
@@ -9448,26 +9448,15 @@
    "desc_en": "USA Bobsled and Skeleton Federation"
   },
   {
-   "id": "n1780771599158rzc",
-   "parentId": "f_zim_bob",
-   "type": "link",
-   "icon": "",
-   "name": "Bobslejs Latvia",
-   "desc": "Lotyšský zväz bobov a skeletonu",
-   "url": "https://www.bobslejs.lv/",
-   "order": 6,
-   "desc_en": "Latvian Bobsleigh and Skeleton Federation"
-  },
-  {
    "id": "n17807716234727bn",
    "parentId": "f_zim_bob",
    "type": "link",
    "icon": "",
-   "name": "Bobteam.cz",
-   "desc": "Český reprezentačný tím v boboch",
+   "name": "ČSBS (Bobteam.cz)",
+   "desc": "Český zväz bobistov a skeletonistov — oficiálny web ČSBS",
    "url": "https://www.bobteam.cz/",
-   "order": 7,
-   "desc_en": "The Czech national bobsleigh team"
+   "order": 6,
+   "desc_en": "Czech Bobsleigh and Skeleton Federation — official ČSBS website"
   },
   {
    "id": "n17807716815532o1",
@@ -9477,7 +9466,7 @@
    "name": "Sliding on ice",
    "desc": "Spravodajstvo o boboch, skeletone a sánkovaní",
    "url": "https://www.slidingonice.com/",
-   "order": 8,
+   "order": 7,
    "desc_en": "News on bobsleigh, skeleton and luge"
   },
   {
@@ -9488,7 +9477,7 @@
    "name": "TNT bobsleigh",
    "desc": "Boby na Eurosporte (TNT Sports)",
    "url": "https://www.tntsports.co.uk/bobsleigh/",
-   "order": 9,
+   "order": 8,
    "desc_en": "Bobsleigh on Eurosport (TNT Sports)"
   },
   {
@@ -9509,7 +9498,7 @@
    "icon": "",
    "name": "IBSF results",
    "desc": "Live výsledky IBSF (boby a skeleton)",
-   "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=sn&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
+   "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5Bsport%5D=sn",
    "order": 1,
    "desc_en": "Live results from IBSF (bobsleigh and skeleton)"
   },
@@ -9542,7 +9531,7 @@
    "icon": "",
    "name": "IBSF results",
    "desc": "Live výsledky IBSF (boby a skeleton)",
-   "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5B__referrer%5D%5B%40extension%5D=FmResults&tx_fmresults_list%5B__referrer%5D%5B%40controller%5D=List&tx_fmresults_list%5B__referrer%5D%5B%40action%5D=main&tx_fmresults_list%5B__referrer%5D%5Barguments%5D=YTowOnt98b3b8aed0789e0c92af367c38faef04289de5e64&tx_fmresults_list%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22FmResults%22%2C%22%40controller%22%3A%22List%22%2C%22%40action%22%3A%22main%22%7D2f4e45e169d2363ac0f69e19bf11567a60cdc86d&tx_fmresults_list%5B__trustedProperties%5D=%7B%22sport%22%3A1%2C%22season_id%22%3A1%2C%22session_type_ids%22%3A1%2C%22event_id%22%3A1%2C%22trainings%22%3A1%7Dc7a3c325f8425ead471e0c6286b082a9f6d6f280&tx_fmresults_list%5Bsport%5D=bs&tx_fmresults_list%5Bseason_id%5D=1000060&tx_fmresults_list%5Bsession_type_ids%5D=&tx_fmresults_list%5Bevent_id%5D=&tx_fmresults_list%5Btrainings%5D=#FmResultsListForm",
+   "url": "https://www.ibsf.org/en/races-and-results?tx_fmresults_list%5Bsport%5D=bs",
    "order": 1,
    "desc_en": "Live results from IBSF (bobsleigh and skeleton)"
   },
@@ -9565,7 +9554,7 @@
    "name": "FIS snowboard alpine",
    "desc": "Live výsledky a súťaže FIS v alpskom snowboarde",
    "url": "https://www.fis-ski.com/snowboard-alpine",
-   "order": 2,
+   "order": 1,
    "desc_en": "Live results and events for FIS alpine snowboard"
   },
   {
@@ -9576,7 +9565,7 @@
    "name": "FIS snowboard cross",
    "desc": "Live výsledky a súťaže FIS v snowboardcrosse",
    "url": "https://www.fis-ski.com/snowboard-cross",
-   "order": 3,
+   "order": 2,
    "desc_en": "Live results and events for FIS snowboard cross"
   },
   {
@@ -9587,7 +9576,7 @@
    "name": "FIS ski cross",
    "desc": "Live výsledky a súťaže FIS v skicrosse",
    "url": "https://www.fis-ski.com/ski-cross",
-   "order": 4,
+   "order": 3,
    "desc_en": "Live results and events for FIS ski cross"
   },
   {
@@ -9662,10 +9651,10 @@
    "type": "link",
    "icon": "",
    "name": "World snowboarding",
-   "desc": "Medzinárodné snowboardové spravodajstvo",
+   "desc": "Svetový rebríček snowboardistov (WSPL) — body, poradie a podujatia",
    "url": "https://www.worldsnowboarding.org/",
    "order": 10,
-   "desc_en": "International snowboarding news"
+   "desc_en": "World Snowboard Points List — rankings, points and events"
   },
   {
    "id": "n1780831938264fxf",
@@ -13786,11 +13775,11 @@
    "type": "folder",
    "icon": "🌐",
    "name": "Ázia",
-   "desc": "Športové médiá ázijských krajín a Austrálie",
+   "desc": "Športové médiá ázijských krajín",
    "order": 2,
    "slug": "azia",
    "name_en": "Asia",
-   "desc_en": "Sports media of Asian countries and Australia",
+   "desc_en": "Sports media of Asian countries",
    "slug_en": "asia"
   },
   {
@@ -13977,10 +13966,10 @@
    "type": "link",
    "icon": "",
    "name": "Šport.sk",
-   "desc": "Jeden z najväčších SK športových portálov, live výsledky",
+   "desc": "Futbal od Niké ligy po dedinský futbal, hokej s NHL, tenis, MMA a motoršport – so živými výsledkami, videami a vlastnými podcastmi. Od roku 2024 ho celý vlastní Ringier Slovakia Media.",
    "url": "https://sport.aktuality.sk/",
    "order": 0,
-   "desc_en": "One of the biggest Slovak sports portals, live results"
+   "desc_en": "Football from the Niké liga down to village football, hockey including the NHL, tennis, MMA and motorsport – with live results, videos and its own podcasts. Fully owned by Ringier Slovakia Media since 2024."
   },
   {
    "id": "n1782133425874sai",
@@ -13988,10 +13977,10 @@
    "type": "link",
    "icon": "",
    "name": "Športweb",
-   "desc": "Športová sekcia denníka Pravda — správy a analýzy",
-   "url": "https://sportweb.pravda.sk/",
+   "desc": "Futbal, hokej, tenis, cyklistika, basketbal či zimné športy s prehľadom zápasov naživo, online textovými prenosmi, videami a rozhovormi. Športová sekcia denníka Pravda (od 1920).",
+   "url": "https://www.pravda.sk/sportweb",
    "order": 1,
-   "desc_en": "The daily Pravda's sports section — news and analysis"
+   "desc_en": "Football, hockey, tennis, cycling, basketball and winter sports, with a live match overview, online text commentaries, videos and interviews. The sports section of the daily Pravda (since 1920)."
   },
   {
    "id": "n1782133444565v3t",
@@ -13999,21 +13988,21 @@
    "type": "link",
    "icon": "",
    "name": "Sportnet",
-   "desc": "Športový portál denníka SME",
+   "desc": "Futbal vrátane regionálneho Futbalnetu, hokej, halové športy aj F1 – s online prenosmi, rozhovormi, prehľadom prestupov, podcastmi a programom Šport v TV. Športový portál denníka SME (od 1993).",
    "url": "https://sportnet.sme.sk/",
    "order": 2,
-   "desc_en": "The daily SME's sports portal"
+   "desc_en": "Football including the regional Futbalnet, hockey, indoor sports and F1 – with live online coverage, interviews, a transfer overview, podcasts and a sport-on-TV guide. The sports portal of the daily SME (since 1993)."
   },
   {
    "id": "n1782133530270h5g",
    "parentId": "f_med_eu_sk",
    "type": "link",
    "icon": "",
-   "name": "RTVS šport",
-   "desc": "Šport verejnoprávnej STVR — prenosy a spravodajstvo",
+   "name": "STVR šport",
+   "desc": "Správy z futbalu, hokeja, tenisu a biatlonu, ale aj z volejbalu či hádzanej, doplnené videami, fotogalériami a rozhovormi. Spravodajstvo STVR, ktorá 1. 7. 2024 nahradila RTVS.",
    "url": "https://spravy.stvr.sk/kategoria/sport/",
    "order": 3,
-   "desc_en": "Sport from the public broadcaster STVR — live broadcasts and news"
+   "desc_en": "News from football, hockey, tennis and biathlon as well as volleyball and handball, with videos, photo galleries and interviews. News service of STVR, which replaced RTVS on 1 July 2024."
   },
   {
    "id": "n1782134064738wi8",
@@ -14021,10 +14010,10 @@
    "type": "link",
    "icon": "",
    "name": "Livesport.cz",
-   "desc": "České live výsledky zo všetkých športov naživo",
+   "desc": "Správy z futbalu (Chance Liga, Premier League, Liga majstrov), tenisu, hokeja či šípok, s rozhovormi, prestupmi a podcastom Livesport Daily. Projekt pražskej firmy Livesport z roku 2006.",
    "url": "https://www.livesport.cz/zpravy/",
    "order": 0,
-   "desc_en": "Czech live results from all sports"
+   "desc_en": "News from football (Chance Liga, Premier League, Champions League), tennis, hockey and darts, with interviews, transfers and the Livesport Daily podcast. A project of the Prague company Livesport from 2006."
   },
   {
    "id": "n17821341516499kc",
@@ -14032,10 +14021,10 @@
    "type": "link",
    "icon": "",
    "name": "Športky",
-   "desc": "Športové správy portálu Zoznam.sk",
+   "desc": "Hokej, futbal, tenis, cyklistika a Formula 1 so samostatnými sekciami výsledkov a tabuliek a s online prenosmi zápasov. Športový portál spoločnosti Zoznam, s.r.o.",
    "url": "https://sportky.zoznam.sk/",
    "order": 4,
-   "desc_en": "Sports news from the portal Zoznam.sk"
+   "desc_en": "Hockey, football, tennis, cycling and Formula 1, with dedicated results and standings sections and live online match coverage. The sports portal of Zoznam, s.r.o."
   },
   {
    "id": "n1782134173372y43",
@@ -14043,10 +14032,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport.cz",
-   "desc": "Popredný český športový portál skupiny Seznam",
+   "desc": "Futbal, hokej, tenis, motoršport, MMA aj e-šport – s online výsledkami, zostrihmi, prestupmi, komentármi, podcastmi a fantasy ligou. Športový server skupiny Seznam.cz (založená 1996).",
    "url": "https://www.sport.cz/",
    "order": 1,
-   "desc_en": "Leading Czech sports portal from the Seznam group"
+   "desc_en": "Football, hockey, tennis, motorsport, MMA and esports – with live results, highlights, transfers, commentary, podcasts and a fantasy league. The sports site of the Seznam.cz group (founded 1996)."
   },
   {
    "id": "n1782134221483n7v",
@@ -14054,10 +14043,10 @@
    "type": "link",
    "icon": "",
    "name": "Isport.cz",
-   "desc": "Najväčší český športový denník — futbal a hokej",
+   "desc": "Futbal a hokej v hlavnej úlohe, k tomu tenis a MMA – online prenosy, výsledky, prestupy, podcasty a vlastné video relácie. Web českého denníka Sport, ktorý vydáva Czech News Center.",
    "url": "https://isport.blesk.cz/",
    "order": 2,
-   "desc_en": "The biggest Czech sports daily — football and ice hockey"
+   "desc_en": "Football and hockey take centre stage, plus tennis and MMA – live online coverage, results, transfers, podcasts and its own video shows. Website of the Czech daily Sport, published by Czech News Center."
   },
   {
    "id": "n1782134240894akm",
@@ -14065,10 +14054,10 @@
    "type": "link",
    "icon": "",
    "name": "ČT sport",
-   "desc": "Šport Českej televízie — prenosy a spravodajstvo",
+   "desc": "Priame prenosy, videá a živé textové spravodajstvo z futbalu, hokeja, tenisu, cyklistiky a desiatok ďalších športov vrátane olympijských. Šport Českej televízie, ktorej športový kanál vysiela od februára 2006.",
    "url": "https://sport.ceskatelevize.cz/",
    "order": 3,
-   "desc_en": "Sport from Czech Television — broadcasts and news"
+   "desc_en": "Live broadcasts, videos and live text coverage of football, hockey, tennis, cycling and dozens of other sports, including Olympic ones. Sport from Czech Television, whose sports channel has been on air since February 2006."
   },
   {
    "id": "n1782134262695ybn",
@@ -14076,10 +14065,10 @@
    "type": "link",
    "icon": "",
    "name": "TN.cz sport",
-   "desc": "Športová sekcia spravodajstva TV Nova",
+   "desc": "Online výsledky, tabuľky a štatistiky, zostrihy zápasov a prehľad, kde šport sledovať – futbal, hokej, F1, MMA, šípky, basketbal aj tenis. Športová sekcia portálu TV Nova TN.cz (od 2008).",
    "url": "https://tn.nova.cz/sport",
    "order": 4,
-   "desc_en": "TV Nova's news sports section"
+   "desc_en": "Live results, standings and statistics, match highlights and a where-to-watch guide – football, hockey, F1, MMA, darts, basketball and tennis. The sports section of TN.cz, the TV Nova news portal (since 2008)."
   },
   {
    "id": "n17821343546747px",
@@ -14087,10 +14076,10 @@
    "type": "link",
    "icon": "",
    "name": "Idnes sport",
-   "desc": "Šport denníka MF Dnes — správy, výsledky, komentáre",
+   "desc": "Futbal so zostrihmi Chance Ligy aj ženským futbalom, hokej s extraligou a NHL, biatlon, lyžovanie či tenis – s výsledkami, videami a programom podujatí. Šport servera iDNES.cz denníka MF DNES (od 1998).",
    "url": "https://www.idnes.cz/sport",
    "order": 5,
-   "desc_en": "Sport from the daily MF Dnes — news, results, commentary"
+   "desc_en": "Football with Chance Liga highlights and women's football, hockey with the Extraliga and the NHL, biathlon, skiing and tennis – with results, videos and event schedules. Sport from iDNES.cz, the site of the daily MF DNES (since 1998)."
   },
   {
    "id": "n17821343974519wq",
@@ -14098,10 +14087,10 @@
    "type": "link",
    "icon": "",
    "name": "Aktualne.cz sport",
-   "desc": "Športové spravodajstvo portálu Aktuálně.cz",
+   "desc": "Futbal, hokej, tenis a olympijské športy s rozhovormi, komentármi a podcastmi, plus vlastný seriál Generace bez pohybu. Športové spravodajstvo servera Aktuálně.cz (od 2005).",
    "url": "https://sport.aktualne.cz/?lp=1",
    "order": 6,
-   "desc_en": "Sports coverage from the portal Aktuálně.cz"
+   "desc_en": "Football, hockey, tennis and Olympic sports with interviews, commentary and podcasts, plus its own series Generace bez pohybu. Sports news from Aktuálně.cz (since 2005)."
   },
   {
    "id": "n1782134427124ae2",
@@ -14109,21 +14098,21 @@
    "type": "link",
    "icon": "",
    "name": "Teraz.sk šport",
-   "desc": "Šport tlačovej agentúry TASR — overené správy",
+   "desc": "Agentúrne správy z futbalu, hokeja vrátane NHL a KHL, tenisu, basketbalu a zimných športov, plus livescore s výsledkami zápasov. Portál Tlačovej agentúry SR, založenej v roku 1992.",
    "url": "https://www.teraz.sk/sport",
    "order": 5,
-   "desc_en": "Sport from the TASR news agency — verified news"
+   "desc_en": "Agency news from football, hockey including the NHL and KHL, tennis, basketball and winter sports, plus a livescore with match results. Portal of the News Agency of the Slovak Republic (TASR), founded in 1992."
   },
   {
    "id": "n1782134457611sce",
    "parentId": "f_med_eu_cz",
    "type": "link",
    "icon": "",
-   "name": "Česke noviny",
-   "desc": "Šport českej tlačovej agentúry ČTK",
+   "name": "České noviny",
+   "desc": "Stručné agentúrne správy a výsledky ČTK, najmä z futbalu vrátane európskych pohárov, z hokeja a tenisu. Web tlačovej agentúry ČTK, založenej 28. októbra 1918.",
    "url": "https://www.ceskenoviny.cz/sport/",
    "order": 7,
-   "desc_en": "Sport from the Czech news agency ČTK"
+   "desc_en": "Concise ČTK agency news and results, mainly from football including the European cups, hockey and tennis. Website of the Czech News Agency ČTK, founded on 28 October 1918."
   },
   {
    "id": "n1782134585960rtn",
@@ -14131,10 +14120,10 @@
    "type": "link",
    "icon": "",
    "name": "TNlive.sk šport",
-   "desc": "Spravodajský portál TV Markíza — šport a live správy",
+   "desc": "Futbal s Niké ligou, hokej s NHL, tenis, lyžovanie či Formula 1 – výsledky, videá, športové reportáže a rozhovory so slovenskými športovcami. Online spravodajstvo TV Markíza, spustené v júni 2025.",
    "url": "https://tnlive.sk/sport",
    "order": 6,
-   "desc_en": "News portal of TV Markíza — sport and live news"
+   "desc_en": "Football with the Niké liga, hockey with the NHL, tennis, skiing and Formula 1 – results, videos, sports reports and interviews with Slovak athletes. Online news service of TV Markíza, launched in June 2025."
   },
   {
    "id": "n1782134695890jmz",
@@ -14142,10 +14131,10 @@
    "type": "link",
    "icon": "",
    "name": "Noviny.sk šport",
-   "desc": "Športové spravodajstvo TV JOJ",
+   "desc": "Správy a výsledky z futbalu, hokeja, tenisu a cyklistiky, ale aj z halových a bojových športov či motorizmu. Športová rubrika Noviny.sk zo skupiny JOJ Group (TV JOJ vysiela od 2002).",
    "url": "https://sport.noviny.sk/",
    "order": 7,
-   "desc_en": "Sports coverage from TV JOJ"
+   "desc_en": "News and results from football, hockey, tennis and cycling, as well as indoor and combat sports and motorsport. The sports section of Noviny.sk from JOJ Group (TV JOJ has been on air since 2002)."
   },
   {
    "id": "n17821347198048sb",
@@ -14153,10 +14142,10 @@
    "type": "link",
    "icon": "",
    "name": "TA3 šport",
-   "desc": "Šport spravodajskej televízie TA3",
-   "url": "https://www.ta3.com/kategoria/sport",
+   "desc": "Aktuálne správy z domáceho aj zahraničného futbalu, hokeja, tenisu či lyžovania so zameraním na slovenských športovcov a kluby. Šport spravodajskej televízie TA3, ktorá vysiela od roku 2001.",
+   "url": "https://www.ta3.com/sport",
    "order": 8,
-   "desc_en": "Sport from the news channel TA3"
+   "desc_en": "Up-to-date news from domestic and international football, hockey, tennis and skiing, focusing on Slovak athletes and clubs. Sport from the news channel TA3, on air since 2001."
   },
   {
    "id": "n1782134739563wfv",
@@ -14164,10 +14153,10 @@
    "type": "link",
    "icon": "",
    "name": "Šport24",
-   "desc": "Športová sekcia bulvárneho portálu Pluska",
+   "desc": "Futbal, hokej, tenis, cyklistika a Formula 1, videá a rubrika Zo zákulisia s príbehmi zo súkromia športovcov. Športová sekcia portálu Pluska.sk denníka Plus JEDEN DEŇ (od 2006).",
    "url": "https://sport24.pluska.sk/",
    "order": 9,
-   "desc_en": "The tabloid portal Pluska's sports section"
+   "desc_en": "Football, hockey, tennis, cycling and Formula 1, videos and a Behind the Scenes section with stories from athletes' private lives. The sports section of Pluska.sk, the portal of the daily Plus JEDEN DEŇ (since 2006)."
   },
   {
    "id": "n1782134757957q7r",
@@ -14175,10 +14164,10 @@
    "type": "link",
    "icon": "",
    "name": "HNonline.sk šport",
-   "desc": "Šport slovenských Hospodárskych novín",
+   "desc": "Výber hlavných športových udalostí – najmä futbal, NHL a Formula 1 – vrátane rozhovorov pre HN. Šport Hospodárskych novín, slovenského ekonomického denníka (od 1993).",
    "url": "https://hnonline.sk/sport",
    "order": 10,
-   "desc_en": "Sport from the Slovak business daily Hospodárske noviny"
+   "desc_en": "A selection of the main sports stories – mostly football, the NHL and Formula 1 – including interviews for HN. Sport from Hospodárske noviny, the Slovak business daily (since 1993)."
   },
   {
    "id": "n17821347798861il",
@@ -14186,10 +14175,10 @@
    "type": "link",
    "icon": "",
    "name": "CNN prima sport",
-   "desc": "Šport českej CNN Prima News",
+   "desc": "Najmä hokej s dôrazom na Čechov v NHL, ďalej futbal, motoršport, tenis a MMA – s videami, reláciami, rozhovormi a fotogalériami. Šport stanice CNN Prima News, ktorá vysiela od mája 2020.",
    "url": "https://cnn.iprima.cz/sport",
    "order": 8,
-   "desc_en": "Sport from the Czech channel CNN Prima News"
+   "desc_en": "Mainly hockey with a focus on Czechs in the NHL, plus football, motorsport, tennis and MMA – with videos, shows, interviews and photo galleries. Sport from CNN Prima News, on air since May 2020."
   },
   {
    "id": "n1782134823796rdi",
@@ -14197,10 +14186,10 @@
    "type": "link",
    "icon": "",
    "name": "Seznamspravy sport",
-   "desc": "Športová sekcia českých Seznam Zpráv",
+   "desc": "Články, komentáre a rozhovory najmä o futbale, ale aj o tenise, hokeji, atletike či F1, doplnené športovým podcastom MVP a rubrikou Jiná liga. Sekcia Seznam Zpráv, ktoré vznikli v roku 2016.",
    "url": "https://www.seznamzpravy.cz/sekce/sport-147",
    "order": 9,
-   "desc_en": "The Czech news portal Seznam Zprávy's sports section"
+   "desc_en": "Articles, commentary and interviews mostly about football, but also tennis, hockey, athletics and F1, complemented by the MVP sports podcast and the Jiná liga column. A section of Seznam Zprávy, launched in 2016."
   },
   {
    "id": "n1782134843960jqa",
@@ -14208,10 +14197,10 @@
    "type": "link",
    "icon": "",
    "name": "Lidovky.cz sport",
-   "desc": "Šport českého denníka Lidové noviny",
+   "desc": "Futbal (Slavia, Sparta, pohár), hokej z extraligy aj NHL s Čechmi, tenis, biatlon a F1 – správy, rozhovory a komentáre, časť obsahu v predplatnom Premium. Nadväzuje na Lidové noviny z roku 1893.",
    "url": "https://www.lidovky.cz/sport",
    "order": 10,
-   "desc_en": "Sport from the Czech daily Lidové noviny"
+   "desc_en": "Football (Slavia, Sparta, the cup), ice hockey from the Extraliga and Czechs in the NHL, tennis, biathlon and F1 – news, interviews and commentary, with some content behind the Premium paywall. Successor to Lidové noviny, founded in 1893."
   },
   {
    "id": "f_med_eu_gb_eng",
@@ -16848,10 +16837,10 @@
    "type": "link",
    "icon": "",
    "name": "Sky sports",
-   "desc": "Britská športová televízia — správy, výsledky a prenosy",
+   "desc": "Britský pohľad na šport: futbal, F1, kriket, ragby, šípky či netbal – správy, živé výsledky, videozostrihy, prestupové livebloggy a podcasty. Vysiela od roku 1990, patrí skupine Sky.",
    "url": "https://www.skysports.com/",
    "order": 0,
-   "desc_en": "British sports TV — news, results and live broadcasts"
+   "desc_en": "A British take on sport: football, F1, cricket, rugby, darts and netball – news, live scores, video highlights, transfer live blogs and podcasts. On air since 1990, part of the Sky group."
   },
   {
    "id": "n1782219013651kmz",
@@ -16859,10 +16848,10 @@
    "type": "link",
    "icon": "",
    "name": "BBC sport",
-   "desc": "Športová sekcia BBC — správy, výsledky a livetexty",
+   "desc": "Futbal, kriket, F1, ragby, tenis, galské športy aj parašport – správy, výsledky, livetexty a vlastné sekcie pre Škótsko, Wales a Severné Írsko. Športová divízia BBC, od 2012 so sídlom v Salforde.",
    "url": "https://www.bbc.com/sport",
    "order": 1,
-   "desc_en": "BBC's sports section — news, results and live text commentary"
+   "desc_en": "Football, cricket, F1, rugby, tennis, Gaelic games and disability sport – news, scores, live text and dedicated sections for Scotland, Wales and Northern Ireland. BBC's sport division, based in Salford since 2012."
   },
   {
    "id": "n1782219053510m9m",
@@ -16870,10 +16859,10 @@
    "type": "link",
    "icon": "",
    "name": "The Guardian sport",
-   "desc": "Športové spravodajstvo denníka The Guardian",
+   "desc": "Futbal, kriket, ragby, tenis, cyklistika, F1 a golf – správy, reportáže, názorové komentáre, futbalový podcast Football Weekly a tematické newslettery. Denník vychádza od 1821, vlastní ho Scott Trust.",
    "url": "https://www.theguardian.com/uk/sport",
    "order": 2,
-   "desc_en": "Sports coverage from The Guardian"
+   "desc_en": "Football, cricket, rugby, tennis, cycling, F1 and golf – news, reports, opinion columns, the Football Weekly podcast and themed newsletters. Published since 1821, owned by the Scott Trust."
   },
   {
    "id": "n1782219093817rl5",
@@ -16881,10 +16870,10 @@
    "type": "link",
    "icon": "",
    "name": "The Telegraph sport",
-   "desc": "Športová sekcia denníka The Telegraph",
+   "desc": "Futbal od Premier League po EFL aj Fantasy Football, ragby, kriket, F1, golf, tenis, dostihy, cyklistika, box a ženský šport, s výsledkami a tabuľkami. Denník The Telegraph vychádza od roku 1855.",
    "url": "https://www.telegraph.co.uk/sport/",
    "order": 3,
-   "desc_en": "The Telegraph's sports section"
+   "desc_en": "Football from the Premier League to the EFL plus Fantasy Football, rugby, cricket, F1, golf, tennis, racing, cycling, boxing and women's sport, with results and tables. The Telegraph has been published since 1855."
   },
   {
    "id": "n1782219117578rqz",
@@ -16892,10 +16881,10 @@
    "type": "link",
    "icon": "",
    "name": "Daily mail sport",
-   "desc": "Športové správy bulvárneho denníka Daily Mail",
-   "url": "https://www.dailymail.com/sport/index.html",
+   "desc": "Premier League a prestupy, k tomu dostihy, golf, F1, tenis, box, kriket, ragby aj americké športy a futbalové kvízy. Denník Daily Mail vychádza od roku 1896, vydáva ho DMG Media.",
+   "url": "https://www.dailymail.co.uk/sport/index.html",
    "order": 4,
-   "desc_en": "Sports news from the tabloid Daily Mail"
+   "desc_en": "Premier League and transfers, plus horse racing, golf, F1, tennis, boxing, cricket, rugby, US sports and football quizzes. The Daily Mail has been published since 1896 by DMG Media."
   },
   {
    "id": "n1782219135340qw3",
@@ -16903,10 +16892,10 @@
    "type": "link",
    "icon": "",
    "name": "The Sun sport",
-   "desc": "Športová sekcia bulvárneho denníka The Sun",
+   "desc": "Bulvárne podané správy z futbalu, boxu, dostihov, šípok, snookeru, WWE či MMA, športové videoshow a fantasy hra Dream Team. Denník The Sun (od 1964) patrí News UK.",
    "url": "https://www.thesun.co.uk/sport/",
    "order": 5,
-   "desc_en": "The Sun tabloid's sports section"
+   "desc_en": "Tabloid-style news on football, boxing, horse racing, darts, snooker, WWE and MMA, sports video shows and the Dream Team fantasy game. The Sun (since 1964) belongs to News UK."
   },
   {
    "id": "n1782219159763vpv",
@@ -16914,10 +16903,10 @@
    "type": "link",
    "icon": "",
    "name": "The Independent sport",
-   "desc": "Športové spravodajstvo denníka The Independent",
+   "desc": "Futbal, ragby, kriket, F1, box, tenis a atletika – správy, výsledky, komentáre stálych autorov a newsletter Inside Sport. The Independent, založený 1986, vychádza od 2016 už len online.",
    "url": "https://www.independent.co.uk/sport",
    "order": 6,
-   "desc_en": "Sports coverage from The Independent"
+   "desc_en": "Football, rugby, cricket, F1, boxing, tennis and athletics – news, results, columns by regular writers and the Inside Sport newsletter. Founded in 1986, The Independent has been online-only since 2016."
   },
   {
    "id": "n1782219185360f4a",
@@ -16925,10 +16914,10 @@
    "type": "link",
    "icon": "",
    "name": "Talk sport",
-   "desc": "Najväčšie britské športové rádio — správy a podcasty",
+   "desc": "Živé vysielanie rádia aj videostream, správy z futbalu, boxu, UFC, NFL, šípok, dostihov a F1, názory moderátorov a bývalých hráčov. Športové rádio vysiela od 1995, patrí News UK.",
    "url": "https://talksport.com/",
    "order": 7,
-   "desc_en": "The biggest British sports radio station — news and podcasts"
+   "desc_en": "Live radio and video stream, news on football, boxing, UFC, NFL, darts, horse racing and F1, and opinions from presenters and ex-players. The sports radio station has been on air since 1995, owned by News UK."
   },
   {
    "id": "n1782219217785xp5",
@@ -16936,32 +16925,32 @@
    "type": "link",
    "icon": "",
    "name": "Sporting life",
-   "desc": "Stávkové tipy, dostihy a športové výsledky",
+   "desc": "Dostihové programy, rýchle výsledky a tipy, dostihy chrtov, k tomu futbalové výsledky, tabuľky a tipy na golf, šípky či snooker. Pôvodne noviny (1859–1998), dnes športový web.",
    "url": "https://www.sportinglife.com/",
    "order": 8,
-   "desc_en": "Betting tips, horse racing and sports results"
+   "desc_en": "Racecards, fast results and tips, greyhound racing, plus football scores, tables and tips for golf, darts and snooker. Originally a newspaper (1859–1998), now a sports website."
   },
   {
    "id": "n1782219268432td2",
    "parentId": "f_med_eu_gb_eng",
    "type": "link",
    "icon": "",
-   "name": "The standart sport",
-   "desc": "Športová sekcia londýnskeho Evening Standard",
+   "name": "The Standard sport",
+   "desc": "Futbal s dôrazom na londýnske kluby Arsenal, Chelsea a Tottenham, prestupy, livebloggy zo zápasov, box a stávkové tipy. Londýnsky Standard (od 1827) vychádza od 2024 tlačene ako týždenník.",
    "url": "https://www.standard.co.uk/sport",
    "order": 9,
-   "desc_en": "The London Evening Standard's sports section"
+   "desc_en": "Football with a focus on London clubs Arsenal, Chelsea and Tottenham, transfers, live match blogs, boxing and betting tips. London's Standard (since 1827) has been a weekly in print since 2024."
   },
   {
    "id": "n1782219383925pph",
    "parentId": "f_med_eu_gb_eng",
    "type": "link",
    "icon": "",
-   "name": "Gime me sport",
-   "desc": "Britský športový web — futbal a virálne správy",
+   "name": "GiveMeSport",
+   "desc": "Futbal (Premier League, Liga majstrov, MLS) s prestupmi, rozpismi a tabuľkami, k tomu box, UFC, WWE, NBA, NFL, F1 a tenis a nástroj na zostavu tímu. Od roku 2022 patrí skupine Valnet.",
    "url": "https://www.givemesport.com/",
    "order": 10,
-   "desc_en": "British sports website — football and viral news"
+   "desc_en": "Football (Premier League, Champions League, MLS) with transfers, fixtures and tables, plus boxing, UFC, WWE, NBA, NFL, F1, tennis and a lineup builder. Owned by Valnet since 2022."
   },
   {
    "id": "n1782219451949i2u",
@@ -16969,10 +16958,10 @@
    "type": "link",
    "icon": "",
    "name": "Newsnow sport",
-   "desc": "Agregátor športových správ z britských médií",
+   "desc": "Najnovšie titulky z desiatok britských médií na jednom mieste – futbal, ragby, kriket, F1, box, šípky, snooker, GAA aj US športy, s filtrom podľa zdroja. Agregátor správ funguje od roku 1997.",
    "url": "https://www.newsnow.co.uk/h/Sport",
    "order": 11,
-   "desc_en": "Aggregator of sports news from British media"
+   "desc_en": "The latest headlines from dozens of British outlets in one place – football, rugby, cricket, F1, boxing, darts, snooker, GAA and US sports, with filtering by source. The news aggregator has run since 1997."
   },
   {
    "id": "n1782219492189v6r",
@@ -16980,10 +16969,10 @@
    "type": "link",
    "icon": "",
    "name": "The Times sport",
-   "desc": "Športová sekcia denníka The Times",
+   "desc": "Futbal, kriket, ragby, F1, tenis a golf – správy, prestupy, komentáre a analýzy; väčšina článkov je za predplatným. The Times vychádza od roku 1785 a patrí News UK.",
    "url": "https://www.thetimes.com/sport",
    "order": 12,
-   "desc_en": "The Times' sports section"
+   "desc_en": "Football, cricket, rugby, F1, tennis and golf – news, transfers, comment and analysis; most articles are behind a paywall. The Times has been published since 1785 and belongs to News UK."
   },
   {
    "id": "n17822195179902oq",
@@ -16991,10 +16980,10 @@
    "type": "link",
    "icon": "",
    "name": "Inews sport",
-   "desc": "Športová sekcia britského webu iNews",
+   "desc": "Futbal s výsledkami, rozpismi a tabuľkami, kriket, ragby únia aj liga – správy, analýzy a komentáre stálych autorov. The i Paper vznikol v roku 2010, od 2019 ho vlastní DMG Media.",
    "url": "https://inews.co.uk/sport",
    "order": 13,
-   "desc_en": "The British website iNews's sports section"
+   "desc_en": "Football with results, fixtures and tables, cricket, rugby union and league – news, analysis and columns by regular writers. The i Paper was launched in 2010 and has been owned by DMG Media since 2019."
   },
   {
    "id": "n17822196431479tj",
@@ -17002,10 +16991,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportsmole",
-   "desc": "Futbalové správy a predzápasové analýzy",
+   "desc": "Predzápasové analýzy s tipom na výsledok, správami o zostavách a pravdepodobnými jedenástkami pre top európske ligy, ďalej prestupy, tabuľky a menšie športy. Založil ho tím webu Digital Spy.",
    "url": "https://www.sportsmole.co.uk/",
    "order": 14,
-   "desc_en": "Football news and pre-match analysis"
+   "desc_en": "Match previews with a predicted score, team news and likely line-ups for Europe's top leagues, plus transfers, tables and other sports. Founded by the team behind Digital Spy."
   },
   {
    "id": "n178221979647190f",
@@ -17013,10 +17002,10 @@
    "type": "link",
    "icon": "",
    "name": "Express sport",
-   "desc": "Športová sekcia denníka Daily Express",
+   "desc": "Futbal, box, UFC, kriket, ragby, golf, dostihy, F1, tenis, NFL a NBA, aj snooker a šípky – správy a prémiové články. Denník Daily Express (od 1900) vydáva Reach plc.",
    "url": "https://www.express.co.uk/sport",
    "order": 15,
-   "desc_en": "The Daily Express's sports section"
+   "desc_en": "Football, boxing, UFC, cricket, rugby, golf, horse racing, F1, tennis, NFL and NBA, plus snooker and darts – news and premium articles. The Daily Express (since 1900) is published by Reach plc."
   },
   {
    "id": "n1782219815456h41",
@@ -17024,10 +17013,10 @@
    "type": "link",
    "icon": "",
    "name": "Daily star sport",
-   "desc": "Športové správy bulvárneho Daily Star",
+   "desc": "Bulvárne podané správy z futbalu a prestupov, MotoGP, snookeru, šípok, boxu, UFC, F1, ragbyovej ligy a dostihov, aj športové fotogalérie. Daily Star (od 1978) vydáva Reach plc.",
    "url": "https://www.dailystar.co.uk/sport/",
    "order": 16,
-   "desc_en": "Sports news from the tabloid Daily Star"
+   "desc_en": "Tabloid-style news on football and transfers, MotoGP, snooker, darts, boxing, UFC, F1, rugby league and horse racing, plus sports photo galleries. The Daily Star (since 1978) is published by Reach plc."
   },
   {
    "id": "n1782220020005j84",
@@ -17035,10 +17024,10 @@
    "type": "link",
    "icon": "",
    "name": "Marca",
-   "desc": "Najčítanejší španielsky športový denník — Real Madrid a futbal",
+   "desc": "Futbal od LaLigy po Tercera Federación aj ženská Liga F, basketbal, motoršport a ďalšie športy, k tomu Rádio MARCA, TV program prenosov a titulná strana. Vychádza od 1938, vydáva Unidad Editorial.",
    "url": "https://www.marca.com/",
    "order": 0,
-   "desc_en": "The most read Spanish sports daily — Real Madrid and football"
+   "desc_en": "Football from LaLiga down to Tercera Federación plus the women's Liga F, basketball, motorsport and more, along with Radio MARCA, a TV sports guide and the front page. Published since 1938 by Unidad Editorial."
   },
   {
    "id": "n1782220038776n1w",
@@ -17046,10 +17035,10 @@
    "type": "link",
    "icon": "",
    "name": "AS",
-   "desc": "Madridský športový denník — futbal a La Liga",
+   "desc": "Futbal s výsledkami, tabuľkami, prestupovým trhom a ženskou Liga F, ďalej F1, motocykle, basketbal, tenis s rebríčkami ATP/WTA, cyklistika, videá a podcasty. Vychádza od 1967, patrí PRISA.",
    "url": "https://as.com/",
    "order": 1,
-   "desc_en": "Madrid sports daily — football and La Liga"
+   "desc_en": "Football with results, tables, the transfer market and the women's Liga F, plus F1, motorcycling, basketball, tennis with ATP/WTA rankings, cycling, videos and podcasts. Published since 1967, owned by PRISA."
   },
   {
    "id": "n1782220057397wku",
@@ -17057,10 +17046,10 @@
    "type": "link",
    "icon": "",
    "name": "Mundo deportivo",
-   "desc": "Barcelonský športový denník — najstarší v Španielsku",
+   "desc": "Futbal vrátane katalánskeho a ženského, prestupy a zahraničné ligy, motoršport, Euroliga a Liga Endesa, tenis, padel aj zimné športy. Najstarší dodnes vydávaný športový denník v Španielsku (od 1906).",
    "url": "https://www.mundodeportivo.com/",
    "order": 2,
-   "desc_en": "Barcelona sports daily — the oldest in Spain"
+   "desc_en": "Football including Catalan and women's football, transfers and foreign leagues, motorsport, the EuroLeague and Liga Endesa, tennis, padel and winter sports. Spain's oldest sports daily still published (since 1906)."
   },
   {
    "id": "n1782220074009fz4",
@@ -17068,10 +17057,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport",
-   "desc": "Katalánsky športový denník blízky FC Barcelona",
+   "desc": "FC Barcelona do detailu – kádr, program, prestupy, B-tím, akadémia La Masia aj ženy – plus Espanyol, Girona, LaLiga, motoršport, basketbal a videá SPORT TV. Barcelonský denník (od 1979).",
    "url": "https://www.sport.es/es/",
    "order": 3,
-   "desc_en": "Catalan sports daily close to FC Barcelona"
+   "desc_en": "FC Barcelona in detail – squad, fixtures, transfers, the B team, La Masia academy and the women's side – plus Espanyol, Girona, LaLiga, motorsport, basketball and SPORT TV videos. A Barcelona daily (since 1979)."
   },
   {
    "id": "n1782220107982zfh",
@@ -17079,10 +17068,10 @@
    "type": "link",
    "icon": "",
    "name": "Estadio deportivo",
-   "desc": "Športový denník zo Sevilly — Betis a Sevilla FC",
+   "desc": "Sevillské kluby Betis a Sevilla FC v popredí, popri nich všetky kluby LaLigy a Hypermotion s výsledkami a tabuľkami, Euroliga, motoršport a tenis. Športový denník vznikol v Seville v roku 1995.",
    "url": "https://www.estadiodeportivo.com/",
    "order": 4,
-   "desc_en": "Sports daily from Seville — Betis and Sevilla FC"
+   "desc_en": "Seville's Betis and Sevilla FC take centre stage, alongside every LaLiga and Hypermotion club with results and tables, the EuroLeague, motorsport and tennis. The sports daily was founded in Seville in 1995."
   },
   {
    "id": "n17822201831847d4",
@@ -17090,10 +17079,10 @@
    "type": "link",
    "icon": "",
    "name": "El pais deportes",
-   "desc": "Športová sekcia denníka El País",
+   "desc": "Futbal, basketbal, tenis, cyklistika, F1, golf, atletika aj šach, samostatne ženský futbal a basketbal – reportáže a komentáre známych autorov. Denník El País (od 1976) vlastní PRISA.",
    "url": "https://elpais.com/deportes/",
    "order": 5,
-   "desc_en": "El País's sports section"
+   "desc_en": "Football, basketball, tennis, cycling, F1, golf, athletics and chess, with separate women's football and basketball sections – reports and columns by well-known writers. El País (since 1976) is owned by PRISA."
   },
   {
    "id": "n1782220203513tdt",
@@ -17101,10 +17090,10 @@
    "type": "link",
    "icon": "",
    "name": "El mundo deportes",
-   "desc": "Športová sekcia denníka El Mundo",
+   "desc": "Futbal, basketbal, F1, motocykle, tenis, cyklistika, hádzaná, ragby, padel aj olympijské a paralympijské športy – správy a komentáre. Denník El Mundo (od 1989) vydáva Unidad Editorial.",
    "url": "https://www.elmundo.es/deportes.html",
    "order": 6,
-   "desc_en": "El Mundo's sports section"
+   "desc_en": "Football, basketball, F1, motorcycling, tennis, cycling, handball, rugby, padel and Olympic and Paralympic sports – news and commentary. El Mundo (since 1989) is published by Unidad Editorial."
   },
   {
    "id": "n17822202251788te",
@@ -17112,10 +17101,10 @@
    "type": "link",
    "icon": "",
    "name": "ABC deportes",
-   "desc": "Športová sekcia denníka ABC",
+   "desc": "Real Madrid a Atlético v samostatných rubrikách, ďalej futbal, basketbal, tenis, F1, MMA, cyklistika, jachting aj poľovníctvo a kde sledovať zápasy v TV. Madridský denník ABC (od 1903), Vocento.",
    "url": "https://www.abc.es/deportes/",
    "order": 7,
-   "desc_en": "ABC's sports section"
+   "desc_en": "Real Madrid and Atlético in their own sections, plus football, basketball, tennis, F1, MMA, cycling, sailing and hunting, and where to watch matches on TV. Madrid daily ABC (since 1903), part of Vocento."
   },
   {
    "id": "n1782220250307jyx",
@@ -17123,10 +17112,10 @@
    "type": "link",
    "icon": "",
    "name": "La vanguardia",
-   "desc": "Športová sekcia katalánskeho denníka La Vanguardia",
+   "desc": "Futbal s výsledkami, tabuľkami a rozpismi (LaLiga, Liga F, top európske ligy), rubrika Barça, basketbal a NBA, tenis, motoršport, golf či jachting. Barcelonský denník od 1881, Grupo Godó.",
    "url": "https://www.lavanguardia.com/deportes",
    "order": 8,
-   "desc_en": "The Catalan daily La Vanguardia's sports section"
+   "desc_en": "Football with results, tables and fixtures (LaLiga, Liga F, Europe's top leagues), a Barça section, basketball and NBA, tennis, motorsport, golf and sailing. A Barcelona daily since 1881, part of Grupo Godó."
   },
   {
    "id": "n1782220385886zpv",
@@ -17134,10 +17123,10 @@
    "type": "link",
    "icon": "",
    "name": "Superdeporte",
-   "desc": "Športový denník z Valencie — Valencia CF a Levante",
+   "desc": "Valencia CF, Levante a Villarreal vrátane nižších súťaží a mládeže, basketbal Valencia BC, valencijská pelota, hádzaná a online prenosy, čiastočne aj vo valencijčine. Denník z Valencie (od 1993).",
    "url": "https://www.superdeporte.es/",
    "order": 9,
-   "desc_en": "Sports daily from Valencia — Valencia CF and Levante"
+   "desc_en": "Valencia CF, Levante and Villarreal including lower leagues and youth football, Valencia BC basketball, Valencian pilota, handball and live coverage, partly in Valencian too. A Valencia daily (since 1993)."
   },
   {
    "id": "n1782220445840z9r",
@@ -17145,10 +17134,10 @@
    "type": "link",
    "icon": "",
    "name": "La Voz de Galicia",
-   "desc": "Športová sekcia galícijského denníka La Voz de Galicia",
+   "desc": "Galícijský šport: Deportivo La Coruña a Celta Vigo, basketbalové Breogán a Obradoiro, videá a stĺpčeky redaktorov, aj NBA. Denník La Voz de Galicia vychádza v A Coruñi od roku 1882.",
    "url": "https://www.lavozdegalicia.es/deportes/",
    "order": 10,
-   "desc_en": "The Galician daily La Voz de Galicia's sports section"
+   "desc_en": "Galician sport: Deportivo La Coruña and Celta Vigo, basketball's Breogán and Obradoiro, videos and staff columns, plus the NBA. La Voz de Galicia has been published in A Coruña since 1882."
   },
   {
    "id": "n1782220523656uvg",
@@ -17156,10 +17145,10 @@
    "type": "link",
    "icon": "",
    "name": "Deia deportes",
-   "desc": "Šport z Bilbaa a Baskicka — denník Deia",
+   "desc": "Šport z Biskajska: futbal s rubrikou Athletic, Surne Bilbao Basket, cyklistika, baskická pelota a veslovanie. Baskický denník Deia (od 1977) patrí do Grupo Noticias.",
    "url": "https://www.deia.eus/deportes/",
    "order": 11,
-   "desc_en": "Sport from Bilbao and the Basque Country — the daily Deia"
+   "desc_en": "Sport from Biscay: football with an Athletic section, Surne Bilbao Basket, cycling, Basque pelota and rowing. Basque daily Deia (since 1977) is part of Grupo Noticias."
   },
   {
    "id": "n1782220550659m5q",
@@ -17167,10 +17156,10 @@
    "type": "link",
    "icon": "",
    "name": "El Correo deportes",
-   "desc": "Športová sekcia baskického denníka El Correo",
-   "url": "https://www.elcorreo.com/deportes/?ref=https%3A%2F%2Fwww.elcorreo.com%2Fdeportes%2F",
+   "desc": "Athletic Bilbao vrátane ženského tímu a rezervy Bilbao Athletic, k tomu basketbal, cyklistika, pelota, golf, tenis, motoršport a sledovanie zápasov naživo. El Correo z Bilbaa (od 1910), Vocento.",
+   "url": "https://www.elcorreo.com/deportes/",
    "order": 12,
-   "desc_en": "The Basque daily El Correo's sports section"
+   "desc_en": "Athletic Bilbao including the women's team and the Bilbao Athletic reserves, plus basketball, cycling, pelota, golf, tennis, motorsport and live match coverage. El Correo from Bilbao (since 1910), part of Vocento."
   },
   {
    "id": "n1782220746849lwd",
@@ -17178,10 +17167,10 @@
    "type": "link",
    "icon": "",
    "name": "Esport3",
-   "desc": "Katalánsky športový TV kanál platformy 3Cat",
+   "desc": "Katalánsky TV kanál: živé vysielanie, videá a výsledky – Barça, Espanyol, basketbal, hádzaná, hokej na kolieskových korčuliach, futsal či Liga F, po katalánsky. Vysiela od 2011.",
    "url": "https://www.3cat.cat/esport3/",
    "order": 13,
-   "desc_en": "Catalan sports TV channel of the 3Cat platform"
+   "desc_en": "Catalan TV channel: live broadcasts, videos and results – Barça, Espanyol, basketball, handball, roller hockey, futsal and Liga F, in Catalan. On air since 2011."
   },
   {
    "id": "n17822207757733ai",
@@ -17189,10 +17178,10 @@
    "type": "link",
    "icon": "",
    "name": "El periodico deportes",
-   "desc": "Športová sekcia barcelonského El Periódico",
+   "desc": "Barça a Espanyol v samostatných rubrikách, futbal, basketbal, tenis, cyklistika, MotoGP, F1 a sekcia ženského športu. Barcelonský El Periódico (od 1978) patrí od 2019 skupine Prensa Ibérica.",
    "url": "https://www.elperiodico.com/es/deportes/",
    "order": 14,
-   "desc_en": "The Barcelona daily El Periódico's sports section"
+   "desc_en": "Barça and Espanyol in their own sections, football, basketball, tennis, cycling, MotoGP, F1 and a women's sport section. Barcelona's El Periódico (since 1978) has belonged to Prensa Ibérica since 2019."
   },
   {
    "id": "n1782220824150n91",
@@ -17200,10 +17189,10 @@
    "type": "link",
    "icon": "",
    "name": "ARA deportes",
-   "desc": "Športová sekcia katalánskeho denníka ARA",
+   "desc": "Športové správy a komentáre po katalánsky – Barça mužov aj žien, Girona, Espanyol, ženský futbal a basketbal, plus názorové rubriky. Barcelonský denník Ara vychádza od roku 2010.",
    "url": "https://www.ara.cat/esports/",
    "order": 15,
-   "desc_en": "The Catalan daily ARA's sports section"
+   "desc_en": "Sports news and commentary in Catalan – Barça's men's and women's teams, Girona, Espanyol, women's football and basketball, plus opinion columns. Barcelona daily Ara has been published since 2010."
   },
   {
    "id": "n1782220859182p12",
@@ -17211,10 +17200,10 @@
    "type": "link",
    "icon": "",
    "name": "La Razon deportes",
-   "desc": "Športová sekcia madridského denníka La Razón",
+   "desc": "Futbal (Real Madrid, Atlético, Barça, Liga majstrov), basketbal a Euroliga, tenis, F1, Grand Toury v cyklistike, motocykle aj e-športy. Madridský denník La Razón (od 1998), Grupo Planeta.",
    "url": "https://www.larazon.es/deportes/",
    "order": 16,
-   "desc_en": "The Madrid daily La Razón's sports section"
+   "desc_en": "Football (Real Madrid, Atlético, Barça, Champions League), basketball and the EuroLeague, tennis, F1, cycling's Grand Tours, motorcycling and esports. Madrid daily La Razón (since 1998), part of Grupo Planeta."
   },
   {
    "id": "n1782220963022npk",
@@ -17222,10 +17211,10 @@
    "type": "link",
    "icon": "",
    "name": "El Desmarque",
-   "desc": "Španielsky futbalový web — správy a prestupy",
+   "desc": "Správy klubov ako Betis, Celta, Valencia či Alavés, futbal minúta po minúte, NFL, F1, MotoGP, padel, videá z relácie El Chiringuito aj videohry. Web od 2006, od 2019 patrí Mediaset España.",
    "url": "https://www.eldesmarque.com/",
    "order": 17,
-   "desc_en": "Spanish football website — news and transfers"
+   "desc_en": "News on clubs such as Betis, Celta, Valencia and Alavés, minute-by-minute football, NFL, F1, MotoGP, padel, clips from El Chiringuito and video games. Online since 2006, owned by Mediaset España since 2019."
   },
   {
    "id": "n1782221394289yr5",
@@ -17233,21 +17222,21 @@
    "type": "link",
    "icon": "",
    "name": "Kicker",
-   "desc": "Legendárny nemecký futbalový magazín — Bundesliga",
+   "desc": "Futbal od Bundesligy po Regionalligu a amatérov, ženský futbal, livescore, prestupový ticker, videá, podcasty a manažérska hra; aj hádzaná a hokej. Magazín od roku 1920.",
    "url": "https://www.kicker.de/",
    "order": 0,
-   "desc_en": "Legendary German football magazine — Bundesliga"
+   "desc_en": "Football from the Bundesliga down to the Regionalliga and amateurs, women's football, live scores, a transfer ticker, videos, podcasts and a manager game; plus handball and ice hockey. Magazine since 1920."
   },
   {
    "id": "n178222140897750b",
    "parentId": "f_med_eu_de",
    "type": "link",
    "icon": "",
-   "name": "Sporrt1",
-   "desc": "Nemecká športová televízia — správy a prenosy",
+   "name": "SPORT1",
+   "desc": "Bundesliga, DFB-Pokal a zahraničné ligy, k tomu šípky, motoršport, hokej, NBA a NFL — videá zostrihov, rozpisy, tabuľky a podcasty. SPORT1 vysiela od roku 1993 (pôvodne DSF).",
    "url": "https://www.sport1.de/",
    "order": 1,
-   "desc_en": "German sports TV channel — news and broadcasts"
+   "desc_en": "Bundesliga, DFB-Pokal and foreign leagues, plus darts, motorsport, ice hockey, the NBA and NFL — highlight videos, fixtures, tables and podcasts. SPORT1 has been on air since 1993 (originally DSF)."
   },
   {
    "id": "n178222142446977c",
@@ -17255,10 +17244,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport bild",
-   "desc": "Najväčší európsky športový týždenník (vydavateľstvo Bild)",
+   "desc": "Bundesliga s rubrikami klubov 1. a 2. ligy, ženský futbal, tabuľky a výsledky, videá a TV program; aj hádzaná, hokej či F1. Týždenník Axel Springer vychádza od roku 1988.",
    "url": "https://sportbild.bild.de/",
    "order": 2,
-   "desc_en": "The biggest sports weekly in Europe (published by Bild)"
+   "desc_en": "The Bundesliga with sections for every 1st and 2nd division club, women's football, tables and results, videos and a TV guide; also handball, ice hockey and F1. Axel Springer weekly published since 1988."
   },
   {
    "id": "n1782221448079gqk",
@@ -17266,10 +17255,10 @@
    "type": "link",
    "icon": "",
    "name": "SPOX",
-   "desc": "Nemecký športový web — futbal, NBA aj NFL",
+   "desc": "Živé výsledky a tickery, tabuľky a zápasové štatistiky, videá; popri futbale aj NBA, NFL, NHL, UFC, tenis, šípky či F1. Online od roku 2007, patrí do skupiny DAZN.",
    "url": "https://www.spox.com/",
    "order": 3,
-   "desc_en": "German sports website — football, NBA and NFL"
+   "desc_en": "Live scores and tickers, tables and match stats, videos; alongside football also the NBA, NFL, NHL, UFC, tennis, darts and F1. Online since 2007, part of the DAZN group."
   },
   {
    "id": "n17822214636537lj",
@@ -17277,10 +17266,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport.de",
-   "desc": "Nemecký športový portál — výsledky a správy",
+   "desc": "Živé výsledky, tabuľky a správy, najmä z Bundesligy a 2. Bundesligy. Portál spustila RTL v roku 2003, dnes ho prevádzkuje RTL Interactive s HEIM:SPIEL Medien.",
    "url": "https://www.sport.de/",
    "order": 4,
-   "desc_en": "German sports portal — results and news"
+   "desc_en": "Live scores, tables and news, mainly from the Bundesliga and 2. Bundesliga. Launched by RTL in 2003, now run by RTL Interactive with HEIM:SPIEL Medien."
   },
   {
    "id": "n1782221497232r80",
@@ -17288,10 +17277,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportschau ARD",
-   "desc": "Športová redakcia verejnoprávnej televízie ARD",
+   "desc": "Livestreamy, rozhlasové prenosy a live ticker — futbal, hádzaná, basketbal, hokej, zimné športy, F1 aj regionálny šport; k tomu videá a podcasty. Relácia ARD od roku 1961.",
    "url": "https://www.sportschau.de/",
    "order": 5,
-   "desc_en": "The sports desk of the public broadcaster ARD"
+   "desc_en": "Live streams, radio commentary and a live ticker — football, handball, basketball, ice hockey, winter sports, F1 and regional sport; plus videos and podcasts. ARD programme since 1961."
   },
   {
    "id": "n1782221588142zut",
@@ -17299,10 +17288,10 @@
    "type": "link",
    "icon": "",
    "name": "ZDF heute sport",
-   "desc": "Športové spravodajstvo televízie ZDF",
+   "desc": "Hlavne videá — zostrihy, rozhovory a dokumenty — plus livestreamy a live ticker z Bundesligy, DFB-Pokalu a Ligy majstrov. Šport ZDF (das aktuelle sportstudio od 1963).",
    "url": "https://www.zdfheute.de/sport",
    "order": 6,
-   "desc_en": "Sports coverage from the ZDF television network"
+   "desc_en": "Mostly video — highlights, interviews and documentaries — plus live streams and a live ticker from the Bundesliga, DFB-Pokal and Champions League. ZDF sport (das aktuelle sportstudio since 1963)."
   },
   {
    "id": "n17822216204806m7",
@@ -17310,10 +17299,10 @@
    "type": "link",
    "icon": "",
    "name": "Bild",
-   "desc": "Športová sekcia najčítanejšieho nemeckého denníka Bild",
+   "desc": "Futbal z Bundesligy a 2. ligy, športový liveticker a správy o prestupoch, časť článkov v platenom BILDplus. Športová rubrika bulvárneho denníka Bild (od 1952).",
    "url": "https://www.bild.de/sport/startseite/sport/sport-home-15479124.bild.html",
    "order": 7,
-   "desc_en": "The sports section of Germany's most-read daily, Bild"
+   "desc_en": "Bundesliga and 2. Bundesliga football, a sports live ticker and transfer news, with some articles behind the BILDplus paywall. Sports section of the Bild tabloid (since 1952)."
   },
   {
    "id": "n1782221655616wf4",
@@ -17321,10 +17310,10 @@
    "type": "link",
    "icon": "",
    "name": "Sueddeutsche Zeitung",
-   "desc": "Športová sekcia mníchovského denníka Süddeutsche Zeitung",
+   "desc": "Bundesliga, FC Bayern a TSV 1860, ženský futbal aj vyše 20 ďalších športov — analýzy, reportáže a športový podcast. Mníchovský denník vychádza od roku 1945.",
    "url": "https://www.sueddeutsche.de/sport",
    "order": 8,
-   "desc_en": "The Munich daily Süddeutsche Zeitung's sports section"
+   "desc_en": "The Bundesliga, FC Bayern and TSV 1860, women's football and over 20 other sports — analysis, features and a sports podcast. Munich daily published since 1945."
   },
   {
    "id": "n1782221674599qgk",
@@ -17332,10 +17321,10 @@
    "type": "link",
    "icon": "",
    "name": "Die Welt",
-   "desc": "Športová sekcia denníka Die Welt",
+   "desc": "Futbal vrátane Bundesligy a DFB-Pokalu, priebežný ticker športových správ a komentáre čitateľov, časť článkov v predplatnom WELTplus. Denník Die Welt vychádza od roku 1946, patrí Axel Springer.",
    "url": "https://www.welt.de/sport/",
    "order": 9,
-   "desc_en": "Die Welt's sports section"
+   "desc_en": "Football including the Bundesliga and DFB-Pokal, a running sports news ticker and reader comments, with some articles in the WELTplus subscription. Die Welt has been published since 1946 and belongs to Axel Springer."
   },
   {
    "id": "n1782221761073b2a",
@@ -17343,10 +17332,10 @@
    "type": "link",
    "icon": "",
    "name": "Skysport.de",
-   "desc": "Nemecká odnož Sky Sports — Bundesliga a prenosy",
+   "desc": "Futbal, F1, MotoGP, tenis, golf aj NFL, NBA a NHL — live tickery, výsledky a tabuľky, prestupové správy, videotéka a podcasty. Web platenej TV Sky Deutschland (od 2009).",
    "url": "https://sport.sky.de/",
    "order": 10,
-   "desc_en": "The German branch of Sky Sports — Bundesliga and live broadcasts"
+   "desc_en": "Football, F1, MotoGP, tennis, golf plus the NFL, NBA and NHL — live tickers, results and tables, transfer news, a video library and podcasts. Website of pay-TV Sky Deutschland (since 2009)."
   },
   {
    "id": "n1782221792945s4j",
@@ -17354,10 +17343,10 @@
    "type": "link",
    "icon": "",
    "name": "t-online.de",
-   "desc": "Športová sekcia portálu t-online",
+   "desc": "Bundesliga, 2. a 3. liga, ženský futbal, zimné športy aj F1 — liveticker, výsledky a tabuľky, prestupy a stĺpčeky bývalých futbalistov. Portál od 1995, dnes Ströer.",
    "url": "https://www.t-online.de/sport/",
    "order": 11,
-   "desc_en": "The t-online portal's sports section"
+   "desc_en": "The Bundesliga, 2nd and 3rd divisions, women's football, winter sports and F1 — live ticker, results and tables, transfers and columns by former players. Portal since 1995, now owned by Ströer."
   },
   {
    "id": "n1782221814811gky",
@@ -17365,10 +17354,10 @@
    "type": "link",
    "icon": "",
    "name": "Focus.de",
-   "desc": "Športové správy magazínu Focus",
+   "desc": "Futbal od Bundesligy po Premier League a Ligu majstrov, F1, tenis, hádzaná, hokej, basketbal, atletika, cyklistika, NFL aj šípky. Magazín Focus vychádza od roku 1993 (Hubert Burda Media).",
    "url": "https://www.focus.de/sport/",
    "order": 12,
-   "desc_en": "Sports news from the magazine Focus"
+   "desc_en": "Football from the Bundesliga to the Premier League and Champions League, F1, tennis, handball, ice hockey, basketball, athletics, cycling, the NFL and darts. Focus magazine has been published since 1993 (Hubert Burda Media)."
   },
   {
    "id": "n1782221840783f2b",
@@ -17376,10 +17365,10 @@
    "type": "link",
    "icon": "",
    "name": "N-TV",
-   "desc": "Športové spravodajstvo televízie n-tv",
+   "desc": "Futbal, NFL, motoršport, tenis, cyklistika, MMA, basketbal, hádzaná, hokej či šípky – s prestupovým tickerom, športovým kalendárom, videami a podcastom. n-tv vysiela od roku 1992, patrí RTL.",
    "url": "https://www.n-tv.de/sport/",
    "order": 13,
-   "desc_en": "Sports coverage from the n-tv television network"
+   "desc_en": "Football, the NFL, motorsport, tennis, cycling, MMA, basketball, handball, ice hockey and darts – with a transfer ticker, sports calendar, videos and a podcast. n-tv has been on air since 1992 and belongs to RTL."
   },
   {
    "id": "n17822218602642f4",
@@ -17387,10 +17376,10 @@
    "type": "link",
    "icon": "",
    "name": "Spiegel",
-   "desc": "Športová sekcia magazínu Der Spiegel",
+   "desc": "Futbal, tenis a F1 s liveticker-mi, výsledkami a tabuľkami, k tomu reportáže a rozhovory, časť obsahu v predplatnom SPIEGEL+. Týždenník Der Spiegel vychádza od roku 1947.",
    "url": "https://www.spiegel.de/sport/",
    "order": 14,
-   "desc_en": "Der Spiegel magazine's sports section"
+   "desc_en": "Football, tennis and F1 with live tickers, results and tables, plus features and interviews, with some content in the SPIEGEL+ subscription. Der Spiegel has been published since 1947."
   },
   {
    "id": "n1782221897176bzy",
@@ -17398,10 +17387,10 @@
    "type": "link",
    "icon": "",
    "name": "11freunde",
-   "desc": "Kultový nemecký futbalový magazín o fanúšikovskej kultúre",
+   "desc": "Futbal od Bundesligy po 3. ligu a amatérov, reprezentácia, liveticker-y, fanúšikovská kultúra a archív čísel magazínu. Mesačník 11 FREUNDE vznikol v roku 2000 v Berlíne.",
    "url": "https://www.11freunde.de/",
    "order": 15,
-   "desc_en": "Cult German football magazine about fan culture"
+   "desc_en": "Football from the Bundesliga to the 3. Liga and amateur level, the national team, live tickers, fan culture and an archive of past magazine issues. 11 FREUNDE monthly was founded in Berlin in 2000."
   },
   {
    "id": "n1782221957033haf",
@@ -17409,21 +17398,21 @@
    "type": "link",
    "icon": "",
    "name": "TZ.de",
-   "desc": "Šport z Mníchova — Bayern a TSV 1860",
+   "desc": "Mníchovský šport s vlastnými rubrikami FC Bayern a TSV 1860 München, k tomu ďalší šport a správy z Bavorska. Bulvárny denník tz vychádza od roku 1968 (Ippen Media).",
    "url": "https://www.tz.de/sport/",
    "order": 16,
-   "desc_en": "Sport from Munich — Bayern and TSV 1860"
+   "desc_en": "Munich sport with dedicated sections for FC Bayern and TSV 1860 München, plus other sport and news from Bavaria. The tabloid tz has been published since 1968 (Ippen Media)."
   },
   {
    "id": "n1782222143625ugy",
    "parentId": "f_med_eu_fr",
    "type": "link",
    "icon": "",
-   "name": "LEquipe",
-   "desc": "Najznámejší francúzsky športový denník",
+   "name": "L'Équipe",
+   "desc": "Futbal, ragby, tenis, cyklistika, basketbal aj NBA, motoršport, hádzaná, zimné športy, atletika, bojové športy či e-šport, s priamymi prenosmi, TV programom a Zlatou loptou. Vychádza od roku 1946.",
    "url": "https://www.lequipe.fr/",
    "order": 0,
-   "desc_en": "The most famous French sports daily"
+   "desc_en": "Football, rugby, tennis, cycling, basketball and the NBA, motorsport, handball, winter sports, athletics, combat sports and esports, with live coverage, a TV guide and the Ballon d'Or. Published since 1946."
   },
   {
    "id": "n1782222176549y96",
@@ -17431,10 +17420,10 @@
    "type": "link",
    "icon": "",
    "name": "RMC sport",
-   "desc": "Športová stanica RMC — futbal a prenosy",
+   "desc": "Futbal od Ligue 1 po Premier League, LaLigu a ženský futbal, prestupy, tenis, cyklistika, NBA, ragby, bojové športy aj F1, s výsledkami, videami, rádiom RMC a podcastmi. Športová značka rádia RMC.",
    "url": "https://rmcsport.bfmtv.com/",
    "order": 1,
-   "desc_en": "The sports radio station RMC — football and live broadcasts"
+   "desc_en": "Football from Ligue 1 to the Premier League, LaLiga and women's football, transfers, tennis, cycling, the NBA, rugby, combat sports and F1, with scores, videos, RMC radio and podcasts. The sports brand of RMC radio."
   },
   {
    "id": "n1782222197140eq2",
@@ -17442,10 +17431,10 @@
    "type": "link",
    "icon": "",
    "name": "Foot Mercato",
-   "desc": "Francúzsky web o prestupoch a futbale",
+   "desc": "Prestupy a mercato, živé výsledky, tabuľky, štatistiky strelcov a hráčov, videá a TV program — Ligue 1 aj európske ligy. Funguje od roku 2004, vydáva Adversport.",
    "url": "https://www.footmercato.net/",
    "order": 2,
-   "desc_en": "French website about transfers and football"
+   "desc_en": "Transfers and mercato, live scores, tables, scorer and player stats, videos and a TV guide — Ligue 1 and Europe's leagues. Running since 2004, published by Adversport."
   },
   {
    "id": "n1782222237535sdn",
@@ -17453,10 +17442,10 @@
    "type": "link",
    "icon": "",
    "name": "Eurosport France",
-   "desc": "Francúzska verzia Eurosportu",
+   "desc": "Živé výsledky, kalendáre a tabuľky vyše 30 športov — futbal, tenis, cyklistika, zimné športy, ragby či snooker — a videá. Eurosport vysiela od 1989 (Warner Bros. Discovery).",
    "url": "https://www.eurosport.fr/",
    "order": 3,
-   "desc_en": "The French version of Eurosport"
+   "desc_en": "Live scores, calendars and standings for over 30 sports — football, tennis, cycling, winter sports, rugby and snooker — plus videos. Eurosport on air since 1989 (Warner Bros. Discovery)."
   },
   {
    "id": "n1782222277128x05",
@@ -17464,10 +17453,10 @@
    "type": "link",
    "icon": "",
    "name": "BeIN sports France",
-   "desc": "Francúzska športová televízia beIN Sports",
+   "desc": "Futbal z Francúzska aj zahraničia, NBA, NFL, ragby a tenis — videá, shorts, replaye, výsledky, TV program a podcasty. beIN SPORTS France vysiela od júna 2012.",
    "url": "https://www.beinsports.com/fr-fr",
    "order": 4,
-   "desc_en": "The French sports TV channel beIN Sports"
+   "desc_en": "French and international football, the NBA, NFL, rugby and tennis — videos, shorts, replays, results, a TV guide and podcasts. beIN SPORTS France on air since June 2012."
   },
   {
    "id": "n1782222305271rdp",
@@ -17475,10 +17464,10 @@
    "type": "link",
    "icon": "",
    "name": "Le Figaro sports",
-   "desc": "Športová sekcia denníka Le Figaro",
+   "desc": "Futbal s výsledkami a tabuľkami francúzskych aj zahraničných líg, prestupmi a reprezentáciou, k tomu ďalšie športy. Le Figaro vznikol v Paríži v roku 1826.",
    "url": "https://www.lefigaro.fr/sports",
    "order": 5,
-   "desc_en": "Le Figaro's sports section"
+   "desc_en": "Football with results and tables from French and foreign leagues, transfers and the national team, plus other sports. Le Figaro was founded in Paris in 1826."
   },
   {
    "id": "n1782222328290sfn",
@@ -17486,10 +17475,10 @@
    "type": "link",
    "icon": "",
    "name": "Le Monde sports",
-   "desc": "Športová sekcia denníka Le Monde",
+   "desc": "Futbal, ragby, tenis, cyklistika, bojové športy, F1 a olympijské hry – analýzy, portréty, reportáže aj priame prenosy. Denník Le Monde vychádza od roku 1944.",
    "url": "https://www.lemonde.fr/sport/",
    "order": 6,
-   "desc_en": "Le Monde's sports section"
+   "desc_en": "Football, rugby, tennis, cycling, combat sports, F1 and the Olympics – analysis, profiles, long reads and live coverage. Le Monde has been published since 1944."
   },
   {
    "id": "n1782222354138dww",
@@ -17497,10 +17486,10 @@
    "type": "link",
    "icon": "",
    "name": "Le Parisien sports",
-   "desc": "Šport v denníku Le Parisien — PSG a Paríž",
+   "desc": "Futbal s vlastnou rubrikou PSG (aj ženského), Ligue 1 a Liga majstrov, cyklistika, ragby, basketbal, F1, tenis, hádzaná, MMA a beh. Le Parisien vychádza od roku 1944.",
    "url": "https://www.leparisien.fr/sports/",
    "order": 7,
-   "desc_en": "Sport in the daily Le Parisien — PSG and Paris"
+   "desc_en": "Football with dedicated PSG coverage (including the women's team), Ligue 1 and the Champions League, cycling, rugby, basketball, F1, tennis, handball, MMA and running. Le Parisien has been published since 1944."
   },
   {
    "id": "n1782222377936r7z",
@@ -17508,10 +17497,10 @@
    "type": "link",
    "icon": "",
    "name": "Liberation sports",
-   "desc": "Športová sekcia denníka Libération",
+   "desc": "Futbal, cyklistika, tenis, ragby a motoršport z pohľadu publicistiky – analýzy, ankety, prehľad tlače a kauzy okolo športu. Denník Libération vznikol v roku 1973.",
    "url": "https://www.liberation.fr/sports/",
    "order": 8,
-   "desc_en": "Libération's sports section"
+   "desc_en": "Football, cycling, tennis, rugby and motorsport from a journalistic angle – analysis, investigations, press reviews and controversies around sport. Libération was founded in 1973."
   },
   {
    "id": "n1782222407138hx5",
@@ -17519,10 +17508,10 @@
    "type": "link",
    "icon": "",
    "name": "La Provence sports",
-   "desc": "Šport z Marseille a Provensálska — Olympique Marseille",
+   "desc": "Olympique Marseille s vlastnou rubrikou, regionálny šport, ragby Provence Rugby, turnaj Open 13, hokej Spartiates, dostihy aj pétanque, s výsledkami a tabuľkami. Denník La Provence vznikol v roku 1997.",
    "url": "https://www.laprovence.com/sports",
    "order": 9,
-   "desc_en": "Sport from Marseille and Provence — Olympique Marseille"
+   "desc_en": "Olympique de Marseille with its own section, regional sport, Provence Rugby, the Open 13 tournament, the Spartiates ice hockey team, horse racing and pétanque, with results and tables. La Provence was founded in 1997."
   },
   {
    "id": "n1782222432252zf9",
@@ -17530,10 +17519,10 @@
    "type": "link",
    "icon": "",
    "name": "Le Telegramme sports",
-   "desc": "Šport z Bretónska — denník Le Télégramme",
+   "desc": "Bretónsky šport: kluby Stade Brestois, Guingamp, Lorient a ragby Vannes, k tomu cyklistika, jachting (Route du Rhum), hádzaná, beh a tabuľky. Regionálny denník Le Télégramme vychádza od roku 1944.",
    "url": "https://www.letelegramme.fr/sports/",
    "order": 10,
-   "desc_en": "Sport from Brittany — the daily Le Télégramme"
+   "desc_en": "Brittany's sport: Stade Brestois, Guingamp, Lorient and RC Vannes rugby, plus cycling, sailing (Route du Rhum), handball, running and tables. The regional daily Le Télégramme has been published since 1944."
   },
   {
    "id": "n1782222462822bhd",
@@ -17541,10 +17530,10 @@
    "type": "link",
    "icon": "",
    "name": "Sud Ouest sports",
-   "desc": "Šport z juhozápadu Francúzska — Bordeaux",
+   "desc": "Šport juhozápadu Francúzska: Girondins de Bordeaux, ragby Top 14 a Pro D2 (La Rochelle, Bordeaux-Bègles), basketbal, surf, cyklistika a správy z regiónov s výsledkami. Denník Sud Ouest vychádza od roku 1944.",
    "url": "https://www.sudouest.fr/sport/",
    "order": 11,
-   "desc_en": "Sport from southwest France — Bordeaux"
+   "desc_en": "Sport from south-west France: Girondins de Bordeaux, Top 14 and Pro D2 rugby (La Rochelle, Bordeaux-Bègles), basketball, surfing, cycling and local news with results. Sud Ouest has been published since 1944."
   },
   {
    "id": "n17822225837114ic",
@@ -17552,10 +17541,10 @@
    "type": "link",
    "icon": "",
    "name": "La Croix sports",
-   "desc": "Športová sekcia denníka La Croix",
+   "desc": "Šport cez príbehy a súvislosti: futbal a Zlatá lopta, Tour de France mužov aj žien, jachting Route du Rhum, tenis či peniaze okolo veľkých podujatí. Katolícky denník La Croix vychádza od roku 1880.",
    "url": "https://www.la-croix.com/sport",
    "order": 12,
-   "desc_en": "La Croix's sports section"
+   "desc_en": "Sport through stories and context: football and the Ballon d'Or, the men's and women's Tour de France, the Route du Rhum sailing race, tennis and the money behind major events. The Catholic daily La Croix has been published since 1880."
   },
   {
    "id": "n1782222609729etm",
@@ -17563,10 +17552,10 @@
    "type": "link",
    "icon": "",
    "name": "20minutes sports",
-   "desc": "Športové správy bezplatného denníka 20 Minutes",
+   "desc": "Futbal (Ligue 1, Liga majstrov, prestupy), ragby Top 14, tenis, cyklistika, F1, hádzaná, biatlon, basketbal aj e-šport, s livescore, výsledkami a tabuľkami. Od júla 2024 len online.",
    "url": "https://www.20minutes.fr/sport/",
    "order": 13,
-   "desc_en": "Sports news from the free daily 20 Minutes"
+   "desc_en": "Football (Ligue 1, Champions League, transfers), Top 14 rugby, tennis, cycling, F1, handball, biathlon, basketball and esports, with live scores, results and tables. Online-only since July 2024."
   },
   {
    "id": "n1782222647712bsu",
@@ -17574,10 +17563,10 @@
    "type": "link",
    "icon": "",
    "name": "Franceinfo sports",
-   "desc": "Športové spravodajstvo verejnoprávneho Franceinfo",
+   "desc": "Priame prenosy a výsledky s tabuľkami futbalových líg, ragby Top 14 a Pohára šiestich národov, tenisových grandslamov, F1, motocyklov aj rely. Verejnoprávna spravodajská služba Franceinfo od roku 2016.",
    "url": "https://www.franceinfo.fr/sports/",
    "order": 14,
-   "desc_en": "Sports coverage from the public broadcaster Franceinfo"
+   "desc_en": "Live coverage plus results and tables for football leagues, Top 14 and Six Nations rugby, tennis Grand Slams, F1, MotoGP and rallying. Franceinfo has been France's public news service since 2016."
   },
   {
    "id": "n1782222666233092",
@@ -17585,10 +17574,10 @@
    "type": "link",
    "icon": "",
    "name": "TF1 sports",
-   "desc": "Športové správy televízie TF1",
+   "desc": "Aktuálne športové správy z futbalu, ragby, motoršportu a ďalších športov, vrátane kauz okolo športovcov. Spravodajský web televízie TF1, ktorá je súkromná od roku 1987.",
    "url": "https://www.tf1info.fr/sport/",
    "order": 15,
-   "desc_en": "Sports news from the TV channel TF1"
+   "desc_en": "Current sports news from football, rugby, motorsport and other sports, including stories around athletes. The news website of TF1, a private broadcaster since 1987."
   },
   {
    "id": "n1782222693252m87",
@@ -17596,10 +17585,10 @@
    "type": "link",
    "icon": "",
    "name": "Canalplus sport",
-   "desc": "Športová sekcia Canal+ — Ligue 1 a prenosy",
+   "desc": "Program športových prenosov a relácií (futbal, ragby, golf, motoršport), magazíny Canal Football Club a Canal Rugby Club, priame prenosy aj záznamy pre predplatiteľov. Canal+ vysiela od roku 1984.",
    "url": "https://www.canalplus.com/sport/",
    "order": 16,
-   "desc_en": "Canal+'s sports section — Ligue 1 and live broadcasts"
+   "desc_en": "A schedule of live sport and shows (football, rugby, golf, motorsport), the Canal Football Club and Canal Rugby Club magazines, live and replay for subscribers. Canal+ has been on air since 1984."
   },
   {
    "id": "n1782222715066qie",
@@ -17607,10 +17596,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport en France",
-   "desc": "Kanál o amatérskom a olympijskom športe vo Francúzsku",
+   "desc": "Živé vysielanie a repríza, TV program, relácie, reportáže a portréty — basketbal, hokej, volejbal, plávanie, judo či parašport. Kanál olympijského výboru CNOSF (od 2019).",
    "url": "https://sportenfrance.com/",
    "order": 17,
-   "desc_en": "Channel about amateur and Olympic sport in France"
+   "desc_en": "Live TV and replays, a TV guide, shows, features and athlete portraits — basketball, ice hockey, volleyball, swimming, judo and para sport. Channel of the French Olympic Committee CNOSF (since 2019)."
   },
   {
    "id": "n1782222734683c2i",
@@ -17618,10 +17607,10 @@
    "type": "link",
    "icon": "",
    "name": "France football",
-   "desc": "Legendárny futbalový magazín — udeľuje Zlatú loptu",
+   "desc": "Futbalové príbehy, reportáže a rozhovory, zápasy v priamom prenose, digitálne vydanie magazínu a všetko okolo Zlatej lopty, ktorú France Football vytvoril. Vychádza od roku 1946.",
    "url": "https://www.francefootball.fr/",
    "order": 18,
-   "desc_en": "Legendary football magazine — awards the Ballon d'Or"
+   "desc_en": "Football stories, features and interviews, live matches, the digital magazine and everything around the Ballon d'Or, which France Football created. Published since 1946."
   },
   {
    "id": "n1782222762708cu7",
@@ -17629,10 +17618,10 @@
    "type": "link",
    "icon": "",
    "name": "Le 10sport",
-   "desc": "Francúzsky športový web — prestupy a exkluzívne správy",
+   "desc": "Futbalový mercato a exkluzívne správy, k tomu F1, ragby, NBA, bojové športy, tenis a cyklistika. Bývalý tlačený denník, od roku 2022 web skupiny Webedia.",
    "url": "https://le10sport.com/",
    "order": 19,
-   "desc_en": "French sports website — transfers and exclusive news"
+   "desc_en": "Football transfer news and exclusives, plus F1, rugby, the NBA, combat sports, tennis and cycling. A former print daily, now a Webedia website since 2022."
   },
   {
    "id": "n17822440076793up",
@@ -17640,10 +17629,10 @@
    "type": "link",
    "icon": "",
    "name": "Panorama sport",
-   "desc": "Športová príloha albánskeho denníka Panorama",
+   "desc": "Rubriky o albánskej Kategoria Superiore aj nižších ligách, reprezentácii, Kosove a regióne, svetovom futbale a prestupoch, s fotkami a multimédiami. Šport albánskeho denníka Panorama (Tirana, od 2002).",
    "url": "https://www.panorama.com.al/sport/",
    "order": 0,
-   "desc_en": "Sports supplement of the Albanian daily Panorama"
+   "desc_en": "Sections on Albania's Kategoria Superiore and lower leagues, the national team, Kosovo and the region, world football and transfers, with photos and multimedia. Sport from the Albanian daily Panorama (Tirana, since 2002)."
   },
   {
    "id": "n1782244028649bfo",
@@ -17651,10 +17640,10 @@
    "type": "link",
    "icon": "",
    "name": "Telesport",
-   "desc": "Albánsky športový portál — futbal a Superliga",
+   "desc": "Albánsky futbal od Kategoria Superiore po reprezentáciu, top európske ligy a poháre, k tomu F1, MotoGP, basketbal, tenis, box či MMA a video sekcia. Web sa predstavuje heslom „Shtëpia e sportit“ (Dom športu).",
    "url": "https://telesport.al/",
    "order": 1,
-   "desc_en": "Albanian sports portal — football and the Superliga"
+   "desc_en": "Albanian football from the Kategoria Superiore to the national team, top European leagues and cups, plus F1, MotoGP, basketball, tennis, boxing and MMA, and a video section. The site calls itself “Shtëpia e sportit” (Home of Sport)."
   },
   {
    "id": "n17822440585618r8",
@@ -17662,10 +17651,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport ekspres",
-   "desc": "Albánsky športový web — domáci a svetový futbal",
+   "desc": "Albánske súťaže vrátane pohára a Kosova, reprezentácia a legionári, veľké európske ligy a ďalšie športy – so samostatnými rubrikami analýz, úvodníkov a názorov. Albánsky športový denník z Tirany (od 1995).",
    "url": "https://sportekspres.com/",
    "order": 2,
-   "desc_en": "Albanian sports website — domestic and world football"
+   "desc_en": "Albanian competitions including the cup and Kosovo, the national team and players abroad, major European leagues and other sports – with separate analysis, editorial and opinion sections. Albanian sports daily from Tirana (since 1995)."
   },
   {
    "id": "n1782244096141od4",
@@ -17673,10 +17662,10 @@
    "type": "link",
    "icon": "",
    "name": "Newsport",
-   "desc": "Albánske športové správy online",
+   "desc": "Albánsky futbal od Superiore po reprezentáciu, správy z Kosova a Severného Macedónska, legionári a zahraničné ligy, aj rozhovory a videá. Online športová agentúra, ktorú podľa pätičky webu tvorí MediaDesk.al.",
    "url": "https://newsport.al/",
    "order": 3,
-   "desc_en": "Albanian sports news online"
+   "desc_en": "Albanian football from the Superiore to the national team, news from Kosovo and North Macedonia, players abroad and foreign leagues, plus interviews and videos. An online sports agency produced, according to the site footer, by MediaDesk.al."
   },
   {
    "id": "n1782244184717ycu",
@@ -17684,10 +17673,10 @@
    "type": "link",
    "icon": "",
    "name": "Balkanweb",
-   "desc": "Športová sekcia spravodajského portálu Balkanweb",
+   "desc": "Krátke správy zo svetového a albánskeho športu, rozdelené na rubriky Bota (svet) a Shqipëri (Albánsko). Športová sekcia spravodajského portálu Balkanweb (Focus Media News).",
    "url": "https://www.balkanweb.com/sport/#gsc.tab=0",
    "order": 4,
-   "desc_en": "The news portal Balkanweb's sports section"
+   "desc_en": "Short news from world and Albanian sport, split into the Bota (World) and Shqipëri (Albania) sections. The sports section of the Balkanweb news portal (Focus Media News)."
   },
   {
    "id": "n1782244218114h45",
@@ -17695,10 +17684,10 @@
    "type": "link",
    "icon": "",
    "name": "Gazeta shqiptare",
-   "desc": "Športová rubrika denníka Gazeta Shqiptare",
+   "desc": "Výhradne futbal – albánska a kosovská reprezentácia, Liga národov a zahraničné ligy, s videoreportážami a plným znením vyhlásení trénerov a hráčov. Šport denníka Gazeta Shqiptare (od 1993).",
    "url": "https://gazetashqiptare.al/category/sport/",
    "order": 5,
-   "desc_en": "Sports column of the daily Gazeta Shqiptare"
+   "desc_en": "Football only – the Albanian and Kosovo national teams, the Nations League and foreign leagues, with video reports and full statements from coaches and players. Sport from the daily Gazeta Shqiptare (since 1993)."
   },
   {
    "id": "n1782244249956qez",
@@ -17706,10 +17695,10 @@
    "type": "link",
    "icon": "",
    "name": "Top channel sport",
-   "desc": "Šport najsledovanejšej albánskej televízie Top Channel",
+   "desc": "Albánska reprezentácia, Kategoria Superiore aj prvá liga, Premier League, LaLiga a Serie A, rubrika viacerých športov a krátke videá. Šport súkromnej televízie Top Channel, ktorá vysiela od decembra 2001.",
    "url": "https://top-channel.tv/sport/",
    "order": 6,
-   "desc_en": "Sport from Albania's most watched TV channel, Top Channel"
+   "desc_en": "The Albanian national team, Kategoria Superiore and the First Division, the Premier League, LaLiga and Serie A, a multi-sport section and short videos. Sport from the private broadcaster Top Channel, on air since December 2001."
   },
   {
    "id": "n1782244290388y5b",
@@ -17717,10 +17706,10 @@
    "type": "link",
    "icon": "",
    "name": "RTSH sport",
-   "desc": "Šport albánskej verejnoprávnej televízie RTSH",
+   "desc": "Futbalové spravodajstvo – Abissnet Superiore a prvá liga, domáci futbal, samostatná rubrika o talianskom futbale aj svetové súťaže. Šport albánskeho verejnoprávneho RTSH (televízia od 1960).",
    "url": "https://rtsh.al/kategoria/sport/",
    "order": 7,
-   "desc_en": "Sport from the Albanian public broadcaster RTSH"
+   "desc_en": "Football news – the Abissnet Superiore and the First Division, domestic football, a dedicated Italian football section and world competitions. Sport from Albanian public broadcaster RTSH (television since 1960)."
   },
   {
    "id": "n178224434197069f",
@@ -17728,10 +17717,10 @@
    "type": "link",
    "icon": "",
    "name": "Shqip sport",
-   "desc": "Športová rubrika portálu Shqip",
+   "desc": "Správy rozdelené na albánsky a medzinárodný šport, takmer výlučne futbal – reprezentácia, Liga majstrov a Premier League. Portál Shqip.com uvádza ako vydavateľa Albmedia z Tirany.",
    "url": "https://shqip.com/category/sport/",
    "order": 8,
-   "desc_en": "Sports column of the portal Shqip"
+   "desc_en": "News split into Albanian and international sport, almost exclusively football – the national team, the Champions League and the Premier League. Shqip.com names Albmedia of Tirana as its publisher."
   },
   {
    "id": "n1782244469080xrc",
@@ -17739,10 +17728,10 @@
    "type": "link",
    "icon": "",
    "name": "Shqiptarja sport",
-   "desc": "Športová sekcia denníka Shqiptarja",
+   "desc": "Jedna rubrika so správami najmä o futbale – albánska najvyššia liga, reprezentácia, LaLiga a Serie A – ale aj o lyžovaní či F1, niekedy s videom. Šport portálu Shqiptarja.com (od 2011), ktorý spolupracuje s Report TV.",
    "url": "https://shqiptarja.com/kategoria/sport",
    "order": 9,
-   "desc_en": "The daily Shqiptarja's sports section"
+   "desc_en": "A single section with news mostly about football – Albania's top league, the national team, LaLiga and Serie A – but also skiing and F1, sometimes with video. Sport from Shqiptarja.com (since 2011), which works closely with Report TV."
   },
   {
    "id": "n1782244498694wn5",
@@ -17750,10 +17739,10 @@
    "type": "link",
    "icon": "",
    "name": "Syri.net sport",
-   "desc": "Športové správy portálu Syri.net",
+   "desc": "Futbal z Talianska, Nemecka, Španielska aj albánskej prvej ligy, rubrika k MS vo futbale 2026 a správy o lyžovaní či NFL, s videami na Web TV. Portál Syri.net prináša správy od roku 2015.",
    "url": "https://www.syri.net/sport/",
    "order": 10,
-   "desc_en": "Sports news from the portal Syri.net"
+   "desc_en": "Football from Italy, Germany, Spain and the Albanian First Division, a 2026 World Cup section and news on skiing and the NFL, with videos on Web TV. Syri.net has been publishing news since 2015."
   },
   {
    "id": "n1782244518306ckp",
@@ -17761,10 +17750,10 @@
    "type": "link",
    "icon": "",
    "name": "CNA sport",
-   "desc": "Športová rubrika spravodajského portálu CNA",
+   "desc": "Správy prevažne zo zahraničného futbalu – talianska Serie A, anglické a francúzske súťaže či reprezentácie. Portál CNA s heslom „Pa censurë!“ (Bez cenzúry!).",
    "url": "https://www.cna.al/sport",
    "order": 11,
-   "desc_en": "Sports column of the news portal CNA"
+   "desc_en": "News mostly from foreign football – Italy's Serie A, English and French competitions and national teams. The CNA portal with the motto “Pa censurë!” (Without censorship!)."
   },
   {
    "id": "n1782386631767r0k",
@@ -17772,21 +17761,21 @@
    "type": "link",
    "icon": "",
    "name": "Andorra Esportiu",
-   "desc": "Andorrský športový portál",
+   "desc": "FC Andorra, MoraBanc Andorra, domáca Lliga Multisegur aj reprezentácia, zimné a horské športy – s výsledkami, súpiskami a štatistikami, minútovými prenosmi a videami AE TV. Vydáva ho Premsa Esportiva Romgual z Escaldes-Engordany.",
    "url": "https://www.andorraesportiu.com/",
    "order": 0,
-   "desc_en": "Andorran sports portal"
+   "desc_en": "FC Andorra, MoraBanc Andorra, the domestic Lliga Multisegur and the national team, winter and mountain sports – with results, squads and statistics, minute-by-minute coverage and AE TV videos. Published by Premsa Esportiva Romgual of Escaldes-Engordany."
   },
   {
    "id": "n1782386661563rvj",
    "parentId": "f_med_eu_ad",
    "type": "link",
    "icon": "",
-   "name": "Diary dAndorra",
-   "desc": "Športová sekcia denníka Diari d'Andorra",
+   "name": "Diari d'Andorra",
+   "desc": "Široký záber andorrského športu – futbal, basketbal MoraBanc, hokej, rugby, motoršport či tenis – vrátane mládežníckych výberov a rezervných tímov. Denník Diari d'Andorra z Andorry la Vella (od 1991).",
    "url": "https://www.diariandorra.ad/esports/",
    "order": 1,
-   "desc_en": "The daily Diari d'Andorra's sports section"
+   "desc_en": "Broad coverage of Andorran sport – football, MoraBanc basketball, ice hockey, rugby, motorsport and tennis – including youth national teams and reserve sides. The daily Diari d'Andorra from Andorra la Vella (since 1991)."
   },
   {
    "id": "n1782386718926ovv",
@@ -17794,10 +17783,10 @@
    "type": "link",
    "icon": "",
    "name": "RTVA sports",
-   "desc": "Šport andorrskej verejnoprávnej televízie RTVA",
+   "desc": "30 športových rubrík od lyžovania, basketbalu a futbalu po rugby, horské behy či Special Olympics, s reláciami Zona Esports a Andorra en blanc. Šport verejnoprávnej RTVA (od 2000).",
    "url": "https://www.rtva.ad/esports",
    "order": 2,
-   "desc_en": "Sport from the Andorran public broadcaster RTVA"
+   "desc_en": "30 sports sections from skiing, basketball and football to rugby, mountain running and Special Olympics, with the shows Zona Esports and Andorra en blanc. Sport from the public broadcaster RTVA (since 2000)."
   },
   {
    "id": "n1782386775781vc7",
@@ -17805,10 +17794,10 @@
    "type": "link",
    "icon": "",
    "name": "El Periodic sports",
-   "desc": "Športová rubrika El Periòdic d'Andorra",
+   "desc": "Futbal s FC Andorra a domácou Lliga Multisegur, basketbal MoraBanc, lyžovanie, motoršport a tenis, plus rubrika športových rozhovorov. Andorrský denník, ktorého web podľa pätičky funguje od 1997.",
    "url": "https://elperiodic.ad/categories/esports/",
    "order": 3,
-   "desc_en": "Sports column of El Periòdic d'Andorra"
+   "desc_en": "Football with FC Andorra and the domestic Lliga Multisegur, MoraBanc basketball, skiing, motorsport and tennis, plus a sports interviews section. An Andorran daily whose website, according to its footer, dates from 1997."
   },
   {
    "id": "n1782386802926ae9",
@@ -17816,10 +17805,10 @@
    "type": "link",
    "icon": "",
    "name": "Bondia sports",
-   "desc": "Športové správy bezplatného denníka Bondia",
+   "desc": "Krátke správy z andorrského futbalu od FC Andorra po domáce kluby, z basketbalu, motoršportu či plávania. Bezplatný andorrský denník v katalánčine (od 2004).",
    "url": "https://www.bondia.ad/esports",
    "order": 4,
-   "desc_en": "Sports news from the free daily Bondia"
+   "desc_en": "Short news from Andorran football, from FC Andorra to local clubs, as well as basketball, motorsport and swimming. A free Catalan-language Andorran daily (since 2004)."
   },
   {
    "id": "n1782386845043lti",
@@ -17827,10 +17816,10 @@
    "type": "link",
    "icon": "",
    "name": "Altaveu sports",
-   "desc": "Športová rubrika portálu Altaveu",
+   "desc": "Andorrský futbal od FC Andorra po domácu ligu, basketbal MoraBanc, lyžovanie a freeride, doplnené reportážami, videami a podcastmi. Digitálny denník spoločnosti Altaveu, S.L.U. z Andorry la Vella.",
    "url": "https://www.altaveu.com/actualitat/esport",
    "order": 5,
-   "desc_en": "Sports column of the portal Altaveu"
+   "desc_en": "Andorran football from FC Andorra to the domestic league, MoraBanc basketball, skiing and freeride, complemented by features, videos and podcasts. A digital daily published by Altaveu, S.L.U. of Andorra la Vella."
   },
   {
    "id": "n1782387394069ku1",
@@ -17838,10 +17827,10 @@
    "type": "link",
    "icon": "",
    "name": "Pressball",
-   "desc": "Najväčší bieloruský športový web — hokej a futbal",
+   "desc": "Bieloruský futbal (Vysšaja a Peršaja liga) a hokej (extraliga, KHL), k tomu správy, články, zápasy a sledovanie top európskych líg. Web športových novín Pressball (od 1991).",
    "url": "https://pressball.by/",
    "order": 0,
-   "desc_en": "The biggest Belarusian sports website — ice hockey and football"
+   "desc_en": "Belarusian football (Vysshaya and Pershaya Liga) and ice hockey (Extraliga, KHL), plus news, features, match pages and Europe's top leagues. Website of the sports newspaper Pressball (since 1991)."
   },
   {
    "id": "n1782387421777lg5",
@@ -17849,10 +17838,10 @@
    "type": "link",
    "icon": "",
    "name": "Tribuna",
-   "desc": "Bieloruská verzia športového portálu Tribuna",
+   "desc": "Futbal, biatlon a tenis s bieloruským akcentom – BATE, Dinamo Minsk, Soboľenková, Alimbekovová; matchcentrum, štatistiky, prestupy, blogy a ankety. Bieloruská redakcia portálu Tribuna.com (založený 2010).",
    "url": "https://by.tribuna.com/",
    "order": 1,
-   "desc_en": "The Belarusian version of the sports portal Tribuna"
+   "desc_en": "Football, biathlon and tennis with a Belarusian angle – BATE, Dinamo Minsk, Sabalenka, Alimbekava; match centre, stats, transfers, blogs and polls. The Belarusian desk of Tribuna.com (founded 2010)."
   },
   {
    "id": "n1782387445495vdj",
@@ -17860,10 +17849,10 @@
    "type": "link",
    "icon": "",
    "name": "Football",
-   "desc": "Bieloruský futbalový portál Football.by",
+   "desc": "Bieloruský futbal od Vysšej po Tretiu ligu, pohár a reprezentácie, aj ženský, amatérsky a mládežnícky futbal či futsal; live, tabuľky, prestupy, rozhovory. Futbalový portál na webe od 1998.",
    "url": "https://football.by/",
    "order": 2,
-   "desc_en": "Belarusian football portal Football.by"
+   "desc_en": "Belarusian football from the Vysshaya to the Third League, the cup and national teams, plus women's, amateur and youth football and futsal; live, tables, transfers, interviews. Online since 1998."
   },
   {
    "id": "n17823875005979wx",
@@ -17871,10 +17860,10 @@
    "type": "link",
    "icon": "",
    "name": "Sport5",
-   "desc": "Bieloruský športový spravodajský web",
+   "desc": "Hokej (extraliga, KHL, NHL), futbal, tenis, volejbal, hádzaná, basketbal a biatlon; správy, rozhovory, videá, program a živé vysielanie. Web bieloruského športového kanála Belarus 5 (od 2013).",
    "url": "https://sport5.by/",
    "order": 3,
-   "desc_en": "Belarusian sports news website"
+   "desc_en": "Ice hockey (Extraliga, KHL, NHL), football, tennis, volleyball, handball, basketball and biathlon; news, interviews, videos, TV schedule and live stream. Website of the Belarusian sports channel Belarus 5 (since 2013)."
   },
   {
    "id": "n1782387545626ve3",
@@ -17882,10 +17871,10 @@
    "type": "link",
    "icon": "",
    "name": "Belta",
-   "desc": "Šport štátnej tlačovej agentúry BELTA",
+   "desc": "Priebežný spravodajský servis o bieloruskom športe – hokejová extraliga, Dinamo Minsk v KHL, basketbal, plávanie či šerm. Šport štátnej tlačovej agentúry BELTA (založenej 1918).",
    "url": "https://belta.by/sport/",
    "order": 4,
-   "desc_en": "Sport from the state news agency BELTA"
+   "desc_en": "A running news service on Belarusian sport – the hockey Extraliga, Dinamo Minsk in the KHL, basketball, swimming and fencing. Sport from the state news agency BELTA (founded 1918)."
   },
   {
    "id": "n1782387568377eka",
@@ -17893,10 +17882,10 @@
    "type": "link",
    "icon": "",
    "name": "SB",
-   "desc": "Športová rubrika denníka SB — Belarus segodňa",
+   "desc": "Domáce správy z hokeja (extraliga, KHL), futbalovej ligy, boxu či plávania, aj z mládežníckych spartakiád. Športová rubrika štátneho denníka SB. Belarus segodňa (vychádza od 1927).",
    "url": "https://www.sb.by/articles/main_sport/",
    "order": 5,
-   "desc_en": "Sports column of the daily SB — Belarus Segodnya"
+   "desc_en": "Domestic news on ice hockey (Extraliga, KHL), the football league, boxing and swimming, plus youth sports games. Sports section of the state daily SB. Belarus Segodnya (published since 1927)."
   },
   {
    "id": "n1782387680172k5b",
@@ -17904,10 +17893,10 @@
    "type": "link",
    "icon": "",
    "name": "ONT sport",
-   "desc": "Šport bieloruskej televízie ONT",
+   "desc": "Bieloruské i svetové športové správy – zápasnícke tituly, tenis Alexandry Sasnovičovej, hokej Dinama Minsk či futbal; denne dopĺňaný zoznam. Šport štátnej televízie ONT (vysiela od 2002).",
    "url": "https://ont.by/ru/sport-ru/",
    "order": 6,
-   "desc_en": "Sport from the Belarusian TV channel ONT"
+   "desc_en": "Belarusian and world sports news – wrestling titles, Aliaksandra Sasnovich's tennis, Dinamo Minsk hockey and football; a list updated daily. Sport from the state TV channel ONT (on air since 2002)."
   },
   {
    "id": "n1782387799239f20",
@@ -17915,21 +17904,21 @@
    "type": "link",
    "icon": "",
    "name": "Tochka sport",
-   "desc": "Športová rubrika portálu Tochka.by",
+   "desc": "Tenis (Soboľenková, Sasnovičová), hokej a KHL, futbal, plážový volejbal aj bojové športy – krátke správy i komentované príbehy. Športová rubrika sieťového média Tochka.by (registrované 2022).",
    "url": "https://tochka.by/articles/sport/",
    "order": 7,
-   "desc_en": "Sports column of the portal Tochka.by"
+   "desc_en": "Tennis (Sabalenka, Sasnovich), ice hockey and the KHL, football, beach volleyball and combat sports – short news and commentary pieces. Sports section of the online outlet Tochka.by (registered 2022)."
   },
   {
    "id": "n1782387847527lqz",
    "parentId": "f_med_eu_by",
    "type": "link",
    "icon": "",
-   "name": "Nashaniva sport",
-   "desc": "Šport nezávislého denníka Naša Niva",
+   "name": "Naša Niva sport",
+   "desc": "Správy v bieloruštine o futbale, hokeji, tenise a bieloruských športovcoch doma aj v zahraničí, často aj na pomedzí športu a politiky. Šport nezávislého média Naša Niva (založené 1906).",
    "url": "https://nashaniva.com/ca/566/",
    "order": 8,
-   "desc_en": "Sport from the independent daily Naša Niva"
+   "desc_en": "News in Belarusian on football, ice hockey, tennis and Belarusian athletes at home and abroad, often where sport meets politics. Sport from the independent outlet Nasha Niva (founded 1906)."
   },
   {
    "id": "n1782387890729av2",
@@ -17937,21 +17926,21 @@
    "type": "link",
    "icon": "",
    "name": "Minsk news sport",
-   "desc": "Športové správy z Minska — agentúra Minsk-Novosti",
+   "desc": "Minské kluby vo futbale, hokeji a basketbale (Dinamo, MINSK), prehľady kôl domácej futbalovej ligy a úspechy bieloruských športovcov. Šport mestskej agentúry Minsk-Novosti (od 2001).",
    "url": "https://minsknews.by/news-list/sport/",
    "order": 9,
-   "desc_en": "Sports news from Minsk — the Minsk-Novosti agency"
+   "desc_en": "Minsk clubs in football, ice hockey and basketball (Dinamo, MINSK), round-ups of the domestic football league and Belarusian athletes' successes. Sport from the city agency Minsk-Novosti (since 2001)."
   },
   {
    "id": "n17823879612995ve",
    "parentId": "f_med_eu_by",
    "type": "link",
    "icon": "",
-   "name": "Novychas sport",
-   "desc": "Športová rubrika nezávislého denníka Novy čas",
-   "url": "https://novychas.org/category/sport",
+   "name": "Novy Čas sport",
+   "desc": "Esejistické texty v bieloruštine o športe a politike – MS vo futbale 2026, dejiny športu a ročné bilancie, pridávané nepravidelne. Šport nezávislých novín Novy Čas (od 2002).",
+   "url": "https://novychas.online/sport",
    "order": 10,
-   "desc_en": "Sports column of the independent daily Novy Chas"
+   "desc_en": "Essay-style pieces in Belarusian on sport and politics – the 2026 World Cup, sports history and year-end reviews, added irregularly. Sport from the independent paper Novy Chas (since 2002)."
   },
   {
    "id": "n17823887817227kb",
@@ -17959,10 +17948,10 @@
    "type": "link",
    "icon": "",
    "name": "VB sport",
-   "desc": "Šport denníka Večerný Brest",
+   "desc": "Brestské kluby – futbalové Dinamo Brest, hádzanársky Meškov Brest a hokejový HK Brest – reportáže zo zápasov a regionálny šport. Rubrika regionálneho denníka Večerný Brest (vychádza od 1991).",
    "url": "https://vb.by/sport",
    "order": 11,
-   "desc_en": "Sport from the daily Vecherniy Brest"
+   "desc_en": "Brest clubs – Dinamo Brest in football, Meshkov Brest in handball and HK Brest in ice hockey – match reports and regional sport. Section of the regional daily Vecherniy Brest (published since 1991)."
   },
   {
    "id": "n1782388816036sy6",
@@ -17970,10 +17959,10 @@
    "type": "link",
    "icon": "",
    "name": "AIF sport",
-   "desc": "Športová rubrika Argumenty i fakty Belarus",
+   "desc": "Krátke správy o bieloruských športovcoch – tenis, zápasenie, vzpieranie, hokej Dinama Minsk a Bielorusi v AHL – aj o svetovom futbale. Šport bieloruského vydania týždenníka Argumenty i fakty.",
    "url": "https://aif.by/timefree/sport",
    "order": 12,
-   "desc_en": "Sports column of Argumenty i Fakty Belarus"
+   "desc_en": "Short news on Belarusian athletes – tennis, wrestling, weightlifting, Dinamo Minsk hockey and Belarusians in the AHL – plus world football. Sport from the Belarusian edition of the weekly Argumenty i Fakty."
   },
   {
    "id": "n17823888494959ij",
@@ -17981,10 +17970,10 @@
    "type": "link",
    "icon": "",
    "name": "KP sport",
-   "desc": "Šport bieloruskej Komsomoľskej pravdy",
+   "desc": "Správy prevažne z ruského športu – futbal (RPL, Ruský pohár: Rostov, Fakel), UFC, VHL či krasokorčuľovanie, bieloruské témy len občas. Šport bieloruského vydania Komsomoľskej pravdy.",
    "url": "https://www.belarus.kp.ru/sport/",
    "order": 13,
-   "desc_en": "Sport from the Belarusian edition of Komsomolskaya Pravda"
+   "desc_en": "News mostly from Russian sport – football (RPL, Russian Cup: Rostov, Fakel), UFC, the VHL and figure skating, with Belarusian topics only occasionally. Sport from the Belarusian edition of Komsomolskaya Pravda."
   },
   {
    "id": "n17824001819721nt",
@@ -17992,10 +17981,10 @@
    "type": "link",
    "icon": "",
    "name": "Sporza",
-   "desc": "Športový portál flámskej verejnoprávnej VRT",
+   "desc": "Futbal (Jupiler Pro League, Červení diabli), cyklistika, cyklokros, tenis, F1 a basketbal; výsledky, livestreamy, videá a podcasty. Športová značka flámskeho verejnoprávneho VRT (od 2004).",
    "url": "https://sporza.be/nl/",
    "order": 0,
-   "desc_en": "Sports portal of the Flemish public broadcaster VRT"
+   "desc_en": "Football (Jupiler Pro League, Red Devils), road cycling, cyclo-cross, tennis, F1 and basketball; results, live streams, videos and podcasts. Sports brand of the Flemish public broadcaster VRT (since 2004)."
   },
   {
    "id": "n1782400204117xxe",
@@ -18003,10 +17992,10 @@
    "type": "link",
    "icon": "",
    "name": "RTBF sport",
-   "desc": "Šport frankofónnej verejnoprávnej RTBF",
+   "desc": "Frankofónne spravodajstvo o futbale (Pro League, Červení diabli), cyklistike, F1, rely, MotoGP a tenise; živé výsledky, videá a podcasty. Šport verejnoprávnej RTBF (od 1977).",
    "url": "https://www.rtbf.be/sport",
    "order": 1,
-   "desc_en": "Sport from the French-speaking public broadcaster RTBF"
+   "desc_en": "French-language coverage of football (Pro League, Red Devils), cycling, F1, rallying, MotoGP and tennis; live scores, videos and podcasts. Sport from the public broadcaster RTBF (since 1977)."
   },
   {
    "id": "n1782400247020fvv",
@@ -18014,10 +18003,10 @@
    "type": "link",
    "icon": "",
    "name": "HLN sport",
-   "desc": "Športová sekcia najčítanejšieho flámskeho denníka HLN",
+   "desc": "Voetbalcenter s belgickým futbalom, ďalej cyklistika, tenis, F1 a šípky; správy, videá, futbalový podcast a šport z okolia. Šport flámskeho denníka Het Laatste Nieuws (od 1888, DPG Media).",
    "url": "https://www.hln.be/sport/",
    "order": 2,
-   "desc_en": "The sports section of the most-read Flemish daily, HLN"
+   "desc_en": "A Voetbalcenter for Belgian football, plus cycling, tennis, F1 and darts; news, videos, a football podcast and local sport. Sport from the Flemish daily Het Laatste Nieuws (since 1888, DPG Media)."
   },
   {
    "id": "n1782400280369l4f",
@@ -18025,10 +18014,10 @@
    "type": "link",
    "icon": "",
    "name": "DHnet sport",
-   "desc": "Šport frankofónneho denníka La Dernière Heure",
+   "desc": "Belgický futbal do detailu – Jupiler Pro League, Challenger Pro League aj divízie ACFF, kluby ako Standard či Anderlecht, živé prenosy a výsledky. Šport denníka La DH Les Sports+ (vydavateľ IPM).",
    "url": "https://www.dhnet.be/sports/",
    "order": 3,
-   "desc_en": "Sport from the French-language daily La Dernière Heure"
+   "desc_en": "Belgian football in depth – the Jupiler Pro League, Challenger Pro League and ACFF divisions, clubs such as Standard and Anderlecht, live coverage and results. Sport from the daily La DH Les Sports+ (publisher IPM)."
   },
   {
    "id": "n1782400314298anx",
@@ -18036,21 +18025,21 @@
    "type": "link",
    "icon": "",
    "name": "Nieuwsblad sport",
-   "desc": "Športová sekcia denníka Het Nieuwsblad — silná cyklistika",
+   "desc": "Cyklistika a futbal s výsledkami a živými prenosmi, šport z regiónov, podcasty a dlhšie príbehy o belgických športovcoch. Šport flámskeho denníka Het Nieuwsblad (od 1929, Mediahuis).",
    "url": "https://www.nieuwsblad.be/sport/",
    "order": 4,
-   "desc_en": "The daily Het Nieuwsblad's sports section — strong on cycling"
+   "desc_en": "Cycling and football with results and live coverage, regional sport, podcasts and longer stories about Belgian athletes. Sport from the Flemish daily Het Nieuwsblad (since 1929, Mediahuis)."
   },
   {
    "id": "n1782400348730hdg",
    "parentId": "f_med_eu_be",
    "type": "link",
    "icon": "",
-   "name": "Lesoir sport",
-   "desc": "Športová sekcia bruselského denníka Le Soir",
+   "name": "Le Soir sport",
+   "desc": "Tenis, futbal, cyklistika, pozemný hokej, basketbal, motoršport a atletika – správy, analýzy a komentáre vo francúzštine. Športová sekcia bruselského denníka Le Soir (od 1887, Rossel).",
    "url": "https://www.lesoir.be/13/sections/sports",
    "order": 5,
-   "desc_en": "The Brussels daily Le Soir's sports section"
+   "desc_en": "Tennis, football, cycling, field hockey, basketball, motorsport and athletics – news, analysis and commentary in French. Sports section of the Brussels daily Le Soir (since 1887, Rossel)."
   },
   {
    "id": "n1782400437437ulz",
@@ -18058,10 +18047,10 @@
    "type": "link",
    "icon": "",
    "name": "Voetbalkrant",
-   "desc": "Flámsky futbalový web — belgická liga",
+   "desc": "Belgický futbal od Jupiler Pro League po 2. triedu, top európske ligy aj ženský futbal; live výsledky, tímy, hráči, tipovačka a manažérska hra. Flámsky futbalový web (od 2002).",
    "url": "https://www.voetbalkrant.com/",
    "order": 6,
-   "desc_en": "Flemish football website — the Belgian league"
+   "desc_en": "Belgian football from the Jupiler Pro League to the second tier, Europe's top leagues and women's football; live scores, teams, players, predictions and a manager game. Flemish football website (since 2002)."
   },
   {
    "id": "n1782400459504sk6",
@@ -18069,10 +18058,10 @@
    "type": "link",
    "icon": "",
    "name": "Walfoot",
-   "desc": "Frankofónny web o belgickom futbale",
+   "desc": "Frankofónny pohľad na belgický futbal od Jupiler Pro League po provinčné súťaže, aj ženy a zahraničné ligy; live, fórum, tipovačka a manažérska hra. Futbalový web Walfoot.be (od 2002).",
    "url": "https://www.walfoot.be/",
    "order": 7,
-   "desc_en": "French-language website about Belgian football"
+   "desc_en": "A French-language take on Belgian football from the Jupiler Pro League down to provincial leagues, plus women's and foreign leagues; live, forum, predictions and a manager game. Football site Walfoot.be (since 2002)."
   },
   {
    "id": "n1782400768595qu7",
@@ -18080,10 +18069,10 @@
    "type": "link",
    "icon": "",
    "name": "De Morgen sport",
-   "desc": "Športová sekcia flámskeho denníka De Morgen",
+   "desc": "Športové reportáže, analýzy a profily – futbal, cyklistika a príbehy osobností ako Harry Kane či Paul Seixas, prevažne pre predplatiteľov. Šport flámskeho denníka De Morgen (od 1978, DPG Media).",
    "url": "https://www.demorgen.be/sport/",
    "order": 8,
-   "desc_en": "The Flemish daily De Morgen's sports section"
+   "desc_en": "Sports features, analysis and profiles – football, cycling and stories on figures such as Harry Kane and Paul Seixas, mostly for subscribers. Sport from the Flemish daily De Morgen (since 1978, DPG Media)."
   },
   {
    "id": "n1782400930013s0v",
@@ -18091,10 +18080,10 @@
    "type": "link",
    "icon": "",
    "name": "GVA sport",
-   "desc": "Šport antverpského denníka Gazet van Antwerpen",
+   "desc": "Antverpský futbal (napr. Beerschot), Jupiler Pro League, zahraničný futbal a cyklistika, s výsledkami a športom z regiónu. Šport denníka Gazet van Antwerpen (od 1891, Mediahuis).",
    "url": "https://www.gva.be/sport/",
    "order": 9,
-   "desc_en": "Sport from the Antwerp daily Gazet van Antwerpen"
+   "desc_en": "Antwerp football (e.g. Beerschot), the Jupiler Pro League, foreign football and cycling, with results and regional sport. Sport from the daily Gazet van Antwerpen (since 1891, Mediahuis)."
   },
   {
    "id": "n17824009912280t1",
@@ -18102,10 +18091,10 @@
    "type": "link",
    "icon": "",
    "name": "Sudinfo sport",
-   "desc": "Šport valónskeho vydavateľstva Sudinfo",
+   "desc": "Valónsky pohľad na futbal, tenis a ďalšie športy – živé prenosy, prehľady tabuliek a videá. Športová rubrika značky Sudinfo vydavateľstva Sudmedia zo skupiny Rossel.",
    "url": "https://www.sudinfo.be/2020/sections/sport",
    "order": 10,
-   "desc_en": "Sport from the Walloon publisher Sudinfo"
+   "desc_en": "A Walloon take on football, tennis and other sports – live coverage, league tables and videos. Sports section of the Sudinfo brand from the publisher Sudmedia, part of the Rossel group."
   },
   {
    "id": "n1782401090575mpj",
@@ -18113,10 +18102,10 @@
    "type": "link",
    "icon": "",
    "name": "La Libre sport",
-   "desc": "Športová sekcia denníka La Libre Belgique",
+   "desc": "Golf, tenis, motoršport, cyklistika, pozemný hokej aj futbal, k tomu športové výsledky a články vo francúzštine. Športová sekcia denníka La Libre Belgique (od 1884, skupina IPM).",
    "url": "https://www.lalibre.be/sports/",
    "order": 11,
-   "desc_en": "The daily La Libre Belgique's sports section"
+   "desc_en": "Golf, tennis, motorsport, cycling, field hockey and football, plus sports results and articles in French. Sports section of the daily La Libre Belgique (since 1884, IPM group)."
   },
   {
    "id": "n1782401255980h2u",
@@ -18124,10 +18113,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportsport",
-   "desc": "Najväčší bosniansky športový portál",
+   "desc": "Futbal (WWin liga BiH, 1. liga FBiH a RS), basketbal, hádzaná a motoršport, k tomu tabuľky, fantasy liga a fórum fanúšikov. Vydáva SportSport d.o.o. zo Sarajeva.",
    "url": "https://sportsport.ba/",
    "order": 0,
-   "desc_en": "The biggest Bosnian sports portal"
+   "desc_en": "Football (WWin liga BiH, First League of FBiH and RS), basketball, handball and motorsport, plus tables, a fantasy league and a fan forum. Published by SportSport d.o.o. of Sarajevo."
   },
   {
    "id": "n17824012788867lt",
@@ -18135,10 +18124,10 @@
    "type": "link",
    "icon": "",
    "name": "SCsport",
-   "desc": "Bosniansky športový web SCsport",
+   "desc": "Správy z futbalu, basketbalu a hádzanej, bojové športy v rubrike Knockout zona a vlastné špeciály SC Specijal. Vydáva Raport Media Group zo Sarajeva.",
    "url": "https://scsport.raport.ba/",
    "order": 1,
-   "desc_en": "Bosnian sports website SCsport"
+   "desc_en": "News on football, basketball and handball, combat sports in the Knockout zona section and in-house SC Specijal features. Published by Raport Media Group of Sarajevo."
   },
   {
    "id": "n178240130378238j",
@@ -18146,21 +18135,21 @@
    "type": "link",
    "icon": "",
    "name": "Reprezentacija",
-   "desc": "Web o bosnianskej futbalovej reprezentácii",
+   "desc": "Všetko o bosnianskych reprezentáciách – A tím, U21 až U15, ženy a futsal – plus Premijer liga BiH, Pohár BiH, rozhovory a výsledky. Vydáva sarajevská BOSEL GROUP.",
    "url": "https://reprezentacija.ba/",
    "order": 2,
-   "desc_en": "Website about the Bosnian national football team"
+   "desc_en": "All about Bosnian national teams – senior side, U21 to U15, women and futsal – plus the Premijer liga BiH, the BiH Cup, interviews and results. Published by Sarajevo-based BOSEL GROUP."
   },
   {
    "id": "n1782401342852l77",
    "parentId": "f_med_eu_ba",
    "type": "link",
    "icon": "",
-   "name": "Oslobodjenje",
-   "desc": "Športová sekcia sarajevského denníka Oslobođenje",
+   "name": "Oslobođenje",
+   "desc": "WWin liga BiH, nižšie a mládežnícke súťaže, ženský futbal a basketbal, ABA liga, Euroliga, hádzaná aj esport. Šport sarajevského denníka Oslobođenje (od 1943).",
    "url": "https://www.oslobodjenje.ba/sport/",
    "order": 3,
-   "desc_en": "The Sarajevo daily Oslobođenje's sports section"
+   "desc_en": "WWin liga BiH, lower and youth competitions, women's football and basketball, the ABA League, EuroLeague, handball and esports. Sports section of Sarajevo daily Oslobođenje (since 1943)."
   },
   {
    "id": "n1782401381607nes",
@@ -18168,10 +18157,10 @@
    "type": "link",
    "icon": "",
    "name": "Klix sport",
-   "desc": "Šport najčítanejšieho bosnianskeho portálu Klix",
+   "desc": "Bosnianski športovci vo futbale, basketbale, tenise, hádzanej, formule 1, lyžovaní, atletike, bojových športoch a plávaní. Rubrika portálu Klix.ba zo Sarajeva (od 2000).",
    "url": "https://www.klix.ba/sport",
    "order": 4,
-   "desc_en": "Sport from the most-read Bosnian portal, Klix"
+   "desc_en": "Bosnian athletes in football, basketball, tennis, handball, Formula 1, skiing, athletics, combat sports and swimming. Section of Sarajevo portal Klix.ba (since 2000)."
   },
   {
    "id": "n1782401409572g48",
@@ -18179,10 +18168,10 @@
    "type": "link",
    "icon": "",
    "name": "Avaz sport",
-   "desc": "Športová sekcia denníka Dnevni avaz",
+   "desc": "Videá a správy o bosnianskych hráčoch v zahraničných kluboch, k tomu futbal, basketbal, tenis, bojové športy a motoršport. Šport sarajevského denníka Dnevni avaz (od 1993).",
    "url": "https://avaz.ba/sport",
    "order": 5,
-   "desc_en": "The daily Dnevni Avaz's sports section"
+   "desc_en": "Videos and news on Bosnian players at foreign clubs, plus football, basketball, tennis, combat sports and motorsport. Sports section of Sarajevo daily Dnevni avaz (since 1993)."
   },
   {
    "id": "n1782401435307f44",
@@ -18190,10 +18179,10 @@
    "type": "link",
    "icon": "",
    "name": "Mondo sport",
-   "desc": "Športová rubrika portálu Mondo.ba",
+   "desc": "Futbal s vlastnou rubrikou Premijer liga BiH, basketbal, hádzaná, tenis a ostatné športy, správy z domova aj zo sveta. Športová sekcia portálu Mondo.ba operátora m:tel.",
    "url": "https://mondo.ba/Sport",
    "order": 6,
-   "desc_en": "Sports column of the portal Mondo.ba"
+   "desc_en": "Football with its own Premijer liga BiH section, basketball, handball, tennis and other sports, with news from home and abroad. Sports section of the Mondo.ba portal run by operator m:tel."
   },
   {
    "id": "n1782401477753zsx",
@@ -18201,10 +18190,10 @@
    "type": "link",
    "icon": "",
    "name": "SportDC",
-   "desc": "Športový portál z Republiky srbskej",
-   "url": "https://www.sportdc.net/#google_vignette",
+   "desc": "Futbal Republiky srbskej od Premijer ligy BiH a Prvej ligy RS po oblastné, obecné a mládežnícke súťaže, k tomu basketbal, hádzaná a volejbal. Súčasť siete srbijasport.net.",
+   "url": "https://www.sportdc.net/",
    "order": 7,
-   "desc_en": "Sports portal from Republika Srpska"
+   "desc_en": "Republika Srpska football from the Premijer liga BiH and First League of RS down to regional, municipal and youth leagues, plus basketball, handball and volleyball. Part of the srbijasport.net network."
   },
   {
    "id": "n1782404930364vxr",
@@ -18212,10 +18201,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportske",
-   "desc": "Bosniansky športový spravodajský web",
+   "desc": "Premijer liga BiH s rubrikami klubov Željezničar, Sarajevo, Borac či Zrinjski, nižšie a mládežnícke ligy, basketbal (ABA liga, EuroCup) a hádzaná. Športový portál zo Sarajeva.",
    "url": "https://sportske.ba/",
    "order": 8,
-   "desc_en": "Bosnian sports news website"
+   "desc_en": "Premijer liga BiH with sections for clubs such as Željezničar, Sarajevo, Borac and Zrinjski, lower and youth leagues, basketball (ABA League, EuroCup) and handball. Sports portal based in Sarajevo."
   },
   {
    "id": "n17824049610353k6",
@@ -18223,10 +18212,10 @@
    "type": "link",
    "icon": "",
    "name": "Meridiansport",
-   "desc": "Bosnianska mutácia portálu Meridian sport",
+   "desc": "Futbal od Premijer ligy BiH po prvé ligy FBiH a RS, basketbal (ABA liga, NBA), tenis, rozhovory a autorské rubriky ako Pod lupom. Prevádzkuje Meridian Tech d.o.o.",
    "url": "https://meridiansport.ba/",
    "order": 9,
-   "desc_en": "The Bosnian version of the portal Meridian Sport"
+   "desc_en": "Football from the Premijer liga BiH to the first leagues of FBiH and RS, basketball (ABA League, NBA), tennis, interviews and feature columns such as Pod lupom. Run by Meridian Tech d.o.o."
   },
   {
    "id": "n1782404995058upw",
@@ -18234,10 +18223,10 @@
    "type": "link",
    "icon": "",
    "name": "Arena sport",
-   "desc": "Web športovej televízie Arena Sport BiH",
+   "desc": "Športové správy a videá z BiH aj zo sveta, televízny program kanálov Arena Sport a vstup do streamovacej služby Arena Cloud. Sieť Arena Sport (od 2009) vlastní Telekom Srbija.",
    "url": "https://tvarenasport.ba/",
    "order": 10,
-   "desc_en": "Website of the sports TV channel Arena Sport BiH"
+   "desc_en": "Sports news and videos from BiH and the world, the Arena Sport channels' TV schedule and access to the Arena Cloud streaming service. The Arena Sport network (since 2009) is owned by Telekom Srbija."
   },
   {
    "id": "n1782405128177wk2",
@@ -18245,10 +18234,10 @@
    "type": "link",
    "icon": "",
    "name": "Bljesak sport",
-   "desc": "Športová rubrika mostarského portálu Bljesak",
+   "desc": "Domáci aj svetový futbal, basketbal, hádzaná, tenis a motoršport, k tomu autorská rubrika Feđini specijali. Šport mostarského internetového magazínu Bljesak.info (od 2001).",
    "url": "https://bljesak.info/sport",
    "order": 11,
-   "desc_en": "Sports column of the Mostar portal Bljesak"
+   "desc_en": "Domestic and world football, basketball, handball, tennis and motorsport, plus the Feđini specijali column. Sports section of Mostar online magazine Bljesak.info (since 2001)."
   },
   {
    "id": "n178240517501169w",
@@ -18256,10 +18245,10 @@
    "type": "link",
    "icon": "",
    "name": "Hercegovina sport",
-   "desc": "Šport z Hercegoviny — portál Hercegovina.in",
+   "desc": "Futbal s dôrazom na HŠK Zrinjski Mostar, basketbal, hádzaná, volejbal, futsal, bojové, vodné a zimné športy z Hercegoviny. Rubrika regionálneho portálu Hercegovina.in.",
    "url": "https://hercegovina.in/kategorija/sport/",
    "order": 12,
-   "desc_en": "Sport from Herzegovina — the portal Hercegovina.in"
+   "desc_en": "Football with a focus on HŠK Zrinjski Mostar, basketball, handball, volleyball, futsal, combat, water and winter sports from Herzegovina. Section of the regional portal Hercegovina.in."
   },
   {
    "id": "n1782405199505k6o",
@@ -18267,10 +18256,10 @@
    "type": "link",
    "icon": "",
    "name": "Faktor sport",
-   "desc": "Športová rubrika portálu Faktor",
+   "desc": "Bosniansky futbal – Premijer liga BiH, Pohár BiH, reprezentácia –, k tomu basketbal a ďalšie športy. Vydáva Simurg Media d.o.o. zo Sarajeva.",
    "url": "https://faktor.ba/sport",
    "order": 13,
-   "desc_en": "Sports column of the portal Faktor"
+   "desc_en": "Bosnian football – the Premijer liga BiH, the BiH Cup, the national team – plus basketball and other sports. Published by Simurg Media d.o.o. of Sarajevo."
   },
   {
    "id": "n1782405244663jpi",
@@ -18278,10 +18267,10 @@
    "type": "link",
    "icon": "",
    "name": "Jutarnji sport",
-   "desc": "Športová sekcia chorvátskeho denníka Jutarnji list",
+   "desc": "Chorvátsky futbal (SuperSport HNL, Prvá NL, ženský futbal) s rubrikami klubov, prestupy, basketbal, bojové športy vo Fight Site a ďalšie športy. Šport záhrebského denníka Jutarnji list (od 1998).",
    "url": "https://www.jutarnji.hr/sportske?cx_linkref=jl_menu_sport",
    "order": 14,
-   "desc_en": "The Croatian daily Jutarnji list's sports section"
+   "desc_en": "Croatian football (SuperSport HNL, Prva NL, women's football) with club sections, transfers, basketball, combat sports in Fight Site and more. Sports section of Zagreb daily Jutarnji list (since 1998)."
   },
   {
    "id": "n1782405299214dga",
@@ -18289,10 +18278,10 @@
    "type": "link",
    "icon": "",
    "name": "Nezavisne sport",
-   "desc": "Šport banjaluckého denníka Nezavisne novine",
+   "desc": "Anketa o športovca roka, esport, zimné a vodné športy aj atletika, popri futbale, basketbale, hádzanej a tenise. Šport banjaluckého denníka Nezavisne novine (od 1995).",
    "url": "https://www.nezavisne.com/sport",
    "order": 15,
-   "desc_en": "Sport from the Banja Luka daily Nezavisne Novine"
+   "desc_en": "An athlete-of-the-year poll, esports, winter and water sports and athletics alongside football, basketball, handball and tennis. Sports section of Banja Luka daily Nezavisne novine (since 1995)."
   },
   {
    "id": "n1782405339069gnl",
@@ -18300,10 +18289,10 @@
    "type": "link",
    "icon": "",
    "name": "Sarajevo times sport",
-   "desc": "Správy o bosnianskom športe v angličtine",
+   "desc": "Anglické správy o bosnianskom športe – futbalová reprezentácia, sarajevské derby, úspechy bosnianskych športovcov v zahraničí aj karate. Portál o BiH v angličtine, spustený v novembri 2012.",
    "url": "https://sarajevotimes.com/category/sport/",
    "order": 16,
-   "desc_en": "News about Bosnian sport in English"
+   "desc_en": "English-language news on Bosnian sport – the national football team, the Sarajevo derby, Bosnian athletes' successes abroad and karate. English-language portal on BiH, launched in November 2012."
   },
   {
    "id": "n1782405383472k2c",
@@ -18311,32 +18300,32 @@
    "type": "link",
    "icon": "",
    "name": "Vijesti sport",
-   "desc": "Športová rubrika portálu Vijesti.ba",
+   "desc": "Spravodajstvo z BiH, regiónu aj zo sveta – futbal, basketbal, hádzaná, tenis, motoršport a ostatné športy. Športová rubrika spravodajského portálu Vijesti.ba.",
    "url": "https://www.vijesti.ba/kategorija/sport",
    "order": 17,
-   "desc_en": "Sports column of the portal Vijesti.ba"
+   "desc_en": "Coverage from BiH, the region and the world – football, basketball, handball, tennis, motorsport and other sports. Sports section of the news portal Vijesti.ba."
   },
   {
    "id": "n1782405568637wyz",
    "parentId": "f_med_eu_ba",
    "type": "link",
    "icon": "",
-   "name": "Glass srpske sport",
-   "desc": "Šport denníka Glas Srpske z Banja Luky",
+   "name": "Glas Srpske sport",
+   "desc": "Igokea, Crvena zvezda a anketa Športovec roka, popri tom futbal, basketbal, tenis a ostatné športy. Šport banjaluckého denníka Glas Srpske (od 1943).",
    "url": "https://www.glassrpske.com/lat/sport",
    "order": 18,
-   "desc_en": "Sport from the Banja Luka daily Glas Srpske"
+   "desc_en": "Igokea, Crvena zvezda and the Athlete of the Year poll, alongside football, basketball, tennis and other sports. Sports section of Banja Luka daily Glas Srpske (since 1943)."
   },
   {
    "id": "n1782405601860a1h",
    "parentId": "f_med_eu_ba",
    "type": "link",
    "icon": "",
-   "name": "Vecernji list sport",
-   "desc": "Šport bosnianskeho vydania Večernjeho listu",
+   "name": "Večernji list sport",
+   "desc": "Futbal vrátane správ o HŠK Zrinjski a chorvátskych kluboch, plávanie a ďalšie športy z BiH aj Chorvátska. BiH vydanie chorvátskeho denníka Večernji list (od 1959), vychádza v Mostare.",
    "url": "https://www.vecernji.ba/sport",
    "order": 19,
-   "desc_en": "Sport from the Bosnian edition of Večernji list"
+   "desc_en": "Football including news on HŠK Zrinjski and Croatian clubs, swimming and other sports from BiH and Croatia. BiH edition of Croatian daily Večernji list (since 1959), published in Mostar."
   },
   {
    "id": "n17824056683202iv",
@@ -18344,10 +18333,10 @@
    "type": "link",
    "icon": "",
    "name": "N1 sport",
-   "desc": "Šport spravodajskej televízie N1 BiH",
+   "desc": "Formula 1, MMA, tenis a hádzaná popri futbale a basketbale, správy z BiH, regiónu aj zo sveta. Šport televízie N1, partnera CNN International (od 2014).",
    "url": "https://n1info.ba/sport",
    "order": 20,
-   "desc_en": "Sport from the news channel N1 BiH"
+   "desc_en": "Formula 1, MMA, tennis and handball alongside football and basketball, with news from BiH, the region and the world. Sports section of N1 television, a CNN International affiliate (since 2014)."
   },
   {
    "id": "n1782405695385j2x",
@@ -18355,10 +18344,10 @@
    "type": "link",
    "icon": "",
    "name": "Federalna sport",
-   "desc": "Šport Federálnej televízie BiH",
+   "desc": "Bosnianske kluby aj európske ligy vo futbale, basketbale, hádzanej, tenise a ďalších športoch. Šport Federálnej televízie (FTV), verejnoprávnej televízie Federácie BiH (od 2001).",
    "url": "https://federalna.ba/category/sport",
    "order": 21,
-   "desc_en": "Sport from Federal Television BiH"
+   "desc_en": "Bosnian clubs and European leagues in football, basketball, handball, tennis and other sports. Sports section of Federalna televizija (FTV), the public broadcaster of the Federation of BiH (since 2001)."
   },
   {
    "id": "n17824057231131nh",
@@ -18366,10 +18355,10 @@
    "type": "link",
    "icon": "",
    "name": "RTRS sport",
-   "desc": "Šport televízie Republiky srbskej RTRS",
+   "desc": "Správy z Republiky srbskej, BiH aj zo sveta – futbal, basketbal s Igokeou a Euroligou, rozhovory a videá, písané v cyrilike. Šport verejnoprávnej Rádio-televízie Republiky srbskej (Banja Luka).",
    "url": "https://www.rtrs.tv/vijesti/index.php?id=2",
    "order": 22,
-   "desc_en": "Sport from RTRS, the TV channel of Republika Srpska"
+   "desc_en": "News from Republika Srpska, BiH and the world – football, basketball with Igokea and the EuroLeague, interviews and videos, written in Cyrillic. Sports section of public broadcaster Radio Television of Republika Srpska (Banja Luka)."
   },
   {
    "id": "n1782405753003l59",
@@ -18377,10 +18366,10 @@
    "type": "link",
    "icon": "",
    "name": "Radio Sarajevo sport",
-   "desc": "Športová rubrika portálu Radio Sarajevo",
+   "desc": "Správy z bosnianskeho futbalu, basketbalu a ďalších športov, napríklad o Pohári BiH či eurocupovej Bosne. Športová rubrika portálu sarajevského rádia (90,2 FM).",
    "url": "https://radiosarajevo.ba/sport",
    "order": 23,
-   "desc_en": "Sports column of the portal Radio Sarajevo"
+   "desc_en": "News from Bosnian football, basketball and other sports, such as the BiH Cup or Bosna in the EuroCup. Sports section of the Sarajevo radio station's portal (90.2 FM)."
   },
   {
    "id": "n1782405787985z48",
@@ -18388,10 +18377,10 @@
    "type": "link",
    "icon": "",
    "name": "Krajina sport",
-   "desc": "Šport z Bosnianskej krajiny — portál Krajina.ba",
-   "url": "https://krajina.ba/kategorija/sport/#google_vignette",
+   "desc": "Bosnianska futbalová reprezentácia, legionári v zahraničí aj svetový futbal. Športová rubrika informačného portálu Krajina.ba pre Unsko-sanský kantón (Bihać, Cazin, Sanski Most).",
+   "url": "https://krajina.ba/kategorija/sport/",
    "order": 24,
-   "desc_en": "Sport from Bosanska Krajina — the portal Krajina.ba"
+   "desc_en": "The Bosnian national football team, players abroad and world football. Sports section of Krajina.ba, the news portal for Una-Sana Canton (Bihać, Cazin, Sanski Most)."
   },
   {
    "id": "n1782405807106kpp",
@@ -18399,10 +18388,10 @@
    "type": "link",
    "icon": "",
    "name": "Dnevnik sport",
-   "desc": "Športová rubrika portálu Dnevnik.ba",
+   "desc": "Futbal so správami o HŠK Zrinjski, Hajduku a Lige Hercegoviny, cyklistika (Tour of Bosnia and Herzegovina), golf a ďalšie športy. Rubrika portálu Dnevnik.ba, vydáva Dnevnik Media d.o.o. z Mostaru.",
    "url": "https://www.dnevnik.ba/sport/",
    "order": 25,
-   "desc_en": "Sports column of the portal Dnevnik.ba"
+   "desc_en": "Football with news on HŠK Zrinjski, Hajduk and the Herzegovina League, cycling (Tour of Bosnia and Herzegovina), golf and other sports. Section of Dnevnik.ba, published by Dnevnik Media d.o.o. of Mostar."
   },
   {
    "id": "n1782406012568z0f",
@@ -18410,10 +18399,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportal",
-   "desc": "Najväčší bulharský športový portál",
+   "desc": "Bulharský futbal s efbet Ligou aj svetový futbal, basketbal, volejbal, tenis, motoršport a bojové športy, k tomu livescore, tabuľky, strelci, videá a TV program. Portál skupiny Sportal Media Group (od 2006).",
    "url": "https://sportal.bg/",
    "order": 0,
-   "desc_en": "The biggest Bulgarian sports portal"
+   "desc_en": "Bulgarian football including the efbet League plus world football, basketball, volleyball, tennis, motorsport and combat sports, with livescore, tables, top scorers, videos and a TV guide. A Sportal Media Group portal (since 2006)."
   },
   {
    "id": "n1782406033048mck",
@@ -18421,10 +18410,10 @@
    "type": "link",
    "icon": "",
    "name": "Gong",
-   "desc": "Bulharský športový web — futbal a stávky",
+   "desc": "Domáci futbal (efbet Liga, MrBit Vtora liga, Pohár, reprezentácia), legionári a top ligy Európy, NBA, tenis, volejbal, motoršport, bojové športy, esport a livescore. Športový web Gong.bg (od 2007).",
    "url": "https://gong.bg/",
    "order": 1,
-   "desc_en": "Bulgarian sports website — football and betting"
+   "desc_en": "Domestic football (efbet League, MrBit Second League, Cup, national team), Bulgarians abroad and Europe's top leagues, NBA, tennis, volleyball, motorsport, combat sports, esports and livescore. Sports website Gong.bg (since 2007)."
   },
   {
    "id": "n1782406051614ubu",
@@ -18432,10 +18421,10 @@
    "type": "link",
    "icon": "",
    "name": "Dsport",
-   "desc": "Bulharský športový portál Dsport",
+   "desc": "Samostatné sekcie klubov efbet Ligy a MrBit Vtorej ligy (CSKA, Levski, Ludogorec…), európske poháre, Premier League, La Liga, Bundesliga, Serie A, NBA, livescore, tabuľky a videá Dsport TV.",
    "url": "https://dsport.bg/",
    "order": 2,
-   "desc_en": "Bulgarian sports portal Dsport"
+   "desc_en": "Dedicated sections for efbet League and MrBit Second League clubs (CSKA, Levski, Ludogorets…), European cups, the Premier League, La Liga, Bundesliga, Serie A, NBA, livescore, tables and Dsport TV videos."
   },
   {
    "id": "n1782406078649oiw",
@@ -18443,10 +18432,10 @@
    "type": "link",
    "icon": "",
    "name": "Topsport",
-   "desc": "Bulharské športové správy a výsledky",
+   "desc": "Prvá a Druhá liga s profilmi klubov, Pohár Bulharska, amatérsky futbal, Bulhari v cudzine, top ligy Európy, grandslamy v tenise, volejbal, F1, NHL a štatistiky. Web skupiny Web Media Group (News.bg).",
    "url": "https://topsport.bg/",
    "order": 3,
-   "desc_en": "Bulgarian sports news and results"
+   "desc_en": "First and Second League with club profiles, the Bulgarian Cup, amateur football, Bulgarians abroad, Europe's top leagues, tennis Grand Slams, volleyball, F1, NHL and statistics. Part of Web Media Group (News.bg)."
   },
   {
    "id": "n1782406092872vax",
@@ -18454,10 +18443,10 @@
    "type": "link",
    "icon": "",
    "name": "Gol",
-   "desc": "Bulharský futbalový web Gol.bg",
+   "desc": "Futbal doma aj vo svete – Prvá a Druhá liga, Pohár Bulharska, reprezentácia, Bulhari v cudzine, Ludogorec, CSKA, Levski aj Barcelona či Real; okrajovo basketbal, atletika a snooker. Vydáva Investor.BG AD.",
    "url": "https://www.gol.bg/",
    "order": 4,
-   "desc_en": "Bulgarian football website Gol.bg"
+   "desc_en": "Football at home and abroad – First and Second League, the Bulgarian Cup, national team, Bulgarians abroad, Ludogorets, CSKA, Levski as well as Barcelona or Real; plus some basketball, athletics and snooker. Published by Investor.BG AD."
   },
   {
    "id": "n1782406110674n5m",
@@ -18465,10 +18454,10 @@
    "type": "link",
    "icon": "",
    "name": "Novsport",
-   "desc": "Bulharský športový spravodajský web",
+   "desc": "Futsal a bulharský futbal vrátane Druhej a Tretej ligy, európsky futbal a prestupy, tenis, volejbal, basketbal, F1 a bojové športy, k tomu rozhovory, komentáre, videá a výsledky zápasov.",
    "url": "https://www.novsport.com/",
    "order": 5,
-   "desc_en": "Bulgarian sports news website"
+   "desc_en": "Futsal and Bulgarian football including the Second and Third League, European football and transfers, tennis, volleyball, basketball, F1 and combat sports, plus interviews, opinion pieces, videos and match results."
   },
   {
    "id": "n1782406151411r2y",
@@ -18476,10 +18465,10 @@
    "type": "link",
    "icon": "",
    "name": "BNT sport",
-   "desc": "Šport bulharskej verejnoprávnej televízie BNT",
+   "desc": "Športové spravodajstvo bulharskej verejnoprávnej televízie – futbal, volejbal a ďalšie športy, aktuálne správy a archív športových relácií. BNT vysiela od roku 1959.",
    "url": "https://bntnews.bg/sport",
    "order": 6,
-   "desc_en": "Sport from the Bulgarian public broadcaster BNT"
+   "desc_en": "Sports news from Bulgaria's public broadcaster – football, volleyball and other sports, up-to-date reports and an archive of sports programmes. BNT has been broadcasting since 1959."
   },
   {
    "id": "n1782406179188tc4",
@@ -18487,10 +18476,10 @@
    "type": "link",
    "icon": "",
    "name": "bTV sport",
-   "desc": "Športová redakcia televízie bTV",
+   "desc": "Bulharský aj svetový futbal vrátane Ligy majstrov, Európskej a Konferenčnej ligy, basketbal, volejbal, tenis a ďalšie športy s videami a sekciou Naživo. Redakcia televízie bTV (vysiela od 2000).",
    "url": "https://btvsport.bg/",
    "order": 7,
-   "desc_en": "The sports desk of the TV channel bTV"
+   "desc_en": "Bulgarian and world football including the Champions League, Europa League and Conference League, basketball, volleyball, tennis and other sports, with videos and a Live section. The newsroom of bTV (on air since 2000)."
   },
   {
    "id": "n1782406224427aj6",
@@ -18498,10 +18487,10 @@
    "type": "link",
    "icon": "",
    "name": "24chasa sport",
-   "desc": "Športová sekcia denníka 24 časa",
+   "desc": "Športová rubrika s podsekciami futbal, volejbal, basketbal, tenis a ďalšie športy – správy z bulharských súťaží aj zo sveta. Súčasť denníka 24 časa, ktorý vychádza od roku 1991.",
    "url": "https://www.24chasa.bg/sport",
    "order": 8,
-   "desc_en": "The daily 24 Chasa's sports section"
+   "desc_en": "Sports section with sub-sections for football, volleyball, basketball, tennis and other sports – news from Bulgarian competitions and from around the world. Part of the daily 24 Chasa, published since 1991."
   },
   {
    "id": "n1782406252262139",
@@ -18509,10 +18498,10 @@
    "type": "link",
    "icon": "",
    "name": "Trud sport",
-   "desc": "Športová rubrika denníka Trud",
+   "desc": "Domáci a svetový futbal, zákulisie športu v rubrike Mimo ihriska, stávky Toto, elektronické športy a prehľad športu v televízii. Športová rubrika denníka Trud (od 1936).",
    "url": "https://trud.bg/a/category/%D1%81%D0%BF%D0%BE%D1%80%D1%82",
    "order": 9,
-   "desc_en": "Sports column of the daily Trud"
+   "desc_en": "Domestic and world football, behind-the-scenes stories in the Off the Pitch section, Toto betting, esports and a guide to sport on TV. Sports section of the daily Trud (since 1936)."
   },
   {
    "id": "n17824062709912r7",
@@ -18520,21 +18509,21 @@
    "type": "link",
    "icon": "",
    "name": "Dnevnik sport",
-   "desc": "Športová sekcia denníka Dnevnik.bg",
+   "desc": "Futbal, tenis a volejbal z domova aj zo sveta, plus pravidelný Športový Dnevnik s Pavlom Kolevom o dianí v bulharskom športe. Športová sekcia denníka Dnevnik vydavateľstva Economedia (od 2001).",
    "url": "https://www.dnevnik.bg/sport/",
    "order": 10,
-   "desc_en": "The daily Dnevnik.bg's sports section"
+   "desc_en": "Football, tennis and volleyball from home and abroad, plus the regular Sports Dnevnik with Pavel Kolev on Bulgarian sports affairs. Sports section of the Dnevnik daily published by Economedia (since 2001)."
   },
   {
    "id": "n1782406292487q8v",
    "parentId": "f_med_eu_bg",
    "type": "link",
    "icon": "",
-   "name": "Telegraph sport",
-   "desc": "Športová rubrika denníka Telegraf",
+   "name": "Telegraf sport",
+   "desc": "Rubriky futbal Bulharsko, futbal svet a ďalšie športy, blok Timeout, šport v TV a komentárové videoštúdio MačKast. Športová sekcia denníka Telegraf, ktorý vychádza od roku 2005.",
    "url": "https://telegraph.bg/sport",
    "order": 11,
-   "desc_en": "Sports column of the daily Telegraf"
+   "desc_en": "Sections on Bulgarian football, world football and other sports, a Timeout block, sport on TV and the MachCast video commentary studio. Sports section of the Telegraph daily, published since 2005."
   },
   {
    "id": "n17824063285522dm",
@@ -18542,10 +18531,10 @@
    "type": "link",
    "icon": "",
    "name": "7sport",
-   "desc": "Bulharský športový web 7sport",
+   "desc": "Futbalový web od efbet Ligy po Tretiu ligu – Pohár Sesame, Bulhari v cudzine, top európske ligy a poháre, tabuľky, štatistiky a futbalové tipy s prehľadmi stávkových kancelárií.",
    "url": "https://7sport.net/",
    "order": 12,
-   "desc_en": "Bulgarian sports website 7sport"
+   "desc_en": "A football site covering the efbet League down to the Third League – the Sesame Cup, Bulgarians abroad, Europe's top leagues and cups, tables, statistics and football tips with bookmaker overviews."
   },
   {
    "id": "n17824063702174cn",
@@ -18553,10 +18542,10 @@
    "type": "link",
    "icon": "",
    "name": "Actualno sport",
-   "desc": "Športová rubrika portálu Actualno",
+   "desc": "Futbal v Bulharsku aj vo svete, tenis, basketbal, volejbal a ďalšie športy ako vzpieranie či zápasenie, so správami a vyjadreniami športovcov. Športová rubrika spravodajského portálu Actualno.com.",
    "url": "https://www.actualno.com/sport",
    "order": 13,
-   "desc_en": "Sports column of the portal Actualno"
+   "desc_en": "Football in Bulgaria and worldwide, tennis, basketball, volleyball and other sports such as weightlifting or wrestling, with news and athletes' statements. Sports section of the news portal Actualno.com."
   },
   {
    "id": "n1782406437139p4w",
@@ -18564,10 +18553,10 @@
    "type": "link",
    "icon": "",
    "name": "Dnes sport",
-   "desc": "Športové správy portálu Dnes.bg",
+   "desc": "Aktuálne športové správy – výsledky bulharskej Prvej ligy, európsky futbal a úspechy bulharských športovcov, napríklad v zápasení či vzpieraní. Sekcia portálu Dnes.bg, ktorý vydáva Investor.BG AD.",
    "url": "https://www.dnes.bg/c/9-sport",
    "order": 14,
-   "desc_en": "Sports news from the portal Dnes.bg"
+   "desc_en": "Up-to-date sports news – results from the Bulgarian First League, European football and the successes of Bulgarian athletes, for example in wrestling or weightlifting. Section of Dnes.bg, published by Investor.BG AD."
   },
   {
    "id": "n1782406467772g42",
@@ -18575,10 +18564,10 @@
    "type": "link",
    "icon": "",
    "name": "BTA sport",
-   "desc": "Šport bulharskej tlačovej agentúry BTA",
+   "desc": "Anglické správy o bulharskom športe – zápasenie, atletika, volejbal, taekwondo a ďalšie, výsledky Bulharov na svetových šampionátoch a činnosť zväzov. Národná tlačová agentúra BTA (od 1898).",
    "url": "https://www.bta.bg/en/news/sport",
    "order": 15,
-   "desc_en": "Sport from the Bulgarian news agency BTA"
+   "desc_en": "English-language news on Bulgarian sport – wrestling, athletics, volleyball, taekwondo and more, Bulgarians' results at world championships and the work of federations. Bulgarian News Agency BTA (since 1898)."
   },
   {
    "id": "n17824065220433w1",
@@ -18586,10 +18575,10 @@
    "type": "link",
    "icon": "",
    "name": "Marica sport",
-   "desc": "Šport plovdivského denníka Marica",
+   "desc": "Šport z Plovdivu a okolia – basketbalové kluby Lokomotiv a Botev Akademik, mladé talenty, tenis, ale aj bulharský a svetový futbal. Plovdivský denník Marica s tradíciou od roku 1878 (obnovený 1991).",
    "url": "https://www.marica.bg/sport",
    "order": 16,
-   "desc_en": "Sport from the Plovdiv daily Marica"
+   "desc_en": "Sport from Plovdiv and the region – basketball clubs Lokomotiv and Botev Akademik, young talents, tennis, plus Bulgarian and world football. Plovdiv daily Maritsa, with roots dating back to 1878 (relaunched in 1991)."
   },
   {
    "id": "n1782406546333zmc",
@@ -18597,10 +18586,10 @@
    "type": "link",
    "icon": "",
    "name": "Duma sport",
-   "desc": "Športová rubrika denníka Duma",
+   "desc": "Prehľad športových správ – bulharský futbal (CSKA, Levski, Ludogorec), zápasenie, vzpieranie, bedminton a denný program športu v televízii. Ľavicový denník Duma (od 1990), od mája 2026 už len online.",
    "url": "https://www.duma.bg/?go=news&p=list&categoryId=7",
    "order": 17,
-   "desc_en": "Sports column of the daily Duma"
+   "desc_en": "A round-up of sports news – Bulgarian football (CSKA, Levski, Ludogorets), wrestling, weightlifting, badminton and a daily guide to sport on TV. Left-wing daily Duma (since 1990), online-only since May 2026."
   },
   {
    "id": "n1782406617370ak6",
@@ -18608,10 +18597,10 @@
    "type": "link",
    "icon": "",
    "name": "Plovdiv24 sport",
-   "desc": "Športové správy z Plovdivu",
+   "desc": "Šport z Plovdivu – futbal, futsal, tenis, basketbal, volejbal a mládež, samostatné stránky klubov Botev, Lokomotiv, Marica a Spartak Plovdiv aj rozhovory. Regionálny portál v prevádzke od roku 2004.",
    "url": "https://www.plovdiv24.bg/sport",
    "order": 18,
-   "desc_en": "Sports news from Plovdiv"
+   "desc_en": "Sport from Plovdiv – football, futsal, tennis, basketball, volleyball and youth sport, dedicated pages for Botev, Lokomotiv, Maritsa and Spartak Plovdiv, plus interviews. A regional portal running since 2004."
   },
   {
    "id": "n1782406643354prf",
@@ -18619,10 +18608,10 @@
    "type": "link",
    "icon": "",
    "name": "Petel sport",
-   "desc": "Športová rubrika portálu Petel",
+   "desc": "Športová rubrika varnianskeho portálu – bulharský futbal s dôrazom na Černo more Varna, tenis a ďalšie športy, vyjadrenia trénerov a hráčov a denný program športu v televízii.",
    "url": "https://petel.bg/novini/Sport-__28",
    "order": 19,
-   "desc_en": "Sports column of the portal Petel"
+   "desc_en": "Sports section of a Varna-based portal – Bulgarian football with a focus on Cherno More Varna, tennis and other sports, statements from coaches and players and a daily guide to sport on TV."
   },
   {
    "id": "n1782406697479cts",
@@ -18630,21 +18619,21 @@
    "type": "link",
    "icon": "",
    "name": "BGbasket",
-   "desc": "Bulharský basketbalový portál",
+   "desc": "Všetko o bulharskom basketbale – muži, ženy aj mládež, výsledky, tabuľky, individuálna a tímová štatistika, prestupy, profily hráčov, história, rozhovory, vozíčkarský basketbal a 3x3.",
    "url": "https://bgbasket.com/",
    "order": 20,
-   "desc_en": "Bulgarian basketball portal"
+   "desc_en": "Everything about Bulgarian basketball – men, women and youth, results, standings, individual and team statistics, transfers, player profiles, history, interviews, wheelchair basketball and 3x3."
   },
   {
    "id": "n1782406772474z2e",
    "parentId": "f_med_eu_bg",
    "type": "link",
    "icon": "",
-   "name": "Segabg sport",
-   "desc": "Športová sekcia denníka Sega",
+   "name": "Sega sport",
+   "desc": "Futbal z Bulharska aj zo sveta, tenis, motoršport, bojové a ďalšie športy, výsledky a tabuľky Prvej ligy s videoreportážami. Online nástupca denníka Sega, založeného v roku 1997.",
    "url": "https://www.segabg.com/sport",
    "order": 21,
-   "desc_en": "The daily Sega's sports section"
+   "desc_en": "Football from Bulgaria and abroad, tennis, motorsport, combat and other sports, First League results and standings with video reports. The online successor of the Sega daily, founded in 1997."
   },
   {
    "id": "n1782406832356pe5",
@@ -18652,10 +18641,10 @@
    "type": "link",
    "icon": "",
    "name": "Topnovini sport",
-   "desc": "Športové správy portálu Topnovini",
+   "desc": "Športová sekcia agregátora správ – zhromažďuje titulky a odkazy na články iných médií o bulharskom a svetovom futbale, tenise, basketbale a volejbale. Bez vlastnej redakcie.",
    "url": "https://www.topnovini.com/sports",
    "order": 22,
-   "desc_en": "Sports news from the portal Topnovini"
+   "desc_en": "Sports section of a news aggregator – it collects headlines and links to articles from other media on Bulgarian and world football, tennis, basketball and volleyball. No newsroom of its own."
   },
   {
    "id": "n1782406851604oef",
@@ -18663,10 +18652,10 @@
    "type": "link",
    "icon": "",
    "name": "Temasport",
-   "desc": "Bulharský športový web Temasport",
+   "desc": "Od efbet Ligy po amatérsky futbal – profily klubov, analýzy, rozhovory a príbehy, svetový futbal, basketbal, volejbal, tenis, atletika aj americké športy a livescore. Web športových novín Tema Sport.",
    "url": "https://temasport.com/",
    "order": 23,
-   "desc_en": "Bulgarian sports website Temasport"
+   "desc_en": "From the efbet League to amateur football – club profiles, analyses, interviews and stories, world football, basketball, volleyball, tennis, athletics, American sports and livescore. Website of the Tema Sport newspaper."
   },
   {
    "id": "n1782406922666xnq",
@@ -18674,10 +18663,10 @@
    "type": "link",
    "icon": "",
    "name": "Standart sport",
-   "desc": "Športová rubrika denníka Standart",
+   "desc": "Športové správy, výsledky a analýzy – bulharský a svetový futbal, tenis a ďalšie športy, s rýchlymi aktualitami počas dňa. Športová rubrika denníka Standart, ktorý vychádza od roku 1992.",
    "url": "https://www.standartnews.com/sport.html",
    "order": 24,
-   "desc_en": "Sports column of the daily Standart"
+   "desc_en": "Sports news, results and analysis – Bulgarian and world football, tennis and other sports, with quick updates throughout the day. Sports section of the Standart daily, published since 1992."
   },
   {
    "id": "n1782406960796np2",
@@ -18685,10 +18674,10 @@
    "type": "link",
    "icon": "",
    "name": "Fakti sport",
-   "desc": "Športová rubrika portálu Fakti",
+   "desc": "Rozsiahla rubrika: bulharský a svetový futbal, basketbal, volejbal, tenis, atletika, bojové, motoristické a zimné športy aj prehľad športu v TV. Spravodajský portál vydavateľstva Rezon Media.",
    "url": "https://fakti.bg/sport",
    "order": 25,
-   "desc_en": "Sports column of the portal Fakti"
+   "desc_en": "An extensive section: Bulgarian and world football, basketball, volleyball, tennis, athletics, combat, motor and winter sports, plus a guide to sport on TV. News portal published by Rezon Media."
   },
   {
    "id": "n1782406983505xav",
@@ -18696,10 +18685,10 @@
    "type": "link",
    "icon": "",
    "name": "Blitz sport",
-   "desc": "Športové správy portálu Blitz",
-   "url": "https://blitz.bg/sport",
+   "desc": "Profily klubov CSKA, Levski, Ludogorec a ďalších, Elitbet Tretia liga, svetový futbal a ďalšie športy, rozhovory, komentáre a výsledky. Športový web Informačnej agentúry Blic.",
+   "url": "https://sport.blitz.bg/",
    "order": 26,
-   "desc_en": "Sports news from the portal Blitz"
+   "desc_en": "Profiles of CSKA, Levski, Ludogorets and other clubs, the Elitbet Third League, world football and other sports, interviews, opinion pieces and results. Sports website of the Blitz Information Agency."
   },
   {
    "id": "n17830911562642il",
@@ -18769,10 +18758,10 @@
    "type": "link",
    "icon": "",
    "name": "Vijesti sport",
-   "desc": "Šport najčítanejšieho čiernohorského denníka Vijesti",
+   "desc": "Vodné pólo, volejbal, hádzaná a bojové športy popri futbale, basketbale a tenise, rubriky Šport a mládež a Športový marketing. Šport podgorického denníka Vijesti (od 1997).",
    "url": "https://www.vijesti.me/sport",
    "order": 0,
-   "desc_en": "Sport from the most-read Montenegrin daily, Vijesti"
+   "desc_en": "Water polo, volleyball, handball and combat sports alongside football, basketball and tennis, plus the Sport and Youth and Sports Marketing sections. Sports section of Podgorica daily Vijesti (since 1997)."
   },
   {
    "id": "n1783687924870uf2",
@@ -18780,10 +18769,10 @@
    "type": "link",
    "icon": "",
    "name": "RTCG sport",
-   "desc": "Šport čiernohorskej verejnoprávnej RTCG",
+   "desc": "Výsledky a tabuľky, živé blogy, videá a rubrika Mladé talenty – futbal, basketbal, vodné pólo, hádzaná, tenis a volejbal. Šport čiernohorskej verejnoprávnej RTCG z Podgorice.",
    "url": "https://rtcg.me/sport.html",
    "order": 1,
-   "desc_en": "Sport from the Montenegrin public broadcaster RTCG"
+   "desc_en": "Results and tables, live blogs, videos and the Young Talents section – football, basketball, water polo, handball, tennis and volleyball. Sports section of Montenegrin public broadcaster RTCG, Podgorica."
   },
   {
    "id": "n1783687946046cwg",
@@ -18791,10 +18780,10 @@
    "type": "link",
    "icon": "",
    "name": "CdM sport",
-   "desc": "Športová rubrika portálu Cafe del Montenegro",
+   "desc": "Čiernohorské kluby aj európske súťaže vo futbale, basketbale, hádzanej, tenise, vodnom póle a ďalších športoch. Rubrika portálu CdM (Cafe del Montenegro), najstaršieho v Čiernej Hore (od 1997).",
    "url": "https://www.cdm.me/sport/",
    "order": 2,
-   "desc_en": "Sports column of the portal Cafe del Montenegro"
+   "desc_en": "Montenegrin clubs and European competitions in football, basketball, handball, tennis, water polo and other sports. Section of CdM (Cafe del Montenegro), Montenegro's oldest news portal (since 1997)."
   },
   {
    "id": "n1783687969181dw2",
@@ -18802,10 +18791,10 @@
    "type": "link",
    "icon": "",
    "name": "Pobjeda sport",
-   "desc": "Športová sekcia denníka Pobjeda",
+   "desc": "Budućnost, Jadran a ďalšie čiernohorské kluby vo futbale, basketbale, hádzanej a vodnom póle, k tomu Športový mix. Šport podgorického denníka Pobjeda (od 1944).",
    "url": "https://www.pobjeda.me/sport",
    "order": 3,
-   "desc_en": "The daily Pobjeda's sports section"
+   "desc_en": "Budućnost, Jadran and other Montenegrin clubs in football, basketball, handball and water polo, plus a sports mix. Sports section of Podgorica daily Pobjeda (since 1944)."
   },
   {
    "id": "n1783688667579zlx",
@@ -18813,21 +18802,21 @@
    "type": "link",
    "icon": "",
    "name": "Dan sport",
-   "desc": "Športová sekcia denníka Dan",
+   "desc": "Futbal vrátane Prvej čiernohorskej ligy, basketbal (Budućnost v Eurocupe), tenis, vodné pólo a ostatné športy. Športová sekcia podgorického denníka Dan.",
    "url": "https://www.dan.co.me/sport/",
    "order": 4,
-   "desc_en": "The daily Dan's sports section"
+   "desc_en": "Football including the Montenegrin First League, basketball (Budućnost in the EuroCup), tennis, water polo and other sports. Sports section of Podgorica daily Dan."
   },
   {
    "id": "n17836886983313ma",
    "parentId": "f_med_eu_me",
    "type": "link",
    "icon": "",
-   "name": "Portalanalitika sport",
-   "desc": "Športová rubrika Portal Analitika",
+   "name": "Portal Analitika sport",
+   "desc": "Výsledky a analýzy zápasov čiernohorských klubov vo futbale, basketbale, hádzanej, vodnom póle, volejbale, tenise a bojových športoch. Šport Portalu Analitika (od 2009).",
    "url": "https://www.portalanalitika.me/sport",
    "order": 5,
-   "desc_en": "Sports column of Portal Analitika"
+   "desc_en": "Results and match analysis of Montenegrin clubs in football, basketball, handball, water polo, volleyball, tennis and combat sports. Sports section of Portal Analitika (since 2009)."
   },
   {
    "id": "n1783688726429g47",
@@ -18835,10 +18824,10 @@
    "type": "link",
    "icon": "",
    "name": "Antena M sport",
-   "desc": "Športové správy rádia Antena M",
+   "desc": "Krátke správy z futbalu, basketbalu a vodného póla o Budućnosti, Jadrane aj veľkých európskych súťažiach. Športová rubrika nezávislého podgorického rádia Antena M.",
    "url": "https://www.antenam.net/sport",
    "order": 6,
-   "desc_en": "Sports news from the radio station Antena M"
+   "desc_en": "Short news from football, basketball and water polo on Budućnost, Jadran and the big European competitions. Sports section of independent Podgorica radio Antena M."
   },
   {
    "id": "n1783688751249ukj",
@@ -18846,10 +18835,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportski",
-   "desc": "Čiernohorský športový portál Sportski.me",
+   "desc": "Futbal (Liga majstrov, reprezentácia), basketbal od Euroligy a ABA ligy po domáce súťaže a WABA ligu, vodné pólo, olympizmus aj študentský šport. Vydáva NVU Basket Podgorica.",
    "url": "https://sportski.me/",
    "order": 7,
-   "desc_en": "Montenegrin sports portal Sportski.me"
+   "desc_en": "Football (Champions League, national team), basketball from the EuroLeague and ABA League to domestic competitions and the WABA League, water polo, Olympism and student sport. Published by NVU Basket Podgorica."
   },
   {
    "id": "n1783688774898wwm",
@@ -18857,10 +18846,10 @@
    "type": "link",
    "icon": "",
    "name": "Lobsport",
-   "desc": "Čiernohorský športový web Lobsport",
+   "desc": "Reprezentácia, futbal, basketbal, hádzaná a vodné pólo z čiernohorského uhla pohľadu, k tomu komentárová rubrika Lobovanje a správy zo sveta. Vydáva Lob Company d.o.o. z Podgorice.",
    "url": "https://lobsport.me/",
    "order": 8,
-   "desc_en": "Montenegrin sports website Lobsport"
+   "desc_en": "The national teams, football, basketball, handball and water polo from a Montenegrin angle, plus the Lobovanje commentary section and world news. Published by Lob Company d.o.o. of Podgorica."
   },
   {
    "id": "n17836888009424r5",
@@ -18868,10 +18857,10 @@
    "type": "link",
    "icon": "",
    "name": "CG Sport",
-   "desc": "Čiernohorské športové správy CG Sport",
+   "desc": "Čiernohorský futbal, basketbal, hádzaná, vodné pólo a bojové športy, správy o kluboch aj o legionároch v zahraničných ligách. Portál z Nikšića, spustený v marci 2019.",
    "url": "https://cgsport.me/",
    "order": 9,
-   "desc_en": "Montenegrin sports news CG Sport"
+   "desc_en": "Montenegrin football, basketball, handball, water polo and combat sports, with news on clubs and on players in foreign leagues. Portal from Nikšić, launched in March 2019."
   },
   {
    "id": "n1783688825927pzh",
@@ -18879,10 +18868,10 @@
    "type": "link",
    "icon": "",
    "name": "Meridian Sport",
-   "desc": "Čiernohorská mutácia portálu Meridian sport",
+   "desc": "Futbal od Meridianbet 1. a 2. CFL po Ligu majstrov, basketbal, tenis, tipy na zápasy a archívne rubriky ako Flashback či Na dnešný deň. Prevádzkuje Meridian Consulting Global.",
    "url": "https://meridiansport.me/",
    "order": 10,
-   "desc_en": "The Montenegrin version of the portal Meridian Sport"
+   "desc_en": "Football from the Meridianbet 1st and 2nd CFL to the Champions League, basketball, tennis, match tips and archive features such as Flashback and On This Day. Run by Meridian Consulting Global."
   },
   {
    "id": "n1783688849206ii2",
@@ -18890,10 +18879,10 @@
    "type": "link",
    "icon": "",
    "name": "Sportfem",
-   "desc": "Portál o ženskom športe v Čiernej Hore",
+   "desc": "Výhradne ženský šport – futbal, basketbal, hádzaná, volejbal, rozhovory a rubrika o zdraví športovkýň vrátane menštruačného cyklu a úrazov. Podgorický portál, zakladateľ NVO Svijet-Mondo.",
    "url": "https://sportfem.me/",
    "order": 11,
-   "desc_en": "Portal about women's sport in Montenegro"
+   "desc_en": "Women's sport only – football, basketball, handball, volleyball, interviews and a section on athletes' health including the menstrual cycle and injuries. Podgorica portal founded by the NGO Svijet-Mondo."
   },
   {
    "id": "n17836889464239r2",
@@ -18901,10 +18890,10 @@
    "type": "link",
    "icon": "",
    "name": "Borba sport",
-   "desc": "Športová rubrika portálu Borba",
+   "desc": "Čiernohorské kluby aj Euroliga – správy z futbalu, basketbalu, hádzanej a ďalších športov. Rubrika portálu Borba.me, vydáva Naša Borba d.o.o. z Podgorice.",
    "url": "https://borba.me/sport/",
    "order": 12,
-   "desc_en": "Sports column of the portal Borba"
+   "desc_en": "Montenegrin clubs and the EuroLeague – news from football, basketball, handball and other sports. Section of the Borba.me portal, published by Naša Borba d.o.o. of Podgorica."
   },
   {
    "id": "n1783688969311gtt",
@@ -18912,10 +18901,10 @@
    "type": "link",
    "icon": "",
    "name": "M Portal sport",
-   "desc": "Športové správy M Portalu",
+   "desc": "Rôzne športy od futbalu, basketbalu a hádzanej po lyžovanie a karate, správy o čiernohorských kluboch a reprezentácii. Športová rubrika podgorického portálu mportal.me.",
    "url": "https://www.mportal.me/sport",
    "order": 13,
-   "desc_en": "Sports news from M Portal"
+   "desc_en": "A range of sports from football, basketball and handball to skiing and karate, with news on Montenegrin clubs and national teams. Sports section of Podgorica portal mportal.me."
   },
   {
    "id": "n1783688997930kwr",
@@ -18923,10 +18912,10 @@
    "type": "link",
    "icon": "",
    "name": "Aktuelno sport",
-   "desc": "Športová rubrika portálu Aktuelno",
-   "url": "https://www.aktuelno.me/en/sport",
+   "desc": "Priebežné krátke správy o Budućnosti, Jadrane a ďalších kluboch vo futbale, basketbale, hádzanej a vodnom póle. Športová rubrika portálu Aktuelno.me, ktorý založil Ski Resort Kolašin 1450.",
+   "url": "https://www.aktuelno.me/sport",
    "order": 14,
-   "desc_en": "Sports column of the portal Aktuelno"
+   "desc_en": "Short running news on Budućnost, Jadran and other clubs in football, basketball, handball and water polo. Sports section of Aktuelno.me, a portal founded by Ski Resort Kolašin 1450."
   },
   {
    "id": "n1783689051653734",
@@ -18934,21 +18923,21 @@
    "type": "link",
    "icon": "",
    "name": "Gradski sport",
-   "desc": "Športové správy portálu Gradski.me",
+   "desc": "Správy o podgorickej Budućnosti, čiernohorskom vodnom póle aj európskom futbale. Športová rubrika portálu Gradski.me mestskej RTV Podgorica (rádio 103 FM).",
    "url": "https://gradski.me/category/sport/",
    "order": 15,
-   "desc_en": "Sports news from the portal Gradski.me"
+   "desc_en": "News on Podgorica's Budućnost, Montenegrin water polo and European football. Sports section of Gradski.me, the portal of city broadcaster RTV Podgorica (radio 103 FM)."
   },
   {
    "id": "n1783689076452wfv",
    "parentId": "f_med_eu_me",
    "type": "link",
    "icon": "",
-   "name": "Standart sport",
-   "desc": "Športová rubrika portálu Standard.co.me",
+   "name": "Standard sport",
+   "desc": "Basketbal, futbal a ďalšie športy, prestupy a správy o čiernohorských športovcoch doma aj v zahraničných ligách. Rubrika portálu Standard, vydáva Standard Media d.o.o. z Podgorice.",
    "url": "https://standard.co.me/sport",
    "order": 16,
-   "desc_en": "Sports column of the portal Standard.co.me"
+   "desc_en": "Basketball, football and other sports, transfers and news on Montenegrin athletes at home and in foreign leagues. Section of the Standard portal, published by Standard Media d.o.o. of Podgorica."
   },
   {
    "id": "n1783689174772m3u",
@@ -18956,10 +18945,10 @@
    "type": "link",
    "icon": "",
    "name": "MINA sport",
-   "desc": "Šport čiernohorskej tlačovej agentúry MINA",
+   "desc": "Agentúrny prehľad zápasov a výsledkov – basketbal, vodné pólo, volejbal a futbal s dôrazom na čiernohorské kluby v Európe. Šport nezávislej spravodajskej agentúry MINA z Podgorice (od 2002).",
    "url": "https://mina.news/category/sport-paket",
    "order": 17,
-   "desc_en": "Sport from the Montenegrin news agency MINA"
+   "desc_en": "Agency round-up of matches and results – basketball, water polo, volleyball and football with a focus on Montenegrin clubs in Europe. Sports service of independent news agency MINA, Podgorica (since 2002)."
   },
   {
    "id": "n1783689218906460",
@@ -18967,10 +18956,10 @@
    "type": "link",
    "icon": "",
    "name": "Press sport",
-   "desc": "Športová rubrika portálu Press.co.me",
+   "desc": "Výber športových správ z tenisu, futbalu a čiernohorského športu vrátane výstavby športovej infraštruktúry. Rubrika portálu Press, vydáva Montenegro Press Company d.o.o. z Podgorice.",
    "url": "https://press.co.me/category/sport/",
    "order": 18,
-   "desc_en": "Sports column of the portal Press.co.me"
+   "desc_en": "A selection of sports news from tennis, football and Montenegrin sport, including the building of sports facilities. Section of the Press portal, published by Montenegro Press Company d.o.o. of Podgorica."
   },
   {
    "id": "n1783689270423u10",
@@ -18978,10 +18967,10 @@
    "type": "link",
    "icon": "",
    "name": "Kurir sport",
-   "desc": "Šport srbského denníka Kurir",
+   "desc": "Srbský futbal a basketbal s rubrikou Euroliga, tenis s dôrazom na Novaka Djokoviča, MMA a stávkové kurzy. Šport belehradského bulvárneho denníka Kurir (od 2003).",
    "url": "https://www.kurir.rs/sport",
    "order": 19,
-   "desc_en": "Sport from the Serbian daily Kurir"
+   "desc_en": "Serbian football and basketball with a EuroLeague section, tennis with a focus on Novak Djokovic, MMA and betting odds. Sports section of Belgrade tabloid daily Kurir (since 2003)."
   },
   {
    "id": "n1783689590637fce",
@@ -18989,10 +18978,10 @@
    "type": "link",
    "icon": "",
    "name": "Bold",
-   "desc": "Dánsky futbalový web — Superliga a prestupy",
+   "desc": "Dánsky futbal od 3F Superligy po 3. divíziu, kluby ako FCK, Brøndby či AGF, aj zahraničné ligy; livescore, tabuľky, TV program a podcast. Futbalový web Bold.dk (od 1999).",
    "url": "https://bold.dk/",
    "order": 0,
-   "desc_en": "Danish football website — the Superliga and transfers"
+   "desc_en": "Danish football from the 3F Superliga down to the 3rd Division, clubs such as FCK, Brøndby and AGF, plus foreign leagues; livescore, tables, TV guide and a podcast. Football site Bold.dk (since 1999)."
   },
   {
    "id": "n17836896220468tk",
@@ -19000,10 +18989,10 @@
    "type": "link",
    "icon": "",
    "name": "Tipsbladet",
-   "desc": "Tradičný dánsky futbalový magazín",
+   "desc": "Superliga a medzinárodný futbal – správy, livescore, videá, ligy a kluby, komentáre Mortena Bruuna aj draftová hra. Dánsky futbalový týždenník Tipsbladet (od 1948).",
    "url": "https://www.tipsbladet.dk/",
    "order": 1,
-   "desc_en": "Traditional Danish football magazine"
+   "desc_en": "The Superliga and international football – news, livescore, videos, leagues and clubs, columns by Morten Bruun and a draft game. Danish weekly football magazine Tipsbladet (since 1948)."
   },
   {
    "id": "n17836896443516g5",
@@ -19011,10 +19000,10 @@
    "type": "link",
    "icon": "",
    "name": "DR Sporten",
-   "desc": "Šport dánskej verejnoprávnej televízie DR",
+   "desc": "Hádzaná, futbal, cyklistika, tenis a hokej s Dánmi v NHL; živé prenosy, výsledky, analýzy aj témy o zdraví a behu. Šport dánskej verejnoprávnej DR (od 1925).",
    "url": "https://www.dr.dk/sporten",
    "order": 2,
-   "desc_en": "Sport from the Danish public broadcaster DR"
+   "desc_en": "Handball, football, cycling, tennis and ice hockey with Danes in the NHL; live coverage, results, analysis and pieces on health and running. Sport from Danish public broadcaster DR (since 1925)."
   },
   {
    "id": "n1783689666720zrn",
@@ -19022,21 +19011,21 @@
    "type": "link",
    "icon": "",
    "name": "TV 2 Sport",
-   "desc": "Športová redakcia dánskej TV 2",
+   "desc": "3F Superliga a ďalší futbal, hádzaná, cyklistika, bedminton, NFL a tenis; živé výsledky, turnaje a videá. Športová redakcia dánskej televízie TV 2 (vysiela od 1988).",
    "url": "https://sport.tv2.dk/",
    "order": 3,
-   "desc_en": "The sports desk of Danish TV 2"
+   "desc_en": "The 3F Superliga and other football, handball, cycling, badminton, the NFL and tennis; live results, tournaments and videos. The sports desk of Danish broadcaster TV 2 (on air since 1988)."
   },
   {
    "id": "n1783689698306gku",
    "parentId": "f_med_eu_dk",
    "type": "link",
    "icon": "",
-   "name": "Ekstrabladet sport",
-   "desc": "Športová sekcia bulvárneho Ekstra Bladet",
+   "name": "Ekstra Bladet sport",
+   "desc": "Dánsky a zahraničný futbal, hádzaná, cyklistika, bedminton, tenis a MMA, prémiový obsah Ekstra Bladet+ a manažérska hra. Šport bulvárneho denníka Ekstra Bladet (od 1904, JP/Politikens Hus).",
    "url": "https://ekstrabladet.dk/sport/",
    "order": 4,
-   "desc_en": "The tabloid Ekstra Bladet's sports section"
+   "desc_en": "Danish and foreign football, handball, cycling, badminton, tennis and MMA, premium Ekstra Bladet+ content and a manager game. Sport from the tabloid Ekstra Bladet (since 1904, JP/Politikens Hus)."
   },
   {
    "id": "n1783689726355iiq",
@@ -19044,21 +19033,21 @@
    "type": "link",
    "icon": "",
    "name": "B.T. Sport",
-   "desc": "Športová sekcia denníka B.T.",
+   "desc": "Rýchle správy z futbalu (Superliga, Liga Cup, top ligy), tenisu, hádzanej a bojových športov, aj príbehy hviezd mimo ihriska. Šport B.T. (od 1916), od 2023 len digitálneho média Berlingske Media.",
    "url": "https://www.bt.dk/sport",
    "order": 5,
-   "desc_en": "The daily B.T.'s sports section"
+   "desc_en": "Fast news from football (Superliga, League Cup, top leagues), tennis, handball and combat sports, plus off-pitch stories about stars. Sport from B.T. (since 1916), a digital-only Berlingske Media title since 2023."
   },
   {
    "id": "n17836897643921ol",
    "parentId": "f_med_eu_dk",
    "type": "link",
    "icon": "",
-   "name": "Jyllands-posten sport",
-   "desc": "Športová sekcia denníka Jyllands-Posten",
+   "name": "Jyllands-Posten sport",
+   "desc": "Správy a analýzy o Superlige, dánskych tenistoch či vzpieraní – rubriky futbal, tenis, hádzaná a F1. Šport denníka Jyllands-Posten (od 1871, JP/Politikens Hus).",
    "url": "https://jyllands-posten.dk/sport",
    "order": 6,
-   "desc_en": "The daily Jyllands-Posten's sports section"
+   "desc_en": "News and analysis on the Superliga, Danish tennis players and weightlifting – with football, tennis, handball and F1 sections. Sport from the daily Jyllands-Posten (since 1871, JP/Politikens Hus)."
   },
   {
    "id": "n1783689796524a1s",
@@ -19066,10 +19055,10 @@
    "type": "link",
    "icon": "",
    "name": "Berlingske sport",
-   "desc": "Športová sekcia denníka Berlingske",
+   "desc": "Priebežný prúd športových správ – dánsky futbal (FCK, Brøndby, FCM), Premier League, Serie A a tenis – s časom zverejnenia. Šport denníka Berlingske (vychádza od 1749).",
    "url": "https://www.berlingske.dk/sport",
    "order": 7,
-   "desc_en": "The daily Berlingske's sports section"
+   "desc_en": "A running stream of sports news – Danish football (FCK, Brøndby, FCM), the Premier League, Serie A and tennis – with publication times. Sport from the daily Berlingske (published since 1749)."
   },
   {
    "id": "n1783689822827j3p",
@@ -19077,10 +19066,10 @@
    "type": "link",
    "icon": "",
    "name": "Politiken sport",
-   "desc": "Športová sekcia denníka Politiken",
+   "desc": "Od futbalu (Superliga, Premier League) cez cyklistiku a hádzanú po golf, tenis, F1, hokej a plávanie – správy i analýzy. Šport kodanského denníka Politiken (od 1884).",
    "url": "https://politiken.dk/sport/",
    "order": 8,
-   "desc_en": "The daily Politiken's sports section"
+   "desc_en": "From football (Superliga, Premier League) through cycling and handball to golf, tennis, F1, ice hockey and swimming – news and analysis. Sport from the Copenhagen daily Politiken (since 1884)."
   },
   {
    "id": "n1783689852513fxa",
@@ -19088,10 +19077,10 @@
    "type": "link",
    "icon": "",
    "name": "Nordjyske sport",
-   "desc": "Šport zo severného Jutska — Nordjyske",
+   "desc": "Šport severného Jutska – AaB, Aalborg Håndbold, Hobro IK, Vendsyssel FF, Mors-Thy Håndbold, Aalborg Pirates a Frederikshavn White Hawks. Šport denníka Nordjyske (korene od 1767).",
    "url": "https://nordjyske.dk/nyheder/sport",
    "order": 9,
-   "desc_en": "Sport from northern Jutland — Nordjyske"
+   "desc_en": "Sport in North Jutland – AaB, Aalborg Håndbold, Hobro IK, Vendsyssel FF, Mors-Thy Håndbold, Aalborg Pirates and Frederikshavn White Hawks. Sport from the daily Nordjyske (roots back to 1767)."
   },
   {
    "id": "n1783689893231udo",
@@ -19099,10 +19088,10 @@
    "type": "link",
    "icon": "",
    "name": "Stiften sport",
-   "desc": "Šport denníka Aarhus Stiftstidende",
+   "desc": "Aarhuský šport – AGF a jeho fanúšikovia, basketbalový Bakken Bears a ďalšie miestne kluby, k tomu živé výsledky DirekteSport. Šport denníka Århus Stiftstidende (od 1794, Jysk Fynske Medier).",
    "url": "https://stiften.dk/sport",
    "order": 10,
-   "desc_en": "Sport from the daily Aarhus Stiftstidende"
+   "desc_en": "Aarhus sport – AGF and its fans, the basketball club Bakken Bears and other local clubs, plus DirekteSport live results. Sport from the daily Århus Stiftstidende (since 1794, Jysk Fynske Medier)."
   },
   {
    "id": "n1783689918518lsn",
@@ -19110,10 +19099,10 @@
    "type": "link",
    "icon": "",
    "name": "Fyens sport",
-   "desc": "Šport denníka Fyens Stiftstidende — Odense",
+   "desc": "Fynský šport – futbalové OB, Odense Håndbold a miestni športovci z ostrova Fyn, s reportážami a súťažami o lístky. Šport denníka Fyens Stiftstidende z Odense (od 1772, Jysk Fynske Medier).",
    "url": "https://fyens.dk/sport",
    "order": 11,
-   "desc_en": "Sport from the daily Fyens Stiftstidende — Odense"
+   "desc_en": "Sport on Funen – OB in football, Odense Håndbold and local athletes from the island, with reports and ticket giveaways. Sport from Odense's daily Fyens Stiftstidende (since 1772, Jysk Fynske Medier)."
   },
   {
    "id": "n17836899423837cq",
@@ -19121,10 +19110,10 @@
    "type": "link",
    "icon": "",
    "name": "SN sport",
-   "desc": "Športové správy zo Sjællandu — SN.dk",
-   "url": "https://www.sn.dk/sport/",
+   "desc": "Lokálny šport južného a západného Zélandu – futbal (Næstved, Slagelse), hádzaná (TMS Ringsted), mládežnícky futbal a miestni športovci. Šport denníka Sjællandske zo Sjællandske Medier.",
+   "url": "https://sjaellandske.sn.dk/sport",
    "order": 12,
-   "desc_en": "Sports news from Zealand — SN.dk"
+   "desc_en": "Local sport in southern and western Zealand – football (Næstved, Slagelse), handball (TMS Ringsted), youth football and local athletes. Sport from the daily Sjællandske, part of Sjællandske Medier."
   },
   {
    "id": "n1783689966379svx",
@@ -19132,10 +19121,10 @@
    "type": "link",
    "icon": "",
    "name": "Campo",
-   "desc": "Dánsky futbalový web Campo",
+   "desc": "Superliga, Betinia Liga, pohár a top európske ligy – správy, live blogy o Dánoch v zahraničí, tabuľky, výsledky a TV program. Dánsky futbalový web Campo.dk.",
    "url": "https://campo.dk/",
    "order": 13,
-   "desc_en": "Danish football website Campo"
+   "desc_en": "The Superliga, Betinia Liga, the cup and Europe's top leagues – news, live blogs on Danes abroad, tables, results and a TV guide. Danish football website Campo.dk."
   },
   {
    "id": "n1783689989800vp9",
@@ -19143,10 +19132,10 @@
    "type": "link",
    "icon": "",
    "name": "Indkast",
-   "desc": "Dánsky futbalový web Indkast",
+   "desc": "Futbalové správy – Superliga, FCK, FCM, Real Madrid a prestupy; TV program, live a tabuľky, so sesterskými webmi o hádzanej a hokeji. Dánsky futbalový web Indkast.dk.",
    "url": "https://indkast.dk/",
    "order": 14,
-   "desc_en": "Danish football website Indkast"
+   "desc_en": "Football news – the Superliga, FCK, FCM, Real Madrid and transfers; TV guide, live and tables, with sister sites on handball and ice hockey. Danish football website Indkast.dk."
   },
   {
    "id": "n1783690128180pks",
@@ -19154,10 +19143,10 @@
    "type": "link",
    "icon": "",
    "name": "HSFO sport",
-   "desc": "Šport denníka Horsens Folkeblad",
+   "desc": "AC Horsens vo futbale, HH Elite v hádzanej a miestny motoršport – so známkami hráčov a reportážami zo zápasov. Šport miestneho denníka Horsens Folkeblad (pod týmto názvom od 1866).",
    "url": "https://hsfo.dk/sport",
    "order": 15,
-   "desc_en": "Sport from the daily Horsens Folkeblad"
+   "desc_en": "AC Horsens in football, HH Elite in handball and local motorsport – with player ratings and match reports. Sport from the local daily Horsens Folkeblad (under this name since 1866)."
   },
   {
    "id": "n1783690214000cm8",
@@ -19165,10 +19154,10 @@
    "type": "link",
    "icon": "",
    "name": "Amtsavisen sport",
-   "desc": "Šport denníka Randers Amtsavis",
+   "desc": "Randers FC so známkami hráčov a rozhovormi, aj ďalšie miestne kluby z Kronjyllandu. Šport regionálneho denníka Randers Amtsavis z Randersu (od 1810).",
    "url": "https://amtsavisen.dk/sport",
    "order": 16,
-   "desc_en": "Sport from the daily Randers Amtsavis"
+   "desc_en": "Randers FC with player ratings and interviews, plus other local clubs from Kronjylland. Sport from the regional daily Randers Amtsavis (since 1810)."
   },
   {
    "id": "n1783718209152dof",
@@ -20023,10 +20012,10 @@
    "type": "link",
    "icon": "",
    "name": "SportKlub",
-   "desc": "Športové správy Sport Klub na portáli N1",
-   "url": "https://sportklub.n1info.hr/",
+   "desc": "Športové správy chorvátskeho portálu Sport Klub",
+   "url": "https://sportklub.hr/",
    "order": 13,
-   "desc_en": "Sports news Sport Klub on the portal N1"
+   "desc_en": "Sports news from the Croatian Sport Klub portal"
   },
   {
    "id": "n17837702077740rc",
@@ -20948,7 +20937,7 @@
    "icon": "",
    "name": "Apollo sports",
    "desc": "Šport portálu Apollo",
-   "url": "https://www.apollo.lv/section/4428",
+   "url": "https://www.apollo.lv/section/4428/sports",
    "order": 6,
    "desc_en": "Sport from the portal Apollo"
   },
@@ -21641,7 +21630,7 @@
    "icon": "",
    "name": "Sports",
    "desc": "Moldavský športový portál Sports.md",
-   "url": "http://moldova.sports.md/",
+   "url": "https://moldova.sports.md/",
    "order": 1,
    "desc_en": "Moldovan sports portal Sports.md"
   },
@@ -22477,7 +22466,7 @@
    "icon": "",
    "name": "Kleine Zeitung sport",
    "desc": "Šport denníka Kleine Zeitung (Štajersko a Korutánsko)",
-   "url": "https://www.kleinezeitung.at/sport",
+   "url": "https://www.kleinezeitung.at/rubriken/sport",
    "order": 12,
    "desc_en": "Sport from the daily Kleine Zeitung (Styria and Carinthia)"
   },
@@ -22939,7 +22928,7 @@
    "icon": "",
    "name": "RTV sport",
    "desc": "Šport verejnoprávnej televízie San Marino RTV",
-   "url": "https://www.sanmarinortv.sm/sport",
+   "url": "https://www.sanmarinortv.sm/sport-c12",
    "order": 1,
    "desc_en": "Sport from the San Marino public broadcaster RTV"
   },
@@ -23324,7 +23313,7 @@
    "icon": "",
    "name": "Sportklub",
    "desc": "Slovinská verzia športového portálu Sport Klub",
-   "url": "https://sportklub.n1info.si/",
+   "url": "https://sportklub.si/",
    "order": 1,
    "desc_en": "The Slovenian version of the sports portal Sport Klub"
   },
@@ -23522,7 +23511,7 @@
    "icon": "",
    "name": "Sportklub",
    "desc": "Srbská verzia športového portálu Sport Klub",
-   "url": "https://sportklub.n1info.rs/",
+   "url": "https://sportklub.rs/",
    "order": 3,
    "desc_en": "The Serbian version of the sports portal Sport Klub"
   },
@@ -24149,7 +24138,7 @@
    "icon": "",
    "name": "Il Giornale sport",
    "desc": "Šport denníka Il Giornale",
-   "url": "https://www.ilgiornale.it/sezioni/sport.html",
+   "url": "https://www.ilgiornale.it/sport/",
    "order": 14,
    "desc_en": "Sport from the daily Il Giornale"
   },
@@ -25051,7 +25040,7 @@
    "icon": "",
    "name": "1Lurer sport",
    "desc": "Šport na 1Lurer — spravodajstvo arménskej verejnoprávnej TV",
-   "url": "https://www.1lurer.am/en/category/Sport_",
+   "url": "https://www.1lurer.am/en/news/sport",
    "order": 4,
    "desc_en": "Sport on 1Lurer — news from the Armenian public broadcaster"
   },
@@ -25194,7 +25183,7 @@
    "icon": "",
    "name": "Imedi sport",
    "desc": "Športové správy gruzínskej televízie Imedi",
-   "url": "https://info.imedi.ge/en/sport",
+   "url": "https://imedi.ge/en/sport",
    "order": 7,
    "desc_en": "Sports news from the Georgian TV channel Imedi"
   },
@@ -25491,7 +25480,7 @@
    "icon": "",
    "name": "Informsport",
    "desc": "Športový portál Informsport agentúry Kazinform",
-   "url": "https://informsport.kz/ru/",
+   "url": "https://informsports.kz/ru/",
    "order": 8,
    "desc_en": "Sports portal Informsport of the agency Kazinform"
   },
@@ -25667,7 +25656,7 @@
    "icon": "",
    "name": "1news sport",
    "desc": "Športová sekcia ruskojazyčného portálu 1news.az",
-   "url": "https://1news.az/sport",
+   "url": "https://1news.az/sport/",
    "order": 8,
    "desc_en": "The Russian-language portal 1news.az's sports section"
   },
@@ -25863,11 +25852,11 @@
    "parentId": "f_med_eu_cy",
    "type": "link",
    "icon": "",
-   "name": "Sport-fm",
-   "desc": "Cyperské športové rádio Sport FM",
-   "url": "https://sport-fm.com.cy/",
+   "name": "Super Sport 104",
+   "desc": "Cyperské športové rádio Super Sport 104 (predtým Sport FM)",
+   "url": "https://supersport104.com/",
    "order": 9,
-   "desc_en": "Cypriot sports radio Sport FM"
+   "desc_en": "Cypriot sports radio Super Sport 104 (formerly Sport FM)"
   },
   {
    "id": "n17839674833623ek",
@@ -38353,7 +38342,7 @@
    "icon": "",
    "name": "Tolonews sport",
    "desc": "Šport na TOLOnews — najsledovanejšej afganskej spravodajskej TV",
-   "url": "https://tolonews.com/sports",
+   "url": "https://www.tolonews.com/sports",
    "order": 1,
    "desc_en": "Sport on TOLOnews — Afghanistan's most watched news TV channel"
   },
@@ -38496,7 +38485,7 @@
    "icon": "",
    "name": "News of Bahrain",
    "desc": "Športová sekcia anglickojazyčného denníka News of Bahrain",
-   "url": "https://www.newsofbahrain.com/sports/",
+   "url": "https://www.newsofbahrain.com/en/news/sports",
    "order": 5,
    "desc_en": "The English-language daily News of Bahrain's sports section"
   },
@@ -46045,7 +46034,7 @@
    "icon": "",
    "name": "Fullcourtfresh",
    "desc": "Filipínsky basketbalový web o lige PBA a reprezentácii.",
-   "url": "https://fullcourtfresh.com/",
+   "url": "https://www.fullcourtfresh.com/",
    "order": 19,
    "desc_en": "Philippine basketball website about the PBA league and the national team"
   },
@@ -46089,7 +46078,7 @@
    "icon": "",
    "name": "ESPNcricinfo",
    "desc": "Najväčší svetový kriketový portál — správy, výsledky a štatistiky.",
-   "url": "https://www.espncricinfo.com/",
+   "url": "https://www.cricinfo.com/",
    "order": 0,
    "desc_en": "The biggest cricket portal in the world — news, results and statistics"
   },
@@ -46144,7 +46133,7 @@
    "icon": "",
    "name": "IPL cricket",
    "desc": "Oficiálny web kriketovej Indian Premier League.",
-   "url": "https://www.iplt20.com/en",
+   "url": "https://www.iplt20.com/",
    "order": 5,
    "desc_en": "Official website of the cricket Indian Premier League"
   },
@@ -46452,7 +46441,7 @@
    "icon": "",
    "name": "AITA tennis",
    "desc": "Oficiálny web Celoindickej tenisovej asociácie AITA.",
-   "url": "https://aitatennis.com/",
+   "url": "https://www.aitatennis.com/",
    "order": 33,
    "desc_en": "Official website of the All India Tennis Association (AITA)"
   },
@@ -52120,7 +52109,7 @@
    "icon": "",
    "name": "Farsnews sports",
    "desc": "Športová sekcia iránskej tlačovej agentúry Fars",
-   "url": "https://farsnews.ir/Sports",
+   "url": "https://farsnews.ir/Sports/showcase",
    "order": 12,
    "desc_en": "The Iranian news agency Fars's sports section"
   },
@@ -56221,7 +56210,7 @@
    "icon": "",
    "name": "Khmer Times sport",
    "desc": "Šport anglickojazyčného denníka Khmer Times",
-   "url": "https://khmertimeskh.com/category/sports/",
+   "url": "https://www.khmertimeskh.com/category/sports/",
    "order": 2,
    "desc_en": "Sport from the English-language daily Khmer Times"
   },
@@ -56331,7 +56320,7 @@
    "icon": "",
    "name": "Al Watan sport",
    "desc": "Šport katarského denníka Al Watan",
-   "url": "https://www.alwatanalakbar.com/category/Sports",
+   "url": "https://alwatanalakbar.com/category/Sports",
    "order": 7,
    "desc_en": "Sport from the Qatari daily Al Watan"
   },
@@ -61001,7 +60990,7 @@
    "icon": "",
    "name": "Daily Times sports",
    "desc": "Športová sekcia denníka Daily Times (Pakistan).",
-   "url": "https://dailytimes.com.pk/category/sports/",
+   "url": "https://dailytimes.com.pk/sports/",
    "order": 11,
    "desc_en": "The daily Daily Times's sports section (Pakistan)"
   },
@@ -61155,7 +61144,7 @@
    "icon": "",
    "name": "Al Quds sport",
    "desc": "Športová rubrika palestínskeho denníka Al-Quds.",
-   "url": "https://www.alquds.com/ar/categories/sport",
+   "url": "https://alquds.com/ar/categories/sport",
    "order": 3,
    "desc_en": "Sports column of the Palestinian daily Al-Quds"
   },
@@ -62301,7 +62290,7 @@
    "icon": "",
    "name": "Al Jazeera sports",
    "desc": "Športová sekcia katarskej spravodajskej stanice Al Jazeera, jedného z najvplyvnejších médií arabského sveta.",
-   "url": "https://www.aljazeera.com/sports",
+   "url": "https://www.aljazeera.com/sports/",
    "order": 0,
    "desc_en": "The sports section of the Qatari news channel Al Jazeera, one of the most influential media outlets in the Arab world"
   },
@@ -62378,7 +62367,7 @@
    "icon": "",
    "name": "Interfutbol",
    "desc": "Portál Uzbeckej futbalovej federácie (IFF).",
-   "url": "https://iff.uz/",
+   "url": "https://interfutbol.uz/",
    "order": 6,
    "desc_en": "Portal of the Uzbekistan Football Federation (IFF)"
   },
@@ -65265,7 +65254,7 @@
    "icon": "",
    "name": "VTV Thethao",
    "desc": "Športová sekcia vietnamskej verejnoprávnej televízie VTV.",
-   "url": "https://thethao.vtv.vn/",
+   "url": "https://vtv.vn/the-thao.htm",
    "order": 7,
    "desc_en": "The Vietnamese public broadcaster VTV's sports section"
   },
@@ -73288,7 +73277,7 @@
    "icon": "",
    "name": "Rugby Champagne",
    "desc": "Argentínsky ragbyový web — Los Pumas, kluby a medzinárodné súťaže.",
-   "url": "https://rugbychampagneweb.com/",
+   "url": "https://www.rugbychampagneweb.com/",
    "order": 17,
    "desc_en": "Argentine rugby site — Los Pumas, clubs and international competitions."
   },
@@ -203408,6 +203397,164 @@
    "order": 8,
    "name_en": "Massey Soccer Academy",
    "desc_en": "Academy from Saint Thomas (Massey Soccer Academy), plays at the Ivanna Eudora Kean High School field, finished fourth in the Saint Thomas division in 2024."
+  },
+  {
+   "id": "f_zim_sev",
+   "parentId": "f_zim",
+   "type": "folder",
+   "icon": "🎿",
+   "name": "Severská kombinácia",
+   "desc": "Severská kombinácia (skok a beh na lyžiach): live výsledky a kalendár Svetového pohára FIS, poradie, štatistiky, Sportschau a TNT Sports.",
+   "order": 3,
+   "slug": "severska-kombinacia",
+   "name_en": "Nordic Combined",
+   "desc_en": "Nordic combined (ski jumping plus cross-country): live results and FIS World Cup calendar, standings, statistics, Sportschau and TNT Sports.",
+   "slug_en": "nordic-combined"
+  },
+  {
+   "id": "n1793143465956arz",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "FIS severská kombinácia",
+   "desc": "Oficiálna stránka FIS pre severskú kombináciu",
+   "url": "https://www.fis-ski.com/nordic-combined",
+   "order": 0,
+   "desc_en": "Official FIS website for Nordic combined",
+   "name_en": "FIS Nordic Combined"
+  },
+  {
+   "id": "n1793143465960mxr",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "FIS kalendár a results",
+   "desc": "Live výsledky a kalendár Svetového pohára v severskej kombinácii",
+   "url": "https://www.fis-ski.com/DB/nordic-combined/calendar-results.html?noselection=true&mi=menu-calendar",
+   "order": 1,
+   "desc_en": "Live results and calendar for the Nordic combined World Cup",
+   "name_en": "FIS Calendar and Results"
+  },
+  {
+   "id": "n1793143465963vmr",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "FIS stats",
+   "desc": "Oficiálne štatistiky FIS v severskej kombinácii",
+   "url": "https://www.fis-ski.com/DB/general/statistics.html?sectorcode=NK&mi=menu-statistics",
+   "order": 2,
+   "desc_en": "Official FIS Nordic combined statistics",
+   "name_en": "FIS Stats"
+  },
+  {
+   "id": "n17931434659665uv",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "FIS standings",
+   "desc": "Priebežné poradie Svetového pohára v severskej kombinácii",
+   "url": "https://www.fis-ski.com/DB/nordic-combined/cup-standings.html?sectorcode=NK&mi=menu-cup-standings",
+   "order": 3,
+   "desc_en": "Current Nordic combined World Cup standings",
+   "name_en": "FIS Standings"
+  },
+  {
+   "id": "n1793143465969efr",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "Sportschau kombination",
+   "desc": "Severská kombinácia v nemeckej verejnoprávnej ARD",
+   "url": "https://www.sportschau.de/wintersport/nordische-kombination",
+   "order": 4,
+   "desc_en": "Nordic combined coverage on German public broadcaster ARD",
+   "name_en": "Sportschau Nordic Combined"
+  },
+  {
+   "id": "n1793143465972cxq",
+   "parentId": "f_zim_sev",
+   "type": "link",
+   "icon": "",
+   "name": "TNT nordic combined",
+   "desc": "Severská kombinácia na Eurosporte (TNT Sports)",
+   "url": "https://www.tntsports.co.uk/nordic-combined/",
+   "order": 5,
+   "desc_en": "Nordic combined on Eurosport (TNT Sports)",
+   "name_en": "TNT Nordic Combined"
+  },
+  {
+   "id": "f_zim_ska",
+   "parentId": "f_zim",
+   "type": "folder",
+   "icon": "🏔️",
+   "name": "Skialpinizmus",
+   "desc": "Skialpinizmus: kalendár a výsledky Svetového pohára ISMF, oficiálna databáza výsledkov od roku 2010 a poradie — olympijská premiéra na ZOH 2026.",
+   "order": 12,
+   "slug": "skialpinizmus",
+   "name_en": "Ski Mountaineering",
+   "desc_en": "Ski mountaineering: ISMF World Cup calendar and results, the official results database since 2010 and rankings — Olympic debut at the 2026 Games.",
+   "slug_en": "ski-mountaineering"
+  },
+  {
+   "id": "n1793143465975591",
+   "parentId": "f_zim_ska",
+   "type": "link",
+   "icon": "",
+   "name": "ISMF",
+   "desc": "Medzinárodná skialpinistická federácia ISMF — oficiálna stránka",
+   "url": "https://ismf-ski.com/",
+   "order": 0,
+   "desc_en": "International Ski Mountaineering Federation ISMF — official website",
+   "name_en": "ISMF"
+  },
+  {
+   "id": "n1793143465979d6w",
+   "parentId": "f_zim_ska",
+   "type": "link",
+   "icon": "",
+   "name": "ISMF kalendár",
+   "desc": "Kalendár Svetového pohára a šampionátov ISMF",
+   "url": "https://ismf-ski.com/events-results/calendar/",
+   "order": 1,
+   "desc_en": "ISMF World Cup and championships calendar",
+   "name_en": "ISMF Calendar"
+  },
+  {
+   "id": "n1793143465982cnc",
+   "parentId": "f_zim_ska",
+   "type": "link",
+   "icon": "",
+   "name": "ISMF results",
+   "desc": "Oficiálna databáza výsledkov ISMF od roku 2010",
+   "url": "https://www.dataskimo.org/result.php",
+   "order": 2,
+   "desc_en": "Official ISMF results database since 2010",
+   "name_en": "ISMF Results"
+  },
+  {
+   "id": "n17931434659855ey",
+   "parentId": "f_zim_ska",
+   "type": "link",
+   "icon": "",
+   "name": "ISMF ranking",
+   "desc": "Poradie Svetového pohára ISMF v skialpinizme",
+   "url": "https://www.dataskimo.org/ranking.php",
+   "order": 3,
+   "desc_en": "ISMF ski mountaineering World Cup rankings",
+   "name_en": "ISMF Ranking"
+  },
+  {
+   "id": "n17931434659884m7",
+   "parentId": "f_zim_ska",
+   "type": "link",
+   "icon": "",
+   "name": "TNT ski mountaineering",
+   "desc": "Skialpinizmus na Eurosporte (TNT Sports)",
+   "url": "https://www.tntsports.co.uk/ski-mountaineering/",
+   "order": 4,
+   "desc_en": "Ski mountaineering on Eurosport (TNT Sports)",
+   "name_en": "TNT Ski Mountaineering"
   }
  ],
  "title_en": "Sportlinking",
