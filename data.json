@@ -1,5 +1,5 @@
 {
-  "version": 1103,
+  "version": 1114,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -3339,11 +3339,11 @@
       "type": "folder",
       "icon": "🤾",
       "name": "Hádzaná",
-      "desc": "Hádzanárske odkazy na kluby, ligy, súťaže a národné zväzy z celého sveta",
+      "desc": "Hádzaná — kluby, ligy, výsledky a tabuľky z 59 krajín: slovenská Handball extraliga, 1. liga a MOL liga žien, nemecká Bundesliga, francúzska Starligue, dánska, španielska a ďalšie európske súťaže, EHF Liga majstrov a svetové federácie IHF/EHF. Oficiálne weby, Facebook a Instagram hádzanárskych klubov a zväzov na jednom mieste.",
       "order": 5,
       "slug": "hadzana",
       "name_en": "Handball",
-      "desc_en": "Handball links to clubs, leagues, competitions and national federations worldwide",
+      "desc_en": "Handball — clubs, leagues, results and standings from 59 countries: the German Bundesliga, French Starligue, Danish, Spanish, Hungarian and other European leagues, the EHF Champions League, the IHF and EHF federations and national associations worldwide. Official websites, Facebook and Instagram of handball clubs and federations in one place.",
       "slug_en": "handball"
     },
     {
@@ -4263,12 +4263,12 @@
       "type": "folder",
       "icon": "gb-eng",
       "name": "Anglicko",
-      "desc": "Anglické futbalové kluby naprieč siedmimi úrovňami — od Premier League cez EFL až po National League North a South",
-      "order": 0,
+      "desc": "Anglická futbalová liga — Premier League (20 klubov: Arsenal, Liverpool, Manchester City, Chelsea), Championship (24), League One a League Two (po 24) a tri skupiny National League (3×24). Oficiálne weby, Facebook a Instagram anglických futbalových klubov zo 7 úrovní na jednom mieste.",
+      "order": 2,
       "slug": "anglicko",
       "name_en": "England",
       "slug_en": "england",
-      "desc_en": "English football clubs across seven tiers — from the Premier League through the EFL down to National League North and South"
+      "desc_en": "English football league clubs — Premier League (20 clubs: Arsenal, Liverpool, Manchester City, Chelsea), Championship (24), League One and League Two (24 each) and the three National League divisions (3×24). Official websites, Facebook and Instagram of English football clubs across 7 tiers in one place."
     },
     {
       "id": "f_fut_klu_eu_esp",
@@ -4276,12 +4276,12 @@
       "type": "folder",
       "icon": "es",
       "name": "Španielsko",
-      "desc": "Španielske kluby od La Ligy s Realom Madrid a Barcelonou po obe skupiny tretej úrovne Primera RFEF",
-      "order": 1,
+      "desc": "Španielska futbalová liga — La Liga (20 klubov: Real Madrid, FC Barcelona, Atlético Madrid, Sevilla), La Liga 2 (22 klubov: Sporting Gijón, Real Oviedo, Mallorca) a obe skupiny tretej Primera RFEF (2×20). Oficiálne weby, Facebook a Instagram španielskych futbalových klubov na jednom mieste.",
+      "order": 3,
       "slug": "spanielsko",
       "name_en": "Spain",
       "slug_en": "spain",
-      "desc_en": "Spanish clubs from La Liga with Real Madrid and Barcelona down to both groups of the third-tier Primera RFEF"
+      "desc_en": "Spanish football league clubs — La Liga (20 clubs: Real Madrid, FC Barcelona, Atlético Madrid, Sevilla), La Liga 2 (22 clubs: Sporting Gijón, Real Oviedo, Mallorca) and both groups of the third-tier Primera RFEF (2×20). Official websites, Facebook and Instagram of Spanish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_deu",
@@ -4289,12 +4289,12 @@
       "type": "folder",
       "icon": "de",
       "name": "Nemecko",
-      "desc": "Nemecké kluby od Bundesligy až po všetkých päť regionálnych líg štvrtej úrovne",
-      "order": 2,
+      "desc": "Nemecká futbalová liga — Bundesliga (18 klubov: Bayern Mníchov, Borussia Dortmund, Bayer Leverkusen, RB Leipzig), 2. Bundesliga (18 klubov: Hertha Berlín, Hannover 96, 1. FC Kaiserslautern), 3. Liga (20) a päť Regionallíg štvrtej úrovne. Oficiálne weby, Facebook a Instagram nemeckých futbalových klubov na jednom mieste.",
+      "order": 4,
       "slug": "nemecko",
       "name_en": "Germany",
       "slug_en": "germany",
-      "desc_en": "German clubs from the Bundesliga all the way down to the five fourth-tier Regionalligas"
+      "desc_en": "German football league clubs — Bundesliga (18 clubs: Bayern Munich, Borussia Dortmund, Bayer Leverkusen, RB Leipzig), 2. Bundesliga (18 clubs: Hertha Berlin, Hannover 96, 1. FC Kaiserslautern), 3. Liga (20) and the five fourth-tier Regionalligas. Official websites, Facebook and Instagram of German football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_fra",
@@ -4302,12 +4302,12 @@
       "type": "folder",
       "icon": "fr",
       "name": "Francúzsko",
-      "desc": "Francúzske kluby v troch profesionálnych úrovniach — Ligue 1, Ligue 2 a Ligue 3",
-      "order": 3,
+      "desc": "Francúzska futbalová liga — Ligue 1 (18 klubov: Paris Saint-Germain, Olympique Marseille, AS Monaco, Olympique Lyon), Ligue 2 (18 klubov: FC Nantes, AS Saint-Étienne, Montpellier) a tretia Ligue 3 (18). Oficiálne weby, Facebook a Instagram francúzskych futbalových klubov na jednom mieste.",
+      "order": 5,
       "slug": "francuzsko",
       "name_en": "France",
       "slug_en": "france",
-      "desc_en": "French clubs across three professional tiers — Ligue 1, Ligue 2 and Ligue 3"
+      "desc_en": "French football league clubs — Ligue 1 (18 clubs: Paris Saint-Germain, Olympique Marseille, AS Monaco, Olympique Lyon), Ligue 2 (18 clubs: FC Nantes, AS Saint-Étienne, Montpellier) and the third-tier Ligue 3 (18). Official websites, Facebook and Instagram of French football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_svk",
@@ -4316,7 +4316,7 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "Slovenské futbalové kluby — Niké liga (12 klubov: ŠK Slovan Bratislava, MŠK Žilina, MFK Ružomberok, FC Košice) a 2. liga (16 klubov: FC Petržalka, FK Inter Bratislava, FC ViOn Zlaté Moravce-Vráble, 1. FC Tatran Prešov). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 4,
+      "order": 0,
       "slug": "slovensko",
       "name_en": "Slovakia",
       "slug_en": "slovakia",
@@ -4329,7 +4329,7 @@
       "icon": "cz",
       "name": "Česko",
       "desc": "České futbalové kluby — Chance Liga (16 klubov: SK Slavia Praha, AC Sparta Praha, FC Viktoria Plzeň, SK Sigma Olomouc) a Chance Národní Liga (16 klubov: FK Dukla Praha, FK Viktoria Žižkov, FK Arsenal Česká Lípa, MFK Karviná). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 5,
+      "order": 1,
       "slug": "ceska-republika",
       "name_en": "Czechia",
       "slug_en": "czech-republic",
@@ -4380,12 +4380,12 @@
       "type": "folder",
       "icon": "be",
       "name": "Belgicko",
-      "desc": "Belgické kluby od Jupiler Pro League po obe jazykové skupiny tretej úrovne",
+      "desc": "Belgická futbalová liga — Jupiler Pro League (18 klubov: Club Brugge, RSC Anderlecht, KRC Genk, Union Saint-Gilloise), Challenger Pro League (15) a obe jazykové skupiny tretej úrovne Division 1 VV (16) a Division 1 ACFF (12). Oficiálne weby, Facebook a Instagram belgických futbalových klubov na jednom mieste.",
       "order": 9,
       "slug": "belgicko",
       "name_en": "Belgium",
       "slug_en": "belgium",
-      "desc_en": "Belgian clubs from the Jupiler Pro League down to both language groups of the third tier"
+      "desc_en": "Belgian football league clubs — Jupiler Pro League (18 clubs: Club Brugge, RSC Anderlecht, KRC Genk, Union Saint-Gilloise), Challenger Pro League (15) and both third-tier groups, Division 1 VV (16) and Division 1 ACFF (12). Official websites, Facebook and Instagram of Belgian football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_bih",
@@ -4432,12 +4432,12 @@
       "type": "folder",
       "icon": "dk",
       "name": "Dánsko",
-      "desc": "Dánske kluby v troch úrovniach od Superligy po 2nd Division",
+      "desc": "Dánska futbalová liga — Superliga (12 klubov: FC Copenhagen, Brøndby IF, FC Midtjylland, AGF Aarhus), 1st Division (12 klubov: AaB Aalborg, Vejle BK, Esbjerg fB) a 2nd Division (12). Oficiálne weby, Facebook a Instagram dánskych futbalových klubov na jednom mieste.",
       "order": 13,
       "slug": "dansko",
       "name_en": "Denmark",
       "slug_en": "denmark",
-      "desc_en": "Danish clubs across three tiers from the Superliga to the 2nd Division"
+      "desc_en": "Danish football league clubs — Superliga (12 clubs: FC Copenhagen, Brøndby IF, FC Midtjylland, AGF Aarhus), 1st Division (12 clubs: AaB Aalborg, Vejle BK, Esbjerg fB) and 2nd Division (12). Official websites, Facebook and Instagram of Danish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_est",
@@ -4458,12 +4458,12 @@
       "type": "folder",
       "icon": "fi",
       "name": "Fínsko",
-      "desc": "Fínske kluby v troch úrovniach — Veikkausliiga, Ykkösliiga a Ykkönen",
+      "desc": "Fínska futbalová liga — Veikkausliiga (12 klubov: KuPS Kuopio, FC Inter Turku, VPS Vaasa, AC Oulu), Ykkösliiga (10 klubov: KTP Kotka, FC Haka, PK-35 Helsinki) a tretia Ykkönen (12). Oficiálne weby, Facebook a Instagram fínskych futbalových klubov na jednom mieste.",
       "order": 16,
       "slug": "finsko",
       "name_en": "Finland",
       "slug_en": "finland",
-      "desc_en": "Finnish clubs across three tiers — Veikkausliiga, Ykkösliiga and Ykkönen"
+      "desc_en": "Finnish football league clubs — Veikkausliiga (12 clubs: KuPS Kuopio, FC Inter Turku, VPS Vaasa, AC Oulu), Ykkösliiga (10 clubs: KTP Kotka, FC Haka, PK-35 Helsinki) and the third-tier Ykkönen (12). Official websites, Facebook and Instagram of Finnish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_grc",
@@ -4484,12 +4484,12 @@
       "type": "folder",
       "icon": "nl",
       "name": "Holandsko",
-      "desc": "Holandské kluby od Eredivisie po obe skupiny Derde Divisie",
+      "desc": "Holandská futbalová liga — Eredivisie (18 klubov: Ajax Amsterdam, PSV Eindhoven, Feyenoord Rotterdam, AZ Alkmaar), Eerste Divisie (20 klubov: De Graafschap, VVV-Venlo, FC Den Bosch), Tweede Divisie (18) a obe skupiny Derde Divisie (2×18). Oficiálne weby, Facebook a Instagram holandských futbalových klubov na jednom mieste.",
       "order": 19,
       "slug": "holandsko",
       "name_en": "Netherlands",
       "slug_en": "netherlands",
-      "desc_en": "Dutch clubs from the Eredivisie down to both groups of the Derde Divisie"
+      "desc_en": "Dutch football league clubs — Eredivisie (18 clubs: Ajax Amsterdam, PSV Eindhoven, Feyenoord Rotterdam, AZ Alkmaar), Eerste Divisie (20 clubs: De Graafschap, VVV-Venlo, FC Den Bosch), Tweede Divisie (18) and both Derde Divisie groups (2×18). Official websites, Facebook and Instagram of Dutch football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_hrv",
@@ -4497,12 +4497,12 @@
       "type": "folder",
       "icon": "hr",
       "name": "Chorvátsko",
-      "desc": "Chorvátske kluby od SuperSport HNL po tretiu Druga NL",
+      "desc": "Chorvátska futbalová liga — HNL (10 klubov: Dinamo Zagreb, Hajduk Split, HNK Rijeka, NK Osijek), druhá Prva NL (16 klubov: Cibalia Vinkovci, Segesta Sisak, NK Karlovac 1919) a tretia Druga NL (16). Oficiálne weby, Facebook a Instagram chorvátskych futbalových klubov na jednom mieste.",
       "order": 20,
       "slug": "chorvatsko",
       "name_en": "Croatia",
       "slug_en": "croatia",
-      "desc_en": "Croatian clubs from the SuperSport HNL down to the third-tier Druga NL"
+      "desc_en": "Croatian football league clubs — HNL (10 clubs: Dinamo Zagreb, Hajduk Split, HNK Rijeka, NK Osijek), the second-tier Prva NL (16 clubs: Cibalia Vinkovci, Segesta Sisak, NK Karlovac 1919) and the third-tier Druga NL (16). Official websites, Facebook and Instagram of Croatian football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_irl",
@@ -4653,12 +4653,12 @@
       "type": "folder",
       "icon": "no",
       "name": "Nórsko",
-      "desc": "Nórske kluby od Eliteserien po obe skupiny tretej divízie",
+      "desc": "Nórska futbalová liga — Eliteserien (16 klubov: FK Bodø/Glimt, SK Brann, Rosenborg BK, Molde FK), OBOS-ligaen (16 klubov: FK Haugesund, Odds BK, Stabæk Fotball) a obe skupiny tretej 2. divisjon (2×14). Oficiálne weby, Facebook a Instagram nórskych futbalových klubov na jednom mieste.",
       "order": 32,
       "slug": "norsko",
       "name_en": "Norway",
       "slug_en": "norway",
-      "desc_en": "Norwegian clubs from the Eliteserien down to both groups of the third division"
+      "desc_en": "Norwegian football league clubs — Eliteserien (16 clubs: FK Bodø/Glimt, SK Brann, Rosenborg BK, Molde FK), OBOS-ligaen (16 clubs: FK Haugesund, Odds BK, Stabæk Fotball) and both groups of the third-tier 2. divisjon (2×14). Official websites, Facebook and Instagram of Norwegian football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_pol",
@@ -4666,12 +4666,12 @@
       "type": "folder",
       "icon": "pl",
       "name": "Poľsko",
-      "desc": "Poľské kluby v troch úrovniach — Ekstraklasa, I liga a II liga",
+      "desc": "Poľská futbalová liga — Ekstraklasa (18 klubov: Legia Warszawa, Lech Poznań, Raków Częstochowa, Górnik Zabrze), I liga (18 klubov: ŁKS Łódź, Miedź Legnica, Odra Opole) a II liga (18). Oficiálne weby, Facebook a Instagram poľských futbalových klubov na jednom mieste.",
       "order": 33,
       "slug": "polsko",
       "name_en": "Poland",
       "slug_en": "poland",
-      "desc_en": "Polish clubs across three tiers — Ekstraklasa, I liga and II liga"
+      "desc_en": "Polish football league clubs — Ekstraklasa (18 clubs: Legia Warszawa, Lech Poznań, Raków Częstochowa, Górnik Zabrze), I liga (18 clubs: ŁKS Łódź, Miedź Legnica, Odra Opole) and II liga (18). Official websites, Facebook and Instagram of Polish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_prt",
@@ -4679,11 +4679,11 @@
       "type": "folder",
       "icon": "pt",
       "name": "Portugalsko",
-      "desc": "Portugalské kluby od Liga Portugal po obe série Ligy 3",
+      "desc": "Portugalská futbalová liga — Liga Portugal (18 klubov: SL Benfica, FC Porto, Sporting CP, SC Braga), Liga Portugal 2 (18 klubov: Académica de Coimbra, Leixões SC, CD Tondela) a obe série tretej Ligy 3 (2×10). Oficiálne weby, Facebook a Instagram portugalských futbalových klubov na jednom mieste.",
       "order": 34,
       "slug": "portugalsko",
       "name_en": "Portugal",
-      "desc_en": "Portuguese clubs from the Liga Portugal down to both series of Liga 3",
+      "desc_en": "Portuguese football league clubs — Liga Portugal (18 clubs: SL Benfica, FC Porto, Sporting CP, SC Braga), Liga Portugal 2 (18 clubs: Académica de Coimbra, Leixões SC, CD Tondela) and both series of the third-tier Liga 3 (2×10). Official websites, Facebook and Instagram of Portuguese football clubs in one place.",
       "slug_en": "portugal"
     },
     {
@@ -4692,12 +4692,12 @@
       "type": "folder",
       "icon": "at",
       "name": "Rakúsko",
-      "desc": "Rakúske kluby od Bundesligy po všetky štyri regionálne ligy tretej úrovne",
+      "desc": "Rakúska futbalová liga — Bundesliga (12 klubov: Red Bull Salzburg, Sturm Graz, SK Rapid Wien, LASK), 2. Liga (16 klubov: SKN St. Pölten, Admira Wacker, FC Blau-Weiß Linz) a štyri Regionalligy tretej úrovne (Ost, Nord, Süd, West). Oficiálne weby, Facebook a Instagram rakúskych futbalových klubov na jednom mieste.",
       "order": 35,
       "slug": "rakusko",
       "name_en": "Austria",
       "slug_en": "austria",
-      "desc_en": "Austrian clubs from the Bundesliga down to all four third-tier Regionalligas"
+      "desc_en": "Austrian football league clubs — Bundesliga (12 clubs: Red Bull Salzburg, Sturm Graz, SK Rapid Wien, LASK), 2. Liga (16 clubs: SKN St. Pölten, Admira Wacker, FC Blau-Weiß Linz) and the four third-tier Regionalligas (Ost, Nord, Süd, West). Official websites, Facebook and Instagram of Austrian football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_rou",
@@ -4757,12 +4757,12 @@
       "type": "folder",
       "icon": "gb-sct",
       "name": "Škótsko",
-      "desc": "Škótske kluby všetkých štyroch profesionálnych úrovní SPFL",
+      "desc": "Škótska futbalová liga — Premiership (12 klubov: Celtic FC, Rangers FC, Aberdeen FC, Heart of Midlothian FC), Championship (10 klubov: Dunfermline Athletic FC, Ayr United FC, Greenock Morton FC), League One a League Two (po 10). Oficiálne weby, Facebook a Instagram škótskych futbalových klubov SPFL na jednom mieste.",
       "order": 40,
       "slug": "skotsko",
       "name_en": "Scotland",
       "slug_en": "scotland",
-      "desc_en": "Scottish clubs across all four professional SPFL tiers"
+      "desc_en": "Scottish football league clubs — Premiership (12 clubs: Celtic FC, Rangers FC, Aberdeen FC, Heart of Midlothian FC), Championship (10 clubs: Dunfermline Athletic FC, Ayr United FC, Greenock Morton FC), League One and League Two (10 each). Official websites, Facebook and Instagram of Scottish SPFL football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_svn",
@@ -4809,12 +4809,12 @@
       "type": "folder",
       "icon": "se",
       "name": "Švédsko",
-      "desc": "Švédske kluby od Allsvenskan po obe skupiny tretej ligy Ettan",
+      "desc": "Švédska futbalová liga — Allsvenskan (16 klubov: Malmö FF, AIK, Djurgårdens IF, Hammarby IF), Superettan (16 klubov: Helsingborgs IF, IFK Norrköping, GIF Sundsvall) a obe skupiny tretej ligy Ettan Norra a Södra (2×16). Oficiálne weby, Facebook a Instagram švédskych futbalových klubov na jednom mieste.",
       "order": 44,
       "slug": "svedsko",
       "name_en": "Sweden",
       "slug_en": "sweden",
-      "desc_en": "Swedish clubs from the Allsvenskan down to both groups of the third-tier Ettan"
+      "desc_en": "Swedish football league clubs — Allsvenskan (16 clubs: Malmö FF, AIK, Djurgårdens IF, Hammarby IF), Superettan (16 clubs: Helsingborgs IF, IFK Norrköping, GIF Sundsvall) and both third-tier Ettan groups, Norra and Södra (2×16). Official websites, Facebook and Instagram of Swedish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_ita",
@@ -4822,12 +4822,12 @@
       "type": "folder",
       "icon": "it",
       "name": "Taliansko",
-      "desc": "Talianske kluby od Serie A po všetky tri skupiny Serie C",
+      "desc": "Talianska futbalová liga — Serie A (20 klubov: Inter, Juventus, AC Milan, Napoli), Serie B (20 klubov: Sampdoria, Palermo, Empoli) a všetky tri skupiny Serie C (3×20). Oficiálne weby, Facebook a Instagram talianskych futbalových klubov na jednom mieste.",
       "order": 45,
       "slug": "taliansko",
       "name_en": "Italy",
       "slug_en": "italy",
-      "desc_en": "Italian clubs from Serie A down to all three Serie C groups"
+      "desc_en": "Italian football league clubs — Serie A (20 clubs: Inter, Juventus, AC Milan, Napoli), Serie B (20 clubs: Sampdoria, Palermo, Empoli) and all three Serie C groups (3×20). Official websites, Facebook and Instagram of Italian football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_tur",
@@ -4835,12 +4835,12 @@
       "type": "folder",
       "icon": "tr",
       "name": "Turecko",
-      "desc": "Turecké kluby od Süper Lig po obe skupiny 2. Lig",
+      "desc": "Turecká futbalová liga — Süper Lig (18 klubov: Galatasaray, Fenerbahçe, Beşiktaş, Trabzonspor), 1. Lig (20 klubov: Antalyaspor, Bodrum FK, Bandırmaspor) a obe skupiny tretej 2. Lig (Beyaz a Kırmızı Grup). Oficiálne weby, Facebook a Instagram tureckých futbalových klubov na jednom mieste.",
       "order": 46,
       "slug": "turecko",
       "name_en": "Turkey",
       "slug_en": "turkey",
-      "desc_en": "Turkish clubs from the Süper Lig down to both 2. Lig groups"
+      "desc_en": "Turkish football league clubs — Süper Lig (18 clubs: Galatasaray, Fenerbahçe, Beşiktaş, Trabzonspor), 1. Lig (20 clubs: Antalyaspor, Bodrum FK, Bandırmaspor) and both third-tier 2. Lig groups (Beyaz and Kırmızı). Official websites, Facebook and Instagram of Turkish football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_ukr",
@@ -4861,12 +4861,12 @@
       "type": "folder",
       "icon": "gb-wls",
       "name": "Wales",
-      "desc": "Waleské kluby Cymru Premier a oboch skupín druhej ligy",
+      "desc": "Waleská futbalová liga — Cymru Premier (16 klubov: The New Saints, Connah’s Quay Nomads, Caernarfon Town, Penybont) a obe skupiny druhej ligy Cymru North (16) a Cymru South (16). Oficiálne weby, Facebook a Instagram waleských futbalových klubov na jednom mieste.",
       "order": 48,
       "slug": "wales",
       "slug_en": "wales",
       "name_en": "Wales",
-      "desc_en": "Welsh clubs of the Cymru Premier and both second-tier groups"
+      "desc_en": "Welsh football league clubs — Cymru Premier (16 clubs: The New Saints, Connah’s Quay Nomads, Caernarfon Town, Penybont) and both second-tier divisions, Cymru North (16) and Cymru South (16). Official websites, Facebook and Instagram of Welsh football clubs in one place."
     },
     {
       "id": "f_fut_klu_eu_arm",
@@ -5784,12 +5784,12 @@
       "type": "folder",
       "icon": "jp",
       "name": "Japonsko",
-      "desc": "Japonské kluby troch profesionálnych úrovní J.League — J1, J2 a J3",
+      "desc": "Japonská futbalová liga — J1 League (20 klubov: Kashima Antlers, Urawa Red Diamonds, FC Tokyo, Vissel Kobe), J2 League (20 klubov: Albirex Niigata, FC Imabari, Blaublitz Akita) a J3 League (20). Oficiálne weby, Facebook a Instagram japonských futbalových klubov J.League na jednom mieste.",
       "order": 14,
       "slug": "japonsko",
       "name_en": "Japan",
       "slug_en": "japan",
-      "desc_en": "Japanese clubs of the three professional J.League tiers — J1, J2 and J3"
+      "desc_en": "Japanese football league clubs — J1 League (20 clubs: Kashima Antlers, Urawa Red Diamonds, FC Tokyo, Vissel Kobe), J2 League (20 clubs: Albirex Niigata, FC Imabari, Blaublitz Akita) and J3 League (20). Official websites, Facebook and Instagram of Japanese J.League football clubs in one place."
     },
     {
       "id": "f_fut_klu_az_jor",
@@ -6187,12 +6187,12 @@
       "type": "folder",
       "icon": "ar",
       "name": "Argentína",
-      "desc": "Argentínske kluby od Liga Profesional po obe súbežné súťaže tretej úrovne",
+      "desc": "Argentínska futbalová liga — Liga Profesional (30 klubov: River Plate, Boca Juniors, Racing Club, Newell's Old Boys), Primera Nacional (36 klubov: Ferro Carril Oeste, Deportivo Moron, Colon Santa Fe) a dve súbežné súťaže tretej úrovne — Torneo Federal A (37) a Primera B Metropolitana (22). Oficiálne weby, Facebook a Instagram argentínskych futbalových klubov na jednom mieste.",
       "order": 0,
       "slug": "argentina",
       "name_en": "Argentina",
       "slug_en": "argentina",
-      "desc_en": "Argentine clubs from the Liga Profesional down to both parallel third-tier competitions"
+      "desc_en": "Argentine football league clubs — Liga Profesional (30 clubs: River Plate, Boca Juniors, Racing Club, Newell's Old Boys), Primera Nacional (36 clubs: Ferro Carril Oeste, Deportivo Moron, Colon Santa Fe) and the two parallel third-tier competitions, Torneo Federal A (37) and Primera B Metropolitana (22). Official websites, Facebook and Instagram of Argentine football clubs in one place."
     },
     {
       "id": "f_fut_klu_ja_bol",
@@ -6213,12 +6213,12 @@
       "type": "folder",
       "icon": "br",
       "name": "Brazília",
-      "desc": "Brazílske kluby troch celoštátnych úrovní — Série A, B a C",
+      "desc": "Brazílska futbalová liga — Série A (20 klubov: Flamengo, Palmeiras, Corinthians, Fluminense), Série B (20 klubov: Juventude, Vila Nova FC, Criciuma) a Série C (20). Oficiálne weby, Facebook a Instagram brazílskych futbalových klubov troch celoštátnych úrovní na jednom mieste.",
       "order": 2,
       "slug": "brazilia",
       "name_en": "Brazil",
       "slug_en": "brazil",
-      "desc_en": "Brazilian clubs of the three national tiers — Série A, B and C"
+      "desc_en": "Brazilian football league clubs — Série A (20 clubs: Flamengo, Palmeiras, Corinthians, Fluminense), Série B (20 clubs: Juventude, Vila Nova FC, Criciuma) and Série C (20). Official websites, Facebook and Instagram of Brazilian football clubs from the three national tiers in one place."
     },
     {
       "id": "f_fut_klu_ja_chi",
@@ -6720,12 +6720,12 @@
       "type": "folder",
       "icon": "us",
       "name": "USA",
-      "desc": "Americké kluby v troch úrovniach — MLS, USL Championship a USL League One",
+      "desc": "Americká futbalová liga (soccer) — MLS (30 klubov: Inter Miami, LA Galaxy, Atlanta United, Seattle Sounders), USL Championship (25 klubov: Charleston Battery, Birmingham Legion FC, Brooklyn FC) a USL League One (17). Oficiálne weby, Facebook a Instagram futbalových klubov USA na jednom mieste.",
       "order": 33,
       "slug": "spojene-staty",
       "name_en": "United States",
       "slug_en": "united-states",
-      "desc_en": "American clubs across three tiers — MLS, USL Championship and USL League One"
+      "desc_en": "US soccer league clubs — MLS (30 clubs: Inter Miami, LA Galaxy, Atlanta United, Seattle Sounders), USL Championship (25 clubs: Charleston Battery, Birmingham Legion FC, Brooklyn FC) and USL League One (17). Official websites, Facebook and Instagram of United States soccer clubs in one place."
     },
     {
       "id": "f_fut_klu_na_sur",
@@ -6863,12 +6863,12 @@
       "type": "folder",
       "icon": "nz",
       "name": "Nový Zéland",
-      "desc": "Novozélandské kluby všetkých troch regionálnych skupín Národnej ligy",
+      "desc": "Novozélandská futbalová liga — Dettol National League v troch regionálnych skupinách: Severná liga (12 klubov: Auckland City FC, Auckland FC, Eastern Suburbs), Centrálna liga (10) a Južná liga (10). Oficiálne weby, Facebook a Instagram novozélandských futbalových klubov na jednom mieste.",
       "order": 5,
       "slug": "novy-zeland",
       "name_en": "New Zealand",
       "slug_en": "new-zealand",
-      "desc_en": "New Zealand clubs of all three regional groups of the National League"
+      "desc_en": "New Zealand football league clubs — Dettol National League in three regional groups: Northern League (12 clubs: Auckland City FC, Auckland FC, Eastern Suburbs), Central League (10) and Southern League (10). Official websites, Facebook and Instagram of New Zealand football clubs in one place."
     },
     {
       "id": "f_fut_klu_oc_png",
@@ -101265,12 +101265,12 @@
       "type": "folder",
       "icon": "es",
       "name": "Španielsko",
-      "desc": "Španielske kluby ACB, druhej Primera FEB a ženskej Liga Femenina",
-      "order": 0,
+      "desc": "Španielska basketbalová liga — Liga ACB (18 klubov: Real Madrid, FC Barcelona, Baskonia, Valencia Basket), Primera FEB (18 klubov: Baloncesto Fuenlabrada, Albacete Basket, Bàsquet Menorca) a ženská Liga Femenina Endesa (16). Oficiálne weby, Facebook a Instagram španielskych basketbalových klubov na jednom mieste.",
+      "order": 2,
       "slug": "spanielsko",
       "name_en": "Spain",
       "slug_en": "spain",
-      "desc_en": "Spanish clubs of the ACB, the second-tier Primera FEB and the women's Liga Femenina"
+      "desc_en": "Spanish basketball league clubs — Liga ACB (18 clubs: Real Madrid, FC Barcelona, Baskonia, Valencia Basket), Primera FEB (18 clubs: Baloncesto Fuenlabrada, Albacete Basket, Bàsquet Menorca) and the women's Liga Femenina Endesa (16). Official websites, Facebook and Instagram of Spanish basketball clubs in one place."
     },
     {
       "id": "f_bas_esp_l1",
@@ -101304,12 +101304,12 @@
       "type": "folder",
       "icon": "de",
       "name": "Nemecko",
-      "desc": "Nemecké kluby Basketball Bundesligy, druhej ProA a ženskej DBBL",
-      "order": 1,
+      "desc": "Nemecká basketbalová liga — Basketball Bundesliga (18 klubov: ALBA Berlin, FC Bayern München, Bamberg Baskets, Baskets Oldenburg), ProA (18 klubov: Artland Dragons, Academics Heidelberg, BBC Bayreuth) a ženská 1. DBBL (10). Oficiálne weby, Facebook a Instagram nemeckých basketbalových klubov na jednom mieste.",
+      "order": 3,
       "slug": "nemecko",
       "name_en": "Germany",
       "slug_en": "germany",
-      "desc_en": "German clubs of the Basketball Bundesliga, the second-tier ProA and the women's DBBL"
+      "desc_en": "German basketball league clubs — Basketball Bundesliga (18 clubs: ALBA Berlin, FC Bayern München, Bamberg Baskets, Baskets Oldenburg), ProA (18 clubs: Artland Dragons, Academics Heidelberg, BBC Bayreuth) and the women's 1. DBBL (10). Official websites, Facebook and Instagram of German basketball clubs in one place."
     },
     {
       "id": "f_bas_ger_l1",
@@ -101343,12 +101343,12 @@
       "type": "folder",
       "icon": "it",
       "name": "Taliansko",
-      "desc": "Talianske kluby Serie A, druhej Serie A2 a ženskej Serie A1",
-      "order": 2,
+      "desc": "Talianska basketbalová liga — Serie A (16 klubov: Olimpia Milano, Virtus Bologna, Aquila Basket Trento, Derthona Tortona), Serie A2 (20 klubov: Basket Torino, Avellino Basket, Basket Mestre) a ženská Serie A1 (12). Oficiálne weby, Facebook a Instagram talianskych basketbalových klubov na jednom mieste.",
+      "order": 4,
       "slug": "taliansko",
       "name_en": "Italy",
       "slug_en": "italy",
-      "desc_en": "Italian clubs of Serie A, the second-tier Serie A2 and the women's Serie A1"
+      "desc_en": "Italian basketball league clubs — Serie A (16 clubs: Olimpia Milano, Virtus Bologna, Aquila Basket Trento, Derthona Tortona), Serie A2 (20 clubs: Basket Torino, Avellino Basket, Basket Mestre) and the women's Serie A1 (12). Official websites, Facebook and Instagram of Italian basketball clubs in one place."
     },
     {
       "id": "f_bas_ita_l1",
@@ -101382,12 +101382,12 @@
       "type": "folder",
       "icon": "fr",
       "name": "Francúzsko",
-      "desc": "Francúzske kluby Betclic ÉLITE, druhej Élite 2 a ženskej Wonderligue",
-      "order": 3,
+      "desc": "Francúzska basketbalová liga — Betclic ÉLITE (16 klubov: ASVEL, Paris Basketball, Cholet Basket, Le Mans Sarthe Basket), Élite 2 (20 klubov: ADA Blois Basket 41, ALM Évreux Basket, Aix Maurienne Savoie Basket) a ženská La Boulangère Wonderligue (12). Oficiálne weby, Facebook a Instagram francúzskych basketbalových klubov na jednom mieste.",
+      "order": 5,
       "slug": "francuzsko",
       "name_en": "France",
       "slug_en": "france",
-      "desc_en": "French clubs of the Betclic ÉLITE, the second-tier Élite 2 and the women's Wonderligue"
+      "desc_en": "French basketball league clubs — Betclic ÉLITE (16 clubs: ASVEL, Paris Basketball, Cholet Basket, Le Mans Sarthe Basket), Élite 2 (20 clubs: ADA Blois Basket 41, ALM Évreux Basket, Aix Maurienne Savoie Basket) and the women's La Boulangère Wonderligue (12). Official websites, Facebook and Instagram of French basketball clubs in one place."
     },
     {
       "id": "f_bas_fra_l1",
@@ -101422,7 +101422,7 @@
       "icon": "al",
       "name": "Albánsko",
       "desc": "Albánske kluby najvyššej basketbalovej Superligy — 11 klubov: Partizani Tiranë, Tirana Neptun, Beselidhja Lezhë a Kamza Basket.",
-      "order": 4,
+      "order": 6,
       "slug": "albansko",
       "name_en": "Albania",
       "slug_en": "albania",
@@ -101435,7 +101435,7 @@
       "icon": "am",
       "name": "Arménsko",
       "desc": "Arménske kluby najvyššej domácej basketbalovej súťaže — 8 klubov: Artik BC, Erebuni, Urartu a BC Olympavan.",
-      "order": 5,
+      "order": 7,
       "slug": "armensko",
       "name_en": "Armenia",
       "slug_en": "armenia",
@@ -101448,7 +101448,7 @@
       "icon": "az",
       "name": "Azerbajdžán",
       "desc": "Azerbajdžanské kluby najvyššej Azerbaijan Basketball League — 8 klubov: Gəncə BK, NTD Baku, Sabah BK a LANDAU Lions.",
-      "order": 6,
+      "order": 8,
       "slug": "azerbajdzan",
       "name_en": "Azerbaijan",
       "slug_en": "azerbaijan",
@@ -101461,7 +101461,7 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "Belgické basketbalové kluby — BNXT League (11 klubov: Antwerp Giants, BC Oostende, CB Liège, Spirou Charleroi) a Top Division Women (ženy) (11 klubov: Basket Namur Capitale, Castors Braine, Kangoeroes Mechelen, Amon Jeugd Gentson). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 7,
+      "order": 9,
       "slug": "belgicko",
       "name_en": "Belgium",
       "slug_en": "belgium",
@@ -101474,7 +101474,7 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "Bieloruské kluby najvyššej domácej basketbalovej súťaže — 7 klubov: Grodno-93, Minsk, Borisfen a Rubon.",
-      "order": 8,
+      "order": 10,
       "slug": "bielorusko",
       "name_en": "Belarus",
       "slug_en": "belarus",
@@ -101487,7 +101487,7 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "Bosnianske kluby najvyššej basketbalovej súťaže vrátane Bosny a Igokey, ktoré hrajú Ligu ABA a vstupujú až do play-off — 15 klubov: Borac Banja Luka, Bosna BH Telecom, Igokea m:tel a Sloboda Tuzla.",
-      "order": 9,
+      "order": 11,
       "slug": "bosna-a-hercegovina",
       "name_en": "Bosnia and Herzegovina",
       "slug_en": "bosnia-and-herzegovina",
@@ -101500,7 +101500,7 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "Bulharské kluby najvyššej basketbalovej ligy NBL — 14 klubov: Balkan, CSKA, Levski a Lokomotiv Plovdiv.",
-      "order": 10,
+      "order": 12,
       "slug": "bulharsko",
       "name_en": "Bulgaria",
       "slug_en": "bulgaria",
@@ -101513,7 +101513,7 @@
       "icon": "cy",
       "name": "Cyprus",
       "desc": "Cyperské kluby najvyššej basketbalovej Division A — 10 klubov: AEK Larnaca, AEL Limassol, Keravnos a APOEL.",
-      "order": 11,
+      "order": 13,
       "slug": "cyprus",
       "name_en": "Cyprus",
       "slug_en": "cyprus",
@@ -101526,7 +101526,7 @@
       "icon": "cz",
       "name": "Česko",
       "desc": "České basketbalové kluby — NBL (12 klubov: BK Opava, Basket Brno, BK Děčín, BK Hradec Králové) a ŽBL (ženy) (10 klubov: ZVVZ USK Praha, Basket Ostrava, DSK Basketball Brandýs, KARA Trutnov). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 12,
+      "order": 1,
       "slug": "ceska-republika",
       "name_en": "Czechia",
       "slug_en": "czech-republic",
@@ -101539,7 +101539,7 @@
       "icon": "me",
       "name": "Čierna Hora",
       "desc": "Čiernohorské kluby najvyššej basketbalovej Prva A ligy — 14 klubov: Budućnost VOLI, Dečić, Mornar a SC Derby.",
-      "order": 13,
+      "order": 14,
       "slug": "cierna-hora",
       "name_en": "Montenegro",
       "slug_en": "montenegro",
@@ -101552,7 +101552,7 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "Dánske basketbalové kluby — Basketligaen (12 klubov: Bakken Bears, BC Copenhagen, Bears Academy, BK Vejen) a Kvindebasketligaen (ženy) (7 klubov: Aabyhøj IF, Falcon, Hørsholm 79ers, BK Amager). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 14,
+      "order": 15,
       "slug": "dansko",
       "name_en": "Denmark",
       "slug_en": "denmark",
@@ -101565,7 +101565,7 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "Estónske kluby spoločnej estónsko-lotyšskej basketbalovej ligy — 7 klubov: Kalev, BC Pärnu, Keila Basket a TalTech.",
-      "order": 15,
+      "order": 16,
       "slug": "estonsko",
       "name_en": "Estonia",
       "slug_en": "estonia",
@@ -101578,7 +101578,7 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "Fínske basketbalové kluby — Korisliiga (12 klubov: Helsinki Seagulls, Korihait, Kouvot, Lahti Basketball) a Naisten Korisliiga (ženy) (9 klubov: BC Nokia, Espoo Basket Team, Kouvottaret, Tampereen Pyrintö). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 16,
+      "order": 17,
       "slug": "finsko",
       "name_en": "Finland",
       "slug_en": "finland",
@@ -101591,7 +101591,7 @@
       "icon": "gr",
       "name": "Grécko",
       "desc": "Grécke basketbalové kluby — Α1 Ανδρών (14 klubov: AEK, Olympiacos, Panathinaikos, Promitheas Patras) a Α1 Γυναικών (ženy) (12 klubov: Amyntas, Aris, Kronos Agiou Dimitriou, Olympiacos). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 17,
+      "order": 18,
       "slug": "grecko",
       "name_en": "Greece",
       "slug_en": "greece",
@@ -101604,7 +101604,7 @@
       "icon": "ge",
       "name": "Gruzínsko",
       "desc": "Gruzínske kluby najvyššej basketbalovej Superligy — 11 klubov: Tbilisi State University, BC Orbi, BC Akhaltsikhe a BC Batumi.",
-      "order": 18,
+      "order": 19,
       "slug": "gruzinsko",
       "name_en": "Georgia",
       "slug_en": "georgia",
@@ -101617,7 +101617,7 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "Holandské basketbalové kluby — BNXT League (5 klubov: Donar, Heroes Den Bosch, Landstede Hammers, ZZ Leiden) a WBL (ženy) (10 klubov: Den Helder Suns, Grasshoppers, Jolly Jumpers, Lions Landsmeer). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 19,
+      "order": 20,
       "slug": "holandsko",
       "name_en": "Netherlands",
       "slug_en": "netherlands",
@@ -101630,7 +101630,7 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "Chorvátske kluby najvyššej Premijer ligy — 12 klubov: Cibona Zagreb, Split, Virtus Zagreb a Dinamo Zagreb.",
-      "order": 20,
+      "order": 21,
       "slug": "chorvatsko",
       "name_en": "Croatia",
       "slug_en": "croatia",
@@ -101643,7 +101643,7 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "Írske kluby najvyššej basketbalovej Super League — 12 klubov: Ballincollig, Limerick Celtics, UCC Demons a UCD Marian.",
-      "order": 21,
+      "order": 22,
       "slug": "irsko",
       "name_en": "Ireland",
       "slug_en": "ireland",
@@ -101656,7 +101656,7 @@
       "icon": "is",
       "name": "Island",
       "desc": "Islandské basketbalové kluby — Úrvalsdeild (12 klubov: Grindavík, Ármann, Njarðvík, Tindastóll) a Úrvalsdeild kvenna (ženy) (10 klubov: Njarðvík, Haukar, Keflavík, Ármann). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 22,
+      "order": 23,
       "slug": "island",
       "name_en": "Iceland",
       "slug_en": "iceland",
@@ -101669,7 +101669,7 @@
       "icon": "il",
       "name": "Izrael",
       "desc": "Izraelské kluby najvyššej ligy Ligat Winner — 14 klubov: Bnei Herzliya, Hapoel Galil Elyon, Hapoel Holon a Hapoel Jerusalem.",
-      "order": 23,
+      "order": 24,
       "slug": "izrael",
       "name_en": "Israel",
       "slug_en": "israel",
@@ -101682,7 +101682,7 @@
       "icon": "xk",
       "name": "Kosovo",
       "desc": "Kosovské kluby najvyššej basketbalovej Superligy — 8 klubov: Rahoveci 029, Trepça, Vëllaznimi a Bashkimi.",
-      "order": 24,
+      "order": 25,
       "slug": "kosovo",
       "name_en": "Kosovo",
       "slug_en": "kosovo",
@@ -101695,7 +101695,7 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "Litovské basketbalové kluby — Lietuvos krepšinio lyga (LKL) (10 klubov: Gargždai, Rytas Vilnius, Žalgiris Kaunas, Jonava) a LMKL (ženy) (7 klubov: Kibirkštis-TOKS, Šiauliai-Vilmers, Aistės-LSMU Kaunas, Alytus ALYTUS-GUT.LT). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 25,
+      "order": 26,
       "slug": "litva",
       "name_en": "Lithuania",
       "slug_en": "lithuania",
@@ -101708,7 +101708,7 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "Lotyšské kluby spoločnej lotyšsko-estónskej basketbalovej ligy — 8 klubov: BK Liepāja, BK Ventspils, Valmiera Glass ViA a VEF Rīga.",
-      "order": 26,
+      "order": 27,
       "slug": "lotyssko",
       "name_en": "Latvia",
       "slug_en": "latvia",
@@ -101721,7 +101721,7 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "Luxemburské kluby najvyššej domácej basketbalovej súťaže — 12 klubov: Amicale Steesel, Etzella Ettelbruck, Racing Luxembourg a Résidence Walferdange.",
-      "order": 27,
+      "order": 28,
       "slug": "luxembursko",
       "name_en": "Luxembourg",
       "slug_en": "luxembourg",
@@ -101734,7 +101734,7 @@
       "icon": "hu",
       "name": "Maďarsko",
       "desc": "Maďarské basketbalové kluby — NB I/A (14 klubov: Falco KC Szombathely, Szolnoki Olajbányász, Kaposvári KK, Alba Fehérvár) a NB I/A (ženy) (11 klubov: Sopron Basket, TFSE, BKG-PRIMA Szigetszentmiklós, Csata TKK). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 28,
+      "order": 29,
       "slug": "madarsko",
       "name_en": "Hungary",
       "slug_en": "hungary",
@@ -101747,7 +101747,7 @@
       "icon": "mt",
       "name": "Malta",
       "desc": "Maltské kluby najvyššej domácej basketbalovej súťaže — 6 klubov: Athleta, Depiro, Hibernians a Luxol.",
-      "order": 29,
+      "order": 30,
       "slug": "malta",
       "name_en": "Malta",
       "slug_en": "malta",
@@ -101760,7 +101760,7 @@
       "icon": "md",
       "name": "Moldavsko",
       "desc": "Moldavské kluby najvyššej domácej basketbalovej súťaže — 9 klubov: Ceadir-Basket, BC Strășeni, CSMCAS Pervanciuc a Gloria.",
-      "order": 30,
+      "order": 31,
       "slug": "moldavsko",
       "name_en": "Moldova",
       "slug_en": "moldova",
@@ -101773,7 +101773,7 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "Nórske kluby najvyššej ligy BLNO — 10 klubov: Ammerud Basket, Bærum Basket, Centrum Tigers a Frøya Basket.",
-      "order": 31,
+      "order": 32,
       "slug": "norsko",
       "name_en": "Norway",
       "slug_en": "norway",
@@ -101786,7 +101786,7 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "Poľské basketbalové kluby — Polska Liga Koszykówki (PLK) (16 klubov: Anwil Włocławek, Arka Gdynia, Śląsk Wrocław, Astoria Bydgoszcz) a Basket Liga Kobiet (ženy) (13 klubov: 1KS Ślęza Wrocław, Artego Bydgoszcz, Contimax MOSIR Bochnia, Enea AZS Politechnika Poznań). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 32,
+      "order": 33,
       "slug": "polsko",
       "name_en": "Poland",
       "slug_en": "poland",
@@ -101799,7 +101799,7 @@
       "icon": "pt",
       "name": "Portugalsko",
       "desc": "Portugalské kluby najvyššej Liga Portuguesa de Basquetebol — 12 klubov: Benfica, FC Porto, Sporting CP a Oliveirense.",
-      "order": 33,
+      "order": 34,
       "slug": "portugalsko",
       "name_en": "Portugal",
       "slug_en": "portugal",
@@ -101812,7 +101812,7 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "Rakúske basketbalové kluby — Basketball Superliga (11 klubov: BC Vienna, Kapfenberg Bulls, Oberwart Gunners, Swans Gmunden) a Damen Superliga (ženy) (8 klubov: Duchess Klosterneuburg, UBI Graz, Basket Flames, Danubz Linz). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 34,
+      "order": 35,
       "slug": "rakusko",
       "name_en": "Austria",
       "slug_en": "austria",
@@ -101825,7 +101825,7 @@
       "icon": "ro",
       "name": "Rumunsko",
       "desc": "Rumunské basketbalové kluby — Liga Națională (15 klubov: CSM Oradea, CSU Sibiu, Steaua București, U-BT Cluj-Napoca) a Liga Națională (ženy) (10 klubov: CS Rapid București, FCC Baschet UAV Arad, Sportul Studențesc Leii București, CSM CSU Târgoviște). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 35,
+      "order": 36,
       "slug": "rumunsko",
       "name_en": "Romania",
       "slug_en": "romania",
@@ -101838,7 +101838,7 @@
       "icon": "ru",
       "name": "Rusko",
       "desc": "Ruské kluby hrajúce nadnárodnú VTB United League — 11 klubov: Avtodor Saratov, CSKA Moskva, Lokomotiv-Kuban a Parma Perm.",
-      "order": 36,
+      "order": 37,
       "slug": "rusko",
       "name_en": "Russia",
       "slug_en": "russia",
@@ -101851,7 +101851,7 @@
       "icon": "mk",
       "name": "Severné Macedónsko",
       "desc": "Severomacedónske kluby najvyššej basketbalovej súťaže — MTEL Super ligy — 10 klubov: MZT Skopje Aerodrom, Madzari Skopje, TFT Skopje a GKK Štip.",
-      "order": 37,
+      "order": 38,
       "slug": "macedonsko",
       "name_en": "North Macedonia",
       "slug_en": "north-macedonia",
@@ -101864,7 +101864,7 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "Slovenské basketbalové kluby — SBL (11 klubov: Patrioti Levice, Slovan Bratislava, Spišskí Rytieri, Baník Handlová) a Extraliga žien (9 klubov: MBK Ružomberok, Piešťanské Čajky, Basketbal Trenčín, CBK Košice). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 38,
+      "order": 0,
       "slug": "slovensko",
       "name_en": "Slovakia",
       "slug_en": "slovakia",
@@ -115063,12 +115063,12 @@
       "type": "folder",
       "icon": "co",
       "name": "Kolumbia",
-      "desc": "Kolumbijské basketbalové kluby — Liga Profesional (7 klubov: Toros del Valle, Caribbean Storm, Piratas de Bogotá, Caimanes del Llano). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
+      "desc": "Kolumbijské basketbalové kluby — Liga Profesional (8 klubov: Toros del Valle, Caribbean Storm, Piratas de Bogotá, Caimanes del Llano). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "order": 5,
       "slug": "kolumbia",
       "name_en": "Colombia",
       "slug_en": "colombia",
-      "desc_en": "Colombian basketball clubs — Liga Profesional (7 clubs: Toros del Valle, Caribbean Storm, Piratas de Bogotá, Caimanes del Llano). Official websites, Facebook and Instagram of the clubs in one place."
+      "desc_en": "Colombian basketball clubs — Liga Profesional (8 clubs: Toros del Valle, Caribbean Storm, Piratas de Bogotá, Caimanes del Llano). Official websites, Facebook and Instagram of the clubs in one place."
     },
     {
       "id": "f_bas_klu_ja_par",
@@ -115179,10 +115179,11 @@
       "type": "link",
       "icon": "",
       "name": "Ferro Carril Oeste",
-      "desc": "Buenos Aires — legenda zo štvrte Caballito a jeden z najväčších šampiónov 80. rokov; vlastný web klubu je nedostupný, odkaz vedie na oficiálny Instagram basketbalového oddielu.",
-      "url": "https://www.instagram.com/ferrobasquet.ok/",
+      "desc": "Buenos Aires — legenda zo štvrte Caballito a jeden z najväčších šampiónov 80. rokov; odkaz vedie na basketbalovú sekciu nového oficiálneho webu klubu.",
+      "url": "https://www.ferrocarriloeste.org.ar/categoria/basquet-basquet/",
       "order": 4,
-      "desc_en": "Buenos Aires — a legend from the Caballito district and one of the great champions of the 1980s; the club's own website is unavailable, so the link points to the basketball section's official Instagram."
+      "desc_en": "Buenos Aires — a legend from the Caballito district and one of the great champions of the 1980s; the link points to the basketball section of the club's new official website.",
+      "ig": "https://www.instagram.com/ferrobasquet.ok/"
     },
     {
       "id": "f_bas_arg_l1_k6",
@@ -115213,11 +115214,12 @@
       "type": "link",
       "icon": "",
       "name": "Instituto",
-      "desc": "Córdoba — basketbalový oddiel klubu z Alta Córdoba, hráva v hale Ángel Sandrín; klubový web dlhodobo nefunguje, odkaz vedie na oficiálny Facebook.",
-      "url": "https://www.facebook.com/InstitutoACC/",
+      "desc": "Córdoba — basketbalový oddiel klubu z Alta Córdoba, hráva v hale Ángel Sandrín; odkaz vedie na basketbalové správy na oficiálnom webe klubu.",
+      "url": "https://institutoacc.com.ar/index.php/category/noticias/noticias-de-basquet/",
       "order": 7,
-      "desc_en": "Córdoba — the basketball section of the Alta Córdoba club, playing at the Ángel Sandrín arena; the club website has long been down, so the link points to its official Facebook page.",
-      "ig": "https://www.instagram.com/institutoacc/"
+      "desc_en": "Córdoba — the basketball section of the Alta Córdoba club, playing at the Ángel Sandrín arena; the link points to the basketball news on the club's official website.",
+      "ig": "https://www.instagram.com/institutoacc/",
+      "fb": "https://www.facebook.com/InstitutoACC/"
     },
     {
       "id": "f_bas_arg_l1_k9",
@@ -115262,10 +115264,11 @@
       "icon": "",
       "name": "Peñarol Mar del Plata",
       "desc": "Mar del Plata — päťnásobný majster Liga Nacional a dvojnásobný víťaz Ligy Américas, prezývaný „Milrayitas“.",
-      "url": "https://www.facebook.com/clubpenarolmardelplata/",
+      "url": "https://penarolmdp.com.ar",
       "order": 11,
       "desc_en": "Mar del Plata — a five-time Liga Nacional champion and two-time Liga de las Américas winner, nicknamed 'Milrayitas'.",
-      "ig": "https://www.instagram.com/penaroloficial/"
+      "ig": "https://www.instagram.com/penaroloficial/",
+      "fb": "https://www.facebook.com/clubpenarolmardelplata/"
     },
     {
       "id": "f_bas_arg_l1_k13",
@@ -115369,11 +115372,12 @@
       "type": "link",
       "icon": "",
       "name": "Bauru Basket",
-      "desc": "Bauru — vnútrozemský klub štátu São Paulo a majster NBB zo sezóny 2016/17; vlastný web nemá, oficiálne informácie dáva na Facebooku.",
-      "url": "https://www.facebook.com/baurubasket/",
+      "desc": "Bauru — vnútrozemský klub štátu São Paulo a majster NBB zo sezóny 2016/17; odkaz vedie na oficiálny web klubu.",
+      "url": "https://baurubasket.com.br/",
       "order": 2,
-      "desc_en": "Bauru — an inland club from São Paulo state and the 2016/17 NBB champion; it has no website of its own and posts official news on Facebook.",
-      "ig": "https://www.instagram.com/baurubasket/"
+      "desc_en": "Bauru — an inland club from São Paulo state and the 2016/17 NBB champion; the link leads to the club’s official website.",
+      "ig": "https://www.instagram.com/baurubasket/",
+      "fb": "https://www.facebook.com/baurubasket/"
     },
     {
       "id": "f_bas_bra_l1_k4",
@@ -115529,11 +115533,10 @@
       "type": "link",
       "icon": "",
       "name": "São José Basketball",
-      "desc": "São José dos Campos — klub z údolia rieky Paraíba, ktorý sa vrátil do NBB.",
-      "url": "https://saojosebasketball.com.br/",
+      "desc": "São José dos Campos — klub z údolia rieky Paraíba, ktorý sa vrátil do NBB; aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/saojosebasketball/",
       "order": 15,
-      "desc_en": "São José dos Campos — a club from the Paraíba Valley that has returned to the NBB.",
-      "fb": "https://www.facebook.com/saojosebasketball/",
+      "desc_en": "São José dos Campos — a club from the Paraíba Valley that has returned to the NBB; it posts news on Facebook.",
       "ig": "https://www.instagram.com/saojosebasketball/"
     },
     {
@@ -115714,11 +115717,10 @@
       "type": "link",
       "icon": "",
       "name": "Brillantes del Zulia",
-      "desc": "Maracaibo — klub založený 2019, hrá v Gimnasiu Pedro Elías Belisario Aponte.",
-      "url": "https://brillantesdelzulia.com/",
+      "desc": "Maracaibo — klub založený 2019, hrá v Gimnasiu Pedro Elías Belisario Aponte. Aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/brillantes_bbc/",
       "order": 0,
-      "desc_en": "Maracaibo — a club founded in 2019, playing at the Gimnasio Pedro Elías Belisario Aponte.",
-      "ig": "https://www.instagram.com/brillantes_bbc/"
+      "desc_en": "Maracaibo — a club founded in 2019, playing at the Gimnasio Pedro Elías Belisario Aponte. News are published on Instagram."
     },
     {
       "id": "f_bas_ven_l1_k2",
@@ -115880,12 +115882,10 @@
       "type": "link",
       "icon": "",
       "name": "Caribbean Storm",
-      "desc": "San Andrés / Cali — reprezentuje karibský ostrov San Andrés.",
-      "url": "https://basketball.latinbasket.com/team/Caribbean-Storm-Islands/62159",
-      "order": 1,
-      "desc_en": "San Andrés / Cali — represents the Caribbean island of San Andrés.",
-      "fb": "https://www.facebook.com/CaribbeanStormBasketball/",
-      "ig": "https://www.instagram.com/caribbeanbasketball/"
+      "desc": "San Andrés / Cali — reprezentuje karibský ostrov San Andrés; aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/caribbeanbasketball/",
+      "order": 2,
+      "desc_en": "San Andrés / Cali — represents the Caribbean island of San Andrés; news is published on Instagram."
     },
     {
       "id": "f_bas_col_l1_k3",
@@ -115895,7 +115895,7 @@
       "name": "Motilones del Norte",
       "desc": "Cúcuta — hrdosť mesta Cúcuta, hrá v Coliseu Toto Hernández.",
       "url": "https://www.facebook.com/profile.php?id=61560004130782",
-      "order": 2,
+      "order": 3,
       "desc_en": "Cúcuta — the pride of the city of Cúcuta, playing at the Coliseo Toto Hernández.",
       "ig": "https://www.instagram.com/clubdeportivomotilones/"
     },
@@ -115907,7 +115907,7 @@
       "name": "Paisas de Medellín",
       "desc": "Medellín (Antioquia) — finalisti Kolumbijskej ligy 2026-I, hrajú aj BCL Americas.",
       "url": "https://www.instagram.com/paisasbasketball/",
-      "order": 3,
+      "order": 4,
       "desc_en": "Medellín, Antioquia — 2026-I Colombian league runners-up, also competing in the BCL Americas.",
       "fb": "https://www.facebook.com/profile.php?id=61580868997329"
     },
@@ -115918,8 +115918,8 @@
       "icon": "",
       "name": "Piratas de Bogotá",
       "desc": "Bogotá — klub s najdlhšou tradíciou profesionálneho basketbalu v krajine.",
-      "url": "https://www.piratasdebogota.com/es",
-      "order": 4,
+      "url": "https://piratasdebogota.com/",
+      "order": 5,
       "desc_en": "Bogotá — the club with the longest tradition of professional basketball in the country.",
       "fb": "https://www.facebook.com/PiratasdeBogotaB/",
       "ig": "https://www.instagram.com/piratasbogota/"
@@ -115932,7 +115932,7 @@
       "name": "Sabios",
       "desc": "Manizales (Caldas) — profesionálny basketbalový klub mesta Manizales.",
       "url": "https://www.instagram.com/sabiosmzl/",
-      "order": 5,
+      "order": 6,
       "desc_en": "Manizales, Caldas — the professional basketball club of the city of Manizales.",
       "fb": "https://www.facebook.com/sabiosbasket/"
     },
@@ -115944,9 +115944,10 @@
       "name": "Toros del Valle",
       "desc": "Cali (Valle del Cauca) — majster Kolumbijskej ligy 2026-I, prvý titul klubu.",
       "url": "https://torosdelvalle.com/",
-      "order": 6,
+      "order": 7,
       "desc_en": "Cali, Valle del Cauca — champion of the 2026-I Colombian league, the club's first title.",
-      "ig": "https://www.instagram.com/torosdelvalle/"
+      "ig": "https://www.instagram.com/torosdelvalle/",
+      "fb": "https://www.facebook.com/torosdelvalleoficial/"
     },
     {
       "id": "f_bas_chi_l1_k1",
@@ -116103,7 +116104,8 @@
       "desc": "Concepción — vedúci tím pravidelnej časti sezóny 2026, víťaz Copa Chile.",
       "url": "https://www.facebook.com/BasketUdeC/",
       "order": 12,
-      "desc_en": "Concepción — the top team of the regular 2026 season, winners of the Copa Chile."
+      "desc_en": "Concepción — the top team of the regular 2026 season, winners of the Copa Chile.",
+      "ig": "https://www.instagram.com/basquetudec/"
     },
     {
       "id": "f_bas_par_l1_k2",
@@ -116193,11 +116195,11 @@
       "type": "link",
       "icon": "",
       "name": "Catequil",
-      "desc": "Cajamarca — jediný klub ligy zo severoperuánskeho mesta Cajamarca.",
-      "url": "https://www.facebook.com/profile.php?id=61577361725750",
+      "desc": "Cajamarca — jediný klub ligy zo severoperuánskeho mesta Cajamarca; aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/catequilbasketball/",
       "order": 0,
-      "desc_en": "Cajamarca — the league's only club from this northern Peruvian city.",
-      "ig": "https://www.instagram.com/catequilbasketball/"
+      "desc_en": "Cajamarca — the league's only club from this northern Peruvian city; news is published on Instagram.",
+      "fb": "https://www.facebook.com/profile.php?id=61577361725750"
     },
     {
       "id": "f_bas_per_l1_k6",
@@ -116219,7 +116221,8 @@
       "desc": "Amarilis (Huánuco) — klub Sport Sherekhan založený v roku 1962, okrem basketbalu sa venuje aj volejbalu.",
       "url": "https://www.facebook.com/ClubSportSherekhan/",
       "order": 6,
-      "desc_en": "Amarilis (Huánuco) — Sport Sherekhan, a club founded in 1962 that runs volleyball as well as basketball."
+      "desc_en": "Amarilis (Huánuco) — Sport Sherekhan, a club founded in 1962 that runs volleyball as well as basketball.",
+      "ig": "https://www.instagram.com/clubsherekhan/"
     },
     {
       "id": "f_bas_per_l1_k13",
@@ -116227,10 +116230,10 @@
       "type": "link",
       "icon": "",
       "name": "Sonics",
-      "desc": "Huancayo — jeden z troch huancayských klubov Ligy Nacional 2026 spolu s Ligou Claretiana a Comunicaciones.",
-      "url": "https://basketball.latinbasket.com/team/Club-Sonics/69832",
+      "desc": "Huancayo — jeden z troch huancayských klubov Ligy Nacional 2026 spolu s Ligou Claretiana a Comunicaciones; aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/sonicsbasket/",
       "order": 7,
-      "desc_en": "Huancayo — one of three Huancayo clubs in the 2026 Liga Nacional, alongside Liga Claretiana and Comunicaciones."
+      "desc_en": "Huancayo — one of three Huancayo clubs in the 2026 Liga Nacional, alongside Liga Claretiana and Comunicaciones; news is published on Instagram."
     },
     {
       "id": "f_bas_per_l1_k14",
@@ -116238,10 +116241,10 @@
       "type": "link",
       "icon": "",
       "name": "Titanes del Sur",
-      "desc": "Juliaca — jeden z troch klubov z Juliaky v Lige Nacional 2026 spolu s EDECH a Halcones.",
-      "url": "https://basketball.latinbasket.com/team/Club-Titanes/71080",
+      "desc": "Juliaca — jeden z troch klubov z Juliaky v Lige Nacional 2026 spolu s EDECH a Halcones; aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/profile.php?id=100094389712579",
       "order": 8,
-      "desc_en": "Juliaca — one of three clubs from Juliaca in the 2026 Liga Nacional, alongside EDECH and Halcones."
+      "desc_en": "Juliaca — one of three clubs from Juliaca in the 2026 Liga Nacional, alongside EDECH and Halcones; news is published on Facebook."
     },
     {
       "id": "f_bas_ecu_l1_k1",
@@ -124791,7 +124794,7 @@
       "name": "CPPL",
       "desc": "Lobito — klub prístavných pracovníkov (Casa Pessoal do Porto do Lobito) z roku 1952, prezývaný „Nação Azul“, hrá v Pavilhão da CPPL.",
       "url": "https://www.facebook.com/profile.php?id=100068977009115",
-      "order": 3,
+      "order": 4,
       "desc_en": "Lobito — the port workers' club (Casa Pessoal do Porto do Lobito) founded in 1952, nicknamed \"Nação Azul\", playing at the Pavilhão da CPPL."
     },
     {
@@ -124802,7 +124805,7 @@
       "name": "Desportivo Kwanza",
       "desc": "Luanda — klub bez vlastnej webovej prezentácie, odkaz vedie na profil na afrobasket.com.",
       "url": "https://basketball.afrobasket.com/team/Clube-Desportivo-Kwanza-Luanda/49530",
-      "order": 4,
+      "order": 5,
       "desc_en": "Luanda — a club with no web presence of its own, the link leads to its afrobasket.com profile."
     },
     {
@@ -124813,7 +124816,7 @@
       "name": "Ferroviário de Angola",
       "desc": "Luanda — klub železničiarov založený v roku 1915, v sezóne 2025/26 ovládol Skupinu B základnej časti.",
       "url": "https://clubeferroviarioangola.ao/pt/noticias/categoria/basquetebol/",
-      "order": 5,
+      "order": 6,
       "desc_en": "Luanda — the railway workers' club founded in 1915, topped Group B of the regular season in 2025/26.",
       "fb": "https://www.facebook.com/clubeferroviariodeangola.cfa/",
       "ig": "https://www.instagram.com/clubeferroviariodeangola/"
@@ -124826,7 +124829,7 @@
       "name": "Interclube",
       "desc": "Luanda (Rocha Pinto) — klub polície s prezývkou „Os Polícias“ založený v roku 1976, hrá v Pavilhão 28 de Fevereiro.",
       "url": "https://www.facebook.com/InterclubeAngolaGDI/",
-      "order": 6,
+      "order": 8,
       "desc_en": "Luanda (Rocha Pinto) — the police force's club nicknamed \"Os Polícias\", founded in 1976, playing at the Pavilhão 28 de Fevereiro.",
       "ig": "https://www.instagram.com/interclube_angola/"
     },
@@ -124838,7 +124841,7 @@
       "name": "Petro de Luanda",
       "desc": "Luanda — prezývka „Petroleiros“, spolu s Primeiro de Agosto rekordný majster domácej ligy (19 titulov), aktuálny šampión sezóny 2025/26.",
       "url": "https://petroatletico.co.ao/basquetebol",
-      "order": 7,
+      "order": 10,
       "desc_en": "Luanda — nicknamed \"Petroleiros\", tied with Primeiro de Agosto as the league's record champions (19 titles), reigning champions of the 2025/26 season."
     },
     {
@@ -124849,7 +124852,7 @@
       "name": "Primeiro de Agosto",
       "desc": "Luanda — klub angolskej armády založený v roku 1977, spolu s Petro de Luanda rekordný majster ligy (19 titulov).",
       "url": "https://www.facebook.com/clube1deagosto",
-      "order": 8,
+      "order": 11,
       "desc_en": "Luanda — club of the Angolan armed forces founded in 1977, tied with Petro de Luanda as the league's record champions (19 titles).",
       "ig": "https://www.instagram.com/clube1deagosto/"
     },
@@ -124859,11 +124862,10 @@
       "type": "link",
       "icon": "",
       "name": "Sporting de Luanda",
-      "desc": "Luanda — „leões verdes“ založení v roku 1920, dvojnásobný majster ligy, vo finále sezóny 2025/26 podľahli Petro de Luanda.",
-      "url": "https://scl.ao",
-      "order": 9,
-      "desc_en": "Luanda — the \"green lions\" founded in 1920, two-time league champions, runners-up to Petro de Luanda in the 2025/26 final.",
-      "fb": "https://www.facebook.com/profile.php?id=61557518253263",
+      "desc": "Luanda — „leões verdes“ založení v roku 1920, dvojnásobný majster ligy, vo finále sezóny 2025/26 podľahli Petro de Luanda. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/profile.php?id=61557518253263",
+      "order": 12,
+      "desc_en": "Luanda — the \"green lions\" founded in 1920, two-time league champions, runners-up to Petro de Luanda in the 2025/26 final. News is published on Facebook.",
       "ig": "https://www.instagram.com/sportingclubedeluanda/"
     },
     {
@@ -124874,7 +124876,7 @@
       "name": "Vila Clotilde",
       "desc": "Luanda (Maculusso) — jeden z najtradičnejších klubov angolského basketbalu (založený 1953), odchovancom je aj reprezentant Gerson Domingos.",
       "url": "https://www.facebook.com/profile.php?id=61560113151349",
-      "order": 10,
+      "order": 13,
       "desc_en": "Luanda (Maculusso) — one of the most traditional clubs in Angolan basketball (founded 1953), whose alumni include national team player Gerson Domingos.",
       "ig": "https://www.instagram.com/vilaclotildefc/"
     },
@@ -124897,11 +124899,10 @@
       "type": "link",
       "icon": "",
       "name": "Al Gezira",
-      "desc": "Káhira — basketbalový oddiel klubu Gezira Sporting Club, najväčšieho športového komplexu v Egypte založeného v roku 1882.",
-      "url": "https://basketball.afrobasket.com/team/Al-Gezira-Cairo/3809",
+      "desc": "Káhira — basketbalový oddiel klubu Gezira Sporting Club, najväčšieho športového komplexu v Egypte založeného v roku 1882. Aktuality zverejňuje klub na Instagrame.",
+      "url": "https://www.instagram.com/geziraclub/",
       "order": 1,
-      "desc_en": "Cairo — the basketball section of Gezira Sporting Club, Egypt's largest multi-sport complex, founded in 1882.",
-      "ig": "https://www.instagram.com/geziraclub/"
+      "desc_en": "Cairo — the basketball section of Gezira Sporting Club, Egypt's largest multi-sport complex, founded in 1882. The club publishes news on Instagram."
     },
     {
       "id": "f_bas_egy_l1_k3",
@@ -124912,7 +124913,8 @@
       "desc": "Alexandria — jeden z najúspešnejších egyptských klubov, pravidelne hráva v Basketball Africa League.",
       "url": "https://www.facebook.com/itthadalexsc/",
       "order": 2,
-      "desc_en": "Alexandria — one of Egypt's most successful clubs, a regular participant in the Basketball Africa League."
+      "desc_en": "Alexandria — one of Egypt's most successful clubs, a regular participant in the Basketball Africa League.",
+      "ig": "https://www.instagram.com/itthadalexsc/"
     },
     {
       "id": "f_bas_egy_l1_k4",
@@ -124977,11 +124979,10 @@
       "type": "link",
       "icon": "",
       "name": "Petrojet",
-      "desc": "Suez — basketbalový oddiel klubu ropnej spoločnosti Petrojet.",
-      "url": "https://petrojetsc.com/",
+      "desc": "Suez — basketbalový oddiel klubu ropnej spoločnosti Petrojet. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/PJSCOfficial/",
       "order": 9,
-      "desc_en": "Suez — the basketball section of the Petrojet oil company club.",
-      "fb": "https://www.facebook.com/PJSCOfficial/",
+      "desc_en": "Suez — the basketball section of the Petrojet oil company club. News is published on Facebook.",
       "ig": "https://www.instagram.com/pjscofficial/"
     },
     {
@@ -125015,11 +125016,10 @@
       "type": "link",
       "icon": "",
       "name": "Tala'ea El Gaish",
-      "desc": "Káhira — klub egyptskej armády, hráva v najvyššej basketbalovej súťaži.",
-      "url": "https://basketball.afrobasket.com/team/Al-Geish-Army-Cairo/5396",
+      "desc": "Káhira — klub egyptskej armády, hráva v najvyššej basketbalovej súťaži. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/Talaea.Elgish.Club/",
       "order": 13,
-      "desc_en": "Cairo — a club of the Egyptian armed forces, competing in the top basketball league.",
-      "fb": "https://www.facebook.com/Talaea.Elgish.Club/"
+      "desc_en": "Cairo — a club of the Egyptian armed forces, competing in the top basketball league. News is published on Facebook."
     },
     {
       "id": "f_bas_egy_l1_k15",
@@ -126577,8 +126577,8 @@
       "icon": "nz",
       "name": "Nový Zéland",
       "name_en": "New Zealand",
-      "desc": "Basketbalové kluby Nového Zélandu — mužská NZNBL a ženská liga Tauihi.",
-      "desc_en": "New Zealand's basketball clubs — the men's NZNBL and the women's Tauihi league.",
+      "desc": "Novozélandská basketbalová liga — mužská NZNBL (11 klubov: Auckland Tuatara, Canterbury Rams, Hawke's Bay Hawks, Franklin Bulls) a ženská Tauihi (5 klubov: Northern Kāhu, Tauranga Whai, Mainland Pouākai). Oficiálne weby, Facebook a Instagram novozélandských basketbalových klubov na jednom mieste.",
+      "desc_en": "New Zealand basketball league clubs — the men's NZNBL (11 clubs: Auckland Tuatara, Canterbury Rams, Hawke's Bay Hawks, Franklin Bulls) and the women's Tauihi (5 clubs: Northern Kāhu, Tauranga Whai, Mainland Pouākai). Official websites, Facebook and Instagram of New Zealand basketball clubs in one place.",
       "order": 1,
       "slug": "novy-zeland",
       "slug_en": "new-zealand"
@@ -127196,7 +127196,8 @@
       "desc": "Aguascalientes — klub založený v roku 1972, majster LNBP v roku 2003.",
       "url": "https://www.facebook.com/PanterasAgs/",
       "order": 11,
-      "desc_en": "Aguascalientes — a club founded in 1972, LNBP champions in 2003."
+      "desc_en": "Aguascalientes — a club founded in 1972, LNBP champions in 2003.",
+      "ig": "https://www.instagram.com/panterasaguascalientesoficial/"
     },
     {
       "id": "f_bas_mex_l1_k13",
@@ -127204,11 +127205,10 @@
       "type": "link",
       "icon": "",
       "name": "Santos del Potosí",
-      "desc": "San Luis Potosí — hrá v Auditóriu Miguela Barragána, člen LNBP od roku 2023.",
-      "url": "https://santosdelpotosi.mx/",
+      "desc": "San Luis Potosí — hrá v Auditóriu Miguela Barragána, člen LNBP od roku 2023; aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/cbsantossanluis/",
       "order": 12,
-      "desc_en": "San Luis Potosí — playing at the Miguel Barragán Auditorium, an LNBP member since 2023.",
-      "fb": "https://www.facebook.com/cbsantossanluis/",
+      "desc_en": "San Luis Potosí — playing at the Miguel Barragán Auditorium, an LNBP member since 2023; news is published on Facebook.",
       "ig": "https://www.instagram.com/cbsantossanluis/"
     },
     {
@@ -127395,7 +127395,8 @@
       "desc": "San Francisco de Macorís — trojnásobný majster LNB, súčasť klubu Gigantes del Cibao spolu s rovnomenným bejzbalovým tímom.",
       "url": "https://gigantes.do/baloncesto",
       "order": 1,
-      "desc_en": "San Francisco de Macorís — three-time LNB champion, part of the Gigantes del Cibao sports club alongside the baseball team of the same name."
+      "desc_en": "San Francisco de Macorís — three-time LNB champion, part of the Gigantes del Cibao sports club alongside the baseball team of the same name.",
+      "fb": "https://www.facebook.com/GigantesBasketclub/"
     },
     {
       "id": "f_bas_dom_l1_k3",
@@ -127472,11 +127473,11 @@
       "parentId": "f_bas_dom_l1",
       "type": "link",
       "icon": "",
-      "name": "Titanes del Distrito Nacional",
-      "desc": "Distrito Nacional — trojnásobný majster LNB (2008, 2024, 2025), predtým hral ako Constituyentes de San Cristóbal.",
+      "name": "Titanes del Sur",
+      "desc": "San Cristóbal — trojnásobný majster LNB (2008, 2024, 2025), do roku 2025 známy ako Titanes del Distrito Nacional, predtým hral ako Constituyentes de San Cristóbal.",
       "url": "https://www.instagram.com/titaneslnb/",
       "order": 8,
-      "desc_en": "National District — three-time LNB champion (2008, 2024, 2025), formerly playing as Constituyentes de San Cristóbal.",
+      "desc_en": "San Cristóbal — three-time LNB champion (2008, 2024, 2025), known until 2025 as Titanes del Distrito Nacional, formerly playing as Constituyentes de San Cristóbal.",
       "fb": "https://www.facebook.com/titanesLNB/"
     },
     {
@@ -130971,7 +130972,7 @@
       "icon": "be",
       "name": "Belgicko",
       "desc": "Belgické hádzanárske kluby — Super Handball League (7 klubov: Achilles Bocholt, HC Visé BM, Sporting Pelt, HBC Izegem). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 13,
+      "order": 12,
       "slug": "belgicko",
       "name_en": "Belgium",
       "slug_en": "belgium",
@@ -130984,7 +130985,7 @@
       "icon": "by",
       "name": "Bielorusko",
       "desc": "Bieloruské hádzanárske kluby — Vysšaja liga (8 klubov: HC Gomel, Masheka Mogilev, Meshkov Brest, SKA Minsk). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 14,
+      "order": 13,
       "slug": "bielorusko",
       "name_en": "Belarus",
       "slug_en": "belarus",
@@ -130997,7 +130998,7 @@
       "icon": "ba",
       "name": "Bosna a Hercegovina",
       "desc": "Bosnianske hádzanárske kluby — Premijer liga (13 klubov: Izviđač Ljubuški, Vogošća, Borac Banja Luka, Velež Mostar). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 15,
+      "order": 14,
       "slug": "bosna-a-hercegovina",
       "name_en": "Bosnia and Herzegovina",
       "slug_en": "bosnia-and-herzegovina",
@@ -131010,7 +131011,7 @@
       "icon": "bg",
       "name": "Bulharsko",
       "desc": "Bulharské hádzanárske kluby — A RHG (10 klubov: Shumen 61, Fregata Burgas, Lokomotiv Gorna Oryahovitsa, Chardafon Gabrovo). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 16,
+      "order": 15,
       "slug": "bulharsko",
       "name_en": "Bulgaria",
       "slug_en": "bulgaria",
@@ -131023,7 +131024,7 @@
       "icon": "cy",
       "name": "Cyprus",
       "desc": "Cyperské hádzanárske kluby — A' Katigoria (8 klubov: Anorthosis Famagusta, Parnassos Strovolou, European University Cyprus, SPE Strovolou). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 17,
+      "order": 16,
       "slug": "cyprus",
       "name_en": "Cyprus",
       "slug_en": "cyprus",
@@ -131036,7 +131037,7 @@
       "icon": "cz",
       "name": "Česko",
       "desc": "České hádzanárske kluby — extraliga, druhá 1. liga a ženské tímy spoločnej česko-slovenskej MOL ligy",
-      "order": 6,
+      "order": 1,
       "slug": "ceska-republika",
       "name_en": "Czechia",
       "slug_en": "czech-republic",
@@ -131049,7 +131050,7 @@
       "icon": "me",
       "name": "Čierna Hora",
       "desc": "Čiernohorské hádzanárske kluby — Prva liga (10 klubov: Berane 1949, Brskovo Mojkovac, Budvanska Rivijera, Lovćen Cetinje). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 18,
+      "order": 17,
       "slug": "cierna-hora",
       "name_en": "Montenegro",
       "slug_en": "montenegro",
@@ -131062,7 +131063,7 @@
       "icon": "dk",
       "name": "Dánsko",
       "desc": "Dánske hádzanárske kluby — najvyššia Herrehåndboldligaen, druhá 1. division a ženská Kvindeligaen",
-      "order": 3,
+      "order": 5,
       "slug": "dansko",
       "name_en": "Denmark",
       "slug_en": "denmark",
@@ -131075,7 +131076,7 @@
       "icon": "ee",
       "name": "Estónsko",
       "desc": "Estónske hádzanárske kluby — Meistriliiga (6 klubov: HC Kehra, Põlva Serviti, HC Viimsi, Mistra). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 19,
+      "order": 18,
       "slug": "estonsko",
       "name_en": "Estonia",
       "slug_en": "estonia",
@@ -131088,7 +131089,7 @@
       "icon": "fo",
       "name": "Faerské ostrovy",
       "desc": "Faerské hádzanárske kluby — Landskappingin (muži) (8 klubov: Kyndil, H71, Neistin, Team Klaksvík). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 20,
+      "order": 19,
       "slug": "faerske-ostrovy",
       "name_en": "Faroe Islands",
       "slug_en": "faroe-islands",
@@ -131101,7 +131102,7 @@
       "icon": "fi",
       "name": "Fínsko",
       "desc": "Fínske hádzanárske kluby — SM-liiga (8 klubov: ÅIFK, Cocks, Dicken, GrIFK). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 21,
+      "order": 20,
       "slug": "finsko",
       "name_en": "Finland",
       "slug_en": "finland",
@@ -131114,7 +131115,7 @@
       "icon": "fr",
       "name": "Francúzsko",
       "desc": "Francúzske hádzanárske kluby — najvyššia Starligue, druhá Proligue a ženská Ligue Butagaz Énergie (Division 1)",
-      "order": 1,
+      "order": 3,
       "slug": "francuzsko",
       "name_en": "France",
       "slug_en": "france",
@@ -131127,7 +131128,7 @@
       "icon": "gr",
       "name": "Grécko",
       "desc": "Grécke hádzanárske kluby — Handball Premier (12 klubov: PAOK, Diomidis Argous, GAS Kilkis, Ionikos N.F.). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 22,
+      "order": 21,
       "slug": "grecko",
       "name_en": "Greece",
       "slug_en": "greece",
@@ -131140,7 +131141,7 @@
       "icon": "nl",
       "name": "Holandsko",
       "desc": "Holandské hádzanárske kluby — Super Handball League (7 klubov: Kras Volendam, Bevo HC, DFS Arnhem, Hurry-Up). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 23,
+      "order": 22,
       "slug": "holandsko",
       "name_en": "Netherlands",
       "slug_en": "netherlands",
@@ -131153,7 +131154,7 @@
       "icon": "hr",
       "name": "Chorvátsko",
       "desc": "Chorvátske hádzanárske kluby — Premijer liga (16 klubov: RK Zagreb, HRK Karlovac, MRK Čakovec, RK Nexe). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 24,
+      "order": 23,
       "slug": "chorvatsko",
       "name_en": "Croatia",
       "slug_en": "croatia",
@@ -131166,7 +131167,7 @@
       "icon": "ie",
       "name": "Írsko",
       "desc": "Írske hádzanárske kluby — Olympic Handball Senior League (6 klubov: Astra Handball Club, Dublin International Handball Club, Phoenix Handball Club, Dublin City Handball Club). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 25,
+      "order": 24,
       "slug": "irsko",
       "name_en": "Ireland",
       "slug_en": "ireland",
@@ -131179,7 +131180,7 @@
       "icon": "is",
       "name": "Island",
       "desc": "Islandské hádzanárske kluby — Urvalsdeild karla (12 klubov: Afturelding, FH, Haukar, HK). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 26,
+      "order": 25,
       "slug": "island",
       "name_en": "Iceland",
       "slug_en": "iceland",
@@ -131192,7 +131193,7 @@
       "icon": "il",
       "name": "Izrael",
       "desc": "Izraelské hádzanárske kluby — Ligat Ha'Al (13 klubov: Hapoel Ashdod, Hapoel Rishon LeZion, Maccabi Rishon LeZion, Maccabi Tel Aviv). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 27,
+      "order": 26,
       "slug": "izrael",
       "name_en": "Israel",
       "slug_en": "israel",
@@ -131205,7 +131206,7 @@
       "icon": "xk",
       "name": "Kosovo",
       "desc": "Kosovské hádzanárske kluby — Superliga e Kosovës (7 klubov: KH Besa Famgas, KH Kastrioti, KH Rahoveci, KH Vëllaznimi). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 28,
+      "order": 27,
       "slug": "kosovo",
       "name_en": "Kosovo",
       "slug_en": "kosovo",
@@ -131218,7 +131219,7 @@
       "icon": "li",
       "name": "Lichtenštajnsko",
       "desc": "Lichtenštajnská hádzaná — jediný aktívny klub HC Buchs-Vaduz je cezhraničný švajčiarsko-lichtenštajnský tím („Zwei Länder ein Team“); muži hrajú švajčiarsku regionálnu 4. ligu (Handballregion Ostschweiz), ženy 3. ligu.",
-      "order": 29,
+      "order": 28,
       "slug": "lichtenstajnsko",
       "name_en": "Liechtenstein",
       "slug_en": "liechtenstein",
@@ -131231,7 +131232,7 @@
       "icon": "lt",
       "name": "Litva",
       "desc": "Litovské hádzanárske kluby — Lietuvos rankinio lyga (7 klubov: Alytaus Varsa-Stronglasas, Kauno Granitas-Karys, Vilniaus VHC Šviesa, Klaipėdos Dragūnas). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 30,
+      "order": 29,
       "slug": "litva",
       "name_en": "Lithuania",
       "slug_en": "lithuania",
@@ -131244,7 +131245,7 @@
       "icon": "lv",
       "name": "Lotyšsko",
       "desc": "Lotyšské hádzanárske kluby — SynotTip Virslīga (9 klubov: HK Ogre, SK Latgols, ZRHK Tenax Dobele, ASK/MSĢ). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 31,
+      "order": 30,
       "slug": "lotyssko",
       "name_en": "Latvia",
       "slug_en": "latvia",
@@ -131257,7 +131258,7 @@
       "icon": "lu",
       "name": "Luxembursko",
       "desc": "Luxemburské hádzanárske kluby — AXA League (8 klubov: Handball Esch, HB Dudelange, HC Berchem, Red Boys Differdange). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 32,
+      "order": 31,
       "slug": "luxembursko",
       "name_en": "Luxembourg",
       "slug_en": "luxembourg",
@@ -131283,7 +131284,7 @@
       "icon": "mt",
       "name": "Malta",
       "desc": "Maltské hádzanárske kluby — Championship League (4 kluby: La Salle Handball Club, Shooting Stars Handball Academy, Swieqi Phoenix Handball Club, Kavallieri Handball Club). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 33,
+      "order": 32,
       "slug": "malta",
       "name_en": "Malta",
       "slug_en": "malta",
@@ -131296,7 +131297,7 @@
       "icon": "mc",
       "name": "Monako",
       "desc": "Monacká hádzaná — vlastnú národnú súťaž Monako nemá a jediný klub kniežatstva AS Monaco Handball hrá francúzsku regionálnu ligu Pré-Nationale (Ligue Région Sud).",
-      "order": 34,
+      "order": 33,
       "slug": "monako",
       "name_en": "Monaco",
       "slug_en": "monaco",
@@ -131309,7 +131310,7 @@
       "icon": "de",
       "name": "Nemecko",
       "desc": "Nemecké hádzanárske kluby — Handball-Bundesliga, druhá 2. Handball-Bundesliga a ženská Handball-Bundesliga Frauen",
-      "order": 0,
+      "order": 2,
       "slug": "nemecko",
       "name_en": "Germany",
       "slug_en": "germany",
@@ -131322,7 +131323,7 @@
       "icon": "no",
       "name": "Nórsko",
       "desc": "Nórske hádzanárske kluby — najvyššia Elkjøp-ligaen, druhá 1. divisjon a ženská najvyššia liga",
-      "order": 4,
+      "order": 6,
       "slug": "norsko",
       "name_en": "Norway",
       "slug_en": "norway",
@@ -131335,7 +131336,7 @@
       "icon": "pl",
       "name": "Poľsko",
       "desc": "Poľské hádzanárske kluby — Superliga (12 klubov: KS Kielce, Śląsk Wrocław, Wisła Płock, Wybrzeże Gdańsk). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 35,
+      "order": 34,
       "slug": "polsko",
       "name_en": "Poland",
       "slug_en": "poland",
@@ -131348,7 +131349,7 @@
       "icon": "pt",
       "name": "Portugalsko",
       "desc": "Portugalské hádzanárske kluby — Andebol 1 (12 klubov: GC Santo Tirso, Sporting CP, ABC de Braga, AD Carvalhos). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 36,
+      "order": 35,
       "slug": "portugalsko",
       "name_en": "Portugal",
       "slug_en": "portugal",
@@ -131361,7 +131362,7 @@
       "icon": "at",
       "name": "Rakúsko",
       "desc": "Rakúske hádzanárske kluby — HLA Meisterliga (12 klubov: Alpla HC Hard, Bregenz Handball, HC Fivers WAT Margareten, HC Linz AG). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 37,
+      "order": 36,
       "slug": "rakusko",
       "name_en": "Austria",
       "slug_en": "austria",
@@ -131400,7 +131401,7 @@
       "icon": "mk",
       "name": "Severné Macedónsko",
       "desc": "Severomacedónske hádzanárske kluby — Superliga (12 klubov: Vardar 1961, Eurofarm Pelister, Alkaloid, Butel Skopje). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 38,
+      "order": 37,
       "slug": "macedonsko",
       "name_en": "North Macedonia",
       "slug_en": "north-macedonia",
@@ -131413,7 +131414,7 @@
       "icon": "sk",
       "name": "Slovensko",
       "desc": "Slovenské hádzanárske kluby — Handball extraliga, druhá 1. liga a ženské tímy spoločnej česko-slovenskej MOL ligy",
-      "order": 7,
+      "order": 0,
       "slug": "slovensko",
       "name_en": "Slovakia",
       "slug_en": "slovakia",
@@ -131426,7 +131427,7 @@
       "icon": "si",
       "name": "Slovinsko",
       "desc": "Slovinské hádzanárske kluby — Liga NLB (12 klubov: RK Celje, MRK Krka, RD Riko Ribnica, RD Slovan). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 39,
+      "order": 38,
       "slug": "slovinsko",
       "name_en": "Slovenia",
       "slug_en": "slovenia",
@@ -131439,7 +131440,7 @@
       "icon": "rs",
       "name": "Srbsko",
       "desc": "Srbské hádzanárske kluby — ARKUS liga (12 klubov: Crvena zvezda, Dinamo Pančevo, Metaloplastika, Partizan). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 40,
+      "order": 39,
       "slug": "srbsko",
       "name_en": "Serbia",
       "slug_en": "serbia",
@@ -131452,7 +131453,7 @@
       "icon": "gb-sct",
       "name": "Škótsko",
       "desc": "Škótske hádzanárske kluby — Senior Men's League (6 klubov: Kelvinside, Livingston, Cumbernauld, Edinburgh). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 41,
+      "order": 40,
       "slug": "skotsko",
       "name_en": "Scotland",
       "slug_en": "scotland",
@@ -131464,12 +131465,12 @@
       "type": "folder",
       "icon": "es",
       "name": "Španielsko",
-      "desc": "Španielske hádzanárske kluby — Liga ASOBAL, druhá División de Honor Plata a ženská Liga Guerreras Iberdrola",
-      "order": 2,
+      "desc": "Španielska hádzanárska liga — Liga ASOBAL (16 klubov: FC Barcelona, Bidasoa Irún, Ademar León, Granollers), druhá División de Honor Plata (16) a ženská División de Honor (14 klubov: Bera Bera, Atlético Guardés, Balonmano Elche). Oficiálne weby, Facebook a Instagram španielskych hádzanárskych klubov na jednom mieste.",
+      "order": 4,
       "slug": "spanielsko",
       "name_en": "Spain",
       "slug_en": "spain",
-      "desc_en": "Spanish handball clubs — Liga ASOBAL, the second-tier División de Honor Plata and the women's Liga Guerreras Iberdrola"
+      "desc_en": "Spanish handball league clubs — Liga ASOBAL (16 clubs: FC Barcelona, Bidasoa Irún, Ademar León, Granollers), the second-tier División de Honor Plata (16) and the women's División de Honor (14 clubs: Bera Bera, Atlético Guardés, Balonmano Elche). Official websites, Facebook and Instagram of Spanish handball clubs in one place."
     },
     {
       "id": "f_had_che",
@@ -131478,7 +131479,7 @@
       "icon": "ch",
       "name": "Švajčiarsko",
       "desc": "Švajčiarske hádzanárske kluby — Swiss Handball League (10 klubov: BSV Bern, GC Amicitia Zürich, HC Kriens-Luzern, Kadetten Schaffhausen). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 42,
+      "order": 41,
       "slug": "svajciarsko",
       "name_en": "Switzerland",
       "slug_en": "switzerland",
@@ -131490,12 +131491,12 @@
       "type": "folder",
       "icon": "se",
       "name": "Švédsko",
-      "desc": "Švédske hádzanárske kluby — najvyššia Handbollsligan, druhá Allsvenskan a ženská Handbollsligan",
-      "order": 5,
+      "desc": "Švédska hádzanárska liga — Handbollsligan (14 klubov: IK Sävehof, Ystads IF, Alingsås HK, Hammarby IF HF), druhá Allsvenskan (14 klubov: Eskilstuna Guif, H43 Lund, HK Aranäs) a ženská Handbollsligan (12 klubov: IK Sävehof, H65 Höör, Boden Handboll IF). Oficiálne weby, Facebook a Instagram švédskych hádzanárskych klubov na jednom mieste.",
+      "order": 7,
       "slug": "svedsko",
       "name_en": "Sweden",
       "slug_en": "sweden",
-      "desc_en": "Swedish handball clubs — the top-flight Handbollsligan, the second-tier Allsvenskan and the women's Handbollsligan"
+      "desc_en": "Swedish handball league clubs — Handbollsligan (14 clubs: IK Sävehof, Ystads IF, Alingsås HK, Hammarby IF HF), the second-tier Allsvenskan (14 clubs: Eskilstuna Guif, H43 Lund, HK Aranäs) and the women's Handbollsligan (12 clubs: IK Sävehof, H65 Höör, Boden Handboll IF). Official websites, Facebook and Instagram of Swedish handball clubs in one place."
     },
     {
       "id": "f_had_ita",
@@ -131504,7 +131505,7 @@
       "icon": "it",
       "name": "Taliansko",
       "desc": "Talianske hádzanárske kluby — Serie A Gold (14 klubov: Albatro Siracusa, Black Devils Meran, Cassano Magnago, Pressano). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 43,
+      "order": 42,
       "slug": "taliansko",
       "name_en": "Italy",
       "slug_en": "italy",
@@ -131517,7 +131518,7 @@
       "icon": "tr",
       "name": "Turecko",
       "desc": "Turecké hádzanárske kluby — Hentbol Süper Ligi (10 klubov: Beşiktaş, Beykoz Belediyespor, Mihalıççık Belediyespor, Göztepe). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 44,
+      "order": 43,
       "slug": "turecko",
       "name_en": "Turkey",
       "slug_en": "turkey",
@@ -131530,7 +131531,7 @@
       "icon": "ua",
       "name": "Ukrajina",
       "desc": "Ukrajinské hádzanárske kluby — Superliga (8 klubov: Charkiv, Donbas, Motor Záporožie, Chmeľnyckyj). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "order": 45,
+      "order": 44,
       "slug": "ukrajina",
       "name_en": "Ukraine",
       "slug_en": "ukraine",
@@ -168945,7 +168946,7 @@
       "name_en": "Albania",
       "desc": "Albánske volejbalové kluby — Superliga mužov (7 klubov) a žien (8 klubov) v sezóne 2026/27; majstrami 2026 sú Partizani Tirana a Pogradeci. Kluby: Superliga mužov — Erzeni Shijak, Partizani Tirana, Skënderbeu Korçë, Vllaznia Shkodër; Superliga žien — Pogradeci, Tirana, Vllaznia Shkodër, Dinamo Tirana.",
       "desc_en": "Albanian volleyball clubs — the men's (7 clubs) and women's (8 clubs) Superliga in 2026/27; Partizani Tirana and Pogradeci are the 2026 champions. Clubs: Superliga Men — Erzeni Shijak, Partizani Tirana, Skënderbeu Korçë, Vllaznia Shkodër; Superliga Women — Pogradeci, Tirana, Vllaznia Shkodër, Dinamo Tirana.",
-      "order": 0,
+      "order": 7,
       "order_en": 0,
       "slug": "albansko"
     },
@@ -168958,7 +168959,7 @@
       "name_en": "England",
       "desc": "Anglické volejbalové kluby — Super League mužov (8 tímov) a žien (8 tímov) v sezóne 2026/27. Kluby: Super League mužov — London Giants, Malory Eagles, Essex Blaze, University of Nottingham; Super League žien — London Lionhearts, Malory Eagles, Team SideOut Polonia, Durham Palatinates.",
       "desc_en": "English volleyball clubs — the men's (8 teams) and women's (8 teams) Super League in the 2026/27 season. Clubs: Super League Men — London Giants, Malory Eagles, Essex Blaze, University of Nottingham; Super League Women — London Lionhearts, Malory Eagles, Team SideOut Polonia, Durham Palatinates.",
-      "order": 2,
+      "order": 8,
       "order_en": 2,
       "slug": "anglicko"
     },
@@ -168971,7 +168972,7 @@
       "name_en": "Azerbaijan",
       "desc": "Azerbajdžanské volejbalové kluby — Yüksək Liqa mužov (6 klubov v sezóne 2025/26) a žien (10 klubov v sezóne 2026/27); majstrami 2026 sú Xilasedici a Turan. Kluby: Yüksək Liqa mužov — Ordu, Xilasedici, Azerrail, Gənclər; Yüksək Liqa žien — Gəncə, Turan, DH Volley, Azerrail.",
       "desc_en": "Azerbaijani volleyball clubs — the men's Yüksək Liqa (6 clubs in 2025/26) and the women's (10 clubs in 2026/27); Xilasedici and Turan are the 2026 champions. Clubs: Yüksək Liqa Men — Ordu, Xilasedici, Azerrail, Gənclər; Yüksək Liqa Women — Gəncə, Turan, DH Volley, Azerrail.",
-      "order": 3,
+      "order": 9,
       "order_en": 3,
       "slug": "azerbajdzan"
     },
@@ -168984,7 +168985,7 @@
       "name_en": "Belgium",
       "desc": "Belgické volejbalové kluby — mužská a ženská Liga (Lotto Volley League), v sezóne 2026/27 hrá 10 mužských a 12 ženských klubov. Kluby: Liga mužov — Brabo Antwerp, Knack Roeselare, VC Maaseik, Volley Aalst; Liga žien — Asterix Avo Beveren, Damesvolley Gent, VC Oudegem, Charleroi Volley.",
       "desc_en": "Belgian volleyball clubs — the men's and women's Liga (Lotto Volley League), with 10 men's and 12 women's clubs in the 2026/27 season. Clubs: Belgian Liga (men) — Brabo Antwerp, Knack Roeselare, VC Maaseik, Volley Aalst; Belgian Liga (women) — Asterix Avo Beveren, Damesvolley Gent, VC Oudegem, Charleroi Volley.",
-      "order": 4,
+      "order": 10,
       "order_en": 4,
       "slug": "belgicko"
     },
@@ -168997,7 +168998,7 @@
       "name_en": "Belarus",
       "desc": "Bieloruské volejbalové kluby — mužská a ženská Vysšaja liga, v sezóne 2026/27 hrá v každej 9 tímov. Kluby: Vysšaja liga mužov — Energija Gomeľ, Stolica Minsk, Šachťor Soligorsk, Zapadnyj Bug Brest; Vysšaja liga žien — Minčanka Minsk, Minčanka-2 Minsk, Pribužje Brest, Kommunalnik-Mogiľov.",
       "desc_en": "Belarusian volleyball clubs — the men's and women's Vysshaya Liga, with 9 teams in each in the 2026/27 season. Clubs: Vysshaya Liga Men — Energija Gomeľ, Stolica Minsk, Šachťor Soligorsk, Zapadnyj Bug Brest; Vysshaya Liga Women — Minčanka Minsk, Minčanka-2 Minsk, Pribužje Brest, Kommunalnik-Mogiľov.",
-      "order": 5,
+      "order": 11,
       "order_en": 5,
       "slug": "bielorusko"
     },
@@ -169010,7 +169011,7 @@
       "name_en": "Bosnia and Herzegovina",
       "desc": "Bosnianske volejbalové kluby — Premijer liga mužov (10 klubov) a žien (10 klubov) v sezóne 2026/27; majstrami 2025/26 sú Napredak Odžak a Gacko. Kluby: Premijer liga mužov — Domaljevac, Kakanj 78, Napredak Odžak, Modriča-Novoprom; Premijer liga žien — Gacko, Igman Ilidža, Kula Gradačac, Leotar Trebinje.",
       "desc_en": "Bosnian volleyball clubs — the men's (10 clubs) and women's (10 clubs) Premijer liga in 2026/27; Napredak Odžak and Gacko are the 2025/26 champions. Clubs: Premijer liga Men — Domaljevac, Kakanj 78, Napredak Odžak, Modriča-Novoprom; Premijer liga Women — Gacko, Igman Ilidža, Kula Gradačac, Leotar Trebinje.",
-      "order": 6,
+      "order": 12,
       "order_en": 6,
       "slug": "bosna-a-hercegovina"
     },
@@ -169023,7 +169024,7 @@
       "name_en": "Bulgaria",
       "desc": "Bulharské volejbalové kluby — Superliga mužov (11 klubov: CSKA Sofia, Levski Sofia, Neftochimik 2010 Burgas, Pirin Razlog) a Superliga žien (10 klubov: CSKA Sofia, Levski Sofia, Marica Plovdiv, Miňor Pernik). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Bulgarian volleyball clubs — Bulgarian Super Volley (men) (11 clubs: CSKA Sofia, Levski Sofia, Neftochimik 2010 Burgas, Pirin Razlog) and Bulgarian Super League (women) (10 clubs: CSKA Sofia, Levski Sofia, Marica Plovdiv, Miňor Pernik). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 7,
+      "order": 13,
       "order_en": 7,
       "slug": "bulharsko"
     },
@@ -169036,7 +169037,7 @@
       "name_en": "Cyprus",
       "desc": "Cyperské volejbalové kluby — 1. liga mužov (8 klubov) a žien (8 klubov) v sezóne 2026/27; majstrami 2025/26 sú Pafiakos a Olympiada Neapolis. Kluby: 1. liga mužov — Anorthosis Famagusta, AE Karava, APOEL Nicosia, Nea Salamina Famagusta; 1. liga žien — Olympiada Neapolis, AEK Larnaca, AEL Limassol, Anorthosis Famagusta.",
       "desc_en": "Cypriot volleyball clubs — the men's (8 clubs) and women's (8 clubs) First Division in 2026/27; Pafiakos and Olympiada Neapolis are the 2025/26 champions. Clubs: First Division Men — Anorthosis Famagusta, AE Karava, APOEL Nicosia, Nea Salamina Famagusta; First Division Women — Olympiada Neapolis, AEK Larnaca, AEL Limassol, Anorthosis Famagusta.",
-      "order": 8,
+      "order": 14,
       "order_en": 8,
       "slug": "cyprus"
     },
@@ -169049,7 +169050,7 @@
       "name_en": "Czechia",
       "desc": "České volejbalové kluby — Extraliga mužov (13 klubov: VK Jihostroj České Budějovice, Kladno volejbal cz, VK Karlovarsko, VK Dukla Liberec) a Extraliga žien (12 klubov: PVK Olymp Praha, TJ Sokol Frýdek-Místek, VK Dukla Liberec, VK KP Brno). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Czech volleyball clubs — Czech Extraliga (men) (13 clubs: VK Jihostroj České Budějovice, Kladno volejbal cz, VK Karlovarsko, VK Dukla Liberec) and Czech Extraliga (women) (12 clubs: PVK Olymp Praha, TJ Sokol Frýdek-Místek, VK Dukla Liberec, VK KP Brno). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 9,
+      "order": 1,
       "order_en": 9,
       "slug": "cesko"
     },
@@ -169062,7 +169063,7 @@
       "name_en": "Montenegro",
       "desc": "Čiernohorské volejbalové kluby — EPCG Superliga mužov (7 klubov) a žien (10 klubov), stav zo sezóny 2025/26; majstrami 2026 sú Budva a Herceg Novi. Kluby: EPCG Superliga mužov — Budućnost Volley, Budva, Sutjeska Nikšić, Jedinstvo Bijelo Polje; EPCG Superliga žien — Albatros Herceg Novi, Herceg Novi, Budva, Luka Bar.",
       "desc_en": "Montenegrin volleyball clubs — the men's (7 clubs) and women's (10 clubs) EPCG Superliga, as of the 2025/26 season; Budva and Herceg Novi are the 2026 champions. Clubs: EPCG Superliga Men — Budućnost Volley, Budva, Sutjeska Nikšić, Jedinstvo Bijelo Polje; EPCG Superliga Women — Albatros Herceg Novi, Herceg Novi, Budva, Luka Bar.",
-      "order": 10,
+      "order": 15,
       "order_en": 10,
       "slug": "cierna-hora"
     },
@@ -169075,7 +169076,7 @@
       "name_en": "Denmark",
       "desc": "Dánske volejbalové kluby — mužská a ženská Volleyligaen, v sezóne 2026/27 hrá v každej 10 klubov. Kluby: Volleyligaen mužov — ASV Elite, Gentofte Volley, Holte IF, Hvidovre VK; Volleyligaen žien — ASV Elite, Brøndby VK, Gentofte Volley, Holte IF.",
       "desc_en": "Danish volleyball clubs — the men's and women's Volleyligaen, each with 10 clubs in the 2026/27 season. Clubs: Volleyligaen Men — ASV Elite, Gentofte Volley, Holte IF, Hvidovre VK; Volleyligaen Women — ASV Elite, Brøndby VK, Gentofte Volley, Holte IF.",
-      "order": 11,
+      "order": 16,
       "order_en": 11,
       "slug": "dansko"
     },
@@ -169088,7 +169089,7 @@
       "name_en": "Estonia",
       "desc": "Estónske volejbalové kluby — najvyššia mužská súťaž, ktorej 5 klubov hrá zároveň Baltskú ligu (sezóna 2025/26). Kluby: Meistriliiga mužov — Barrus Võru VK, Bigbank Tartu, Pärnu VK, Audentes/Solarstone.",
       "desc_en": "Estonian volleyball clubs — the top men's competition, whose 5 clubs also play in the Baltic League (2025/26 season). Clubs: Meistriliiga Men — Barrus Võru VK, Bigbank Tartu, Pärnu VK, Audentes/Solarstone.",
-      "order": 12,
+      "order": 17,
       "order_en": 12,
       "slug": "estonsko"
     },
@@ -169101,7 +169102,7 @@
       "name_en": "Faroe Islands",
       "desc": "Faerské volejbalové kluby — Meistaradeildin mužov (5 klubov: Fleyr, ÍF Fuglafjørður, Mjølnir, SÍ Sørvágur) a Meistaradeildin žien (6 klubov: Mjølnir, SÍ Sørvágur, Dráttur, Fleyr). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Faroese volleyball clubs — Faroese Meistaradeildin (men) (5 clubs: Fleyr, ÍF Fuglafjørður, Mjølnir, SÍ Sørvágur) and Faroese Meistaradeildin (women) (6 clubs: Mjølnir, SÍ Sørvágur, Dráttur, Fleyr). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 13,
+      "order": 18,
       "order_en": 13,
       "slug": "faerske-ostrovy"
     },
@@ -169114,7 +169115,7 @@
       "name_en": "Finland",
       "desc": "Fínske volejbalové kluby — mužská a ženská Mestaruusliiga, v sezóne 2026/27 hrá 8 mužských a 10 ženských klubov. Kluby: Mestaruusliiga mužov — Akaa-Volley, Hurrikaani Loimaa, Kokkolan Tiikerit, Raision Loimu; Mestaruusliiga žien — Kuusamon Pallo-Karhut, LP Kangasala, LP Viesti, OrPo Orivesi.",
       "desc_en": "Finnish volleyball clubs — the men's and women's Mestaruusliiga, with 8 men's and 10 women's clubs in the 2026/27 season. Clubs: Mestaruusliiga Men — Akaa-Volley, Hurrikaani Loimaa, Kokkolan Tiikerit, Raision Loimu; Mestaruusliiga Women — Kuusamon Pallo-Karhut, LP Kangasala, LP Viesti, OrPo Orivesi.",
-      "order": 14,
+      "order": 19,
       "order_en": 14,
       "slug": "finsko"
     },
@@ -169125,9 +169126,9 @@
       "icon": "fr",
       "name": "Francúzsko",
       "name_en": "France",
-      "desc": "Francúzske volejbalové kluby — mužská Volstar a Volstar Masculine 2 a ženská Volstar.",
-      "desc_en": "French volleyball clubs — the men's Volstar and Volstar Masculine 2 and the women's Volstar.",
-      "order": 15,
+      "desc": "Francúzska volejbalová liga — mužská Volstar (14 klubov: Tours Volley-Ball, Montpellier, Chaumont VB 52, AS Cannes Volley-Ball), Volstar Masculine 2 (12 klubov: Fréjus Var Volley, Cambrai Volley, GFC Ajaccio Volley-Ball) a ženská Volstar (13 klubov: Béziers Volley, Bordeaux Mérignac Volley, Évreux Volley-Ball). Oficiálne weby, Facebook a Instagram francúzskych volejbalových klubov na jednom mieste.",
+      "desc_en": "French volleyball league clubs — the men's Volstar (14 clubs: Tours Volley-Ball, Montpellier, Chaumont VB 52, AS Cannes Volley-Ball), Volstar Masculine 2 (12 clubs: Fréjus Var Volley, Cambrai Volley, GFC Ajaccio Volley-Ball) and the women's Volstar (13 clubs: Béziers Volley, Bordeaux Mérignac Volley, Évreux Volley-Ball). Official websites, Facebook and Instagram of French volleyball clubs in one place.",
+      "order": 6,
       "order_en": 15,
       "slug": "francuzsko"
     },
@@ -169140,7 +169141,7 @@
       "name_en": "Greece",
       "desc": "Grécke volejbalové kluby — Volley League (muži) (12 klubov: Aris, Milon, Olympiacos, Panathinaikos) a Volley League (ženy) (12 klubov: AEK, Aris, Olympiacos, Panathinaikos). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Greek volleyball clubs — Volley League (men) (12 clubs: Aris, Milon, Olympiacos, Panathinaikos) and Volley League (women) (12 clubs: AEK, Aris, Olympiacos, Panathinaikos). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 17,
+      "order": 20,
       "order_en": 17,
       "slug": "grecko"
     },
@@ -169153,7 +169154,7 @@
       "name_en": "Netherlands",
       "desc": "Holandské volejbalové kluby — mužská a ženská Eredivisie, v sezóne 2026/27 po osem klubov. Kluby: Eredivisie mužov — Dynamo Apeldoorn, Lycurgus Groningen, Orion Stars, ZVH Zevenhuizen; Eredivisie žien — Apollo 8, Dynamo Apeldoorn, Sliedrecht Sport, VC Sneek.",
       "desc_en": "Dutch volleyball clubs — the men's and women's Eredivisie, each with eight clubs in the 2026/27 season. Clubs: Dutch Eredivisie (men) — Dynamo Apeldoorn, Lycurgus Groningen, Orion Stars, ZVH Zevenhuizen; Dutch Eredivisie (women) — Apollo 8, Dynamo Apeldoorn, Sliedrecht Sport, VC Sneek.",
-      "order": 20,
+      "order": 21,
       "order_en": 20,
       "slug": "holandsko"
     },
@@ -169166,7 +169167,7 @@
       "name_en": "Croatia",
       "desc": "Chorvátske volejbalové kluby — mužská a ženská SuperSport Superliga, v sezóne 2026/27 po desať klubov. Kluby: Superliga mužov — HAOK Mladost, OK Mladost Kaštela, MOK Mursa-Osijek, MOK Dinamo Zagreb; Superliga žien — HAOK Mladost, HAOK Rijeka, OK Marina Kaštela, ŽOK Kaštela.",
       "desc_en": "Croatian volleyball clubs — the men's and women's SuperSport Superliga, each with ten clubs in the 2026/27 season. Clubs: Croatian Superliga (men) — HAOK Mladost, OK Mladost Kaštela, MOK Mursa-Osijek, MOK Dinamo Zagreb; Croatian Superliga (women) — HAOK Mladost, HAOK Rijeka, OK Marina Kaštela, ŽOK Kaštela.",
-      "order": 21,
+      "order": 22,
       "order_en": 21,
       "slug": "chorvatsko"
     },
@@ -169179,7 +169180,7 @@
       "name_en": "Ireland",
       "desc": "Írske volejbalové kluby — Premier Division mužov (8 tímov) a žien (8 tímov) v sezóne 2026/27. Kluby: Premier Division mužov — Dalkey Devils, Aer Lingus, DVC, Balbriggan Broncos; Premier Division žien — DVC Lions, Munster Thunder, Gardians, Santry Calypso.",
       "desc_en": "Irish volleyball clubs — the men's (8 teams) and women's (8 teams) Premier Division in the 2026/27 season. Clubs: Premier Division Men — Dalkey Devils, Aer Lingus, DVC, Balbriggan Broncos; Premier Division Women — DVC Lions, Munster Thunder, Gardians, Santry Calypso.",
-      "order": 22,
+      "order": 23,
       "order_en": 22,
       "slug": "irsko"
     },
@@ -169192,7 +169193,7 @@
       "name_en": "Iceland",
       "desc": "Islandské volejbalové kluby — Unbrokendeild mužov (7 klubov) a žien (7 tímov) v sezóne 2026/27. Kluby: Unbrokendeild mužov — KA, Hamar, Þróttur Reykjavík, Afturelding; Unbrokendeild žien — Afturelding, KA, HK, Völsungur.",
       "desc_en": "Icelandic volleyball clubs — the men's (7 clubs) and women's (7 teams) Unbrokendeild in the 2026/27 season. Clubs: Unbrokendeild Men — KA, Hamar, Þróttur Reykjavík, Afturelding; Unbrokendeild Women — Afturelding, KA, HK, Völsungur.",
-      "order": 23,
+      "order": 24,
       "order_en": 23,
       "slug": "island",
       "slug_en": "iceland"
@@ -169206,7 +169207,7 @@
       "name_en": "Israel",
       "desc": "Izraelské volejbalové kluby — mužská a ženská Ligat ha'Al, v sezóne 2026/27 hrá v každej 11 klubov. Kluby: Ligat ha'Al mužov — Maccabi Mosinzon Hod HaSharon, HaMa'apil Menashe Emek Hefer, Hapoel Ironi Kiryat Ata, Hapoel Kfar Saba; Ligat ha'Al žien — Maccabi Haifa, Hapoel Ironi Kiryat Ata, Hapoel Kfar Saba, Maccabi Ashdod.",
       "desc_en": "Israeli volleyball clubs — the men's and women's Ligat ha'Al, with 11 clubs in each in the 2026/27 season. Clubs: Ligat ha'Al Men — Maccabi Mosinzon Hod HaSharon, HaMa'apil Menashe Emek Hefer, Hapoel Ironi Kiryat Ata, Hapoel Kfar Saba; Ligat ha'Al Women — Maccabi Haifa, Hapoel Ironi Kiryat Ata, Hapoel Kfar Saba, Maccabi Ashdod.",
-      "order": 24,
+      "order": 25,
       "order_en": 24,
       "slug": "izrael"
     },
@@ -169219,7 +169220,7 @@
       "name_en": "Kosovo",
       "desc": "Kosovské volejbalové kluby — Raiffeisen Superliga A mužov (8 klubov) a žien (8 klubov), sezóna 2026/27; majstrami 2026 sú Ferizaj a Fer Volley Ferizaj. Kluby: Raiffeisen Superliga A mužov — Ferizaj, Luboteni, Peja, Ulpiana; Raiffeisen Superliga A žien — Fer Volley Ferizaj, Ferizaj, Drita Gjilan, Fushë Kosova.",
       "desc_en": "Kosovan volleyball clubs — the men's (8 clubs) and women's (8 clubs) Raiffeisen Superliga A, 2026/27 season; Ferizaj and Fer Volley Ferizaj are the 2026 champions. Clubs: Raiffeisen Superliga A Men — Ferizaj, Luboteni, Peja, Ulpiana; Raiffeisen Superliga A Women — Fer Volley Ferizaj, Ferizaj, Drita Gjilan, Fushë Kosova.",
-      "order": 25,
+      "order": 26,
       "order_en": 25,
       "slug": "kosovo"
     },
@@ -169284,7 +169285,7 @@
       "name_en": "Germany",
       "desc": "Nemecké volejbalové kluby — 1. Bundesliga (muži) (14 klubov: Berlin Recycling Volleys, SVG Lüneburg, VfB Friedrichshafen, Baden Volleys SSC Karlsruhe) a 1. Bundesliga (ženy) (12 klubov: Allianz MTV Stuttgart, Dresdner SC, Rote Raben Vilsbiburg, Schweriner SC). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "German volleyball clubs — 1. Bundesliga (men) (14 clubs: Berlin Recycling Volleys, SVG Lüneburg, VfB Friedrichshafen, Baden Volleys SSC Karlsruhe) and 1. Bundesliga (women) (12 clubs: Allianz MTV Stuttgart, Dresdner SC, Rote Raben Vilsbiburg, Schweriner SC). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 34,
+      "order": 31,
       "order_en": 34,
       "slug": "nemecko"
     },
@@ -169297,7 +169298,7 @@
       "name_en": "Norway",
       "desc": "Nórske volejbalové kluby — mužská a ženská Mizunoligaen, v sezóne 2026/27 hrá v každej 9 tímov. Kluby: Mizunoligaen mužov — Førde VBK, BK Tromsø, NTNUI, Randaberg VBK; Mizunoligaen žien — Finstad SK, Førde VBK, Randaberg VBK, TIF Viking.",
       "desc_en": "Norwegian volleyball clubs — the men's and women's Mizunoligaen, each with 9 teams in the 2026/27 season. Clubs: Mizunoligaen Men — Førde VBK, BK Tromsø, NTNUI, Randaberg VBK; Mizunoligaen Women — Finstad SK, Førde VBK, Randaberg VBK, TIF Viking.",
-      "order": 35,
+      "order": 32,
       "order_en": 35,
       "slug": "norsko"
     },
@@ -169310,7 +169311,7 @@
       "name_en": "Poland",
       "desc": "Poľské volejbalové kluby — mužská TAURON Liga a TAURON 1. Liga a ženská TAURON Liga Kobiet.",
       "desc_en": "Polish volleyball clubs — the men's TAURON Liga and TAURON 1. Liga and the women's TAURON Liga Kobiet.",
-      "order": 36,
+      "order": 3,
       "order_en": 36,
       "slug": "polsko"
     },
@@ -169323,7 +169324,7 @@
       "name_en": "Portugal",
       "desc": "Portugalské volejbalové kluby — mužská a ženská 1. divízia (Liga Una Seguros a Liga Solverde.pt), v sezóne 2026/27 hrá v každej 12 klubov. Kluby: 1. divízia mužov — SL Benfica, Sporting CP, Vitória SC, Académica de Espinho; 1. divízia žien — FC Porto, SC Braga, SL Benfica, Castêlo da Maia.",
       "desc_en": "Portuguese volleyball clubs — the men's and women's First Division (Liga Una Seguros and Liga Solverde.pt), with 12 clubs in each in the 2026/27 season. Clubs: First Division Men — SL Benfica, Sporting CP, Vitória SC, Académica de Espinho; First Division Women — FC Porto, SC Braga, SL Benfica, Castêlo da Maia.",
-      "order": 37,
+      "order": 33,
       "order_en": 37,
       "slug": "portugalsko"
     },
@@ -169336,7 +169337,7 @@
       "name_en": "Austria",
       "desc": "Rakúske volejbalové kluby — mužská a ženská Austrian Volley League, v sezóne 2026/27 hrá v každej z nich 10 klubov. Kluby: Austrian Volley League mužov — SK Aich/Dob, TJ Sokol V/Post SV Wien, TSV Hartberg, Union Volleyball Waldviertel; Austrian Volley League žien — ATSC Wildcats Klagenfurt, Steelvolleys Linz-Steg, UVC Graz, VB NÖ Sokol/Post.",
       "desc_en": "Austrian volleyball clubs — the men's and women's Austrian Volley League, each with 10 clubs in the 2026/27 season. Clubs: Austrian Volley League Men — SK Aich/Dob, TJ Sokol V/Post SV Wien, TSV Hartberg, Union Volleyball Waldviertel; Austrian Volley League Women — ATSC Wildcats Klagenfurt, Steelvolleys Linz-Steg, UVC Graz, VB NÖ Sokol/Post.",
-      "order": 38,
+      "order": 34,
       "order_en": 38,
       "slug": "rakusko"
     },
@@ -169349,7 +169350,7 @@
       "name_en": "Romania",
       "desc": "Rumunské volejbalové kluby — Divizia A1 mužov (12 klubov: Corona Brașov, SCM Universitatea Craiova, Știința Explorări Baia Mare, Universitatea Cluj) a Divizia A1 žien (11 klubov: CSM București, CSO Voluntari, Dinamo București, Rapid București). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Romanian volleyball clubs — Romanian Divizia A1 (men) (12 clubs: Corona Brașov, SCM Universitatea Craiova, Știința Explorări Baia Mare, Universitatea Cluj) and Romanian Divizia A1 (women) (11 clubs: CSM București, CSO Voluntari, Dinamo București, Rapid București). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 39,
+      "order": 35,
       "order_en": 39,
       "slug": "rumunsko"
     },
@@ -169360,9 +169361,9 @@
       "icon": "ru",
       "name": "Rusko",
       "name_en": "Russia",
-      "desc": "Ruské volejbalové kluby — mužská Superliga a Vysšaja liga A a ženská Superliga.",
-      "desc_en": "Russian volleyball clubs — the men's Superliga and Vysshaya Liga A and the women's Superliga.",
-      "order": 40,
+      "desc": "Ruská volejbalová liga — mužská Superliga (16 klubov: Zenit-Kazaň, Dynamo Moskva, Belogorie Belgorod, Lokomotiv Novosibirsk), Vysšaja liga A (12 klubov: CSKA Moskva, Akademija-Kazaň, Dagestan Machačkala) a ženská Superliga (14 klubov: Dynamo Moskva, Lokomotiv Kaliningrad, Dynamo-Ak Bars Kazaň). Oficiálne weby a sociálne siete ruských volejbalových klubov na jednom mieste.",
+      "desc_en": "Russian volleyball league clubs — the men's Superliga (16 clubs: Zenit-Kazan, Dynamo Moscow, Belogorie Belgorod, Lokomotiv Novosibirsk), Vysshaya Liga A (12 clubs: CSKA Moscow, Akademiya-Kazan, Dagestan Makhachkala) and the women's Superliga (14 clubs: Dynamo Moscow, Lokomotiv Kaliningrad, Dynamo-Ak Bars Kazan). Official websites and social media of Russian volleyball clubs in one place.",
+      "order": 5,
       "order_en": 40,
       "slug": "rusko"
     },
@@ -169375,7 +169376,7 @@
       "name_en": "North Macedonia",
       "desc": "Severomacedónske volejbalové kluby — Prvá liga mužov (12 klubov) a žien (10 klubov), stav zo sezóny 2025/26. Kluby: Prvá liga mužov — Borec Veles, Štip UGD, Vesna Probištip, Janta Volej; Prvá liga žien — Nakovski Volej, Fit Fun Volej, Flamingo Volej, Gazeli Volej.",
       "desc_en": "North Macedonian volleyball clubs — the men's (12 clubs) and women's (10 clubs) First League, as of the 2025/26 season. Clubs: First League Men — Borec Veles, Štip UGD, Vesna Probištip, Janta Volej; First League Women — Nakovski Volej, Fit Fun Volej, Flamingo Volej, Gazeli Volej.",
-      "order": 43,
+      "order": 36,
       "order_en": 43,
       "slug": "severne-macedonsko",
       "slug_en": "north-macedonia"
@@ -169389,7 +169390,7 @@
       "name_en": "Slovakia",
       "desc": "Slovenské volejbalové kluby — Extraliga mužov (7 klubov: VK Mirad UNIPO Prešov, VK Slávia SPU Nitra, VK Slovan Bratislava, VK Spartak UJS Komárno) a Extraliga žien (10 klubov: Slávia EUBA Bratislava, VK Slovan Bratislava, HIT UCM Trnava, ŠVK Pezinok). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Slovak volleyball clubs — Slovak Extraliga (men) (7 clubs: VK Mirad UNIPO Prešov, VK Slávia SPU Nitra, VK Slovan Bratislava, VK Spartak UJS Komárno) and Slovak Extraliga (women) (10 clubs: Slávia EUBA Bratislava, VK Slovan Bratislava, HIT UCM Trnava, ŠVK Pezinok). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 44,
+      "order": 0,
       "order_en": 44,
       "slug": "slovensko"
     },
@@ -169402,7 +169403,7 @@
       "name_en": "Slovenia",
       "desc": "Slovinské volejbalové kluby — mužská a ženská Sportklub Superliga, od sezóny 2026/27 najvyššia súťaž s desiatimi tímami. Kluby: Superliga mužov — ACH Volley Ljubljana, Alpacem Kanal, Calcit Volley, Fužinar Ravne; Superliga žien — Calcit Volley, OK Gorica, Branik Maribor, OK Koper.",
       "desc_en": "Slovenian volleyball clubs — the men's and women's Sportklub Superliga, the ten-team top division since the 2026/27 season. Clubs: Slovenian Superliga (men) — ACH Volley Ljubljana, Alpacem Kanal, Calcit Volley, Fužinar Ravne; Slovenian Superliga (women) — Calcit Volley, OK Gorica, Branik Maribor, OK Koper.",
-      "order": 45,
+      "order": 37,
       "order_en": 45,
       "slug": "slovinsko"
     },
@@ -169415,7 +169416,7 @@
       "name_en": "Serbia",
       "desc": "Srbské volejbalové kluby — Superliga (muži) (12 klubov: Crvena zvezda, Partizan Beograd, Radnički Kragujevac, Ribnica Kraljevo) a Superliga (ženy) (12 klubov: Crvena zvezda, Partizan Beograd, Železničar Lajkovac, Jedinstvo Stara Pazova). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Serbian volleyball clubs — Superliga (men) (12 clubs: Crvena zvezda, Partizan Beograd, Radnički Kragujevac, Ribnica Kraljevo) and Superliga (women) (12 clubs: Crvena zvezda, Partizan Beograd, Železničar Lajkovac, Jedinstvo Stara Pazova). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 46,
+      "order": 38,
       "order_en": 46,
       "slug": "srbsko"
     },
@@ -169428,7 +169429,7 @@
       "name_en": "Scotland",
       "desc": "Škótske volejbalové kluby — SVL Premier mužov (8 klubov: NUVOC, City of Edinburgh, City of Glasgow Ragazzi, Edinburgh Jets Bears) a SVL Premier žien (8 klubov: NUVOC, Caledonia West Ayrshire Aces, City of Edinburgh, Dundee). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Scottish volleyball clubs — Scottish Volleyball League Premier (men) (8 clubs: NUVOC, City of Edinburgh, City of Glasgow Ragazzi, Edinburgh Jets Bears) and Scottish Volleyball League Premier (women) (8 clubs: NUVOC, Caledonia West Ayrshire Aces, City of Edinburgh, Dundee). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 47,
+      "order": 39,
       "order_en": 47,
       "slug": "skotsko"
     },
@@ -169441,7 +169442,7 @@
       "name_en": "Spain",
       "desc": "Španielske volejbalové kluby — Superliga (muži) (12 klubov: Aldebarán San Sadurniño, CV Almería, CV Guaguas, CV Melilla) a Superliga (ženy) (12 klubov: CAV Esquimo Dos Hermanas, CD Heidelberg, CV Aguere, CV Haris). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
       "desc_en": "Spanish volleyball clubs — Superliga (men) (12 clubs: Aldebarán San Sadurniño, CV Almería, CV Guaguas, CV Melilla) and Superliga (women) (12 clubs: CAV Esquimo Dos Hermanas, CD Heidelberg, CV Aguere, CV Haris). Official websites, Facebook and Instagram of the clubs in one place.",
-      "order": 48,
+      "order": 40,
       "order_en": 48,
       "slug": "spanielsko"
     },
@@ -169454,7 +169455,7 @@
       "name_en": "Switzerland",
       "desc": "Švajčiarske volejbalové kluby — mužská a ženská Nationalliga A, v sezóne 2026/27 hrá 8 mužských a 10 ženských klubov. Kluby: Nationalliga A mužov — Chênois Genève, Lausanne UC, TSV Jona, Volley Amriswil; Nationalliga A žien — NUC Volleyball, VC Kanti Schaffhausen, Volleyball Franches-Montagnes, BTV Aarau.",
       "desc_en": "Swiss volleyball clubs — the men's and women's Nationalliga A, with 8 men's and 10 women's clubs in the 2026/27 season. Clubs: Nationalliga A Men — Chênois Genève, Lausanne UC, TSV Jona, Volley Amriswil; Nationalliga A Women — NUC Volleyball, VC Kanti Schaffhausen, Volleyball Franches-Montagnes, BTV Aarau.",
-      "order": 49,
+      "order": 41,
       "order_en": 49,
       "slug": "svajciarsko"
     },
@@ -169467,7 +169468,7 @@
       "name_en": "Sweden",
       "desc": "Švédske volejbalové kluby — mužská a ženská Elitserien, v sezóne 2026/27 hrá 11 mužských a 10 ženských klubov. Kluby: Elitserien mužov — Floby VK, Hylte/Halmstad VBK, Örkelljunga VK, Uppsala VBS; Elitserien žien — Engelholms VS, Hylte/Halmstad VBK, Linköpings VC, Örebro Volley.",
       "desc_en": "Swedish volleyball clubs — the men's and women's Elitserien, with 11 men's and 10 women's clubs in the 2026/27 season. Clubs: Elitserien Men — Floby VK, Hylte/Halmstad VBK, Örkelljunga VK, Uppsala VBS; Elitserien Women — Engelholms VS, Hylte/Halmstad VBK, Linköpings VC, Örebro Volley.",
-      "order": 50,
+      "order": 42,
       "order_en": 50,
       "slug": "svedsko"
     },
@@ -169478,9 +169479,9 @@
       "icon": "it",
       "name": "Taliansko",
       "name_en": "Italy",
-      "desc": "Talianske volejbalové kluby — mužská SuperLega a Serie A2, ženská Serie A1 a Serie A2.",
-      "desc_en": "Italian volleyball clubs — the men's SuperLega and Serie A2, the women's Serie A1 and Serie A2.",
-      "order": 51,
+      "desc": "Talianska volejbalová liga — mužská SuperLega (12 klubov: Sir Safety Perugia, Trentino Volley, Lube Civitanova, Modena Volley), Serie A2 mužov (14), ženská Serie A1 (14 klubov: Imoco Conegliano, Vero Volley Milano, Igor Novara) a Serie A2 žien (17). Oficiálne weby, Facebook a Instagram talianskych volejbalových klubov na jednom mieste.",
+      "desc_en": "Italian volleyball league clubs — the men's SuperLega (12 clubs: Sir Safety Perugia, Trentino Volley, Lube Civitanova, Modena Volley), men's Serie A2 (14), the women's Serie A1 (14 clubs: Imoco Conegliano, Vero Volley Milano, Igor Novara) and women's Serie A2 (17). Official websites, Facebook and Instagram of Italian volleyball clubs in one place.",
+      "order": 2,
       "order_en": 51,
       "slug": "taliansko"
     },
@@ -169491,9 +169492,9 @@
       "icon": "tr",
       "name": "Turecko",
       "name_en": "Türkiye",
-      "desc": "Turecké volejbalové kluby — mužská Efeler Ligi a 1. Lig a ženská Sultanlar Ligi.",
-      "desc_en": "Turkish volleyball clubs — the men's Efeler Ligi and 1. Lig and the women's Sultanlar Ligi.",
-      "order": 52,
+      "desc": "Turecká volejbalová liga — mužská Efeler Ligi (14 klubov: Fenerbahçe, Galatasaray, Halkbank, Ziraat Bankkart), 1. Lig mužov (14 klubov: Arkas Spor, Düzce Belediyesi Spor Akademisi) a ženská Sultanlar Ligi (14 klubov: VakıfBank, Eczacıbaşı, Fenerbahçe, Galatasaray). Oficiálne weby, Facebook a Instagram tureckých volejbalových klubov na jednom mieste.",
+      "desc_en": "Turkish volleyball league clubs — the men's Efeler Ligi (14 clubs: Fenerbahçe, Galatasaray, Halkbank, Ziraat Bankkart), men's 1. Lig (14 clubs: Arkas Spor, Düzce Belediyesi Spor Akademisi) and the women's Sultanlar Ligi (14 clubs: VakıfBank, Eczacıbaşı, Fenerbahçe, Galatasaray). Official websites, Facebook and Instagram of Turkish volleyball clubs in one place.",
+      "order": 4,
       "order_en": 52,
       "slug": "turecko"
     },
@@ -169506,7 +169507,7 @@
       "name_en": "Ukraine",
       "desc": "Ukrajinské volejbalové kluby — mužská a ženská Superliga, v sezóne 2026/27 hrá 9 mužských a 7 ženských tímov. Kluby: Superliga mužov — Stolyčna-NUBiP Kyjiv, Epicentr-Podoliany Horodok, MHP-Ladyžyn Vinnycia, Podillja Chmeľnyckyj; Superliga žien — Halyčanka-ZUNU Ternopiľ, Bukovynka Černivci, Meduniversytet Vinnycia, Naftusja Truskavec.",
       "desc_en": "Ukrainian volleyball clubs — the men's and women's Super League, with 9 men's and 7 women's teams in the 2026/27 season. Clubs: Super League Men — Stolyčna-NUBiP Kyjiv, Epicentr-Podoliany Horodok, MHP-Ladyžyn Vinnycia, Podillja Chmeľnyckyj; Super League Women — Halyčanka-ZUNU Ternopiľ, Bukovynka Černivci, Meduniversytet Vinnycia, Naftusja Truskavec.",
-      "order": 53,
+      "order": 43,
       "order_en": 53,
       "slug": "ukrajina"
     },
@@ -198063,8 +198064,8 @@
       "icon": "co",
       "name": "Liga Profesional",
       "name_en": "Liga Profesional",
-      "desc": "Liga Profesional má 7 klubov — Toros del Valle, Caribbean Storm, Piratas de Bogotá a Caimanes del Llano. Najvyššia kolumbijská profesionálna liga (sponzorsky Liga Señal Colombia de Baloncesto), hrá sa v dvoch polročných ročníkoch.",
-      "desc_en": "Liga Profesional has 7 clubs — Toros del Valle, Caribbean Storm, Piratas de Bogotá and Caimanes del Llano. Colombia's top professional league (sponsored as Liga Señal Colombia de Baloncesto), played in two half-year seasons.",
+      "desc": "Liga Profesional má 8 klubov — Toros del Valle, Caribbean Storm, Piratas de Bogotá a Caimanes del Llano. Najvyššia kolumbijská profesionálna liga (sponzorsky Liga Señal Colombia de Baloncesto), hrá sa v dvoch polročných ročníkoch.",
+      "desc_en": "Liga Profesional has 8 clubs — Toros del Valle, Caribbean Storm, Piratas de Bogotá and Caimanes del Llano. Colombia's top professional league (sponsored as Liga Señal Colombia de Baloncesto), played in two half-year seasons.",
       "order": 0,
       "slug": "liga-profesional",
       "slug_en": "liga-profesional"
@@ -198197,8 +198198,8 @@
       "icon": "ao",
       "name": "Unitel Basket",
       "name_en": "Unitel Basket",
-      "desc": "Najvyššia angolská basketbalová súťaž (Campeonato Nacional Unitel Basket), v ročníku 2025/26 hralo 11 prvých tímov a rezervy veľkých klubov. Medzi kluby patria ASA, Petro de Luanda, Sporting de Luanda a Primeiro de Agosto.",
-      "desc_en": "Angola's top basketball competition (Campeonato Nacional Unitel Basket), contested in 2025/26 by 11 first teams plus reserve sides of the big clubs. Clubs include ASA, Petro de Luanda, Sporting de Luanda and Primeiro de Agosto.",
+      "desc": "Najvyššia angolská basketbalová súťaž (Campeonato Nacional Unitel Basket), v ročníku 2026/27 (49. ročník, od 23.10.2026) hrá 14 tímov vrátane nováčikov Cidade do Kilamba, Maculusso a Genesis. Medzi kluby patria Petro de Luanda, Primeiro de Agosto, Sporting de Luanda a Interclube.",
+      "desc_en": "Angola's top basketball competition (Campeonato Nacional Unitel Basket); the 2026/27 season (49th edition, from 23 October 2026) features 14 teams including newcomers Cidade do Kilamba, Maculusso and Genesis. Clubs include Petro de Luanda, Primeiro de Agosto, Sporting de Luanda and Interclube.",
       "order": 0,
       "slug": "unitel-basket",
       "slug_en": "unitel-basket"
@@ -198210,9 +198211,9 @@
       "icon": "",
       "name": "Unitel Basket",
       "name_en": "Unitel Basket",
-      "desc": "Prehľad súťaže Unitel Basket (Angola) na portáli Afrobasket — výsledky, program a súpisky",
-      "desc_en": "Unitel Basket (Angola) overview on Afrobasket — results, schedule and rosters",
-      "url": "https://www.afrobasket.com/Angola/basketball-League-Unitel-Basket.aspx",
+      "desc": "Tabuľka a výsledky Unitel Basket 2026/27 (Angola) na portáli Global Sports Archive",
+      "desc_en": "Unitel Basket 2026/27 (Angola) standings and results on Global Sports Archive",
+      "url": "https://globalsportsarchive.com/competition/basketball/unitel-basket-2026-2027/regular-season/168702/",
       "order": -1
     },
     {
@@ -204060,8 +204061,8 @@
       "name": "FIP rebríček",
       "order": 1,
       "url": "https://www.padelfip.com/fip-rankings/",
-      "desc": "Oficiálny svetový rebríček Medzinárodnej padelovej federácie FIP — muži aj ženy",
-      "desc_en": "Official world ranking of the International Padel Federation (FIP) — men and women"
+      "desc": "Oficiálny svetový rebríček FIP mužov a žien, aktualizovaný každý pondelok. Sčítavajú sa v ňom body z okruhov Premier Padel aj CUPRA FIP Tour.",
+      "desc_en": "Official FIP world ranking for men and women, updated every Monday, combining points from both Premier Padel and the CUPRA FIP Tour."
     },
     {
       "id": "n1793277203248pad",
@@ -204082,8 +204083,8 @@
       "name": "Premier Padel",
       "order": 7,
       "url": "https://premierpadel.com/en",
-      "desc": "Najvyšší profesionálny padelový okruh, hraný od roku 2022 pod hlavičkou FIP — kalendár, výsledky a profily hráčov",
-      "desc_en": "The top professional padel tour, played since 2022 under the FIP — calendar, results and player profiles"
+      "desc": "Najvyšší profesionálny padelový okruh, ktorý vznikol v roku 2022 s podporou FIP a katarského fondu QSI; prvým turnajom bol Qatar Major 2022. Kalendár, výsledky, živé skóre a profily hráčov.",
+      "desc_en": "The top professional padel tour, launched in 2022 with FIP and Qatar Sports Investments backing; its first event was the 2022 Qatar Major. Calendar, results, live scores and player profiles."
     },
     {
       "id": "n1793277203249pad",
@@ -204092,8 +204093,8 @@
       "icon": "",
       "name": "Red Bull – Premier Padel",
       "url": "https://www.redbull.com/int-en/event-series/premier-padel",
-      "desc": "Premier Padel na webe Red Bull — prehľad 20 zastávok sezóny 2026 a živé prenosy",
-      "desc_en": "Premier Padel on Red Bull — overview of the 20 tour stops of 2026 and livestreams",
+      "desc": "Premier Padel na webe Red Bull — prehľad turnajov aktuálnej sezóny, živé prenosy a videá.",
+      "desc_en": "Premier Padel on Red Bull — overview of the current season's events, livestreams and videos.",
       "order": 10
     },
     {
@@ -204115,8 +204116,8 @@
       "name": "A1 Padel",
       "order": 12,
       "url": "https://www.a1padelglobal.com/",
-      "desc": "Profesionálny padelový okruh A1 Padel s turnajmi v Európe aj Latinskej Amerike — rebríček, kalendár a streamy",
-      "desc_en": "A1 Padel professional tour with events in Europe and Latin America — ranking, calendar and streams"
+      "desc": "Profesionálny okruh, ktorý v roku 2020 založil Fabrice Pastor pod názvom APT; turnaje v Latinskej Amerike aj Európe, vlastný rebríček, kalendár a streamy.",
+      "desc_en": "Professional tour founded in 2020 by Fabrice Pastor as the APT; events in Latin America and Europe, its own ranking, calendar and streams."
     },
     {
       "id": "n1793277203250pad",
@@ -204125,8 +204126,8 @@
       "icon": "",
       "name": "Padelpedia",
       "url": "https://www.padelpedia.net/",
-      "desc": "Veľká padelová databáza — rebríčky, hráči, turnaje a vzájomné zápasy (H2H)",
-      "desc_en": "Large padel database — rankings, players, tournaments and head-to-head records",
+      "desc": "Padelová databáza, ktorá sa označuje za najväčšiu na svete — rebríčky, hráči, turnaje, správy a simulátor vzájomných zápasov (H2H).",
+      "desc_en": "Padel database billing itself as the largest in the world — rankings, players, tournaments, news and a head-to-head simulator.",
       "order": 13
     },
     {
@@ -204170,8 +204171,8 @@
       "name": "Padel Addict",
       "order": 17,
       "url": "https://www.padeladdict.com/",
-      "desc": "Španielsky padelový web — správy z Premier Padel, Hexagon Cup a CUPRA FIP Tour, testy rakiet a vybavenia",
-      "desc_en": "Spanish padel website — news from Premier Padel, Hexagon Cup and CUPRA FIP Tour, racket and gear reviews"
+      "desc": "Španielsky padelový portál, ktorý založil tréner padelu Antonio Palacios ako osobný blog — správy z Premier Padel, Hexagon Cup a CUPRA FIP Tour, testy rakiet a vybavenia.",
+      "desc_en": "Spanish padel portal started as a personal blog by padel coach Antonio Palacios — news from Premier Padel, Hexagon Cup and the CUPRA FIP Tour, racket and gear reviews."
     },
     {
       "id": "n1793277203254pad",
@@ -204180,8 +204181,8 @@
       "icon": "",
       "name": "Mundo Deportivo – pádel",
       "url": "https://www.mundodeportivo.com/padel",
-      "desc": "Padelová rubrika španielskeho športového denníka Mundo Deportivo — správy, rakety a rady",
-      "desc_en": "Padel section of the Spanish sports daily Mundo Deportivo — news, rackets and tips",
+      "desc": "Padelová rubrika „La Chiquita Pádel“ barcelonského športového denníka Mundo Deportivo, ktorý vychádza od roku 1906 — správy, rakety a rady.",
+      "desc_en": "“La Chiquita Pádel”, the padel section of Barcelona sports daily Mundo Deportivo, published since 1906 — news, rackets and tips.",
       "order": 18
     },
     {
@@ -204192,8 +204193,8 @@
       "name": "Padel Alto",
       "order": 19,
       "url": "https://padelalto.com/",
-      "desc": "Anglický spravodajský web o profesionálnom padeli — správy, výsledky a rozhovory",
-      "desc_en": "English-language news site about professional padel — news, results and interviews"
+      "desc": "Anglický spravodajský web o profesionálnom padeli — správy z Premier Padel a reprezentácií, rozhovory aj historické prehľady, napríklad dvojice s najviac titulmi na World Padel Tour.",
+      "desc_en": "English-language professional padel news site — Premier Padel and national team news, interviews and historical features such as the pairs with the most World Padel Tour titles."
     },
     {
       "id": "n1793275723879pad",
@@ -204203,8 +204204,8 @@
       "name": "Padel Magazine",
       "order": 20,
       "url": "https://padelmagazine.fr/",
-      "desc": "Francúzsky padelový magazín — správy, live výsledky, turnaje a vybavenie",
-      "desc_en": "French padel magazine — news, live scores, tournaments and equipment"
+      "desc": "Francúzsky padelový magazín s vlastnou LIVE sekciou, prehľadom turnajov a klubov, testami vybavenia a e-shopom.",
+      "desc_en": "French padel magazine with its own LIVE section, tournament and club guides, gear tests and an online shop."
     },
     {
       "id": "n1793277203255pad",
@@ -204213,8 +204214,8 @@
       "icon": "",
       "name": "Svensk Padel Play",
       "url": "https://www.svenskpadelplay.se/sv",
-      "desc": "Švédska padelová platforma — prenosy súťaží, správy a komentáre zo švédskej padelovej scény",
-      "desc_en": "Swedish padel platform — competition streams, news and commentary from the Swedish padel scene",
+      "desc": "Švédska padelová platforma s predplatným — prenosy a komentáre zo série Swedish Padel Tour (SPT) a švédskych majstrovstiev.",
+      "desc_en": "Swedish subscription padel platform — coverage and commentary from the Swedish Padel Tour (SPT) and the Swedish championships.",
       "order": 21
     },
     {
@@ -204225,8 +204226,8 @@
       "name": "FEP Španielsko",
       "order": 22,
       "url": "https://www.padelfederacion.es/Home",
-      "desc": "Španielska padelová federácia FEP — súťaže, reprezentácia a licencie v krajine, kde je padel najrozšírenejší",
-      "desc_en": "Spanish Padel Federation (FEP) — competitions, national team and licences in padel's biggest market"
+      "desc": "Španielska padelová federácia FEP, ktorej predsedá Ramón Morcillo; v roku 2024 evidovala 109 040 licencií, o 8 % viac ako rok predtým. Súťaže, reprezentácia a licencie.",
+      "desc_en": "Spanish Padel Federation (FEP), chaired by Ramón Morcillo; it registered 109,040 licences in 2024, up 8% on the year before. Competitions, national team and licences."
     },
     {
       "id": "n1793277203256pad",
@@ -204235,8 +204236,8 @@
       "icon": "",
       "name": "APA Argentína",
       "url": "https://padel.org.ar/",
-      "desc": "Asociación Pádel Argentino — argentínsky padelový zväz, rebríčky, súťaže a reprezentácia",
-      "desc_en": "Asociación Pádel Argentino — Argentina's padel association, rankings, competitions and national team",
+      "desc": "Asociación Pádel Argentino — zväz krajiny, ktorá vyhrala prvé MS národných tímov v roku 1992; rebríčky, prihlášky na turnaje a reprezentácia.",
+      "desc_en": "Asociación Pádel Argentino — governing body of the country that won the first world championship for national teams in 1992; rankings, tournament entries and national team.",
       "order": 23
     },
     {
@@ -204246,8 +204247,8 @@
       "icon": "",
       "name": "FITP – padel",
       "url": "https://www.fitp.it/Federazione/News/Padel/",
-      "desc": "Padelové správy talianskej federácie FITP (Federazione Italiana Tennis e Padel) — súťaže, rebríčky a reprezentácia",
-      "desc_en": "Padel news from the Italian Tennis and Padel Federation (FITP) — competitions, rankings and national team",
+      "desc": "Padelové správy talianskej federácie, ktorá v októbri 2022 pridala padel do názvu a zmenila sa z FIT na FITP (Federazione Italiana Tennis e Padel) — súťaže, rebríčky a reprezentácia.",
+      "desc_en": "Padel news from the Italian federation, which added padel to its name in October 2022, becoming FITP (Federazione Italiana Tennis e Padel) — competitions, rankings and national team.",
       "order": 24
     },
     {
@@ -204257,8 +204258,8 @@
       "icon": "",
       "name": "LTA Padel",
       "url": "https://www.ltapadel.org.uk/",
-      "desc": "Padel v Británii pod hlavičkou tenisového zväzu LTA — súťaže, kurty a správy",
-      "desc_en": "Padel in Britain under the Lawn Tennis Association (LTA) — competitions, courts and news",
+      "desc": "Padel v Británii pod hlavičkou tenisového zväzu LTA — vyhľadávanie kurtov, súťaže a správy vrátane britskej reprezentácie na FIP World Cup.",
+      "desc_en": "Padel in Britain under the Lawn Tennis Association — court finder, competitions and news including Great Britain's FIP World Cup squads.",
       "order": 25
     },
     {
@@ -204268,8 +204269,8 @@
       "icon": "",
       "name": "USA Padel",
       "url": "https://padelusa.org/",
-      "desc": "Americký padelový zväz USA Padel — súťaže, kluby a reprezentácia USA",
-      "desc_en": "USA Padel, the US governing body — competitions, clubs and the US national team",
+      "desc": "Americký padelový zväz (predtým United States Padel Association), uznaný FIP; padel sa do USA dostal v roku 1993 v texaskom Houstone. Súťaže, kluby a reprezentácia.",
+      "desc_en": "USA Padel (formerly the United States Padel Association), recognised by the FIP; padel arrived in the US in 1993 in Houston, Texas. Competitions, clubs and national team.",
       "order": 26
     },
     {
@@ -204279,8 +204280,8 @@
       "icon": "",
       "name": "Svenska Padelförbundet",
       "url": "https://svenskpadel.se/",
-      "desc": "Švédsky padelový zväz — pravidlá, súťaže, licencie a štatistiky",
-      "desc_en": "Swedish Padel Federation — rules, competitions, licences and statistics",
+      "desc": "Švédsky padelový zväz — podľa jeho štatistík si v roku 2021 vo Švédsku rezervovalo kurt 540 000 ľudí. Pravidlá, súťaže, licencie a správy.",
+      "desc_en": "Swedish Padel Federation — its statistics show 540,000 people booked a court in Sweden in 2021. Rules, competitions, licences and news.",
       "order": 27
     },
     {
@@ -204301,8 +204302,8 @@
       "icon": "",
       "name": "Česká padelová federace",
       "url": "https://czpadel.cz/",
-      "desc": "Česká padelová federácia ČPF — klubové súťaže, turnaje, rebríčky a registrácia hráčov",
-      "desc_en": "Czech Padel Federation (ČPF) — club competitions, tournaments, rankings and player registration",
+      "desc": "Česká padelová federácia ČPF, ktorej výkonný výbor vedie Jakub Lenc — klubové súťaže, turnaje ČPT100 a ČPT200, rebríčky a registrácia hráčov.",
+      "desc_en": "Czech Padel Federation (ČPF), whose executive committee is chaired by Jakub Lenc — club competitions, ČPT100 and ČPT200 tournaments, rankings and player registration.",
       "order": 29
     },
     {
@@ -204312,8 +204313,8 @@
       "icon": "",
       "name": "Padel Liga CZ",
       "url": "https://www.padel-liga.cz/",
-      "desc": "Česká amatérska Padel Liga, ktorá sa stala súčasťou ČPF — turnaje, divízne zápasy, výsledky a rebríčky",
-      "desc_en": "Czech amateur Padel Liga, now part of the Czech Padel Federation — tournaments, divisions, results and rankings",
+      "desc": "Okruh amatérskych padelových turnajov z Prahy, ktorého kategórie B, C a D prešli pod jednotný systém súťaží Českej padelovej federácie — turnaje, výsledky a rebríčky.",
+      "desc_en": "Prague-based amateur padel tournament series whose B, C and D categories moved into the Czech Padel Federation's unified competition system — tournaments, results and rankings.",
       "order": 30
     },
     {
@@ -204381,6 +204382,52 @@
       "desc": "Kalendár okruhu CUPRA FIP Tour, ktorý organizuje priamo FIP — turnaje Gold, Silver a Bronze po celom svete, s archívom ročníkov od 2023",
       "desc_en": "Calendar of the CUPRA FIP Tour run directly by the FIP — Gold, Silver and Bronze events worldwide, with seasons archived back to 2023",
       "order": 9
+    },
+    {
+      "id": "f_bas_col_l1_k8",
+      "parentId": "f_bas_col_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Capitanes de Bogotá",
+      "desc": "Bogotá — nováčik Ligy Profesional od ročníka 2026-II, domáce zápasy hrá v Coliseo Cayetano Cañizares; aktuality zverejňuje na Instagrame.",
+      "desc_en": "Bogotá — Liga Profesional newcomer from the 2026-II season, playing home games at Coliseo Cayetano Cañizares; news is published on Instagram.",
+      "url": "https://www.instagram.com/capitanesbaloncesto/",
+      "fb": "https://www.facebook.com/capitanesbaloncesto/",
+      "order": 1
+    },
+    {
+      "id": "f_bas_ago_l1_k12",
+      "parentId": "f_bas_ago_l1",
+      "type": "link",
+      "icon": "",
+      "order": 3,
+      "name": "Cidade do Kilamba",
+      "url": "https://www.facebook.com/profile.php?id=61595717260388",
+      "desc": "Luanda (Kilamba) — Clube Desportivo Cidade do Kilamba, klub s mládežou aj seniormi založený v roku 2016, nováčik Unitel Basket 2026/27. Odkaz vedie na klubový Facebook.",
+      "desc_en": "Luanda (Kilamba) — Clube Desportivo Cidade do Kilamba, a youth-and-senior club founded in 2016, newcomer to Unitel Basket 2026/27. The link leads to the club's Facebook page."
+    },
+    {
+      "id": "f_bas_ago_l1_k13",
+      "parentId": "f_bas_ago_l1",
+      "type": "link",
+      "icon": "",
+      "order": 9,
+      "name": "Maculusso",
+      "url": "https://www.facebook.com/profile.php?id=100069307227144",
+      "ig": "https://www.instagram.com/maculusso_basketball/",
+      "desc": "Luanda — Maculusso Basketball, komunitný basketbalový klub zo štvrte Maculusso, nováčik Unitel Basket 2026/27. Odkaz vedie na klubový Facebook.",
+      "desc_en": "Luanda — Maculusso Basketball, a community basketball club from the Maculusso district, newcomer to Unitel Basket 2026/27. The link leads to the club's Facebook page."
+    },
+    {
+      "id": "f_bas_ago_l1_k14",
+      "parentId": "f_bas_ago_l1",
+      "type": "link",
+      "icon": "",
+      "order": 7,
+      "name": "Genesis Sport Clube",
+      "url": "https://globalsportsarchive.com/team/basketball/genesis-sport-clube/78409/",
+      "desc": "Luanda — nováčik Unitel Basket 2026/27; klub zatiaľ nemá vlastnú webovú ani sociálnu prezentáciu, odkaz vedie na profil tímu na portáli Global Sports Archive.",
+      "desc_en": "Luanda — newcomer to Unitel Basket 2026/27; the club has no website or social media presence yet, so the link leads to the team profile on Global Sports Archive."
     }
   ],
   "title_en": "Sportlinking",
