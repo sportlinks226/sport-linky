@@ -332,7 +332,7 @@ def git_uloz(priecinok, sprava):
         r = g("commit", "-m", sprava + " [skip ci]", "--", priecinok)
         if r.returncode != 0:
             log("  git commit zlyhal:", r.stderr.strip()[:300]); return
-        g("pull", "--rebase", "origin", "main")
+        g("pull", "--rebase", "--autostash", "origin", "main")  # --autostash: neuložené zmeny v pracovnom priečinku (napr. sitemap-lastmod.json) sa odložia a vrátia, NEcommitujú sa
         r = g("push", "origin", "HEAD:main")
         log("  git: uložené do repozitára" if r.returncode == 0
             else f"  git push zlyhal (dorovná sa neskôr): {r.stderr.strip()[:300]}")
