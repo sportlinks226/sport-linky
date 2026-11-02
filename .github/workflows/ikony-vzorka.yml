@@ -25,6 +25,12 @@ jobs:
         run: |
           python ikony.py --vzorka 200 --dir _vzorka --vystup vzorka.json \
             --hosty hannover96.de,irishfa.com,www.hannover96.de,www.irishfa.com
+          python - <<'PY'
+          import json; d = json.load(open('vzorka.json'))['hosty']
+          for h in ('hannover96.de', 'www.hannover96.de', 'irishfa.com', 'www.irishfa.com'):
+              print('ZNÁMY WEB', h, d.get(h))
+          print('BEZ IKONKY (none):', [h for h, v in sorted(d.items()) if v.get('vysledok') == 'none'])
+          PY
       - name: Porovnanie s prehliadačom (dnešná logika appky)
         run: |
           cd .github/ikony-vzorka && npm install --no-save --silent playwright-core@1.48.2
