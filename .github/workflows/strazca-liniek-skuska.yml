@@ -1,0 +1,46 @@
+# SKÚŠKA STRÁŽCU LINIEK — spustí sa pri pull requeste, ktorý mení strazca_liniek.py
+# (alebo ručne). Skontroluje VZORKU 300 adries na skutočných weboch.
+# NIČ necommituje a nepíše do Issue — stav a správa sú v dočasnom priečinku.
+# Výsledok je v logu a v prílohe „strazca-liniek-skuska" (Summary → Artifacts).
+name: Skúška strážcu liniek
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths: [strazca_liniek.py, .github/workflows/strazca-liniek.yml, .github/workflows/strazca-liniek-skuska.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  vzorka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vzorka 300 adries (stav mimo repozitára)
+        run: |
+          python strazca_liniek.py --limit 300 --dir _skuska --cas-min 20 --komentar _skuska/komentar.md
+      - name: 5 príkladov z každej kategórie
+        run: |
+          python - <<'PY'
+          import json, collections
+          s = json.load(open("_skuska/stav.json"))["adresy"]
+          kat = lambda z: ("mrtva" if z.get("n", 1) >= 2 else "podozriva") if z["v"] == "mrtva" else z["v"]
+          sk = collections.defaultdict(list)
+          for u, z in s.items():
+              sk[kat(z)].append((u, z.get("d", ""), z.get("nova", "")))
+          for k in ("mrtva", "podozriva", "prestahovana", "varovanie", "ok"):
+              print(f"\n== {k}: {len(sk[k])}")
+              for u, d, n in sk[k][:5]:
+                  print("  ", u, "|", d, ("→ " + n) if n else "")
+          print("\nVAROVANIA podľa dôvodu:", collections.Counter(d.split(" –")[0].split(":")[0] for u, d, n in sk["varovanie"]).most_common())
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: strazca-liniek-skuska
+          path: _skuska/
