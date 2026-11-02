@@ -821,9 +821,10 @@ PAGE = """<!DOCTYPE html>
 DYN_JS = """<script>
 function __dyn(){
   var ANC=__ANC__;
-  // bod 14: text z dát → HTML entity; adresa len http(s), inak "#"
+  // bod 14: text z dát → HTML entity; adresa len http(s) alebo relatívna od koreňa
+  // webu („/obrazok.png", nie „//cudzi-web"), inak "#" — ROVNAKO ako safeUrl v index.html
   function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
-  function safeUrl(u){var s=String(u||"").trim(),l=s.toLowerCase();return (l.indexOf("http://")===0||l.indexOf("https://")===0)?s:"#"}
+  function safeUrl(u){var s=String(u||"").trim();return /^(https?:\\/\\/|\\/(?!\\/))/i.test(s)?s:"#"}
   fetch("__DATAURL__").then(function(r){return r.json()}).then(function(d){
     // bod 19: MIESTNY dátum (slovenský čas), nie UTC — po polnoci by banner
     // s kampaňou do včera svietil ešte 1–2 hodiny (toISOString je v UTC)
