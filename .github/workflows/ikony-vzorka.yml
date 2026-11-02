@@ -1,13 +1,12 @@
-# SKÚŠKA IKONIEK (bod 15) — len ručné spustenie (Actions → „Skúška ikoniek" →
-# Run workflow). NIČ nenasadzuje ani necommituje: stiahne vzorku ikoniek cez
+# SKÚŠKA IKONIEK (bod 15) — spustí sa pri pull requeste, ktorý mení ikony.py,
+# alebo ručne (Actions → „Skúška ikoniek" → Run workflow). NIČ nenasadzuje ani necommituje: stiahne vzorku ikoniek cez
 # ikony.py a porovná ju s tým, čo by ukázal prehliadač po starom (Google → Yandex).
 # Výsledok je v logu a v prílohe „ikony-vzorka" (Summary → Artifacts).
 name: Skúška ikoniek
 
 on:
   workflow_dispatch:
-  push:
-    branches: [bod15-ikonky]
+  pull_request:
     paths: [ikony.py, .github/workflows/ikony-vzorka.yml, .github/ikony-vzorka/**]
 
 permissions:
