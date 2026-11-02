@@ -1359,7 +1359,7 @@ function renderIcon(icon, flagSize){
     const s = flagSize || '24x18';
     return `<img src="https://flagcdn.com/${s}/${icon}.png" style="border-radius:2px;vertical-align:middle;" alt="" loading="lazy"/>`;
   }
-  return icon;
+  return attrEsc(icon);
 }
 
 // Priečinok bez vlastnej ikony (napr. ligová súťaž) zdedí vlajku od najbližšieho
