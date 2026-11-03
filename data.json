@@ -1,5 +1,5 @@
 {
-  "version": 1123,
+  "version": 1124,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -210,15 +210,15 @@
       "id": "f_ltw",
       "type": "folder",
       "parentId": null,
-      "name": "Live This Week (len EN)",
+      "name": "Aktuálne",
       "name_en": "Live This Week",
-      "slug": "live-this-week",
+      "slug": "aktualne",
       "slug_en": "live-this-week",
       "icon": "🔥",
-      "desc": "",
-      "desc_en": "Every sport that is actually on right now — football, tennis, basketball, cycling, athletics — plus the world championships and finals that come round only once a year. Every link opens the official site with live scores, the schedule or the results, and the list is updated every day.",
+      "desc": "Živé výsledky a priebežné tabuľky súťaží, ktoré práve bežia — vrátane športov, ktoré veľké výsledkové servery nepokrývajú. Každý odkaz vedie priamo na stránku s live výsledkami alebo programom podujatia (oficiálny web alebo spoľahlivý livescore). Zoznam dopĺňame denne; skončené podujatia miznú samy.",
+      "desc_en": "Live scores and standings of competitions that are on right now — including sports the big livescore sites don't cover. Every link opens the page with live results or the event schedule (official site or a reliable livescore). Updated daily; finished events disappear automatically.",
       "order": 0,
-      "enOnly": true
+      "noTileSk": true
     },
     {
       "id": "f_fut",
