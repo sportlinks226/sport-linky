@@ -1,0 +1,81 @@
+{
+ "version": 1,
+ "updated": "2026-11-03T13:33:13.163Z",
+ "items": [
+  {
+   "id": "a1784538636873",
+   "order": 0,
+   "sport": "",
+   "icon": "🎾",
+   "name": "ATP scores",
+   "name_en": "ATP Scores",
+   "url": "https://www.atptour.com/en/scores/current",
+   "desc": "",
+   "desc_en": "",
+   "startsAt": "",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1784538636873
+  },
+  {
+   "id": "a1784539153202",
+   "order": 1,
+   "sport": "",
+   "icon": "🎾",
+   "name": "WTA scores",
+   "name_en": "WTA Scores",
+   "url": "https://www.wtatennis.com/scores",
+   "desc": "",
+   "desc_en": "",
+   "startsAt": "",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1784539153202
+  },
+  {
+   "id": "a1784541154016",
+   "order": 2,
+   "sport": "",
+   "icon": "🏀",
+   "name": "WNBA",
+   "name_en": "WNBA",
+   "url": "https://www.wnba.com/",
+   "desc": "",
+   "desc_en": "",
+   "startsAt": "",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1784541154016
+  },
+  {
+   "id": "a1784541193793",
+   "order": 3,
+   "sport": "",
+   "icon": "⚾",
+   "name": "MLB",
+   "name_en": "MLB",
+   "url": "https://www.mlb.com/",
+   "desc": "",
+   "desc_en": "",
+   "startsAt": "",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1784541193793
+  },
+  {
+   "id": "a1785147664719",
+   "order": 4,
+   "sport": "",
+   "icon": "🏓",
+   "name": "TT Star series",
+   "name_en": "TT Star Series",
+   "url": "https://ttstar.cz/en/results/",
+   "desc": "",
+   "desc_en": "",
+   "startsAt": "",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1785147664719
+  }
+ ]
+}
