@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """STRÁŽCA NEFUNKČNÝCH LINIEK (raz týždenne, len správa).
 
-Skript prejde všetky linky z data.json a zistí, ktoré nefungujú.
-data.json iba ČÍTA — nikdy ho nemení. Opravy robí Miro ručne na PC.
+Skript prejde všetky linky z data.json a aktualne.json a zistí, ktoré nefungujú.
+data.json aj aktualne.json iba ČÍTA — nikdy ich nemení. Opravy robí Miro ručne.
 
 Čo kontroluje:
-  - uzly type "link" (pole url), Aktuálne (aktualne[].url), bannery (banners[].linkUrl)
+  - uzly type "link" (pole url) a bannery (banners[].linkUrl) z data.json
+  - Aktuálne (items[].url) z aktualne.json (od 3.11.2026 vo vlastnom súbore);
+    kým aktualne.json neexistuje, staré pole aktualne[].url z data.json
   - VYNECHÁ polia fb/ig a všetky adresy na facebook.com, fb.com, instagram.com
     (blokujú roboty) — v správe je len ich počet
   - rovnakú adresu kontroluje len raz (aj keď je v dátach viackrát)
@@ -113,7 +115,21 @@ def na_ascii(url):
 
 
 # ---------------------------------------------------------------- dáta
-def nacitaj_linky(data_path):
+def nacitaj_aktualne(akt_path, d):
+    """Položky Aktuálnych: z aktualne.json (všetky, aj vypnuté a naplánované);
+    keď súbor nie je alebo je poškodený, staré pole "aktualne" z data.json."""
+    if akt_path and os.path.exists(akt_path):
+        try:
+            with open(akt_path, encoding="utf-8") as f:
+                a = json.load(f)
+            if isinstance(a, dict) and isinstance(a.get("items"), list):
+                return [x for x in a["items"] if isinstance(x, dict)], akt_path
+        except (OSError, ValueError) as e:
+            log(f"UPOZORNENIE: {akt_path} sa nedá prečítať ({e}) — Aktuálne beriem z data.json")
+    return [x for x in (d.get("aktualne") or []) if isinstance(x, dict)], "data.json"
+
+
+def nacitaj_linky(data_path, akt_path="aktualne.json"):
     """Vráti (výskyty, počty). Výskyt = jedna linka v dátach (id, cesta, adresa)."""
     with open(data_path, encoding="utf-8") as f:
         d = json.load(f)
@@ -146,7 +162,10 @@ def nacitaj_linky(data_path):
             "cesta": " › ".join(x.get("name", "") for x in r),
             "zorad": [poradie(x) for x in r],
         })
-    for a in d.get("aktualne", []) or []:
+    akt, zdroj = nacitaj_aktualne(akt_path, d)
+    pocty["aktualne"] = len(akt)
+    log(f"Aktuálne: {len(akt)} položiek z {zdroj}")
+    for a in akt:
         if a.get("url"):
             vyskyty.append({"id": a.get("id", ""), "url": a["url"].strip(), "sport": "Aktuálne",
                             "cesta": "Aktuálne › " + (a.get("name") or ""), "zorad": [(-2, "")]})
@@ -535,6 +554,7 @@ def uloz_stav(cesta, stav):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--data", default="data.json")
+    ap.add_argument("--aktualne", default="aktualne.json", help="súbor s Aktuálnymi (ak chýba, berú sa z data.json)")
     ap.add_argument("--dir", default="kontrola-liniek", help="priečinok so stavom a správou")
     ap.add_argument("--limit", type=int, default=0, help="skontroluj len N adries (0 = všetky)")
     ap.add_argument("--cas-min", type=float, default=270, help="časový limit behu v minútach")
@@ -554,7 +574,7 @@ def main():
     os.makedirs(a.dir, exist_ok=True)
     cesta_stavu = os.path.join(a.dir, "stav.json")
 
-    vyskyty, pocty = nacitaj_linky(a.data)
+    vyskyty, pocty = nacitaj_linky(a.data, a.aktualne)
     podla_kluca = collections.defaultdict(list)
     for v in vyskyty:
         podla_kluca[v["kluc"]].append(v)
