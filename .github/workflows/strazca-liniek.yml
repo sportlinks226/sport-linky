@@ -1,0 +1,99 @@
+# STRÁŽCA NEFUNKČNÝCH LINIEK — raz týždenne (noc na pondelok 01:17 UTC) prejde
+# všetky linky z data.json a vyrobí správu. data.json NIKDY nemení (len číta).
+#   - správa: kontrola-liniek/sprava.md (čitateľná na GitHube) a sprava.csv (Excel/Cowork)
+#   - stav medzi behmi: kontrola-liniek/stav.json (mŕtva = 2 behy po sebe)
+#   - Issue „🔗 Strážca liniek": komentár so súhrnom, LEN ak je niečo nové
+#     (nové mŕtve, nové presťahované, opravené) → príde e-mail od GitHubu
+# Ručné spustenie: Actions → „Strážca liniek" → Run workflow (voliteľne limit
+# počtu adries na skúšku; 0 = všetky).
+# Commit robí github-actions[bot] so „[skip ci]", aby nespúšťal build webu.
+# Skript: strazca_liniek.py. Skúška pri pull requeste: strazca-liniek-skuska.yml.
+name: Strážca liniek
+
+on:
+  schedule:
+    - cron: "17 1 * * 1"   # pondelok 01:17 UTC — nekoliduje s denným buildom (2:30)
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Koľko adries skontrolovať (0 = všetky, napr. 300 na skúšku)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: read
+
+# dva behy naraz by si prepisovali stav — druhý počká
+concurrency:
+  group: strazca-liniek
+  cancel-in-progress: false
+
+jobs:
+  kontrola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300       # 5 h; skript sám skončí po 4,5 h (čo nestihne, dokončí o týždeň)
+    permissions:
+      contents: write          # commit stavu a správy (kontrola-liniek/)
+      issues: write            # komentár do Issue „🔗 Strážca liniek"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Skontroluj linky
+        env:
+          LIMIT: ${{ inputs.limit }}
+          ODKAZ_SPRAVA: https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/kontrola-liniek
+        run: |
+          python strazca_liniek.py --limit "${LIMIT:-0}" --cas-min 270 \
+            --komentar "$RUNNER_TEMP/komentar.md"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sprava-liniek
+          path: |
+            kontrola-liniek/sprava.md
+            kontrola-liniek/sprava.csv
+          retention-days: 30
+
+      - name: Ulož stav a správu do repozitára
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kontrola-liniek/
+          if git diff --cached --quiet; then echo "Bez zmeny."; exit 0; fi
+          git commit -m "Strážca liniek: týždenná správa [skip ci]"
+          for i in 1 2 3 4; do
+            git pull --rebase --autostash origin "${{ github.ref_name }}" && git push && exit 0
+            echo "Push sa nepodaril (súbeh), skúšam znova…"; sleep $((i * 5))
+          done
+          exit 1
+
+      - name: Komentár do Issue „🔗 Strážca liniek"
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          K="$RUNNER_TEMP/komentar.md"
+          if [ ! -f "$K" ]; then echo "Nič nové — komentár sa nepridáva."; exit 0; fi
+          NAZOV="🔗 Strážca liniek"
+          N=$(gh issue list --state open --limit 500 --json number,title \
+                --jq ".[] | select(.title == \"$NAZOV\") | .number" | head -n 1)
+          if [ -z "$N" ]; then
+            printf '%s\n' \
+              "Sem každý týždeň pribudne komentár zo **Strážcu liniek** (len keď je niečo nové)." \
+              "" \
+              "Celá správa: https://github.com/$GH_REPO/blob/main/kontrola-liniek/sprava.md · tabuľka: kontrola-liniek/sprava.csv" \
+              "" \
+              "🔴 mŕtva (2 behy po sebe) · 🔵 presťahovaná · 🟠 podozrivá (1. nález) · 🟡 varovanie (over ručne) · ✅ OK" \
+              "" \
+              "Issue nechaj otvorené — strážca ho používa stále." > "$RUNNER_TEMP/uvod.md"
+            URL=$(gh issue create --title "$NAZOV" --body-file "$RUNNER_TEMP/uvod.md")
+            N="${URL##*/}"
+            echo "Vytvorené nové Issue #$N"
+          fi
+          gh issue comment "$N" --body-file "$K"
