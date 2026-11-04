@@ -1023,7 +1023,8 @@ class Test:
             page.wait_for_selector("#colsWrap .col[data-lv='0'] .cit[data-t='f']", state="visible")
 
             def cesta():
-                return page.evaluate("colPath.map(id => (DB.nodes.find(n => n.id === id) || {}).name)")
+                # názvy v jazyku webu (nName) — porovnávajú sa s textom položiek na obrazovke (EN web: name_en)
+                return page.evaluate("colPath.map(id => { const n = DB.nodes.find(x => x.id === id); return n ? nName(n) : null; })")
 
             def stred(loc):
                 b = loc.bounding_box()
