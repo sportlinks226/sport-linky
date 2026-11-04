@@ -5,6 +5,12 @@
 # v titulkoch sa obnoví aj bez nahrávania nových dát. Verziu dát to NEMENÍ.
 # Sitemap lastmod sa pritom NEMENÍ (od 2.10.2026 podľa skutočnej zmeny stránky,
 # stav v sitemap-lastmod.json — commitne ho krok „Ulož dátumy zmien pre sitemap").
+# EN WEB (bod 6 previerky 2, 4.11.2026): po každom úspešnom nasadení SK webu
+# spustí úloha „en-build" build anglického webu (repozitár sportlinks226/sportlinking,
+# workflow „Build & Deploy (EN)") — EN web sa odteraz stavia po KAŽDOM SK builde
+# z čerstvého data-full.json. Ručné spúšťanie „Build & Deploy (EN)" už netreba.
+# Potrebuje secret EN_BUILD_TOKEN (fine-grained token, len repozitár sportlinking,
+# právo Actions: Read and write). Bez neho sa EN build nespustí — len varovanie.
 # UMIESTNENIE V REPOZITÁRI: .github/workflows/build.yml
 
 name: Build & Deploy
@@ -13,7 +19,10 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "30 2 * * *"   # denne 2:30 UTC — pred denným buildom EN webu (3:00)
+    # denne 23:17 UTC = 0:17 nášho času v zime (1:17 v lete) — tesne po polnoci,
+    # neokrúhla minúta (o celej hodine je GitHub preťažený a beh mešká).
+    # EN build potom spustí tento SK build sám (úloha en-build nižšie).
+    - cron: "17 23 * * *"
   workflow_dispatch:
 
 # Oprávnenia (bod 27 previerky): na úrovni celého workflow len čítanie;
@@ -21,23 +30,31 @@ on:
 permissions:
   contents: read
 
-concurrency:
-  group: pages
-  cancel-in-progress: true
+# Súbežnosť (bod 18) je nastavená pri ÚLOHÁCH, nie pre celý workflow — rušenie
+# na úrovni workflow by zrušilo celý starší beh aj s rozbehnutým nasadením:
+#   - build:  skupina pages-build, nový build zruší starší, ktorý ešte len stavia,
+#   - deploy: skupina pages-deploy BEZ rušenia — nasadenie sa nikdy nepreruší,
+#   - en-build: bez obmedzenia.
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages-build
+      cancel-in-progress: true   # nový build zruší starší, ktorý ešte len stavia
+    timeout-minutes: 40   # bod 18: vlajky (max 10) + ikonky (max 15) + generátor a rezerva
     permissions:
       contents: write   # commit sitemap-lastmod.json (dátumy zmien pre sitemap), ikony/ a vlajky/
       pages: read       # configure-pages zisťuje adresu webu (BASE_URL)
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+        with:
+          ref: main   # bod 8: vždy najnovší main (commity ikoniek/vlajok/sitemap idú do main)
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
         id: pages
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -58,7 +75,7 @@ jobs:
 
       # IKONKY WEBOV (bod 15, 2.11.2026): ikonky sa sťahujú LEN tu, na serveri —
       # návštevník už nič neposiela Googlu ani Yandexu. ikony.py dotiahne nové weby
-      # a obnoví dávku najstarších (každá ~raz za 30 dní), uloží ich do ikony/
+      # a obnoví LEN ikonky staršie ako 30 dní (max. 300 za build, bod 9), uloží ich do ikony/
       # a PRIEBEŽNE (každé ~3 min) commitne „[skip ci]", aby zrušený build
       # (cancel-in-progress) stiahnuté ikonky nestratil. Limit 12 min — čo nestihne,
       # dotiahne ďalší build. Build kvôli ikonkám NIKDY nespadne (continue-on-error,
@@ -80,6 +97,8 @@ jobs:
       # generator zapíše sitemap-lastmod.json; ak sa zmenil, uloží sa do repozitára.
       # „[skip ci]" zabráni, aby tento commit spustil ďalší build. Zlyhanie
       # (napr. súbežný push) deploy NEZASTAVÍ — dátumy sa dorovnajú pri ďalšom builde.
+      # Bod 8: keď „git pull --rebase" zlyhá, rebase sa zruší (žiadny polorozbitý
+      # stav) a NEpushuje sa — len varovanie v logu.
       - name: Ulož dátumy zmien pre sitemap
         continue-on-error: true
         run: |
@@ -88,19 +107,28 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add sitemap-lastmod.json
             git commit -m "sitemap: dátumy zmien stránok [skip ci]"
-            git pull --rebase origin main || true
-            git push
+            if git pull --rebase origin main; then
+              git push || echo "::warning::git push sitemap-lastmod.json zlyhal — dorovná sa pri ďalšom builde"
+            else
+              git rebase --abort || true
+              echo "::warning::git pull --rebase zlyhal — rebase zrušený, NEpushujem (dátumy sa dorovnajú pri ďalšom builde)"
+            fi
           else
             echo "sitemap-lastmod.json bez zmeny"
           fi
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    # bod 18: vlastná skupina BEZ rušenia — rozbehnuté nasadenie sa nikdy neprekuší,
+    # ďalšie počká, kým dobehne.
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
     permissions:
       pages: write      # nasadenie na GitHub Pages
       id-token: write   # overenie nasadenia (OIDC)
@@ -108,5 +136,30 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
         id: deployment
+
+  # BOD 6: po úspešnom nasadení SK webu spusti build EN webu (sportlinking).
+  # SK build kvôli tomu NIKDY nespadne (continue-on-error, skript končí exit 0).
+  en-build:
+    needs: deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: {}   # GITHUB_TOKEN netreba, používa sa EN_BUILD_TOKEN
+    steps:
+      - name: Spusti Build & Deploy (EN) v sportlinking
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.EN_BUILD_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::Chýba secret EN_BUILD_TOKEN — EN build sa nespustil (spusti ho ručne alebo pridaj secret)."
+            exit 0
+          fi
+          # počkaj, kým je nový data-full.json na sportlinky.sk určite dostupný
+          sleep 60
+          if gh workflow run build.yml --repo sportlinks226/sportlinking --ref main; then
+            echo "EN build spustený: https://github.com/sportlinks226/sportlinking/actions"
+          else
+            echo "::warning::EN build sa nepodarilo spustiť (skontroluj token EN_BUILD_TOKEN) — spusti ho ručne."
+          fi
