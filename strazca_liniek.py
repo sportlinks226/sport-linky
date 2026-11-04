@@ -13,14 +13,25 @@ data.json aj aktualne.json iba ČÍTA — nikdy ich nemení. Opravy robí Miro r
   - rovnakú adresu kontroluje len raz (aj keď je v dátach viackrát)
 
 Výsledky (značky):
-  🔴 MŔTVA        404/410 alebo neexistujúca doména — 2 týždenné behy po sebe
+  🔴 MŔTVA        404/410 alebo neexistujúca doména — 2 behy po sebe v RÔZNYCH dňoch
+                  (ručný beh v ten istý deň sa neráta ako ďalší beh)
   🟠 PODOZRIVÁ    to isté, ale zatiaľ len 1 beh (ďalší týždeň sa potvrdí alebo nie)
-  🔵 PRESŤAHOVANÁ presmerovanie na INÚ doménu (navrhne novú adresu)
-  🟡 VAROVANIE    401/403/429/999, 5xx, timeout, SSL… — treba overiť ručne
+  🔵 PRESŤAHOVANÁ presmerovanie na INÚ doménu (navrhne novú adresu):
+                  - podstránka na akúkoľvek inú doménu
+                  - domovská stránka na rovnaké meno s inou koncovkou
+                    (dailymail.co.uk → dailymail.com)
+                  peñarol.org → xn--pearol-xwa.org je tá istá doména (len iný zápis) = OK
+  🚫 BLOKUJE      401/403/429/999 — web nepustí robota; v sprava.md len súhrn po doménach,
+                  jednotlivé adresy v sprava.csv
+  🟡 VAROVANIE    5xx, timeout, SSL, presmerovanie v slučke… — treba overiť ručne
+                  ⚠️ zvlášť: DOMOVSKÁ stránka presmeruje na úplne cudziu doménu →
+                  „over ručne – možná predaná doména" (nová adresa sa NEnavrhuje)
   ✅ OK
 
 Stav medzi behmi: kontrola-liniek/stav.json (adresa → posledný výsledok,
-od kedy, koľko behov po sebe). Správa: kontrola-liniek/sprava.md a sprava.csv.
+od kedy, koľko behov po sebe, dátum kontroly). OK linky sa ukladajú len ako
+{"v": "ok"}, aby sa súbor každý týždeň neprepisoval celý.
+Správa: kontrola-liniek/sprava.md a sprava.csv.
 
 Slušnosť: bežný User-Agent prehliadača, najviac 2 požiadavky naraz na jednu
 doménu (+ krátka pauza medzi nimi), celkovo 20 naraz, timeout 15 s, sťahuje sa
@@ -69,9 +80,15 @@ VYNECHAT = ("facebook.com", "fb.com", "instagram.com")
 DRUHA_UROVEN = {"co", "com", "org", "net", "gov", "ac", "edu", "or", "ne", "go",
                 "gob", "gv", "nic", "sch", "in", "ltd", "plc", "info", "biz", "web", "nom"}
 
-ZNACKY = {"mrtva": "🔴", "prestahovana": "🔵", "podozriva": "🟠", "varovanie": "🟡", "ok": "✅"}
+ZNACKY = {"mrtva": "🔴", "prestahovana": "🔵", "podozriva": "🟠", "blokuje": "🚫",
+          "varovanie": "🟡", "ok": "✅"}
 NAZVY = {"mrtva": "MŔTVA", "prestahovana": "PRESŤAHOVANÁ", "podozriva": "PODOZRIVÁ",
-         "varovanie": "VAROVANIE", "ok": "OK"}
+         "blokuje": "BLOKUJE ROBOTOV", "varovanie": "VAROVANIE", "ok": "OK"}
+# ktorý výsledok je „horší" — pri druhom pokuse sa nechá horší (404 neprepíše timeout),
+# okrem prípadu, keď druhý pokus vyjde OK (web len dočasne nefungoval)
+ZAVAZNOST = {"ok": 0, "varovanie": 1, "blokuje": 2, "prestahovana": 3, "mrtva": 4}
+PREDANA = "over ručne – možná predaná doména"
+BLOKUJE_KODY = (401, 403, 429, 999)
 MAX_V_KOMENTARI = 50
 MAX_ZNAKOV_KOMENTARA = 60000
 
@@ -82,12 +99,31 @@ def log(*a):
 
 # ---------------------------------------------------------------- adresy
 def hlavna_domena(host):
-    """www.klub.co.uk → klub.co.uk ; women.volleybox.net → volleybox.net"""
+    """www.klub.co.uk → klub.co.uk ; women.volleybox.net → volleybox.net
+    Domény s diakritikou sa porovnávajú v tvare xn--… (peñarol.org = xn--pearol-xwa.org)."""
     host = (host or "").lower().rstrip(".")
+    if host.replace(".", "").isdigit() or ":" in host:
+        return host                    # IP adresa (napr. 127.0.0.1) — nedeliť
+    try:
+        host = host.encode("idna").decode("ascii")
+    except UnicodeError:
+        pass
     casti = host.split(".")
     if len(casti) >= 3 and len(casti[-1]) == 2 and casti[-2] in DRUHA_UROVEN:
         return ".".join(casti[-3:])
     return ".".join(casti[-2:])
+
+
+def meno_domeny(host):
+    """klub.co.uk → klub ; dailymail.com → dailymail (meno bez koncovky)"""
+    return hlavna_domena(host).split(".")[0]
+
+
+def je_domovska(url):
+    """Domovská stránka webu: bez cesty (alebo /, /index.html…) a bez ?dotazu."""
+    p = urllib.parse.urlsplit(url)
+    cesta = p.path.strip("/").lower()
+    return not p.query and cesta in ("", "index.html", "index.htm", "index.php")
 
 
 def vynechat(url):
@@ -233,10 +269,19 @@ class Kontrolor:
                 return self._podla_kodu(url, r.status, r.geturl())
         except urllib.error.HTTPError as e:
             konc = e.geturl() or url
+            sprava = str(getattr(e, "msg", "") or "")
             try:
                 e.close()
             except Exception:
                 pass
+            if 300 <= e.code < 400:
+                # bod 14: presmerovanie sa nedá dokončiť — slučka (A→B→A), viac ako 10
+                # presmerovaní, chýba cieľ alebo cieľ nie je webová adresa. NIE je to OK.
+                if "infinite loop" in sprava:
+                    d = "presmerovanie v slučke (web presmerúva dookola)"
+                else:
+                    d = f"HTTP {e.code} – presmerovanie sa nedá dokončiť (chýba alebo je zlý cieľ)"
+                return {"v": "varovanie", "d": d, "kod": e.code}
             return self._podla_kodu(url, e.code, konc)
         except urllib.error.URLError as e:
             return self._chyba(e.reason)
@@ -266,21 +311,31 @@ class Kontrolor:
         h1 = urllib.parse.urlsplit(url).hostname
         h2 = urllib.parse.urlsplit(konc).hostname
         ina = hlavna_domena(h1) != hlavna_domena(h2) if h2 else False
+        # rovnaké meno, iná koncovka (dailymail.co.uk → dailymail.com) = asi ten istý majiteľ
+        ine_meno = ina and meno_domeny(h1) != meno_domeny(h2)
         po = f" (po presmerovaní na {h2})" if ina else ""
         if kod in (404, 410):
             return {"v": "mrtva", "d": f"HTTP {kod} – stránka neexistuje{po}", "kod": kod}
         if 200 <= kod < 400:
+            if ine_meno and je_domovska(url):
+                # bod 14: domovská stránka ide na úplne cudzí web — doména mohla byť
+                # predaná (gplallameryem.com → gethomeinspector.com). Nič nenavrhujeme.
+                return {"v": "varovanie", "predana": True, "kam": konc, "kod": kod,
+                        "d": f"presmeruje na cudziu doménu ({h2}) – over ručne, "
+                             f"doména mohla byť predaná"}
             if ina:
+                # podstránka na inú doménu alebo rovnaké meno s inou koncovkou
                 return {"v": "prestahovana", "d": f"presmeruje na inú doménu ({h2})",
                         "nova": konc, "kod": kod}
             return {"v": "ok", "kod": kod}
-        if kod in (401, 403):
-            d = f"HTTP {kod} – prístup zamietnutý (web asi blokuje robotov)"
-        elif kod == 429:
-            d = "HTTP 429 – príliš veľa požiadaviek (blokuje robotov)"
-        elif kod == 999:
-            d = "HTTP 999 – blokuje robotov"
-        elif kod >= 500:
+        if kod in BLOKUJE_KODY:
+            # bod 22: samostatná skupina, v správe len súhrn po doménach
+            d = {401: "HTTP 401 – vyžaduje prihlásenie (blokuje robotov)",
+                 403: "HTTP 403 – prístup zamietnutý (blokuje robotov)",
+                 429: "HTTP 429 – príliš veľa požiadaviek (blokuje robotov)",
+                 999: "HTTP 999 – blokuje robotov"}[kod]
+            return {"v": "blokuje", "d": d + po, "kod": kod}
+        if kod >= 500:
             d = f"HTTP {kod} – chyba servera / výpadok"
         else:
             d = f"HTTP {kod}"
@@ -288,13 +343,21 @@ class Kontrolor:
 
 
 # ---------------------------------------------------------------- beh
-def poradie_kontroly(kluce, stav, limit):
-    """Najprv nikdy nekontrolované, potom najdlhšie nekontrolované.
-    V rámci rovnakého dátumu poslednej kontroly sa adresy premiešajú po doménach,
+def poradie_kontroly(kluce, stav, limit, dnes=""):
+    """Poradie: 1. nikdy nekontrolované, 2. problémové (mŕtve, podozrivé, presťahované,
+    varovania, blokujúce) od najdlhšie nekontrolovaných, 3. OK (nemajú dátum kontroly)
+    v poradí, ktoré sa mení každý beh — keby beh nestihol všetko, nabudúce prídu
+    na rad iné. V rámci jednej vrstvy sa adresy premiešajú po doménach,
     aby sa jedna doména nenahromadila."""
     def k(u):
         s = stav.get(u)
-        return (s.get("k", "") if s else "", hashlib.md5(u.encode()).hexdigest())
+        if not s:
+            vrstva = (0, "")
+        elif s.get("k"):
+            vrstva = (1, s["k"])
+        else:
+            vrstva = (2, "")
+        return (vrstva, hashlib.md5((dnes + u).encode()).hexdigest())
     vyber = sorted(kluce, key=k)
     if limit:
         vyber = vyber[:limit]
@@ -327,6 +390,12 @@ def skontroluj_vsetko(adresy, kontrolor, koniec, sucasne, pauza_opakovania):
         with zamok:
             if opakovanie:
                 r["opakovane"] = True
+                prvy = vysledky.get(u)
+                # bod 22: keď druhý pokus nevyjde OK, nechá sa horší výsledok
+                # (404 z prvého pokusu neprepíše „timeout" z druhého)
+                if (prvy and r["v"] != "ok"
+                        and ZAVAZNOST[prvy["v"]] > ZAVAZNOST[r["v"]]):
+                    r = {**prvy, "opakovane": True}
             vysledky[u] = r
             hotovo[0] += 1
             if hotovo[0] % 250 == 0:
@@ -336,8 +405,8 @@ def skontroluj_vsetko(adresy, kontrolor, koniec, sucasne, pauza_opakovania):
         list(ex.map(prac, adresy))
     nestihnute = [u for u in adresy if u not in vysledky]
 
-    # druhý pokus pre mŕtve a varovania (presťahované netreba — tie odpovedajú)
-    zle = [u for u, r in vysledky.items() if r["v"] in ("mrtva", "varovanie")]
+    # druhý pokus pre mŕtve, varovania a blokujúce (presťahované netreba — tie odpovedajú)
+    zle = [u for u, r in vysledky.items() if r["v"] in ("mrtva", "varovanie", "blokuje")]
     if zle and time.monotonic() + pauza_opakovania < koniec:
         log(f"Druhý pokus pre {len(zle)} adries (po pauze {pauza_opakovania} s)…")
         time.sleep(pauza_opakovania)
@@ -348,25 +417,38 @@ def skontroluj_vsetko(adresy, kontrolor, koniec, sucasne, pauza_opakovania):
 
 
 def aktualizuj_stav(stav, vysledky, vsetky_kluce, dnes, vyskyty_podla_kluca):
-    """Zapíše výsledky do stavu. Vráti zoznamy nových/opravených."""
-    nove_mrtve, nove_prest, opravene, podoz_ok = [], [], [], 0
+    """Zapíše výsledky do stavu. Vráti zoznamy nových/opravených.
+    Počítadlo „n" (behov po sebe) sa zvýši len pri behu v INOM dni ako posledný
+    beh ("k", inak "od") — ručný beh v ten istý deň z podozrivej linky nespraví
+    mŕtvu (bod 22). OK linky sa ukladajú len ako {"v": "ok"} (menšie zmeny v gite);
+    starý formát (OK aj s n/od/k) sa pri ďalšej kontrole prepíše."""
+    nove_mrtve, nove_prest, nove_predane, opravene, podoz_ok = [], [], [], [], 0
     for u, r in vysledky.items():
         stary = stav.get(u)
         bol_mrtvy = bool(stary and stary["v"] == "mrtva" and stary.get("n", 1) >= 2)
-        if stary and stary["v"] == r["v"]:
-            n, od = stary.get("n", 1) + 1, stary.get("od", dnes)
+        ten_isty = bool(stary and stary["v"] == r["v"]
+                        and bool(stary.get("predana")) == bool(r.get("predana")))
+        n_stary = stary.get("n", 1) if ten_isty else 0
+        if ten_isty:
+            posledny = stary.get("k") or stary.get("od")
+            n = n_stary + (0 if posledny == dnes else 1)
+            od = stary.get("od", dnes)
         else:
             n, od = 1, dnes
-        zaznam = {"v": r["v"], "n": n, "od": od, "k": dnes}
-        if r.get("d"):
-            zaznam["d"] = r["d"]
-        if r.get("nova"):
-            zaznam["nova"] = r["nova"]
+        if r["v"] == "ok":
+            zaznam = {"v": "ok"}
+        else:
+            zaznam = {"v": r["v"], "n": n, "od": od, "k": dnes}
+            for pole in ("d", "nova", "kam", "kod", "predana"):
+                if r.get(pole):
+                    zaznam[pole] = r[pole]
         stav[u] = zaznam
-        if r["v"] == "mrtva" and n == 2:
+        if r["v"] == "mrtva" and n >= 2 and n_stary < 2:
             nove_mrtve.append(u)
-        if r["v"] == "prestahovana" and n == 1:
+        if r["v"] == "prestahovana" and not ten_isty:
             nove_prest.append(u)
+        if r.get("predana") and not ten_isty:
+            nove_predane.append(u)
         if bol_mrtvy and r["v"] == "ok":
             opravene.append({"url": u, "preco": "už funguje", "bola_od": stary.get("od"),
                              "dovod": stary.get("d", ""),
@@ -379,7 +461,7 @@ def aktualizuj_stav(stav, vysledky, vsetky_kluce, dnes, vyskyty_podla_kluca):
         if s["v"] == "mrtva" and s.get("n", 1) >= 2:
             opravene.append({"url": u, "preco": "zmizla z dát", "bola_od": s.get("od"),
                              "dovod": s.get("d", ""), "kde": []})
-    return nove_mrtve, nove_prest, opravene, podoz_ok
+    return nove_mrtve, nove_prest, nove_predane, opravene, podoz_ok
 
 
 def kategoria(z):
@@ -418,13 +500,16 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
              "[sprava.csv](sprava.csv).\n")
     o.append("| Značka | Význam | Liniek | Adries |\n|---|---|---:|---:|")
     vyzn = {
-        "mrtva": "404/410 alebo neexistujúca doména **2 behy po sebe** → oprav/zmaž",
+        "mrtva": "404/410 alebo neexistujúca doména **2 behy po sebe** (v rôznych dňoch) → oprav/zmaž",
         "prestahovana": "presmeruje na inú doménu → zváž novú adresu",
         "podozriva": "404/410/DNS prvýkrát — ďalší týždeň sa potvrdí (alebo nie)",
-        "varovanie": "blokuje robotov / výpadok / timeout / SSL → over ručne v prehliadači",
+        "blokuje": "web nepustí robota (401/403/429/999) — v prehliadači väčšinou funguje; "
+                   "len súhrn po doménach",
+        "varovanie": "výpadok / timeout / SSL / presmerovanie v slučke / ⚠️ možná predaná doména "
+                     "→ over ručne v prehliadači",
         "ok": "funguje",
     }
-    for k in ("mrtva", "prestahovana", "podozriva", "varovanie", "ok"):
+    for k in ("mrtva", "prestahovana", "podozriva", "blokuje", "varovanie", "ok"):
         o.append(f"| {ZNACKY[k]} {NAZVY[k]} | {vyzn[k]} | {pocty[k]} | {adresy_kat[k]} |")
     o.append("")
     p = info["pocty"]
@@ -439,9 +524,10 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
             o.append(f"| {esc(x['url'])} | {x['preco']} | {x.get('bola_od', '')} |")
         o.append("")
 
-    def sekcia(kat, nadpis, stlpce, riadok):
-        rr = [r for r in riadky if r["kat"] == kat]
-        o.append(f"## {ZNACKY[kat]} {nadpis} ({len(rr)})\n")
+    def sekcia(kat, nadpis, stlpce, riadok, rr=None, uroven="##"):
+        if rr is None:
+            rr = [r for r in riadky if r["kat"] == kat]
+        o.append(f"{uroven} {ZNACKY[kat]} {nadpis} ({len(rr)})\n")
         if not rr:
             o.append("_Žiadne._\n")
             return
@@ -450,7 +536,7 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
             if r["sport"] != sport:
                 sport = r["sport"]
                 n = sum(1 for x in rr if x["sport"] == sport)
-                o.append(f"\n### {sport} ({n})\n")
+                o.append(f"\n{uroven}# {sport} ({n})\n")
                 o.append("| " + " | ".join(stlpce) + " |\n|" + "---|" * len(stlpce))
             o.append("| " + " | ".join(esc(x) for x in riadok(r)) + " |")
         o.append("")
@@ -462,10 +548,44 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
     sekcia("podozriva", "PODOZRIVÉ (zatiaľ 1 beh — netreba hneď opravovať)",
            ["ID", "Cesta", "Adresa", "Dôvod"],
            lambda r: [f"`{r['id']}`", r["cesta"], r["url"], r["z"].get("d", "")])
-    sekcia("varovanie", "VAROVANIA (over ručne)", ["ID", "Cesta", "Adresa", "Dôvod", "Od"],
+    # bod 22: blokujúce weby len ako súhrn po hlavných doménach, bez jednotlivých adries
+    # (tie sú v sprava.csv)
+    bl_adresy = [(u, z) for u, z in info["stav"].items() if z["v"] == "blokuje"]
+    domeny = collections.defaultdict(lambda: {"adries": 0, "kody": set()})
+    for u, z in bl_adresy:
+        x = domeny[hlavna_domena(urllib.parse.urlsplit(u).hostname)]
+        x["adries"] += 1
+        if z.get("kod"):
+            x["kody"].add(z["kod"])
+    o.append(f"## {ZNACKY['blokuje']} BLOKUJÚ ROBOTOV ({len(bl_adresy)} adries na "
+             f"{len(domeny)} doménach)\n")
+    if not bl_adresy:
+        o.append("_Žiadne._\n")
+    else:
+        o.append("Tieto weby nepustia automatickú kontrolu (401/403/429/999), preto strážca nevie, "
+                 "či linka funguje. V prehliadači väčšinou fungujú — netreba ich opravovať. "
+                 "Jednotlivé adresy sú v [sprava.csv](sprava.csv).\n")
+        o.append("| Doména | Adries | Kód |\n|---|---:|---|")
+        for dom, x in sorted(domeny.items(), key=lambda kv: (-kv[1]["adries"], kv[0])):
+            o.append(f"| {esc(dom)} | {x['adries']} | {', '.join(map(str, sorted(x['kody'])))} |")
+        o.append("")
+    # varovania: najprv možné predané domény (bod 14), potom ostatné podľa športu
+    var = [r for r in riadky if r["kat"] == "varovanie"]
+    predane = [r for r in var if r["z"].get("predana")]
+    o.append(f"## {ZNACKY['varovanie']} VAROVANIA (over ručne) ({len(var)})\n")
+    sekcia("varovanie", f"⚠️ {PREDANA}", ["ID", "Cesta", "Adresa", "Kam presmeruje", "Od"],
+           lambda r: [f"`{r['id']}`", r["cesta"], r["url"], r["z"].get("kam", ""), r["z"]["od"]],
+           rr=predane, uroven="###")
+    if predane:
+        o.append("Domovská stránka presmeruje na úplne cudziu doménu. Môže to byť nový web klubu, "
+                 "ale aj doména, ktorú kúpil niekto iný (reklama, spam). **Novú adresu nenavrhujem** "
+                 "— over v prehliadači.\n")
+    sekcia("varovanie", "Ostatné varovania", ["ID", "Cesta", "Adresa", "Dôvod", "Od"],
            lambda r: [f"`{r['id']}`", r["cesta"].rsplit(" › ", 1)[-1], r["url"],
-                      r["z"].get("d", "") + (f" · **{r['z']['n']}× po sebe**" if r["z"]["n"] >= 3 else ""),
-                      r["z"]["od"]])
+                      r["z"].get("d", "") + (f" · **{r['z'].get('n', 1)}× po sebe**"
+                                             if r["z"].get("n", 1) >= 3 else ""),
+                      r["z"]["od"]],
+           rr=[r for r in var if not r["z"].get("predana")], uroven="###")
     with open(cesta, "w", encoding="utf-8") as f:
         f.write("\n".join(o) + "\n")
 
@@ -479,18 +599,21 @@ def napis_csv(cesta, riadky):
             if r["kat"] == "ok":
                 continue
             z = r["z"]
+            dovod = z.get("d", "") + (f" → {z['kam']}" if z.get("kam") else "")
             w.writerow([ZNACKY[r["kat"]], NAZVY[r["kat"]], r["id"], r["sport"], r["cesta"], r["url"],
-                        z.get("d", ""), z.get("nova", ""), z.get("od", ""), z.get("n", 1), z.get("k", "")])
+                        dovod, z.get("nova", ""), z.get("od", ""), z.get("n", ""), z.get("k", "")])
 
 
-def napis_komentar(cesta, riadky, info, nove_mrtve, nove_prest, opravene, odkaz):
+def napis_komentar(cesta, riadky, info, nove_mrtve, nove_prest, nove_predane, opravene, odkaz):
     pocty = collections.Counter(r["kat"] for r in riadky)
-    nm, npr = set(nove_mrtve), set(nove_prest)
+    blokuje_adries = sum(1 for z in info["stav"].values() if z["v"] == "blokuje")
+    nm, npr, npd = set(nove_mrtve), set(nove_prest), set(nove_predane)
     o = [f"## 🔗 Strážca liniek — beh {info['datum']}\n",
          f"🔴 mŕtve: **{pocty['mrtva']}** · 🔵 presťahované: **{pocty['prestahovana']}** · "
-         f"🟠 podozrivé: {pocty['podozriva']} · 🟡 varovania: {pocty['varovanie']} · ✅ OK: {pocty['ok']}  ",
+         f"🟠 podozrivé: {pocty['podozriva']} · 🚫 blokujú robotov: {blokuje_adries} adries · "
+         f"🟡 varovania: {pocty['varovanie']} · ✅ OK: {pocty['ok']}  ",
          f"Nové mŕtve: **{len(nove_mrtve)}** · nové presťahované: **{len(nove_prest)}** · "
-         f"opravené od minula: **{len(opravene)}**"
+         f"možné predané domény: **{len(nove_predane)}** · opravené od minula: **{len(opravene)}**"
          + (f" · nestihnuté adresy (budú ďalší týždeň): {info['nestihnute']}" if info["nestihnute"] else ""),
          f"\n📄 Celá správa: {odkaz}/sprava.md · tabuľka: {odkaz}/sprava.csv\n"]
     zostava = MAX_V_KOMENTARI
@@ -511,6 +634,9 @@ def napis_komentar(cesta, riadky, info, nove_mrtve, nove_prest, opravene, odkaz)
            lambda r: r["z"].get("d", ""))
     zoznam("🔵 Nové presťahované", [r for r in riadky if r["kluc"] in npr and r["kat"] == "prestahovana"],
            lambda r: "→ " + r["z"].get("nova", ""))
+    zoznam(f"⚠️ Nové: {PREDANA}",
+           [r for r in riadky if r["kluc"] in npd and r["z"].get("predana")],
+           lambda r: f"presmeruje na {r['z'].get('kam', '')} — novú adresu nenavrhujem")
     if opravene:
         o.append(f"### ✅ Opravené od minula ({len(opravene)})\n")
         for x in opravene[:MAX_V_KOMENTARI]:
@@ -583,14 +709,14 @@ def main():
     log(f"Liniek na kontrolu: {len(vyskyty)} (rôznych adries {len(podla_kluca)}); vynechané "
         f"FB/IG adresy {pocty['fb_ig_adresa']}, polia fb {pocty['fb_pole']}, ig {pocty['ig_pole']}")
 
-    poradie = poradie_kontroly(list(podla_kluca), stav, a.limit)
+    poradie = poradie_kontroly(list(podla_kluca), stav, a.limit, dnes)
     log(f"Kontrolujem {len(poradie)} adries (súčasne {a.sucasne}, na doménu {a.na_domenu}, "
         f"timeout {a.timeout:g} s, limit {a.cas_min:g} min)…")
     kontrolor = Kontrolor(timeout=a.timeout, na_domenu=a.na_domenu)
     vysledky, nestihnute = skontroluj_vsetko(poradie, kontrolor, koniec, a.sucasne, a.pauza)
 
     # pri skúške s limitom nemažeme adresy, ktoré „zmizli" — nič nezmizlo
-    nove_mrtve, nove_prest, opravene, podoz_ok = aktualizuj_stav(
+    nove_mrtve, nove_prest, nove_predane, opravene, podoz_ok = aktualizuj_stav(
         stav, vysledky, set(podla_kluca), dnes, podla_kluca)
 
     trvanie = int(time.monotonic() - start)
@@ -600,7 +726,7 @@ def main():
     stav_cely["posledny_beh"] = {
         "datum": dnes, "trvanie_s": trvanie, "skontrolovane": len(vysledky),
         "nestihnute": len(nestihnute), "nove_mrtve": len(nove_mrtve),
-        "nove_prestahovane": len(nove_prest), "opravene": opravene,
+        "nove_prestahovane": len(nove_prest), "nove_predane": len(nove_predane), "opravene": opravene,
         "podozrive_uz_ok": podoz_ok}
     uloz_stav(cesta_stavu, stav_cely)
 
@@ -611,14 +737,16 @@ def main():
     k = collections.Counter(kategoria(z) for z in stav.values())
     log(f"\nHOTOVO za {info['trvanie']}. Adresy podľa výsledku: "
         + ", ".join(f"{ZNACKY[x]} {NAZVY[x]} {k[x]}" for x in ZNACKY))
-    log(f"Nové mŕtve {len(nove_mrtve)}, nové presťahované {len(nove_prest)}, opravené {len(opravene)}, "
+    log(f"Nové mŕtve {len(nove_mrtve)}, nové presťahované {len(nove_prest)}, "
+        f"nové možné predané domény {len(nove_predane)}, opravené {len(opravene)}, "
         f"podozrivé, ktoré už fungujú {podoz_ok}, nestihnuté {len(nestihnute)}")
 
     if a.komentar:
         if os.path.exists(a.komentar):
             os.remove(a.komentar)
-        if nove_mrtve or nove_prest or opravene:
-            napis_komentar(a.komentar, riadky, info, nove_mrtve, nove_prest, opravene, a.odkaz)
+        if nove_mrtve or nove_prest or nove_predane or opravene:
+            napis_komentar(a.komentar, riadky, info, nove_mrtve, nove_prest, nove_predane,
+                           opravene, a.odkaz)
             log(f"Komentár do Issue pripravený: {a.komentar}")
         else:
             log("Nič nové — komentár do Issue sa nepridá (súbory sa len aktualizujú).")
