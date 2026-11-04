@@ -30,15 +30,18 @@ on:
 permissions:
   contents: read
 
-# Nový build zruší starší, ktorý ešte len stavia (úloha build) — nasadzuje sa
-# vždy najnovší stav. Samotné nasadenie má vlastnú skupinu (úloha deploy).
-concurrency:
-  group: pages
-  cancel-in-progress: true
+# Súbežnosť (bod 18) je nastavená pri ÚLOHÁCH, nie pre celý workflow — rušenie
+# na úrovni workflow by zrušilo celý starší beh aj s rozbehnutým nasadením:
+#   - build:  skupina pages-build, nový build zruší starší, ktorý ešte len stavia,
+#   - deploy: skupina pages-deploy BEZ rušenia — nasadenie sa nikdy nepreruší,
+#   - en-build: bez obmedzenia.
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages-build
+      cancel-in-progress: true   # nový build zruší starší, ktorý ešte len stavia
     timeout-minutes: 40   # bod 18: vlajky (max 10) + ikonky (max 15) + generátor a rezerva
     permissions:
       contents: write   # commit sitemap-lastmod.json (dátumy zmien pre sitemap), ikony/ a vlajky/
