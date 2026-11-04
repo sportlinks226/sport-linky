@@ -42,12 +42,20 @@ const L = require('./lib2');
   const ys=[]; for(let i=0;i<4;i++){ await page.mouse.wheel(0,120); await page.waitForTimeout(120); const st=await L.state(page); ys.push(st.scrollY+'/'+st.cols[3].scrollTop); }
   console.log('D0) koliesko kým pás nie je prilepený: scrollY/scrollTop stĺpca:', before.scrollY+'/'+before.cols[3].scrollTop, '→', ys.join(' → '), '| wrapTop', (await L.state(page)).wrapTop, 'prilepenie pri', await page.evaluate(()=>colsStickTop()));
   // po prilepení je názov stĺpca inde — myš doň znova (kúsok pod názov, na 1. položku, ale hneď preč z nej na názov)
-  const c3b = await page.evaluate(()=>{const r=document.querySelector('.col[data-lv="3"] .col-title').getBoundingClientRect(); return {x:r.left+r.width/2,y:r.top+r.height/2};});
-  await page.mouse.move(c3b.x,c3b.y,{steps:3}); await page.waitForTimeout(250);
+  // myš na 1. položku stĺpca 3 (otvorí sa — správne), potom koliesko: položky idú pod nehybnou myšou
+  const vis0 = await page.evaluate(()=>{const c=document.querySelector('.col[data-lv="3"]'); const r=c.getBoundingClientRect(); return [...c.querySelectorAll('.cit')].filter(a=>{const b=a.getBoundingClientRect(); return b.top>=r.top+30&&b.bottom<=r.bottom;}).map(a=>a.querySelector('.nm').textContent.trim());});
+  const c3b = await L.go(page,3,vis0[1],500);
+  console.log('   myš stojí na položke „'+vis0[1]+'“:', JSON.stringify((await L.state(page)).colPath));
   for(let i=0;i<14;i++){ await page.mouse.wheel(0,300); await page.waitForTimeout(60); }
   await page.waitForTimeout(900); s = await L.state(page);
   console.log('D) po rolovaní kolieskom dole: scrollTop', s.cols[3].scrollTop, '/', s.cols[3].scrollH - s.cols[3].clientH, '| colPath', JSON.stringify(s.colPath), '| scrollY', s.scrollY, 'wrapTop', s.wrapTop, 'wrapH', s.wrapH);
   await L.shot(page,'06-zrolovane-dole');
+  // D2) chvenie 3 px nad položkou pod kurzorom → nič; pohyb 10 px po tej istej položke → otvorí sa
+  const under0 = await page.evaluate(()=>{const e=document.elementFromPoint(_mx+1,_my+1); const a=e&&e.closest('.cit[data-t="f"]'); return a?a.querySelector('.nm').textContent.trim():null;});
+  await page.mouse.move(c3b.x+2,c3b.y+1,{steps:2}); await page.mouse.move(c3b.x+3,c3b.y+2,{steps:2}); await page.waitForTimeout(600); s = await L.state(page);
+  console.log('D2) chvenie 3 px nad „'+under0+'“ (položka pod kurzorom po posune): colPath', JSON.stringify(s.colPath), '| scrollTop', s.cols[3].scrollTop);
+  if(under0){ await page.mouse.move(c3b.x+12,c3b.y+2,{steps:4}); await page.waitForTimeout(600); s = await L.state(page);
+    console.log('D3) pohyb 10 px po tej istej položke „'+under0+'“: colPath', JSON.stringify(s.colPath), '→ otvorila sa:', s.colPath.includes(under0), '| scrollTop', s.cols[3].scrollTop); }
   // E) o pár položiek vyššie: pohyb dole na položku (zastaví sa → otvorí sa, to je správne) a stĺpec musí ostať zrolovaný
   const vis = await page.evaluate(()=>{const c=document.querySelector('.col[data-lv="3"]'); const r=c.getBoundingClientRect(); return [...c.querySelectorAll('.cit')].filter(a=>{const b=a.getBoundingClientRect(); return b.top>=r.top+30&&b.bottom<=r.bottom;}).map(a=>a.querySelector('.nm').textContent.trim());});
   const target = vis[Math.floor(vis.length/2)];

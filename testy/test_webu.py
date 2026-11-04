@@ -1076,6 +1076,16 @@ class Test:
                 raise Zlyhanie(f"po 2 px pohybe nad posunutým obsahom sa otvorilo {cesta()} (bolo {otvorene})")
             if po != posun:
                 raise Zlyhanie(f"zrolovaný stĺpec skočil: posun {posun} → {po}")
+            # skutočný pohyb (10 px) po položke, ktorá je pod kurzorom → tá sa má otvoriť (nie „zaseknuté“)
+            pod = page.evaluate("([x, y]) => { const e = document.elementFromPoint(x, y); const a = e && e.closest('.cit[data-t=\"f\"]');"
+                                " return a ? a.querySelector('.nm').textContent.trim() : null; }", [x + 2, y + 1])
+            if pod:
+                page.mouse.move(x + 12, y + 1, steps=4)
+                page.wait_for_timeout(600)
+                if cesta() != [meno_koren, pod]:
+                    raise Zlyhanie(f"po 10 px pohybe po položke „{pod}“ sa neotvorila: {cesta()}")
+                otvorene = cesta()
+                x += 12
             # posun stránky pod nehybnou myšou → nič
             page.evaluate("window.scrollBy(0, -120)")
             page.wait_for_timeout(700)
@@ -1086,7 +1096,8 @@ class Test:
         finally:
             ctx.close()
         return "ok", (f"„{meno_koren} › {meno_druha}“ otvorené myšou; koliesko (posun stĺpca {posun} px"
-                      f"{'' if roluje else ', stĺpec krátky'}), 2 px pohyb ani posun stránky nič neotvorili")
+                      f"{'' if roluje else ', stĺpec krátky'}), 2 px pohyb ani posun stránky nič neotvorili"
+                      f"{', 10 px pohyb otvoril „' + pod + '“' if pod else ''}")
 
     # ------------------------------------------------ hlavný beh
     def spusti(self, od):

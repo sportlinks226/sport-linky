@@ -2070,15 +2070,19 @@ function colDetailHtml(){
 }
 
 // ---- myš ----
-let _mx = -1, _my = -1;          // posledná skutočná poloha myši
+let _mx = -1, _my = -1, _mMoved = false; // poloha myši (celý dokument) a či sa pri tejto udalosti naozaj pohla
 let _colCand = null, _colT = null; // položka, nad ktorou sa myš zastavuje, a jej časovač
-let _colIgnore = null;             // položka, ktorá sa po posune obsahu ocitla pod kurzorom
+let _colIgnore = null, _colIgnoreX = 0, _colIgnoreY = 0; // položka pod kurzorom po posune obsahu + kde myš vtedy bola
+const COL_IGNORE_PX = 6;           // po takomto pohybe od miesta posunu sa ignorovanie končí (chvenie 2–3 px nič neotvorí)
 let _colTrail = [];                // posledné polohy myši (menu aim)
 function colItemAt(x, y){ const e = document.elementFromPoint(x, y); return e && e.closest ? e.closest('#colsWrap .cit') : null; }
 function colCancel(){ clearTimeout(_colT); _colT = null; _colCand = null; }
 // Obsah sa pohol pod myšou (prekreslenie, posun stĺpca/pásu/stránky): čo je teraz pod
 // kurzorom, sa neotvorí, kým to myš neopustí. Bez umelých udalostí.
-function colMarkShift(){ colCancel(); if(_mx >= 0) _colIgnore = colItemAt(_mx, _my); }
+function colMarkShift(){ colCancel(); if(_mx >= 0){ _colIgnore = colItemAt(_mx, _my); _colIgnoreX = _mx; _colIgnoreY = _my; } }
+// poloha myši sa sleduje na celom dokumente (len zápis súradníc) — aby colMarkShift po posune
+// stránky nepoužil starú polohu spred odchodu z pásu; capture = beží pred spracovaním nižšie
+document.addEventListener('mousemove', ev => { _mMoved = ev.clientX !== _mx || ev.clientY !== _my; _mx = ev.clientX; _my = ev.clientY; }, true);
 // Myš smeruje z položky do otvoreného stĺpca vpravo? (trojuholník: staršia poloha myši ↔ rohy stĺpca)
 function colAiming(it, x, y){
   const col = it.closest('.col'), lv = +col.dataset.lv;
@@ -2113,11 +2117,12 @@ document.getElementById('main').addEventListener('mousemove', ev => {
   if(viewMode !== 'cols') return;
   const wrap = document.getElementById('colsWrap'); if(!wrap || !wrap.contains(ev.target)) return;
   const x = ev.clientX, y = ev.clientY;
-  if(x === _mx && y === _my) return;   // bez skutočného pohybu (umelý mousemove prehliadača po posune obsahu)
-  _mx = x; _my = y;
+  if(!_mMoved) return;   // bez skutočného pohybu (umelý mousemove prehliadača po posune obsahu)
   _colTrail.push({x, y, t: performance.now()}); if(_colTrail.length > 12) _colTrail.shift();
   const it = ev.target.closest('.cit');
-  if(_colIgnore){ if(it === _colIgnore) return; _colIgnore = null; }
+  // položka pod kurzorom po posune obsahu sa ignoruje, kým ju myš neopustí ALEBO sa od miesta
+  // posunu nepohne aspoň o COL_IGNORE_PX (potom ju človek zjavne chce)
+  if(_colIgnore){ if(it === _colIgnore && Math.hypot(x - _colIgnoreX, y - _colIgnoreY) < COL_IGNORE_PX) return; _colIgnore = null; }
   if(!it){ colCancel(); return; }
   clearTimeout(_colT); _colCand = it;
   if(it.dataset.t === 'f'){

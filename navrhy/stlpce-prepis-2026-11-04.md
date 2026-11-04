@@ -12,7 +12,10 @@ a ostatné), web musí bežať na `localhost:8123` z `_site/` (`python3 generato
 
 * Priečinok sa otvorí len keď sa myš **naozaj pohla a zastavila** nad ním (0,17 s). Prechod, ktorý vznikol
   pohybom obsahu pod nehybnou myšou (koliesko, posun stránky, prekreslenie, posun pásu, klik, Späť/Vpred),
-  neotvorí nič — položka, ktorá sa pod kurzor dostala posunom, sa ignoruje, kým ju myš neopustí.
+  neotvorí nič — položka, ktorá sa pod kurzor dostala posunom, sa ignoruje, kým ju myš neopustí **alebo
+  sa od miesta posunu nepohne aspoň o 6 px** (chvenie 2–3 px nič neotvorí; doplnené 4. 11. po kontrole PR).
+  Poloha myši sa sleduje na celom dokumente (len zápis súradníc), aby posun stránky pri myši mimo pásu
+  nepoužil starú polohu.
   Žiadne umelé udalosti, žiadne „ticho“ po posune, časovač sa ruší pri odchode z položky aj z pásu.
 * „Menu aim“: šikmý pohyb smerom do otvoreného stĺpca vpravo dáva susedným položkám dlhšie oneskorenie (0,42 s).
 * Prekresľujú sa len stĺpce od zmenenej úrovne doprava; ostatné ostávajú v DOM aj s posunom (scrollTop).
@@ -37,6 +40,7 @@ a ostatné), web musí bežať na `localhost:8123` z `_site/` (`python3 generato
 | Koliesko v dlhom stĺpci (55 krajín) | stránka → prilepenie → stĺpec 1223/1223 px, nič sa neotvorilo, stĺpec neskočil ✅ |
 | Zrolované dole → zastavenie na položke → o 3 položky vyššie | scrollTop ostal 1223 ✅, otvorila sa len položka, na ktorej myš stojí |
 | Koliesko 2× hore | scrollTop 1223 → 1023, nič sa neotvorilo ✅ |
+| Po posune obsahu: chvenie 3 px nad položkou pod kurzorom / pohyb 10 px po nej | nič ✅ / položka sa otvorila ✅ (aj v `test_webu.py` m) |
 | Klik, Späť, Vpred (myš stojí) | nič navyše sa neotvorilo, názvy stĺpcov pod hlavičkou (wrapTop 105) ✅ |
 | Prechod cez „Hokej“ a odchod za 40 ms | Hokej sa neotvoril ✅ |
 | 1024/1280/1440/1920 × 800/1080, hĺbka 5–6 | 0 odrezaných stĺpcov, panel vidno, pás sa posúva plynulo ✅ |
