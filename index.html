@@ -1474,16 +1474,25 @@ function liveWeekLinks(){
 // Index sa prestavia sám, keď sa vymení pole DB.nodes alebo zmení jeho dĺžka,
 // a navyše na začiatku každého render() (admin úpravy menia parentId bez
 // zmeny dĺžky).
-let _cIdx = null, _cSrc = null, _cLen = -1;
+let _cIdx = null, _cSrc = null, _cLen = -1; let _nIdx = new Map();
 function rebuildChildIndex(){
   _slugMemo = null;
-  _cIdx = new Map(); _cSrc = DB.nodes; _cLen = DB.nodes ? DB.nodes.length : 0;
+  _cIdx = new Map(); _nIdx = new Map(); _cSrc = DB.nodes; _cLen = DB.nodes ? DB.nodes.length : 0;
   if(!DB.nodes) return;
   for(const n of DB.nodes){
     let a = _cIdx.get(n.parentId);
     if(!a){ a = []; _cIdx.set(n.parentId, a); }
     a.push(n);
+    _nIdx.set(n.id, n);
   }
+}
+// uzol podľa id z indexu (Zadanie 26c): getChildren na EN webe hľadal rodiča cez DB.nodes.find
+// pri KAŽDOM volaní — countAll ho volá pre každý priečinok v podstrome, takže počty na karte
+// a v stĺpcoch trvali na EN ~30 ms na priečinok (600 ms na koreňový stĺpec, 11 dlhých úloh)
+function nodeById(id){
+  if(!DB.nodes) return undefined;
+  if(_cSrc !== DB.nodes || _cLen !== DB.nodes.length) rebuildChildIndex();
+  return _nIdx.get(id);
 }
 function childrenOf(parentId){
   if(!DB.nodes) return [];
@@ -1501,7 +1510,7 @@ function getChildren(parentId){
   const ord = n => (IS_EN && n.order_en!==undefined && n.order_en!==null) ? n.order_en : n.order;
   arr.sort((a,b)=>ord(a)-ord(b));
   if(IS_EN && parentId !== null && !NO_EN_ALPHA.has(parentId)){
-    const p = DB.nodes.find(n=>n.id===parentId);
+    const p = nodeById(parentId);
     if(p && CONTINENTS_SK.has(p.name)){
       // pripnuté uzly ostávajú vpredu (podľa order), zvyšok abecedne po anglicky
       const pinned = arr.filter(n=>PINNED_EN.has(n.id));
