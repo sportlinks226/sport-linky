@@ -1,5 +1,5 @@
 {
-  "version": 1124,
+  "version": 1125,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -215,8 +215,8 @@
       "slug": "aktualne",
       "slug_en": "live-this-week",
       "icon": "🔥",
-      "desc": "Živé výsledky a priebežné tabuľky súťaží, ktoré práve bežia — vrátane športov, ktoré veľké výsledkové servery nepokrývajú. Každý odkaz vedie priamo na stránku s live výsledkami alebo programom podujatia (oficiálny web alebo spoľahlivý livescore). Zoznam dopĺňame denne; skončené podujatia miznú samy.",
-      "desc_en": "Live scores and standings of competitions that are on right now — including sports the big livescore sites don't cover. Every link opens the page with live results or the event schedule (official site or a reliable livescore). Updated daily; finished events disappear automatically.",
+      "desc": "Live výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne.",
+      "desc_en": "Live scores and scoreboards from major and niche sports, updated daily.",
       "order": 0,
       "noTileSk": true
     },
