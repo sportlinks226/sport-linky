@@ -1955,7 +1955,10 @@ function colHost(n){ try{ return new URL(n.url).hostname; }catch(e){ return ''; 
 function colItemsHtml(pid, pn){
   if(DB._partial && pn && pn.parentId !== null && !pn._k) return loadingHtml(); // štartovací balík: hlbšie deti ešte nie sú
   let h = '';
-  tileKids(pid).forEach(n => { // koreň bez noTileSk; bez prázdnych priečinkov (bod 5)
+  // rovnaké poradie ako v dlaždiciach (Zadanie 26b2): najprv všetky priečinky, potom všetky
+  // linky (linky líg majú order -1, inak by boli navrchu); v rámci skupiny poradie ako v dátach
+  const kids = tileKids(pid); // koreň bez noTileSk; bez prázdnych priečinkov (bod 5)
+  [...kids.filter(n => n.type === 'folder'), ...kids.filter(n => n.type !== 'folder')].forEach(n => {
     const nm = attrEsc(nName(n));
     const tt = nName(n).length > 22 ? ` title="${nm}"` : ''; // dlhý názov sa oreže — celý je v tooltipe
     if(n.type==='folder'){

@@ -1091,6 +1091,15 @@ class Test:
             page.wait_for_timeout(700)
             if cesta() != otvorene:
                 raise Zlyhanie(f"po posune stránky pod myšou sa otvorilo {cesta()} (bolo {otvorene})")
+            # poradie ako v dlaždiciach (Zadanie 26b2): v každom stĺpci priečinky pred linkami
+            zle = page.evaluate(
+                "[...document.querySelectorAll('#colsWrap .col')].map(c => {"
+                "  const t = [...c.querySelectorAll('.cit')].map(a => a.dataset.t);"
+                "  const prvaLinka = t.indexOf('l'); const poslednyPriecinok = t.lastIndexOf('f');"
+                "  return prvaLinka >= 0 && poslednyPriecinok > prvaLinka ? c.querySelector('.col-title').textContent : null;"
+                "}).filter(Boolean)")
+            if zle:
+                raise Zlyhanie(f"v stĺpci je linka pred priečinkom: {zle}")
             self.snimka(page, "13-stlpce")
             self.over_chyby(page, "stĺpce")
         finally:
