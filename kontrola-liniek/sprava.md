@@ -1,105 +1,51 @@
 # 🔗 Strážca liniek — týždenná správa
 
-Posledný beh: **2026-11-03** · trvanie 18 min 22 s · skontrolovaných adries v tomto behu: 10623
+Posledný beh: **2026-11-04** · trvanie 1 min 52 s · skontrolovaných adries v tomto behu: 300
 
 data.json sa NEMENÍ — opravy robí Miro ručne. Každý riadok = jedna linka v dátach (rovnaká adresa na viacerých miestach = viac riadkov). Tabuľka pre Excel/Cowork: [sprava.csv](sprava.csv).
 
 | Značka | Význam | Liniek | Adries |
 |---|---|---:|---:|
-| 🔴 MŔTVA | 404/410 alebo neexistujúca doména **2 behy po sebe** → oprav/zmaž | 0 | 0 |
-| 🔵 PRESŤAHOVANÁ | presmeruje na inú doménu → zváž novú adresu | 52 | 52 |
-| 🟠 PODOZRIVÁ | 404/410/DNS prvýkrát — ďalší týždeň sa potvrdí (alebo nie) | 29 | 27 |
-| 🟡 VAROVANIE | blokuje robotov / výpadok / timeout / SSL → over ručne v prehliadači | 1493 | 1466 |
-| ✅ OK | funguje | 9232 | 9078 |
+| 🔴 MŔTVA | 404/410 alebo neexistujúca doména **2 behy po sebe** (v rôznych dňoch) → oprav/zmaž | 1 | 1 |
+| 🔵 PRESŤAHOVANÁ | presmeruje na inú doménu → zváž novú adresu | 7 | 7 |
+| 🟠 PODOZRIVÁ | 404/410/DNS prvýkrát — ďalší týždeň sa potvrdí (alebo nie) | 28 | 26 |
+| 🚫 BLOKUJE ROBOTOV | web nepustí robota (401/403/429/999) — v prehliadači väčšinou funguje; len súhrn po doménach | 16 | 15 |
+| 🟡 VAROVANIE | výpadok / timeout / SSL / presmerovanie v slučke / ⚠️ možná predaná doména → over ručne v prehliadači | 1467 | 1440 |
+| ✅ OK | funguje | 9269 | 9120 |
 
 Vynechané (nekontrolujú sa): 4064 liniek na Facebook/Instagram v poli url, 5269 ikoniek FB a 7366 ikoniek IG (polia fb/ig), 2 prázdnych/nie-webových adries.
 
-## 🔴 MŔTVE (0)
-
-_Žiadne._
-
-## 🔵 PRESŤAHOVANÉ (52)
+## 🔴 MŔTVE (1)
 
 
-### Futbal (6)
+### Hádzaná (1)
+
+| ID | Cesta | Adresa | Dôvod | Od |
+|---|---|---|---|---|
+| `f_had_aso_ja_k5` | Hádzaná › Asociácie › Južná a Stredná Amerika (SCAHC) › Chile | https://www.balonmanochile.com | HTTP 404 – stránka neexistuje | 2026-11-03 |
+
+## 🔵 PRESŤAHOVANÉ (7)
+
+
+### Futbal (1)
 
 | ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
 |---|---|---|---|---|
-| `f_fra_l3_k13` | Futbal › Kluby › Európa › Francúzsko › Ligue 3 › Vendée FC La Roche | https://vfclaroche.com/ | https://vendeefootclub-ry.fr/ | 2026-11-03 |
 | `f_swe_l3n_k6` | Futbal › Kluby › Európa › Švédsko › Ettan Norra › FC Järfälla | https://www.fcjarfalla.se/ | https://fcjarfalla.sportadmin.dev/ | 2026-11-03 |
-| `f_ita_l3c_k20` | Futbal › Kluby › Európa › Taliansko › Serie C – skupina C › Team Altamura | https://teamaltamura.com/ | https://altamuracalcio.com/ | 2026-11-03 |
-| `f_uru_l1_k1` | Futbal › Kluby › Južná Amerika › Uruguaj › Liga AUF Uruguaya › Club Atlético Peñarol | https://www.peñarol.org | https://www.xn--pearol-xwa.org/ | 2026-11-03 |
-| `f_mex_l2_k10` | Futbal › Kluby › Severná a Stredná Amerika › Mexiko › Liga de Expansión MX (2. liga) › Leones Negros UdeG | https://leonesnegrosudg.mx/ | https://leonesnegros.udg.mx/inicio | 2026-11-03 |
-| `n1784202420066m8d` | Futbal › Štatistiky › FCtables | https://www.fctables.com/ | https://www.soccerway.com/ | 2026-11-03 |
 
-### Hokej (5)
+### Hokej (1)
 
 | ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
 |---|---|---|---|---|
-| `f_hok_klu_na_ncdc_k39` | Hokej › Kluby › Severná Amerika › NCDC › Lewiston MAINEiacs | https://www.lewistonmaineiacshockey.com/ | https://www.maineiacshockey.com/ | 2026-11-03 |
 | `f_hok_klu_na_ncdc_k37` | Hokej › Kluby › Severná Amerika › NCDC › Utica Jr. Comets | https://www.uticajrcomets.org/ | https://jrcomets.hockeyshift.com/ | 2026-11-03 |
-| `f_hok_klu_eu_svk_l2_k6` | Hokej › Kluby › Európa › Slovensko › Slovenská hokejová liga › HK Gladiators Trnava | https://www.hktrnava.sk/ | https://hkgladiators.sk/ | 2026-11-03 |
-| `f_hok_klu_eu_nld_l1_k6` | Hokej › Kluby › Európa › Holandsko › Holandská Eredivisie › Heerenveen Flyers | https://www.unisflyers.nl/ | https://heerenveenflyers.com/ | 2026-11-03 |
-| `f_hok_klu_eu_esp_l1_k6` | Hokej › Kluby › Európa › Španielsko › Španielska Liga Nacional › FC Barcelona Hockey Gel | https://www.fcbarcelona.com/es/deportes-amateurs/hockey-hielo | https://www.fcbarcelona.es/es/deportes-amateurs/hockey-hielo/noticias | 2026-11-03 |
 
-### Tenis (17)
+### Hádzaná (3)
 
 | ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
 |---|---|---|---|---|
-| `n1788830000005a5` | Tenis › Turnaje a Súťaže › ATP Tour › ATP 250 › Argentina Open | https://www.argentinaopentennis.com/ | https://iebmasargentinaopen.com/ | 2026-11-03 |
-| `n1788840000007w2h` | Tenis › Turnaje a Súťaže › WTA Tour › WTA 250 › Grand Prix Lalla Meryem | https://gplallameryem.com/ | https://www.gethomeinspector.com/ | 2026-11-03 |
-| `n1788850000002oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › ITF World Tennis Tour – muži | https://www.itftennis.com/en/tours/mens-world-tennis-tour/ | https://www.world.tennis/en/tours/mens-world-tennis-tour/ | 2026-11-03 |
-| `n1788850000003oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › ITF World Tennis Tour – ženy | https://www.itftennis.com/en/tours/womens-world-tennis-tour/ | https://www.world.tennis/en/tours/womens-world-tennis-tour/ | 2026-11-03 |
-| `n1788850000005oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › ITF World Tennis Tour Juniors | https://www.itftennis.com/en/tours/world-tennis-tour-juniors/ | https://www.world.tennis/en/tours/world-tennis-tour-juniors/ | 2026-11-03 |
-| `n1788850000007oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › ITF World Tennis Masters Tour | https://www.itftennis.com/en/tours/world-tennis-masters-tour/ | https://www.world.tennis/en/tours/world-tennis-masters-tour/ | 2026-11-03 |
-| `n1788850000008oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › UNIQLO Wheelchair Tennis Tour | https://www.itftennis.com/en/tours/uniqlo-wheelchair-tennis-tour/ | https://www.world.tennis/en/tours/uniqlo-wheelchair-tennis-tour/ | 2026-11-03 |
-| `n1788850000009oth` | Tenis › Turnaje a Súťaže › Ostatné okruhy › Beach Tennis World Tour | https://www.itftennis.com/en/tours/beach-tennis-tour/ | https://www.world.tennis/en/tours/beach-tennis-tour/ | 2026-11-03 |
-| `n1788860000005dru` | Tenis › Turnaje a Súťaže › Súťaže družstiev › ITF Junior Team Competitions | https://www.itftennis.com/en/tours/junior-team-competitions/ | https://www.world.tennis/en/tours/junior-team-competitions/ | 2026-11-03 |
-| `n1788870000000glo` | Tenis › Asociácie › Globálne › ITF – Medzinárodná tenisová federácia | https://www.itftennis.com/en/ | https://www.world.tennis/en/ | 2026-11-03 |
-| `n1788870000006glo` | Tenis › Asociácie › Globálne › Členské zväzy ITF (adresár) | https://www.itftennis.com/en/about-us/organisation/member-associations/ | https://www.world.tennis/en/about-us/organisation/member-associations/ | 2026-11-03 |
-| `f_ten_spr_k9` | Tenis › Správy a Štatistiky › ITF – World Tennis Tour muži | https://www.itftennis.com/en/rankings/mens-world-tennis-tour-rankings/ | https://www.world.tennis/en/rankings/mens-world-tennis-tour-rankings/ | 2026-11-03 |
-| `f_ten_spr_k10` | Tenis › Správy a Štatistiky › ITF – World Tennis Tour ženy | https://www.itftennis.com/en/rankings/womens-world-tennis-tour-rankings/ | https://www.world.tennis/en/rankings/womens-world-tennis-tour-rankings/ | 2026-11-03 |
-| `f_ten_spr_k11` | Tenis › Správy a Štatistiky › ITF – juniorský rebríček | https://www.itftennis.com/en/rankings/world-tennis-tour-junior-rankings/ | https://www.world.tennis/en/rankings/world-tennis-tour-junior-rankings/ | 2026-11-03 |
-| `f_ten_spr_k12` | Tenis › Správy a Štatistiky › ITF – seniorský rebríček (Masters) | https://www.itftennis.com/en/rankings/world-tennis-masters-tour-rankings/ | https://www.world.tennis/en/rankings/world-tennis-masters-tour-rankings/ | 2026-11-03 |
-| `f_ten_spr_k13` | Tenis › Správy a Štatistiky › ITF – rebríček vozíčkarov | https://www.itftennis.com/en/rankings/uniqlo-wheelchair-tennis-tour-rankings/ | https://www.world.tennis/en/rankings/uniqlo-wheelchair-tennis-tour-rankings/ | 2026-11-03 |
-| `f_ten_spr_k14` | Tenis › Správy a Štatistiky › ITF – rebríček plážového tenisu | https://www.itftennis.com/en/rankings/beach-tennis-tour-rankings/ | https://www.world.tennis/en/rankings/beach-tennis-tour-rankings/ | 2026-11-03 |
-
-### Basketbal (1)
-
-| ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
-|---|---|---|---|---|
-| `f_bas_aso_eu_k23` | Basketbal › Asociácie › Európa › Litva | https://ltu.basketball | https://lietuva.basketball/ | 2026-11-03 |
-
-### Hádzaná (5)
-
-| ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
-|---|---|---|---|---|
-| `f_had_cze_l1_k9` | Hádzaná › Kluby › Európa › Česko › Extraliga › HK Lovosice | https://www.hazenalovosice.cz | https://lovcilovosice.cz/ | 2026-11-03 |
 | `f_had_nor_l3_k13` | Hádzaná › Kluby › Európa › Nórsko › Eliteserien (ženy) › Tertnes Håndball Elite | https://www.tertneshandballelite.no | https://tertneshandball.admin.topphandball.no/ | 2026-11-03 |
 | `f_had_swe_l2_k9` | Hádzaná › Kluby › Európa › Švédsko › Allsvenskan › Kungälvs HK | https://kungalvhk.se/ | https://kungalvhk.web.sportadmin.se/start/ | 2026-11-03 |
 | `f_had_aso_eu_k6` | Hádzaná › Asociácie › Európa › Belgicko | https://www.handballbelgium.be | https://www.clubee.com/handballbelgium | 2026-11-03 |
-| `f_had_sta_k9` | Hádzaná › Správy a Štatistiky › Handballwoche | https://www.handballwoche.de/ | https://www.shz.de/sport/handball/handballwoche | 2026-11-03 |
-
-### Volejbal (16)
-
-| ID | Cesta | Adresa | Navrhovaná nová adresa | Od |
-|---|---|---|---|---|
-| `f_vol_klu_ao_japan_m1_k1` | Volejbal › Kluby › Ázia a Oceánia (AVC) › Japonsko › SV.League mužov › Fragolad Kagoshima | https://fragoladkagoshima.jp/ | https://fragoladkagoshima.team/ | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k1` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Atlanta Vibe | https://provolleyball.com/teams/atlanta-vibe | https://mlvb.com/teams/atlanta-vibe | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k2` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Columbus Fury | https://provolleyball.com/teams/columbus-fury | https://mlvb.com/teams/columbus-fury | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k3` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Dallas Pulse | https://provolleyball.com/teams/dallas-pulse | https://mlvb.com/teams/dallas-pulse | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k4` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › DC Flight | https://provolleyball.com/teams/dc | https://mlvb.com/teams/dc | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k5` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Grand Rapids Rise | https://provolleyball.com/teams/grand-rapids-rise | https://mlvb.com/teams/grand-rapids-rise | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k6` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Indy Ignite | https://provolleyball.com/teams/indy-ignite | https://mlvb.com/teams/indy-ignite | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k7` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Minnesota Forge | https://provolleyball.com/teams/minnesota | https://mlvb.com/teams/minnesota | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k8` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › MLV Los Angeles | https://provolleyball.com/teams/la | https://mlvb.com/teams/la | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k9` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › NorCal Rumble | https://provolleyball.com/teams/norcalrumble | https://mlvb.com/teams/norcalrumble | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k10` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Omaha Supernovas | https://provolleyball.com/teams/omaha-supernovas | https://mlvb.com/teams/omaha-supernovas | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k11` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Orlando Valkyries | https://provolleyball.com/teams/orlando-valkyries | https://mlvb.com/teams/orlando-valkyries | 2026-11-03 |
-| `f_vol_klu_na_united-states_z1_k12` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy) › Vegas Thrill | https://provolleyball.com/teams/vegas-thrill | https://mlvb.com/teams/vegas-thrill | 2026-11-03 |
-| `f_vol_klu_na_united-states_z2_k4` | Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › LOVB Pro (ženy) › LA Orbit | https://www.laorbit.com/ | https://www.lovb.com/teams/la-orbit | 2026-11-03 |
-| `f_vol_aso_eu_wales` | Volejbal › Asociácie › Európa (CEV) › Wales | https://www.volleyballwales.org/ | https://fietsendooreuropa.blog/ | 2026-11-03 |
-| `f_vol_aso_ao_pakistan` | Volejbal › Asociácie › Ázia a Oceánia (AVC) › Pakistan | https://pvf.com.pk/ | https://pakistanvolleyball.pk/ | 2026-11-03 |
 
 ### Správy & Médiá (2)
 
@@ -108,7 +54,7 @@ _Žiadne._
 | `n1782219117578rqz` | Správy & Médiá › Európa › Anglicko › Daily mail sport | https://www.dailymail.co.uk/sport/index.html | https://www.dailymail.com/sport/index.html | 2026-11-03 |
 | `n1782134823796rdi` | Správy & Médiá › Európa › Česko › Seznamspravy sport | https://www.seznamzpravy.cz/sekce/sport-147 | https://cmp.seznam.cz/nastaveni-souhlasu?service=bcr&return_url=https%3A%2F%2Fwww.seznamzpravy.cz%2Fsekce%2Fsport-147%3Fcwreturn%3D1&cwtime=1793664860613&loginstate=forget&cwri=4bcd25913b7ab194e1814fae4e2692b0&reason=missing&service_id=zpravy&cwvariant=cop | 2026-11-03 |
 
-## 🟠 PODOZRIVÉ (zatiaľ 1 beh — netreba hneď opravovať) (29)
+## 🟠 PODOZRIVÉ (zatiaľ 1 beh — netreba hneď opravovať) (28)
 
 
 ### Futbal (7)
@@ -140,13 +86,12 @@ _Žiadne._
 | `f_bas_aso_gl_k8` | Basketbal › Asociácie › Globálne › WABC | https://wabc.fiba.com/ | doména neexistuje (DNS) |
 | `f_bas_aso_ja_k6` | Basketbal › Asociácie › Južná Amerika › Kolumbia | https://www.fecolcesto.org/ | doména neexistuje (DNS) |
 
-### Hádzaná (4)
+### Hádzaná (3)
 
 | ID | Cesta | Adresa | Dôvod |
 |---|---|---|---|
 | `f_had_jpn_l2_k8` | Hádzaná › Kluby › Ázia › Japonsko › League H (ženy) › Kagawa Bank GiraSol Kagawa | https://www.kagawabank.co.jp/about/handball/handball.html | HTTP 404 – stránka neexistuje |
 | `f_had_aso_az_k9` | Hádzaná › Asociácie › Ázia › India | https://haiindia.in | doména neexistuje (DNS) |
-| `f_had_aso_ja_k5` | Hádzaná › Asociácie › Južná a Stredná Amerika (SCAHC) › Chile | https://www.balonmanochile.com | HTTP 404 – stránka neexistuje |
 | `f_had_sta_k21` | Hádzaná › Správy a Štatistiky › Handbolti.is | https://handbolti.is/ | doména neexistuje (DNS) |
 
 ### Volejbal (8)
@@ -170,18 +115,41 @@ _Žiadne._
 | `n1784318324589wds` | Správy & Médiá › Ázia › Bhután › Bhutan Athletics | https://bhutanathletics.org/ | doména neexistuje (DNS) |
 | `n1784461188738hmb` | Správy & Médiá › Ázia › Irak › Al Forat news sport | https://alforatnews.iq/ | doména neexistuje (DNS) |
 
-## 🟡 VAROVANIA (over ručne) (1493)
+## 🚫 BLOKUJÚ ROBOTOV (15 adries na 12 doménach)
+
+Tieto weby nepustia automatickú kontrolu (401/403/429/999), preto strážca nevie, či linka funguje. V prehliadači väčšinou fungujú — netreba ich opravovať. Jednotlivé adresy sú v [sprava.csv](sprava.csv).
+
+| Doména | Adries | Kód |
+|---|---:|---|
+| volleybox.net | 4 | 403 |
+| alghad.com | 1 | 403 |
+| athletic-club.eus | 1 | 403 |
+| basketnews.com | 1 | 403 |
+| hln.be | 1 | 403 |
+| hockeyslovakia.sk | 1 | 403 |
+| iihf.com | 1 | 403 |
+| lsm.lv | 1 | 403 |
+| metsbasketball.com | 1 | 403 |
+| nst.com.my | 1 | 403 |
+| sparta-rotterdam.nl | 1 | 403 |
+| vocketfc.com | 1 | 403 |
+
+## 🟡 VAROVANIA (over ručne) (1467)
+
+### 🟡 ⚠️ over ručne – možná predaná doména (0)
+
+_Žiadne._
+
+### 🟡 Ostatné varovania (1467)
 
 
-### Aktuálne (3)
+#### Aktuálne (1)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
 | `a1784538636873` | ATP scores | https://www.atptour.com/en/scores/current | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `a1788276408695` | Badminton China Masters | https://match-centre.bwfbadminton.com/5625 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `a1788277024343` | Badminton Indonesia Masters | https://match-centre.bwfbadminton.com/5528 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Futbal (467)
+#### Futbal (461)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -212,7 +180,6 @@ _Žiadne._
 | `f_esp_l1_k3` | Athletic Club | https://www.athletic-club.eus/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_esp_l2_k7` | Granada | https://granadacf.es/ | SSL chyba (certifikát): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer cer | 2026-11-03 |
 | `f_esp_r1_k15` | Unionistas | https://www.unionistascf.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_esp_r1_k19` | Athletic Club B | https://www.athletic-club.eus/equipos/bilbao-athletic/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ger_bl_k0` | Bayern Mníchov | https://fcbayern.com/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_ger_bl_k6` | Werder Brémy | https://www.werder.de/ | HTTP 429 – príliš veľa požiadaviek (blokuje robotov) | 2026-11-03 |
 | `f_ger_l3_k19` | TSG Hoffenheim II | https://www.tsg-hoffenheim.de/teams/u23/team | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -257,7 +224,6 @@ _Žiadne._
 | `f_gre_l2_k1` | AEL Larisa | https://www.aelfc.gr/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_gre_l2_k14` | PAOK B | https://www.paokfc.gr/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l1_k3` | Feyenoord Rotterdam | https://www.feyenoord.com/nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_ned_l1_k9` | Sparta Rotterdam | https://www.sparta-rotterdam.nl/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l2_k4` | FC Dordrecht | https://www.fcdordrecht.nl/ | HTTP 400 | 2026-11-03 |
 | `f_ned_l3_k3` | HHC Hardenberg | https://www.hhc.nl/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l3_k5` | Kozakken Boys | https://www.kozakkenboys.nl/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -270,7 +236,6 @@ _Žiadne._
 | `f_ned_l4a_k4` | DVS '33 Ermelo | https://www.dvs33.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l4a_k8` | Harkemase Boys | https://www.harkemaseboys.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l4a_k10` | HVV Hollandia | https://www.hvvhollandia.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_ned_l4a_k11` | VV Hoogeveen | https://www.vvhoogeveen.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l4a_k12` | VPV Purmersteijn | https://www.purmersteijn.eu | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l4a_k15` | Sportlust '46 | https://www.sportlust46.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ned_l4a_k16` | VV Staphorst | https://www.vvstaphorst.nl | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -401,7 +366,6 @@ _Žiadne._
 | `f_sau_l1_k13` | Al-Nassr | https://alnassr.sa | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_mnp_l1_liga` | Marianas Soccer League | https://www.sofascore.com/tournament/football/northern-mariana-islands/msl-1/23694 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_mnp_l1_k2` | Latte FC | https://www.sofascore.com/team/football/latte-fc/1211153 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_mnp_l1_k3` | Matansa FC | https://www.sofascore.com/team/football/matansa-fc/929538 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_lka_l1_k4` | Navy Sea Hawks | https://www.sofascore.com/team/football/navy-sea-hawks/1246519 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_lka_l1_k5` | Blue Eagles | https://www.sofascore.com/team/football/blue-eagles/1246517 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_lka_l1_k7` | Ratnam SC | https://www.sofascore.com/team/football/ratnam-sc/304859 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -571,7 +535,6 @@ _Žiadne._
 | `f_png_l1_liga` | Premier Soccer League | https://footystats.org/papua-new-guinea/national-soccer-league | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_png_l1_k7` | FC Morobe Wawens | https://www.sofascore.com/football/team/fc-morobe-wawens/309619 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_png_l1_k13` | Kula FC | https://www.sofascore.com/football/team/kula-fc/1099184 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_png_l1_k2` | Lae City Dwellers | https://www.sofascore.com/football/team/lae-city-dwellers/483992 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_png_l1_k11` | NCD FC | https://www.sofascore.com/football/team/ncd-fc/1233204 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_png_l1_k5` | PNG Hekari FC | https://www.sofascore.com/football/team/hekari-united-fc/45341 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_png_l1_k9` | Wawa FC | https://www.sofascore.com/football/team/wawa-fc/1233199 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -641,7 +604,6 @@ _Žiadne._
 | `n1784201860550hn3` | Sofascore | https://www.sofascore.com/sk | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17842018890810ne` | Whoscored | https://www.whoscored.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784201962911f50` | FBref | https://fbref.com/en/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `n1784202019084dt0` | Understat | https://understat.com/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `n17842020747244lo` | Soccerstats | https://www.soccerstats.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784202097021f3d` | Footystats | https://footystats.org/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17842022013536h2` | Squawka | https://www.squawka.com/en/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -653,7 +615,7 @@ _Žiadne._
 | `n1784366887968w2h` | Windrawwin | https://www.windrawwin.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17843670020433kq` | Statbunker | https://www.statbunker.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Hokej (135)
+#### Hokej (133)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -717,7 +679,6 @@ _Žiadne._
 | `f_hok_klu_eu_svk_l2_k4` | HC Topoľčany | https://hctopolcany.hockeyslovakia.sk/sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_klu_eu_svk_l2_k11` | HK ‘95 Považská Bystrica | https://hk95pby.hockeyslovakia.sk/sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_klu_eu_svk_l2_k8` | HK Skalica | https://www.hkskalica.sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) (po presmerovaní na hkskalica.hockeyslovakia.sk) | 2026-11-03 |
-| `f_hok_klu_eu_svk_l2_k9` | HK Spartak Dubnica | https://spartakdubnica.hockeyslovakia.sk/sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_klu_eu_svk_l2_k12` | Rytieri Martin | https://mhamartin.hockeyslovakia.sk/sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_klu_eu_cze_l1_liga` | Česko – Tipsport extraliga | https://www.hokej.cz/tipsport-extraliga/table | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_klu_eu_cze_l1_k2` | BK Mladá Boleslav | https://www.bkboleslav.cz/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -762,7 +723,6 @@ _Žiadne._
 | `f_hok_aso_gl_iihfhalloffa` | IIHF Hall of Fame | https://www.iihf.com/en/static/5114/hall-of-fame | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_aso_eu_svk` | Slovensko | https://www.hockeyslovakia.sk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_aso_eu_fin` | Fínsko | https://www.finhockey.fi/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_hok_aso_eu_az` | Azerbajdžán | https://www.iihf.com/en/associations/327/azerbaijan | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_aso_eu_ukr` | Ukrajina | https://fhu.com.ua/ | chyba spojenia: OSError [Errno 101] Network is unreachable | 2026-11-03 |
 | `f_hok_aso_na_ca` | Kanada | https://www.hockeycanada.ca/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_aso_ao_cn` | Čína | https://www.iihf.com/en/associations/334/china | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -793,7 +753,7 @@ _Žiadne._
 | `f_hok_sta_k33` | Jatkoaika | https://www.jatkoaika.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_hok_sta_k37` | The IX Hockey | https://www.theixsports.com/hockey-newsroom/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Tenis (47)
+#### Tenis (47)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -845,7 +805,7 @@ _Žiadne._
 | `f_ten_spr_k33` | Tennis Tonic | https://www.tennistonic.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_ten_spr_k38` | Tennishead | https://tennishead.net/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Basketbal (121)
+#### Basketbal (116)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -869,7 +829,6 @@ _Žiadne._
 | `f_bas_fra_l1_k1` | ASVEL | https://ldlcasvel.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_fra_l1_k8` | JDA Dijon | https://www.jdadijon.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_fra_l1_k10` | Le Mans Sarthe Basket | https://www.msb.fr | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_bas_fra_l2_k6` | Caen Basket Calvados | https://caenbc.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_fra_l3_liga` | Ligue féminine — tabuľka | https://competitions.ffbb.com/competitions/lbwl/classement | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_fra_l3_k4` | C'Chartres Basket Féminin | https://www.avisclient-cbf.fr/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_klu_eu_alb_k3` | Elbasani | https://basketball.eurobasket.com/team/Elbasani/5517 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -897,8 +856,6 @@ _Žiadne._
 | `f_bas_ltu_l1_k10` | Žalgiris Kaunas | https://zalgiris.lt/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_klu_eu_lat_k1` | BK Liepāja | https://www.liepajasbasketbols.lv/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_bas_hun_l1_k4` | Budapesti Honvéd | https://honved.hu/kosarlabda/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_bas_hun_l1_k10` | OSE Lions | https://mvm.oselions.hu | SSL chyba (certifikát): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl. | 2026-11-03 |
-| `f_bas_hun_l3_k3` | DVTK HUNTHERM | https://dvtk.eu/2-kosarlabda-sportag | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_hun_l3_k4` | ELTE BEAC Újbuda | https://kosarlabda.beac.hu/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_hun_l3_k6` | KSC Szekszárd | https://kscszekszard.hu/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_klu_eu_nor_k1` | Ammerud Basket | https://www.ammerudbasket.no | HTTP 401 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -907,7 +864,6 @@ _Žiadne._
 | `f_bas_aut_l1_k1` | BBC Nord Dragonz | https://bbc-nord.at/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_rou_l1_k7` | CSU Sibiu | https://www.csusibiu.ro/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_rou_l3_k1` | ACS Sepsi-SIC | https://sepsi-sic.ro/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_bas_klu_eu_mkd_k6` | Madzari Skopje | https://basketball.eurobasket.com/team/KK-Madzari-2003/67853 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_klu_eu_slo_k8` | Šenčur | https://kksencur.si/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_bas_srb_l1_k19` | Spartak Subotica | https://www.kkspartak.rs/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_srb_l3_k4` | Kraljevo | https://basketball.eurobasket.com/team/Serbia/ZKK-Kraljevo/10549 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -942,7 +898,6 @@ _Žiadne._
 | `f_bas_lby_l1_liga` | Libyan Division I | https://www.sofascore.com/basketball/tournament/libya/libyan-basketball-league/24175 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_lby_l1_k4` | Al-Ittihad | https://ittihadclub.ly/basketball | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_bas_sen_l1_k4` | ASC Ville de Dakar | https://ascvdbasketball.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_bas_pri_l1_k8` | Mets de Guaynabo | https://metsbasketball.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_nzl_l1_k11` | Wellington Saints | https://www.saints.co.nz | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_aso_eu_k21` | Izrael | https://ibasketball.co.il | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_bas_aso_eu_k27` | Malta | https://maltabasketball.web.geniussports.com | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -971,7 +926,7 @@ _Žiadne._
 | `f_bas_sta_k31` | Scoutbasketball | https://scoutbasketball.com/ | HTTP 502 – chyba servera / výpadok | 2026-11-03 |
 | `f_bas_sta_k32` | BeBasket | https://www.bebasket.fr/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Hádzaná (85)
+#### Hádzaná (84)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -1021,7 +976,6 @@ _Žiadne._
 | `f_had_xkx_l1_liga` | Superliga e Kosovës | https://www.sofascore.com/handball/tournament/kosovo/superliga-e-meshkujt/34444 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_had_lva_l1_k1` | ASK/MSĢ | https://www.sofascore.com/handball/team/askmsg/1128494 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_had_lva_l1_k2` | HK Jūrmala | https://jurmalahandbols.lv/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_had_lux_l1_k7` | HC Standard | https://hcstandard.lu/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_had_pol_l1_k2` | Gwardia Opole | https://www.kprgo.pl/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_had_pol_l1_k3` | KS Kielce | https://www.kielcehandball.pl/en/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_had_pol_l1_k5` | MKS Kalisz | https://handball.mks-kalisz.pl/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1061,7 +1015,7 @@ _Žiadne._
 | `f_had_sta_k8` | Handball-World | https://www.handball-world.news/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_had_sta_k14` | Balkan-Handball | https://www.balkan-handball.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Volejbal (208)
+#### Volejbal (203)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -1072,7 +1026,6 @@ _Žiadne._
 | `f_vol_sut_af_ahm` | Africké hry 2027 – muži | https://volleybox.net/men-african-games-2027-o47902 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sut_af_ahz` | Africké hry 2027 – ženy | https://women.volleybox.net/women-african-games-2027-o48255 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sut_af_u20m` | Majstrovstvá Afriky U20 2025 – muži | https://volleybox.net/men-african-championship-u20-2025-o42386 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_vol_sut_af_u20z` | Majstrovstvá Afriky U20 2025 – ženy | https://women.volleybox.net/women-african-championship-u20-2025-o41723 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sut_af_u18z` | Majstrovstvá Afriky U18 2026 – dievčatá | https://women.volleybox.net/women-african-championship-u18-2026-o47321 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sut_af_u16m` | Majstrovstvá Afriky U16 2025 – chlapci | https://volleybox.net/men-2025-boys-african-nations-volleyball-championship-u16-2025-o44646 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sut_af_cavb` | CAVB | https://cavb.africa/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1181,7 +1134,6 @@ _Žiadne._
 | `f_vol_klu_ao_vietnam_m1_k3` | Đà Nẵng | https://volleybox.net/da-nang-t22336 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ao_vietnam_m1_k5` | Ninh Bình | https://volleybox.net/lp-bank-ninh-binh-t3030 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ao_vietnam_m1_k6` | Sanest Khánh Hòa | https://volleybox.net/sanest-khanh-hoa-t3593 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_vol_klu_ao_vietnam_m1_k8` | TP. Hồ Chí Minh | https://volleybox.net/tp-ho-chi-minh-t7689 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ao_vietnam_z1_liga` | Volleyball Vietnam League | https://women.volleybox.net/women-vietnam-league-tt528 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ao_vietnam_z1_k5` | Ngân hàng Công Thương | https://women.volleybox.net/vietinbank-t5123 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ao_vietnam_z1_k6` | Ninh Bình | https://women.volleybox.net/lp-bank-ninh-binh-t15550 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1189,7 +1141,6 @@ _Žiadne._
 | `f_vol_klu_af_algeria_m1_k4` | EF Aïn Azel | https://volleybox.net/fanar-ain-azel-t7586 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_af_algeria_m1_k5` | ES Bethioua | https://volleybox.net/es-bethioua-t10878 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_af_algeria_m1_k7` | ES Sétif | https://volleybox.net/es-setif-t5530 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_vol_klu_af_algeria_m1_k11` | MC Alger | https://volleybox.net/mc-alger-t5532 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_af_algeria_m1_k15` | OMK El Milia | https://volleybox.net/omk-el-milia-t6517 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_af_algeria_z1_liga` | Alžírska liga žien | https://women.volleybox.net/women-algerian-league-tt999 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_af_algeria_z1_k5` | MC Alger | https://women.volleybox.net/mc-alger-t2391 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1249,7 +1200,6 @@ _Žiadne._
 | `f_vol_klu_ja_bolivia_m1_liga` | Liga Superior mužov | https://volleybox.net/men-liga-boliviana-de-voleibol-masculino-tt5699 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ja_bolivia_z1_liga` | Liga Superior žien | https://women.volleybox.net/women-bolivian-league-tt5452 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ja_bolivia_z1_k5` | San Simón | https://women.volleybox.net/universidad-mayor-de-san-simon-t6053 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_vol_klu_ja_bolivia_z1_k6` | Universitario | https://women.volleybox.net/club-universitario-t52705 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ja_brazil_m1_k6` | Praia Clube | https://praiaclube.org.br/volei-masculino/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ja_brazil_m1_k7` | Sada Cruzeiro | https://www.sadacruzeiro.com.br/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_klu_ja_brazil_z1_k10` | Praia Clube | https://praiaclube.org.br/volei-feminino/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1270,11 +1220,10 @@ _Žiadne._
 | `f_vol_aso_af_uganda` | Uganda | https://x.com/Ugvolley | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_aso_na_belize` | Belize | https://www.belizevolleyball.bz/ | timeout (web neodpovedal včas) | 2026-11-03 |
 | `f_vol_aso_na_canada` | Kanada | https://volleyball.ca/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `f_vol_aso_ja_french-guiana` | Francúzska Guyana | https://volleyballguyane.fr/ | HTTP 500 – chyba servera / výpadok | 2026-11-03 |
 | `f_vol_sta_k5` | Volleybox | https://volleybox.net/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `f_vol_sta_k6` | Volleybox – ženy | https://women.volleybox.net/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Zimné športy (21)
+#### Zimné športy (21)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -1300,7 +1249,7 @@ _Žiadne._
 | `n17931434659855ey` | ISMF ranking | https://www.dataskimo.org/ranking.php | HTTP 500 – chyba servera / výpadok | 2026-11-03 |
 | `n17931434659884m7` | TNT ski mountaineering | https://www.tntsports.co.uk/ski-mountaineering/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Ostatné športy (76)
+#### Ostatné športy (76)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -1381,7 +1330,7 @@ _Žiadne._
 | `n1793277203253pad` | WeCourts | https://wecourts.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1793277203260pad` | Svenska Padelförbundet | https://svenskpadel.se/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Správy & Médiá (329)
+#### Správy & Médiá (324)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
@@ -1411,7 +1360,6 @@ _Žiadne._
 | `n17823875005979wx` | Sport5 | https://sport5.by/ | server prerušil spojenie | 2026-11-03 |
 | `n1782387568377eka` | SB | https://www.sb.by/articles/main_sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1782387799239f20` | Tochka sport | https://tochka.by/articles/sport/ | timeout (web neodpovedal včas) | 2026-11-03 |
-| `n1782400247020fvv` | HLN sport | https://www.hln.be/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1782400314298anx` | Nieuwsblad sport | https://www.nieuwsblad.be/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1782400348730hdg` | Le Soir sport | https://www.lesoir.be/13/sections/sports | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1782400768595qu7` | De Morgen sport | https://www.demorgen.be/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1442,7 +1390,6 @@ _Žiadne._
 | `n1783719217264jd8` | Jatkoaika | https://www.jatkoaika.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17837198376938rw` | SDNA | https://www.sdna.gr/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783720194119c8j` | Eleftheros Typos sports | https://www.eleftherostypos.gr/sports | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `n1783720549877wpu` | Greek Reporter sports | https://greekreporter.com/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17837530038332c0` | De Telegraaf sport | https://www.telegraaf.nl/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783753062575hyn` | AD Sportwereld | https://www.ad.nl/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783753184382um3` | NU.nl sport | https://www.nu.nl/sport | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1479,7 +1426,6 @@ _Žiadne._
 | `n1783775799189hsq` | Kauno diena sport | https://kauno.diena.lt/naujienos/sportas | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783775861869u0y` | Klaipėda sport | https://klaipeda.diena.lt/naujienos/sportas | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n17837759626742f6` | Sportazinas | https://www.sportazinas.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `n1783776020999iu1` | LSM sports | https://www.lsm.lv/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783776212164q7x` | TV3 sports | https://tv3.lv/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783776365674h9m` | Liepajniekiem sports | https://www.liepajniekiem.lv/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1783777886043t58` | Wort sport | https://www.wort.lu/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1637,7 +1583,6 @@ _Žiadne._
 | `n17847113827268n8` | NNA sports | https://www.nna-leb.gov.lb/ar/categories/9/sports | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784711690461g5e` | Makanbola | https://makanbola.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784711774328czd` | Harimau Malaya | https://harimaumalaya.com.my/ | SSL chyba (certifikát): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer cer | 2026-11-03 |
-| `n1784711956317exz` | Vocket FC | https://vocketfc.com/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n178471222172095h` | Berita Harian sukan | https://www.bharian.com.my/sukan | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n178471226182161k` | Sin Chew Daily sport | https://www.sinchew.com.my/category/%E4%BD%93%E8%82%B2 | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784712326182o1b` | Daily Express sports | https://www.dailyexpress.com.my/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1676,7 +1621,6 @@ _Žiadne._
 | `n1784753362098uiu` | Sabq sports | https://sabq.org/category/sports | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784753779523mlo` | Elaph sports | https://elaph.com/sports.html | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784754937128pp7` | Sri Lanka Cricket | https://srilankacricket.lk/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
-| `n17847552167999s4` | The Island sports | https://island.lk/category/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784755288929gvt` | Dinamina sports | https://www.dinamina.lk/category/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784755343163zcc` | Daily News sports | https://dailynews.lk/category/sports/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1784755412851634` | Sunday Observer sports | https://www.sundayobserver.lk/category/sport/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
@@ -1715,7 +1659,7 @@ _Žiadne._
 | `n1786816941010wsc` | Grande Prêmio | https://grandepremio.com/br/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 | `n1786817579438dp5` | BOL Esporte | https://www.bol.uol.com.br/esporte/ | HTTP 403 – prístup zamietnutý (web asi blokuje robotov) | 2026-11-03 |
 
-### Tipovanie (1)
+#### Tipovanie (1)
 
 | ID | Cesta | Adresa | Dôvod | Od |
 |---|---|---|---|---|
