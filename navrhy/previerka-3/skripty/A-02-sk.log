@@ -1,0 +1,828 @@
+{
+ "site": "sk",
+ "pages": [
+  {
+   "page": "/volejbal/kluby/europa-cev/cierna-hora/epcg-superliga-muzov/",
+   "cas": {
+    "appkaMs": 122,
+    "appkaAbsMs": 181,
+    "vykresleneMs": 250,
+    "celeDataMs": 433,
+    "firstPaint": "first-paint=68,first-contentful-paint=68",
+    "udalosti": [
+     [
+      "framenavigated",
+      17,
+      "pa-cev/cierna-hora/epcg-superliga-muzov/"
+     ],
+     [
+      "domcontentloaded",
+      37
+     ],
+     [
+      "load",
+      37
+     ],
+     [
+      "framenavigated",
+      86,
+      "pa-cev/cierna-hora/epcg-superliga-muzov/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "EPCG Superliga mužov — Čierna Hora · Volejbal — Športové Linky",
+    "h1": " EPCG Superliga mužov",
+    "folders": 0,
+    "links": 7,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "EPCG Superliga mužov — Čierna Hora · Volejbal — Športové Linky",
+    "h1": "EPCG Superliga mužov",
+    "folders": 0,
+    "links": 7,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820533486",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/volejbal/kluby/afrika-cavb/namibia/",
+   "cas": {
+    "appkaMs": 154,
+    "appkaAbsMs": 210,
+    "vykresleneMs": 622,
+    "celeDataMs": 631,
+    "firstPaint": "first-paint=72,first-contentful-paint=72",
+    "udalosti": [
+     [
+      "framenavigated",
+      22,
+      "8123/volejbal/kluby/afrika-cavb/namibia/"
+     ],
+     [
+      "domcontentloaded",
+      33
+     ],
+     [
+      "load",
+      34
+     ],
+     [
+      "framenavigated",
+      82,
+      "8123/volejbal/kluby/afrika-cavb/namibia/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Namíbia — Afrika (CAVB) · Volejbal — Športové Linky",
+    "h1": " Namíbia",
+    "folders": 1,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Namíbia — Afrika (CAVB) · Volejbal — Športové Linky",
+    "h1": "Namíbia",
+    "folders": 1,
+    "links": 0,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820535296",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/volejbal/kluby/juzna-amerika-csv/bolivia/liga-superior-muzov/",
+   "cas": {
+    "appkaMs": 136,
+    "appkaAbsMs": 219,
+    "vykresleneMs": 410,
+    "celeDataMs": 489,
+    "firstPaint": "first-paint=84,first-contentful-paint=84",
+    "udalosti": [
+     [
+      "framenavigated",
+      40,
+      "amerika-csv/bolivia/liga-superior-muzov/"
+     ],
+     [
+      "domcontentloaded",
+      48
+     ],
+     [
+      "load",
+      48
+     ],
+     [
+      "framenavigated",
+      95,
+      "amerika-csv/bolivia/liga-superior-muzov/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Liga Superior mužov — Bolívia · Volejbal — Športové Linky",
+    "h1": " Liga Superior mužov",
+    "folders": 0,
+    "links": 8,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Liga Superior mužov — Bolívia · Volejbal — Športové Linky",
+    "h1": "Liga Superior mužov",
+    "folders": 0,
+    "links": 8,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820537284",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/spravy-media/europa/skotsko/",
+   "cas": {
+    "appkaMs": 103,
+    "appkaAbsMs": 193,
+    "vykresleneMs": 298,
+    "celeDataMs": 430,
+    "firstPaint": "first-paint=116,first-contentful-paint=116",
+    "udalosti": [
+     [
+      "framenavigated",
+      24,
+      ".0.0.1:8123/spravy-media/europa/skotsko/"
+     ],
+     [
+      "domcontentloaded",
+      36
+     ],
+     [
+      "load",
+      38
+     ],
+     [
+      "framenavigated",
+      138,
+      ".0.0.1:8123/spravy-media/europa/skotsko/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Škótsko — Európa · Správy & Médiá — Športové Linky",
+    "h1": " Škótsko",
+    "folders": 0,
+    "links": 18,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Škótsko — Európa · Správy & Médiá — Športové Linky",
+    "h1": "Škótsko",
+    "folders": 0,
+    "links": 18,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820539172",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/hadzana/kluby/europa/grecko/",
+   "cas": {
+    "appkaMs": 90,
+    "appkaAbsMs": 131,
+    "vykresleneMs": 179,
+    "celeDataMs": 335,
+    "firstPaint": "first-paint=48,first-contentful-paint=48",
+    "udalosti": [
+     [
+      "framenavigated",
+      21,
+      ".0.0.1:8123/hadzana/kluby/europa/grecko/"
+     ],
+     [
+      "domcontentloaded",
+      33
+     ],
+     [
+      "load",
+      33
+     ],
+     [
+      "framenavigated",
+      62,
+      ".0.0.1:8123/hadzana/kluby/europa/grecko/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Grécko — Európa · Hádzaná — Športové Linky",
+    "h1": " Grécko",
+    "folders": 1,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Grécko — Európa · Hádzaná — Športové Linky",
+    "h1": "Grécko",
+    "folders": 1,
+    "links": 0,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820540933",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/spravy-media/azia/iran/",
+   "cas": {
+    "appkaMs": 118,
+    "appkaAbsMs": 156,
+    "vykresleneMs": 257,
+    "celeDataMs": 384,
+    "firstPaint": "first-paint=44,first-contentful-paint=44",
+    "udalosti": [
+     [
+      "framenavigated",
+      14,
+      "//127.0.0.1:8123/spravy-media/azia/iran/"
+     ],
+     [
+      "domcontentloaded",
+      22
+     ],
+     [
+      "load",
+      22
+     ],
+     [
+      "framenavigated",
+      59,
+      "//127.0.0.1:8123/spravy-media/azia/iran/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Irán — Ázia · Správy & Médiá — Športové Linky",
+    "h1": " Irán",
+    "folders": 0,
+    "links": 15,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Irán — Ázia · Správy & Médiá — Športové Linky",
+    "h1": "Irán",
+    "folders": 0,
+    "links": 15,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820542633",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/hadzana/kluby/europa/slovensko/mol-liga-zeny/",
+   "cas": {
+    "appkaMs": 108,
+    "appkaAbsMs": 164,
+    "vykresleneMs": 246,
+    "celeDataMs": 418,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      18,
+      "na/kluby/europa/slovensko/mol-liga-zeny/"
+     ],
+     [
+      "domcontentloaded",
+      35
+     ],
+     [
+      "load",
+      35
+     ],
+     [
+      "framenavigated",
+      62,
+      "na/kluby/europa/slovensko/mol-liga-zeny/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "MOL liga (ženy) — Slovensko · Hádzaná — Športové Linky",
+    "h1": " MOL liga (ženy)",
+    "folders": 0,
+    "links": 5,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "MOL liga (ženy) — Slovensko · Hádzaná — Športové Linky",
+    "h1": "MOL liga (ženy)",
+    "folders": 0,
+    "links": 5,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820544343",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/basketbal/kluby/europa/azerbajdzan/",
+   "cas": {
+    "appkaMs": 93,
+    "appkaAbsMs": 138,
+    "vykresleneMs": 191,
+    "celeDataMs": 318,
+    "firstPaint": "first-paint=72,first-contentful-paint=72",
+    "udalosti": [
+     [
+      "framenavigated",
+      12,
+      "8123/basketbal/kluby/europa/azerbajdzan/"
+     ],
+     [
+      "domcontentloaded",
+      26
+     ],
+     [
+      "load",
+      27
+     ],
+     [
+      "framenavigated",
+      70,
+      "8123/basketbal/kluby/europa/azerbajdzan/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Azerbajdžán — Európa · Basketbal — Športové Linky",
+    "h1": " Azerbajdžán",
+    "folders": 0,
+    "links": 9,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Azerbajdžán — Európa · Basketbal — Športové Linky",
+    "h1": "Azerbajdžán",
+    "folders": 0,
+    "links": 9,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820546105",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/ostatne-sporty/kanoistika/",
+   "cas": {
+    "appkaMs": 81,
+    "appkaAbsMs": 144,
+    "vykresleneMs": 338,
+    "celeDataMs": 590,
+    "firstPaint": "first-paint=64,first-contentful-paint=64",
+    "udalosti": [
+     [
+      "framenavigated",
+      22,
+      "27.0.0.1:8123/ostatne-sporty/kanoistika/"
+     ],
+     [
+      "domcontentloaded",
+      33
+     ],
+     [
+      "load",
+      33
+     ],
+     [
+      "framenavigated",
+      84,
+      "27.0.0.1:8123/ostatne-sporty/kanoistika/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Kanoistika — Ostatné športy — Športové Linky",
+    "h1": "🚣 Kanoistika",
+    "folders": 0,
+    "links": 14,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Kanoistika — Ostatné športy — Športové Linky",
+    "h1": "🚣 Kanoistika",
+    "folders": 0,
+    "links": 14,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820547803",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/tenis/akademie-a-univerzity/narodne-treningove-centra/",
+   "cas": {
+    "appkaMs": 100,
+    "appkaAbsMs": 156,
+    "vykresleneMs": 292,
+    "celeDataMs": 527,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      19,
+      "-a-univerzity/narodne-treningove-centra/"
+     ],
+     [
+      "domcontentloaded",
+      46
+     ],
+     [
+      "load",
+      47
+     ],
+     [
+      "framenavigated",
+      81,
+      "-a-univerzity/narodne-treningove-centra/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Národné tréningové centrá — Akadémie a univerzity — Športové Linky",
+    "h1": "🎾 Národné tréningové centrá",
+    "folders": 0,
+    "links": 14,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Národné tréningové centrá — Akadémie a univerzity — Športové Linky",
+    "h1": "🎾 Národné tréningové centrá",
+    "folders": 0,
+    "links": 14,
+    "akt": [
+     "🎾\nATP scores",
+     "🎾\nWTA scores",
+     "🏓\nTT Star series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "/aktualne.json?t=1793820549766",
+    "/version.txt",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  }
+ ],
+ "bliknutie": {
+  "page": "/volejbal/kluby/europa-cev/cierna-hora/epcg-superliga-muzov/",
+  "shots": [
+   {
+    "d": 20,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 60,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 120,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 250,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 600,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 1500,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,158 @@
+Popisy — anomálie:
+  desc-dlhy                    167
+  desc-kratky                  7
+  desc-neviditelne-znaky       1
+  desc-todo                    1
+  desc_en-dlhy                 237
+  desc_en-kratky               18
+  desc_en-po-slovensky         569
+  desc_en-rovnaky-ako-nazov    9
+  desc_en-todo                 3
+  dĺžky desc (koš po 50): [(0, 705), (50, 6810), (100, 4461), (150, 3160), (200, 798), (250, 292), (300, 122), (350, 29), (400, 14), (450, 3), (500, 1)]
+  dĺžky desc_en (koš po 50): [(0, 709), (50, 5989), (100, 4903), (150, 2876), (200, 1346), (250, 326), (300, 173), (350, 43), (400, 20), (450, 6), (500, 4)]
+  priemerná dĺžka desc liniek: 113.9 medián: 101
+
+  desc — najčastejšie prvé 3 slová (top 15):
+       378  klub z mesta
+       138  tabuľka volejbalovej súťaže
+        78  klub zo štvrte
+        71  tabuľka hádzanárskej súťaže
+        69  klub z hlavného
+        66  oficiálny instagramový profil
+        43  turnaj na tvrdom
+        43  klub z obce
+        40  klub z prístavného
+        40  súpiska ženského tenisového
+        40  súpiska mužského tenisového
+        37  tradičný klub z
+        37  klub založený v
+        27  klub z provincie
+        24  mladý klub z
+  desc — najčastejšie prvých 6 slov (top 10):
+         9  halový turnaj na tvrdom povrchu v
+         7  alexandria — klub založený v roku
+         6  las palmas de gran canaria —
+         4  turnaj na tvrdom povrchu v areáli
+         4  klub z paramaribo založený v roku
+         4  klub z dili založený v roku
+         4  severoamerická a karibská časť ihf trophy
+         4  oficiálny instagramový profil amerického tenistu.
+         4  oficiálny instagramový profil českého tenistu.
+         4  oficiálny instagramový profil českej hráčky, ktorá
+
+  desc_en — najčastejšie prvé 3 slová (top 15):
+       814  club from the
+       190  the city of
+        88  club of the
+        80  roster of the
+        70  the b reserve
+        66  official instagram profile
+        60  a club from
+        43  a hard-court event
+        42  traditional club from
+        40  official facebook of
+        38  official website of
+        36  club founded in
+        26  hong kong —
+        24  young club from
+        23  a clay-court event
+  desc_en — najčastejšie prvých 6 slov (top 10):
+        40  club from the port city of
+        15  official instagram profile of the czech
+        14  official instagram profile of the american
+        13  club from the mining town of
+        12  club from the coastal town of
+        10  the b reserve team of fc
+         8  club from the small town of
+         8  club from the border town of
+         7  club from the port town of
+         7  official instagram profile of the russian
+
+  rovnaký desc pri viacerých linkách: 17 textov, 39 liniek
+       4  oficiálny instagramový profil amerického tenistu.  (napr. Tenis › Hráči › Muži › Ben Shelton)
+       4  oficiálny instagramový profil českého tenistu.  (napr. Tenis › Hráči › Muži › Jiří Lehečka)
+       3  singapur — klub singapurskej national basketball league.  (napr. Basketbal › Kluby › Ázia › Singapur › NBL › Chong Ghee)
+       2  klub hrajuci najvyssiu mauretansku futbalovu sutaz ligue 1.  (napr. Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › Nzeidane)
+       2  klub z kontinentálneho regiónu krajiny, novopostúpený do sezóny 2025/26.  (napr. Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Continental › Sporting de Guinea Ecuatorial)
+       2  klub rovníkovej guiney hrajúci najvyššiu súťaž v sezóne 2025/26.  (napr. Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › ADAMM)
+       2  klub založený v roku 2007.  (napr. Futbal › Kluby › Európa › Gibraltár › Gibraltar Football League › Lynx FC)
+       2  klub založený v roku 1984.  (napr. Futbal › Kluby › Ázia › Guam › Budweiser G League › Sidekick Soccer Club)
+
+Linky bez name_en, kde názov vyzerá prekladateľný (krajina/pojem/slov. slovo): 201
+  podľa sekcie: [('Volejbal', 92), ('Futbal', 45), ('Hádzaná', 37), ('Ostatné športy', 10), ('Zimné športy', 6), ('Hokej', 6), ('Basketbal', 3), ('Správy & Médiá', 2)]
+  z toho linky ligy (order -1): 160
+  dôvod: Counter({'inde preložené ako': 126, 'slovenské slovo': 75})
+     Zimné športy › Alpské lyžovanie › FIS stats | inde preložené ako: FIS Stats
+     Zimné športy › Alpské lyžovanie › FIS standings | inde preložené ako: FIS Standings
+     Zimné športy › Beh na lyžiach › FIS stats | inde preložené ako: FIS Stats
+     Zimné športy › Beh na lyžiach › FIS standings | inde preložené ako: FIS Standings
+     Zimné športy › Skoky na lyžiach › FIS stats | inde preložené ako: FIS Stats
+     Zimné športy › Skoky na lyžiach › FIS standings | inde preložené ako: FIS Standings
+     Ostatné športy › Futsal › Futsal Česko | slovenské slovo: Česko
+     Ostatné športy › Golf › Golf Česko | slovenské slovo: Česko
+     Ostatné športy › Vodné pólo › Svetový pohár muži 2026 | slovenské slovo: pohár
+     Ostatné športy › Vodné pólo › Svetový pohár ženy 2026 | slovenské slovo: pohár
+     Ostatné športy › Florbal › Český floorball | slovenské slovo: Český
+     Správy & Médiá › Európa › Česko › České noviny | slovenské slovo: České
+Priečinky s name_en == name, hoci názov vyzerá slovensky: 38
+     Futbal › Kluby › Európa › Anglicko › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Európa › Česko › Chance Národní Liga | slovo: Národní
+     Futbal › Kluby › Európa › Dánsko › Superliga | inde: ['Superleague', 'Super League']
+     Futbal › Kluby › Európa › Kosovo › Superliga | inde: ['Superleague', 'Super League']
+     Futbal › Kluby › Európa › Malta › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Európa › Arménsko › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Európa › Kazachstan › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Európa › Azerbajdžán › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Ázia › Jordánsko › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Botswana › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Burkina Faso › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Ghana › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Keňa › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Lesotho › Premier League | inde: ['Belarusian Premier League']
+     Futbal › Kluby › Afrika › Seychely › Premier League | inde: ['Belarusian Premier League']
+Linky s name_en == name, hoci názov vyzerá slovensky: 2
+     Tenis › Správy a Štatistiky › České srdce = Tenisové srdce | slovo: České
+     Hokej › Kluby › Severná Amerika › QMJHL › QMJHL – Quebec Maritimes Junior Hockey League | inde: ['QMJHL – Quebec Major Junior Hockey League']
+
+SK názov preložený viacerými spôsobmi: 47
+     ['Turecko', 'Turkey (9); Türkiye (3)']
+     ['Superliga mužov', 'Superliga (men) (5); Bulgarian Super Volley (men) (1); Slovenian Superliga (men) (1); Croatian Superliga (men) (1); Super League Men (1); Superliga Men (1)']
+     ['Severná a Stredná Amerika', 'North & Central America (7); North and Central America (1)']
+     ['Pobrežie Slonoviny', "Ivory Coast (7); Côte d'Ivoire (1)"]
+     ['Superliga žien', 'Superliga (women) (3); Bulgarian Super League (women) (1); Slovenian Superliga (women) (1); Croatian Superliga (women) (1); Super League Women (1); Superliga Women (1)']
+     ['Superliga', 'Superleague (2); Super League (2); Albanian Superliga (1); Georgian Superleague (1); Kosovo Superliga (1)']
+     ['Veľká Británia', 'Great Britain (4); United Kingdom (2)']
+     ['Turks a Caicos', 'Turks and Caicos (4); Turks and Caicos Islands (1)']
+     ['Extraliga žien', "Extraliga (women) (1); Czech Extraliga (women) (1); Slovak Extraliga (women) (1); Hungarian Extraliga (women) (1); Slovak Women's Extraliga (1)"]
+     ['Primera División žien', 'Primera División (women) (3); Primera División (women) — standings (1); Nicaragua Primera División (women) (1)']
+     ['Superliga (ženy)', 'Superliga (women) (3); Superleague (women) (1)']
+     ['Prva liga', 'First League (2); Prva Liga (1)']
+     ['Extraliga mužov', 'Czech Extraliga (men) (1); Slovak Extraliga (men) (1); Hungarian Extraliga (men) (1)']
+     ['Primera División mužov', 'Primera División (men) (2); Primera División (men) — standings (1)']
+     ['MS ženy U20 2026', 'World Cup women U20 2026 (1); World Championship U20 women 2026 (1)']
+
+Názvy — anomálie:
+  name-domena-v-nazve          45
+  name-interpunkcia-na-konci   9
+  name-todo                    1
+  name-vsetko-velke            3
+  name_en-domena-v-nazve       4
+  name_en-interpunkcia-na-konci 1
+  name_en-vsetko-velke         2
+
+Štítok LIGA (order -1): 800
+  listové priečinky v sekciách Kluby: 789; bez linky ligy (order -1): 6
+   podľa sekcie: [('Futbal', 4), ('Hádzaná', 2)]
+  linky ligy bez spoločného slova s názvom priečinka (hrubý test): 57
+     Ázia → ATF – Ázijská tenisová federácia | https://www.asiantennis.com/
+     NB I → NB I | https://www.soccerway.com/hungary/nb-i/standings/
+     NB II → NB II | https://www.soccerway.com/hungary/nb-ii/standings/
+     NB I → NB I | https://www.flashscore.com/handball/hungary/nb-i/standings/
+     División de Honor (ženy) → Liga Guerreras Iberdrola | https://www.flashscore.com/handball/spain/division-de-honor-women/standings/
+     Afrika → CAT – Konfederácia afrického tenisu | https://www.facebook.com/profile.php?id=100063177672344
+     Slovenská extraliga → Slovensko – Tipsport liga | https://www.flashscore.com/hockey/slovakia/tipsport-liga/standings/
+     Nemecká DEL → Nemecko – Deutsche Eishockey Liga | https://www.penny-del.org/tabelle
+     Poľská PHL → Poľsko – Polska Hokej Liga | https://www.flashscore.com/hockey/poland/polish-hockey-league/standings/
+     Slovinská hokejová liga → Slovinsko – Državno prvenstvo | https://hokej.si/stat/?stat_c=240
+  linky order -1 mimo Kluby: 17 ['Tenis › Asociácie › Európa › Tennis Europe', 'Tenis › Asociácie › Ázia › ATF – Ázijská tenisová federácia', 'Tenis › Asociácie › Severná Amerika a Karibik › COTECC – Konfederácia tenisu Strednej Ameriky a Karibiku', 'Tenis › Asociácie › Oceánia › OTF – Oceánska tenisová federácia', 'Tenis › Asociácie › Južná Amerika (COSAT) › COSAT – Juhoamerická tenisová konfederácia', 'Tenis › Asociácie › Afrika › CAT – Konfederácia afrického tenisu', 'Hádzaná › Handball extraliga – výsledky a tabuľka', 'Hádzaná › 1. liga muži – výsledky a tabuľka']
+  hosty liniek ligy: [('soccerway.com', 182), ('flashscore.com', 163), ('sofascore.com', 25), ('volleybox.net', 24), ('women.volleybox.net', 12), ('footystats.org', 9), ('afrobasket.com', 9), ('rsssf.org', 7), ('slovakhandball.sk', 6), ('basketball.asia-basket.com', 6), ('spfl.co.uk', 4), ('globalsportsarchive.com', 4)]

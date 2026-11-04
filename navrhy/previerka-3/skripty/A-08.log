@@ -1,0 +1,393 @@
+{
+ "strany": [
+  {
+   "base": "SK",
+   "p": "/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "EN",
+   "p": "/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/asociacie/severna-a-stredna-amerika/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/severna-a-stredna-amerika/aruba/division-di-honor/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/europa/armensko/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/basketbal/kluby/azia/cinske-taipei/tpbl/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/severna-a-stredna-amerika/portoriko/liga-puerto-rico-pro-lpr/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/europa/faerske-ostrovy/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/spravy-media/europa/francuzsko/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/afrika/madagaskar/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/severna-a-stredna-amerika/kajmanske-ostrovy/cifa-premier-league/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/spravy-media/europa/holandsko/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/severna-a-stredna-amerika-norceca/martinik/championnat-de-martinique-muzov/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/afrika/maroko/botola-pro-2/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/oceania/novy-zeland/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 5
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/azia/iran/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/europa-cev/chorvatsko/superliga-zien/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/oceania/americka-samoa/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/europa-cev/ukrajina/superliga-muzov/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/hadzana/kluby/europa/nemecko/2-handball-bundesliga/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/juzna-amerika-csv/kolumbia/superliga-muzov/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/azia-a-oceania-avc/bahrajn/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/azia-a-oceania-avc/libanon/libanonska-1-divizia-muzov/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/azia/australia/a-league-men/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/europa-cev/norsko/mizunoligaen-zien/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/severna-a-stredna-amerika/guadeloupe/regionale-1/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/hokej/kluby/europa/slovensko/slovenska-extraliga/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/hokej/kluby/europa/island/islandska-toppdeild-karla/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/volejbal/kluby/europa-cev/cierna-hora/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/hokej/kluby/severna-amerika/ahl/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/juzna-amerika/kolumbia/primera-a/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "SK",
+   "p": "/futbal/kluby/severna-a-stredna-amerika/guyana/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "EN",
+   "p": "/football/clubs/europe/switzerland/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/volleyball/clubs/europe-cev/england/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/handball/clubs/africa/algeria/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/volleyball/clubs/africa-cavb/egypt/egyptian-womens-volleyball-league/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/handball/clubs/europe/czech-republic/mol-liga-women/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/football/clubs/europe/northern-ireland/nifl-championship/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/basketball/clubs/africa/south-africa/basketball-national-league/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "EN",
+   "p": "/football/associations/asia/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "SK",
+   "p": "/aktualne/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 3
+  },
+  {
+   "base": "EN",
+   "p": "/live-this-week/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 2
+  },
+  {
+   "base": "SK",
+   "p": "/tipovanie/",
+   "errors": [],
+   "console": [],
+   "csp": [],
+   "failed": [],
+   "ext": 5
+  }
+ ],
+ "suhrn": {},
+ "odpovede4xx": {}
+}

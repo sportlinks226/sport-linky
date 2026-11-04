@@ -1,0 +1,8 @@
+SK domov gzip 8135, CPU 4×, rýchla sieť: FCP 220 ms | /aktualne.json @513 parse 1 ms | load @528 | /data.json @935 parse 96 ms | dlhé úlohy: 93+112, 297+146, 538+183, 728+178, 925+190
+SK domov gzip 8135, CPU 1×, rýchla sieť: FCP 128 ms | /aktualne.json @118 parse 0 ms | load @120 | /data.json @238 parse 29 ms | dlhé úlohy: 18+67, 136+64
+EN domov gzip 8136, CPU 4×, rýchla sieť: FCP 228 ms | /aktualne.json @365 parse 1 ms | load @370 | /data.json @704 parse 107 ms | dlhé úlohy: 81+136, 218+90, 382+155, 545+142, 692+192
+EN domov gzip 8136, CPU 1×, rýchla sieť: FCP 136 ms | /aktualne.json @118 parse 0 ms | load @120 | /data.json @207 parse 28 ms | dlhé úlohy: 17+72, 205+51
+SK domov gzip 8135 (2. meranie), CPU 4×, rýchla sieť: FCP 284 ms | /aktualne.json @536 parse 0 ms | load @550 | /data.json @973 parse 96 ms | dlhé úlohy: 72+194, 318+129, 561+202, 773+179, 963+181
+SK domov gzip 8135 (2. meranie), CPU 1×, rýchla sieť: FCP 144 ms | /aktualne.json @124 parse 0 ms | load @127 | /data.json @215 parse 32 ms | dlhé úlohy: 17+83, 213+52
+SK sekcia Anglicko gzip, CPU 4×, rýchla sieť: FCP 128 ms | load @64 | /aktualne.json @616 parse 2 ms | /data.json @1047 parse 89 ms | dlhé úlohy: 154+364, 637+206, 851+177, 1037+232
+SK sekcia Anglicko gzip, CPU 1×, rýchla sieť: FCP 36 ms | load @17 | /aktualne.json @126 parse 0 ms | /data.json @212 parse 26 ms | dlhé úlohy: 31+72, 210+52

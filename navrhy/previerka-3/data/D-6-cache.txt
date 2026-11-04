@@ -1,0 +1,103 @@
+
+### 1. návšteva (prázdna cache) — sekcia Anglicko: http://127.0.0.1:8135/futbal/kluby/europa/anglicko/
+| Súbor | stav | z cache | prenesené B (so hlavičkami) | Cache-Control | kódovanie |
+|---|---|---|---:|---|---|
+| /futbal/kluby/europa/anglicko/ | 200 | nie | 8215 | max-age=600 | gzip |
+| /index.html | 200 | nie | 80084 | max-age=600 | gzip |
+| /vlajky/24x18/gb-eng.png | 200 | nie | 935 | max-age=600 |  |
+| /vlajky/20x15/gb-eng.png | 200 | nie | 1095 | max-age=600 |  |
+| /aktualne.json?t=1793821188906 | 200 | nie | 826 | max-age=600 | gzip |
+| /version.txt | 200 | nie | 394 | max-age=600 | gzip |
+| https://gc.zgo.at/count.js | BLOK  | nie |  | undefined | undefined |
+| /vlajky/16x12/gb-eng.png | 200 | nie | 779 | max-age=600 |  |
+| /vlajky/40x30/gb-eng.png | 200 | nie | 1122 | max-age=600 |  |
+| https://ban.tipsport.sk/c/textA.php?pl=131673 | BLOK  | nie |  | undefined | undefined |
+| https://ban.tipsport.sk/c/textA.php?pl=131691 | BLOK  | nie |  | undefined | undefined |
+| /data.json?v=1125 | 200 | nie | 1192106 | max-age=600 | gzip |
+spolu prenesené: 1255.4 kB
+
+### 2. návšteva do 10 min — liga Championship (iná stránka): http://127.0.0.1:8135/futbal/kluby/europa/anglicko/championship/
+| Súbor | stav | z cache | prenesené B (so hlavičkami) | Cache-Control | kódovanie |
+|---|---|---|---:|---|---|
+| /futbal/kluby/europa/anglicko/championship/ | 200 | nie | 10115 | max-age=600 | gzip |
+| /vlajky/24x18/gb-eng.png | 200 | pamäť/disk (bez požiadavky) | 0 | max-age=600 |  |
+| /index.html | 200 | cache | 0 | max-age=600 | gzip |
+| /vlajky/16x12/gb-eng.png | 200 | pamäť/disk (bez požiadavky) | 0 | max-age=600 |  |
+| /aktualne.json?t=1793821194850 | 200 | nie | 826 | max-age=600 | gzip |
+| /version.txt | 200 | nie | 394 | max-age=600 | gzip |
+| https://gc.zgo.at/count.js | BLOK  | nie |  | undefined | undefined |
+| /ikony/www.soccerway.com.png | 200 | nie | 1134 | max-age=600 |  |
+| /ikony/www.bcfc.com.png | 200 | nie | 1801 | max-age=600 |  |
+| /ikony/facebook.com.png | 200 | nie | 1109 | max-age=600 |  |
+| /ikony/instagram.com.png | 200 | nie | 4013 | max-age=600 |  |
+| /ikony/www.rovers.co.uk.png | 200 | nie | 3350 | max-age=600 |  |
+| /ikony/www.bwfc.co.uk.png | 200 | nie | 1158 | max-age=600 |  |
+| /ikony/www.bcfc.co.uk.png | 200 | nie | 2518 | max-age=600 |  |
+| /ikony/www.burnleyfootballclub.com.png | 200 | nie | 1322 | max-age=600 |  |
+| /ikony/www.cardiffcityfc.co.uk.png | 200 | nie | 1960 | max-age=600 |  |
+| /ikony/www.cafc.co.uk.png | 200 | nie | 2004 | max-age=600 |  |
+| /ikony/www.dcfc.co.uk.png | 200 | nie | 1377 | max-age=600 |  |
+| /ikony/www.weareimps.com.png | 200 | nie | 2071 | max-age=600 |  |
+| /ikony/www.mfc.co.uk.png | 200 | nie | 2085 | max-age=600 |  |
+| /ikony/www.millwallfc.co.uk.png | 200 | nie | 1859 | max-age=600 |  |
+| /ikony/www.canaries.co.uk.png | 200 | nie | 1084 | max-age=600 |  |
+| /ikony/www.portsmouthfc.co.uk.png | 200 | nie | 2092 | max-age=600 |  |
+| /ikony/www.pnefc.net.png | 200 | nie | 2351 | max-age=600 |  |
+| /ikony/www.qpr.co.uk.png | 200 | nie | 2082 | max-age=600 |  |
+| /ikony/www.sufc.co.uk.png | 200 | nie | 2381 | max-age=600 |  |
+| /ikony/www.southamptonfc.com.png | 200 | nie | 2558 | max-age=600 |  |
+| /ikony/www.stokecityfc.com.png | 200 | nie | 1715 | max-age=600 |  |
+| /ikony/www.swanseacity.com.png | 200 | nie | 1858 | max-age=600 |  |
+| /ikony/www.watfordfc.com.png | 200 | nie | 1571 | max-age=600 |  |
+| /ikony/www.wba.co.uk.png | 200 | nie | 1293 | max-age=600 |  |
+| /ikony/www.whufc.com.png | 200 | nie | 1806 | max-age=600 |  |
+| /ikony/www.wolves.co.uk.png | 200 | nie | 1484 | max-age=600 |  |
+| /ikony/www.wrexhamafc.co.uk.png | 200 | nie | 2542 | max-age=600 |  |
+| https://ban.tipsport.sk/c/textA.php?pl=131673 | BLOK  | nie |  | undefined | undefined |
+| https://ban.tipsport.sk/c/textA.php?pl=131691 | BLOK  | nie |  | undefined | undefined |
+| /data.json?v=1125 | 200 | cache | 0 | max-age=600 | gzip |
+spolu prenesené: 62.4 kB
+
+### 3. návšteva do 10 min — domov (appka priamo): http://127.0.0.1:8135/
+| Súbor | stav | z cache | prenesené B (so hlavičkami) | Cache-Control | kódovanie |
+|---|---|---|---:|---|---|
+| / | 200 | nie | 80084 | max-age=600 | gzip |
+| /aktualne.json?t=1793821200861 | 200 | nie | 826 | max-age=600 | gzip |
+| /version.txt | 200 | nie | 394 | max-age=600 | gzip |
+| https://gc.zgo.at/count.js | BLOK  | nie |  | undefined | undefined |
+| https://ban.tipsport.sk/c/textA.php?pl=131672 | BLOK  | nie |  | undefined | undefined |
+| https://ban.tipsport.sk/c/textA.php?pl=131671 | BLOK  | nie |  | undefined | undefined |
+| /data.json?v=1125 | 200 | cache | 0 | max-age=600 | gzip |
+spolu prenesené: 79.4 kB
+
+### 4. opätovné otvorenie tej istej sekcie Anglicko: http://127.0.0.1:8135/futbal/kluby/europa/anglicko/
+| Súbor | stav | z cache | prenesené B (so hlavičkami) | Cache-Control | kódovanie |
+|---|---|---|---:|---|---|
+| /futbal/kluby/europa/anglicko/ | 200 | cache | 0 | max-age=600 | gzip |
+| /index.html | 200 | cache | 0 | max-age=600 | gzip |
+| /vlajky/24x18/gb-eng.png | 200 | cache | 0 | max-age=600 |  |
+| /vlajky/20x15/gb-eng.png | 200 | cache | 0 | max-age=600 |  |
+| /aktualne.json?t=1793821206930 | 200 | nie | 826 | max-age=600 | gzip |
+| /version.txt | 200 | nie | 394 | max-age=600 | gzip |
+| https://gc.zgo.at/count.js | BLOK  | nie |  | undefined | undefined |
+| /vlajky/16x12/gb-eng.png | 200 | cache | 0 | max-age=600 |  |
+| /vlajky/40x30/gb-eng.png | 200 | cache | 0 | max-age=600 |  |
+| https://ban.tipsport.sk/c/textA.php?pl=131672 | BLOK  | nie |  | undefined | undefined |
+| https://ban.tipsport.sk/c/textA.php?pl=131671 | BLOK  | nie |  | undefined | undefined |
+| /data.json?v=1125 | 200 | cache | 0 | max-age=600 | gzip |
+spolu prenesené: 1.2 kB
+
+### 5. obnovenie stránky (F5) — Chrome revaliduje (If-None-Match → 304?)
+| Súbor | stav | z cache | prenesené B |
+|---|---|---|---:|
+| /futbal/kluby/europa/anglicko/ | 200 | nie | 334 |
+| /vlajky/40x30/gb-eng.png | 200 | pamäť/disk (bez požiadavky) | 0 |
+| /index.html | 200 | cache | 0 |
+| /vlajky/24x18/gb-eng.png | 200 | cache | 0 |
+| /vlajky/16x12/gb-eng.png | 200 | pamäť/disk (bez požiadavky) | 0 |
+| /aktualne.json?t=1793821212969 | 200 | nie | 826 |
+| /version.txt | 200 | nie | 394 |
+| https://gc.zgo.at/count.js | BLOK  | nie |  |
+| https://ban.tipsport.sk/c/textA.php?pl=131672 | BLOK  | nie |  |
+| https://ban.tipsport.sk/c/textA.php?pl=131671 | BLOK  | nie |  |
+| /data.json?v=1125 | 200 | cache | 0 |

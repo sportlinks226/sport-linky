@@ -1,0 +1,1445 @@
+[
+ {
+  "name": "domov",
+  "url": "http://127.0.0.1:8123/",
+  "taken": {
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 7,
+   "raw": 5751870,
+   "gz": 1250014,
+   "br": 936202,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 261492,
+     "gz": 79532
+    },
+    "fetch": {
+     "n": 3,
+     "raw": 5490378,
+     "gz": 1170482
+    },
+    "script": {
+     "n": 3,
+     "raw": 0,
+     "gz": 0
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "frame": "about:srcdoc"
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8123/"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "frame": "about:srcdoc"
+   }
+  ],
+  "lines": [
+   {
+    "url": "/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 110,
+    "raw": 261492,
+    "gz": 79532,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/aktualne.json?t=1793819831068",
+    "type": "fetch",
+    "status": 200,
+    "start": 104,
+    "end": 129,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 107,
+    "end": 128,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "status": null,
+    "start": 115,
+    "end": 128,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 116,
+    "end": 128,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "status": null,
+    "start": 125,
+    "end": 130,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 132,
+    "end": 229,
+    "raw": 5488797,
+    "gz": 1170008,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ },
+ {
+  "name": "sekcia Anglicko",
+  "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/",
+  "taken": {
+   "title": "Anglicko — Európa · Futbal — Športové Linky",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 12,
+   "raw": 5776670,
+   "gz": 1260559,
+   "br": 945540,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 22189,
+     "gz": 7842
+    },
+    "fetch": {
+     "n": 4,
+     "raw": 5751870,
+     "gz": 1250014
+    },
+    "image": {
+     "n": 4,
+     "raw": 2611,
+     "gz": 2703
+    },
+    "script": {
+     "n": 3,
+     "raw": 0,
+     "gz": 0
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131673",
+    "type": "script",
+    "frame": "about:srcdoc"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131691",
+    "type": "script",
+    "frame": "about:srcdoc"
+   }
+  ],
+  "lines": [
+   {
+    "url": "/futbal/kluby/europa/anglicko/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 22,
+    "raw": 22189,
+    "gz": 7842,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/index.html",
+    "type": "fetch",
+    "status": 200,
+    "start": 20,
+    "end": 35,
+    "raw": 261492,
+    "gz": 79532,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/24x18/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 32,
+    "end": 108,
+    "raw": 605,
+    "gz": 628,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/20x15/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 32,
+    "end": 108,
+    "raw": 765,
+    "gz": 788,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/aktualne.json?t=1793819850376",
+    "type": "fetch",
+    "status": 200,
+    "start": 104,
+    "end": 126,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 105,
+    "end": 126,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 105,
+    "end": 121,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/vlajky/16x12/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 113,
+    "end": 124,
+    "raw": 449,
+    "gz": 472,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/40x30/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 113,
+    "end": 123,
+    "raw": 792,
+    "gz": 815,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131673",
+    "type": "script",
+    "status": null,
+    "start": 117,
+    "end": 126,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131691",
+    "type": "script",
+    "status": null,
+    "start": 122,
+    "end": 126,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 127,
+    "end": 217,
+    "raw": 5488797,
+    "gz": 1170008,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ },
+ {
+  "name": "liga Championship (24 klubov)",
+  "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/",
+  "taken": {
+   "title": "Championship — Anglicko · Futbal — Športové Linky",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 37,
+   "raw": 5829336,
+   "gz": 1304732,
+   "br": 988819,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 32765,
+     "gz": 9730
+    },
+    "fetch": {
+     "n": 4,
+     "raw": 5751870,
+     "gz": 1250014
+    },
+    "image": {
+     "n": 29,
+     "raw": 44701,
+     "gz": 44988
+    },
+    "script": {
+     "n": 3,
+     "raw": 0,
+     "gz": 0
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131673",
+    "type": "script",
+    "frame": "about:srcdoc"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131691",
+    "type": "script",
+    "frame": "about:srcdoc"
+   }
+  ],
+  "lines": [
+   {
+    "url": "/futbal/kluby/europa/anglicko/championship/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 18,
+    "raw": 32765,
+    "gz": 9730,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/index.html",
+    "type": "fetch",
+    "status": 200,
+    "start": 17,
+    "end": 38,
+    "raw": 261492,
+    "gz": 79532,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/24x18/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 30,
+    "end": 111,
+    "raw": 605,
+    "gz": 628,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/aktualne.json?t=1793819869359",
+    "type": "fetch",
+    "status": 200,
+    "start": 111,
+    "end": 152,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 112,
+    "end": 152,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 112,
+    "end": 151,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/vlajky/16x12/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 128,
+    "end": 154,
+    "raw": 449,
+    "gz": 472,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.soccerway.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 129,
+    "end": 155,
+    "raw": 804,
+    "gz": 827,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.bcfc.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 129,
+    "end": 172,
+    "raw": 1470,
+    "gz": 1493,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/facebook.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 171,
+    "raw": 779,
+    "gz": 802,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/instagram.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 171,
+    "raw": 3682,
+    "gz": 3513,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.rovers.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 172,
+    "raw": 3019,
+    "gz": 3042,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.bwfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 181,
+    "raw": 828,
+    "gz": 851,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.bcfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 172,
+    "raw": 2187,
+    "gz": 2210,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.burnleyfootballclub.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 130,
+    "end": 172,
+    "raw": 992,
+    "gz": 1015,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.cardiffcityfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 133,
+    "end": 192,
+    "raw": 1629,
+    "gz": 1652,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.cafc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 137,
+    "end": 203,
+    "raw": 1673,
+    "gz": 1666,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.dcfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 138,
+    "end": 203,
+    "raw": 1046,
+    "gz": 1061,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.weareimps.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 138,
+    "end": 203,
+    "raw": 1740,
+    "gz": 1763,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.mfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 138,
+    "end": 203,
+    "raw": 1754,
+    "gz": 1777,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.millwallfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 138,
+    "end": 203,
+    "raw": 1528,
+    "gz": 1551,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.canaries.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 139,
+    "end": 204,
+    "raw": 754,
+    "gz": 777,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.portsmouthfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 139,
+    "end": 209,
+    "raw": 1761,
+    "gz": 1784,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.pnefc.net.png",
+    "type": "image",
+    "status": 200,
+    "start": 139,
+    "end": 204,
+    "raw": 2020,
+    "gz": 2032,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.qpr.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 139,
+    "end": 207,
+    "raw": 1751,
+    "gz": 1771,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.sufc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 139,
+    "end": 209,
+    "raw": 2050,
+    "gz": 2043,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.southamptonfc.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 142,
+    "end": 210,
+    "raw": 2227,
+    "gz": 2188,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.stokecityfc.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 142,
+    "end": 217,
+    "raw": 1384,
+    "gz": 1407,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.swanseacity.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 142,
+    "end": 217,
+    "raw": 1527,
+    "gz": 1506,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.watfordfc.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 142,
+    "end": 217,
+    "raw": 1240,
+    "gz": 1263,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.wba.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 143,
+    "end": 217,
+    "raw": 963,
+    "gz": 986,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.whufc.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 143,
+    "end": 218,
+    "raw": 1475,
+    "gz": 1498,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.wolves.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 143,
+    "end": 218,
+    "raw": 1153,
+    "gz": 1176,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.wrexhamafc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 143,
+    "end": 225,
+    "raw": 2211,
+    "gz": 2234,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131673",
+    "type": "script",
+    "status": null,
+    "start": 143,
+    "end": 156,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131691",
+    "type": "script",
+    "status": null,
+    "start": 151,
+    "end": 156,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 162,
+    "end": 320,
+    "raw": 5488797,
+    "gz": 1170008,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ },
+ {
+  "name": "Aktuálne",
+  "url": "http://127.0.0.1:8123/aktualne/",
+  "taken": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 11,
+   "raw": 5773256,
+   "gz": 1261352,
+   "br": 946571,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 16767,
+     "gz": 6818
+    },
+    "fetch": {
+     "n": 4,
+     "raw": 5751870,
+     "gz": 1250014
+    },
+    "script": {
+     "n": 3,
+     "raw": 0,
+     "gz": 0
+    },
+    "image": {
+     "n": 3,
+     "raw": 4619,
+     "gz": 4520
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8123/aktualne/"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "frame": "about:srcdoc"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "frame": "about:srcdoc"
+   }
+  ],
+  "lines": [
+   {
+    "url": "/aktualne/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 15,
+    "raw": 16767,
+    "gz": 6818,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/index.html",
+    "type": "fetch",
+    "status": 200,
+    "start": 14,
+    "end": 28,
+    "raw": 261492,
+    "gz": 79532,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/aktualne.json?t=1793819888400",
+    "type": "fetch",
+    "status": 200,
+    "start": 86,
+    "end": 119,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 89,
+    "end": 111,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 90,
+    "end": 99,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/ikony/www.atptour.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 92,
+    "end": 119,
+    "raw": 440,
+    "gz": 463,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.wtatennis.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 92,
+    "end": 119,
+    "raw": 1087,
+    "gz": 1067,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/ttstar.cz.png",
+    "type": "image",
+    "status": 200,
+    "start": 92,
+    "end": 119,
+    "raw": 3092,
+    "gz": 2990,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "status": null,
+    "start": 95,
+    "end": 99,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "status": null,
+    "start": 100,
+    "end": 105,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 110,
+    "end": 219,
+    "raw": 5488797,
+    "gz": 1170008,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ },
+ {
+  "name": "hľadanie „arsenal“ (domov → zadanie textu)",
+  "url": "http://127.0.0.1:8123/?q",
+  "taken": {
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 20,
+   "raw": 5772709,
+   "gz": 1270914,
+   "br": 956679,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 261492,
+     "gz": 79532
+    },
+    "fetch": {
+     "n": 3,
+     "raw": 5490378,
+     "gz": 1170482
+    },
+    "script": {
+     "n": 3,
+     "raw": 0,
+     "gz": 0
+    },
+    "image": {
+     "n": 13,
+     "raw": 20839,
+     "gz": 20900
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "frame": "about:srcdoc"
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8123/"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "frame": "about:srcdoc"
+   }
+  ],
+  "lines": [
+   {
+    "url": "/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 95,
+    "raw": 261492,
+    "gz": 79532,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": ""
+   },
+   {
+    "url": "/aktualne.json?t=1793819908083",
+    "type": "fetch",
+    "status": 200,
+    "start": 93,
+    "end": 120,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": ""
+   },
+   {
+    "url": "/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 94,
+    "end": 119,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": ""
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131672",
+    "type": "script",
+    "status": null,
+    "start": 104,
+    "end": 112,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 105,
+    "end": 119,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "https://ban.tipsport.sk/c/textA.php?pl=131671",
+    "type": "script",
+    "status": null,
+    "start": 107,
+    "end": 120,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 123,
+    "end": 236,
+    "raw": 5488797,
+    "gz": 1170008,
+    "cc": "-",
+    "phase": "pred hľadaním",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.arsenal.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 9504,
+    "end": 9527,
+    "raw": 2290,
+    "gz": 2313,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/facebook.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 9505,
+    "end": 9522,
+    "raw": 779,
+    "gz": 802,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/instagram.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 9505,
+    "end": 9517,
+    "raw": 3682,
+    "gz": 3513,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/arsenaltula.ru.png",
+    "type": "image",
+    "status": 200,
+    "start": 9505,
+    "end": 9527,
+    "raw": 2863,
+    "gz": 2886,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.arsenalfc.com.ar.png",
+    "type": "image",
+    "status": 200,
+    "start": 9506,
+    "end": 9524,
+    "raw": 451,
+    "gz": 474,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.fkceskalipa.cz.png",
+    "type": "image",
+    "status": 200,
+    "start": 9506,
+    "end": 9532,
+    "raw": 1505,
+    "gz": 1528,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/24x18/gb-eng.png",
+    "type": "image",
+    "status": 200,
+    "start": 9506,
+    "end": 9530,
+    "raw": 605,
+    "gz": 628,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/24x18/cz.png",
+    "type": "image",
+    "status": 200,
+    "start": 9507,
+    "end": 9531,
+    "raw": 679,
+    "gz": 702,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.standard.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 9511,
+    "end": 9537,
+    "raw": 1052,
+    "gz": 1075,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.swindontownfc.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 9511,
+    "end": 9534,
+    "raw": 2110,
+    "gz": 2103,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.saddlers.co.uk.png",
+    "type": "image",
+    "status": 200,
+    "start": 9512,
+    "end": 9537,
+    "raw": 1702,
+    "gz": 1725,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/ikony/www.londonislingtonhandball.com.png",
+    "type": "image",
+    "status": 200,
+    "start": 9512,
+    "end": 9537,
+    "raw": 2442,
+    "gz": 2449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "/vlajky/24x18/gp.png",
+    "type": "image",
+    "status": 200,
+    "start": 9512,
+    "end": 9537,
+    "raw": 679,
+    "gz": 702,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ },
+ {
+  "name": "EN domov",
+  "url": "http://127.0.0.1:8124/",
+  "taken": {
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "hasApp": true,
+   "nodes": 0,
+   "partial": false
+  },
+  "tot": {
+   "n": 6,
+   "raw": 6019962,
+   "gz": 1248728,
+   "br": 943076,
+   "byType": {
+    "document": {
+     "n": 1,
+     "raw": 265345,
+     "gz": 80496
+    },
+    "fetch": {
+     "n": 4,
+     "raw": 5754617,
+     "gz": 1168232
+    },
+    "script": {
+     "n": 1,
+     "raw": 0,
+     "gz": 0
+    }
+   }
+  },
+  "ext": [
+   {
+    "url": "https://sportlinky.sk/aktualne.json?t=1793819931241",
+    "type": "fetch",
+    "frame": "http://127.0.0.1:8124/"
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "frame": "http://127.0.0.1:8124/"
+   }
+  ],
+  "lines": [
+   {
+    "url": "[EN]/",
+    "type": "document",
+    "status": 200,
+    "start": 0,
+    "end": 81,
+    "raw": 265345,
+    "gz": 80496,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://sportlinky.sk/aktualne.json?t=1793819931241",
+    "type": "fetch",
+    "status": null,
+    "start": 79,
+    "end": 87,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "[EN]/version.txt",
+    "type": "fetch",
+    "status": 200,
+    "start": 80,
+    "end": 93,
+    "raw": 5,
+    "gz": 25,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "https://gc.zgo.at/count.js",
+    "type": "script",
+    "status": null,
+    "start": 84,
+    "end": 89,
+    "raw": 0,
+    "gz": null,
+    "cc": "-",
+    "phase": "",
+    "failed": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+   },
+   {
+    "url": "[EN]/aktualne.json?t=1793819931255",
+    "type": "fetch",
+    "status": 200,
+    "start": 88,
+    "end": 96,
+    "raw": 1576,
+    "gz": 449,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   },
+   {
+    "url": "[EN]/data.json?v=1125",
+    "type": "fetch",
+    "status": 200,
+    "start": 95,
+    "end": 223,
+    "raw": 5753036,
+    "gz": 1167758,
+    "cc": "-",
+    "phase": "",
+    "failed": ""
+   }
+  ]
+ }
+]

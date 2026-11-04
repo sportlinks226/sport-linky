@@ -1,0 +1,838 @@
+{
+ "site": "en",
+ "pages": [
+  {
+   "page": "/football/clubs/south-america/argentina/",
+   "cas": {
+    "appkaMs": 98,
+    "appkaAbsMs": 131,
+    "vykresleneMs": 263,
+    "celeDataMs": 301,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      13,
+      "/football/clubs/south-america/argentina/"
+     ],
+     [
+      "domcontentloaded",
+      20
+     ],
+     [
+      "load",
+      21
+     ],
+     [
+      "framenavigated",
+      59,
+      "/football/clubs/south-america/argentina/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Argentina — South America · Football — Sportlinking",
+    "h1": " Argentina",
+    "folders": 4,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Argentina — South America · Football — Sportlinking",
+    "h1": "Argentina",
+    "folders": 4,
+    "links": 0,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821021656",
+    "/version.txt",
+    "/aktualne.json?t=1793821021675",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/handball/clubs/europe/france/proligue/",
+   "cas": {
+    "appkaMs": 85,
+    "appkaAbsMs": 114,
+    "vykresleneMs": 210,
+    "celeDataMs": 327,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      12,
+      "4/handball/clubs/europe/france/proligue/"
+     ],
+     [
+      "domcontentloaded",
+      19
+     ],
+     [
+      "load",
+      20
+     ],
+     [
+      "framenavigated",
+      56,
+      "4/handball/clubs/europe/france/proligue/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Proligue — France · Handball — Sportlinking",
+    "h1": " Proligue",
+    "folders": 0,
+    "links": 17,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Proligue — France · Handball — Sportlinking",
+    "h1": "Proligue",
+    "folders": 0,
+    "links": 17,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821023264",
+    "/version.txt",
+    "/aktualne.json?t=1793821023283",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/basketball/clubs/north-central-america/mexico/lnbp/",
+   "cas": {
+    "appkaMs": 93,
+    "appkaAbsMs": 137,
+    "vykresleneMs": 232,
+    "celeDataMs": 335,
+    "firstPaint": "first-paint=48,first-contentful-paint=48",
+    "udalosti": [
+     [
+      "framenavigated",
+      13,
+      "clubs/north-central-america/mexico/lnbp/"
+     ],
+     [
+      "domcontentloaded",
+      25
+     ],
+     [
+      "load",
+      26
+     ],
+     [
+      "framenavigated",
+      61,
+      "clubs/north-central-america/mexico/lnbp/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "LNBP — Mexico · Basketball — Sportlinking",
+    "h1": " LNBP",
+    "folders": 0,
+    "links": 15,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "LNBP — Mexico · Basketball — Sportlinking",
+    "h1": "LNBP",
+    "folders": 0,
+    "links": 15,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": true
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821024911",
+    "/version.txt",
+    "/aktualne.json?t=1793821024932",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/football/clubs/asia/east-timor/",
+   "cas": {
+    "appkaMs": 94,
+    "appkaAbsMs": 126,
+    "vykresleneMs": 295,
+    "celeDataMs": 301,
+    "firstPaint": "first-paint=40,first-contentful-paint=40",
+    "udalosti": [
+     [
+      "framenavigated",
+      10,
+      "0.1:8124/football/clubs/asia/east-timor/"
+     ],
+     [
+      "domcontentloaded",
+      21
+     ],
+     [
+      "load",
+      21
+     ],
+     [
+      "framenavigated",
+      56,
+      "0.1:8124/football/clubs/asia/east-timor/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "East Timor — Asia · Football — Sportlinking",
+    "h1": " East Timor",
+    "folders": 1,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "East Timor — Asia · Football — Sportlinking",
+    "h1": "East Timor",
+    "folders": 1,
+    "links": 0,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821026557",
+    "/version.txt",
+    "/aktualne.json?t=1793821026576",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/football/clubs/north-central-america/french-guiana/regional-1/",
+   "cas": {
+    "appkaMs": 96,
+    "appkaAbsMs": 131,
+    "vykresleneMs": 274,
+    "celeDataMs": 318,
+    "firstPaint": "first-paint=48,first-contentful-paint=48",
+    "udalosti": [
+     [
+      "framenavigated",
+      13,
+      "entral-america/french-guiana/regional-1/"
+     ],
+     [
+      "domcontentloaded",
+      28
+     ],
+     [
+      "load",
+      28
+     ],
+     [
+      "framenavigated",
+      57,
+      "entral-america/french-guiana/regional-1/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Régional 1 — French Guiana · Football — Sportlinking",
+    "h1": " Régional 1",
+    "folders": 0,
+    "links": 13,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Régional 1 — French Guiana · Football — Sportlinking",
+    "h1": "Régional 1",
+    "folders": 0,
+    "links": 13,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821028166",
+    "/version.txt",
+    "/aktualne.json?t=1793821028190",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/football/clubs/south-america/peru/liga-1/",
+   "cas": {
+    "appkaMs": 78,
+    "appkaAbsMs": 108,
+    "vykresleneMs": 279,
+    "celeDataMs": 317,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      11,
+      "ootball/clubs/south-america/peru/liga-1/"
+     ],
+     [
+      "domcontentloaded",
+      20
+     ],
+     [
+      "load",
+      20
+     ],
+     [
+      "framenavigated",
+      55,
+      "ootball/clubs/south-america/peru/liga-1/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Liga 1 — Peru · Football — Sportlinking",
+    "h1": " Liga 1",
+    "folders": 0,
+    "links": 19,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Liga 1 — Peru · Football — Sportlinking",
+    "h1": "Liga 1",
+    "folders": 0,
+    "links": 19,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821029789",
+    "/version.txt",
+    "/aktualne.json?t=1793821029808",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/basketball/clubs/europe/hungary/nb-i-a-women/",
+   "cas": {
+    "appkaMs": 87,
+    "appkaAbsMs": 117,
+    "vykresleneMs": 285,
+    "celeDataMs": 334,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      11,
+      "tball/clubs/europe/hungary/nb-i-a-women/"
+     ],
+     [
+      "domcontentloaded",
+      19
+     ],
+     [
+      "load",
+      20
+     ],
+     [
+      "framenavigated",
+      57,
+      "tball/clubs/europe/hungary/nb-i-a-women/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "NB I/A (ženy) — Hungary · Basketball — Sportlinking",
+    "h1": " NB I/A (ženy)",
+    "folders": 0,
+    "links": 12,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "NB I/A (ženy) — Hungary · Basketball — Sportlinking",
+    "h1": "NB I/A (ženy)",
+    "folders": 0,
+    "links": 12,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821031430",
+    "/version.txt",
+    "/aktualne.json?t=1793821031448",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/volleyball/clubs/europe-cev/bosnia-and-herzegovina/premijer-liga-women/",
+   "cas": {
+    "appkaMs": 80,
+    "appkaAbsMs": 111,
+    "vykresleneMs": 300,
+    "celeDataMs": 320,
+    "firstPaint": "",
+    "udalosti": [
+     [
+      "framenavigated",
+      12,
+      "nia-and-herzegovina/premijer-liga-women/"
+     ],
+     [
+      "domcontentloaded",
+      20
+     ],
+     [
+      "load",
+      20
+     ],
+     [
+      "framenavigated",
+      55,
+      "nia-and-herzegovina/premijer-liga-women/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Premijer liga Women — Bosnia and Herzegovina — Sportlinking",
+    "h1": " Premijer liga Women",
+    "folders": 0,
+    "links": 11,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Premijer liga Women — Bosnia and Herzegovina — Sportlinking",
+    "h1": "Premijer liga Women",
+    "folders": 0,
+    "links": 11,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821033066",
+    "/version.txt",
+    "/aktualne.json?t=1793821033086",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/handball/clubs/europe/romania/",
+   "cas": {
+    "appkaMs": 71,
+    "appkaAbsMs": 107,
+    "vykresleneMs": 243,
+    "celeDataMs": 284,
+    "firstPaint": "first-paint=44,first-contentful-paint=44",
+    "udalosti": [
+     [
+      "framenavigated",
+      18,
+      ".0.1:8124/handball/clubs/europe/romania/"
+     ],
+     [
+      "domcontentloaded",
+      28
+     ],
+     [
+      "load",
+      28
+     ],
+     [
+      "framenavigated",
+      54,
+      ".0.1:8124/handball/clubs/europe/romania/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Romania — Europe · Handball — Sportlinking",
+    "h1": " Romania",
+    "folders": 2,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Romania — Europe · Handball — Sportlinking",
+    "h1": "Romania",
+    "folders": 2,
+    "links": 0,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821034691",
+    "/version.txt",
+    "/aktualne.json?t=1793821034707",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  },
+  {
+   "page": "/football/clubs/europe/switzerland/",
+   "cas": {
+    "appkaMs": 112,
+    "appkaAbsMs": 139,
+    "vykresleneMs": 295,
+    "celeDataMs": 337,
+    "firstPaint": "first-paint=40,first-contentful-paint=40",
+    "udalosti": [
+     [
+      "framenavigated",
+      11,
+      ":8124/football/clubs/europe/switzerland/"
+     ],
+     [
+      "domcontentloaded",
+      19
+     ],
+     [
+      "load",
+      19
+     ],
+     [
+      "framenavigated",
+      63,
+      ":8124/football/clubs/europe/switzerland/"
+     ]
+    ]
+   },
+   "zhoda": {
+    "title": true,
+    "desc": true,
+    "canonical": false,
+    "h1": true,
+    "folders": true,
+    "links": true,
+    "linkUrls": true,
+    "akt": false,
+    "promo": true,
+    "balikVsCele": true
+   },
+   "staticke": {
+    "title": "Switzerland — Europe · Football — Sportlinking",
+    "h1": " Switzerland",
+    "folders": 2,
+    "links": 0,
+    "akt": [],
+    "appbtn": "none",
+    "isApp": false
+   },
+   "appka": {
+    "title": "Switzerland — Europe · Football — Sportlinking",
+    "h1": "Switzerland",
+    "folders": 2,
+    "links": 0,
+    "akt": [
+     "🎾\nATP Scores",
+     "🎾\nWTA Scores",
+     "🏓\nTT Star Series"
+    ],
+    "partialPri1": false
+   },
+   "rozdiely": {
+    "folders": [],
+    "links": [],
+    "title": null,
+    "desc": null
+   },
+   "poziadavky": [
+    "/index.html",
+    "https://sportlinky.sk/aktualne.json?t=1793821036341",
+    "/version.txt",
+    "/aktualne.json?t=1793821036362",
+    "/data.json?v=1125"
+   ],
+   "errors": [],
+   "csp": 0
+  }
+ ],
+ "bliknutie": {
+  "page": "/football/clubs/south-america/argentina/",
+  "shots": [
+   {
+    "d": 20,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 60,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 120,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 250,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 600,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   },
+   {
+    "d": 1500,
+    "app": true,
+    "static": false,
+    "main": 1,
+    "ready": "complete",
+    "scroll": 0
+   }
+  ]
+ }
+}

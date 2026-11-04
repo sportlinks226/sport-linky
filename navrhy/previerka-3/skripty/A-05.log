@@ -1,0 +1,278 @@
+{
+ "domov": {
+  "sloty": {
+   "slot1": {
+    "bid": "b1784387069022",
+    "iframe": true,
+    "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+    "srcdocLen": 571,
+    "hasScriptTag": true,
+    "placeholder": false,
+    "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "slot2": {
+    "bid": "b1784385798119",
+    "iframe": true,
+    "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+    "srcdocLen": 571,
+    "hasScriptTag": true,
+    "placeholder": false,
+    "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "rotate": true,
+   "interval": 30,
+   "rotateTimer": true,
+   "promo": null
+  },
+  "frames": [
+   {
+    "url": "about:srcdoc",
+    "body": "<div class=\"tipAd131673\"></div><script src=\"https://ban.tipsport.sk/c/textA.php?pl=131673\" type=\"text/javascript\" language=\"javascript\" async=\"\"></script>",
+    "origin": "null",
+    "parentAccess": "blocked: SecurityError",
+    "cookie": "blocked: SecurityError",
+    "ls": "blocked: SecurityError"
+   },
+   {
+    "url": "about:srcdoc",
+    "body": "<div class=\"tipAd131691\"></div><script src=\"https://ban.tipsport.sk/c/textA.php?pl=131691\" type=\"text/javascript\" language=\"javascript\" async=\"\"></script>",
+    "origin": "null",
+    "parentAccess": "blocked: SecurityError",
+    "cookie": "blocked: SecurityError",
+    "ls": "blocked: SecurityError"
+   }
+  ],
+  "rotaciaPosunCasu": [
+   [
+    "b1784387069022",
+    "b1784385798119"
+   ],
+   [
+    "b1784386119211",
+    "b1784385603494"
+   ],
+   [
+    "b1784387069022",
+    "b1784385798119"
+   ],
+   [
+    "b1784386119211",
+    "b1784385603494"
+   ],
+   [
+    "b1784387069022",
+    "b1784385798119"
+   ],
+   [
+    "b1784386119211",
+    "b1784385603494"
+   ]
+  ],
+  "iframePoNavigaciiZostal": true,
+  "ext": [
+   "https://gc.zgo.at/count.js",
+   "https://ban.tipsport.sk/c/textA.php?pl=131673",
+   "https://ban.tipsport.sk/c/textA.php?pl=131691",
+   "https://ban.tipsport.sk/c/textA.php?pl=131673",
+   "https://ban.tipsport.sk/c/textA.php?pl=131691"
+  ],
+  "csp": [],
+  "errors": [],
+  "console": []
+ },
+ "tipovanie": {
+  "sloty": {
+   "slot1": {
+    "bid": "b1784387069022",
+    "iframe": true,
+    "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+    "srcdocLen": 571,
+    "hasScriptTag": true,
+    "placeholder": false,
+    "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "slot2": {
+    "bid": "b1784385798119",
+    "iframe": true,
+    "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+    "srcdocLen": 571,
+    "hasScriptTag": true,
+    "placeholder": false,
+    "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "rotate": true,
+   "interval": 30,
+   "rotateTimer": true,
+   "promo": {
+    "iframe": true,
+    "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+    "cls": "adframe adframe-auto",
+    "h": 250,
+    "title": "Bonus za registráciu u najväčšej stávkovej kancelárie",
+    "btn": "https://www.tipsport.sk/PartnerRedirectAction.do?pid=5261&sid=6446&bid=1922&tid=484&urlid=253",
+    "rel": "noopener sponsored",
+    "warn": true,
+    "label": "REKLAMA · TIPSPORT"
+   }
+  },
+  "dlazdice": [
+   "Tipsport"
+  ],
+  "falosnyPostMessage": {
+   "pred": "",
+   "po": ""
+  },
+  "promoVFutbale": false,
+  "promoVStlpcoch": {
+   "promo": true,
+   "vPase": false
+  },
+  "mobil": {
+   "sloty": {
+    "slot1": {
+     "bid": "b1784387069022",
+     "iframe": true,
+     "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+     "srcdocLen": 571,
+     "hasScriptTag": true,
+     "placeholder": false,
+     "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+     "display": "flex",
+     "w": 360,
+     "h": 44
+    },
+    "slot2": {
+     "bid": "b1784385798119",
+     "iframe": true,
+     "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+     "srcdocLen": 571,
+     "hasScriptTag": true,
+     "placeholder": false,
+     "html": "<iframe class=\"adframe adframe-slot\" sandbox=\"allow-scripts allow-popups allow-popups-to-escape-sandbox\" srcdoc=\"&lt;!DO",
+     "display": "none",
+     "w": 0,
+     "h": 0
+    },
+    "rotate": true,
+    "interval": 30,
+    "rotateTimer": true,
+    "promo": {
+     "iframe": true,
+     "sandbox": "allow-scripts allow-popups allow-popups-to-escape-sandbox",
+     "cls": "adframe adframe-auto",
+     "h": 250,
+     "title": "Bonus za registráciu u najväčšej stávkovej kancelárie",
+     "btn": "https://www.tipsport.sk/PartnerRedirectAction.do?pid=5261&sid=6446&bid=1922&tid=484&urlid=253",
+     "rel": "noopener sponsored",
+     "warn": true,
+     "label": "REKLAMA · TIPSPORT"
+    }
+   },
+   "poloha": {
+    "promoTop": 340.921875,
+    "gridTop": 924.859375,
+    "promoH": 562,
+    "banW": 300,
+    "slot1W": 360,
+    "slot1H": 44,
+    "slot2Display": "none"
+   },
+   "errors": []
+  },
+  "ext": [
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://gc.zgo.at/count.js",
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://ban.tipsport.sk/c/textA.php?pl=131673",
+   "https://ban.tipsport.sk/c/textA.php?pl=131691",
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446"
+  ],
+  "csp": [],
+  "errors": []
+ },
+ "kampan": {
+  "dnes": "2026-11-04",
+  "domov": {
+   "s1": "",
+   "s1bid": "b1784387069022",
+   "s2": "",
+   "s2bid": "b1784385798119",
+   "interval": 30,
+   "eligible1": [
+    "k_dnes"
+   ],
+   "eligible2": []
+  },
+  "hokej": {
+   "s2bid": "k_hokej",
+   "s2": "HOKEJ"
+  },
+  "hokejSutaze": {
+   "s2bid": "k_hokej"
+  },
+  "futbalJsUrl": {
+   "s2html": "<a href=\"#\" target=\"_blank\" rel=\"noopener sponsored\">\n      <img src=\"#\" alt=\"Reklama\" style=\"width:100%;height:100%;object-fit:cover;display:block\">\n    </a>"
+  },
+  "tenisImgOnerror": {
+   "s1html": "<a href=\"/\">DNES</a>"
+  },
+  "errors": [],
+  "csp": []
+ },
+ "en": {
+  "sloty": {
+   "slot1": {
+    "bid": "b_en_B",
+    "iframe": false,
+    "sandbox": null,
+    "srcdocLen": null,
+    "hasScriptTag": null,
+    "placeholder": false,
+    "html": "<a href=\"/live-this-week/\" onclick=\"return navClick(event,'f_ltw')\" style=\"display:block;width:100%;height:100%\"><svg vi",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "slot2": {
+    "bid": "b_en_C_f_ten",
+    "iframe": false,
+    "sandbox": null,
+    "srcdocLen": null,
+    "hasScriptTag": null,
+    "placeholder": false,
+    "html": "<a href=\"/tennis/\" onclick=\"return navClick(event,'f_ten')\" style=\"display:block;width:100%;height:100%\"><svg viewBox=\"0",
+    "display": "flex",
+    "w": 466,
+    "h": 58
+   },
+   "rotate": true,
+   "interval": 30,
+   "rotateTimer": true,
+   "promo": null
+  },
+  "klikSlot2": {
+   "url": "http://127.0.0.1:8124/tennis/",
+   "curId": "f_ten"
+  },
+  "ext": [
+   "https://sportlinky.sk/aktualne.json?t=1793820836597",
+   "https://gc.zgo.at/count.js"
+  ],
+  "csp": [],
+  "errors": []
+ }
+}

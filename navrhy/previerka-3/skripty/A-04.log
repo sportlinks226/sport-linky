@@ -1,0 +1,869 @@
+{
+ "skutocne_desktop": {
+  "lista": {
+   "items": [
+    {
+     "t": "🎾 ATP scores",
+     "href": "https://www.atptour.com/en/scores/current",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 WTA scores",
+     "href": "https://www.wtatennis.com/scores",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🏓 TT Star series",
+     "href": "https://ttstar.cz/en/results/",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(3)",
+   "hasMore": false,
+   "badge": "+0 ›",
+   "badgeVisible": false,
+   "scrollW": 1318,
+   "clientW": 1318,
+   "maxH": "140px",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "stranka": {
+   "url": "http://127.0.0.1:8123/aktualne/",
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "desc": "Live výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne. Práve teraz: tenis, stolný tenis.",
+   "cards": [
+    {
+     "n": "ATP scores",
+     "isNew": false
+    },
+    {
+     "n": "WTA scores",
+     "isNew": false
+    },
+    {
+     "n": "TT Star series",
+     "isNew": false
+    }
+   ],
+   "intro": "Live výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne.",
+   "introPodLinkami": true,
+   "listaSkryta": true,
+   "datumy": false,
+   "skupiny": 0,
+   "h1": "🔥 Aktuálne",
+   "fLive": false
+  },
+  "errors": []
+ },
+ "skutocne_iPhone 13": {
+  "lista": {
+   "items": [
+    {
+     "t": "🎾 ATP scores",
+     "href": "https://www.atptour.com/en/scores/current",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 WTA scores",
+     "href": "https://www.wtatennis.com/scores",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🏓 TT Star series",
+     "href": "https://ttstar.cz/en/results/",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(3)",
+   "hasMore": true,
+   "badge": "›",
+   "badgeVisible": true,
+   "scrollW": 458,
+   "clientW": 342,
+   "maxH": "none",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "stranka": {
+   "url": "http://127.0.0.1:8123/aktualne/",
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "desc": "Live výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne. Práve teraz: tenis, stolný tenis.",
+   "cards": [
+    {
+     "n": "ATP scores",
+     "isNew": false
+    },
+    {
+     "n": "WTA scores",
+     "isNew": false
+    },
+    {
+     "n": "TT Star series",
+     "isNew": false
+    }
+   ],
+   "intro": "Live výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne.",
+   "introPodLinkami": true,
+   "listaSkryta": true,
+   "datumy": false,
+   "skupiny": 0,
+   "h1": "🔥 Aktuálne",
+   "fLive": false
+  },
+  "errors": []
+ },
+ "lista14_desktop": {
+  "lista": {
+   "items": [
+    {
+     "t": "⛳ Záporné poradie (prvá?)",
+     "href": "https://example.com/6",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 🎾 Nová linka NEW",
+     "href": "https://example.com/1",
+     "title": "Popis SK",
+     "isNew": true
+    },
+    {
+     "t": "🏒 Stará linka",
+     "href": "https://example.com/2",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 📌 Bez emoji",
+     "href": "https://example.com/7",
+     "title": null,
+     "isNew": true
+    },
+    {
+     "t": "🎯 Osem",
+     "href": "https://example.com/8",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Deväť",
+     "href": "https://example.com/9",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Desať s dlhším názvom podujatia",
+     "href": "https://example.com/10",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Jedenásť",
+     "href": "https://example.com/11",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Dvanásť",
+     "href": "https://example.com/12",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 Zlá URL",
+     "href": "#",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(10)",
+   "hasMore": false,
+   "badge": "+0 ›",
+   "badgeVisible": false,
+   "scrollW": 1318,
+   "clientW": 1318,
+   "maxH": "140px",
+   "scrollH": 94,
+   "h": 94,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "poKlikuNaBadge": null,
+  "stranka": {
+   "title": "Aktuálne live výsledky: golf, tenis, hokej, šípky — sportlinky.sk",
+   "cards": [
+    {
+     "n": "Záporné poradie (prvá?)",
+     "isNew": false,
+     "href": "https://example.com/6"
+    },
+    {
+     "n": "Nová linka NEW",
+     "isNew": true,
+     "href": "https://example.com/1"
+    },
+    {
+     "n": "Stará linka",
+     "isNew": false,
+     "href": "https://example.com/2"
+    },
+    {
+     "n": "Bez emoji",
+     "isNew": true,
+     "href": "https://example.com/7"
+    },
+    {
+     "n": "Osem",
+     "isNew": false,
+     "href": "https://example.com/8"
+    },
+    {
+     "n": "Deväť",
+     "isNew": false,
+     "href": "https://example.com/9"
+    },
+    {
+     "n": "Desať s dlhším názvom podujatia",
+     "isNew": false,
+     "href": "https://example.com/10"
+    },
+    {
+     "n": "Jedenásť",
+     "isNew": false,
+     "href": "https://example.com/11"
+    },
+    {
+     "n": "Dvanásť",
+     "isNew": false,
+     "href": "https://example.com/12"
+    },
+    {
+     "n": "Zlá URL",
+     "isNew": false,
+     "href": "#"
+    }
+   ]
+  },
+  "errors": []
+ },
+ "lista14_iPhone 13": {
+  "lista": {
+   "items": [
+    {
+     "t": "⛳ Záporné poradie (prvá?)",
+     "href": "https://example.com/6",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 🎾 Nová linka NEW",
+     "href": "https://example.com/1",
+     "title": "Popis SK",
+     "isNew": true
+    },
+    {
+     "t": "🏒 Stará linka",
+     "href": "https://example.com/2",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 📌 Bez emoji",
+     "href": "https://example.com/7",
+     "title": null,
+     "isNew": true
+    },
+    {
+     "t": "🎯 Osem",
+     "href": "https://example.com/8",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Deväť",
+     "href": "https://example.com/9",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Desať s dlhším názvom podujatia",
+     "href": "https://example.com/10",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Jedenásť",
+     "href": "https://example.com/11",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Dvanásť",
+     "href": "https://example.com/12",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 Zlá URL",
+     "href": "#",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(10)",
+   "hasMore": true,
+   "badge": "+8 ›",
+   "badgeVisible": true,
+   "scrollW": 1589,
+   "clientW": 342,
+   "maxH": "none",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "poKlikuNaBadge": {
+   "items": [
+    {
+     "t": "⛳ Záporné poradie (prvá?)",
+     "href": "https://example.com/6",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 🎾 Nová linka NEW",
+     "href": "https://example.com/1",
+     "title": "Popis SK",
+     "isNew": true
+    },
+    {
+     "t": "🏒 Stará linka",
+     "href": "https://example.com/2",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 📌 Bez emoji",
+     "href": "https://example.com/7",
+     "title": null,
+     "isNew": true
+    },
+    {
+     "t": "🎯 Osem",
+     "href": "https://example.com/8",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Deväť",
+     "href": "https://example.com/9",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Desať s dlhším názvom podujatia",
+     "href": "https://example.com/10",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Jedenásť",
+     "href": "https://example.com/11",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Dvanásť",
+     "href": "https://example.com/12",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 Zlá URL",
+     "href": "#",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(10)",
+   "hasMore": true,
+   "badge": "+6 ›",
+   "badgeVisible": true,
+   "scrollW": 1589,
+   "clientW": 342,
+   "maxH": "none",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: golf, tenis, hokej, šípky — sportlinky.sk",
+   "cards": [
+    {
+     "n": "Záporné poradie (prvá?)",
+     "isNew": false,
+     "href": "https://example.com/6"
+    },
+    {
+     "n": "Nová linka NEW",
+     "isNew": true,
+     "href": "https://example.com/1"
+    },
+    {
+     "n": "Stará linka",
+     "isNew": false,
+     "href": "https://example.com/2"
+    },
+    {
+     "n": "Bez emoji",
+     "isNew": true,
+     "href": "https://example.com/7"
+    },
+    {
+     "n": "Osem",
+     "isNew": false,
+     "href": "https://example.com/8"
+    },
+    {
+     "n": "Deväť",
+     "isNew": false,
+     "href": "https://example.com/9"
+    },
+    {
+     "n": "Desať s dlhším názvom podujatia",
+     "isNew": false,
+     "href": "https://example.com/10"
+    },
+    {
+     "n": "Jedenásť",
+     "isNew": false,
+     "href": "https://example.com/11"
+    },
+    {
+     "n": "Dvanásť",
+     "isNew": false,
+     "href": "https://example.com/12"
+    },
+    {
+     "n": "Zlá URL",
+     "isNew": false,
+     "href": "#"
+    }
+   ]
+  },
+  "errors": []
+ },
+ "lista14_Pixel 5": {
+  "lista": {
+   "items": [
+    {
+     "t": "⛳ Záporné poradie (prvá?)",
+     "href": "https://example.com/6",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 🎾 Nová linka NEW",
+     "href": "https://example.com/1",
+     "title": "Popis SK",
+     "isNew": true
+    },
+    {
+     "t": "🏒 Stará linka",
+     "href": "https://example.com/2",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 📌 Bez emoji",
+     "href": "https://example.com/7",
+     "title": null,
+     "isNew": true
+    },
+    {
+     "t": "🎯 Osem",
+     "href": "https://example.com/8",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Deväť",
+     "href": "https://example.com/9",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Desať s dlhším názvom podujatia",
+     "href": "https://example.com/10",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Jedenásť",
+     "href": "https://example.com/11",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Dvanásť",
+     "href": "https://example.com/12",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 Zlá URL",
+     "href": "#",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(10)",
+   "hasMore": true,
+   "badge": "+8 ›",
+   "badgeVisible": true,
+   "scrollW": 1589,
+   "clientW": 345,
+   "maxH": "none",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "poKlikuNaBadge": {
+   "items": [
+    {
+     "t": "⛳ Záporné poradie (prvá?)",
+     "href": "https://example.com/6",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 🎾 Nová linka NEW",
+     "href": "https://example.com/1",
+     "title": "Popis SK",
+     "isNew": true
+    },
+    {
+     "t": "🏒 Stará linka",
+     "href": "https://example.com/2",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "NEW 📌 Bez emoji",
+     "href": "https://example.com/7",
+     "title": null,
+     "isNew": true
+    },
+    {
+     "t": "🎯 Osem",
+     "href": "https://example.com/8",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Deväť",
+     "href": "https://example.com/9",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Desať s dlhším názvom podujatia",
+     "href": "https://example.com/10",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Jedenásť",
+     "href": "https://example.com/11",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎯 Dvanásť",
+     "href": "https://example.com/12",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 Zlá URL",
+     "href": "#",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(10)",
+   "hasMore": true,
+   "badge": "+6 ›",
+   "badgeVisible": true,
+   "scrollW": 1589,
+   "clientW": 345,
+   "maxH": "none",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/aktualne/",
+   "headTxt": "Aktuálne ›",
+   "wrapDisplay": "block"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: golf, tenis, hokej, šípky — sportlinky.sk",
+   "cards": [
+    {
+     "n": "Záporné poradie (prvá?)",
+     "isNew": false,
+     "href": "https://example.com/6"
+    },
+    {
+     "n": "Nová linka NEW",
+     "isNew": true,
+     "href": "https://example.com/1"
+    },
+    {
+     "n": "Stará linka",
+     "isNew": false,
+     "href": "https://example.com/2"
+    },
+    {
+     "n": "Bez emoji",
+     "isNew": true,
+     "href": "https://example.com/7"
+    },
+    {
+     "n": "Osem",
+     "isNew": false,
+     "href": "https://example.com/8"
+    },
+    {
+     "n": "Deväť",
+     "isNew": false,
+     "href": "https://example.com/9"
+    },
+    {
+     "n": "Desať s dlhším názvom podujatia",
+     "isNew": false,
+     "href": "https://example.com/10"
+    },
+    {
+     "n": "Jedenásť",
+     "isNew": false,
+     "href": "https://example.com/11"
+    },
+    {
+     "n": "Dvanásť",
+     "isNew": false,
+     "href": "https://example.com/12"
+    },
+    {
+     "n": "Zlá URL",
+     "isNew": false,
+     "href": "#"
+    }
+   ]
+  },
+  "errors": []
+ },
+ "vypadok_empty": {
+  "lista": {
+   "items": [],
+   "count": ""
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky — sportlinky.sk",
+   "cards": 0,
+   "text": "Práve teraz nie je nič aktívne, pozrite sa neskôr.\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktual"
+  },
+  "errors": [],
+  "ms": 1579
+ },
+ "vypadok_500": {
+  "lista": {
+   "items": [
+    "🎾 ATP scores",
+    "🎾 WTA scores",
+    "🏓 TT Star series"
+   ],
+   "count": "(3)"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "cards": 3,
+   "text": "ATP scores\nWTA scores\nTT Star series\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne."
+  },
+  "errors": [],
+  "ms": 1595
+ },
+ "vypadok_bad": {
+  "lista": {
+   "items": [
+    "🎾 ATP scores",
+    "🎾 WTA scores",
+    "🏓 TT Star series"
+   ],
+   "count": "(3)"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "cards": 3,
+   "text": "ATP scores\nWTA scores\nTT Star series\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne."
+  },
+  "errors": [],
+  "ms": 1578
+ },
+ "vypadok_net": {
+  "lista": {
+   "items": [
+    "🎾 ATP scores",
+    "🎾 WTA scores",
+    "🏓 TT Star series"
+   ],
+   "count": "(3)"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "cards": 3,
+   "text": "ATP scores\nWTA scores\nTT Star series\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne."
+  },
+  "errors": [],
+  "ms": 1627
+ },
+ "vypadok_404": {
+  "lista": {
+   "items": [
+    "🎾 ATP scores",
+    "🎾 WTA scores",
+    "🏓 TT Star series"
+   ],
+   "count": "(3)"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "cards": 3,
+   "text": "ATP scores\nWTA scores\nTT Star series\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne."
+  },
+  "errors": [],
+  "ms": 1597
+ },
+ "vypadok_slow": {
+  "lista": {
+   "items": [
+    "🎾 ATP scores",
+    "🎾 WTA scores",
+    "🏓 TT Star series"
+   ],
+   "count": "(3)"
+  },
+  "stranka": {
+   "title": "Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk",
+   "cards": 3,
+   "text": "ATP scores\nWTA scores\nTT Star series\n\nLive výsledky a scoreboardy z hlavných aj okrajových športov, aktualizované denne."
+  },
+  "errors": [],
+  "ms": 10336
+ },
+ "en": {
+  "lista": {
+   "items": [
+    {
+     "t": "🎾 ATP Scores",
+     "href": "https://www.atptour.com/en/scores/current",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🎾 WTA Scores",
+     "href": "https://www.wtatennis.com/scores",
+     "title": null,
+     "isNew": false
+    },
+    {
+     "t": "🏓 TT Star Series",
+     "href": "https://ttstar.cz/en/results/",
+     "title": null,
+     "isNew": false
+    }
+   ],
+   "count": "(3)",
+   "hasMore": false,
+   "badge": "+0 ›",
+   "badgeVisible": false,
+   "scrollW": 1318,
+   "clientW": 1318,
+   "maxH": "140px",
+   "scrollH": 50,
+   "h": 50,
+   "headHref": "/live-this-week/",
+   "headTxt": "Live This Week ›",
+   "wrapDisplay": "block"
+  },
+  "dlazdicaNaDomove": true,
+  "hSports": [
+   "/live-this-week/",
+   "/football/",
+   "/ice-hockey/",
+   "/tennis/",
+   "/basketball/",
+   "/handball/",
+   "/volleyball/",
+   "/winter-sports/",
+   "/other-sports/",
+   "/news-media/"
+  ],
+  "stranka": {
+   "url": "http://127.0.0.1:8124/live-this-week/",
+   "title": "Live scores this week: tennis, table tennis — Sportlinking",
+   "desc": "Live scores and scoreboards from major and niche sports, updated daily. Live now: tennis, table tennis.",
+   "cards": [
+    "ATP Scores",
+    "WTA Scores",
+    "TT Star Series"
+   ],
+   "intro": "Live scores and scoreboards from major and niche sports, updated daily.",
+   "h1": "🔥 Live This Week",
+   "ext": 0
+  },
+  "extPoziadavky": [
+   "https://sportlinky.sk/aktualne.json?t=1793820611475",
+   "https://gc.zgo.at/count.js"
+  ],
+  "errors": []
+ },
+ "skDomov": {
+  "dlazdicaAktualne": false,
+  "hSports": [
+   "/futbal/",
+   "/hokej/",
+   "/tenis/",
+   "/basketbal/",
+   "/hadzana/",
+   "/volejbal/",
+   "/zimne-sporty/",
+   "/ostatne-sporty/",
+   "/spravy-media/",
+   "/tipovanie/"
+  ],
+  "fLive": {
+   "hidden": false,
+   "href": "/aktualne/",
+   "text": "Aktuálne – live výsledky"
+  },
+  "aktHead": "/aktualne/"
+ }
+}

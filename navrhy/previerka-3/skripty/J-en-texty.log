@@ -1,0 +1,64 @@
+== JS riadky so slovenským textom bez IS_EN: 150; z toho mimo admin funkcií: 38
+  r. 875 [None] ['Športové Linky']
+  r. 924 [idbOpen] ['IndexedDB nie je k dispozícii']
+  r.1189 [safeUrl] ['Ázia', 'Južná Amerika']
+  r.1190 [safeUrl] ['Severná Amerika', 'Severná a Stredná Amerika', 'Oceánia']
+  r.1191 [safeUrl] ['Južná a Stredná Amerika (SCAHC)', 'Severná Amerika a Karibik (NACHC)']
+  r.1246 [folderCountText] ["${sub} ${skl(sub,'sekcia','sekcie','sekcií')}"]
+  r.1247 [folderCountText] ["${total} ${skl(total,'linka','linky','liniek')}"]
+  r.1547 [childCount] ['sekcií']
+  r.1548 [childCount] ['linka', 'liniek']
+  r.1653 [updateHead] [' — športové linky: ', ' podkategórií, ', ' liniek.']
+  r.1790 [renderLevel] ['<div class="empty"><div class="e-icon">📂</div><p>Bez dát. Otvor ⚙️ Admin → 📥 Import a nahraj data.json.</p></div>']
+  r.1812 [renderLevel] [' title="Na SK webe bez dlaždice (noTileSk) — návštevník ju nevidí"']
+  r.1814 [renderLevel] ['Hore']
+  r.1815 [renderLevel] ['Dole']
+  r.1816 [renderLevel] ['Upraviť']
+  r.1817 [renderLevel] ['Zmazať']
+  r.1822 [renderLevel] ['<span class="no-tile-tag">bez dlaždice</span>']
+  r.1880 [renderLevel] ['<div class="empty"><div class="e-icon">📂</div><p>Sekcia je prázdna. Pridaj priečinok alebo linku.</p></div>']
+  r.1884 [renderLevel] ['<div class="live-admin"><button class="btn btn-p" onclick="openAktualne()">📌 Upraviť Aktuálne</button> <span style="font-size:0.8rem;color:var(--muted)">Obsah tejto stránky sa skladá z Aktuálnych (v ručnom poradí). Vlastné linky sem nepridávaj.</span></div>']
+  r.2211 [promoWarnHtml] ['<div class="promo-warn">Hazardné hry predstavujú riziko vysokých finančných strát. Nadmerné hranie hazardných hier predstavuje riziko vzniku závislosti. Hráčom môže byť len osoba staršia ako 18 rokov.</div>']
+  r.2226 [renderPromoBlock] ['<a class="promo-btn" href="${attrEsc(safeUrl(p.btnUrl))}" target="_blank" rel="noopener sponsored">${attrEsc(p.btnText||\'Viac\')} ›</a>']
+  r.2372 [searchCountText] ['Nájdený 1 výsledok', 'Nájdené ', ' výsledky']
+  r.2963 [adFrame] ['<iframe class="adframe adframe-${auto ? \'auto\' : \'slot\'}" sandbox="${AD_SANDBOX}" srcdoc="${attrEsc(doc)}" title="Reklama" scrolling="no"></iframe>']
+  r.3012 [renderOneSlot] ["${attrEsc(banner.alt||'Reklama')}"]
+  r.3212 [None] ['stolný tenis']
+  r.3213 [None] ['šípky']
+  r.3215 [None] ['plávanie']
+  r.3216 [None] ['motošport']
+  r.3218 [None] ['hádzaná']
+  r.3219 [None] ['zimné športy', 'bojové športy']
+  r.3220 [None] ['šach']
+  r.3221 [None] ['multišportové podujatie', 'iné']
+  r.3313 [liveMetaDesc] ['Live výsledky a výsledkové servisy športov, ktoré sa práve hrajú.']
+  r.3820 [renderAktualne] ['Vypnuté', 'Čaká na dátum OD', 'Skončené']
+  r.3826 [renderAktualne] [' — verejnosť túto linku nevidí']
+  r.3853 [updateAktFade] ['Zobraziť ďalšiu 1 linku']
+  r.3854 [updateAktFade] ['Zobraziť ďalšie ']
+  r.3855 [updateAktFade] ['Zobraziť ďalších ', ' liniek', 'Zobraziť ďalšie linky']
+
+== EN náhrady v generator.py (main) — reťazce, ktoré v index.html NIE SÚ (náhrada potichu zlyhá):
+  overených dvojíc: 23, nájdených v index.html: 23
+
+== HTML atribúty (title/aria-label/placeholder/alt) so slovenčinou v tele index.html: 20
+  aria-label="Admin prístup"  (nenahrádza sa — EN admin/JS?)
+  aria-label="Zavrieť"  (nenahrádza sa — EN admin/JS?)
+  title="Zavrieť"  (nenahrádza sa — EN admin/JS?)
+  aria-label="Športy"  (nenahrádza sa — EN admin/JS?)
+  aria-label="Hľadaj v strome"  → nahrádza generátor
+  placeholder="🔍  Hľadaj kdekoľvek v strome..."  → nahrádza generátor
+  title="Dlaždice"  (nenahrádza sa — EN admin/JS?)
+  title="Stĺpce — priečinky sa otvárajú myšou"  (nenahrádza sa — EN admin/JS?)
+  aria-label="Zobraziť ďalšie linky"  → nahrádza generátor
+  title="Verzia dát, na ktorej práve pracuješ"  (nenahrádza sa — EN admin/JS?)
+  placeholder="od; do; šport; názov SK; názov EN; URL; popis SK; popis EN"  (nenahrádza sa — EN admin/JS?)
+  placeholder="len ak sa líši od slovenského"  (nenahrádza sa — EN admin/JS?)
+  placeholder="Najviac športových streamov na Slovensku"  (nenahrádza sa — EN admin/JS?)
+  placeholder="Sledovať streamy"  (nenahrádza sa — EN admin/JS?)
+  placeholder="https://www.facebook.com/... (nepovinné)"  (nenahrádza sa — EN admin/JS?)
+  placeholder="https://www.instagram.com/... (nepovinné)"  (nenahrádza sa — EN admin/JS?)
+  placeholder="Krátky popis"  (nenahrádza sa — EN admin/JS?)
+  placeholder="len ak sa líši od slovenského"  (nenahrádza sa — EN admin/JS?)
+  placeholder="anglický popis pre sportlinking.com"  (nenahrádza sa — EN admin/JS?)
+  placeholder="Nové heslo"  (nenahrádza sa — EN admin/JS?)

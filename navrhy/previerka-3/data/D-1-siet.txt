@@ -1,0 +1,86 @@
+
+### domov — http://127.0.0.1:8123/  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Športové Linky — 14 000+ webov klubov, líg a správ")
+požiadaviek: 7, nezbalené 5617 kB, gzip 1221 kB, brotli 914 kB; podľa typu: document 1× 255 kB (gz 78), fetch 3× 5362 kB (gz 1143), script 3× 0 kB (gz 0)
+externé pokusy (zablokované): 3 → https://ban.tipsport.sk/c/textA.php?pl=131672 | https://gc.zgo.at/count.js | https://ban.tipsport.sk/c/textA.php?pl=131671
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→110 | document | 200 | 261492 | 79532 | / |
+| 2 | 104→129 | fetch | 200 | 1576 | 449 | /aktualne.json?t=1793819831068 |
+| 3 | 107→128 | fetch | 200 | 5 | 25 | /version.txt |
+| 4 | 115→128 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131672 |
+| 5 | 116→128 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js |
+| 6 | 125→130 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131671 |
+| 7 | 132→229 | fetch | 200 | 5488797 | 1170008 | /data.json?v=1125 |
+ikonky: 0× (0 B, 404: 0, prvá - ms, posledná - ms); vlajky: 0× (0 B, 404: 0) 
+
+### sekcia Anglicko — http://127.0.0.1:8123/futbal/kluby/europa/anglicko/  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Anglicko — Európa · Futbal — Športové Linky")
+požiadaviek: 12, nezbalené 5641 kB, gzip 1231 kB, brotli 923 kB; podľa typu: document 1× 22 kB (gz 8), fetch 4× 5617 kB (gz 1221), image 4× 3 kB (gz 3), script 3× 0 kB (gz 0)
+externé pokusy (zablokované): 3 → https://gc.zgo.at/count.js | https://ban.tipsport.sk/c/textA.php?pl=131673 | https://ban.tipsport.sk/c/textA.php?pl=131691
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→22 | document | 200 | 22189 | 7842 | /futbal/kluby/europa/anglicko/ |
+| 2 | 20→35 | fetch | 200 | 261492 | 79532 | /index.html |
+| 3 | 104→126 | fetch | 200 | 1576 | 449 | /aktualne.json?t=1793819850376 |
+| 4 | 105→126 | fetch | 200 | 5 | 25 | /version.txt |
+| 5 | 105→121 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js |
+| 6 | 117→126 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131673 |
+| 7 | 122→126 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131691 |
+| 8 | 127→217 | fetch | 200 | 5488797 | 1170008 | /data.json?v=1125 |
+ikonky: 0× (0 B, 404: 0, prvá - ms, posledná - ms); vlajky: 4× (2611 B, 404: 0) 24x18,20x15,16x12,40x30
+
+### liga Championship (24 klubov) — http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Championship — Anglicko · Futbal — Športové Linky")
+požiadaviek: 37, nezbalené 5693 kB, gzip 1274 kB, brotli 966 kB; podľa typu: document 1× 32 kB (gz 10), fetch 4× 5617 kB (gz 1221), image 29× 44 kB (gz 44), script 3× 0 kB (gz 0)
+externé pokusy (zablokované): 3 → https://gc.zgo.at/count.js | https://ban.tipsport.sk/c/textA.php?pl=131673 | https://ban.tipsport.sk/c/textA.php?pl=131691
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→18 | document | 200 | 32765 | 9730 | /futbal/kluby/europa/anglicko/championship/ |
+| 2 | 17→38 | fetch | 200 | 261492 | 79532 | /index.html |
+| 3 | 111→152 | fetch | 200 | 1576 | 449 | /aktualne.json?t=1793819869359 |
+| 4 | 112→152 | fetch | 200 | 5 | 25 | /version.txt |
+| 5 | 112→151 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js |
+| 6 | 143→156 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131673 |
+| 7 | 151→156 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131691 |
+| 8 | 162→320 | fetch | 200 | 5488797 | 1170008 | /data.json?v=1125 |
+ikonky: 27× (43647 B, 404: 0, prvá 129 ms, posledná 225 ms); vlajky: 2× (1054 B, 404: 0) 24x18,16x12
+
+### Aktuálne — http://127.0.0.1:8123/aktualne/  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Aktuálne live výsledky: tenis, stolný tenis — sportlinky.sk")
+požiadaviek: 11, nezbalené 5638 kB, gzip 1232 kB, brotli 924 kB; podľa typu: document 1× 16 kB (gz 7), fetch 4× 5617 kB (gz 1221), script 3× 0 kB (gz 0), image 3× 5 kB (gz 4)
+externé pokusy (zablokované): 3 → https://gc.zgo.at/count.js | https://ban.tipsport.sk/c/textA.php?pl=131672 | https://ban.tipsport.sk/c/textA.php?pl=131671
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→15 | document | 200 | 16767 | 6818 | /aktualne/ |
+| 2 | 14→28 | fetch | 200 | 261492 | 79532 | /index.html |
+| 3 | 86→119 | fetch | 200 | 1576 | 449 | /aktualne.json?t=1793819888400 |
+| 4 | 89→111 | fetch | 200 | 5 | 25 | /version.txt |
+| 5 | 90→99 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js |
+| 6 | 95→99 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131672 |
+| 7 | 100→105 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131671 |
+| 8 | 110→219 | fetch | 200 | 5488797 | 1170008 | /data.json?v=1125 |
+ikonky: 3× (4619 B, 404: 0, prvá 92 ms, posledná 119 ms); vlajky: 0× (0 B, 404: 0) 
+
+### hľadanie „arsenal“ (domov → zadanie textu) — http://127.0.0.1:8123/?q  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Športové Linky — 14 000+ webov klubov, líg a správ")
+požiadaviek: 20, nezbalené 5637 kB, gzip 1241 kB, brotli 934 kB; podľa typu: document 1× 255 kB (gz 78), fetch 3× 5362 kB (gz 1143), script 3× 0 kB (gz 0), image 13× 20 kB (gz 20)
+externé pokusy (zablokované): 3 → https://ban.tipsport.sk/c/textA.php?pl=131672 | https://gc.zgo.at/count.js | https://ban.tipsport.sk/c/textA.php?pl=131671
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→95 | document | 200 | 261492 | 79532 | / (pred hľadaním) |
+| 2 | 93→120 | fetch | 200 | 1576 | 449 | /aktualne.json?t=1793819908083 (pred hľadaním) |
+| 3 | 94→119 | fetch | 200 | 5 | 25 | /version.txt (pred hľadaním) |
+| 4 | 104→112 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131672 (pred hľadaním) |
+| 5 | 105→119 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js (pred hľadaním) |
+| 6 | 107→120 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://ban.tipsport.sk/c/textA.php?pl=131671 (pred hľadaním) |
+| 7 | 123→236 | fetch | 200 | 5488797 | 1170008 | /data.json?v=1125 (pred hľadaním) |
+ikonky: 10× (18876 B, 404: 0, prvá 9504 ms, posledná 9537 ms); vlajky: 3× (1963 B, 404: 0) 24x18
+
+### EN domov — http://127.0.0.1:8124/  (po 9 s: appka=true, uzlov v DB=0, partial=false, title="Sportlinking — 14,000+ club, league and news websites")
+požiadaviek: 6, nezbalené 5879 kB, gzip 1219 kB, brotli 921 kB; podľa typu: document 1× 259 kB (gz 79), fetch 4× 5620 kB (gz 1141), script 1× 0 kB (gz 0)
+externé pokusy (zablokované): 2 → https://sportlinky.sk/aktualne.json?t=1793819931241 | https://gc.zgo.at/count.js
+| # | čas štart→koniec (ms) | typ | stav | nezbal. B | gzip B | súbor |
+|---|---|---|---|---:|---:|---|
+| 1 | 0→81 | document | 200 | 265345 | 80496 | [EN]/ |
+| 2 | 79→87 | fetch | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://sportlinky.sk/aktualne.json?t=1793819931241 |
+| 3 | 80→93 | fetch | 200 | 5 | 25 | [EN]/version.txt |
+| 4 | 84→89 | script | net::ERR_BLOCKED_BY_CLIENT.Inspector | 0 |  | https://gc.zgo.at/count.js |
+| 5 | 88→96 | fetch | 200 | 1576 | 449 | [EN]/aktualne.json?t=1793819931255 |
+| 6 | 95→223 | fetch | 200 | 5753036 | 1167758 | [EN]/data.json?v=1125 |
+ikonky: 0× (0 B, 404: 0, prvá - ms, posledná - ms); vlajky: 0× (0 B, 404: 0) 

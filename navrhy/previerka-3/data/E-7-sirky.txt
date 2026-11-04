@@ -1,0 +1,58 @@
+| Stránka | šírka | scrollWidth > innerWidth? | doc šírka | pretekajúce prvky | dotykové ciele <44 px (z N) | stĺpce (.cols) viditeľné? | vswitch viditeľný? |
+|---|---:|---|---|---|---|---|---|
+| domov | 320 | nie | 320/320 | a.akt-card 162px; span.akt-icon 42px; span 147px | 10 z 20 | nie | nie |
+| domov | 360 | nie | 360/360 | a.akt-card 122px; span.akt-icon 2px; span 107px | 10 z 20 | nie | nie |
+| domov | 375 | nie | 375/375 | a.akt-card 107px; span 92px | 10 z 20 | nie | nie |
+| domov | 390 | nie | 390/390 | a.akt-card 92px; span 77px | 10 z 20 | nie | nie |
+  meta viewport: "width=device-width, initial-scale=1.0"; vstupy (font-size): srch:16px rotateChk:13.3333px rotateInterval:13.12px aBulk:14.08px aUrl:14.08px aName:14.08px aNameEn:14.08px aSport:14.08px aIcon:14.08px aStart:14.08px aEnd:14.08px aDesc:14.08px aDescEn:14.08px pbHtml:14.08px pbLabel:14.08px pbSection:14.08px pbActive:14.08px pName:14.08px pTitle:14.08px pText:14.08px pBtnText:14.08px pBtnUrl:14.08px pSection:14.08px pFrom:14.08px pTo:14.08px pWeight:14.08px pActive:14.08px bName:14.08px bImg:14.08px bLink:14.08px bAlt:14.08px bSlot:14.08px bSection:14.08px bFrom:14.08px bTo:14.08px bWeight:14.08px bHtml:14.08px nUrl:14.08px nFb:14.08px nIg:14.08px nName:14.08px nDesc:14.08px nNameEn:14.08px nDescEn:14.08px nIcon:14.08px stTitle:14.08px stSub:14.08px stPw:14.08px; výška dokumentu 1420px
+| domov | 414 | nie | 414/414 | a.akt-card 68px; span 53px | 10 z 20 | nie | nie |
+| domov | 430 | nie | 430/430 | a.akt-card 52px; span 37px | 10 z 20 | nie | nie |
+| domov | 768 | nie | 768/768 | - | 8 z 19 | nie | nie |
+| sekcia | 320 | nie | 320/320 | a.akt-card 162px; span.akt-icon 42px; span 147px | 15 z 22 | nie | nie |
+| sekcia | 360 | nie | 360/360 | a.akt-card 122px; span.akt-icon 2px; span 107px | 15 z 22 | nie | nie |
+| sekcia | 375 | nie | 375/375 | a.akt-card 107px; span 92px | 15 z 22 | nie | nie |
+| sekcia | 390 | nie | 390/390 | a.akt-card 92px; span 77px | 15 z 22 | nie | nie |
+  meta viewport: "width=device-width, initial-scale=1.0"; vstupy (font-size): srch:16px rotateChk:13.3333px rotateInterval:13.12px aBulk:14.08px aUrl:14.08px aName:14.08px aNameEn:14.08px aSport:14.08px aIcon:14.08px aStart:14.08px aEnd:14.08px aDesc:14.08px aDescEn:14.08px pbHtml:14.08px pbLabel:14.08px pbSection:14.08px pbActive:14.08px pName:14.08px pTitle:14.08px pText:14.08px pBtnText:14.08px pBtnUrl:14.08px pSection:14.08px pFrom:14.08px pTo:14.08px pWeight:14.08px pActive:14.08px bName:14.08px bImg:14.08px bLink:14.08px bAlt:14.08px bSlot:14.08px bSection:14.08px bFrom:14.08px bTo:14.08px bWeight:14.08px bHtml:14.08px nUrl:14.08px nFb:14.08px nIg:14.08px nName:14.08px nDesc:14.08px nNameEn:14.08px nDescEn:14.08px nIcon:14.08px stTitle:14.08px stSub:14.08px stPw:14.08px; výška dokumentu 1331px
+| sekcia | 414 | nie | 414/414 | a.akt-card 68px; span 53px | 15 z 22 | nie | nie |
+| sekcia | 430 | nie | 430/430 | a.akt-card 52px; span 37px | 15 z 22 | nie | nie |
+| sekcia | 768 | nie | 768/768 | - | 13 z 21 | nie | nie |
+| liga | 320 | nie | 320/320 | a.akt-card 162px; span.akt-icon 42px; span 147px | 64 z 89 | nie | nie |
+| liga | 360 | nie | 360/360 | a.akt-card 122px; span.akt-icon 2px; span 107px | 65 z 89 | nie | nie |
+| liga | 375 | nie | 375/375 | a.akt-card 107px; span 92px | 66 z 89 | nie | nie |
+| liga | 390 | nie | 390/390 | a.akt-card 92px; span 77px | 66 z 89 | nie | nie |
+  meta viewport: "width=device-width, initial-scale=1.0"; vstupy (font-size): srch:16px rotateChk:13.3333px rotateInterval:13.12px aBulk:14.08px aUrl:14.08px aName:14.08px aNameEn:14.08px aSport:14.08px aIcon:14.08px aStart:14.08px aEnd:14.08px aDesc:14.08px aDescEn:14.08px pbHtml:14.08px pbLabel:14.08px pbSection:14.08px pbActive:14.08px pName:14.08px pTitle:14.08px pText:14.08px pBtnText:14.08px pBtnUrl:14.08px pSection:14.08px pFrom:14.08px pTo:14.08px pWeight:14.08px pActive:14.08px bName:14.08px bImg:14.08px bLink:14.08px bAlt:14.08px bSlot:14.08px bSection:14.08px bFrom:14.08px bTo:14.08px bWeight:14.08px bHtml:14.08px nUrl:14.08px nFb:14.08px nIg:14.08px nName:14.08px nDesc:14.08px nNameEn:14.08px nDescEn:14.08px nIcon:14.08px stTitle:14.08px stSub:14.08px stPw:14.08px; výška dokumentu 2698px
+| liga | 414 | nie | 414/414 | a.akt-card 68px; span 53px | 68 z 89 | nie | nie |
+| liga | 430 | nie | 430/430 | a.akt-card 52px; span 37px | 70 z 89 | nie | nie |
+| liga | 768 | nie | 768/768 | - | 62 z 88 | nie | nie |
+| hladanie | 320 | nie | 320/320 | a.akt-card 162px; span.akt-icon 42px; span 147px | 55 z 69 | nie | nie |
+| hladanie | 360 | nie | 360/360 | a.akt-card 122px; span.akt-icon 2px; span 107px | 55 z 69 | nie | nie |
+| hladanie | 375 | nie | 375/375 | a.akt-card 107px; span 92px | 55 z 69 | nie | nie |
+| hladanie | 390 | nie | 390/390 | a.akt-card 92px; span 77px | 55 z 69 | nie | nie |
+  meta viewport: "width=device-width, initial-scale=1.0"; vstupy (font-size): srch:16px rotateChk:13.3333px rotateInterval:13.12px aBulk:14.08px aUrl:14.08px aName:14.08px aNameEn:14.08px aSport:14.08px aIcon:14.08px aStart:14.08px aEnd:14.08px aDesc:14.08px aDescEn:14.08px pbHtml:14.08px pbLabel:14.08px pbSection:14.08px pbActive:14.08px pName:14.08px pTitle:14.08px pText:14.08px pBtnText:14.08px pBtnUrl:14.08px pSection:14.08px pFrom:14.08px pTo:14.08px pWeight:14.08px pActive:14.08px bName:14.08px bImg:14.08px bLink:14.08px bAlt:14.08px bSlot:14.08px bSection:14.08px bFrom:14.08px bTo:14.08px bWeight:14.08px bHtml:14.08px nUrl:14.08px nFb:14.08px nIg:14.08px nName:14.08px nDesc:14.08px nNameEn:14.08px nDescEn:14.08px nIcon:14.08px stTitle:14.08px stSub:14.08px stPw:14.08px; výška dokumentu 3291px
+| hladanie | 414 | nie | 414/414 | a.akt-card 68px; span 53px | 55 z 69 | nie | nie |
+| hladanie | 430 | nie | 430/430 | a.akt-card 52px; span 37px | 55 z 69 | nie | nie |
+| hladanie | 768 | nie | 768/768 | - | 53 z 68 | nie | nie |
+| aktualne | 320 | nie | 320/320 | - | 10 z 10 | nie | nie |
+| aktualne | 360 | nie | 360/360 | - | 10 z 10 | nie | nie |
+| aktualne | 375 | nie | 375/375 | - | 10 z 10 | nie | nie |
+| aktualne | 390 | nie | 390/390 | - | 10 z 10 | nie | nie |
+  meta viewport: "width=device-width, initial-scale=1.0"; vstupy (font-size): srch:16px rotateChk:13.3333px rotateInterval:13.12px aBulk:14.08px aUrl:14.08px aName:14.08px aNameEn:14.08px aSport:14.08px aIcon:14.08px aStart:14.08px aEnd:14.08px aDesc:14.08px aDescEn:14.08px pbHtml:14.08px pbLabel:14.08px pbSection:14.08px pbActive:14.08px pName:14.08px pTitle:14.08px pText:14.08px pBtnText:14.08px pBtnUrl:14.08px pSection:14.08px pFrom:14.08px pTo:14.08px pWeight:14.08px pActive:14.08px bName:14.08px bImg:14.08px bLink:14.08px bAlt:14.08px bSlot:14.08px bSection:14.08px bFrom:14.08px bTo:14.08px bWeight:14.08px bHtml:14.08px nUrl:14.08px nFb:14.08px nIg:14.08px nName:14.08px nDesc:14.08px nNameEn:14.08px nDescEn:14.08px nIcon:14.08px stTitle:14.08px stSub:14.08px stPw:14.08px; výška dokumentu 800px
+| aktualne | 414 | nie | 414/414 | - | 10 z 10 | nie | nie |
+| aktualne | 430 | nie | 430/430 | - | 10 z 10 | nie | nie |
+| aktualne | 768 | nie | 768/768 | - | 9 z 10 | nie | nie |
+
+### Dotykové ciele menšie než 44×44 px (max. počet na jednej stránke, rozmery, kde)
+| Selektor | max. počet | rozmery | stránky |
+|---|---:|---|---|
+| `a.si (v .card-link)` | 48 | 20×20, 15×15 | liga@320, liga@360, liga@375, liga@390 … |
+| `a (v .card-link)` | 15 | 306×33, 321×33, 336×33, 360×33 | liga@360, liga@375, liga@390, liga@414 … |
+| `a.bc-item` | 5 | 64×16, 58×16, 55×16 | sekcia@320, sekcia@360, sekcia@375, sekcia@390 … |
+| `a.akt-card (v Aktuálne)` | 3 | 139×36, 145×36, 158×36 | domov@320, domov@360, domov@375, domov@390 … |
+| `a#homeLink.h-left (v header)` | 1 | 185×40 | domov@320, domov@360, domov@375, domov@390 … |
+| `input#srch (v header)` | 1 | 292×42, 332×42, 347×42, 362×42 | domov@320, domov@360, domov@375, domov@390 … |
+| `a.bc-item.active` | 1 | 64×16, 75×16, 111×16, 76×16 | domov@320, domov@360, domov@375, domov@390 … |
+| `a#aktHead.akt-head (v Aktuálne)` | 1 | 101×15 | domov@320, domov@360, domov@375, domov@390 … |
+| `button#aktMoreBadge (v Aktuálne)` | 1 | 36×20, 21×20 | domov@320, domov@360, domov@375, domov@390 … |
+| `a#homeLink2.f-wordmark (vo footer)` | 1 | 135×17 | domov@320, domov@360, domov@375, domov@390 … |
+| `a#fLive.f-live (vo footer)` | 1 | 141×15 | domov@320, domov@360, domov@375, domov@390 … |
+| `button.bc-back.visible` | 1 | 75×30 | sekcia@320, sekcia@360, sekcia@375, sekcia@390 … |

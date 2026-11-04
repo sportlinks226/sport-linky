@@ -1,0 +1,47 @@
+| Beh | Výkon | Prístup. | Best pr. | SEO | FCP | LCP | TBT | CLS | SI | TTI | LCP prvok |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| desktop-domov | 99 | 100 | 100 | 100 | 0.3 s | 0.5 s | 100 ms | 0 | 0.4 s | 0.6 s | <span class="f-note"> |
+| mobil-aktualne | 80 | 100 | 100 | 100 | 0.7 s | 1.8 s | 840 ms | 0 | 0.8 s | 1.9 s | <span class="f-note"> |
+| mobil-anglicko | 57 | 100 | 100 | 100 | 0.7 s | 7.6 s | 780 ms | 0 | 1.1 s | 7.6 s | <div class="c-name"> |
+| mobil-championship | 54 | 100 | 100 | 100 | 0.7 s | 7.8 s | 970 ms | 0 | 1.0 s | 7.8 s | <div class="cl-desc"> |
+| mobil-domov | 57 | 100 | 100 | 100 | 1.3 s | 7.7 s | 750 ms | 0 | 2.3 s | 7.7 s | <div pseudo="-webkit-input-placeholder" id="placeholder" style="display: block !important; |
+| mobil-en-domov | 90 | 95 | 100 | 100 | 1.4 s | 1.8 s | 380 ms | 0 | 1.4 s | 2.0 s | <div pseudo="-webkit-input-placeholder" id="placeholder" style="display: block !important; |
+
+## Odporúčania (audit so skóre < 0.9 alebo úspora), podľa behu
+
+### desktop-domov
+- neúspešné: unminified-javascript (skóre 0.5, Est savings of 19 KiB); unused-javascript (skóre 0.5, Est savings of 26 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: 
+- požiadaviek: 7, prenesené 1244 kB (transfer), 5618 kB (resource); najväčšie: /data.json?v=1125 1164 kB, / 78 kB, /aktualne.json?t=1793820621286 1 kB, /favicon.svg 1 kB
+- dlhé úlohy: 129 ms @441, 65 ms @376, 59 ms @262, 52 ms @570
+
+### mobil-aktualne
+- neúspešné: total-blocking-time (skóre 0.34, 840 ms); max-potential-fid (skóre 0.23, 360 ms); mainthread-work-breakdown (skóre 0, 2.7 s); uses-long-cache-ttl (skóre 0.5, 3 resources found); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 5 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: 
+- požiadaviek: 11, prenesené 1257 kB (transfer), 5639 kB (resource); najväčšie: /data.json?v=1125 1164 kB, /index.html 78 kB, /aktualne/ 7 kB, /ikony/ttstar.cz.png 3 kB
+- dlhé úlohy: 363 ms @1438, 283 ms @798, 240 ms @1198, 161 ms @1801, 137 ms @602, 61 ms @1137, 56 ms @1081
+
+### mobil-anglicko
+- neúspešné: largest-contentful-paint (skóre 0.04, 7.6 s); total-blocking-time (skóre 0.37, 780 ms); max-potential-fid (skóre 0.22, 370 ms); interactive (skóre 0.46, 7.6 s); mainthread-work-breakdown (skóre 0, 3.3 s); largest-contentful-paint-element (skóre 0, 7,580 ms); uses-long-cache-ttl (skóre 0.5, 4 resources found); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 4 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: 
+- požiadaviek: 12, prenesené 1257 kB (transfer), 5643 kB (resource); najväčšie: /data.json?v=1125 1164 kB, /index.html 78 kB, /futbal/kluby/europa/anglicko/ 8 kB, /vlajky/80x60/gb-eng.png 2 kB
+- dlhé úlohy: 367 ms @823, 280 ms @1410, 186 ms @1224, 111 ms @1690, 71 ms @625, 66 ms @757, 61 ms @696, 59 ms @1930
+
+### mobil-championship
+- neúspešné: largest-contentful-paint (skóre 0.03, 7.8 s); total-blocking-time (skóre 0.28, 970 ms); max-potential-fid (skóre 0.14, 430 ms); interactive (skóre 0.44, 7.8 s); mainthread-work-breakdown (skóre 0, 3.1 s); largest-contentful-paint-element (skóre 0, 7,810 ms); uses-long-cache-ttl (skóre 0.5, 29 resources found); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 49 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: 
+- požiadaviek: 37, prenesené 1307 kB (transfer), 5694 kB (resource); najväčšie: /data.json?v=1125 1164 kB, /index.html 78 kB, /futbal/kluby/europa/anglicko/championship/ 10 kB, /ikony/instagram.com.png 4 kB
+- dlhé úlohy: 433 ms @1458, 260 ms @716, 204 ms @1254, 164 ms @1891, 133 ms @976, 81 ms @1150, 54 ms @602
+
+### mobil-domov
+- neúspešné: largest-contentful-paint (skóre 0.03, 7.7 s); total-blocking-time (skóre 0.39, 750 ms); max-potential-fid (skóre 0.07, 530 ms); interactive (skóre 0.46, 7.7 s); largest-contentful-paint-element (skóre 0, 7,660 ms); unminified-javascript (skóre 0.5, Est savings of 19 KiB); unused-javascript (skóre 0, Est savings of 26 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: unused-javascript úspora 150 ms
+- požiadaviek: 7, prenesené 1244 kB (transfer), 5618 kB (resource); najväčšie: /data.json?v=1125 1164 kB, / 78 kB, /aktualne.json?t=1793820550304 1 kB, /favicon.svg 1 kB
+- dlhé úlohy: 529 ms @1670, 249 ms @1103, 169 ms @1501, 127 ms @2199, 124 ms @1377, 50 ms @1053
+
+### mobil-en-domov
+- neúspešné: total-blocking-time (skóre 0.69, 380 ms); max-potential-fid (skóre 0.4, 280 ms); mainthread-work-breakdown (skóre 0, 2.7 s); link-name (skóre 0); unminified-javascript (skóre 0.5, Est savings of 19 KiB); unused-javascript (skóre 0, Est savings of 26 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: unused-javascript úspora 150 ms
+- požiadaviek: 8, prenesené 1242 kB (transfer), 5879 kB (resource); najväčšie: /data.json?v=1125 1161 kB, / 79 kB, /aktualne.json?t=1793820590780 1 kB, /favicon.svg 1 kB
+- prístupnosť/SEO neúspešné: link-name (1)
+- dlhé úlohy: 281 ms @1133, 271 ms @1690, 168 ms @1522, 97 ms @1961, 80 ms @1053, 77 ms @1445, 50 ms @2078

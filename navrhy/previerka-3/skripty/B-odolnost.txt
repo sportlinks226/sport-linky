@@ -1,0 +1,124 @@
+vzorový priečinok: f_hok_klu_na_nhl NHL | vzorová linka: f_hok_klu_na_nhl_liga NHL – National Hockey League
+
+### linka a priecinok bez name
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: H1 NHL stránky: <span class="ic"><span aria-hidden="true">🏒</span> </span> | cesta: ['nhl']
+
+### linka bez name
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: prázdny názov karty: True
+
+### linka bez url
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: karta s href="#": True
+
+### priecinok bez parentId (stane sa korenovym)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: NHL ako koreňová stránka: True | na domove dlaždica NHL: True
+
+### osirely uzol (parent neexistuje)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: NHL stránka existuje: False (linky v nej sú potichu mimo webu)
+
+### cyklus parentId (A->B->A)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+
+### duplicitne slugy surodencov
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: priečinky so slugom nhl*: ['nhl', 'nhl-2'] | _slugFix v data.json: {'f_hok_klu_na_ahl': 'nhl-2'}
+
+### nazov s </script>, uvodzovkami a apostrofom
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: neescapovaný skript v HTML: True | '</' v pageBoot: False | '</' v JSON-LD: False | title: NHL &lt;/script&gt; &quot;q&quot; — Severná Amerika · Hokej  | h1 obsahuje &lt;/script&gt;: True
+
+### url javascript:
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: javascript: v href: False | javascript: kdekoľvek v HTML (pageBoot JSON): True | data.json obsahuje javascript: True
+
+### velmi dlhy nazov (680 znakov) bez slugu
+  výsledok: PADOL (kód 1)
+  stderr: OSError: [Errno 36] File name too long: '_site/hokej/kluby/severna-amerika/velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velmi-dlhy-nazov-velm
+  miesto: File "/tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/build/odolnost/velmi-dlhy-nazov-680-znakov-bez-slugu/generator.py", line 1795, in main
+
+### prazdne nodes
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: index.html: True | sitemap adries: 1 | titulok: Športové Linky — 0 webov klubov, líg a správ
+
+### nodes chyba uplne
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+
+### nevalidny aktualne.json (useknuty)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: aktualne.json sa nedá prečítať (Expecting ',' delimiter: line 1 column 36 (char 35)) — beriem Aktuálne z data.json.
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: aktualne.json na webe: False | lišta na domove: 0 kariet
+
+### aktualne.json bez items
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: aktualne.json nemá pole "items" — beriem Aktuálne z data.json.
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: aktualne.json na webe: False
+
+### aktualne.json je pole
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: aktualne.json nemá pole "items" — beriem Aktuálne z data.json.
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+
+### aktualne: addedAt text, order text, zly datum, endsAt cislo, polozka nie slovnik
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: kariet na domove: 2
+
+### bez aktualne.json (fallback na data.json)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: aktualne.json na webe: False | kariet na domove: 0
+
+### chyba bannerSettings a banners
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+
+### banners nie je zoznam
+  výsledok: PADOL (kód 1)
+  stderr: AttributeError: 'str' object has no attribute 'get'
+  miesto: File "/tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/build/odolnost/banners-nie-je-zoznam/generator.py", line 1359, in promo_block
+
+### version chyba
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: version.txt: '\n' | data.json?v= v stránke: data.json"
+
+### uzol bez type
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+
+### order ako text
+  výsledok: PADOL (kód 1)
+  stderr: TypeError: '<' not supported between instances of 'int' and 'str'
+  miesto: File "/tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/build/odolnost/order-ako-text/generator.py", line 492, in build_tree
+
+### icon so znakmi cesty a HTML
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: surový <img src=x> v HTML: False | vlajka ../: False
+
+### duplicitne id uzla
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: počet kariet v NHL: 34
+
+### nazov len z otaznikov bez slugu (slugify -> prazdne)
+  výsledok: prešiel (kód 0)
+  varovanie: UPOZORNENIE: priečinok ikony/ chýba — ikonky webov na webe nebudú (build pokračuje).
+  výstup: priečinky: ['kat-f-hok-klu-na-nhl']

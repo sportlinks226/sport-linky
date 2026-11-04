@@ -1,0 +1,198 @@
+Linky podľa sekcie (koreň):
+  Aktuálne           liniek=     0  priečinkov=1
+  Futbal             liniek=  5390  priečinkov=563
+  Hokej              liniek=  1065  priečinkov=113
+  Tenis              liniek=   570  priečinkov=30
+  Basketbal          liniek=  2185  priečinkov=235
+  Hádzaná            liniek=  1350  priečinkov=164
+  Volejbal           liniek=  2254  priečinkov=296
+  Zimné športy       liniek=   113  priečinkov=14
+  Ostatné športy     liniek=   433  priečinkov=26
+  Správy & Médiá     liniek=  1486  priečinkov=220
+  Tipovanie          liniek=     1  priečinkov=1
+
+Úroveň 2 (sekcia › podsekcia):
+  Futbal › Súťaže                                                  83
+  Futbal › Kluby                                                 5037
+  Futbal › Asociácie                                              242
+  Futbal › Štatistiky                                              24
+  Hokej › Súťaže                                                   67
+  Hokej › Kluby                                                   867
+  Hokej › Asociácie                                                87
+  Hokej › Správy a Štatistiky                                      40
+  Tenis › Turnaje a Súťaže                                        132
+  Tenis › Hráči                                                   105
+  Tenis › Asociácie                                               178
+  Tenis › Akadémie a univerzity                                   116
+  Tenis › Správy a Štatistiky                                      39
+  Basketbal › Súťaže                                               99
+  Basketbal › Kluby                                              1831
+  Basketbal › Asociácie                                           219
+  Basketbal › Správy a Štatistiky                                  32
+  Hádzaná › Súťaže                                                113
+  Hádzaná › Kluby                                                 992
+  Hádzaná › Asociácie                                             220
+  Hádzaná › Správy a Štatistiky                                    20
+  Volejbal › Súťaže                                               104
+  Volejbal › Kluby                                               1914
+  Volejbal › Asociácie                                            206
+  Volejbal › Správy a Štatistiky                                   26
+  Zimné športy › Alpské lyžovanie                                  16
+  Zimné športy › Beh na lyžiach                                    12
+  Zimné športy › Skoky na lyžiach                                  10
+  Zimné športy › Severská kombinácia                                6
+  Zimné športy › Biatlon                                            7
+  Zimné športy › Krasokorčuľovanie                                  7
+  Zimné športy › Rýchlokorčuľovanie                                10
+  Zimné športy › Curling                                            9
+  Zimné športy › Sánkovanie                                         7
+  Zimné športy › Bob                                                9
+  Zimné športy › Skeleton                                           4
+  Zimné športy › Freestyle a Snowboard                             11
+  Zimné športy › Skialpinizmus                                      5
+  Ostatné športy › Atletika                                        22
+  Ostatné športy › Badminton                                       21
+  Ostatné športy › Cyklistika                                      18
+  Ostatné športy › Futsal                                          18
+  Ostatné športy › Golf                                            23
+  Ostatné športy › Box                                             18
+  Ostatné športy › MMA                                             16
+  Ostatné športy › Stolný tenis                                     9
+  Ostatné športy › Plávanie                                        13
+  Ostatné športy › Vodné pólo                                      17
+  Ostatné športy › Americký futbal                                 12
+  Ostatné športy › Rugby                                           25
+  Ostatné športy › Squash                                          18
+  Ostatné športy › Florbal                                         23
+  Ostatné športy › Plážový futbal                                  10
+  Ostatné športy › Motorizmus                                      38
+  Ostatné športy › Šípky                                           18
+  Ostatné športy › Snooker                                         12
+  Ostatné športy › Lukostrelstvo                                   13
+  Ostatné športy › Kanoistika                                      14
+  Ostatné športy › Veslovanie                                      14
+  Ostatné športy › Vzpieranie                                      11
+  Ostatné športy › Kriket                                          18
+  Ostatné športy › Basketbal 3×3                                    1
+  Ostatné športy › Padel                                           31
+  Správy & Médiá › Globálne                                        15
+  Správy & Médiá › Európa                                         840
+  Správy & Médiá › Ázia                                           562
+  Správy & Médiá › Južná Amerika                                   69
+  Správy & Médiá › Afrika                                           0
+  Správy & Médiá › Severná a Stredná Amerika                        0
+  Správy & Médiá › Oceánia                                          0
+
+Kontinenty (top 15):
+  Futbal › Kluby › Európa                                            2257  krajín=55
+  Volejbal › Kluby › Európa (CEV)                                    1012  krajín=44
+  Futbal › Kluby › Afrika                                             949  krajín=53
+  Basketbal › Kluby › Európa                                          911  krajín=46
+  Hádzaná › Kluby › Európa                                            772  krajín=45
+  Futbal › Kluby › Ázia                                               727  krajín=46
+  Futbal › Kluby › Severná a Stredná Amerika                          518  krajín=38
+  Hokej › Kluby › Európa                                              490  krajín=32
+  Futbal › Kluby › Južná Amerika                                      444  krajín=10
+  Volejbal › Kluby › Ázia a Oceánia (AVC)                             384  krajín=25
+  Hokej › Kluby › Severná Amerika                                     353  krajín=14
+  Basketbal › Kluby › Ázia                                            281  krajín=20
+  Volejbal › Kluby › Afrika (CAVB)                                    212  krajín=12
+  Basketbal › Kluby › Afrika                                          165  krajín=12
+  Volejbal › Kluby › Južná Amerika (CSV)                              157  krajín=7
+
+Krajiny TOP 20:
+  Futbal › Kluby › Európa › Anglicko                                       171
+  Futbal › Kluby › Európa › Nemecko                                        155
+  Futbal › Kluby › Južná Amerika › Argentína                               129
+  Futbal › Kluby › Európa › Taliansko                                      105
+  Futbal › Kluby › Európa › Rakúsko                                         98
+  Futbal › Kluby › Európa › Holandsko                                       97
+  Futbal › Kluby › Európa › Španielsko                                      86
+  Futbal › Kluby › Európa › Turecko                                         77
+  Futbal › Kluby › Severná a Stredná Amerika › USA                          75
+  Futbal › Kluby › Európa › Švédsko                                         68
+  Futbal › Kluby › Európa › Belgicko                                        65
+  Futbal › Kluby › Európa › Nórsko                                          64
+  Hokej › Kluby › Severná Amerika › NCDC                                    64
+  Futbal › Kluby › Južná Amerika › Brazília                                 63
+  Futbal › Kluby › Ázia › Japonsko                                          63
+  Volejbal › Kluby › Európa (CEV) › Taliansko                               61
+  Futbal › Kluby › Európa › Portugalsko                                     60
+  Futbal › Kluby › Európa › Francúzsko                                      57
+  Futbal › Kluby › Európa › Poľsko                                          57
+  Basketbal › Kluby › Európa › Španielsko                                   55
+
+Krajiny s 0–2 linkami: 6 z 512
+  podľa sekcie: [('Futbal', 4), ('Hádzaná', 2)]
+  s 0 linkami: 0  s 1: 6  s 2: 0
+    Futbal › Kluby › Afrika › Eritrea                                      1
+    Futbal › Kluby › Ázia › Severná Kórea                                  1
+    Futbal › Kluby › Ázia › Pakistan                                       1
+    Futbal › Kluby › Oceánia › Austrália                                   1
+    Hádzaná › Kluby › Európa › Lichtenštajnsko                             1
+    Hádzaná › Kluby › Európa › Monako                                      1
+
+Priečinky, kde je LEN linka ligy a žiadny klub: 0
+  podľa sekcie: []
+
+Priečinky s jedinou linkou: 8
+  podľa sekcie: [('Futbal', 4), ('Hádzaná', 2), ('Tipovanie', 1), ('Ostatné športy', 1)]
+    Tipovanie → Tipsport
+    Futbal › Kluby › Afrika › Eritrea → Eritrejská národná futbalová federácia (ENFF)
+    Futbal › Kluby › Ázia › Severná Kórea → Futbalová asociácia KĽDR
+    Futbal › Kluby › Ázia › Pakistan → Pakistanská futbalová federácia (PFF)
+    Futbal › Kluby › Oceánia › Austrália → Kluby Austrálie (sekcia Ázia)
+    Ostatné športy › Basketbal 3×3 → FIBA 3x3
+    Hádzaná › Kluby › Európa › Lichtenštajnsko → HC Buchs-Vaduz
+    Hádzaná › Kluby › Európa › Monako → AS Monaco Handball
+Priečinky s jediným podpriečinkom a ničím iným: 266
+    Futbal › Kluby › Európa › Albánsko → Abissnet Superiore
+    Futbal › Kluby › Európa › Andorra → Primera Divisió
+    Futbal › Kluby › Európa › Bielorusko → Vyššia liga
+    Futbal › Kluby › Európa › Bosna a Hercegovina → Premijer liga BiH
+    Futbal › Kluby › Európa › Kosovo → Superliga
+    Futbal › Kluby › Európa › Luxembursko → BGL Ligue
+    Futbal › Kluby › Európa › Moldavsko → Super Liga
+    Futbal › Kluby › Európa › San Maríno → Campionato Sammarinese
+    Futbal › Kluby › Európa › Azerbajdžán → Premier League
+    Futbal › Kluby › Afrika › Alžírsko → Ligue 1
+    Futbal › Kluby › Afrika › Angola → Girabola
+    Futbal › Kluby › Afrika › Benin → Ligue 1 (Championnat National)
+
+Najviac priamych liniek v jednom priečinku:
+     64  Hokej › Kluby › Severná Amerika › NCDC
+     57  Tenis › Hráči › Ženy
+     55  Hádzaná › Asociácie › Afrika
+     55  Futbal › Asociácie › Európa
+     54  Volejbal › Asociácie › Ázia a Oceánia (AVC)
+     54  Volejbal › Asociácie › Európa (CEV)
+     54  Futbal › Asociácie › Afrika
+     54  Basketbal › Asociácie › Afrika
+     52  Tenis › Asociácie › Európa
+     52  Hádzaná › Asociácie › Európa
+     48  Tenis › Hráči › Muži
+     47  Futbal › Asociácie › Ázia
+     46  Basketbal › Asociácie › Európa
+     44  Hádzaná › Asociácie › Ázia
+     44  Basketbal › Asociácie › Ázia
+
+Priečinky s linkami AJ podpriečinkami: 9
+  podľa sekcie: [('Basketbal', 4), ('Futbal', 2), ('Hokej', 1), ('Hádzaná', 1), ('Volejbal', 1)]
+
+Priečinky krajín (úroveň 4 pod kontinentom) bez kódu vlajky v icon: 15
+    Basketbal › Kluby › Afrika › Basketball Africa League 🏀
+    Hokej › Kluby › Severná Amerika › NHL 🏒
+    Hokej › Kluby › Severná Amerika › AHL 🏒
+    Hokej › Kluby › Severná Amerika › ECHL 🏒
+    Hokej › Kluby › Severná Amerika › SPHL 🏒
+    Hokej › Kluby › Severná Amerika › FPHL 🏒
+    Hokej › Kluby › Severná Amerika › LNAH 🏒
+    Hokej › Kluby › Severná Amerika › WHL 🏒
+    Hokej › Kluby › Severná Amerika › OHL 🏒
+    Hokej › Kluby › Severná Amerika › QMJHL 🏒
+    Hokej › Kluby › Severná Amerika › USHL 🏒
+    Hokej › Kluby › Severná Amerika › NAHL 🏒
+    Hokej › Kluby › Severná Amerika › NCDC 🏒
+    Hokej › Kluby › Severná Amerika › BCHL 🏒
+    Hokej › Kluby › Severná Amerika › PWHL 🏒
+kódy vlajok v dátach, ktoré vlajky.py nepozná: {'eu': 1, 'be': 22, 'by': 17, 'bg': 18, 'cz': 23, 'dk': 23, 'ee': 17, 'fi': 22, 'fr': 26, 'gr': 18, 'nl': 23, 'hr': 19, 'ie': 16, 'is': 20, 'il': 16, 'li': 8, 'lv': 19, 'lu': 17, 'hu': 21, 'mt': 26, 'md': 12, 'de': 30, 'no': 24, 'pl': 22, 'pt': 20, 'at': 25, 'ru': 21, 'sm': 8, 'sk': 34, 'si': 20, 'rs': 19, 'es': 25, 'ch': 19, 'se': 25, 'it': 29, 'tr': 23, 'ua': 18, 'gb': 19, 'bh': 35, 'bd': 14, 'bt': 13, 'bn': 8, 'ph': 23, 'hk': 12, 'in': 37, 'id': 53, 'iq': 32, 'ir': 31, 'jp': 82, 'ye': 8, 'jo': 20, 'kr': 48, 'kh': 8, 'qa': 15, 'kz': 17, 'la': 8, 'lb': 13, 'mo': 7, 'my': 11, 'mn': 14, 'np': 12, 'om': 11, 'pk': 7, 'ae': 23, 'sa': 14, 'sg': 11, 'lk': 8, 'sy': 9, 'tw': 15, 'th': 14, 'tm': 7, 'uz': 9, 'vn': 11, 'vi': 7, 'aw': 7, 'bs': 8, 'bb': 8, 'bz': 8, 'bm': 7, 'cw': 5, 'do': 10, 'gd': 8, 'gt': 8, 'hn': 8, 'jm': 9, 'ca': 11, 'cr': 12, 'mx': 15, 'pa': 8, 'pr': 14, 'sv': 8, 'kn': 8, 'lc': 8, 'vc': 7, 'tt': 8, 'us': 32, 'as': 8, 'au': 21, 'ck': 8, 'fj': 8, 'gu': 6, 'nc': 7, 'nz': 19, 'pg': 7, 'ws': 8, 'sb': 8, 'pf': 7, 'to': 7, 'vu': 8, 'gb-eng': 13, 'al': 12, 'ad': 8, 'ba': 17, 'me': 15, 'xk': 17, 'lt': 21, 'mk': 31, 'ro': 22, 'gb-nir': 10, 'gb-sct': 10, 'gb-wls': 8, 'am': 23, 'ge': 11, 'az': 13, 'cy': 26, 'dz': 14, 'ao': 11, 'bj': 10, 'bw': 8, 'bf': 7, 'bi': 8, 'td': 7, 'dj': 6, 'eg': 16, 'er': 4, 'et': 7, 'ga': 7, 'gm': 8, 'gh': 8, 'gn': 7, 'gw': 6, 'za': 12, 'ss': 7, 'cm': 11, 'cv': 21, 'ke': 11, 'km': 6, 'cg': 6, 'cd': 8, 'ls': 8, 'lr': 20, 'ly': 33, 'mg': 8, 'mw': 20, 'ml': 18, 'ma': 15, 'mu': 8, 'mr': 6, 'mz': 8, 'na': 10, 'ne': 20, 'ng': 30, 'ci': 26, 'gq': 7, 'rw': 26, 'sn': 24, 'sc': 18, 'sl': 21, 'so': 19, 'sd': 14, 'sz': 8, 'st': 7, 'tz': 26, 'tg': 20, 'tn': 29, 'ug': 24, 'zm': 28, 'zw': 26, 'af': 7, 'cn': 47, 'kg': 8, 'kp': 6, 'kw': 12, 'mv': 7, 'mm': 6, 'tj': 7, 'tl': 6, 'ar': 20, 'bo': 13, 'br': 20, 'cl': 15, 'ec': 11, 'co': 15, 'py': 11, 'pe': 14, 'uy': 14, 've': 11, 'ai': 5, 'ag': 7, 'bq': 5, 'vg': 6, 'dm': 7, 'gf': 6, 'gp': 9, 'gy': 8, 'ht': 7, 'ky': 7, 'mq': 9, 'ni': 9, 'sx': 5, 'sr': 10, 'tc': 6, 'cu': 5, 'ms': 4, 'mf': 2, 'cf': 5, 'ps': 5, 'fo': 10, 'gi': 3, 'mp': 4, 'ki': 3, 'mh': 3, 'fm': 2, 'nr': 3, 'nf': 1, 'pw': 3, 'tv': 2, 'mc': 4, 'yt': 1, 're': 2, 'gl': 2}

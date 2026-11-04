@@ -1,0 +1,16 @@
+| Hľadaný text | čas od zadania po výsledky (ms, vrátane 200 ms čakania) | výsledkov (kariet) | DOM prvkov v #main | dlhé úlohy počas (ms) |
+|---|---:|---:|---:|---|
+| a | 1573 | 313 | 4865 | 879, 484 (spolu 1363) |
+| ar | 1664 | 366 | 4693 | 1148, 308 (spolu 1456) |
+| ars | 1114 | 181 | 2002 | 752, 155 (spolu 907) |
+| arse | 636 | 16 | 237 | 396 (spolu 396) |
+| arsen | 546 | 14 | 215 | 301 (spolu 301) |
+| slovan | 610 | 17 | 296 | 367 (spolu 367) |
+| real | 734 | 78 | 959 | 352, 174 (spolu 526) |
+| liverpool | 452 | 9 | 117 | 219 (spolu 219) |
+| x | 1127 | 234 | 2426 | 585, 274 (spolu 859) |
+| žilina | 474 | 4 | 66 | 247 (spolu 247) |
+| ko | 1434 | 371 | 4889 | 727, 471 (spolu 1198) |
+
+písanie „liverpool“ po písmenách (150 ms/znak): dlhé úlohy 1×, spolu 216 ms: 216
+navigate() + vykreslenie (CPU 4×): f_fut: 119 ms (7 dlaždíc) | f_fut_klu: 86 ms (6 dlaždíc) | f_fut_klu_eu: 150 ms (55 dlaždíc) | f_fut_klu_eu_ang: 187 ms (7 dlaždíc) | domov: 113 ms (10 dlaždíc)

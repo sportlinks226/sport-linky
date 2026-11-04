@@ -1,0 +1,6 @@
+# K) Pohľad návštevníka a rast — vlastné postrehy (overené lokálne)
+
+## Overené nálezy
+1. Blokovač reklám = dva prázdne rámčeky (SK). Pri zablokovaní ban.tipsport.sk (route abort 'blockedbyclient') ostanú oba sloty 468×60 viditeľné (desktop oba, iPhone slot 1 362×46), vnútri prázdny sandboxovaný iframe. Snímka K-01-domov-desktop.png, K-06-domov-iphone.png; výstup K-adblock.js. Kód: index.html renderOneSlot (r. 2977–3015) — pri banner.html so <script> vloží adFrame; žiadny mechanizmus „reklama sa nenačítala → náhrada". EN má vlastné SVG bannery (b_en_*), tie sa zobrazia vždy.
+   Návrh: v adFrame (r. 2954) pre slot pridať do okienka skript: po 3 s ak body nemá žiadny obrázok/iframe/odkaz (napr. .tipAd… bez detí) → parent.postMessage({sportlinkyAdEmpty:true}); rodič (listener r. 2966) nahradí slot vlastným SVG bannerom (ako EN b_en_B/C) alebo slot skryje (display:none). Rovnako pri 'error' udalosti. Na mobile 2. slot je skrytý (display:none) — OK.
+2. Mobil: prvá obrazovka = hlavička (160 px) + prázdny/reklamný slot + Aktuálne + 2 dlaždice (každá ~230 px). Návštevník vidí len Futbal a Hokej; 10 sekcií = 5 obrazoviek posunu. Lišta športov (#hSports) je na mobile skrytá. Snímka K-06, K-09 (celá stránka).

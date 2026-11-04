@@ -1,0 +1,10 @@
+id,cesta,liniek,podpriecinkov
+f_fut,Futbal,4,4
+f_hok,Hokej,4,4
+f_bas,Basketbal,4,4
+f_had,Hádzaná,5,4
+f_vol,Volejbal,4,4
+f_fut_klu_az_afg,Futbal › Kluby › Ázia › Afganistan,1,1
+f_bas_klu_oc_nzl,Basketbal › Kluby › Oceánia › Nový Zéland,1,2
+f_bas_klu_na_can,Basketbal › Kluby › Severná a Stredná Amerika › Kanada,2,1
+f_bas_klu_na_mex,Basketbal › Kluby › Severná a Stredná Amerika › Mexiko,1,1

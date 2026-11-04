@@ -1,0 +1,149 @@
+id,pole,cesta,slug,slugify(name)
+f_ten_aso_ja,slug,Tenis › Asociácie › Južná Amerika (COSAT),juzna-amerika,juzna-amerika-cosat
+f_ten_aso_ja,slug_en,Tennis › Associations › South America (COSAT),south-america,south-america-cosat
+f_fut_klu_eu_cze,slug,Futbal › Kluby › Európa › Česko,ceska-republika,cesko
+f_fut_klu_eu_cze,slug_en,Football › Clubs › Europe › Czechia,czech-republic,czechia
+f_fut_klu_eu_mkd,slug,Futbal › Kluby › Európa › Severné Macedónsko,macedonsko,severne-macedonsko
+f_fut_klu_af_zaf,slug,Futbal › Kluby › Afrika › JAR,juhoafricka-rep,jar
+f_fut_klu_af_cod,slug,Futbal › Kluby › Afrika › Kongo (DR),konzska-dem-rep,kongo-dr
+f_fut_klu_af_swz,slug,Futbal › Kluby › Afrika › Eswatini,svazijsko,eswatini
+f_fut_klu_az_are,slug,Futbal › Kluby › Ázia › SAE,spojene-arabske-emiraty,sae
+f_fut_klu_na_ber,slug,Futbal › Kluby › Severná a Stredná Amerika › Bermudy,bermuda,bermudy
+f_fut_klu_na_cay,slug,Futbal › Kluby › Severná a Stredná Amerika › Kajmanie ostrovy,kajmanske-ostrovy,kajmanie-ostrovy
+f_fut_klu_na_usa,slug,Futbal › Kluby › Severná a Stredná Amerika › USA,spojene-staty,usa
+f_fut_klu_na_skn,slug_en,Football › Clubs › North & Central America › Saint Kitts and Nevis,st-kitts-and-nevis,saint-kitts-and-nevis
+f_fut_klu_na_lca,slug_en,Football › Clubs › North & Central America › Saint Lucia,st-lucia,saint-lucia
+f_fut_klu_na_vin,slug_en,Football › Clubs › North & Central America › Saint Vincent and the Grenadines,st-vincent-and-the-grenadines,saint-vincent-and-the-grenadines
+f_med_eu_cz,slug,Správy & Médiá › Európa › Česko,ceska-republika,cesko
+f_med_eu_cz,slug_en,News & Media › Europe › Czechia,czech-republic,czechia
+f_med_eu_mk,slug,Správy & Médiá › Európa › Severné Macedónsko,macedonsko,severne-macedonsko
+f_med_na_bm,slug,Správy & Médiá › Severná a Stredná Amerika › Bermudy,bermuda,bermudy
+f_med_na_ky,slug,Správy & Médiá › Severná a Stredná Amerika › Kajmanie ostrovy,kajmanske-ostrovy,kajmanie-ostrovy
+f_med_na_us,slug,Správy & Médiá › Severná a Stredná Amerika › USA,spojene-staty,usa
+f_med_na_kn,slug_en,News & Media › North & Central America › Saint Kitts and Nevis,st-kitts-and-nevis,saint-kitts-and-nevis
+f_med_na_lc,slug_en,News & Media › North & Central America › Saint Lucia,st-lucia,saint-lucia
+f_med_na_vc,slug_en,News & Media › North & Central America › Saint Vincent and the Grenadines,st-vincent-and-the-grenadines,saint-vincent-and-the-grenadines
+f_med_af_za,slug,Správy & Médiá › Afrika › JAR,juhoafricka-rep,jar
+f_med_af_cd,slug,Správy & Médiá › Afrika › Kongo (DR),konzska-dem-rep,kongo-dr
+f_med_af_sz,slug,Správy & Médiá › Afrika › Eswatini,svazijsko,eswatini
+f_med_as_ae,slug,Správy & Médiá › Ázia › SAE,spojene-arabske-emiraty,sae
+f_bul_l2,slug_en,Football › Clubs › Europe › Bulgaria › Second League,vtora-liga,second-league
+f_dnk_l2,slug,Futbal › Kluby › Európa › Dánsko › 1st Division,1st-division-nordicbet-liga,1st-division
+f_dnk_l2,slug_en,Football › Clubs › Europe › Denmark › 1st Division,1st-division-nordicbet-liga,1st-division
+f_rus_l1,slug_en,Football › Clubs › Europe › Russia › Premier League,premier-liga,premier-league
+f_rus_l2,slug,Futbal › Kluby › Európa › Rusko › Pervaja liga (FNL),pervaja-liga,pervaja-liga-fnl
+f_srb_l2,slug_en,Football › Clubs › Europe › Serbia › First League,prva-liga,first-league
+f_cyp_l1,slug_en,Football › Clubs › Europe › Cyprus › First Division,1-liga,first-division
+f_cyp_l2,slug_en,Football › Clubs › Europe › Cyprus › Second Division,2-liga,second-division
+f_isr_l1,slug,Futbal › Kluby › Európa › Izrael › Ligat ha'Al,ligat-haal,ligat-ha-al
+f_bgd_l1,slug,Futbal › Kluby › Ázia › Bangladéš › Bangladesh Football League (BFL),bangladesh-football-league,bangladesh-football-league-bfl
+f_arg_l1,slug,Futbal › Kluby › Južná Amerika › Argentína › Liga Profesional (Primera División),liga-profesional,liga-profesional-primera-division
+f_bra_l1,slug_en,Football › Clubs › South America › Brazil › Série A,serie-a-betano,serie-a
+f_col_l1,slug,Futbal › Kluby › Južná Amerika › Kolumbia › Categoría Primera A,primera-a,categoria-primera-a
+f_col_l2,slug,Futbal › Kluby › Južná Amerika › Kolumbia › Categoría Primera B,primera-b,categoria-primera-b
+f_par_l1,slug,Futbal › Kluby › Južná Amerika › Paraguaj › Copa de Primera (Primera División),primera-division,copa-de-primera-primera-division
+f_bdi_l1,slug,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A),primus-league,primus-league-ligue-a
+f_tcd_l1,slug,Futbal › Kluby › Afrika › Čad › Ligue Nationale de Football (Championnat National),ligue-nationale,ligue-nationale-de-football-championnat-national
+f_nga_l1,slug,Futbal › Kluby › Afrika › Nigéria › Nigeria Premier Football League,npfl,nigeria-premier-football-league
+f_nga_l1,slug_en,Football › Clubs › Africa › Nigeria › Nigeria Premier Football League,npfl,nigeria-premier-football-league
+f_sdn_l1,slug,Futbal › Kluby › Afrika › Sudán › Premier League — Elitná skupina,premier-league,premier-league-elitna-skupina
+f_sdn_l1,slug_en,Football › Clubs › Africa › Sudan › Premier League — Elite Group,premier-league,premier-league-elite-group
+f_gnq_l1,slug_en,Football › Clubs › Africa › Equatorial Guinea › Liga Nacional — Continental Region,liga-nacional-region-continental,liga-nacional-continental-region
+f_gnq_l2,slug_en,Football › Clubs › Africa › Equatorial Guinea › Liga Nacional — Insular Region,liga-nacional-region-insular,liga-nacional-insular-region
+f_stp_l1,slug_en,Football › Clubs › Africa › São Tomé and Príncipe › Campeonato Nacional — São Tomé Group,campeonato-nacional-grupo-sao-tome,campeonato-nacional-sao-tome-group
+f_stp_l2,slug_en,Football › Clubs › Africa › São Tomé and Príncipe › Campeonato Nacional — Príncipe Group,campeonato-nacional-grupo-principe,campeonato-nacional-principe-group
+f_nzl_l1,slug,Futbal › Kluby › Oceánia › Nový Zéland › Dettol National League — Severná liga,severna-liga,dettol-national-league-severna-liga
+f_nzl_l1,slug_en,Football › Clubs › Oceania › New Zealand › Dettol National League — Northern League,northern-league,dettol-national-league-northern-league
+f_nzl_l2,slug,Futbal › Kluby › Oceánia › Nový Zéland › Dettol National League — Centrálna liga,centralna-liga,dettol-national-league-centralna-liga
+f_nzl_l2,slug_en,Football › Clubs › Oceania › New Zealand › Dettol National League — Central League,central-league,dettol-national-league-central-league
+f_nzl_l3,slug,Futbal › Kluby › Oceánia › Nový Zéland › Dettol National League — Južná liga,juzna-liga,dettol-national-league-juzna-liga
+f_nzl_l3,slug_en,Football › Clubs › Oceania › New Zealand › Dettol National League — Southern League,southern-league,dettol-national-league-southern-league
+f_cri_l2,slug_en,Football › Clubs › North & Central America › Costa Rica › Liga de Ascenso (2nd tier),liga-de-ascenso-2-liga,liga-de-ascenso-2nd-tier
+f_mex_l2,slug_en,Football › Clubs › North & Central America › Mexico › Liga de Expansión MX (2nd tier),liga-de-expansion-mx-2-liga,liga-de-expansion-mx-2nd-tier
+f_slv_l1,slug,Futbal › Kluby › Severná a Stredná Amerika › Salvádor › Primera División de El Salvador,primera-division-liga-pepsi,primera-division-de-el-salvador
+f_yem_l1,slug,Futbal › Kluby › Ázia › Jemen › Jemenská liga,jemenská-liga,jemenska-liga
+f_tur_l3k,slug,Futbal › Kluby › Európa › Turecko › 2. Lig - Kırmızı Grup,2-lig-kirmizi-grup,2-lig-k-rm-z-grup
+f_bas_klu_eu_cze,slug,Basketbal › Kluby › Európa › Česko,ceska-republika,cesko
+f_bas_klu_eu_cze,slug_en,Basketball › Clubs › Europe › Czechia,czech-republic,czechia
+f_bas_klu_eu_mkd,slug,Basketbal › Kluby › Európa › Severné Macedónsko,macedonsko,severne-macedonsko
+f_bas_fra_l3,slug,Basketbal › Kluby › Európa › Francúzsko › La Boulangère Wonderligue (ženy),la-boulangère-wonderligue-zeny,la-boulangere-wonderligue-zeny
+f_bas_fra_l3,slug_en,Basketball › Clubs › Europe › France › La Boulangère Wonderligue (women),la-boulangère-wonderligue-women,la-boulangere-wonderligue-women
+f_bas_tur_l3,slug,Basketbal › Kluby › Európa › Turecko › Kadınlar Basketbol Süper Ligi (ženy),kadinlar-basketbol-super-ligi-zeny,kad-nlar-basketbol-super-ligi-zeny
+f_bas_tur_l3,slug_en,Basketball › Clubs › Europe › Turkey › Kadınlar Basketbol Süper Ligi (women),kadinlar-basketbol-super-ligi-women,kad-nlar-basketbol-super-ligi-women
+f_bas_gre_l3,slug,Basketbal › Kluby › Európa › Grécko › Α1 Γυναικών (ženy),a1-gynaikon-zeny,1-zeny
+f_bas_gre_l3,slug_en,Basketball › Clubs › Europe › Greece › A1 Ethniki Gynaikon (women),a1-gynaikon-women,a1-ethniki-gynaikon-women
+f_bas_gre_l1,slug,Basketbal › Kluby › Európa › Grécko › Α1 Ανδρών,a1-andron,1
+f_bas_gre_l1,slug_en,Basketball › Clubs › Europe › Greece › A1 Ethniki Andron,a1-andron,a1-ethniki-andron
+f_bas_hun_l3,slug_en,Basketball › Clubs › Europe › Hungary › NB I/A (ženy),nb-i-a-women,nb-i-a-zeny
+f_bas_rou_l3,slug_en,Basketball › Clubs › Europe › Romania › Liga Națională (ženy),liga-nationala-women,liga-nationala-zeny
+f_bas_bel_l3,slug_en,Basketball › Clubs › Europe › Belgium › Top Division Women (ženy),top-division-women,top-division-women-zeny
+f_bas_srb_l1,slug,Basketbal › Kluby › Európa › Srbsko › Košarkaška liga Srbije (KLS),kls,kosarkaska-liga-srbije-kls
+f_bas_srb_l1,slug_en,Basketball › Clubs › Europe › Serbia › Košarkaška liga Srbije (KLS),kls,kosarkaska-liga-srbije-kls
+f_bas_srb_l3,slug_en,Basketball › Clubs › Europe › Serbia › 1. ŽLS (ženy),1-zls-women,1-zls-zeny
+f_bas_ltu_l1,slug,Basketbal › Kluby › Európa › Litva › Lietuvos krepšinio lyga (LKL),lkl,lietuvos-krepsinio-lyga-lkl
+f_bas_ltu_l1,slug_en,Basketball › Clubs › Europe › Lithuania › Lietuvos krepšinio lyga (LKL),lkl,lietuvos-krepsinio-lyga-lkl
+f_bas_ltu_l3,slug_en,Basketball › Clubs › Europe › Lithuania › LMKL (ženy),lmkl-women,lmkl-zeny
+f_ost_basket3x3,slug,Ostatné športy › Basketbal 3×3,basketbal-3x3,basketbal-3-3
+f_bas_klu_az_tpe,slug,Basketbal › Kluby › Ázia › Taiwan,cinske-taipei,taiwan
+f_bas_klu_az_tpe,slug_en,Basketball › Clubs › Asia › Taiwan,chinese-taipei,taiwan
+f_bas_klu_af_zaf,slug,Basketbal › Kluby › Afrika › JAR,juhoafricka-rep,jar
+f_had_sut_ja,slug,Hádzaná › Súťaže › Južná a Stredná Amerika (SCAHC),juzna-a-stredna-amerika,juzna-a-stredna-amerika-scahc
+f_had_sut_ja,slug_en,Handball › Competitions › South & Central America (SCAHC),south-central-america,south-central-america-scahc
+f_had_sut_na,slug,Hádzaná › Súťaže › Severná Amerika a Karibik (NACHC),severna-amerika-a-karibik,severna-amerika-a-karibik-nachc
+f_had_sut_na,slug_en,Handball › Competitions › North America & Caribbean (NACHC),north-america-caribbean,north-america-caribbean-nachc
+f_had_klu_ja,slug,Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC),juzna-a-stredna-amerika,juzna-a-stredna-amerika-scahc
+f_had_klu_ja,slug_en,Handball › Clubs › South & Central America (SCAHC),south-central-america,south-central-america-scahc
+f_had_klu_na,slug,Hádzaná › Kluby › Severná Amerika a Karibik (NACHC),severna-amerika-a-karibik,severna-amerika-a-karibik-nachc
+f_had_klu_na,slug_en,Handball › Clubs › North America & Caribbean (NACHC),north-america-caribbean,north-america-caribbean-nachc
+f_had_aso_ja,slug,Hádzaná › Asociácie › Južná a Stredná Amerika (SCAHC),juzna-a-stredna-amerika,juzna-a-stredna-amerika-scahc
+f_had_aso_ja,slug_en,Handball › Associations › South & Central America (SCAHC),south-central-america,south-central-america-scahc
+f_had_aso_na,slug,Hádzaná › Asociácie › Severná Amerika a Karibik (NACHC),severna-amerika-a-karibik,severna-amerika-a-karibik-nachc
+f_had_aso_na,slug_en,Handball › Associations › North America & Caribbean (NACHC),north-america-caribbean,north-america-caribbean-nachc
+f_had_cze,slug,Hádzaná › Kluby › Európa › Česko,ceska-republika,cesko
+f_had_cze,slug_en,Handball › Clubs › Europe › Czechia,czech-republic,czechia
+f_had_mkd,slug,Hádzaná › Kluby › Európa › Severné Macedónsko,macedonsko,severne-macedonsko
+f_had_nor_l1,slug,Hádzaná › Kluby › Európa › Nórsko › Elkjøp-ligaen,elkjop-ligaen,elkj-p-ligaen
+f_had_nor_l1,slug_en,Handball › Clubs › Europe › Norway › Elkjøp-ligaen,elkjop-ligaen,elkj-p-ligaen
+f_had_isr_l1,slug,Hádzaná › Kluby › Európa › Izrael › Ligat Ha'Al,ligat-haal,ligat-ha-al
+f_had_isr_l1,slug_en,Handball › Clubs › Europe › Israel › Ligat Ha'Al,ligat-haal,ligat-ha-al
+f_had_sco_l1,slug,Hádzaná › Kluby › Európa › Škótsko › Senior Men's League,senior-mens-league,senior-men-s-league
+f_had_sco_l1,slug_en,Handball › Clubs › Europe › Scotland › Senior Men's League,senior-mens-league,senior-men-s-league
+f_had_fro_l1,slug,Hádzaná › Kluby › Európa › Faerské ostrovy › Landskappingin (muži),landskappingin,landskappingin-muzi
+f_had_fro_l1,slug_en,Handball › Clubs › Europe › Faroe Islands › Faroese Championship (men),faroese-championship,faroese-championship-men
+f_had_are_l1,slug,Hádzaná › Kluby › Ázia › SAE › Liga SAE,emiratska-liga,liga-sae
+f_vol_klu_eu_italy_m1,slug,Volejbal › Kluby › Európa (CEV) › Taliansko › SuperLega mužov,superlega,superlega-muzov
+f_vol_klu_eu_poland_m1,slug,Volejbal › Kluby › Európa (CEV) › Poľsko › TAURON Liga mužov,tauron-liga,tauron-liga-muzov
+f_vol_klu_eu_poland_m2,slug,Volejbal › Kluby › Európa (CEV) › Poľsko › TAURON 1. Liga mužov,tauron-1-liga,tauron-1-liga-muzov
+f_vol_klu_eu_azerbaijan_m1,slug,Volejbal › Kluby › Európa (CEV) › Azerbajdžan › Yüksək Liqa mužov,yuksek-liqa-muzov,yuks-k-liqa-muzov
+f_vol_klu_eu_azerbaijan_m1,slug_en,Volleyball › Clubs › Europe (CEV) › Azerbaijan › Yüksək Liqa Men,yuksek-liqa-men,yuks-k-liqa-men
+f_vol_klu_eu_azerbaijan_z1,slug,Volejbal › Kluby › Európa (CEV) › Azerbajdžan › Yüksək Liqa žien,yuksek-liqa-zien,yuks-k-liqa-zien
+f_vol_klu_eu_azerbaijan_z1,slug_en,Volleyball › Clubs › Europe (CEV) › Azerbaijan › Yüksək Liqa Women,yuksek-liqa-women,yuks-k-liqa-women
+f_vol_klu_ao_united-arab-emirates_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › United Arab Emirates › Emirati Men's Volleyball League,emirati-mens-volleyball-league,emirati-men-s-volleyball-league
+f_vol_klu_ao_bahrain_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Bahrain › Bahraini Men's Volleyball League,bahraini-mens-volleyball-league,bahraini-men-s-volleyball-league
+f_vol_klu_ao_kuwait_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Kuwait › Kuwaiti Men's Volleyball League,kuwaiti-mens-volleyball-league,kuwaiti-men-s-volleyball-league
+f_vol_klu_ao_oman_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Oman › Omani Men's Volleyball League,omani-mens-volleyball-league,omani-men-s-volleyball-league
+f_vol_klu_ao_iraq_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Iraq › Iraqi Men's Volleyball League,iraqi-mens-volleyball-league,iraqi-men-s-volleyball-league
+f_vol_klu_ao_jordan_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Jordan › Jordanian Men's Volleyball League,jordanian-mens-volleyball-league,jordanian-men-s-volleyball-league
+f_vol_klu_ao_lebanon_m1,slug_en,Volleyball › Clubs › Asia & Oceania (AVC) › Lebanon › Lebanese Men's 1st Division,lebanese-mens-1st-division,lebanese-men-s-1st-division
+f_vol_klu_ao_nepal_z1,slug,Volejbal › Kluby › Ázia a Oceánia (AVC) › Nepál › Everest Women's Volleyball League (ženy),everest-womens-volleyball-league,everest-women-s-volleyball-league-zeny
+f_vol_klu_af_egypt_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Egypt › Egyptian Men’s Volleyball League,egyptian-mens-volleyball-league,egyptian-men-s-volleyball-league
+f_vol_klu_af_egypt_z1,slug_en,Volleyball › Clubs › Africa (CAVB) › Egypt › Egyptian Women’s Volleyball League,egyptian-womens-volleyball-league,egyptian-women-s-volleyball-league
+f_vol_klu_af_uganda_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Uganda › Ugandan Men’s Volleyball League,ugandan-mens-volleyball-league,ugandan-men-s-volleyball-league
+f_vol_klu_af_rwanda_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Rwanda › Rwandan Men’s Volleyball League,rwandan-mens-volleyball-league,rwandan-men-s-volleyball-league
+f_vol_klu_af_tunisia_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Tunisia › Tunisian Men’s Volleyball League,tunisian-mens-volleyball-league,tunisian-men-s-volleyball-league
+f_vol_klu_af_tunisia_z1,slug_en,Volleyball › Clubs › Africa (CAVB) › Tunisia › Tunisian Women’s Volleyball League,tunisian-womens-volleyball-league,tunisian-women-s-volleyball-league
+f_vol_klu_af_algeria_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Algeria › Algerian Men’s Volleyball League,algerian-mens-volleyball-league,algerian-men-s-volleyball-league
+f_vol_klu_af_algeria_z1,slug_en,Volleyball › Clubs › Africa (CAVB) › Algeria › Algerian Women’s Volleyball League,algerian-womens-volleyball-league,algerian-women-s-volleyball-league
+f_vol_klu_af_cameroon_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Cameroon › Cameroonian Men’s Volleyball League,cameroonian-mens-volleyball-league,cameroonian-men-s-volleyball-league
+f_vol_klu_af_cameroon_z1,slug_en,Volleyball › Clubs › Africa (CAVB) › Cameroon › Cameroonian Women’s Volleyball League,cameroonian-womens-volleyball-league,cameroonian-women-s-volleyball-league
+f_vol_klu_af_morocco_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Morocco › Moroccan Men’s Volleyball League,moroccan-mens-volleyball-league,moroccan-men-s-volleyball-league
+f_vol_klu_af_morocco_z1,slug_en,Volleyball › Clubs › Africa (CAVB) › Morocco › Moroccan Women’s Volleyball League,moroccan-womens-volleyball-league,moroccan-women-s-volleyball-league
+f_vol_klu_af_cape-verde_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Cape Verde › Cape Verdean Men’s Volleyball Championship,cape-verdean-mens-volleyball-championship,cape-verdean-men-s-volleyball-championship
+f_vol_klu_af_namibia_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Namibia › Namibian Men’s Volleyball League,namibian-mens-volleyball-league,namibian-men-s-volleyball-league
+f_vol_klu_af_benin_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Benin › Beninese Men’s Volleyball League,beninese-mens-volleyball-league,beninese-men-s-volleyball-league
+f_vol_klu_af_libya_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Libya › Libyan Men’s Volleyball League,libyan-mens-volleyball-league,libyan-men-s-volleyball-league
+f_vol_klu_af_tanzania_m1,slug_en,Volleyball › Clubs › Africa (CAVB) › Tanzania › Tanzanian Men’s Volleyball League,tanzanian-mens-volleyball-league,tanzanian-men-s-volleyball-league
+f_vol_klu_na_united-states_z1,slug,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › Major League Volleyball (ženy),major-league-volleyball,major-league-volleyball-zeny
+f_vol_klu_na_united-states_z1,slug_en,Volleyball › Clubs › North & Central America (NORCECA) › United States › Major League Volleyball (women),major-league-volleyball,major-league-volleyball-women
+f_vol_klu_na_united-states_z2,slug,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké › LOVB Pro (ženy),lovb-pro,lovb-pro-zeny
+f_vol_klu_na_united-states_z2,slug_en,Volleyball › Clubs › North & Central America (NORCECA) › United States › LOVB Pro (women),lovb-pro,lovb-pro-women

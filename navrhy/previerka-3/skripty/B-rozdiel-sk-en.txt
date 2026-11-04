@@ -1,0 +1,58 @@
+[sk] priečinkov so stránkou 1545 (všetkých priečinkov v strome 1663), liniek 14842
+[en] priečinkov so stránkou 1544 (všetkých priečinkov v strome 1662), liniek 14830
+
+Priečinky so stránkou LEN na SK:
+   f_tip Tipovanie | en: False enOnly: None | linky v podstrome SK: 1 EN: — | cesta SK: tipovanie
+Priečinky so stránkou LEN na EN:
+
+Linky rátané na SK a nie na EN (a naopak):
+  len SK: f_bas_live_sk Basketbal › Basketbal dnes – live výsledky | en: False | rodič en: None
+  len SK: f_bas_rychla1 Basketbal › SBL – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_bas_rychla2 Basketbal › Extraliga žien – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_fut_live_sk Futbal › Futbal dnes – live výsledky | en: False | rodič en: None
+  len SK: f_fut_rychla1 Futbal › Niké liga – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_fut_rychla2 Futbal › 2. liga – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_had_live_sk Hádzaná › Hádzaná dnes – live výsledky | en: False | rodič en: None
+  len SK: f_had_rychla1 Hádzaná › Handball extraliga – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_had_rychla2 Hádzaná › 1. liga muži – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_had_rychla3 Hádzaná › MOL liga ženy – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_hok_live_sk Hokej › Hokej dnes – live výsledky | en: False | rodič en: None
+  len SK: f_hok_rychla1 Hokej › Tipsport liga – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_hok_rychla2 Hokej › Slovenská hokejová liga – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_tip_tipsport Tipovanie › Tipsport | en: None | rodič en: False
+  len SK: f_vol_live_sk Volejbal › Volejbal dnes – live výsledky | en: False | rodič en: None
+  len SK: f_vol_rychla1 Volejbal › Extraliga mužov – výsledky a tabuľka | en: False | rodič en: None
+  len SK: f_vol_rychla2 Volejbal › Extraliga žien – výsledky a tabuľka | en: False | rodič en: None
+  len EN: f_bas_live_en Basketball › Basketball today – live scores | enOnly: True
+  len EN: f_fut_live_en Football › Football today – live scores | enOnly: True
+  len EN: f_had_live_en Handball › Handball today – live scores | enOnly: True
+  len EN: f_hok_live_en Ice Hockey › Hockey today – live scores | enOnly: True
+  len EN: f_vol_live_en Volleyball › Volleyball today – live scores | enOnly: True
+
+uzlov s en:false: 17 | enOnly:true: 5 | noTileSk: 1
+prázdne priečinky bez stránky SK: 118 | ich rodičia so stránkou: 11 | koreňové: []
+  hĺbka prázdnych: [(2, 3), (3, 115)]
+  príklady: ['Správy & Médiá › Južná Amerika › Chile', 'Správy & Médiá › Južná Amerika › Peru', 'Správy & Médiá › Južná Amerika › Kolumbia', 'Správy & Médiá › Južná Amerika › Uruguaj', 'Správy & Médiá › Južná Amerika › Ekvádor', 'Správy & Médiá › Južná Amerika › Paraguaj', 'Správy & Médiá › Južná Amerika › Bolívia', 'Správy & Médiá › Južná Amerika › Venezuela']
+
+SLUG_FIX (duplicitné slugy súrodencov) SK: {}
+SLUG_FIX EN: {}
+
+EN: priečinkov, kde sa poradie detí v statike líši od appky (odhad podľa localeCompare + PINNED_EN): 14
+   Football › Clubs › Africa
+      GEN:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+      APP:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+   News & Media › Africa
+      GEN:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+      APP:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+   Football › Associations › Africa
+      GEN:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+      APP:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+   Basketball › Clubs › Europe
+      GEN:Albania, Armenia, Austria, Azerbaijan, Belarus, Belgium
+      APP:Spain, Germany, Italy, France, Albania, Armenia
+   Basketball › Associations › Africa
+      GEN:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+      APP:Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi
+   Basketball › Clubs › Asia
+      GEN:China, Hong Kong, India, Indonesia, Iran, Iraq
+      APP:China, Japan, South Korea, Taiwan, Indonesia, Hong Kong

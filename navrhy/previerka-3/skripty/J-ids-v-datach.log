@@ -1,0 +1,68 @@
+
+== index.html: natvrdo zapísané id priečinkov: 32
+  ok f_bas_klu_az_chn       'Čína'                                   rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_az_idn       'Indonézia'                              rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_az_jpn       'Japonsko'                               rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_az_kor       'Južná Kórea'                            rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_az_tpe       'Taiwan'                                 rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_eu_esp       'Španielsko'                             rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_eu_fra       'Francúzsko'                             rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_eu_ger       'Nemecko'                                rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_bas_klu_eu_ita       'Taliansko'                              rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_af           'Afrika'                                 rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_az           'Ázia'                                   rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_eu           'Európa'                                 rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_ja           'Južná Amerika'                          rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_na           'Severná a Stredná Amerika'              rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_oc           'Oceánia'                                rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_had_arg              'Argentína'                              rodič='Južná a Stredná Amerika (SCAHC)' enOnly=None en=None noTileSk=None
+  ok f_had_bra              'Brazília'                               rodič='Južná a Stredná Amerika (SCAHC)' enOnly=None en=None noTileSk=None
+  ok f_had_cze              'Česko'                                  rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_deu              'Nemecko'                                rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_dnk              'Dánsko'                                 rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_esp              'Španielsko'                             rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_fra              'Francúzsko'                             rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_hun              'Maďarsko'                               rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_jpn              'Japonsko'                               rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_had_kor              'Južná Kórea'                            rodič='Ázia' enOnly=None en=None noTileSk=None
+  ok f_had_nor              'Nórsko'                                 rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_rou              'Rumunsko'                               rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_rus              'Rusko'                                  rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_svk              'Slovensko'                              rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_had_swe              'Švédsko'                                rodič='Európa' enOnly=None en=None noTileSk=None
+  ok f_ltw                  'Aktuálne'                               rodič=None enOnly=None en=None noTileSk=True
+  ok f_tip                  'Tipovanie'                              rodič=None enOnly=None en=False noTileSk=None
+
+== generator.py: natvrdo zapísané id priečinkov: 7
+  ok f_bas_sut_af           'Afrika'                                 rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_az           'Ázia'                                   rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_eu           'Európa'                                 rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_ja           'Južná Amerika'                          rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_na           'Severná a Stredná Amerika'              rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_bas_sut_oc           'Oceánia'                                rodič='Súťaže' enOnly=None en=None noTileSk=None
+  ok f_ltw                  'Aktuálne'                               rodič=None enOnly=None en=None noTileSk=True
+
+len v index.html: ['f_bas_klu_az_chn', 'f_bas_klu_az_idn', 'f_bas_klu_az_jpn', 'f_bas_klu_az_kor', 'f_bas_klu_az_tpe', 'f_bas_klu_eu_esp', 'f_bas_klu_eu_fra', 'f_bas_klu_eu_ger', 'f_bas_klu_eu_ita', 'f_had_arg', 'f_had_bra', 'f_had_cze', 'f_had_deu', 'f_had_dnk', 'f_had_esp', 'f_had_fra', 'f_had_hun', 'f_had_jpn', 'f_had_kor', 'f_had_nor', 'f_had_rou', 'f_had_rus', 'f_had_svk', 'f_had_swe', 'f_tip']
+len v generator.py: []
+
+== CONTINENTS_SK (index.html): ['Afrika', 'Európa', 'Južná Amerika', 'Južná a Stredná Amerika (SCAHC)', 'Oceánia', 'Severná Amerika', 'Severná Amerika a Karibik (NACHC)', 'Severná a Stredná Amerika', 'Ázia', 'Ázia & Oceánia']
+== CONTINENTS (generator.py): ['Afrika', 'Európa', 'Južná Amerika', 'Oceánia', 'Severná Amerika', 'Severná a Stredná Amerika', 'Ázia', 'Ázia & Oceánia']
+len v index.html: ['Južná a Stredná Amerika (SCAHC)', 'Severná Amerika a Karibik (NACHC)']
+len v generator.py: []
+  'Afrika': 11 priečinkov v data.json
+  'Európa': 14 priečinkov v data.json
+  'Južná Amerika': 7 priečinkov v data.json
+  'Južná a Stredná Amerika (SCAHC)': 3 priečinkov v data.json
+  'Oceánia': 11 priečinkov v data.json
+  'Severná Amerika': 2 priečinkov v data.json
+  'Severná Amerika a Karibik (NACHC)': 3 priečinkov v data.json
+  'Severná a Stredná Amerika': 8 priečinkov v data.json
+  'Ázia': 12 priečinkov v data.json
+  'Ázia & Oceánia': 2 priečinkov v data.json
+
+== AKT_SPORTS index: 22 generator: 22 zhodné: True
+   test_webu SPORT_NAZVY: 21 chýba oproti appke: ['ine']
+
+== CSP zhodné: True
+== NO_EN_ALPHA zhodné: True | index: ['f_bas_sut_af', 'f_bas_sut_az', 'f_bas_sut_eu', 'f_bas_sut_ja', 'f_bas_sut_na', 'f_bas_sut_oc'] | gen: ['f_bas_sut_af', 'f_bas_sut_az', 'f_bas_sut_eu', 'f_bas_sut_ja', 'f_bas_sut_na', 'f_bas_sut_oc']
+== PINNED_EN je len v index.html: True

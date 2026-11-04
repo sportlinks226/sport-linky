@@ -1,0 +1,153 @@
+
+[sk] /hokej/  statika: 4 priečinkov, 3 liniek, h1 „🏒 Hokej“ | appka: 4 priečinkov, 3 liniek, počty na kartách ["4 sekcie · 67 liniek","3 sekcie · 867 liniek","5 sekcií · 87 liniek"]
+   ✗ canonical: https://sportlinky.sk/hokej/ ≠ http://127.0.0.1:8123/hokej/
+   ✗ priečinky INÁ MNOŽINA (4 vs 4): statika [🏆 Súťaže, 👕 Kluby, 🏢 Asociácie, 📊 Správy a Štatistiky] appka [Súťaže, Kluby, Asociácie, Správy a Štatistiky]
+
+[sk] /hokej/kluby/  statika: 3 priečinkov, 0 liniek, h1 „👕 Kluby“ | appka: 3 priečinkov, 0 liniek, počty na kartách ["14 sekcií · 353 liniek","32 sekcií · 490 liniek","3 sekcie · 24 liniek"]
+   ✗ canonical: https://sportlinky.sk/hokej/kluby/ ≠ http://127.0.0.1:8123/hokej/kluby/
+   ✗ priečinky INÁ MNOŽINA (3 vs 3): statika [🏒 Severná Amerika, 🏒 Európa, 🏒 Ázia & Oceánia] appka [Severná Amerika, Európa, Ázia & Oceánia]
+
+[sk] /hokej/kluby/severna-amerika/nhl/  statika: 0 priečinkov, 33 liniek, h1 „🏒 NHL“ | appka: 0 priečinkov, 33 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/hokej/kluby/severna-amerika/nhl/ ≠ http://127.0.0.1:8123/hokej/kluby/severna-amerika/nhl/
+
+[sk] /aktualne/  statika: 0 priečinkov, 3 liniek, h1 „🔥 Aktuálne“ | appka: 0 priečinkov, 3 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/aktualne/ ≠ http://127.0.0.1:8123/aktualne/
+
+[sk] /tipovanie/  statika: 0 priečinkov, 1 liniek, h1 „💰 Tipovanie“ | appka: 0 priečinkov, 1 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/tipovanie/ ≠ http://127.0.0.1:8123/tipovanie/
+
+[sk] /futbal/kluby/afrika/eritrea/  statika: 0 priečinkov, 1 liniek, h1 „Eritrea“ | appka: 0 priečinkov, 1 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/eritrea/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/eritrea/
+
+[sk] /futbal/kluby/europa/  statika: 55 priečinkov, 0 liniek, h1 „⚽ Európa“ | appka: 55 priečinkov, 0 liniek, počty na kartách ["2 sekcie · 30 liniek","2 sekcie · 34 liniek","7 sekcií · 171 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/europa/ ≠ http://127.0.0.1:8123/futbal/kluby/europa/
+
+[sk] /basketbal/kluby/europa/grecko/a1-gynaikon-zeny/  statika: 0 priečinkov, 13 liniek, h1 „Α1 Γυναικών (ženy)“ | appka: 0 priečinkov, 13 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/basketbal/kluby/europa/grecko/a1-gynaikon-zeny/ ≠ http://127.0.0.1:8123/basketbal/kluby/europa/grecko/a1-gynaikon-zeny/
+
+[sk] /futbal/kluby/juzna-amerika/chile/liga-de-ascenso/  statika: 0 priečinkov, 17 liniek, h1 „Liga de Ascenso“ | appka: 0 priečinkov, 17 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/juzna-amerika/chile/liga-de-ascenso/ ≠ http://127.0.0.1:8123/futbal/kluby/juzna-amerika/chile/liga-de-ascenso/
+
+[sk] /futbal/kluby/europa/nemecko/3-liga/  statika: 0 priečinkov, 21 liniek, h1 „3. Liga“ | appka: 0 priečinkov, 21 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/europa/nemecko/3-liga/ ≠ http://127.0.0.1:8123/futbal/kluby/europa/nemecko/3-liga/
+
+[sk] /futbal/kluby/  statika: 6 priečinkov, 0 liniek, h1 „👕 Kluby“ | appka: 6 priečinkov, 0 liniek, počty na kartách ["55 sekcií · 2257 liniek","46 sekcií · 727 liniek","10 sekcií · 444 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/ ≠ http://127.0.0.1:8123/futbal/kluby/
+   ✗ priečinky INÁ MNOŽINA (6 vs 6): statika [⚽ Európa, ⚽ Ázia, ⚽ Južná Amerika, ⚽ Afrika, ⚽ Severná a Stredná Amerika, ⚽ Oceánia] appka [Európa, Ázia, Južná Amerika, Afrika, Severná a Stredná Amerika, Oceánia]
+
+[sk] /futbal/kluby/afrika/komory/  statika: 1 priečinkov, 0 liniek, h1 „Komory“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["13 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/komory/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/komory/
+
+[sk] /futbal/kluby/afrika/burundi/  statika: 1 priečinkov, 0 liniek, h1 „Burundi“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["17 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/burundi/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/burundi/
+
+[sk] /basketbal/kluby/europa/madarsko/nb-i-a/  statika: 0 priečinkov, 15 liniek, h1 „NB I/A“ | appka: 0 priečinkov, 15 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/basketbal/kluby/europa/madarsko/nb-i-a/ ≠ http://127.0.0.1:8123/basketbal/kluby/europa/madarsko/nb-i-a/
+
+[sk] /futbal/kluby/europa/chorvatsko/druga-nl/  statika: 0 priečinkov, 17 liniek, h1 „Druga NL“ | appka: 0 priečinkov, 17 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/europa/chorvatsko/druga-nl/ ≠ http://127.0.0.1:8123/futbal/kluby/europa/chorvatsko/druga-nl/
+
+[sk] /futbal/kluby/afrika/zimbabwe/  statika: 1 priečinkov, 0 liniek, h1 „Zimbabwe“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["19 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/zimbabwe/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/zimbabwe/
+
+[sk] /futbal/kluby/afrika/mali/ligue-1/  statika: 0 priečinkov, 15 liniek, h1 „Ligue 1“ | appka: 0 priečinkov, 15 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/mali/ligue-1/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/mali/ligue-1/
+
+[sk] /futbal/kluby/severna-a-stredna-amerika/kajmanske-ostrovy/  statika: 1 priečinkov, 0 liniek, h1 „Kajmanie ostrovy“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["10 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/severna-a-stredna-amerika/kajmanske-ostrovy/ ≠ http://127.0.0.1:8123/futbal/kluby/severna-a-stredna-amerika/kajmanske-ostrovy/
+
+[sk] /futbal/kluby/europa/dansko/superliga/  statika: 0 priečinkov, 13 liniek, h1 „Superliga“ | appka: 0 priečinkov, 13 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/europa/dansko/superliga/ ≠ http://127.0.0.1:8123/futbal/kluby/europa/dansko/superliga/
+
+[sk] /futbal/kluby/afrika/sudan/premier-league/  statika: 0 priečinkov, 9 liniek, h1 „Premier League — Elitná skupina“ | appka: 0 priečinkov, 9 liniek, počty na kartách []
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/sudan/premier-league/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/sudan/premier-league/
+
+[sk] /futbal/kluby/afrika/juzny-sudan/  statika: 1 priečinkov, 0 liniek, h1 „Južný Sudán“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["15 liniek"]
+   ✗ canonical: https://sportlinky.sk/futbal/kluby/afrika/juzny-sudan/ ≠ http://127.0.0.1:8123/futbal/kluby/afrika/juzny-sudan/
+
+[en] /ice-hockey/  statika: 4 priečinkov, 1 liniek, h1 „🏒 Ice Hockey“ | appka: 4 priečinkov, 1 liniek, počty na kartách ["4 sections · 67 links","3 sections · 867 links","5 sections · 87 links"]
+   ✗ canonical: https://sportlinking.com/ice-hockey/ ≠ http://127.0.0.1:8124/ice-hockey/
+   ✗ priečinky INÁ MNOŽINA (4 vs 4): statika [🏆 Competitions, 👕 Clubs, 🏢 Associations, 📊 News & Statistics] appka [Competitions, Clubs, Associations, News & Statistics]
+
+[en] /live-this-week/  statika: 0 priečinkov, 3 liniek, h1 „🔥 Live This Week“ | appka: 0 priečinkov, 3 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/live-this-week/ ≠ http://127.0.0.1:8124/live-this-week/
+
+[en] /basketball/clubs/europe/  statika: 46 priečinkov, 0 liniek, h1 „🏀 Europe“ | appka: 46 priečinkov, 0 liniek, počty na kartách ["3 sections · 55 links","3 sections · 49 links","3 sections · 51 links"]
+   ✗ canonical: https://sportlinking.com/basketball/clubs/europe/ ≠ http://127.0.0.1:8124/basketball/clubs/europe/
+   ✗ priečinky INÉ PORADIE (46 vs 46): statika [Albania, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina] appka [Spain, Germany, Italy, France, Albania, Armenia, Austria]
+
+[en] /basketball/clubs/asia/  statika: 20 priečinkov, 0 liniek, h1 „🏀 Asia“ | appka: 20 priečinkov, 0 liniek, počty na kartách ["2 sections · 40 links","2 sections · 43 links","2 sections · 18 links"]
+   ✗ canonical: https://sportlinking.com/basketball/clubs/asia/ ≠ http://127.0.0.1:8124/basketball/clubs/asia/
+   ✗ priečinky INÉ PORADIE (20 vs 20): statika [China, Hong Kong, India, Indonesia, Iran, Iraq, Japan] appka [China, Japan, South Korea, Taiwan, Indonesia, Hong Kong, India]
+
+[en] /handball/clubs/europe/  statika: 45 priečinkov, 0 liniek, h1 „🤾 Europe“ | appka: 45 priečinkov, 0 liniek, počty na kartách ["3 sections · 28 links","3 sections · 35 links","3 sections · 51 links"]
+   ✗ canonical: https://sportlinking.com/handball/clubs/europe/ ≠ http://127.0.0.1:8124/handball/clubs/europe/
+   ✗ priečinky INÉ PORADIE (45 vs 45): statika [Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus] appka [Slovakia, Czechia, Germany, France, Spain, Denmark, Norway]
+
+[en] /football/clubs/africa/  statika: 53 priečinkov, 0 liniek, h1 „⚽ Africa“ | appka: 53 priečinkov, 0 liniek, počty na kartách ["1 section · 17 links","1 section · 17 links","1 section · 19 links"]
+   ✗ canonical: https://sportlinking.com/football/clubs/africa/ ≠ http://127.0.0.1:8124/football/clubs/africa/
+   ✗ priečinky INÉ PORADIE (53 vs 53): statika [Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon] appka [Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon]
+
+[en] /news-media/africa/  statika: 0 priečinkov, 0 liniek, h1 „Error response“ | appka: ? priečinkov, ? liniek, počty na kartách 
+   ✗ prevzatie/dáta do 20 s neprišli: page.waitForFunction: Timeout 20000ms exceeded.
+
+[en] /football/associations/africa/  statika: 0 priečinkov, 54 liniek, h1 „⚽ Africa“ | appka: 0 priečinkov, 54 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/football/associations/africa/ ≠ http://127.0.0.1:8124/football/associations/africa/
+   ✗ linky INÉ PORADIE (54 vs 54): statika [Algeria, Angola, Benin, Botswana, Burkina Faso] appka [Algeria, Angola, Benin, Botswana, Burkina Faso]
+
+[en] /basketball/associations/africa/  statika: 0 priečinkov, 54 liniek, h1 „🏀 Africa“ | appka: 0 priečinkov, 54 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/basketball/associations/africa/ ≠ http://127.0.0.1:8124/basketball/associations/africa/
+   ✗ linky INÉ PORADIE (54 vs 54): statika [Algeria, Angola, Benin, Botswana, Burkina Faso] appka [Algeria, Angola, Benin, Botswana, Burkina Faso]
+
+[en] /volleyball/clubs/  statika: 5 priečinkov, 0 liniek, h1 „🏐 Clubs“ | appka: 5 priečinkov, 0 liniek, počty na kartách ["44 sections · 1012 links","25 sections · 384 links","12 sections · 212 links"]
+   ✗ canonical: https://sportlinking.com/volleyball/clubs/ ≠ http://127.0.0.1:8124/volleyball/clubs/
+   ✗ priečinky INÁ MNOŽINA (5 vs 5): statika [🏐 Europe (CEV), 🏐 Asia & Oceania (AVC), 🏐 Africa (CAVB), 🏐 North & Central America (NORCECA), 🏐 South America (CSV)] appka [Europe (CEV), Asia & Oceania (AVC), Africa (CAVB), North & Central America (NORCECA), South America (CSV)]
+
+[en] /news-media/asia/east-timor/  statika: 0 priečinkov, 5 liniek, h1 „East Timor“ | appka: 0 priečinkov, 5 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/news-media/asia/east-timor/ ≠ http://127.0.0.1:8124/news-media/asia/east-timor/
+
+[en] /news-media/asia/mongolia/  statika: 0 priečinkov, 8 liniek, h1 „Mongolia“ | appka: 0 priečinkov, 8 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/news-media/asia/mongolia/ ≠ http://127.0.0.1:8124/news-media/asia/mongolia/
+
+[en] /handball/clubs/europe/austria/  statika: 1 priečinkov, 0 liniek, h1 „Austria“ | appka: 1 priečinkov, 0 liniek, počty na kartách ["13 links"]
+   ✗ canonical: https://sportlinking.com/handball/clubs/europe/austria/ ≠ http://127.0.0.1:8124/handball/clubs/europe/austria/
+
+[en] /handball/clubs/asia/  statika: 6 priečinkov, 0 liniek, h1 „🤾 Asia“ | appka: 6 priečinkov, 0 liniek, počty na kartách ["2 sections · 29 links","2 sections · 16 links","1 section · 9 links"]
+   ✗ canonical: https://sportlinking.com/handball/clubs/asia/ ≠ http://127.0.0.1:8124/handball/clubs/asia/
+   ✗ priečinky INÉ PORADIE (6 vs 6): statika [Japan, Kuwait, Qatar, Saudi Arabia, South Korea, United Arab Emirates] appka [Japan, South Korea, Kuwait, Qatar, Saudi Arabia, United Arab Emirates]
+
+[en] /handball/clubs/africa/angola/campeonato-nacional/  statika: 0 priečinkov, 7 liniek, h1 „Campeonato Nacional“ | appka: 0 priečinkov, 7 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/handball/clubs/africa/angola/campeonato-nacional/ ≠ http://127.0.0.1:8124/handball/clubs/africa/angola/campeonato-nacional/
+
+[en] /handball/associations/global/  statika: 0 priečinkov, 9 liniek, h1 „🤾 Global“ | appka: 0 priečinkov, 9 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/handball/associations/global/ ≠ http://127.0.0.1:8124/handball/associations/global/
+
+[en] /news-media/south-america/  statika: 2 priečinkov, 0 liniek, h1 „🌐 South America“ | appka: 2 priečinkov, 0 liniek, počty na kartách ["35 links","34 links"]
+   ✗ canonical: https://sportlinking.com/news-media/south-america/ ≠ http://127.0.0.1:8124/news-media/south-america/
+
+[en] /volleyball/clubs/africa-cavb/cape-verde/cape-verdean-mens-volleyball-championship/  statika: 0 priečinkov, 5 liniek, h1 „Cape Verdean Men’s Volleyball Championship“ | appka: 0 priečinkov, 5 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/volleyball/clubs/africa-cavb/cape-verde/cape-verdean-mens-volleyball-championship/ ≠ http://127.0.0.1:8124/volleyball/clubs/africa-cavb/cape-verde/cape-verdean-mens-volleyball-championship/
+
+[en] /winter-sports/biathlon/  statika: 0 priečinkov, 7 liniek, h1 „🎯 Biathlon“ | appka: 0 priečinkov, 7 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/winter-sports/biathlon/ ≠ http://127.0.0.1:8124/winter-sports/biathlon/
+
+[en] /news-media/south-america/argentina/  statika: 0 priečinkov, 35 liniek, h1 „Argentina“ | appka: 0 priečinkov, 35 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/news-media/south-america/argentina/ ≠ http://127.0.0.1:8124/news-media/south-america/argentina/
+
+[en] /other-sports/swimming/  statika: 0 priečinkov, 13 liniek, h1 „🏊 Swimming“ | appka: 0 priečinkov, 13 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/other-sports/swimming/ ≠ http://127.0.0.1:8124/other-sports/swimming/
+
+[en] /tennis/tournaments-competitions/atp-tour/  statika: 3 priečinkov, 0 liniek, h1 „🎾 ATP Tour“ | appka: 3 priečinkov, 0 liniek, počty na kartách ["9 links","16 links","29 links"]
+   ✗ canonical: https://sportlinking.com/tennis/tournaments-competitions/atp-tour/ ≠ http://127.0.0.1:8124/tennis/tournaments-competitions/atp-tour/
+   ✗ priečinky INÁ MNOŽINA (3 vs 3): statika [🎾 Masters 1000, 🎾 ATP 500, 🎾 ATP 250] appka [Masters 1000, ATP 500, ATP 250]
+
+[en] /tennis/tournaments-competitions/other-tours/  statika: 0 priečinkov, 10 liniek, h1 „🎾 Other Tours“ | appka: 0 priečinkov, 10 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/tennis/tournaments-competitions/other-tours/ ≠ http://127.0.0.1:8124/tennis/tournaments-competitions/other-tours/
+
+[en] /tennis/tournaments-competitions/atp-tour/masters-1000/  statika: 0 priečinkov, 9 liniek, h1 „🎾 Masters 1000“ | appka: 0 priečinkov, 9 liniek, počty na kartách []
+   ✗ canonical: https://sportlinking.com/tennis/tournaments-competitions/atp-tour/masters-1000/ ≠ http://127.0.0.1:8124/tennis/tournaments-competitions/atp-tour/masters-1000/
+
+SPOLU: 45 stránok, s rozdielom 45
+
+404.html ako appka na /hokej/neexistuje/: {"title":"Hokej — Športové Linky","path":"/hokej/neexistuje/","main":"KATEGÓRIE\n🏆\nSúťaže\n4 sekcie · 67 liniek\n→\n👕\nKluby\n3 sekcie · 867 liniek\n→\n🏢\nAsociácie\n5 sekcií · 87 liniek\n→\n📊\nSprávy a Štatistiky\n40 liniek\n→\nLINKY\nSCORES\n","canonical":"(žiadny)","hreflang":0,"crumbs":""}
+404.html na /xyz/abc/: {"title":"Športové Linky — 14 000+ webov klubov, líg a správ","path":"/xyz/abc/","main":"⚽\nFutbal\n4 sekcie · 5389 liniek\n→\n🏒\nHokej\n4 sekcie · 1064 liniek\n→\n🎾\nTenis\n5 sekcií · 570 liniek\n→\n🏀\nBasketbal\n4 sekc"}

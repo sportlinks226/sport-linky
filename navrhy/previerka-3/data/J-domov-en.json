@@ -1,0 +1,16 @@
+{
+ "base": "http://127.0.0.1:8124/",
+ "errs": [],
+ "main_boot_rovnake": true,
+ "main_zhoda": true,
+ "nav_zhoda": true,
+ "akt_zhoda": false,
+ "cnt_zhoda": true,
+ "head_zhoda": true,
+ "headTxt_zhoda": true,
+ "flive_zhoda": true,
+ "akt_stat": "\n    <a class=\"akt-card\" href=\"https://www.atptour.com/en/scores/current\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🎾</span>\n      <span>ATP Scores</span>\n    </a>\n    <a class=\"akt-card\" href=\"https://www.wtatennis.com/scores\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🎾</span>\n      <span>WTA Scores</span>\n    </a>\n    <a class=\"akt-card\" href=\"https://ttstar.cz/en/results/\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🏓</span>\n      <span>TT Star Series</span>\n    </a>\n  ",
+ "akt_app": "\n    <a class=\"akt-card\" href=\"https://www.atptour.com/en/scores/current\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🎾</span>\n      <span>ATP Scores</span>\n    </a>\n    <a class=\"akt-card\" href=\"https://www.wtatennis.com/scores\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🎾</span>\n      <span>WTA Scores</span>\n    </a>\n    <a class=\"akt-card\" href=\"https://ttstar.cz/en/results/\" target=\"_blank\" rel=\"noopener\">\n      \n      <span class=\"akt-icon\" aria-hidden=\"true\">🏓</span>\n      <span>TT Star Series</span>\n    </a>",
+ "adframe_slot_zhoda": true,
+ "adframe_auto_zhoda": true
+}

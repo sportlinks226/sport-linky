@@ -1,0 +1,436 @@
+{
+ "500 /": {
+  "navErr": null,
+  "ms": 3514,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": true,
+   "nodes": 81,
+   "fail": true,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "500 /futbal/": {
+  "navErr": null,
+  "ms": 3390,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/futbal/",
+   "title": "Futbal — Športové Linky",
+   "curId": "f_fut",
+   "partial": true,
+   "nodes": 84,
+   "fail": true,
+   "main": "KATEGÓRIE 🏆 Súťaže 7 sekcií · 83 liniek → 👕 Kluby 6 sekcií · 5037 liniek → 🏢 Asociácie 7 sekcií ·",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "500 /futbal/kluby/europa/anglicko/": {
+  "navErr": null,
+  "ms": 3382,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/",
+   "title": "Anglicko — Európa · Futbal — Športové Linky",
+   "curId": "f_fut_klu_eu_ang",
+   "partial": true,
+   "nodes": 90,
+   "fail": true,
+   "main": "Premier League 21 liniek → Championship 25 liniek → League One 25 liniek → League Two 25 liniek → Na",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "500 /#/futbal/kluby/europa/anglicko": {
+  "navErr": null,
+  "ms": 4963,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": false,
+   "nodes": 0,
+   "fail": true,
+   "main": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+   "retryBtn": true,
+   "count": "0\noverených liniek",
+   "pubVer": "",
+   "ver": 0
+  },
+  "stav2": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": false,
+   "nodes": 0,
+   "fail": true,
+   "main": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+   "retryBtn": true,
+   "count": "0\noverených liniek",
+   "pubVer": "",
+   "ver": 0
+  },
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125",
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "bad /futbal/kluby/europa/anglicko/": {
+  "navErr": null,
+  "ms": 3385,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/",
+   "title": "Anglicko — Európa · Futbal — Športové Linky",
+   "curId": "f_fut_klu_eu_ang",
+   "partial": true,
+   "nodes": 90,
+   "fail": true,
+   "main": "Premier League 21 liniek → Championship 25 liniek → League One 25 liniek → League Two 25 liniek → Na",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "net /hokej/sutaze/": {
+  "navErr": null,
+  "ms": 3385,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/hokej/sutaze/",
+   "title": "Súťaže — Hokej — Športové Linky",
+   "curId": "f_hok_sut",
+   "partial": true,
+   "nodes": 85,
+   "fail": true,
+   "main": "🏒 Globálne 28 liniek → 🏒 Severná Amerika 17 liniek → 🏒 Európa 18 liniek → 🏒 Ázia 4 linky →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "html /": {
+  "navErr": null,
+  "ms": 2600,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": true,
+   "nodes": 81,
+   "fail": true,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": null,
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "nonodes /": {
+  "navErr": null,
+  "ms": 2608,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": true,
+   "nodes": 81,
+   "fail": true,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": null,
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "slow /hokej/sutaze/": {
+  "navErr": null,
+  "ms": 7232,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/hokej/sutaze/",
+   "title": "Súťaže — Hokej — Športové Linky",
+   "curId": "f_hok_sut",
+   "partial": true,
+   "nodes": 85,
+   "fail": false,
+   "main": "🏒 Globálne 28 liniek → 🏒 Severná Amerika 17 liniek → 🏒 Európa 18 liniek → 🏒 Ázia 4 linky →",
+   "retryBtn": false,
+   "count": "14 769\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "stav2": {
+   "url": "http://127.0.0.1:8123/hokej/sutaze/",
+   "title": "Súťaže — Hokej — Športové Linky",
+   "curId": "f_hok_sut",
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "🏒 Globálne 28 liniek → 🏒 Severná Amerika 17 liniek → 🏒 Európa 18 liniek → 🏒 Ázia 4 linky →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "1125",
+   "ver": 1125
+  },
+  "hladanie": null,
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "ver /": {
+  "navErr": null,
+  "ms": 4126,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "1130",
+   "ver": 1125
+  },
+  "stav2": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "1130",
+   "ver": 1125
+  },
+  "hladanie": null,
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125",
+   "/data.json?v=1130"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "verbad /": {
+  "navErr": null,
+  "ms": 3517,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "1125",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": "LINKY (6) Košice Wolves Basketbal › Kluby › Európa › Slovensko › SBL FC Košice F",
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "verslow /": {
+  "navErr": null,
+  "ms": 1643,
+  "stav1": {
+   "url": "http://127.0.0.1:8123/",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "curId": null,
+   "partial": true,
+   "nodes": 81,
+   "fail": false,
+   "main": "⚽ Futbal 4 sekcie · 5389 liniek → 🏒 Hokej 4 sekcie · 1064 liniek → 🎾 Tenis 5 sekcií · 570 liniek →",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "1125",
+   "ver": 1125
+  },
+  "stav2": null,
+  "hladanie": null,
+  "poziadavky": [
+   "/version.txt",
+   "/data.json?v=1125"
+  ],
+  "errors": [],
+  "console": []
+ },
+ "offline /futbal/kluby/europa/anglicko/": {
+  "navErr": "page.goto: net::ERR_INTERNET_DISCONNECTED at http://127.0.0.1:8123/futbal/kluby/",
+  "ms": 2518,
+  "stav1": {
+   "err": "Error: page.evaluate: ReferenceError: curId is not defined\n    at eval (eval at evaluate (:311:30), "
+  },
+  "stav2": null,
+  "hladanie": null,
+  "poziadavky": [],
+  "errors": [],
+  "console": []
+ },
+ "skusitZnova": {
+  "predKlikom": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/",
+   "title": "Premier League — Anglicko · Futbal — Športové Linky",
+   "curId": "f_ang_pl",
+   "partial": true,
+   "nodes": 105,
+   "fail": true,
+   "main": "LIGA Premier League Oficiálna tabuľka Premier League na webe ligy — poradie aktuálnej sezóny Arsenal",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "hore": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/",
+   "title": "Anglicko — Európa · Futbal — Športové Linky",
+   "curId": "f_fut_klu_eu_ang",
+   "partial": true,
+   "nodes": 105,
+   "fail": true,
+   "main": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+   "retryBtn": true,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "spatDole": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/",
+   "title": "Premier League — Anglicko · Futbal — Športové Linky",
+   "curId": "f_ang_pl",
+   "partial": true,
+   "nodes": 105,
+   "fail": true,
+   "main": "LIGA Premier League Oficiálna tabuľka Premier League na webe ligy — poradie aktuálnej sezóny Arsenal",
+   "retryBtn": false,
+   "count": "14 847\noverených liniek",
+   "pubVer": "",
+   "ver": 1125
+  },
+  "poKliku": null,
+  "pokusy": 2,
+  "errors": []
+ },
+ "bezMiniBalika": {
+  "prevzatieMs": 10,
+  "hnedPoPrevzati": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/",
+   "title": "Premier League — Anglicko · Futbal — Športové Linky",
+   "curId": "f_ang_pl",
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "LIGA Premier League Oficiálna tabuľka Premier League na webe ligy — poradie aktuálnej sezóny Arsenal",
+   "retryBtn": false,
+   "count": "1 051\noverených liniek",
+   "pubVer": "1125",
+   "ver": 1125
+  },
+  "poDatach": {
+   "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/",
+   "title": "Premier League — Anglicko · Futbal — Športové Linky",
+   "curId": "f_ang_pl",
+   "partial": false,
+   "nodes": 16510,
+   "fail": false,
+   "main": "LIGA Premier League Oficiálna tabuľka Premier League na webe ligy — poradie aktuálnej sezóny Arsenal",
+   "retryBtn": false,
+   "count": "9 965\noverených liniek",
+   "pubVer": "1125",
+   "ver": 1125
+  },
+  "errors": []
+ }
+}

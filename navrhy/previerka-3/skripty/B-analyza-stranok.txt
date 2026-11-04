@@ -1,0 +1,60 @@
+[sk] stránok (index.html): 1546
+[en] stránok (index.html): 1545
+
+===== SK =====
+sitemap adries: 1546 | stránok na disku: 1546 | v sitemape bez súboru: [] | súbor bez sitemapy: []
+lastmod rozloženie (top 6): [('2026-10-21', 512), ('2026-10-26', 357), ('2026-10-23', 318), ('2026-10-28', 101), ('2026-10-02', 92), ('2026-11-01', 62)]
+canonical ≠ adresa: 0 []
+stránok s meta robots: 0
+hreflang: bez hreflangu 1 | self≠adresa 0 | x-default≠en 0 | cieľ v druhom builde chýba 0 | bez spätného odkazu 0
+   bez hreflangu (prvých 15): ['tipovanie/']
+sitemap hreflang ≠ HTML hreflang: 0 []
+titulok dĺžka: min 22 priemer 50 max 86 | >65: 33 | >70: 19
+popis dĺžka: min 26 priemer 170 max 510 | >160: 832 | <50: 65 | prázdny: 0
+duplicitné titulky: 0 []
+duplicitné popisy: 0 []
+stránky bez vlastného popisu (meta popis je náhradný „X podkategórií, Y liniek“): 0
+najdlhšie titulky: [('volejbal/kluby/severna-a-stredna-amerika-norceca/spojene-staty-americke/volleyball-league-of-america-tier-1/', 86, 'Volleyball League of America — Tier 1 (muži) — Spojené štáty americké — Športové Linky'), ('futbal/kluby/afrika/sv-tomas-a-princov-ostrov/campeonato-nacional-grupo-principe/', 82, 'Campeonato Nacional — Grupo Príncipe — Sv. Tomáš a Princov ostrov — Športové Linky'), ('futbal/kluby/afrika/sv-tomas-a-princov-ostrov/campeonato-nacional-grupo-sao-tome/', 82, 'Campeonato Nacional — Grupo São Tomé — Sv. Tomáš a Princov ostrov — Športové Linky')]
+stránok bez H1 / s viac H1: 0 0
+rovnaký H1 na viacerých stránkach (napr. „Európa“): 222 [('Premier League', 20), ('Ligue 1', 9), ('Super League', 8), ('Superliga mužov', 8), ('Superliga žien', 7), ('Japonsko', 6)]
+JSON-LD typy: [(('BreadcrumbList',), 1545), (('WebSite',), 1)]
+tenké stránky (0 podpriečinkov, ≤2 linky): 8, z toho bez popisu: 0
+   príklady: [('futbal/kluby/afrika/eritrea/', 1, 0, True), ('futbal/kluby/azia/pakistan/', 1, 0, True), ('futbal/kluby/azia/severna-korea/', 1, 0, True), ('futbal/kluby/oceania/australia/', 1, 0, True), ('hadzana/kluby/europa/lichtenstajnsko/', 1, 0, True), ('hadzana/kluby/europa/monako/', 1, 0, True), ('ostatne-sporty/basketbal-3x3/', 1, 0, True), ('tipovanie/', 1, 0, True)]
+stránky s presne 1 linkou a 0 podpriečinkami: 8 [('futbal/kluby/afrika/eritrea/', 1), ('futbal/kluby/azia/pakistan/', 1), ('futbal/kluby/azia/severna-korea/', 1), ('futbal/kluby/oceania/australia/', 1), ('hadzana/kluby/europa/lichtenstajnsko/', 1), ('hadzana/kluby/europa/monako/', 1)]
+rozloženie počtu liniek na stránke: 0: 518 1-2: 12 3-5: 35 6-20: 852 >20: 128 max: 64
+odkazy na neexistujúce stránky (cieľ bez index.html): 0 []
+prichádzajúce odkazy na stránku: min 1 medián 1 max 1546 | stránok s ≤1 odkazom: 1016 | s 0: 0
+   stránky s najmenej odkazmi: [('basketbal/asociacie/afrika/', 1), ('basketbal/asociacie/azia/', 1), ('basketbal/asociacie/europa/', 1), ('basketbal/asociacie/globalne/', 1), ('basketbal/asociacie/juzna-amerika/', 1), ('basketbal/asociacie/oceania/', 1)]
+hĺbka (počet / v ceste): [(0, 1), (1, 11), (2, 67), (3, 205), (4, 523), (5, 739)]
+veľkosť statickej stránky: priemer 24.2 kB, max 58 kB; index.html 255 kB
+stránok bez #pageBoot: 0
+
+===== EN =====
+sitemap adries: 1545 | stránok na disku: 1545 | v sitemape bez súboru: [] | súbor bez sitemapy: []
+lastmod rozloženie (top 6): [('2026-10-21', 565), ('2026-10-26', 357), ('2026-10-23', 266), ('2026-10-28', 101), ('2026-10-02', 91), ('2026-11-01', 62)]
+canonical ≠ adresa: 0 []
+stránok s meta robots: 0
+hreflang: bez hreflangu 0 | self≠adresa 0 | x-default≠en 0 | cieľ v druhom builde chýba 0 | bez spätného odkazu 0
+sitemap hreflang ≠ HTML hreflang: 0 []
+titulok dĺžka: min 21 priemer 50 max 84 | >65: 30 | >70: 16
+popis dĺžka: min 23 priemer 174 max 519 | >160: 862 | <50: 62 | prázdny: 0
+duplicitné titulky: 0 []
+duplicitné popisy: 0 []
+stránky bez vlastného popisu (meta popis je náhradný „X podkategórií, Y liniek“): 0
+najdlhšie titulky: [('football/clubs/north-central-america/st-vincent-and-the-grenadines/', 84, 'Saint Vincent and the Grenadines — North & Central America · Football — Sportlinking'), ('ice-hockey/clubs/europe/bosnia-and-herzegovina/bosnia-and-herzegovina-hockey-league/', 76, 'Bosnia and Herzegovina Hockey League — Bosnia and Herzegovina — Sportlinking'), ('football/clubs/africa/sao-tome-and-principe/campeonato-nacional-grupo-principe/', 75, 'Campeonato Nacional — Príncipe Group — São Tomé and Príncipe — Sportlinking')]
+stránok bez H1 / s viac H1: 0 0
+rovnaký H1 na viacerých stránkach (napr. „Európa“): 220 [('Premier League', 22), ('Super League', 10), ('Ligue 1', 9), ('Japan', 6), ('Austria', 6), ('Belarus', 6)]
+JSON-LD typy: [(('BreadcrumbList',), 1544), (('WebSite',), 1)]
+tenké stránky (0 podpriečinkov, ≤2 linky): 7, z toho bez popisu: 0
+   príklady: [('football/clubs/africa/eritrea/', 1, 0, True), ('football/clubs/asia/north-korea/', 1, 0, True), ('football/clubs/asia/pakistan/', 1, 0, True), ('football/clubs/oceania/australia/', 1, 0, True), ('handball/clubs/europe/liechtenstein/', 1, 0, True), ('handball/clubs/europe/monaco/', 1, 0, True), ('other-sports/3x3-basketball/', 1, 0, True)]
+stránky s presne 1 linkou a 0 podpriečinkami: 7 [('football/clubs/africa/eritrea/', 1), ('football/clubs/asia/north-korea/', 1), ('football/clubs/asia/pakistan/', 1), ('football/clubs/oceania/australia/', 1), ('handball/clubs/europe/liechtenstein/', 1), ('handball/clubs/europe/monaco/', 1)]
+rozloženie počtu liniek na stránke: 0: 518 1-2: 16 3-5: 30 6-20: 852 >20: 128 max: 64
+odkazy na neexistujúce stránky (cieľ bez index.html): 0 []
+prichádzajúce odkazy na stránku: min 1 medián 1 max 1545 | stránok s ≤1 odkazom: 1016 | s 0: 0
+   stránky s najmenej odkazmi: [('basketball/associations/africa/', 1), ('basketball/associations/asia/', 1), ('basketball/associations/europe/', 1), ('basketball/associations/global/', 1), ('basketball/associations/north-central-america/', 1), ('basketball/associations/oceania/', 1)]
+hĺbka (počet / v ceste): [(0, 1), (1, 10), (2, 67), (3, 205), (4, 523), (5, 739)]
+veľkosť statickej stránky: priemer 24.5 kB, max 60 kB; index.html 259 kB
+stránok bez #pageBoot: 0
+
+EN stránky, na ktoré neukazuje žiadny SK hreflang: []
+SK stránky, na ktoré neukazuje žiadny EN hreflang: ['tipovanie/']

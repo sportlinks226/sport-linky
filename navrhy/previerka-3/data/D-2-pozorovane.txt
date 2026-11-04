@@ -1,0 +1,43 @@
+
+### desktop-domov: pozorované (bez simulácie siete, CPU 4×?): FCP 251 ms, LCP 251 ms, load 402 ms, DCL 163 ms, CLS 0.00007468975279455972; simulované: FCP 303, LCP 471, TBT 95, TTI 615
+  fázy LCP: TTFB 121 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 350 ms
+  LCP prvok: body > footer > span.f-note | © 2026 · Všetky športové weby sveta na jednom mieste Databáz
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 400 ms, koniec 407 ms (LCP pozorované 251 ms → data.json skončil po LCP)
+
+### mobil-aktualne: pozorované (bez simulácie siete, CPU 4×?): FCP 89 ms, LCP 296 ms, load 82 ms, DCL 82 ms, CLS 0.00023427616244831013; simulované: FCP 661, LCP 1753, TBT 844, TTI 1919
+  fázy LCP: TTFB 452 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 1301 ms
+  LCP prvok: body > footer > span.f-note | © 2026 · Všetky športové weby sveta na jednom mieste Databáz
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 474 ms, koniec 499 ms (LCP pozorované 296 ms → data.json skončil po LCP)
+
+### mobil-anglicko: pozorované (bez simulácie siete, CPU 4×?): FCP 106 ms, LCP 976 ms, load 66 ms, DCL 65 ms, CLS 0.00023427616244831013; simulované: FCP 696, LCP 7582, TBT 780, TTI 7590
+  fázy LCP: TTFB 454 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 7129 ms
+  LCP prvok: main#main > div.grid-root > a.card-root > div.c-name | National League North
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 573 ms, koniec 592 ms (LCP pozorované 976 ms → data.json SKONČIL PRED LCP (Lantern ho zaráta do LCP))
+
+### mobil-championship: pozorované (bez simulácie siete, CPU 4×?): FCP 57 ms, LCP 716 ms, load 48 ms, DCL 48 ms, CLS 0.0001909084024603953; simulované: FCP 662, LCP 7809, TBT 975, TTI 7840
+  fázy LCP: TTFB 452 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 7357 ms
+  LCP prvok: div.card-link > a > div > div.cl-desc | Tabuľka súťaže Championship (Anglicko) na Soccerway — aktuál
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 457 ms, koniec 467 ms (LCP pozorované 716 ms → data.json SKONČIL PRED LCP (Lantern ho zaráta do LCP))
+
+### mobil-domov: pozorované (bez simulácie siete, CPU 4×?): FCP 1233 ms, LCP 1233 ms, load 489 ms, DCL 185 ms, CLS 0.0001909084024603953; simulované: FCP 1327, LCP 7657, TBT 749, TTI 7657
+  fázy LCP: TTFB 453 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 7203 ms
+  LCP prvok: div#placeholder | 🔍  Hľadaj kdekoľvek v strome...
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 487 ms, koniec 494 ms (LCP pozorované 1233 ms → data.json SKONČIL PRED LCP (Lantern ho zaráta do LCP))
+
+### mobil-en-domov: pozorované (bez simulácie siete, CPU 4×?): FCP 229 ms, LCP 229 ms, load 236 ms, DCL 200 ms, CLS 0.00019597889282756237; simulované: FCP 1365, LCP 1833, TBT 384, TTI 2009
+  fázy LCP: TTFB 453 ms, Load Delay 0 ms, Load Time 0 ms, Render Delay 1380 ms
+  LCP prvok: div#placeholder | 🔍  Search anywhere in the tree...
+  link-name: body > div.banner-wrap > div#bannerSlot > a → <a href="/live-this-week/" onclick="return navClick(event,'f_ltw')" style="display:block;width:100%;height:100%">
+  target-size: skóre 1 (0 položiek)
+  color-contrast: skóre 1
+  data.json pozorované: štart 233 ms, koniec 380 ms (LCP pozorované 229 ms → data.json skončil po LCP)

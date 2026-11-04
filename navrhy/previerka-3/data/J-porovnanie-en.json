@@ -1,0 +1,88 @@
+{
+ "base": "http://127.0.0.1:8124/",
+ "app": 1662,
+ "statickych": 1544,
+ "stat": {
+  "zhoda": 1538,
+  "rozdiel": 6,
+  "chybaStatika": 0,
+  "chybaAppka": 0,
+  "prazdne": 118
+ },
+ "rozdiely": [
+  {
+   "id": "f_fut_klu_af",
+   "name": "Africa",
+   "url": "/football/clubs/africa/",
+   "co": [
+    "PORADIE podpriečinkov: appka [Algeria, Angola, Benin, Botswana, Burkina Faso…] ≠ statika [Algeria, Angola, Benin, Botswana, Burkina Faso…]"
+   ]
+  },
+  {
+   "id": "f_bas_klu_eu",
+   "name": "Europe",
+   "url": "/basketball/clubs/europe/",
+   "co": [
+    "PORADIE podpriečinkov: appka [Spain, Germany, Italy, France, Albania…] ≠ statika [Albania, Armenia, Austria, Azerbaijan, Belarus…]"
+   ]
+  },
+  {
+   "id": "f_bas_klu_az",
+   "name": "Asia",
+   "url": "/basketball/clubs/asia/",
+   "co": [
+    "PORADIE podpriečinkov: appka [China, Japan, South Korea, Taiwan, Indonesia…] ≠ statika [China, Hong Kong, India, Indonesia, Iran…]"
+   ]
+  },
+  {
+   "id": "f_bas_fra_l3",
+   "name": "La Boulangère Wonderligue (women)",
+   "url": "/basketball/clubs/europe/france/la-boulangère-wonderligue-women/",
+   "co": [
+    "canonical /basketball/clubs/europe/france/la-boulang%C3%A8re-wonderligue-women/ ≠ /basketball/clubs/europe/france/la-boulangère-wonderligue-women/"
+   ]
+  },
+  {
+   "id": "f_had_klu_eu",
+   "name": "Europe",
+   "url": "/handball/clubs/europe/",
+   "co": [
+    "PORADIE podpriečinkov: appka [Slovakia, Czechia, Germany, France, Spain…] ≠ statika [Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria…]"
+   ]
+  },
+  {
+   "id": "f_had_klu_az",
+   "name": "Asia",
+   "url": "/handball/clubs/asia/",
+   "co": [
+    "PORADIE podpriečinkov: appka [Japan, South Korea, Kuwait, Qatar, Saudi Arabia…] ≠ statika [Japan, Kuwait, Qatar, Saudi Arabia, South Korea…]"
+   ]
+  }
+ ],
+ "vzorka": 209,
+ "rstat": {
+  "zhoda": 207,
+  "rozdiel": 2,
+  "chyba": 0,
+  "priemer_ms_prevzatie": 168,
+  "priemer_ms_cele_data": 816
+ },
+ "realRozdiely": [
+  {
+   "url": "/handball/clubs/asia/",
+   "co": [
+    "po prevzatí: podpriečinky/poradie [Japan, South Korea, Kuwait, Qatar, Saudi Arabia] ≠ [Japan, Kuwait, Qatar, Saudi Arabia, South Korea]",
+    "po celých dátach: podpriečinky/poradie [Japan, South Korea, Kuwait, Qatar, Saudi Arabia] ≠ [Japan, Kuwait, Qatar, Saudi Arabia, South Korea]"
+   ]
+  },
+  {
+   "url": "/handball/clubs/europe/",
+   "co": [
+    "po prevzatí: podpriečinky/poradie [Slovakia, Czechia, Germany, France, Spain] ≠ [Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria]",
+    "po celých dátach: podpriečinky/poradie [Slovakia, Czechia, Germany, France, Spain] ≠ [Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria]"
+   ]
+  }
+ ],
+ "jsErr": [],
+ "err2": []
+}

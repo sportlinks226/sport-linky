@@ -1,0 +1,132 @@
+liniek: 14847
+
+Anomálie URL (počty):
+  fb-nie-profil                  307
+  fragment                       16
+  http                           7
+  non-ascii                      9
+  punycode                       3
+  url-facebook                   3029
+  url-ina-socialna-siet          15
+  url-instagram                  1035
+  url-wikipedia                  2
+  url-facebook podľa sekcie: [('Futbal', 1532), ('Volejbal', 681), ('Basketbal', 428), ('Hádzaná', 281), ('Tenis', 66), ('Hokej', 41)]
+  url-facebook s vyplneným aj fb poľom: 0
+  http podľa sekcie: [('Správy & Médiá', 3), ('Volejbal', 2), ('Futbal', 1), ('Basketbal', 1)]
+  http top hosty: [('www.sdprk.org.kp', 1), ('www.kcna.kp', 1), ('www.naenara.com.kp', 1), ('www.caituzaingo.com.ar', 1), ('www.samsungblueminx.com', 1), ('dinamokrasnodar.ru', 1), ('vo-klub.by', 1)]
+  fb-ina-domena ukážka: []
+  ig-ina-domena ukážka: []
+
+Duplicitné URL presne: 354 URL, 721 liniek
+Duplicitné URL po normalizácii: 389 URL, 805 liniek
+  z toho duplicity LEN po normalizácii (rôzny zápis, rovnaká adresa): 47
+  duplicity v TOM ISTOM priečinku (istá chyba): 4 URL
+  duplicity v rovnakej sekcii (iný priečinok): 290 | len naprieč sekciami: 95
+
+TOP 30 duplicitných URL (po normalizácii):
+    5  facebook.com/SmouhaOfficial  | sekcie: {'Futbal': 1, 'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 2} | priečinky: 5 napr. ['Futbal › Kluby › Afrika › Egypt › Egyptian Premier League', 'Basketbal › Kluby › Afrika › Egypt › Super League']
+    4  facebook.com/itthadalexsc  | sekcie: {'Futbal': 1, 'Basketbal': 1, 'Volejbal': 2} | priečinky: 4 napr. ['Futbal › Kluby › Afrika › Egypt › Egyptian Premier League', 'Basketbal › Kluby › Afrika › Egypt › Super League']
+    4  facebook.com/CanalSCeg  | sekcie: {'Futbal': 1, 'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 4 napr. ['Futbal › Kluby › Afrika › Egypt › Egyptian Premier League', 'Basketbal › Kluby › Afrika › Egypt › Super League']
+    4  facebook.com/clubafricain.com.tn  | sekcie: {'Futbal': 1, 'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 4 napr. ['Futbal › Kluby › Afrika › Tunisko › Ligue Professionnelle 1', 'Basketbal › Kluby › Afrika › Tunisko › Pro A']
+    4  facebook.com/ZohourSC  | sekcie: {'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 2} | priečinky: 4 napr. ['Basketbal › Kluby › Afrika › Egypt › Super League', 'Hádzaná › Kluby › Afrika › Egypt › Egyptská liga']
+    4  facebook.com/HeliopolisSC  | sekcie: {'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 2} | priečinky: 4 napr. ['Basketbal › Kluby › Afrika › Egypt › Super League', 'Hádzaná › Kluby › Afrika › Egypt › Egyptská liga']
+    4  handballsca.com/es/campeonatos-handball-sca  | sekcie: {'Hádzaná': 4} | priečinky: 1 napr. ['Hádzaná › Súťaže › Južná a Stredná Amerika (SCAHC)']
+    3  facebook.com/clube1deagosto  | sekcie: {'Futbal': 1, 'Basketbal': 1, 'Hádzaná': 1} | priečinky: 3 napr. ['Futbal › Kluby › Afrika › Angola › Girabola', 'Basketbal › Kluby › Afrika › Angola › Unitel Basket']
+    3  facebook.com/asmarsaofficiel  | sekcie: {'Futbal': 1, 'Volejbal': 2} | priečinky: 3 napr. ['Futbal › Kluby › Afrika › Tunisko › Ligue Professionnelle 1', 'Volejbal › Kluby › Afrika (CAVB) › Tunisko › Tuniská liga mužov']
+    3  instagram.com/kuwaitclub  | sekcie: {'Futbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 3 napr. ['Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League', 'Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga']
+    3  facebook.com/alarabisckw  | sekcie: {'Futbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 3 napr. ['Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League', 'Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga']
+    3  facebook.com/KAZMASPORTCLUB  | sekcie: {'Futbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 3 napr. ['Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League', 'Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga']
+    3  instagram.com/clubalnasr  | sekcie: {'Futbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 3 napr. ['Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League', 'Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga']
+    3  facebook.com/ksskenderbeu.al  | sekcie: {'Basketbal': 1, 'Volejbal': 2} | priečinky: 3 napr. ['Basketbal › Kluby › Európa › Albánsko', 'Volejbal › Kluby › Európa (CEV) › Albánsko › Superliga mužov']
+    3  fiba.basketball/en/events/fiba-basketball-world-cup-2027-americas-qualifiers  | sekcie: {'Basketbal': 3} | priečinky: 3 napr. ['Basketbal › Súťaže › Globálne', 'Basketbal › Súťaže › Severná a Stredná Amerika']
+    3  facebook.com/ecpinheiros  | sekcie: {'Basketbal': 1, 'Hádzaná': 2} | priečinky: 3 napr. ['Basketbal › Kluby › Južná Amerika › Brazília › NBB', 'Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC) › Brazília › Liga Nacional']
+    3  facebook.com/alkhorclub  | sekcie: {'Basketbal': 1, 'Hádzaná': 1, 'Volejbal': 1} | priečinky: 3 napr. ['Basketbal › Kluby › Ázia › Katar › QBL', 'Hádzaná › Kluby › Ázia › Katar › Katarská liga']
+    3  facebook.com/arabcont.club  | sekcie: {'Hádzaná': 1, 'Volejbal': 2} | priečinky: 3 napr. ['Hádzaná › Kluby › Afrika › Egypt › Egyptská liga', 'Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga mužov']
+    3  facebook.com/suragazzi  | sekcie: {'Volejbal': 3} | priečinky: 2 napr. ['Volejbal › Kluby › Európa (CEV) › Škótsko › SVL Premier mužov', 'Volejbal › Kluby › Európa (CEV) › Škótsko › SVL Premier žien']
+    2  bnpparibasopen.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › Masters 1000', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  miamiopen.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › Masters 1000', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  internazionalibnlditalia.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › Masters 1000', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  nationalbankopen.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › Masters 1000', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  cincinnatiopen.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › Masters 1000', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  dubaidutyfreetennischampionships.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 500', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  lta.org.uk/fan-zone/international/hsbc-championships  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 500', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 500']
+    2  mubadaladcopen.com  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 500', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 500']
+    2  chinaopen.com/en  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 500', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 1000']
+    2  tennis.com.au/brisbane-international  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 250', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 500']
+    2  tennis.com.au/adelaide-international  | sekcie: {'Tenis': 2} | priečinky: 2 napr. ['Tenis › Turnaje a Súťaže › ATP Tour › ATP 250', 'Tenis › Turnaje a Súťaže › WTA Tour › WTA 500']
+
+TOP 30 hostov podľa počtu liniek (host, liniek, priečinkov, sekcií):
+   ['facebook.com', 3029, 567, 6, 'Futbal:1532/Volejbal:681/Basketbal:428/Hádzaná:281/Tenis:66/Hokej:41']
+   ['instagram.com', 1035, 319, 6, 'Futbal:407/Volejbal:323/Basketbal:140/Hádzaná:76/Tenis:66/Hokej:23']
+   ['soccerway.com', 259, 188, 1, 'Futbal:259']
+   ['flashscore.com', 169, 168, 6, 'Volejbal:68/Basketbal:52/Hádzaná:32/Hokej:15/Správy & Médiá:1/Futbal:1']
+   ['sofascore.com', 160, 57, 4, 'Futbal:146/Hádzaná:12/Tenis:1/Basketbal:1']
+   ['ihf.info', 83, 11, 1, 'Hádzaná:83']
+   ['fiba.basketball', 79, 8, 1, 'Basketbal:79']
+   ['volleybox.net', 78, 32, 1, 'Volejbal:78']
+   ['chl.ca', 67, 4, 1, 'Hokej:67']
+   ['iihf.com', 51, 8, 1, 'Hokej:51']
+   ['m.weibo.cn', 51, 6, 3, 'Basketbal:25/Futbal:21/Volejbal:5']
+   ['globalsportsarchive.com', 50, 17, 2, 'Futbal:48/Basketbal:2']
+   ['women.volleybox.net', 45, 18, 1, 'Volejbal:45']
+   ['basketball.asia-basket.com', 44, 12, 1, 'Basketbal:44']
+   ['basketball.afrobasket.com', 38, 9, 1, 'Basketbal:38']
+   ['nhl.com', 36, 3, 1, 'Hokej:36']
+   ['nba.com', 33, 3, 1, 'Basketbal:33']
+   ['asianhandball.org', 28, 3, 1, 'Hádzaná:28']
+   ['eurohandball.com', 23, 3, 1, 'Hádzaná:23']
+   ['fis-ski.com', 22, 5, 1, 'Zimné športy:22']
+   ['norceca.net', 21, 2, 1, 'Volejbal:21']
+   ['afrobasket.com', 20, 10, 1, 'Basketbal:20']
+   ['basketball.eurobasket.com', 18, 7, 1, 'Basketbal:18']
+   ['cahbonline.info', 18, 2, 1, 'Hádzaná:18']
+   ['uefa.com', 17, 3, 2, 'Futbal:16/Ostatné športy:1']
+   ['the-afc.com', 17, 5, 2, 'Futbal:16/Ostatné športy:1']
+   ['cev.eu', 16, 2, 1, 'Volejbal:16']
+   ['en.volleyballworld.com', 16, 2, 1, 'Volejbal:16']
+   ['world.tennis', 15, 4, 1, 'Tenis:15']
+   ['thepwhl.com', 14, 2, 1, 'Hokej:14']
+hostov s linkami vo viacerých priečinkoch: 672 z 8069 hostov
+
+Tretie strany (host → sekcie):
+  facebook.com            3029  {'Futbal': 1532, 'Volejbal': 681, 'Basketbal': 428, 'Hádzaná': 281, 'Tenis': 66, 'Hokej': 41}
+  instagram.com           1035  {'Futbal': 407, 'Volejbal': 323, 'Basketbal': 140, 'Hádzaná': 76, 'Tenis': 66, 'Hokej': 23}
+  soccerway.com            259  {'Futbal': 259}
+  flashscore               177  {'Volejbal': 69, 'Basketbal': 53, 'Hádzaná': 34, 'Hokej': 16, 'Futbal': 3, 'Správy & Médiá': 1, 'Tenis': 1}
+  sofascore.com            160  {'Futbal': 146, 'Hádzaná': 12, 'Tenis': 1, 'Basketbal': 1}
+  volleybox.net            123  {'Volejbal': 123}
+  globalsportsarchive       50  {'Futbal': 48, 'Basketbal': 2}
+  x.com                     22  {'Futbal': 6, 'Basketbal': 5, 'Správy & Médiá': 4, 'Volejbal': 3, 'Hokej': 2, 'Ostatné športy': 1, 'Tenis': 1}
+  eurobasket.com            20  {'Basketbal': 20}
+  uefa.com                  17  {'Futbal': 16, 'Ostatné športy': 1}
+  fifa.com                  15  {'Futbal': 14, 'Ostatné športy': 1}
+  eliteprospects.com        11  {'Hokej': 11}
+  footystats                10  {'Futbal': 10}
+  espn.com                   7  {'Ostatné športy': 4, 'Správy & Médiá': 3}
+  cbf.com.br                 5  {'Futbal': 4, 'Ostatné športy': 1}
+  goal.com                   4  {'Správy & Médiá': 4}
+  transfermarkt              4  {'Futbal': 3, 'Správy & Médiá': 1}
+  youtube.com                3  {'Ostatné športy': 2, 'Zimné športy': 1}
+  zerozero                   2  {'Ostatné športy': 1, 'Správy & Médiá': 1}
+  livesport                  2  {'Správy & Médiá': 1, 'Tenis': 1}
+  fortuna                    2  {'Futbal': 2}
+  wikipedia.org              2  {'Futbal': 1, 'Hádzaná': 1}
+  google.com                 2  {'Hádzaná': 1, 'Tenis': 1}
+  hockeydb.com               1  {'Hokej': 1}
+  lequipe.fr                 1  {'Správy & Médiá': 1}
+  besoccer.com               1  {'Futbal': 1}
+  worldfootball.net          1  {'Futbal': 1}
+  olympics.com               1  {'Správy & Médiá': 1}
+  ogol.com.br                1  {'Správy & Médiá': 1}
+  basketball-reference       1  {'Basketbal': 1}
+  realgm.com                 1  {'Basketbal': 1}
+  proballers.com             1  {'Basketbal': 1}
+  livescore                  1  {'Hádzaná': 1}
+  handball-planet            1  {'Hádzaná': 1}
+  tipsport                   1  {'Tipovanie': 1}
+  tretie strany pri bežných linkách (nie linka ligy): {'eliteprospects.com': 7, 'youtube.com': 3, 'transfermarkt': 4, 'flashscore': 14, 'livesport': 2, 'soccerway.com': 77, 'sofascore.com': 135, 'besoccer': 1, 'eurobasket.com': 18, 'google.': 2, 'volleybox.net': 87}
+
+Tipovanie — hosty: [('tipsport.sk', 1)]
+
+Linky s TLD inej krajiny než priečinok (hrubý test, len info): 6
+  top: [(('Írsko', 'uk'), 1), (('Austrália', 'sk'), 1), (('Dánsko', 'is'), 1), (('Francúzsko', 'dk'), 1), (('Litva', 'lv'), 1), (('Poľsko', 'ua'), 1)]

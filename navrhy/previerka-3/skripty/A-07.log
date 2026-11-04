@@ -1,0 +1,186 @@
+{
+ "merania": [
+  {
+   "label": "start (domov, celé dáta)",
+   "dom": 471,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 54,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 7
+  },
+  {
+   "label": "po 50 navigáciách",
+   "dom": 648,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 132,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 315
+  },
+  {
+   "label": "po 100 navigáciách",
+   "dom": 543,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 66,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 712
+  },
+  {
+   "label": "po 150 navigáciách",
+   "dom": 552,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 90,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 1139
+  },
+  {
+   "label": "po 200 navigáciách",
+   "dom": 399,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 14,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 1378
+  },
+  {
+   "label": "po 100 navigáciách v stĺpcoch",
+   "dom": 804,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 73,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 2612
+  },
+  {
+   "label": "po 50 hľadaniach",
+   "dom": 543,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 66,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 3045
+  },
+  {
+   "label": "po 100× Späť",
+   "dom": 424,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 24,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 3131
+  },
+  {
+   "label": "koniec",
+   "dom": 814,
+   "heapMB": 10.7,
+   "listenersDocument": 2,
+   "listenersWindow": 19,
+   "listenersMainSubtree": 169,
+   "intervals": [
+    "30000ms:function renderBannerSlot(){\n  if(!DB.banners) DB.banners = "
+   ],
+   "addEventListenerCalls": 36,
+   "dataJsonFetches": 1,
+   "aktFetches": 1,
+   "requests": 3149
+  }
+ ],
+ "cas200": 7110,
+ "rychleKlikanie": {
+  "url": "/basketbal/kluby/europa/rusko/",
+  "curId": "f_bas_klu_eu_rus",
+  "urlSedi": true,
+  "bc": "Rusko",
+  "hist": 32
+ },
+ "rychleSpat": {
+  "url": "/futbal/kluby/afrika/libya/libyan-premier-league/",
+  "curId": "f_lby_l1",
+  "urlSedi": true
+ },
+ "rozdielDOM": 343,
+ "rozdielHalda": 0,
+ "errors": [],
+ "ext": 6,
+ "consoleIne": [],
+ "mobilCpu4": {
+  "najvacsiPriecinok": {
+   "id": "f_hok_klu_na_ncdc",
+   "n": 64
+  },
+  "navigacie": [
+   {
+    "id": "f_hok_klu_na_ncdc",
+    "ms": 205
+   },
+   {
+    "id": "f_fut_klu_eu",
+    "ms": 123
+   },
+   {
+    "id": "f_fut",
+    "ms": 96
+   },
+   {
+    "id": null,
+    "ms": 97
+   },
+   {
+    "id": "f_hok_klu_na_ncdc",
+    "ms": 140
+   }
+  ],
+  "hladanieA_ms": 884
+ }
+}

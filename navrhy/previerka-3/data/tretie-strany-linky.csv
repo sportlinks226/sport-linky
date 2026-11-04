@@ -1,0 +1,765 @@
+domena,id,cesta,url,stitok
+eliteprospects.com,f_hok_sta_k5,Hokej › Správy a Štatistiky › Elite Prospects,https://www.eliteprospects.com/,
+youtube.com,n1780771424669efo,Zimné športy › Bob › IBSF TV,https://www.youtube.com/ibsfsliding,
+youtube.com,n1780837399274ext,Ostatné športy › Badminton › BWF TV,https://www.youtube.com/c/bwftv,
+youtube.com,n1780950665247oap,Ostatné športy › Plávanie › World aquatics TV,https://www.youtube.com/@WorldAquatics,
+transfermarkt,n1782133074252nue,Správy & Médiá › Globálne › Transfermarkt,https://www.transfermarkt.com/,
+flashscore,n1782133100556j2z,Správy & Médiá › Globálne › Flashscore,https://www.flashscore.com/,
+livesport,n1782134064738wi8,Správy & Médiá › Európa › Česko › Livesport.cz,https://www.livesport.cz/zpravy/,
+soccerway.com,n178409753689430j,Futbal › Asociácie › Severná a Stredná Amerika › Barbados,https://www.soccerway.com/barbados/,
+transfermarkt,n1784201729892eop,Futbal › Štatistiky › Transfermarkt,https://www.transfermarkt.com/,
+flashscore,n1784201787990gyi,Futbal › Štatistiky › Flashscore,https://www.flashscore.sk/,
+sofascore.com,n1784201860550hn3,Futbal › Štatistiky › Sofascore,https://www.sofascore.com/sk,
+soccerway.com,n1784201985193i3z,Futbal › Štatistiky › Soccerway,https://www.soccerway.com/,
+besoccer,n1784202231104y80,Futbal › Štatistiky › Besoccer,https://www.besoccer.com/,
+transfermarkt,f_isr_l2_k7,Futbal › Kluby › Európa › Izrael › Leumit League › Hapoel Afula,https://www.transfermarkt.com/hapoel-afula/startseite/verein/35110,
+sofascore.com,f_bgd_l1_k9,Futbal › Kluby › Ázia › Bangladéš › Bangladesh Football League (BFL) › Arambagh KS,https://www.sofascore.com/football/team/arambagh-ks/273720,
+sofascore.com,f_chn_l2_k1,Futbal › Kluby › Ázia › Čína › League One › Guangdong GZ-Power,https://www.sofascore.com/team/football/guangzhou-e-power-fc/510606,
+sofascore.com,f_chn_l2_k2,Futbal › Kluby › Ázia › Čína › League One › Shenzhen Juniors,https://www.sofascore.com/team/football/shenzhen-juniors-fc/510603,
+sofascore.com,f_chn_l2_k4,Futbal › Kluby › Ázia › Čína › League One › Guangxi Hengchen,https://www.sofascore.com/team/football/guangxi-hengchen-fc/510605,
+sofascore.com,f_chn_l2_k5,Futbal › Kluby › Ázia › Čína › League One › Yanbian Longding,https://www.sofascore.com/team/football/yanbian-longding/382025,
+sofascore.com,f_chn_l2_k15,Futbal › Kluby › Ázia › Čína › League One › Foshan Nanshi,https://www.sofascore.com/team/football/foshan-nanshi/508366,
+sofascore.com,f_phl_l1_k11,Futbal › Kluby › Ázia › Filipíny › PFL › Philippine Army,https://www.sofascore.com/team/football/philippine-army/142200,
+soccerway.com,f_bfa_l1_k7,Futbal › Kluby › Afrika › Burkina Faso › Premier League › Sporting Football des Cascades de Tenakourou,https://www.soccerway.com/team/sporting-cascades/vohISguL/,
+soccerway.com,f_ben_l1_k10,Futbal › Kluby › Afrika › Benin › Ligue 1 (Championnat National) › Hodio FC de Comè,https://www.soccerway.com/team/hodio/lOXJ91kC/,
+soccerway.com,f_bdi_l1_k4,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Vision FC,https://www.soccerway.com/team/royal-vision/6NO5yf9m/,
+soccerway.com,f_bdi_l1_k11,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Le Messager FC de Ngozi,https://www.soccerway.com/team/le-messager-ngozi/I38oQfPB/,
+soccerway.com,f_bdi_l1_k12,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Ngozi City FC,https://www.soccerway.com/team/ngozi-city/0l9PsUqL/,
+soccerway.com,f_bdi_l1_k13,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › AS Inter Star,https://www.soccerway.com/team/inter-star/MNOXupIc/,
+soccerway.com,f_eth_l1_k3,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Mechal SC,https://www.soccerway.com/team/mechal-sc/fF7FZEzp/,
+soccerway.com,f_eth_l1_k7,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Wolaita Dicha SC,https://www.soccerway.com/team/welayta-dicha/6PbLEfbd/,
+soccerway.com,f_eth_l1_k9,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Hawassa Ketema FC,https://www.soccerway.com/team/hawassa/YeJ5rtW6/,
+soccerway.com,f_eth_l1_k16,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Wolwalo Adigrat University FC,https://www.soccerway.com/team/welwalo-adigrat/EPlozI1G/,
+soccerway.com,f_gab_l1_k2,Futbal › Kluby › Afrika › Gabon › National Foot 1 › ASS Mandji,https://www.soccerway.com/team/stade-mandji/OrVO9YJC/,
+soccerway.com,f_gab_l1_k9,Futbal › Kluby › Afrika › Gabon › National Foot 1 › Stade Migovéen,https://www.soccerway.com/team/stade-migoveen/x2vWxpKh/,
+soccerway.com,f_gab_l1_k11,Futbal › Kluby › Afrika › Gabon › National Foot 1 › Lozo Sport,https://www.soccerway.com/team/lozo-sport/pOsFYKgh/,
+sofascore.com,f_egy_l2_k13,Futbal › Kluby › Afrika › Egypt › Egyptian Second Division A › El Dakhleya,https://www.sofascore.com/football/team/el-dakhlya/58317,
+soccerway.com,f_gmb_l1_k3,Futbal › Kluby › Afrika › Gambia › GFA League › Gambia Ports Authority FC,https://www.soccerway.com/team/gambia-ports/vRPwpQWC/,
+soccerway.com,f_cod_l1_k5,Futbal › Kluby › Afrika › Kongo (DR) › Ligue 1 (Linafoot) › Blessing FC,https://www.soccerway.com/team/blessing/Sv4ZfUyS/,
+soccerway.com,f_lso_l1_k6,Futbal › Kluby › Afrika › Lesotho › Premier League › Lesotho Defence Force FC,https://www.soccerway.com/team/defence-force/rBhRegyN/,
+soccerway.com,f_lso_l1_k9,Futbal › Kluby › Afrika › Lesotho › Premier League › Lesotho Correctional Services FC,https://www.soccerway.com/team/lcs/ENpbhQgE/,
+soccerway.com,f_lso_l1_k14,Futbal › Kluby › Afrika › Lesotho › Premier League › Members FC,https://www.soccerway.com/team/members/2mm03ISi/,
+soccerway.com,f_cmr_l2_k1,Futbal › Kluby › Afrika › Kamerun › Elite One › APEJES FC de Mfou,https://www.soccerway.com/team/apejes-academy/zqydjywf/,
+soccerway.com,f_cmr_l2_k3,Futbal › Kluby › Afrika › Kamerun › Elite Two › Les Astres FC de Douala,https://www.soccerway.com/team/les-astres/p69GrIhO/,
+soccerway.com,f_cmr_l2_k7,Futbal › Kluby › Afrika › Kamerun › Elite Two › AS FAP,https://www.soccerway.com/team/as-fap/QwivRKnI/,
+soccerway.com,f_cmr_l2_k11,Futbal › Kluby › Afrika › Kamerun › Elite Two › Avion Academy FC,https://www.soccerway.com/team/avion-academy/vHNaNZGe/,
+soccerway.com,f_cmr_l2_k12,Futbal › Kluby › Afrika › Kamerun › Elite Two › Bamboutos FC de Mbouda,https://www.soccerway.com/team/bamboutos-fc/ERjLSiWD/,
+sofascore.com,f_cpv_l1_k11,Futbal › Kluby › Afrika › Kapverdy › Campeonato Nacional › SC Atlético,https://www.sofascore.com/team/football/atletico-ribeira-brava/1223987,
+soccerway.com,f_lby_l1_k4,Futbal › Kluby › Afrika › Líbya › Libyan Premier League › Al-Watan,https://www.soccerway.com/team/al-watan/2BDwY7xI/,
+sofascore.com,f_mli_l1_k11,Futbal › Kluby › Afrika › Mali › Ligue 1 › Afrique Football Elite,https://www.sofascore.com/team/football/afrique-football-elite/421506,
+sofascore.com,f_mar_l1_k14,Futbal › Kluby › Afrika › Maroko › Botola Pro 2 › Olympique Dcheira,https://www.sofascore.com/team/football/olympique-dcheira/204299,
+sofascore.com,f_mar_l2_k4,Futbal › Kluby › Afrika › Maroko › Botola Pro 2 › Jeunesse Massira,https://www.sofascore.com/team/football/js-massira/55029,
+sofascore.com,f_mar_l2_k14,Futbal › Kluby › Afrika › Maroko › Botola Pro 2 › US Boujaad,https://www.sofascore.com/team/football/union-sportive-boujaad/525454,
+sofascore.com,f_mus_l1_k5,Futbal › Kluby › Afrika › Maurícius › National Super League › AS Riviere du Rempart,https://www.sofascore.com/team/football/as-riviere-du-rempart/374258,
+sofascore.com,f_mus_l1_k7,Futbal › Kluby › Afrika › Maurícius › National Super League › Petite Riviere Noire FC,https://www.sofascore.com/team/football/petite-riviere-noire-fc/372910,
+sofascore.com,f_mus_l1_k8,Futbal › Kluby › Afrika › Maurícius › National Super League › AS Vacoas-Phoenix,https://www.sofascore.com/team/football/as-vacoas-phoenix/372912,
+sofascore.com,f_mus_l1_k10,Futbal › Kluby › Afrika › Maurícius › National Super League › Pointe-aux-Sables Mates,https://www.sofascore.com/team/football/pointe-aux-sables-mates/374262,
+sofascore.com,f_mrt_l1_k3,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › AS Douanes,https://www.sofascore.com/team/football/as-douanes/339159,
+sofascore.com,f_mrt_l1_k4,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › AS Pompiers,https://www.sofascore.com/team/football/as-pompier/462642,
+sofascore.com,f_mrt_l1_k6,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › ASC Gendrim,https://www.sofascore.com/team/football/asc-gendrim/408952,
+sofascore.com,f_mrt_l1_k8,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › Nouakchott King's,https://www.sofascore.com/team/football/nouakchott-kings/305253,
+soccerway.com,f_mrt_l1_k11,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › ASC Police,https://www.soccerway.com/team/police/W6CyVjbQ/,
+sofascore.com,f_ner_l1_k12,Futbal › Kluby › Afrika › Niger › Super Ligue › Urana FC,https://www.sofascore.com/team/football/urana-fc/404618,
+sofascore.com,f_ner_l1_k13,Futbal › Kluby › Afrika › Niger › Super Ligue › AS UAM,https://www.sofascore.com/team/football/as-uam/939574,
+sofascore.com,f_ner_l1_k14,Futbal › Kluby › Afrika › Niger › Super Ligue › Liberté FC,https://www.sofascore.com/team/football/liberte-fc/1109319,
+soccerway.com,f_rwa_l1_k8,Futbal › Kluby › Afrika › Rwanda › Rwanda Premier League › Gorilla,https://www.soccerway.com/team/gorilla/Kn4iXZwh/,
+soccerway.com,f_sen_l1_k5,Futbal › Kluby › Afrika › Senegal › Ligue 1 › Wally Daan FC,https://www.soccerway.com/team/wally-daan/OIXxULk5/,
+soccerway.com,f_syc_l1_k4,Futbal › Kluby › Afrika › Seychely › Premier League › Bel Air FC,https://www.soccerway.com/team/bel-air/KxTOlfF9/,
+soccerway.com,f_syc_l1_k6,Futbal › Kluby › Afrika › Seychely › Premier League › Real Maldive FC,https://www.soccerway.com/team/real-maldives/zLwAvKwG/,
+soccerway.com,f_syc_l1_k7,Futbal › Kluby › Afrika › Seychely › Premier League › Saint Louis Suns United,https://www.soccerway.com/team/saint-louis/OjFGAutG/,
+soccerway.com,f_syc_l1_k8,Futbal › Kluby › Afrika › Seychely › Premier League › Lightstars FC,https://www.soccerway.com/team/lightstars/z1fAInfF/,
+soccerway.com,f_syc_l1_k9,Futbal › Kluby › Afrika › Seychely › Premier League › St Michel United,https://www.soccerway.com/team/st-michel-united/vBqEk5c4/,
+soccerway.com,f_syc_l1_k10,Futbal › Kluby › Afrika › Seychely › Premier League › Revengers FC,https://www.soccerway.com/team/revengers/rRcIGQOR/,
+soccerway.com,f_sle_l1_k6,Futbal › Kluby › Afrika › Sierra Leone › Premier League › Ports Authority FC,https://www.soccerway.com/team/ports-authority/COk4QLWS/,
+sofascore.com,f_som_l1_k9,Futbal › Kluby › Afrika › Somálsko › Somali National League › Jeenyo FC,https://www.sofascore.com/team/football/jeenyo/517783,
+sofascore.com,f_som_l1_k10,Futbal › Kluby › Afrika › Somálsko › Somali National League › Raadsan SC,https://www.sofascore.com/team/football/raadsan/517782,
+sofascore.com,f_som_l1_k12,Futbal › Kluby › Afrika › Somálsko › Somali National League › FC Gantaalaha,https://www.sofascore.com/team/football/gantaalaha/1161750,
+soccerway.com,f_sdn_l1_k8,Futbal › Kluby › Afrika › Sudán › Premier League — Elitná skupina › Al Falah SSCC Atbarah,https://www.soccerway.com/team/alfalah-atbra/d2wg5jc6/,
+soccerway.com,f_tgo_l1_k6,Futbal › Kluby › Afrika › Togo › Championnat National › AS Tambo,https://www.soccerway.com/team/tambo/0SIYzOi4/,
+soccerway.com,f_tgo_l1_k9,Futbal › Kluby › Afrika › Togo › Championnat National › Dynamic Togolais,https://www.soccerway.com/team/dynamic-togolais/j5H4W5qD/,
+soccerway.com,f_zwe_l1_k17,Futbal › Kluby › Afrika › Zimbabwe › Premier Soccer League › Triangle United,https://www.soccerway.com/team/triangle/fcepU27C/,
+sofascore.com,f_mdg_l1_k6,Futbal › Kluby › Afrika › Madagaskar › Pureplay Football League › Tsaramandroso,https://www.sofascore.com/team/football/tsaramandroso-formation-fc/467610,
+sofascore.com,f_mdg_l1_k10,Futbal › Kluby › Afrika › Madagaskar › Pureplay Football League › Avenir Sainte Anne,https://www.sofascore.com/team/football/as-sainte-anne/520033,
+soccerway.com,f_cog_l1_k1,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Otôho d’Oyo,https://www.soccerway.com/team/otoho-d-oyo/0GuF1aSS/,
+soccerway.com,f_cog_l1_k2,Futbal › Kluby › Afrika › Kongo › Ligue 1 › AC Léopards,https://www.soccerway.com/team/leopard/rulf0ilK/,
+soccerway.com,f_cog_l1_k3,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Étoile du Congo,https://www.soccerway.com/team/etoile-du-congo/dISk7gAI/,
+soccerway.com,f_cog_l1_k4,Futbal › Kluby › Afrika › Kongo › Ligue 1 › JS Talangaï,https://www.soccerway.com/team/js-talangai/WIBosHcG/,
+soccerway.com,f_cog_l1_k6,Futbal › Kluby › Afrika › Kongo › Ligue 1 › FC Kondzo,https://www.soccerway.com/team/kondzo/Clv0pB2S/,
+soccerway.com,f_cog_l1_k7,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Inter Club,https://www.soccerway.com/team/inter-club/6quhZ3m0/,
+soccerway.com,f_cog_l1_k8,Futbal › Kluby › Afrika › Kongo › Ligue 1 › AS Cheminots,https://www.soccerway.com/team/cheminots/h0s4W1XI/,
+soccerway.com,f_cog_l1_k11,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Bana Nouvelle Génération,https://www.soccerway.com/team/as-bng/SIjXTvub/,
+soccerway.com,f_cog_l1_k12,Futbal › Kluby › Afrika › Kongo › Ligue 1 › JUK,https://www.soccerway.com/team/juk/8ObpuJwQ/,
+soccerway.com,f_cog_l1_k13,Futbal › Kluby › Afrika › Kongo › Ligue 1 › AS Vegas,https://www.soccerway.com/team/vegas/ddgpwm3B/,
+soccerway.com,f_cog_l1_k14,Futbal › Kluby › Afrika › Kongo › Ligue 1 › KFA,https://www.soccerway.com/team/kfa/nywMdPU9/,
+soccerway.com,f_cog_l1_k15,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Red Star,https://www.soccerway.com/team/red-stars/fiV7iYTa/,
+soccerway.com,f_swz_l1_k4,Futbal › Kluby › Afrika › Eswatini › Premier League of Eswatini › Rangers,https://www.soccerway.com/team/rangers-fc/nBBe0zLI/,
+soccerway.com,f_swz_l1_k13,Futbal › Kluby › Afrika › Eswatini › Premier League of Eswatini › Amawele,https://www.soccerway.com/team/amawele/lrhUun9c/,
+sofascore.com,f_dji_l1_k1,Futbal › Kluby › Afrika › Džibutsko › Première Division › AS Port,https://www.sofascore.com/team/football/as-port/408552,
+sofascore.com,f_dji_l1_k3,Futbal › Kluby › Afrika › Džibutsko › Première Division › Garde-Côtes Djiboutiennes,https://www.sofascore.com/team/football/garde-cotes-fc/502463,
+sofascore.com,f_dji_l1_k5,Futbal › Kluby › Afrika › Džibutsko › Première Division › CF Gendarmerie Nationale,https://www.sofascore.com/team/football/gendarmerie-nationale/409742,
+sofascore.com,f_dji_l1_k8,Futbal › Kluby › Afrika › Džibutsko › Première Division › AS Arta/Solar7,https://www.sofascore.com/team/football/artasolar7/305237,
+sofascore.com,f_dji_l1_k9,Futbal › Kluby › Afrika › Džibutsko › Première Division › FC Obock,https://www.sofascore.com/team/football/as-obock/1156577,
+sofascore.com,f_gnq_l2_k2,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › Cano Sport Academy,https://www.sofascore.com/team/football/cano-sport-academy/325642,
+sofascore.com,f_gnq_l2_k3,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › Diablo Rojo de Niefang FC,https://www.sofascore.com/team/football/diablo-rojo/1164150,
+sofascore.com,f_gnq_l2_k4,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › CD Unidad,https://www.sofascore.com/team/football/deportivo-unidad/1164152,
+sofascore.com,f_gnq_l2_k9,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › UD Santa María,https://www.sofascore.com/team/football/ud-santa-maria/1164154,
+sofascore.com,f_gnq_l2_k10,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › CD Sony de Elá Nguema,https://www.sofascore.com/team/football/sony-ela-nguema/1164165,
+sofascore.com,f_stp_l1_k5,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › UD Rei Amador,https://www.sofascore.com/team/football/ud-rei-amador/399711,
+sofascore.com,f_stp_l1_k6,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › FC Inter Bom-Bom,https://www.sofascore.com/team/football/inter-bom-bom/470286,
+sofascore.com,f_stp_l1_k7,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › AC Monte Café,https://www.sofascore.com/team/football/agro-sport-monte-cafe/399713,
+sofascore.com,f_stp_l1_k8,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › SC Praia Cruz,https://www.sofascore.com/team/football/sporting-clube-da-praia-cruz/399720,
+sofascore.com,f_stp_l1_k9,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › AD Kê Morabeza,https://www.sofascore.com/team/football/ad-ke-morabeza/1214187,
+sofascore.com,f_stp_l1_k10,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › Trindade FC,https://www.sofascore.com/team/football/trindade-fc/399712,
+sofascore.com,f_stp_l1_k11,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › UDSC Água-Izé,https://www.sofascore.com/team/football/udescai/1074784,
+sofascore.com,f_stp_l1_k12,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › FC Aliança Nacional,https://www.sofascore.com/team/football/alianca-nacional-de-pantufo-fc/399717,
+sofascore.com,f_stp_l2_k1,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › Desportivo Primeiro de Maio,https://www.sofascore.com/team/football/cd-1o-de-maio/399725,
+sofascore.com,f_stp_l2_k2,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › GD Os Operários,https://www.sofascore.com/team/football/sport-operario-e-benfica/399726,
+sofascore.com,f_stp_l2_k4,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › FC Porto Real,https://www.sofascore.com/team/football/fc-porto-real/399724,
+sofascore.com,f_stp_l2_k5,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › GD Sundy,https://www.sofascore.com/team/football/sundy-fc/399723,
+sofascore.com,f_stp_l2_k6,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › UD APPB,https://www.sofascore.com/team/football/udapb/399722,
+soccerway.com,f_atg_l1_k5,Futbal › Kluby › Severná a Stredná Amerika › Antigua a Barbuda › ABFA Premier League › Old Road,https://www.soccerway.com/team/old-road/42qJbj5G/,
+soccerway.com,f_aru_l1_k5,Futbal › Kluby › Severná a Stredná Amerika › Aruba › Division di Honor › SV Racing Club Aruba,https://www.soccerway.com/team/racing-club-aruba/nF3QzXxL/,
+soccerway.com,f_brb_l1_k4,Futbal › Kluby › Severná a Stredná Amerika › Barbados › Premier League › Ellerton S&SA,https://www.soccerway.com/team/ellerton-fc/O8NEqBL5/,
+soccerway.com,f_sur_l1_k7,Futbal › Kluby › Severná a Stredná Amerika › Surinam › Suriname Major League › SV Notch,https://www.soccerway.com/team/notch/SllUFwI7/,
+sofascore.com,f_asm_l1_k1,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Royal Puma,https://www.sofascore.com/team/football/royal-puma-fc/491994,
+sofascore.com,f_asm_l1_k3,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Ilaoa and To'omata SC,https://www.sofascore.com/team/football/ilaoa-and-toomata-sc/491992,
+sofascore.com,f_asm_l1_k5,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Utulei Youth,https://www.sofascore.com/team/football/utulei-youth/492001,
+sofascore.com,f_asm_l1_k6,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Vaiala Tongan,https://www.sofascore.com/team/football/vaiala-tongan/491999,
+sofascore.com,f_asm_l1_k7,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Lion Heart,https://www.sofascore.com/team/football/lion-heart/491998,
+sofascore.com,f_asm_l1_k8,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Black Roses,https://www.sofascore.com/team/football/black-roses/491995,
+sofascore.com,f_asm_l1_k9,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Green Bay,https://www.sofascore.com/team/football/green-bay-fagaalu/491997,
+sofascore.com,f_asm_l1_k11,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Tafuna Jets,https://www.sofascore.com/team/football/tafuna-jets/492000,
+sofascore.com,f_cok_l1_k6,Futbal › Kluby › Oceánia › Cookove ostrovy › Round Cup › Titikaveka,https://www.sofascore.com/team/football/titikaveka-fc/498524,
+soccerway.com,f_fij_l1_k3,Futbal › Kluby › Oceánia › Fidži › Premier League › Nasinu,https://www.soccerway.com/team/nasinu/80Xph5U8/,
+soccerway.com,f_fij_l1_k7,Futbal › Kluby › Oceánia › Fidži › Premier League › Nadroga,https://www.soccerway.com/team/nadroga/42B3s2zM/,
+sofascore.com,f_ncl_l1_k4,Futbal › Kluby › Oceánia › Nová Kaledónia › Super Ligue › Horizon Patho,https://www.sofascore.com/team/football/as-horizon-patho/1089909,
+sofascore.com,f_png_l1_k2,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › Lae City Dwellers,https://www.sofascore.com/football/team/lae-city-dwellers/483992,
+sofascore.com,f_png_l1_k5,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › PNG Hekari FC,https://www.sofascore.com/football/team/hekari-united-fc/45341,
+sofascore.com,f_png_l1_k7,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › FC Morobe Wawens,https://www.sofascore.com/football/team/fc-morobe-wawens/309619,
+sofascore.com,f_png_l1_k9,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › Wawa FC,https://www.sofascore.com/football/team/wawa-fc/1233199,
+sofascore.com,f_png_l1_k11,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › NCD FC,https://www.sofascore.com/football/team/ncd-fc/1233204,
+sofascore.com,f_wsm_l1_k1,Futbal › Kluby › Oceánia › Samoa › National League › Faatoia United,https://www.sofascore.com/football/team/faatoia-united/383127,
+sofascore.com,f_wsm_l1_k7,Futbal › Kluby › Oceánia › Samoa › National League › Sogi,https://www.sofascore.com/football/team/sogi-sc/382557,
+transfermarkt,f_wsm_l1_k11,Futbal › Kluby › Oceánia › Samoa › National League › Vaivase-Tai,https://www.transfermarkt.com/vaivase-tai/startseite/verein/15322,
+sofascore.com,f_slb_l1_k4,Futbal › Kluby › Oceánia › Šalamúnove ostrovy › S-League › Honiara City FC,https://www.sofascore.com/football/team/fc-honiara-city/371200,
+sofascore.com,f_slb_l1_k6,Futbal › Kluby › Oceánia › Šalamúnove ostrovy › S-League › Marist FC,https://www.sofascore.com/football/team/marist-fc/246594,
+sofascore.com,f_slb_l1_k7,Futbal › Kluby › Oceánia › Šalamúnove ostrovy › S-League › SOSA FC,https://www.sofascore.com/football/team/sosa-fc/470827,
+sofascore.com,f_slb_l1_k12,Futbal › Kluby › Oceánia › Šalamúnove ostrovy › S-League › Southern United FC,https://www.sofascore.com/football/team/fc-southern-united-honiara/371199,
+sofascore.com,f_tah_l1_k6,Futbal › Kluby › Oceánia › Tahiti › Ligue 1 › AS Pueu,https://www.sofascore.com/football/team/as-pueu/502296,
+sofascore.com,f_tah_l1_k7,Futbal › Kluby › Oceánia › Tahiti › Ligue 1 › AS Dragon,https://www.sofascore.com/football/team/as-dragon/502297,
+sofascore.com,f_tah_l1_k10,Futbal › Kluby › Oceánia › Tahiti › Ligue 1 › AS Jeunes Tahitiens,https://www.sofascore.com/football/team/as-les-jeunes-tahitiens/502295,
+sofascore.com,f_ton_l1_k3,Futbal › Kluby › Oceánia › Tonga › Major League › Folaha FC,https://www.sofascore.com/football/team/folaha-marist-kauvai/556523,
+sofascore.com,f_ton_l1_k4,Futbal › Kluby › Oceánia › Tonga › Major League › Lavengatonga FC,https://www.sofascore.com/football/team/lavengatonga-fc/556518,
+sofascore.com,f_ton_l1_k5,Futbal › Kluby › Oceánia › Tonga › Major League › Lotohaʻapai United,https://www.sofascore.com/football/team/lotohaapai-united-fc/556521,
+sofascore.com,f_ton_l1_k7,Futbal › Kluby › Oceánia › Tonga › Major League › Navutoka FC,https://www.sofascore.com/team/football/navutoka-fc/556525,
+sofascore.com,f_van_l1_k1,Futbal › Kluby › Oceánia › Vanuatu › Super League › ABM Galaxy FC,https://www.sofascore.com/football/team/abm-galaxy-fc/338553,
+sofascore.com,f_van_l1_k2,Futbal › Kluby › Oceánia › Vanuatu › Super League › iCount Yatel FC,https://www.sofascore.com/football/team/icount-yatel-fc/477953,
+sofascore.com,f_van_l1_k5,Futbal › Kluby › Oceánia › Vanuatu › Super League › Naka United FC,https://www.sofascore.com/football/team/naka-fc/501041,
+sofascore.com,f_van_l1_k6,Futbal › Kluby › Oceánia › Vanuatu › Super League › Mauriki FC,https://www.sofascore.com/football/team/mauriki-fc/397749,
+sofascore.com,f_kgz_l1_k15,Futbal › Kluby › Ázia › Kirgizsko › Kyrgyz Premier League › OshSU-Aldier,https://www.sofascore.com/team/football/oshmu-aldier/475664,
+soccerway.com,f_kwt_l1_k9,Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League › Al-Tadhamon,https://www.soccerway.com/team/al-tadamon/OOQFNqPB/,
+sofascore.com,f_lao_l1_k10,Futbal › Kluby › Ázia › Laos › Lao League › Army,https://www.sofascore.com/team/football/lao-army-fc/379272,
+soccerway.com,f_yem_l1_k9,Futbal › Kluby › Ázia › Jemen › Jemenská liga › Al-Ittihad Ibb,https://www.soccerway.com/team/al-ittihad/WUTJPHs0/,
+sofascore.com,f_brn_l1_k4,Futbal › Kluby › Ázia › Brunej › Brunei Super League › MS PPDB,https://www.sofascore.com/team/football/ms-ppdb/385121,
+sofascore.com,f_brn_l1_k7,Futbal › Kluby › Ázia › Brunej › Brunei Super League › Kuala Belait FC,https://www.sofascore.com/team/football/kuala-belait-fc/933957,
+sofascore.com,f_brn_l1_k8,Futbal › Kluby › Ázia › Brunej › Brunei Super League › Jerudong FC,https://www.sofascore.com/team/football/jerudong-fc/385127,
+sofascore.com,f_lka_l1_k4,Futbal › Kluby › Ázia › Srí Lanka › Sri Lanka Super League › Navy Sea Hawks,https://www.sofascore.com/team/football/navy-sea-hawks/1246519,
+sofascore.com,f_lka_l1_k7,Futbal › Kluby › Ázia › Srí Lanka › Sri Lanka Super League › Ratnam SC,https://www.sofascore.com/team/football/ratnam-sc/304859,
+sofascore.com,f_tls_l1_k10,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Assalam,https://www.sofascore.com/team/football/assalam-fc/398271,
+sofascore.com,f_tls_l1_k8,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Coração,https://www.sofascore.com/team/football/fc-atletico-ultramar/397630,
+soccerway.com,f_tjk_l1_k11,Futbal › Kluby › Ázia › Tadžikistan › Tajikistan Higher League › Sardor,https://www.soccerway.com/team/sardor-tursunzoda/I33pM1Qa/,
+sofascore.com,f_lka_l1_k5,Futbal › Kluby › Ázia › Srí Lanka › Sri Lanka Super League › Blue Eagles,https://www.sofascore.com/team/football/blue-eagles/1246517,
+sofascore.com,f_tls_l1_k7,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › DIT,https://www.sofascore.com/team/football/dili-institute-of-technology-fc/398269,
+soccerway.com,f_tjk_l1_k12,Futbal › Kluby › Ázia › Tadžikistan › Tajikistan Higher League › Istaravshan,https://www.soccerway.com/team/istaravshan/b7edWal7/,
+sofascore.com,f_tls_l1_k1,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Benfica Laulara,https://www.sofascore.com/team/football/sport-laulara-e-benfica/398270,
+sofascore.com,f_tls_l1_k9,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › AS Marca,https://www.sofascore.com/team/football/as-marca-fc-dili/397634,
+sofascore.com,f_tls_l1_k3,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Emmanuel,https://www.sofascore.com/team/football/emmanuel-fc-dili/397635,
+sofascore.com,f_tls_l1_k4,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Santa Cruz,https://www.sofascore.com/team/football/santa-cruz-fc-dili/397626,
+eurobasket.com,f_bas_klu_eu_arm_k1,Basketbal › Kluby › Európa › Arménsko › Artik BC,https://basketball.eurobasket.com/team/Artik-BC/14129,
+eurobasket.com,f_bas_klu_eu_arm_k2,Basketbal › Kluby › Európa › Arménsko › BC Olympavan,https://basketball.eurobasket.com/team/BC-Olympavan/73644,
+eurobasket.com,f_bas_klu_eu_arm_k3,Basketbal › Kluby › Európa › Arménsko › BKMA,https://basketball.eurobasket.com/team/BKMA-Yerevan/62497,
+eurobasket.com,f_bas_klu_eu_arm_k4,Basketbal › Kluby › Európa › Arménsko › Erebuni,https://basketball.eurobasket.com/team/Erebuni-Yerevan/49184,
+eurobasket.com,f_bas_klu_eu_arm_k6,Basketbal › Kluby › Európa › Arménsko › Phoenix,https://basketball.eurobasket.com/team/Phoenix/73709,
+eurobasket.com,f_bas_klu_eu_arm_k8,Basketbal › Kluby › Európa › Arménsko › US Titans,https://basketball.eurobasket.com/team/US-Titans-Yerevan/70055,
+eurobasket.com,f_bas_klu_eu_blr_k2,Basketbal › Kluby › Európa › Bielorusko › Grodno-93,https://basketball.eurobasket.com/team/Belarus/BK-Grodno-93/1311,
+eurobasket.com,f_bas_klu_eu_blr_k4,Basketbal › Kluby › Európa › Bielorusko › RGUOR Minsk,https://basketball.eurobasket.com/team/Belarus/RGUOR-Minsk/497,
+eurobasket.com,f_bas_klu_eu_mne_k3,Basketbal › Kluby › Európa › Čierna Hora › Dečić,https://basketball.eurobasket.com/team/decic/65981,
+eurobasket.com,f_bas_klu_eu_alb_k3,Basketbal › Kluby › Európa › Albánsko › Elbasani,https://basketball.eurobasket.com/team/Elbasani/5517,
+eurobasket.com,f_bas_klu_eu_alb_k5,Basketbal › Kluby › Európa › Albánsko › Flamurtari Vlorë,https://basketball.eurobasket.com/team/Flamurtari-Vlore/5510,
+eurobasket.com,f_bas_klu_eu_alb_k8,Basketbal › Kluby › Európa › Albánsko › Partizani Tiranë,https://basketball.eurobasket.com/team/Partizani-Tirana/1430,
+eurobasket.com,f_bas_klu_eu_alb_k11,Basketbal › Kluby › Európa › Albánsko › Tirana Neptun,https://basketball.eurobasket.com/team/Sport-Klub-Tirana-Neptun/2191,
+eurobasket.com,f_bas_klu_eu_mkd_k6,Basketbal › Kluby › Európa › Severné Macedónsko › Madzari Skopje,https://basketball.eurobasket.com/team/KK-Madzari-2003/67853,
+eurobasket.com,f_bas_srb_l3_k4,Basketbal › Kluby › Európa › Srbsko › 1. ŽLS (ženy) › Kraljevo,https://basketball.eurobasket.com/team/Serbia/ZKK-Kraljevo/10549,
+eurobasket.com,f_bas_srb_l3_k5,Basketbal › Kluby › Európa › Srbsko › 1. ŽLS (ženy) › Mega MIS,https://basketball.eurobasket.com/team/Serbia/ZKK-Mega-MIS-Beograd/49542,
+eurobasket.com,f_bas_aso_eu_k46,Basketbal › Asociácie › Európa › Veľká Británia,https://www.eurobasket.com/Great-Britain/basketball.aspx,
+eurobasket.com,f_bas_sta_k1,Basketbal › Správy a Štatistiky › Eurobasket.com,https://www.eurobasket.com/,
+soccerway.com,f_ang_ch_liga,Futbal › Kluby › Európa › Anglicko › Championship › Championship,https://www.soccerway.com/england/championship/standings/,LIGA
+soccerway.com,f_ang_l1_liga,Futbal › Kluby › Európa › Anglicko › League One › League One,https://www.soccerway.com/england/league-one/standings/,LIGA
+soccerway.com,f_ang_l2_liga,Futbal › Kluby › Európa › Anglicko › League Two › League Two,https://www.soccerway.com/england/league-two/standings/,LIGA
+soccerway.com,f_ang_nl_liga,Futbal › Kluby › Európa › Anglicko › National League › National League,https://www.soccerway.com/england/national-league/standings/,LIGA
+soccerway.com,f_ang_nln_liga,Futbal › Kluby › Európa › Anglicko › National League North › National League North,https://www.soccerway.com/england/national-league-north/standings/,LIGA
+soccerway.com,f_ang_nls_liga,Futbal › Kluby › Európa › Anglicko › National League South › National League South,https://www.soccerway.com/england/national-league-south/standings/,LIGA
+soccerway.com,f_esp_r1_liga,Futbal › Kluby › Európa › Španielsko › Primera RFEF – skupina 1 › Primera RFEF – skupina 1,https://www.soccerway.com/spain/primera-rfef-group-1/standings/,LIGA
+soccerway.com,f_esp_r2_liga,Futbal › Kluby › Európa › Španielsko › Primera RFEF – skupina 2 › Primera RFEF – skupina 2,https://www.soccerway.com/spain/primera-rfef-group-2/standings/,LIGA
+soccerway.com,f_ger_l3_liga,Futbal › Kluby › Európa › Nemecko › 3. Liga › 3. Liga,https://www.soccerway.com/germany/3-liga/standings/,LIGA
+soccerway.com,f_ger_rn_liga,Futbal › Kluby › Európa › Nemecko › Regionalliga Nord › Regionalliga Nord,https://www.soccerway.com/germany/regionalliga-north/standings/,LIGA
+soccerway.com,f_ger_rno_liga,Futbal › Kluby › Európa › Nemecko › Regionalliga Nordost › Regionalliga Nordost,https://www.soccerway.com/germany/regionalliga-nordost/standings/,LIGA
+soccerway.com,f_ger_rw_liga,Futbal › Kluby › Európa › Nemecko › Regionalliga West › Regionalliga West,https://www.soccerway.com/germany/regionalliga-west/standings/,LIGA
+soccerway.com,f_ger_rsw_liga,Futbal › Kluby › Európa › Nemecko › Regionalliga Südwest › Regionalliga Südwest,https://www.soccerway.com/germany/regionalliga-sudwest/standings/,LIGA
+soccerway.com,f_ger_rb_liga,Futbal › Kluby › Európa › Nemecko › Regionalliga Bayern › Regionalliga Bayern,https://www.soccerway.com/germany/regionalliga-bayern/standings/,LIGA
+soccerway.com,f_svk_l2_liga,Futbal › Kluby › Európa › Slovensko › 2. liga › 2. liga,https://www.soccerway.com/slovakia/2-liga/standings/,LIGA
+soccerway.com,f_alb_l1_liga,Futbal › Kluby › Európa › Albánsko › Abissnet Superiore › Abissnet Superiore,https://www.soccerway.com/albania/abissnet-superiore/standings/,LIGA
+soccerway.com,f_and_l1_liga,Futbal › Kluby › Európa › Andorra › Primera Divisió › Primera Divisió,https://www.soccerway.com/andorra/primera-divisio/standings/,LIGA
+soccerway.com,f_bel_l3vv_liga,Futbal › Kluby › Európa › Belgicko › Division 1 VV › Division 1 VV,https://www.soccerway.com/belgium/national-division-1-vv/standings/,LIGA
+soccerway.com,f_bel_l3acff_liga,Futbal › Kluby › Európa › Belgicko › Division 1 ACFF › Division 1 ACFF,https://www.soccerway.com/belgium/national-division-1-acff/standings/,LIGA
+soccerway.com,f_mne_l1_liga,Futbal › Kluby › Európa › Čierna Hora › Prva Crnogorska Liga › Prva Crnogorska Liga,https://www.soccerway.com/montenegro/prva-crnogorska-liga/standings/,LIGA
+soccerway.com,f_mne_l2_liga,Futbal › Kluby › Európa › Čierna Hora › Druga Crnogorska Liga › Druga Crnogorska Liga,https://www.soccerway.com/montenegro/druga-liga/standings/,LIGA
+soccerway.com,f_fin_l1_liga,Futbal › Kluby › Európa › Fínsko › Veikkausliiga › Veikkausliiga,https://www.soccerway.com/finland/veikkausliiga/standings/,LIGA
+soccerway.com,f_fin_l2_liga,Futbal › Kluby › Európa › Fínsko › Ykkösliiga › Ykkösliiga,https://www.soccerway.com/finland/ykkosliiga/standings/,LIGA
+soccerway.com,f_fin_l3_liga,Futbal › Kluby › Európa › Fínsko › Ykkönen › Ykkönen,https://www.soccerway.com/finland/ykkonen/standings/,LIGA
+soccerway.com,f_gre_l1_liga,Futbal › Kluby › Európa › Grécko › Super League 1 › Super League 1,https://www.soccerway.com/greece/super-league/standings/,LIGA
+soccerway.com,f_gre_l2_liga,Futbal › Kluby › Európa › Grécko › Super League 2 › Super League 2,https://www.soccerway.com/greece/super-league-2/standings/,LIGA
+soccerway.com,f_ned_l1_liga,Futbal › Kluby › Európa › Holandsko › Eredivisie › Eredivisie,https://www.soccerway.com/netherlands/eredivisie/standings/,LIGA
+soccerway.com,f_ned_l2_liga,Futbal › Kluby › Európa › Holandsko › Eerste Divisie › Eerste Divisie,https://www.soccerway.com/netherlands/eerste-divisie/standings/,LIGA
+soccerway.com,f_ned_l3_liga,Futbal › Kluby › Európa › Holandsko › Tweede Divisie › Tweede Divisie,https://www.soccerway.com/netherlands/tweede-divisie/standings/,LIGA
+soccerway.com,f_ned_l4a_liga,Futbal › Kluby › Európa › Holandsko › Derde Divisie A › Derde Divisie A,https://www.soccerway.com/netherlands/derde-divisie/standings/,LIGA
+soccerway.com,f_ned_l4b_liga,Futbal › Kluby › Európa › Holandsko › Derde Divisie B › Derde Divisie B,https://www.soccerway.com/netherlands/derde-divisie/standings/,LIGA
+soccerway.com,f_cro_l2_liga,Futbal › Kluby › Európa › Chorvátsko › Prva NL › Prva NL,https://www.soccerway.com/croatia/prva-nl/standings/,LIGA
+soccerway.com,f_cro_l3_liga,Futbal › Kluby › Európa › Chorvátsko › Druga NL › Druga NL,https://www.soccerway.com/croatia/druga-nl/standings/,LIGA
+soccerway.com,f_irl_l1_liga,Futbal › Kluby › Európa › Írsko › Premier Division › Premier Division,https://www.soccerway.com/ireland/premier-division/standings/,LIGA
+soccerway.com,f_isl_l2_liga,Futbal › Kluby › Európa › Island › 1. deild karla › 1. deild karla,https://www.soccerway.com/iceland/division-1/standings/,LIGA
+soccerway.com,f_xkx_l1_liga,Futbal › Kluby › Európa › Kosovo › Superliga › Superliga,https://www.soccerway.com/kosovo/superliga/standings/,LIGA
+soccerway.com,f_lva_l1_liga,Futbal › Kluby › Európa › Lotyšsko › Virslīga › Virslīga,https://www.soccerway.com/latvia/virsliga/standings/,LIGA
+soccerway.com,f_lva_l2_liga,Futbal › Kluby › Európa › Lotyšsko › Nākotnes līga › Nākotnes līga,https://www.soccerway.com/latvia/1-liga/standings/,LIGA
+soccerway.com,f_lux_l1_liga,Futbal › Kluby › Európa › Luxembursko › BGL Ligue › BGL Ligue,https://www.soccerway.com/luxembourg/bgl-ligue/standings/,LIGA
+soccerway.com,f_mkd_l1_liga,Futbal › Kluby › Európa › Severné Macedónsko › 1. MFL › 1. MFL,https://www.soccerway.com/north-macedonia/1-mfl/standings/,LIGA
+soccerway.com,f_mkd_l2_liga,Futbal › Kluby › Európa › Severné Macedónsko › 2. MFL › 2. MFL,https://www.soccerway.com/north-macedonia/2-mfl/standings/,LIGA
+soccerway.com,f_hun_l1_liga,Futbal › Kluby › Európa › Maďarsko › NB I › NB I,https://www.soccerway.com/hungary/nb-i/standings/,LIGA
+soccerway.com,f_hun_l2_liga,Futbal › Kluby › Európa › Maďarsko › NB II › NB II,https://www.soccerway.com/hungary/nb-ii/standings/,LIGA
+soccerway.com,f_mlt_l1_liga,Futbal › Kluby › Európa › Malta › Premier League › Premier League,https://www.soccerway.com/malta/premier-league/standings/,LIGA
+soccerway.com,f_mlt_l2_liga,Futbal › Kluby › Európa › Malta › Challenge League › Challenge League,https://www.soccerway.com/malta/challenge-league/standings/,LIGA
+soccerway.com,f_mda_l1_liga,Futbal › Kluby › Európa › Moldavsko › Super Liga › Super Liga,https://www.soccerway.com/moldova/super-liga/standings/,LIGA
+soccerway.com,f_nor_l3a_liga,Futbal › Kluby › Európa › Nórsko › 2. divisjon avd. 1 › 2. divisjon avd. 1,https://www.soccerway.com/norway/division-2-group-1/standings/,LIGA
+soccerway.com,f_nor_l3b_liga,Futbal › Kluby › Európa › Nórsko › 2. divisjon avd. 2 › 2. divisjon avd. 2,https://www.soccerway.com/norway/division-2-group-2/standings/,LIGA
+soccerway.com,f_pol_l3_liga,Futbal › Kluby › Európa › Poľsko › II liga › II liga,https://www.soccerway.com/poland/division-2/standings/,LIGA
+soccerway.com,f_prt_l1_liga,Futbal › Kluby › Európa › Portugalsko › Liga Portugal › Liga Portugal,https://www.soccerway.com/portugal/liga-portugal/standings/,LIGA
+soccerway.com,f_prt_l2_liga,Futbal › Kluby › Európa › Portugalsko › Liga Portugal 2 › Liga Portugal 2,https://www.soccerway.com/portugal/liga-portugal-2/standings/,LIGA
+soccerway.com,f_prt_l3a_liga,Futbal › Kluby › Európa › Portugalsko › Liga 3 - Série A › Liga 3 - Série A,https://www.soccerway.com/portugal/liga-3/standings/,LIGA
+soccerway.com,f_prt_l3b_liga,Futbal › Kluby › Európa › Portugalsko › Liga 3 - Série B › Liga 3 - Série B,https://www.soccerway.com/portugal/liga-3/standings/,LIGA
+soccerway.com,f_isr_l1_liga,Futbal › Kluby › Európa › Izrael › Ligat ha'Al › Ligat ha'Al,https://www.soccerway.com/israel/ligat-ha-al/standings/,LIGA
+soccerway.com,f_isr_l2_liga,Futbal › Kluby › Európa › Izrael › Leumit League › Leumit League,https://www.soccerway.com/israel/leumit-league/standings/,LIGA
+soccerway.com,f_aze_l1_liga,Futbal › Kluby › Európa › Azerbajdžán › Premier League › Premier League,https://www.soccerway.com/azerbaijan/premier-league/standings/,LIGA
+soccerway.com,f_cyp_l1_liga,Futbal › Kluby › Európa › Cyprus › 1. liga › 1. liga,https://www.soccerway.com/cyprus/cyprus-league/standings/,LIGA
+soccerway.com,f_cyp_l2_liga,Futbal › Kluby › Európa › Cyprus › 2. liga › 2. liga,https://www.soccerway.com/cyprus/division-2/standings/,LIGA
+soccerway.com,f_aut_l1_liga,Futbal › Kluby › Európa › Rakúsko › Bundesliga › Bundesliga,https://www.soccerway.com/austria/bundesliga/standings/,LIGA
+soccerway.com,f_aut_l2_liga,Futbal › Kluby › Európa › Rakúsko › 2. Liga › 2. Liga,https://www.soccerway.com/austria/2-liga/standings/,LIGA
+soccerway.com,f_aut_l3ost_liga,Futbal › Kluby › Európa › Rakúsko › Regionalliga Ost › Regionalliga Ost,https://www.soccerway.com/austria/regionalliga-east/standings/,LIGA
+soccerway.com,f_aut_l3nord_liga,Futbal › Kluby › Európa › Rakúsko › Regionalliga Nord › Regionalliga Nord,https://www.soccerway.com/austria/regionalliga-north/standings/,LIGA
+soccerway.com,f_aut_l3west_liga,Futbal › Kluby › Európa › Rakúsko › Regionalliga West › Regionalliga West,https://www.soccerway.com/austria/regionalliga-west/standings/,LIGA
+soccerway.com,f_rou_l1_liga,Futbal › Kluby › Európa › Rumunsko › SuperLiga › SuperLiga,https://www.soccerway.com/romania/superliga/standings/,LIGA
+soccerway.com,f_rou_l2_liga,Futbal › Kluby › Európa › Rumunsko › Liga 2 › Liga 2,https://www.soccerway.com/romania/liga-2/standings/,LIGA
+soccerway.com,f_rus_l1_liga,Futbal › Kluby › Európa › Rusko › Premier liga › Premier liga,https://www.soccerway.com/russia/premier-league/standings/,LIGA
+soccerway.com,f_smr_l1_liga,Futbal › Kluby › Európa › San Maríno › Campionato Sammarinese › Campionato Sammarinese,https://www.soccerway.com/san-marino/campionato-sammarinese/standings/,LIGA
+soccerway.com,f_nir_l1_liga,Futbal › Kluby › Európa › Severné Írsko › NIFL Premiership › NIFL Premiership,https://www.soccerway.com/northern-ireland/nifl-premiership/standings/,LIGA
+soccerway.com,f_nir_l2_liga,Futbal › Kluby › Európa › Severné Írsko › NIFL Championship › NIFL Championship,https://www.soccerway.com/northern-ireland/nifl-championship/standings/,LIGA
+soccerway.com,f_svn_l1_liga,Futbal › Kluby › Európa › Slovinsko › Prva liga › Prva liga,https://www.soccerway.com/slovenia/prva-liga/standings/,LIGA
+soccerway.com,f_svn_l2_liga,Futbal › Kluby › Európa › Slovinsko › 2. SNL › 2. SNL,https://www.soccerway.com/slovenia/2-snl/standings/,LIGA
+soccerway.com,f_srb_l1_liga,Futbal › Kluby › Európa › Srbsko › Super liga › Super liga,https://www.soccerway.com/serbia/mozzart-bet-super-liga/standings/,LIGA
+soccerway.com,f_srb_l2_liga,Futbal › Kluby › Európa › Srbsko › Prva liga › Prva liga,https://www.soccerway.com/serbia/mozzart-bet-prva-liga/standings/,LIGA
+soccerway.com,f_ita_l2_liga,Futbal › Kluby › Európa › Taliansko › Serie B › Serie B,https://www.soccerway.com/italy/serie-b/standings/,LIGA
+soccerway.com,f_ita_l3a_liga,Futbal › Kluby › Európa › Taliansko › Serie C – skupina A › Serie C – skupina A,https://www.soccerway.com/italy/serie-c-group-a/standings/,LIGA
+soccerway.com,f_ita_l3b_liga,Futbal › Kluby › Európa › Taliansko › Serie C – skupina B › Serie C – skupina B,https://www.soccerway.com/italy/serie-c-group-b/standings/,LIGA
+soccerway.com,f_ita_l3c_liga,Futbal › Kluby › Európa › Taliansko › Serie C – skupina C › Serie C – skupina C,https://www.soccerway.com/italy/serie-c-group-c/standings/,LIGA
+soccerway.com,f_tur_l1_liga,Futbal › Kluby › Európa › Turecko › Süper Lig › Süper Lig,https://www.soccerway.com/turkey/super-lig/standings/,LIGA
+soccerway.com,f_tur_l2_liga,Futbal › Kluby › Európa › Turecko › 1. Lig › 1. Lig,https://www.soccerway.com/turkey/1-lig/standings/,LIGA
+soccerway.com,f_tur_l3b_liga,Futbal › Kluby › Európa › Turecko › 2. Lig - Beyaz Grup › 2. Lig - Beyaz Grup,https://www.soccerway.com/turkey/2-lig-white-group/standings/,LIGA
+soccerway.com,f_tur_l3k_liga,Futbal › Kluby › Európa › Turecko › 2. Lig - Kırmızı Grup › 2. Lig - Kırmızı Grup,https://www.soccerway.com/turkey/2-lig-red-group/standings/,LIGA
+soccerway.com,f_wal_l1_liga,Futbal › Kluby › Európa › Wales › Cymru Premier › Cymru Premier,https://www.soccerway.com/wales/cymru-premier/standings/,LIGA
+soccerway.com,f_wal_l2n_liga,Futbal › Kluby › Európa › Wales › Cymru North › Cymru North,https://www.soccerway.com/wales/cymru-north/standings/,LIGA
+soccerway.com,f_wal_l2s_liga,Futbal › Kluby › Európa › Wales › Cymru South › Cymru South,https://www.soccerway.com/wales/cymru-south/standings/,LIGA
+soccerway.com,f_aut_l3sud_liga_stmk,Futbal › Kluby › Európa › Rakúsko › Regionalliga Süd › Regionalliga Süd – Štajersko,https://www.soccerway.com/austria/regionalliga-south/standings/,
+soccerway.com,f_aut_l3sud_liga_ktn,Futbal › Kluby › Európa › Rakúsko › Regionalliga Süd › Regionalliga Süd – Korutánsko,https://www.soccerway.com/austria/regionalliga-south/standings/,LIGA
+soccerway.com,f_alg_l1_liga,Futbal › Kluby › Afrika › Alžírsko › Ligue 1 › Ligue 1,https://www.soccerway.com/algeria/ligue-1/standings/,LIGA
+soccerway.com,f_ben_l1_liga,Futbal › Kluby › Afrika › Benin › Ligue 1 (Championnat National) › Ligue 1 (Championnat National),https://www.soccerway.com/benin/ligue-1/standings/,LIGA
+soccerway.com,f_bwa_l1_liga,Futbal › Kluby › Afrika › Botswana › Premier League › Premier League,https://www.soccerway.com/botswana/premier-league/standings/,LIGA
+soccerway.com,f_bfa_l1_liga,Futbal › Kluby › Afrika › Burkina Faso › Premier League › Premier League,https://www.soccerway.com/burkina-faso/premier-league/standings/,LIGA
+soccerway.com,f_bdi_l1_liga,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Primus League (Ligue A),https://www.soccerway.com/burundi/primus-league/standings/,LIGA
+soccerway.com,f_egy_l1_liga,Futbal › Kluby › Afrika › Egypt › Egyptian Premier League › Egyptian Premier League,https://www.soccerway.com/egypt/premier-league/standings/,LIGA
+soccerway.com,f_egy_l2_liga,Futbal › Kluby › Afrika › Egypt › Egyptian Second Division A › Egyptian Second Division A,https://www.soccerway.com/egypt/division-2-a/standings/,LIGA
+soccerway.com,f_eth_l1_liga,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Ethiopian Premier League,https://www.soccerway.com/ethiopia/premier-league/standings/,LIGA
+soccerway.com,f_gab_l1_liga,Futbal › Kluby › Afrika › Gabon › National Foot 1 › National Foot 1,https://www.soccerway.com/gabon/championnat-d1/standings/,LIGA
+soccerway.com,f_gha_l1_liga,Futbal › Kluby › Afrika › Ghana › Premier League › Premier League,https://www.soccerway.com/ghana/premier-league/standings/,LIGA
+soccerway.com,f_gin_l1_liga,Futbal › Kluby › Afrika › Guinea › Ligue 1 › Ligue 1,https://www.soccerway.com/guinea/ligue-1/standings/,LIGA
+soccerway.com,f_zaf_l2_liga,Futbal › Kluby › Afrika › JAR › Motsepe Foundation Championship › Motsepe Foundation Championship,https://www.soccerway.com/south-africa/motsepe-foundation-championship/standings/,LIGA
+soccerway.com,f_cmr_l1_liga,Futbal › Kluby › Afrika › Kamerun › Elite One › Elite One,https://www.soccerway.com/cameroon/elite-one/standings/,LIGA
+soccerway.com,f_cmr_l2_liga,Futbal › Kluby › Afrika › Kamerun › Elite Two › Elite Two,https://www.soccerway.com/cameroon/elite-two/standings/,LIGA
+soccerway.com,f_cpv_l1_liga,Futbal › Kluby › Afrika › Kapverdy › Campeonato Nacional › Campeonato Nacional,https://www.soccerway.com/cape-verde/campeonato-nacional/standings/,LIGA
+soccerway.com,f_cog_l1_liga,Futbal › Kluby › Afrika › Kongo › Ligue 1 › Ligue 1,https://www.soccerway.com/republic-of-the-congo/ligue-1/standings/,LIGA
+soccerway.com,f_cod_l1_liga,Futbal › Kluby › Afrika › Kongo (DR) › Ligue 1 (Linafoot) › Ligue 1 (Linafoot),https://www.soccerway.com/dr-congo/ligue-1/standings/,LIGA
+soccerway.com,f_lso_l1_liga,Futbal › Kluby › Afrika › Lesotho › Premier League › Premier League,https://www.soccerway.com/lesotho/premier-league/standings/,LIGA
+soccerway.com,f_lbr_l1_liga,Futbal › Kluby › Afrika › Libéria › LFA First Division › LFA First Division,https://www.soccerway.com/liberia/lfa-first-division/standings/,LIGA
+soccerway.com,f_lby_l1_liga,Futbal › Kluby › Afrika › Líbya › Libyan Premier League › Libyan Premier League,https://www.soccerway.com/libya/premier-league/standings/,LIGA
+sofascore.com,f_mdg_l1_liga,Futbal › Kluby › Afrika › Madagaskar › Pureplay Football League › Pureplay Football League,https://www.sofascore.com/tournament/football/madagascar/pure-play-football-league/20122,LIGA
+soccerway.com,f_mli_l1_liga,Futbal › Kluby › Afrika › Mali › Ligue 1 › Ligue 1,https://www.soccerway.com/mali/premiere-division/standings/,LIGA
+soccerway.com,f_mar_l1_liga,Futbal › Kluby › Afrika › Maroko › Botola Pro 1 › Botola Pro 1,https://www.soccerway.com/morocco/botola-pro/standings/,LIGA
+soccerway.com,f_mar_l2_liga,Futbal › Kluby › Afrika › Maroko › Botola Pro 2 › Botola Pro 2,https://www.soccerway.com/morocco/botola-2/standings/,LIGA
+soccerway.com,f_mus_l1_liga,Futbal › Kluby › Afrika › Maurícius › National Super League › National Super League,https://www.soccerway.com/mauritius/super-league/standings/,LIGA
+soccerway.com,f_mrt_l1_liga,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › Ligue 1,https://www.soccerway.com/mauritania/ligue-1/standings/,LIGA
+soccerway.com,f_moz_l1_liga,Futbal › Kluby › Afrika › Mozambik › Mocambola › Mocambola,https://www.soccerway.com/mozambique/mocambola/standings/,LIGA
+soccerway.com,f_ner_l1_liga,Futbal › Kluby › Afrika › Niger › Super Ligue › Super Ligue,https://www.soccerway.com/niger/super-ligue/standings/,LIGA
+soccerway.com,f_civ_l1_liga,Futbal › Kluby › Afrika › Pobrežie Slonoviny › Ligue 1 › Ligue 1,https://www.soccerway.com/ivory-coast/ligue-1/standings/,LIGA
+sofascore.com,f_gnq_l1_liga,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Continental › Liga Nacional — Región Continental,https://www.sofascore.com/tournament/football/equatorial-guinea/primera-division-honor/31928,LIGA
+sofascore.com,f_gnq_l2_liga,Futbal › Kluby › Afrika › Rovníková Guinea › Liga Nacional — Región Insular › Liga Nacional — Región Insular,https://www.sofascore.com/tournament/football/equatorial-guinea/primera-division-honor/31928,LIGA
+soccerway.com,f_sen_l1_liga,Futbal › Kluby › Afrika › Senegal › Ligue 1 › Ligue 1,https://www.soccerway.com/senegal/ligue-1/standings/,LIGA
+soccerway.com,f_syc_l1_liga,Futbal › Kluby › Afrika › Seychely › Premier League › Premier League,https://www.soccerway.com/seychelles/premier-league/standings/,LIGA
+soccerway.com,f_som_l1_liga,Futbal › Kluby › Afrika › Somálsko › Somali National League › Somali National League,https://www.soccerway.com/somalia/national-league/standings/,LIGA
+soccerway.com,f_sdn_l1_liga,Futbal › Kluby › Afrika › Sudán › Premier League — Elitná skupina › Premier League — Elitná skupina,https://www.soccerway.com/sudan/premier-league/standings/,LIGA
+soccerway.com,f_swz_l1_liga,Futbal › Kluby › Afrika › Eswatini › Premier League of Eswatini › Premier League of Eswatini,https://www.soccerway.com/eswatini/swazi-mtn-premier-league/standings/,LIGA
+soccerway.com,f_tza_l1_liga,Futbal › Kluby › Afrika › Tanzánia › Premier League › Premier League,https://www.soccerway.com/tanzania/ligi-kuu-bara/standings/,LIGA
+soccerway.com,f_tgo_l1_liga,Futbal › Kluby › Afrika › Togo › Championnat National › Championnat National,https://www.soccerway.com/togo/championnat-national/standings/,LIGA
+soccerway.com,f_tun_l1_liga,Futbal › Kluby › Afrika › Tunisko › Ligue Professionnelle 1 › Ligue Professionnelle 1,https://www.soccerway.com/tunisia/ligue-professionnelle-1/standings/,LIGA
+soccerway.com,f_zmb_l1_liga,Futbal › Kluby › Afrika › Zambia › Super League › Super League,https://www.soccerway.com/zambia/super-league/standings/,LIGA
+soccerway.com,f_zwe_l1_liga,Futbal › Kluby › Afrika › Zimbabwe › Premier Soccer League › Premier Soccer League,https://www.soccerway.com/zimbabwe/premier-soccer-league/standings/,LIGA
+soccerway.com,f_arg_l1_liga,Futbal › Kluby › Južná Amerika › Argentína › Liga Profesional (Primera División) › Liga Profesional (Primera División),https://www.soccerway.com/argentina/liga-profesional/standings/,LIGA
+soccerway.com,f_arg_l2_liga,Futbal › Kluby › Južná Amerika › Argentína › Primera Nacional › Primera Nacional,https://www.soccerway.com/argentina/primera-nacional/standings/,LIGA
+soccerway.com,f_arg_l3a_liga,Futbal › Kluby › Južná Amerika › Argentína › Torneo Federal A › Torneo Federal A,https://www.soccerway.com/argentina/torneo-federal/standings/,LIGA
+soccerway.com,f_arg_l3b_liga,Futbal › Kluby › Južná Amerika › Argentína › Primera B Metropolitana › Primera B Metropolitana,https://www.soccerway.com/argentina/primera-b/standings/,LIGA
+soccerway.com,f_bol_l1_liga,Futbal › Kluby › Južná Amerika › Bolívia › División Profesional › División Profesional,https://www.soccerway.com/bolivia/division-profesional/standings/,LIGA
+soccerway.com,f_chl_l1_liga,Futbal › Kluby › Južná Amerika › Chile › Liga de Primera › Liga de Primera,https://www.soccerway.com/chile/liga-de-primera/standings/,LIGA
+soccerway.com,f_chl_l2_liga,Futbal › Kluby › Južná Amerika › Chile › Liga de Ascenso › Liga de Ascenso,https://www.soccerway.com/chile/liga-de-ascenso/standings/,LIGA
+soccerway.com,f_per_l2_liga,Futbal › Kluby › Južná Amerika › Peru › Liga 2 › Liga 2,https://www.soccerway.com/peru/liga-2/standings/,LIGA
+soccerway.com,f_ecu_l2_liga,Futbal › Kluby › Južná Amerika › Ekvádor › Serie B › Serie B,https://www.soccerway.com/ecuador/serie-b/standings/,LIGA
+soccerway.com,f_col_l1_liga,Futbal › Kluby › Južná Amerika › Kolumbia › Categoría Primera A › Categoría Primera A,https://www.soccerway.com/colombia/primera-a/standings/,LIGA
+soccerway.com,f_col_l2_liga,Futbal › Kluby › Južná Amerika › Kolumbia › Categoría Primera B › Categoría Primera B,https://www.soccerway.com/colombia/primera-b/standings/,LIGA
+soccerway.com,f_par_l2_liga,Futbal › Kluby › Južná Amerika › Paraguaj › División Intermedia › División Intermedia,https://www.soccerway.com/paraguay/division-intermedia/standings/,LIGA
+soccerway.com,f_uru_l1_liga,Futbal › Kluby › Južná Amerika › Uruguaj › Liga AUF Uruguaya › Liga AUF Uruguaya,https://www.soccerway.com/uruguay/liga-auf-uruguaya/standings/,LIGA
+soccerway.com,f_uru_l2_liga,Futbal › Kluby › Južná Amerika › Uruguaj › Segunda División › Segunda División,https://www.soccerway.com/uruguay/segunda-division/standings/,LIGA
+soccerway.com,f_ven_l2_liga,Futbal › Kluby › Južná Amerika › Venezuela › Segunda División › Segunda División,https://www.soccerway.com/venezuela/liga-futve-2/standings/,LIGA
+soccerway.com,f_bhr_l1_liga,Futbal › Kluby › Ázia › Bahrajn › Nasser bin Hamad Premier League › Nasser bin Hamad Premier League,https://www.soccerway.com/bahrain/premier-league/standings/,LIGA
+soccerway.com,f_bgd_l1_liga,Futbal › Kluby › Ázia › Bangladéš › Bangladesh Football League (BFL) › Bangladesh Football League (BFL),https://www.soccerway.com/bangladesh/bfl/standings/,LIGA
+soccerway.com,f_btn_l1_liga,Futbal › Kluby › Ázia › Bhután › BOB Bhutan Premier League › BOB Bhutan Premier League,https://www.soccerway.com/bhutan/premier-league/standings/,LIGA
+sofascore.com,f_brn_l1_liga,Futbal › Kluby › Ázia › Brunej › Brunei Super League › Brunei Super League,https://www.sofascore.com/tournament/football/brunei/super-league/17017,LIGA
+soccerway.com,f_chn_l1_liga,Futbal › Kluby › Ázia › Čína › Super League › Super League,https://www.soccerway.com/china/super-league/standings/,LIGA
+soccerway.com,f_chn_l2_liga,Futbal › Kluby › Ázia › Čína › League One › League One,https://www.soccerway.com/china/league-one/standings/,LIGA
+soccerway.com,f_phl_l1_liga,Futbal › Kluby › Ázia › Filipíny › PFL › PFL,https://www.soccerway.com/philippines/pfl/standings/,LIGA
+soccerway.com,f_hkg_l1_liga,Futbal › Kluby › Ázia › Hongkong › Hong Kong Premier League › Hong Kong Premier League,https://www.soccerway.com/hong-kong/premier-league/standings/,LIGA
+soccerway.com,f_idn_l1_liga,Futbal › Kluby › Ázia › Indonézia › Super League › Super League,https://www.soccerway.com/indonesia/super-league/standings/,LIGA
+soccerway.com,f_idn_l2_liga,Futbal › Kluby › Ázia › Indonézia › Championship › Championship,https://www.soccerway.com/indonesia/championship/standings/,LIGA
+soccerway.com,f_irn_l1_liga,Futbal › Kluby › Ázia › Irán › Persian Gulf Pro League › Persian Gulf Pro League,https://www.soccerway.com/iran/persian-gulf-pro-league/standings/,LIGA
+soccerway.com,f_jor_l1_liga,Futbal › Kluby › Ázia › Jordánsko › Premier League › Premier League,https://www.soccerway.com/jordan/premier-league/standings/,LIGA
+soccerway.com,f_kgz_l1_liga,Futbal › Kluby › Ázia › Kirgizsko › Kyrgyz Premier League › Kyrgyz Premier League,https://www.soccerway.com/kyrgyzstan/premier-liga/standings/,LIGA
+soccerway.com,f_kwt_l1_liga,Futbal › Kluby › Ázia › Kuvajt › Kuwait Premier League › Kuwait Premier League,https://www.soccerway.com/kuwait/premier-league/standings/,LIGA
+soccerway.com,f_lao_l1_liga,Futbal › Kluby › Ázia › Laos › Lao League › Lao League,https://www.soccerway.com/laos/lao-league/standings/,LIGA
+soccerway.com,f_lbn_l1_liga,Futbal › Kluby › Ázia › Libanon › Lebanese Premier League › Lebanese Premier League,https://www.soccerway.com/lebanon/premier-league/standings/,LIGA
+soccerway.com,f_mys_l1_liga,Futbal › Kluby › Ázia › Malajzia › Super League › Super League,https://www.soccerway.com/malaysia/super-league/standings/,LIGA
+sofascore.com,f_mdv_l1_liga,Futbal › Kluby › Ázia › Maldivy › Dhivehi Premier League › Dhivehi Premier League,https://www.sofascore.com/football/tournament/maldives/dhivehi-premier-league/16554,LIGA
+soccerway.com,f_mmr_l1_liga,Futbal › Kluby › Ázia › Mjanmarsko › Myanmar National League › Myanmar National League,https://www.soccerway.com/myanmar/national-league/standings/,LIGA
+soccerway.com,f_mng_l1_liga,Futbal › Kluby › Ázia › Mongolsko › Mongolian Premier League › Mongolian Premier League,https://www.soccerway.com/mongolia/premier-league/standings/,LIGA
+soccerway.com,f_omn_l1_liga,Futbal › Kluby › Ázia › Omán › Oman Professional League › Oman Professional League,https://www.soccerway.com/oman/professional-league/standings/,LIGA
+soccerway.com,f_sgp_l1_liga,Futbal › Kluby › Ázia › Singapur › Singapore Premier League › Singapore Premier League,https://www.soccerway.com/singapore/premier-league/standings/,LIGA
+soccerway.com,f_lka_l1_liga,Futbal › Kluby › Ázia › Srí Lanka › Sri Lanka Super League › Sri Lanka Super League,https://www.soccerway.com/sri-lanka/super-league/standings/,LIGA
+soccerway.com,f_syr_l1_liga,Futbal › Kluby › Ázia › Sýria › Syrian Premier League › Syrian Premier League,https://www.soccerway.com/syria/premier-league/standings/,LIGA
+soccerway.com,f_tjk_l1_liga,Futbal › Kluby › Ázia › Tadžikistan › Tajikistan Higher League › Tajikistan Higher League,https://www.soccerway.com/tajikistan/vysshaya-liga/standings/,LIGA
+soccerway.com,f_twn_l1_liga,Futbal › Kluby › Ázia › Taiwan › Taiwan Football Premier League › Taiwan Football Premier League,https://www.soccerway.com/taiwan/premier-league/standings/,LIGA
+soccerway.com,f_tha_l1_liga,Futbal › Kluby › Ázia › Thajsko › Thai League 1 › Thai League 1,https://www.soccerway.com/thailand/thai-league-1/standings/,LIGA
+soccerway.com,f_vnm_l1_liga,Futbal › Kluby › Ázia › Vietnam › V.League 1 › V.League 1,https://www.soccerway.com/vietnam/v-league-1/standings/,LIGA
+sofascore.com,f_tls_l1_liga,Futbal › Kluby › Ázia › Východný Timor › Liga Futebol Timor-Leste › Liga Futebol Timor-Leste,https://www.sofascore.com/tournament/football/timor-leste/lfa-primeira-divisao/18235,LIGA
+soccerway.com,f_yem_l1_liga,Futbal › Kluby › Ázia › Jemen › Jemenská liga › Jemenská liga,https://www.soccerway.com/yemen/division-1/standings/,LIGA
+sofascore.com,f_asm_l1_liga,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › FFAS Senior League,https://www.sofascore.com/football/tournament/american-samoa/ffas-senior-league/21134,LIGA
+sofascore.com,f_cok_l1_liga,Futbal › Kluby › Oceánia › Cookove ostrovy › Round Cup › Round Cup,https://www.sofascore.com/football/tournament/cook-islands/round-cup/21537,LIGA
+soccerway.com,f_fij_l1_liga,Futbal › Kluby › Oceánia › Fidži › Premier League › Premier League,https://www.soccerway.com/fiji/premier-league/standings/,LIGA
+sofascore.com,f_wsm_l1_liga,Futbal › Kluby › Oceánia › Samoa › National League › National League,https://www.sofascore.com/football/tournament/samoa/upolu-national-league/19034,LIGA
+sofascore.com,f_ton_l1_liga,Futbal › Kluby › Oceánia › Tonga › Major League › Major League,https://www.sofascore.com/football/tournament/tonga/tfa-major-league/23098,LIGA
+sofascore.com,f_van_l1_liga,Futbal › Kluby › Oceánia › Vanuatu › Super League › Super League,https://www.sofascore.com/football/tournament/vanuatu/pvfa-premier-league/20485,LIGA
+wikipedia.org,f_vir_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Americké Panenské ostrovy › USVISF Premier League › USVISF Premier League,https://en.wikipedia.org/wiki/2026_USVISF_Premier_League_season,LIGA
+soccerway.com,f_atg_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Antigua a Barbuda › ABFA Premier League › ABFA Premier League,https://www.soccerway.com/antigua-barbuda/abfa-premier-league/standings/,LIGA
+soccerway.com,f_aru_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Aruba › Division di Honor › Division di Honor,https://www.soccerway.com/aruba/division-di-honor/standings/,LIGA
+soccerway.com,f_brb_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Barbados › Premier League › Premier League,https://www.soccerway.com/barbados/premier-league/standings/,LIGA
+soccerway.com,f_ber_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Bermudy › Premier Division › Premier Division,https://www.soccerway.com/bermuda/premier-league/standings/,LIGA
+soccerway.com,f_dom_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Dominikánska republika › Liga Dominicana de Fútbol › Liga Dominicana de Fútbol,https://www.soccerway.com/dominican-republic/ldf/standings/,LIGA
+soccerway.com,f_hai_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Haiti › Championnat National D1 (Ligue Haïtienne) › Championnat National D1 (Ligue Haïtienne),https://www.soccerway.com/haiti/championnat-national/standings/,LIGA
+soccerway.com,f_cri_l2_liga,Futbal › Kluby › Severná a Stredná Amerika › Kostarika › Liga de Ascenso (2. liga) › Liga de Ascenso (2. liga),https://www.soccerway.com/costa-rica/liga-de-ascenso/standings/,LIGA
+soccerway.com,f_mtq_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Martinik › Régional 1 (Trophée Gérard Janvion) › Régional 1 (Trophée Gérard Janvion),https://www.soccerway.com/martinique/trophee-gerard-janvion/standings/,LIGA
+soccerway.com,f_mex_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Mexiko › Liga MX › Liga MX,https://www.soccerway.com/mexico/liga-mx/standings/,LIGA
+soccerway.com,f_mex_l2_liga,Futbal › Kluby › Severná a Stredná Amerika › Mexiko › Liga de Expansión MX (2. liga) › Liga de Expansión MX (2. liga),https://www.soccerway.com/mexico/liga-de-expansion-mx/standings/,LIGA
+soccerway.com,f_nic_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Nikaragua › Liga Primera de Nicaragua › Liga Primera de Nicaragua,https://www.soccerway.com/nicaragua/liga-primera/standings/,LIGA
+soccerway.com,f_slv_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Salvádor › Primera División de El Salvador › Primera División de El Salvador,https://www.soccerway.com/el-salvador/primera-division/standings/,LIGA
+soccerway.com,f_tri_l1_liga,Futbal › Kluby › Severná a Stredná Amerika › Trinidad a Tobago › TT Premier Football League (TTPFL) › TT Premier Football League (TTPFL),https://www.soccerway.com/trinidad-and-tobago/tt-premier-league/standings/,LIGA
+soccerway.com,f_gib_l1_liga,Futbal › Kluby › Európa › Gibraltár › Gibraltar Football League › Gibraltar Football League,https://www.soccerway.com/gibraltar/national-league/standings/,LIGA
+soccerway.com,f_mac_l1_liga,Futbal › Kluby › Ázia › Macao › Liga de Elite › Liga de Elite,https://www.soccerway.com/macao/elite-league/standings/,LIGA
+sofascore.com,f_mnp_l1_liga,Futbal › Kluby › Ázia › Severné Mariány › Marianas Soccer League › Marianas Soccer League,https://www.sofascore.com/tournament/football/northern-mariana-islands/msl-1/23694,LIGA
+flashscore,f_had_nor_l1_liga,Hádzaná › Kluby › Európa › Nórsko › Elkjøp-ligaen › Elkjøp-ligaen,https://www.flashscore.com/handball/norway/elkjop-ligaen/standings/,LIGA
+flashscore,f_had_blr_l1_liga,Hádzaná › Kluby › Európa › Bielorusko › Vysšaja liga › Vysšaja liga,https://www.flashscore.com/handball/belarus/division-1/standings/,LIGA
+flashscore,f_had_bih_l1_liga,Hádzaná › Kluby › Európa › Bosna a Hercegovina › Premijer liga › Premijer liga,https://www.flashscore.com/handball/bosnia-and-herzegovina/premijer-liga/standings/,LIGA
+flashscore,f_had_mne_l1_liga,Hádzaná › Kluby › Európa › Čierna Hora › Prva liga › Prva liga,https://www.flashscore.com/handball/montenegro/prva-liga/standings/,LIGA
+sofascore.com,f_had_mne_l1_k1,Hádzaná › Kluby › Európa › Čierna Hora › Prva liga › Berane 1949,https://www.sofascore.com/handball/team/rk-berane-1949/1146166,
+sofascore.com,f_had_mne_l1_k5,Hádzaná › Kluby › Európa › Čierna Hora › Prva liga › Jedinstvo Bemax,https://www.sofascore.com/handball/team/rk-jedinstvo-bemax/1146169,
+sofascore.com,f_had_mne_l1_k7,Hádzaná › Kluby › Európa › Čierna Hora › Prva liga › Mornar 7 Bar,https://www.sofascore.com/handball/team/rk-mornar-7/247828,
+sofascore.com,f_had_mne_l1_k10,Hádzaná › Kluby › Európa › Čierna Hora › Prva liga › Sutjeska Nikšić,https://www.sofascore.com/handball/team/rk-sutjeska/1146155,
+flashscore,f_had_fin_l1_liga,Hádzaná › Kluby › Európa › Fínsko › SM-liiga › SM-liiga,https://www.flashscore.com/handball/finland/aktialiiga/standings/,LIGA
+flashscore,f_had_grc_l1_liga,Hádzaná › Kluby › Európa › Grécko › Handball Premier › Handball Premier,https://www.flashscore.com/handball/greece/a1/standings/,LIGA
+flashscore,f_had_hrv_l1_liga,Hádzaná › Kluby › Európa › Chorvátsko › Premijer liga › Premijer liga,https://www.flashscore.com/handball/croatia/premijer-liga/standings/,LIGA
+flashscore,f_had_isl_l1_liga,Hádzaná › Kluby › Európa › Island › Urvalsdeild karla › Urvalsdeild karla,https://www.flashscore.com/handball/iceland/olis-deildin/standings/,LIGA
+flashscore,f_had_isr_l1_liga,Hádzaná › Kluby › Európa › Izrael › Ligat Ha'Al › Ligat Ha'Al,https://www.flashscore.com/handball/israel/division-1/standings/,LIGA
+sofascore.com,f_had_xkx_l1_liga,Hádzaná › Kluby › Európa › Kosovo › Superliga e Kosovës › Superliga e Kosovës,https://www.sofascore.com/handball/tournament/kosovo/superliga-e-meshkujt/34444,LIGA
+flashscore,f_had_lva_l1_liga,Hádzaná › Kluby › Európa › Lotyšsko › SynotTip Virslīga › SynotTip Virslīga,https://www.flashscore.com/handball/latvia/virsliga/standings/,LIGA
+sofascore.com,f_had_lva_l1_k1,Hádzaná › Kluby › Európa › Lotyšsko › SynotTip Virslīga › ASK/MSĢ,https://www.sofascore.com/handball/team/askmsg/1128494,
+flashscore,f_had_lux_l1_liga,Hádzaná › Kluby › Európa › Luxembursko › AXA League › AXA League,https://www.flashscore.com/handball/luxembourg/axa-league/standings/,LIGA
+flashscore,f_had_hun_l1_liga,Hádzaná › Kluby › Európa › Maďarsko › NB I › NB I,https://www.flashscore.com/handball/hungary/nb-i/standings/,LIGA
+flashscore,f_had_prt_l1_liga,Hádzaná › Kluby › Európa › Portugalsko › Andebol 1 › Andebol 1,https://www.flashscore.com/handball/portugal/andebol-1/standings/,LIGA
+flashscore,f_had_rou_l1_liga,Hádzaná › Kluby › Európa › Rumunsko › Liga Zimbrilor › Liga Zimbrilor,https://www.flashscore.com/handball/romania/liga-nationala/standings/,LIGA
+flashscore,f_had_rus_l1_liga,Hádzaná › Kluby › Európa › Rusko › Superliga › Superliga,https://www.flashscore.com/handball/russia/superleague/standings/,LIGA
+flashscore,f_had_svn_l1_liga,Hádzaná › Kluby › Európa › Slovinsko › Liga NLB › Liga NLB,https://www.flashscore.com/handball/slovenia/1-nlb-lig/standings/,LIGA
+flashscore,f_had_srb_l1_liga,Hádzaná › Kluby › Európa › Srbsko › ARKUS liga › ARKUS liga,https://www.flashscore.com/handball/serbia/arkus-liga/standings/,LIGA
+flashscore,f_had_tur_l1_liga,Hádzaná › Kluby › Európa › Turecko › Hentbol Süper Ligi › Hentbol Süper Ligi,https://www.flashscore.com/handball/turkey/superlig/standings/,LIGA
+flashscore,f_had_tur_l1_k6,Hádzaná › Kluby › Európa › Turecko › Hentbol Süper Ligi › İstanbul Gençlik,https://www.flashscore.com.tr/takim/istanbul-genclik/vy7ir00J/,
+flashscore,f_had_mkd_l1_liga,Hádzaná › Kluby › Európa › Severné Macedónsko › Superliga › Superliga,https://www.flashscore.com/handball/north-macedonia/superleague/standings/,LIGA
+flashscore,f_had_swe_l2_liga,Hádzaná › Kluby › Európa › Švédsko › Allsvenskan › Allsvenskan,https://www.flashscore.com/handball/sweden/allsvenskan/standings/,LIGA
+flashscore,f_had_esp_l2_liga,Hádzaná › Kluby › Európa › Španielsko › División de Honor Plata › División de Honor Plata,https://www.flashscore.com/handball/spain/division-de-honor-plata/standings/,LIGA
+flashscore,f_had_esp_l3_liga,Hádzaná › Kluby › Európa › Španielsko › División de Honor (ženy) › Liga Guerreras Iberdrola,https://www.flashscore.com/handball/spain/division-de-honor-women/standings/,LIGA
+flashscore,f_had_nor_l2_liga,Hádzaná › Kluby › Európa › Nórsko › 1. divisjon › 1. divisjon,https://www.flashscore.com/handball/norway/1-division/standings/,LIGA
+flashscore,f_had_nor_l3_liga,Hádzaná › Kluby › Európa › Nórsko › Eliteserien (ženy) › Eliteserien (ženy),https://www.flashscore.com/handball/norway/elkjop-ligaen-women/standings/,LIGA
+flashscore,f_had_hun_l2_liga,Hádzaná › Kluby › Európa › Maďarsko › NB I (ženy) › NB I (ženy),https://www.flashscore.com/handball/hungary/nb-i-women/standings/,LIGA
+flashscore,f_had_rou_l2_liga,Hádzaná › Kluby › Európa › Rumunsko › Liga Florilor (ženy) › Liga Florilor (ženy),https://www.flashscore.com/handball/romania/liga-nationala-women/standings/,LIGA
+flashscore,f_had_rus_l2_liga,Hádzaná › Kluby › Európa › Rusko › Superliga (ženy) › Superliga (ženy),https://www.flashscore.com/handball/russia/superleague-women/standings/,LIGA
+flashscore,f_had_jpn_l1_liga,Hádzaná › Kluby › Ázia › Japonsko › League H › League H,https://www.flashscore.com/handball/japan/league-h/standings/,LIGA
+flashscore,f_had_jpn_l2_liga,Hádzaná › Kluby › Ázia › Japonsko › League H (ženy) › League H (ženy),https://www.flashscore.com/handball/japan/league-h-women/standings/,LIGA
+flashscore,f_had_kor_l1_liga,Hádzaná › Kluby › Ázia › Južná Kórea › H League › H League,https://www.flashscore.com/handball/south-korea/h-league/standings/,LIGA
+flashscore,f_had_kor_l2_liga,Hádzaná › Kluby › Ázia › Južná Kórea › H League (ženy) › H League (ženy),https://www.flashscore.com/handball/south-korea/h-league-women/standings/,LIGA
+sofascore.com,f_had_kwt_l1_liga,Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga › Kuvajtská liga,https://www.sofascore.com/handball/tournament/kuwait/kuwait-handball-league/25311,LIGA
+sofascore.com,f_had_kwt_l1_k5,Hádzaná › Kluby › Ázia › Kuvajt › Kuvajtská liga › Al-Sulaibikhat SC,https://www.sofascore.com/handball/team/al-salibihaet/245956,
+sofascore.com,f_had_arg_l1_liga,Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC) › Argentína › Liga de Honor Oro › Liga de Honor Oro,https://www.sofascore.com/handball/tournament/argentina/liga-de-honor-oro/35185,LIGA
+sofascore.com,f_had_arg_l2_liga,Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC) › Argentína › Liga de Honor Oro (ženy) › Liga de Honor Oro (ženy),https://www.sofascore.com/handball/tournament/argentina/liga-de-honor-oro/35184,LIGA
+wikipedia.org,f_had_aus_l1_liga,Hádzaná › Kluby › Oceánia › Austrália › Australian Handball Club Championship › Australian Handball Club Championship,https://en.wikipedia.org/wiki/Australian_Handball_Club_Championship,LIGA
+sofascore.com,f_had_tun_l1_liga,Hádzaná › Kluby › Afrika › Tunisko › Division Élite › Division Élite,https://www.sofascore.com/handball/tournament/tunisia/championnat-elite-seniors-premiere-phase/34425,LIGA
+sofascore.com,f_had_alg_l1_liga,Hádzaná › Kluby › Afrika › Alžírsko › Division Excellence › Division Excellence,https://www.sofascore.com/handball/tournament/algeria/division-nationale-excellence-a/39447,LIGA
+google.,f_had_aso_ja_k17,Hádzaná › Asociácie › Južná a Stredná Amerika (SCAHC) › Salvádor,https://sites.google.com/view/handball-el-salvador/p%C3%A1gina-principal,
+livesport,n1788840000013w2h,Tenis › Turnaje a Súťaže › WTA Tour › WTA 250 › Livesport Prague Open,https://livesportpragueopen.cz/EN/,
+google.,f_ten_aso_af_k27,Tenis › Asociácie › Afrika › Sierra Leone,https://sites.google.com/view/sltennis/,
+flashscore,f_ten_spr_k22,Tenis › Správy a Štatistiky › Flashscore – Tenis,https://www.flashscore.sk/tenis/,
+sofascore.com,f_ten_spr_k23,Tenis › Správy a Štatistiky › SofaScore – Tenis,https://www.sofascore.com/tennis,
+eliteprospects.com,f_hok_klu_na_ncdc_k44,Hokej › Kluby › Severná Amerika › NCDC › Universel Quebec,https://www.eliteprospects.com/team/44969/universel-college-quebec,
+flashscore,f_hok_klu_eu_svk_l1_liga,Hokej › Kluby › Európa › Slovensko › Slovenská extraliga › Slovensko – Tipsport liga,https://www.flashscore.com/hockey/slovakia/tipsport-liga/standings/,LIGA
+flashscore,f_hok_klu_eu_dnk_l1_liga,Hokej › Kluby › Európa › Dánsko › Dánska Metal Ligaen › Dánsko – Metal Ligaen,https://www.flashscore.com/hockey/denmark/metal-ligaen/standings/,LIGA
+flashscore,f_hok_klu_eu_blr_l1_liga,Hokej › Kluby › Európa › Bielorusko › Bieloruská extraliga › Bielorusko – Extraliga,https://www.flashscore.com/hockey/belarus/extraleague/standings/,LIGA
+flashscore,f_hok_klu_eu_nor_l2_liga,Hokej › Kluby › Európa › Nórsko › Nórska HockeyLiga1 › Nórsko – HockeyLiga1,https://www.flashscore.com/hockey/norway/division-1/standings/,LIGA
+flashscore,f_hok_klu_eu_pol_l1_liga,Hokej › Kluby › Európa › Poľsko › Poľská PHL › Poľsko – Polska Hokej Liga,https://www.flashscore.com/hockey/poland/polish-hockey-league/standings/,LIGA
+eliteprospects.com,f_hok_klu_eu_bgr_l1_liga,Hokej › Kluby › Európa › Bulharsko › Bulharská hokejová liga › Bulharsko – Hokejová liga,https://www.eliteprospects.com/league/bulgaria/standings,LIGA
+eliteprospects.com,f_hok_klu_eu_bgr_l1_k5,Hokej › Kluby › Európa › Bulharsko › Bulharská hokejová liga › Slavia Sofia,https://www.eliteprospects.com/team/4498/hc-slavia-sofia,
+flashscore,f_hok_klu_eu_hun_l1_liga,Hokej › Kluby › Európa › Maďarsko › Maďarská Erste Liga › Maďarsko – Erste Liga,https://www.flashscore.com/hockey/hungary/erste-liga/standings/,LIGA
+flashscore,f_hok_klu_eu_rou_l1_liga,Hokej › Kluby › Európa › Rumunsko › Rumunská Liga Națională › Rumunsko – Liga Națională,https://www.flashscore.com/hockey/romania/campionatul-national/standings/,LIGA
+eliteprospects.com,f_hok_klu_eu_rou_l1_k8,Hokej › Kluby › Európa › Rumunsko › Rumunská Liga Națională › Steaua București,https://www.eliteprospects.com/team/2915/steaua-bucuresti,
+flashscore,f_hok_klu_eu_bel_l1_liga,Hokej › Kluby › Európa › Belgicko › Belgická 1. divízia › Belgicko – Division 1,https://www.flashscore.com/hockey/belgium/division-1/standings/,LIGA
+flashscore,f_hok_klu_eu_nld_l1_liga,Hokej › Kluby › Európa › Holandsko › Holandská Eredivisie › Holandsko – Eredivisie,https://www.flashscore.com/hockey/netherlands/eredivisie/standings/,LIGA
+flashscore,f_hok_klu_eu_esp_l1_liga,Hokej › Kluby › Európa › Španielsko › Španielska Liga Nacional › Španielsko – Liga Nacional de Hockey Hielo,https://www.flashscore.com/hockey/spain/lnhh/standings/,LIGA
+eliteprospects.com,f_hok_klu_eu_isl_l1_liga,Hokej › Kluby › Európa › Island › Islandská Toppdeild karla › Island – Toppdeild karla,https://www.eliteprospects.com/league/iceland/standings,LIGA
+eliteprospects.com,f_hok_klu_eu_hrv_l1_liga,Hokej › Kluby › Európa › Chorvátsko › Chorvátska hokejová liga › Chorvátsko – Prvenstvo Hrvatske,https://www.eliteprospects.com/league/croatia/standings,LIGA
+eliteprospects.com,f_hok_klu_eu_bih_l1_liga,Hokej › Kluby › Európa › Bosna a Hercegovina › Bosnianska hokejová liga › Bosna a Hercegovina – Hokejová liga,https://www.eliteprospects.com/league/bosnia/standings,LIGA
+eliteprospects.com,f_hok_klu_eu_bih_l1_k1,Hokej › Kluby › Európa › Bosna a Hercegovina › Bosnianska hokejová liga › Blue Bulls Sarajevo,https://www.eliteprospects.com/team/16685/blue-bulls-sarajevo,
+flashscore,f_hok_klu_eu_ukr_l1_liga,Hokej › Kluby › Európa › Ukrajina › Ukrajinská hokejová liga › Ukrajina – Hokejová liga,https://www.flashscore.com/hockey/ukraine/championship/standings/,LIGA
+flashscore,f_hok_klu_eu_ita_l2_liga,Hokej › Kluby › Európa › Taliansko › Talianska IHL › Taliansko – IHL,https://www.flashscore.com/hockey/italy/ihl/standings/,LIGA
+flashscore,f_hok_klu_ao_jpn_l1_liga,Hokej › Kluby › Ázia & Oceánia › Japonsko › Asia League › Japonsko – Asia League,https://www.flashscore.com/hockey/asia/asia-league/standings/,LIGA
+volleybox.net,f_vol_sut_af_msm,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky 2026 – muži,https://volleybox.net/men-african-championship-2026-o42331,
+volleybox.net,f_vol_sut_af_msz,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky 2026 – ženy,https://women.volleybox.net/women-african-championships-2026-o45358,
+volleybox.net,f_vol_sut_af_klm,Volejbal › Súťaže › Afrika (CAVB) › Africký klubový šampionát 2025/26 – muži,https://volleybox.net/men-african-club-championships-2025-26-o42587,
+volleybox.net,f_vol_sut_af_klz,Volejbal › Súťaže › Afrika (CAVB) › Africký klubový šampionát 2025/26 – ženy,https://women.volleybox.net/women-african-club-championship-2025-26-o43097,
+volleybox.net,f_vol_sut_af_ahm,Volejbal › Súťaže › Afrika (CAVB) › Africké hry 2027 – muži,https://volleybox.net/men-african-games-2027-o47902,
+volleybox.net,f_vol_sut_af_ahz,Volejbal › Súťaže › Afrika (CAVB) › Africké hry 2027 – ženy,https://women.volleybox.net/women-african-games-2027-o48255,
+volleybox.net,f_vol_sut_af_u20m,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky U20 2025 – muži,https://volleybox.net/men-african-championship-u20-2025-o42386,
+volleybox.net,f_vol_sut_af_u20z,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky U20 2025 – ženy,https://women.volleybox.net/women-african-championship-u20-2025-o41723,
+volleybox.net,f_vol_sut_af_u18z,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky U18 2026 – dievčatá,https://women.volleybox.net/women-african-championship-u18-2026-o47321,
+volleybox.net,f_vol_sut_af_u16m,Volejbal › Súťaže › Afrika (CAVB) › Majstrovstvá Afriky U16 2025 – chlapci,https://volleybox.net/men-2025-boys-african-nations-volleyball-championship-u16-2025-o44646,
+volleybox.net,f_vol_sut_ja_msm,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát 2026 – muži,https://volleybox.net/men-south-american-championship-2026-o43716,
+volleybox.net,f_vol_sut_ja_msz,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát 2026 – ženy,https://women.volleybox.net/women-south-american-championships-2026-o41480,
+volleybox.net,f_vol_sut_ja_jpm,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický pohár 2026 – muži,https://volleybox.net/men-copa-america-2026-o41096,
+volleybox.net,f_vol_sut_ja_jpz,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický pohár 2026 – ženy,https://women.volleybox.net/women-copa-america-2026-o41095,
+volleybox.net,f_vol_sut_ja_klm,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický klubový šampionát 2025/26 – muži,https://volleybox.net/men-south-american-club-championship-2025-26-o40747,
+volleybox.net,f_vol_sut_ja_klz,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický klubový šampionát 2025/26 – ženy,https://women.volleybox.net/women-south-american-club-championship-2025-26-o39520,
+volleybox.net,f_vol_sut_ja_u21m,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U21 2024 – muži,https://volleybox.net/men-south-american-championship-u21-2024-o36963,
+volleybox.net,f_vol_sut_ja_u21z,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U21 2024 – ženy,https://women.volleybox.net/women-south-american-championship-u20-2024-o36555,
+volleybox.net,f_vol_sut_ja_u19m,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U19 2026 – chlapci,https://volleybox.net/men-south-american-championship-u19-2026-o44234,
+volleybox.net,f_vol_sut_ja_u19z,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U19 2026 – dievčatá,https://women.volleybox.net/women-south-american-championship-u19-2026-o39582,
+volleybox.net,f_vol_sut_ja_u17m,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U17 2026 – chlapci,https://volleybox.net/men-south-american-championship-u17-2026-o42592,
+volleybox.net,f_vol_sut_ja_u17z,Volejbal › Súťaže › Južná Amerika (CSV) › Juhoamerický šampionát U17 2025 – dievčatá,https://women.volleybox.net/women-south-american-championship-u17-2025-o38424,
+flashscore,f_vol_klu_eu_france_m1_liga,Volejbal › Kluby › Európa (CEV) › Francúzsko › Volstar mužov › Volstar mužov,https://www.flashscore.com/volleyball/france/ligue-a/standings/,LIGA
+flashscore,f_vol_klu_eu_france_z1_liga,Volejbal › Kluby › Európa (CEV) › Francúzsko › Volstar žien › Volstar žien,https://www.flashscore.com/volleyball/france/ligue-a-women/standings/,LIGA
+flashscore,f_vol_klu_eu_russia_m1_liga,Volejbal › Kluby › Európa (CEV) › Rusko › Superliga (muži) › Superliga (muži),https://www.flashscore.com/volleyball/russia/superleague/standings/,LIGA
+flashscore,f_vol_klu_eu_russia_z1_liga,Volejbal › Kluby › Európa (CEV) › Rusko › Superliga (ženy) › Superliga (ženy),https://www.flashscore.com/volleyball/russia/superleague-women/standings/,LIGA
+flashscore,f_vol_klu_eu_serbia_m1_liga,Volejbal › Kluby › Európa (CEV) › Srbsko › Superliga (muži) › Superliga (muži),https://www.flashscore.com/volleyball/serbia/superliga/standings/,LIGA
+flashscore,f_vol_klu_eu_serbia_z1_liga,Volejbal › Kluby › Európa (CEV) › Srbsko › Superliga (ženy) › Superliga (ženy),https://www.flashscore.com/volleyball/serbia/superliga-women/standings/,LIGA
+flashscore,f_vol_klu_eu_greece_m1_liga,Volejbal › Kluby › Európa (CEV) › Grécko › Volley League (muži) › Volley League (muži),https://www.flashscore.com/volleyball/greece/volley-league/standings/,LIGA
+flashscore,f_vol_klu_eu_greece_z1_liga,Volejbal › Kluby › Európa (CEV) › Grécko › Volley League (ženy) › Volley League (ženy),https://www.flashscore.com/volleyball/greece/volley-league-women/standings/,LIGA
+flashscore,f_vol_klu_eu_spain_m1_liga,Volejbal › Kluby › Európa (CEV) › Španielsko › Superliga (muži) › Superliga (muži),https://www.flashscore.com/volleyball/spain/superliga/standings/,LIGA
+flashscore,f_vol_klu_eu_spain_z1_liga,Volejbal › Kluby › Európa (CEV) › Španielsko › Superliga (ženy) › Superliga (ženy),https://www.flashscore.com/volleyball/spain/superliga-women/standings/,LIGA
+flashscore,f_vol_klu_eu_italy_z2_liga,Volejbal › Kluby › Európa (CEV) › Taliansko › Serie A2 žien › Serie A2 žien,https://www.flashscore.com/volleyball/italy/serie-a2-women/standings/,LIGA
+flashscore,f_vol_klu_eu_france_m2_liga,Volejbal › Kluby › Európa (CEV) › Francúzsko › Volstar Masculine 2 (muži) › Volstar Masculine 2,https://www.flashscore.com/volleyball/france/ligue-b/standings/,LIGA
+flashscore,f_vol_klu_eu_russia_m2_liga,Volejbal › Kluby › Európa (CEV) › Rusko › Vysšaja liga A (muži) › Vysšaja liga A (muži),https://www.flashscore.com/volleyball/russia/vysshaya-liga/standings/,LIGA
+flashscore,f_vol_klu_eu_romania_m1_liga,Volejbal › Kluby › Európa (CEV) › Rumunsko › Divizia A1 mužov › Divizia A1 mužov,https://www.flashscore.com/volleyball/romania/divizia-a1/standings/,LIGA
+flashscore,f_vol_klu_eu_romania_z1_liga,Volejbal › Kluby › Európa (CEV) › Rumunsko › Divizia A1 žien › Divizia A1 žien,https://www.flashscore.com/volleyball/romania/divizia-a1-women/standings/,LIGA
+flashscore,f_vol_klu_eu_bulgaria_m1_liga,Volejbal › Kluby › Európa (CEV) › Bulharsko › Superliga mužov › Superliga mužov,https://www.flashscore.com/volleyball/bulgaria/superliga/standings/,LIGA
+flashscore,f_vol_klu_eu_bulgaria_z1_liga,Volejbal › Kluby › Európa (CEV) › Bulharsko › Superliga žien › Superliga žien,https://www.flashscore.com/volleyball/bulgaria/superliga-women/standings/,LIGA
+volleybox.net,f_vol_klu_eu_bulgaria_z1_k6,Volejbal › Kluby › Európa (CEV) › Bulharsko › Superliga žien › Marica 2022 Plovdiv,https://women.volleybox.net/vc-maritza-t20994,
+flashscore,f_vol_klu_eu_hungary_m1_liga,Volejbal › Kluby › Európa (CEV) › Maďarsko › Extraliga mužov › Extraliga mužov,https://www.flashscore.com/volleyball/hungary/extraliga/standings/,LIGA
+flashscore,f_vol_klu_eu_hungary_z1_liga,Volejbal › Kluby › Európa (CEV) › Maďarsko › Extraliga žien › Extraliga žien,https://www.flashscore.com/volleyball/hungary/extraliga-women/standings/,LIGA
+flashscore,f_vol_klu_eu_slovenia_m1_liga,Volejbal › Kluby › Európa (CEV) › Slovinsko › Superliga mužov › Superliga mužov,https://www.flashscore.com/volleyball/slovenia/1-dol/standings/,LIGA
+flashscore,f_vol_klu_eu_slovenia_z1_liga,Volejbal › Kluby › Európa (CEV) › Slovinsko › Superliga žien › Superliga žien,https://www.flashscore.com/volleyball/slovenia/1-dol-women/standings/,LIGA
+flashscore,f_vol_klu_eu_netherlands_m1_liga,Volejbal › Kluby › Európa (CEV) › Holandsko › Eredivisie mužov › Eredivisie mužov,https://www.flashscore.com/volleyball/netherlands/eredivisie/standings/,LIGA
+flashscore,f_vol_klu_eu_netherlands_z1_liga,Volejbal › Kluby › Európa (CEV) › Holandsko › Eredivisie žien › Eredivisie žien,https://www.flashscore.com/volleyball/netherlands/eredivisie-women/standings/,LIGA
+flashscore,f_vol_klu_eu_belgium_m1_liga,Volejbal › Kluby › Európa (CEV) › Belgicko › Liga mužov › Lotto Volley League mužov,https://www.flashscore.com/volleyball/belgium/volley-league/standings/,LIGA
+flashscore,f_vol_klu_eu_belgium_z1_liga,Volejbal › Kluby › Európa (CEV) › Belgicko › Liga žien › Lotto Volley League žien,https://www.flashscore.com/volleyball/belgium/volley-league-women/standings/,LIGA
+flashscore,f_vol_klu_eu_austria_m1_liga,Volejbal › Kluby › Európa (CEV) › Rakúsko › Austrian Volley League mužov › Austrian Volley League Men,https://www.flashscore.com/volleyball/austria/avl/standings/,LIGA
+flashscore,f_vol_klu_eu_austria_z1_liga,Volejbal › Kluby › Európa (CEV) › Rakúsko › Austrian Volley League žien › Austrian Volley League Women,https://www.flashscore.com/volleyball/austria/avl-women/standings/,LIGA
+flashscore,f_vol_klu_eu_switzerland_m1_liga,Volejbal › Kluby › Európa (CEV) › Švajčiarsko › Nationalliga A mužov › Nationalliga A (muži),https://www.flashscore.com/volleyball/switzerland/nla/standings/,LIGA
+flashscore,f_vol_klu_eu_switzerland_z1_liga,Volejbal › Kluby › Európa (CEV) › Švajčiarsko › Nationalliga A žien › Nationalliga A (ženy),https://www.flashscore.com/volleyball/switzerland/nla-women/standings/,LIGA
+flashscore,f_vol_klu_eu_israel_m1_liga,Volejbal › Kluby › Európa (CEV) › Izrael › Ligat ha'Al mužov › Ligat ha'Al (muži),https://www.flashscore.com/volleyball/israel/premier-league/standings/,LIGA
+flashscore,f_vol_klu_eu_belarus_m1_liga,Volejbal › Kluby › Európa (CEV) › Bielorusko › Vysšaja liga mužov › Vysšaja liga (muži),https://www.flashscore.com/volleyball/belarus/division-a/standings/,LIGA
+flashscore,f_vol_klu_eu_belarus_z1_liga,Volejbal › Kluby › Európa (CEV) › Bielorusko › Vysšaja liga žien › Vysšaja liga (ženy),https://www.flashscore.com/volleyball/belarus/championship-women/standings/,LIGA
+flashscore,f_vol_klu_eu_ukraine_m1_liga,Volejbal › Kluby › Európa (CEV) › Ukrajina › Superliga mužov › Superliga (muži),https://www.flashscore.com/volleyball/ukraine/superleague/standings/,LIGA
+flashscore,f_vol_klu_eu_ukraine_z1_liga,Volejbal › Kluby › Európa (CEV) › Ukrajina › Superliga žien › Superliga (ženy),https://www.flashscore.com/volleyball/ukraine/superleague-women/standings/,LIGA
+flashscore,f_vol_klu_eu_sweden_m1_liga,Volejbal › Kluby › Európa (CEV) › Švédsko › Elitserien mužov › Elitserien (muži),https://www.flashscore.com/volleyball/sweden/elitserien/standings/,LIGA
+flashscore,f_vol_klu_eu_sweden_z1_liga,Volejbal › Kluby › Európa (CEV) › Švédsko › Elitserien žien › Elitserien (ženy),https://www.flashscore.com/volleyball/sweden/elitserien-women/standings/,LIGA
+flashscore,f_vol_klu_eu_norway_m1_liga,Volejbal › Kluby › Európa (CEV) › Nórsko › Mizunoligaen mužov › Mizunoligaen (muži),https://www.flashscore.com/volleyball/norway/eliteserien/standings/,LIGA
+flashscore,f_vol_klu_eu_norway_z1_liga,Volejbal › Kluby › Európa (CEV) › Nórsko › Mizunoligaen žien › Mizunoligaen (ženy),https://www.flashscore.com/volleyball/norway/eliteserien-women/standings/,LIGA
+flashscore,f_vol_klu_eu_estonia_m1_liga,Volejbal › Kluby › Európa (CEV) › Estónsko › Meistriliiga mužov › Meistriliiga (muži),https://www.flashscore.com/volleyball/estonia/emv/standings/,LIGA
+flashscore,f_vol_klu_eu_latvia_m1_liga,Volejbal › Kluby › Európa (CEV) › Lotyšsko › Majstrovstvá Lotyšska mužov › Majstrovstvá Lotyšska (muži),https://www.flashscore.com/volleyball/latvia/nacionala-liga/standings/,LIGA
+flashscore,f_vol_klu_eu_iceland_m1_liga,Volejbal › Kluby › Európa (CEV) › Island › Unbrokendeild mužov › Unbrokendeild karla (muži),https://www.flashscore.com/volleyball/iceland/mizunodeild/standings/,LIGA
+flashscore,f_vol_klu_eu_iceland_z1_liga,Volejbal › Kluby › Európa (CEV) › Island › Unbrokendeild žien › Unbrokendeild kvenna (ženy),https://www.flashscore.com/volleyball/iceland/mizunodeild-women/standings/,LIGA
+volleybox.net,f_vol_klu_eu_northmacedonia_m1_k12,Volejbal › Kluby › Európa (CEV) › Severné Macedónsko › Prvá liga mužov › Vesna Probištip,https://volleybox.net/vesna-probistip-t8213,
+flashscore,f_vol_klu_eu_england_m1_liga,Volejbal › Kluby › Európa (CEV) › Anglicko › Super League mužov › Super League (muži),https://www.flashscore.com/volleyball/england/super-league/standings/,LIGA
+flashscore,f_vol_klu_eu_england_z1_liga,Volejbal › Kluby › Európa (CEV) › Anglicko › Super League žien › Super League (ženy),https://www.flashscore.com/volleyball/england/super-league-women/standings/,LIGA
+volleybox.net,f_vol_klu_eu_azerbaijan_m1_liga,Volejbal › Kluby › Európa (CEV) › Azerbajdžan › Yüksək Liqa mužov › Yüksək Liqa (muži),https://volleybox.net/men-azerbaijan-league-tt647,LIGA
+volleybox.net,f_vol_klu_eu_azerbaijan_z1_liga,Volejbal › Kluby › Európa (CEV) › Azerbajdžan › Yüksək Liqa žien › Yüksək Liqa (ženy),https://women.volleybox.net/women-azerbaijan-superleague-tt10,LIGA
+flashscore,f_vol_klu_eu_montenegro_m1_liga,Volejbal › Kluby › Európa (CEV) › Čierna Hora › EPCG Superliga mužov › EPCG Superliga (muži),https://www.flashscore.com/volleyball/montenegro/superliga/standings/,LIGA
+flashscore,f_vol_klu_eu_montenegro_z1_liga,Volejbal › Kluby › Európa (CEV) › Čierna Hora › EPCG Superliga žien › EPCG Superliga (ženy),https://www.flashscore.com/volleyball/montenegro/superliga-women/standings/,LIGA
+flashscore,f_vol_klu_eu_albania_m1_liga,Volejbal › Kluby › Európa (CEV) › Albánsko › Superliga mužov › Superliga (muži),https://www.flashscore.com/volleyball/albania/superliga/standings/,LIGA
+flashscore,f_vol_klu_eu_bosniaandherzegovina_m1_liga,Volejbal › Kluby › Európa (CEV) › Bosna a Hercegovina › Premijer liga mužov › Premijer liga (muži),https://www.flashscore.com/volleyball/bosnia-and-herzegovina/premijer-liga/standings/,LIGA
+flashscore,f_vol_klu_eu_cyprus_m1_liga,Volejbal › Kluby › Európa (CEV) › Cyprus › 1. liga mužov › 1. liga (muži),https://www.flashscore.com/volleyball/cyprus/opap-championship/standings/,LIGA
+flashscore,f_vol_klu_ao_japan_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Japonsko › SV.League mužov › SV.League mužov,https://www.flashscore.com/volleyball/japan/sv-league/standings/,LIGA
+flashscore,f_vol_klu_ao_japan_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Japonsko › SV.League žien › SV.League žien,https://www.flashscore.com/volleyball/japan/sv-league-women/standings/,LIGA
+flashscore,f_vol_klu_ao_south-korea_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Južná Kórea › V-League mužov › V-League mužov,https://www.flashscore.com/volleyball/south-korea/volleyball-league/standings/,LIGA
+flashscore,f_vol_klu_ao_south-korea_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Južná Kórea › V-League žien › V-League žien,https://www.flashscore.com/volleyball/south-korea/volleyball-league-women/standings/,LIGA
+volleybox.net,f_vol_klu_ao_thailand_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Thajsko › Thailand League mužov › Volleyball Thailand League,https://volleybox.net/men-thailand-league-tt594,LIGA
+volleybox.net,f_vol_klu_ao_thailand_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Thajsko › Thailand League žien › Volleyball Thailand League,https://women.volleybox.net/women-thailand-league-tt357,LIGA
+flashscore,f_vol_klu_ao_indonesia_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Indonézia › Proliga mužov › Proliga,https://www.flashscore.com/volleyball/indonesia/proliga/standings/,LIGA
+volleybox.net,f_vol_klu_ao_indonesia_m1_k2,Volejbal › Kluby › Ázia a Oceánia (AVC) › Indonézia › Proliga mužov › Jakarta Garuda Jaya,https://volleybox.net/jakarta-garuda-t2674,
+flashscore,f_vol_klu_ao_indonesia_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Indonézia › Proliga žien › Proliga,https://www.flashscore.com/volleyball/indonesia/proliga-women/standings/,LIGA
+volleybox.net,f_vol_klu_ao_indonesia_z1_k1,Volejbal › Kluby › Ázia a Oceánia (AVC) › Indonézia › Proliga žien › Bandung bjb Tandamata,https://women.volleybox.net/bandung-bjb-tandamata-t5006,
+volleybox.net,f_vol_klu_ao_vietnam_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League mužov › Volleyball Vietnam League,https://volleybox.net/men-vietnamese-league-tt649,LIGA
+volleybox.net,f_vol_klu_ao_vietnam_m1_k3,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League mužov › Đà Nẵng,https://volleybox.net/da-nang-t22336,
+volleybox.net,f_vol_klu_ao_vietnam_m1_k5,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League mužov › Ninh Bình,https://volleybox.net/lp-bank-ninh-binh-t3030,
+volleybox.net,f_vol_klu_ao_vietnam_m1_k6,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League mužov › Sanest Khánh Hòa,https://volleybox.net/sanest-khanh-hoa-t3593,
+volleybox.net,f_vol_klu_ao_vietnam_m1_k8,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League mužov › TP. Hồ Chí Minh,https://volleybox.net/tp-ho-chi-minh-t7689,
+volleybox.net,f_vol_klu_ao_vietnam_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League žien › Volleyball Vietnam League,https://women.volleybox.net/women-vietnam-league-tt528,LIGA
+volleybox.net,f_vol_klu_ao_vietnam_z1_k5,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League žien › Ngân hàng Công Thương,https://women.volleybox.net/vietinbank-t5123,
+volleybox.net,f_vol_klu_ao_vietnam_z1_k6,Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam › Volleyball Vietnam League žien › Ninh Bình,https://women.volleybox.net/lp-bank-ninh-binh-t15550,
+flashscore,f_vol_klu_ao_kazakhstan_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Kazachstan › Národná liga mužov › Národná liga,https://www.flashscore.com/volleyball/kazakhstan/national-league/standings/,LIGA
+flashscore,f_vol_klu_ao_kazakhstan_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Kazachstan › Národná liga žien › Národná liga,https://www.flashscore.com/volleyball/kazakhstan/national-league-women/standings/,LIGA
+flashscore,f_vol_klu_ao_china_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Čína › Super League mužov › Super League,https://www.flashscore.com/volleyball/china/cvl/standings/,LIGA
+flashscore,f_vol_klu_ao_china_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Čína › Super League žien › Super League,https://www.flashscore.com/volleyball/china/cvl-women/standings/,LIGA
+flashscore,f_vol_klu_ao_iran_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irán › Super League mužov › Super League,https://www.flashscore.com/volleyball/iran/super-league/standings/,LIGA
+flashscore,f_vol_klu_ao_australia_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Austrália › Super League žien › Australian Volleyball Super League,https://www.flashscore.com/volleyball/australia/avl-women/standings/,LIGA
+flashscore,f_vol_klu_ao_qatar_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Katar › Qatar Volleyball League mužov › Qatar Volleyball League,https://www.flashscore.com/volleyball/qatar/volleyball-league/standings/,LIGA
+volleybox.net,f_vol_klu_ao_qatar_m1_k9,Volejbal › Kluby › Ázia a Oceánia (AVC) › Katar › Qatar Volleyball League mužov › Police SC,https://volleybox.net/police-union-t1822,
+volleybox.net,f_vol_klu_ao_saudi-arabia_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Saudská Arábia › Super League mužov › Super League,https://volleybox.net/men-saudi-arabia-super-league-tt637,LIGA
+volleybox.net,f_vol_klu_ao_united-arab-emirates_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Spojené arabské emiráty › Emirátska liga mužov › Emirátska liga mužov,https://volleybox.net/men-uae-first-league-tt653,LIGA
+volleybox.net,f_vol_klu_ao_bahrain_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Bahrajn › Bahrajnská liga mužov › Liga Isu bin Rašída,https://volleybox.net/men-bahrain-league-tt640,LIGA
+volleybox.net,f_vol_klu_ao_kuwait_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Kuvajt › Kuvajtská liga mužov › Kuvajtská liga,https://volleybox.net/men-kuwait-league-tt239,LIGA
+volleybox.net,f_vol_klu_ao_kuwait_m1_k4,Volejbal › Kluby › Ázia a Oceánia (AVC) › Kuvajt › Kuvajtská liga mužov › Al Shabab,https://volleybox.net/alshabab-t3952,
+volleybox.net,f_vol_klu_ao_kuwait_m1_k5,Volejbal › Kluby › Ázia a Oceánia (AVC) › Kuvajt › Kuvajtská liga mužov › Al Sulaibikhat,https://volleybox.net/sulaibikhat-club-t38973,
+volleybox.net,f_vol_klu_ao_oman_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Omán › Ománska liga mužov › Liga prvej divízie,https://volleybox.net/men-omani-league-division-1-tt540,LIGA
+volleybox.net,f_vol_klu_ao_iraq_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Iracká liga,https://volleybox.net/men-iraq-league-tt1083,LIGA
+volleybox.net,f_vol_klu_ao_iraq_m1_k3,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Al Habbaniyah,https://volleybox.net/al-habbaniyah-t12641,
+volleybox.net,f_vol_klu_ao_iraq_m1_k4,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Al Kufa,https://volleybox.net/al-kufa-t12637,
+volleybox.net,f_vol_klu_ao_iraq_m1_k5,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Al Miqdadiya,https://volleybox.net/al-miqdadiya-sc-t44070,
+volleybox.net,f_vol_klu_ao_iraq_m1_k7,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Al Sinaah,https://volleybox.net/al-sinaah-t10586,
+volleybox.net,f_vol_klu_ao_iraq_m1_k8,Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak › Iracká liga mužov › Erbil,https://volleybox.net/erbil-sc-t10589,
+volleybox.net,f_vol_klu_ao_jordan_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Jordánsko › Jordánska liga mužov › Jordánska liga,https://volleybox.net/men-jordan-league-tt5547,LIGA
+volleybox.net,f_vol_klu_ao_jordan_m1_k6,Volejbal › Kluby › Ázia a Oceánia (AVC) › Jordánsko › Jordánska liga mužov › Shabab Al Awda,https://volleybox.net/al-awdeh-t18515,
+flashscore,f_vol_klu_ao_lebanon_m1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Libanon › Libanonská 1. divízia mužov › Libanonská 1. divízia,https://www.flashscore.com/volleyball/lebanon/1st-division/standings/,LIGA
+volleybox.net,f_vol_klu_ao_nepal_z1_liga,Volejbal › Kluby › Ázia a Oceánia (AVC) › Nepál › Everest Women's Volleyball League (ženy) › Everest Women's Volleyball League,https://women.volleybox.net/women-everest-womens-volleyball-league-tt5259,LIGA
+volleybox.net,f_vol_klu_ao_nepal_z1_k6,Volejbal › Kluby › Ázia a Oceánia (AVC) › Nepál › Everest Women's Volleyball League (ženy) › Pokhara Ninjas,https://women.volleybox.net/pokhara-ninjas-t44678,
+volleybox.net,f_vol_klu_af_egypt_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga mužov › Egyptská liga mužov,https://volleybox.net/men-egyptian-league-tt427,LIGA
+volleybox.net,f_vol_klu_af_egypt_m1_k5,Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga mužov › Al-Shorta,https://volleybox.net/ittihad-el-shorta-t8083,
+volleybox.net,f_vol_klu_af_egypt_m1_k12,Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga mužov › Gezira,https://volleybox.net/gezira-sporting-club-t6776,
+volleybox.net,f_vol_klu_af_egypt_z1_liga,Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga žien › Egyptská liga žien,https://women.volleybox.net/women-egyptian-league-tt2284,LIGA
+volleybox.net,f_vol_klu_af_egypt_z1_k8,Volejbal › Kluby › Afrika (CAVB) › Egypt › Egyptská liga žien › Gezira,https://women.volleybox.net/gezira-sporting-club-t18512,
+volleybox.net,f_vol_klu_af_uganda_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › Ugandská liga mužov,https://volleybox.net/men-uganda-volleyball-national-league-tt3704,LIGA
+volleybox.net,f_vol_klu_af_uganda_m1_k1,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › Elyon,https://volleybox.net/elyon-volleyball-club-t37686,
+volleybox.net,f_vol_klu_af_uganda_m1_k2,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › Kampala University,https://volleybox.net/kampala-university-t50919,
+volleybox.net,f_vol_klu_af_uganda_m1_k4,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › KCCA,https://volleybox.net/kampala-capital-city-authority-t38736,
+volleybox.net,f_vol_klu_af_uganda_m1_k7,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › Sky,https://volleybox.net/sky-volleyball-club-t20715,
+volleybox.net,f_vol_klu_af_uganda_m1_k9,Volejbal › Kluby › Afrika (CAVB) › Uganda › Ugandská liga mužov › Tigers,https://volleybox.net/tigers-t50913,
+volleybox.net,f_vol_klu_af_rwanda_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Rwanda › Rwandská liga mužov › Rwandská liga mužov,https://volleybox.net/men-rwanda-national-league-serie-a-tt5451,LIGA
+volleybox.net,f_vol_klu_af_rwanda_m1_k2,Volejbal › Kluby › Afrika (CAVB) › Rwanda › Rwandská liga mužov › EAUR,https://volleybox.net/east-african-university-t38240,
+volleybox.net,f_vol_klu_af_rwanda_m1_k5,Volejbal › Kluby › Afrika (CAVB) › Rwanda › Rwandská liga mužov › Kigali VC,https://volleybox.net/kigali-vc-t11041,
+volleybox.net,f_vol_klu_af_rwanda_m1_k9,Volejbal › Kluby › Afrika (CAVB) › Rwanda › Rwandská liga mužov › RP Ngoma,https://volleybox.net/polytechni-ngoma-t38241,
+volleybox.net,f_vol_klu_af_tunisia_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Tunisko › Tuniská liga mužov › Tuniská liga mužov,https://volleybox.net/men-tunisian-league-tt244,LIGA
+volleybox.net,f_vol_klu_af_tunisia_m1_k2,Volejbal › Kluby › Afrika (CAVB) › Tunisko › Tuniská liga mužov › ASPTT Sfax,https://volleybox.net/asptt-sfax-t12912,
+volleybox.net,f_vol_klu_af_tunisia_z1_liga,Volejbal › Kluby › Afrika (CAVB) › Tunisko › Tuniská liga žien › Tuniská liga žien,https://women.volleybox.net/women-tunisian-league-tt1104,LIGA
+volleybox.net,f_vol_klu_af_algeria_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › Alžírska liga mužov,https://volleybox.net/men-algerian-league-tt933,LIGA
+volleybox.net,f_vol_klu_af_algeria_m1_k4,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › EF Aïn Azel,https://volleybox.net/fanar-ain-azel-t7586,
+volleybox.net,f_vol_klu_af_algeria_m1_k5,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › ES Bethioua,https://volleybox.net/es-bethioua-t10878,
+volleybox.net,f_vol_klu_af_algeria_m1_k7,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › ES Sétif,https://volleybox.net/es-setif-t5530,
+volleybox.net,f_vol_klu_af_algeria_m1_k11,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › MC Alger,https://volleybox.net/mc-alger-t5532,
+volleybox.net,f_vol_klu_af_algeria_m1_k15,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga mužov › OMK El Milia,https://volleybox.net/omk-el-milia-t6517,
+volleybox.net,f_vol_klu_af_algeria_z1_liga,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga žien › Alžírska liga žien,https://women.volleybox.net/women-algerian-league-tt999,LIGA
+volleybox.net,f_vol_klu_af_algeria_z1_k5,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga žien › MC Alger,https://women.volleybox.net/mc-alger-t2391,
+volleybox.net,f_vol_klu_af_algeria_z1_k7,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga žien › NR Chlef,https://women.volleybox.net/nr-chlef-t8419,
+volleybox.net,f_vol_klu_af_algeria_z1_k10,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga žien › Seddouk VB,https://women.volleybox.net/seddouk-vb-t8423,
+volleybox.net,f_vol_klu_af_algeria_z1_k11,Volejbal › Kluby › Afrika (CAVB) › Alžírsko › Alžírska liga žien › US Ben Aknoun,https://women.volleybox.net/us-ben-aknoun-t11889,
+volleybox.net,f_vol_klu_af_morocco_m1_k4,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga mužov › CZVB Zenata,https://volleybox.net/czvb-t19534,
+volleybox.net,f_vol_klu_af_morocco_m1_k6,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga mužov › FUS Rabat,https://volleybox.net/fus-rabat-t6162,
+volleybox.net,f_vol_klu_af_morocco_z1_k2,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › Aman Marrakech,https://women.volleybox.net/aman-marrakech-t29882,
+volleybox.net,f_vol_klu_af_morocco_z1_k4,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › CODER Errachidia,https://women.volleybox.net/coder-t36840,
+volleybox.net,f_vol_klu_af_morocco_z1_k6,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › FUS Rabat,https://women.volleybox.net/fus-rabat-t30159,
+volleybox.net,f_vol_klu_af_morocco_z1_k8,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › IZ Khémisset,https://women.volleybox.net/iz-khoumisset-t48720,
+volleybox.net,f_vol_klu_af_morocco_z1_k11,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › Nour Marrakech,https://women.volleybox.net/anm-t39537,
+volleybox.net,f_vol_klu_af_morocco_z1_k12,Volejbal › Kluby › Afrika (CAVB) › Maroko › Marocká liga žien › OC Safi,https://women.volleybox.net/ocs-t35818,
+volleybox.net,f_vol_klu_af_cape-verde_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Kapverdy › Kapverdský šampionát mužov › Kapverdský šampionát,https://volleybox.net/men-campeonato-nacional-tt987,LIGA
+volleybox.net,f_vol_klu_af_namibia_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Namíbia › Namíbijská liga mužov › MTC Volleyball National League,https://volleybox.net/men-mtc-volleyball-national-league-tt7947,LIGA
+volleybox.net,f_vol_klu_af_benin_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Benin › Beninská liga mužov › Beninská liga mužov,https://volleybox.net/men-championnat-professionnel-de-benin-tt8108,LIGA
+volleybox.net,f_vol_klu_af_libya_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Líbyjská liga mužov,https://volleybox.net/men-libyan-league-tt319,LIGA
+volleybox.net,f_vol_klu_af_libya_m1_k4,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Al-Bashair,https://volleybox.net/al-bashair-t46555,
+volleybox.net,f_vol_klu_af_libya_m1_k6,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Al-Huda,https://volleybox.net/alhuda-sports-club-t5440,
+volleybox.net,f_vol_klu_af_libya_m1_k8,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Al-Ittihad Tripoli,https://volleybox.net/al-ittihad-tripoli-sports-club-t2699,
+volleybox.net,f_vol_klu_af_libya_m1_k9,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Al-Jazeera Zuwara,https://volleybox.net/aljazeera-sports-club-t4996,
+volleybox.net,f_vol_klu_af_libya_m1_k13,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Al-Tahaddi,https://volleybox.net/al-tahdi-club-t46554,
+volleybox.net,f_vol_klu_af_libya_m1_k14,Volejbal › Kluby › Afrika (CAVB) › Líbya › Líbyjská liga mužov › Asarya,https://volleybox.net/asarya-university-club-t4999,
+volleybox.net,f_vol_klu_af_tanzania_m1_liga,Volejbal › Kluby › Afrika (CAVB) › Tanzánia › Tanzánijská liga mužov › Tanzania Volleyball National League,https://volleybox.net/men-tanzania-volleyball-national-league-tt7467,LIGA
+volleybox.net,f_vol_klu_af_tanzania_m1_k6,Volejbal › Kluby › Afrika (CAVB) › Tanzánia › Tanzánijská liga mužov › KIUT,https://volleybox.net/kuit-t49263,
+flashscore,f_vol_klu_ja_argentina_m1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Argentína › Superliga mužov › Superliga mužov,https://www.flashscore.com/volleyball/argentina/lva/standings/,LIGA
+flashscore,f_vol_klu_ja_argentina_z1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Argentína › Liga Argentina žien › Liga Argentina žien,https://www.flashscore.com/volleyball/argentina/liga-women/standings/,LIGA
+flashscore,f_vol_klu_ja_peru_m1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Peru › Liga Nacional Superior mužov › Liga Nacional Superior mužov,https://www.flashscore.com/volleyball/peru/lnsv/standings/,LIGA
+volleybox.net,f_vol_klu_ja_peru_m1_k1,Volejbal › Kluby › Južná Amerika (CSV) › Peru › Liga Nacional Superior mužov › DC Asociados,https://volleybox.net/dc-asociados-de-tacna-t6741,
+volleybox.net,f_vol_klu_ja_peru_m1_k3,Volejbal › Kluby › Južná Amerika (CSV) › Peru › Liga Nacional Superior mužov › Junior César de los Ríos,https://volleybox.net/junior-callao-t6742,
+flashscore,f_vol_klu_ja_peru_z1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Peru › Liga Peruana de Vóley žien › Liga Peruana de Vóley žien,https://www.flashscore.com/volleyball/peru/lnsv-women/standings/,LIGA
+volleybox.net,f_vol_klu_ja_chile_m1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Chile › Liga A1 mužov › Liga A1 mužov,https://volleybox.net/men-chilean-league-a1-tt648,LIGA
+volleybox.net,f_vol_klu_ja_bolivia_m1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Bolívia › Liga Superior mužov › Liga Superior mužov,https://volleybox.net/men-liga-boliviana-de-voleibol-masculino-tt5699,LIGA
+volleybox.net,f_vol_klu_na_puerto-rico_m1_liga,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Portoriko › Liga de Voleibol Superior mužov › Liga de Voleibol Superior Masculino,https://volleybox.net/men-puerto-rican-league-tt501,LIGA
+volleybox.net,f_vol_klu_na_puerto-rico_z1_liga,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Portoriko › Liga de Voleibol Superior žien › Liga de Voleibol Superior Femenino,https://women.volleybox.net/women-puerto-rican-league-tt318,LIGA
+volleybox.net,f_vol_klu_na_costa-rica_m1_liga,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Kostarika › Primera División mužov › Primera División mužov,https://volleybox.net/men-primera-division-de-costa-rica-tt4615,LIGA
+volleybox.net,f_vol_klu_na_costa-rica_z1_liga,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Kostarika › Primera División žien › Primera División žien,https://women.volleybox.net/women-costa-rica-primera-division-tt5501,LIGA
+volleybox.net,f_vol_klu_na_costa-rica_z1_k10,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Kostarika › Primera División žien › Universidad Nacional (UNA),https://women.volleybox.net/una-vb-t35360,
+volleybox.net,f_vol_klu_na_nicaragua_z1_liga,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Nikaragua › Primera División žien › Primera División žien,https://women.volleybox.net/women-nicaragua-primera-division-tt5493,LIGA
+volleybox.net,f_vol_klu_na_nicaragua_z1_k3,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Nikaragua › Primera División žien › Frente Sur Rivas,https://women.volleybox.net/frente-sur-rivas-t35328,
+volleybox.net,f_vol_klu_na_nicaragua_z1_k9,Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Nikaragua › Primera División žien › Tigresas de Chinandega,https://women.volleybox.net/tigresas-de-chinandega-t35331,
+volleybox.net,f_vol_klu_ja_chile_z1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Chile › Liga A1 žien › Liga A1 žien,https://women.volleybox.net/women-chilean-league-a1-tt989,LIGA
+volleybox.net,f_vol_klu_ja_bolivia_z1_liga,Volejbal › Kluby › Južná Amerika (CSV) › Bolívia › Liga Superior žien › Liga Superior žien,https://women.volleybox.net/women-bolivian-league-tt5452,LIGA
+volleybox.net,f_vol_klu_ja_bolivia_z1_k5,Volejbal › Kluby › Južná Amerika (CSV) › Bolívia › Liga Superior žien › San Simón,https://women.volleybox.net/universidad-mayor-de-san-simon-t6053,
+volleybox.net,f_vol_klu_ja_bolivia_z1_k6,Volejbal › Kluby › Južná Amerika (CSV) › Bolívia › Liga Superior žien › Universitario,https://women.volleybox.net/club-universitario-t52705,
+volleybox.net,f_vol_sta_k5,Volejbal › Správy a Štatistiky › Volleybox,https://volleybox.net/,
+volleybox.net,f_vol_sta_k6,Volejbal › Správy a Štatistiky › Volleybox – ženy,https://women.volleybox.net/,
+flashscore,f_bas_dom_l1_liga,Basketbal › Kluby › Severná a Stredná Amerika › Dominikánska republika › LNB › Liga Nacional de Baloncesto (LNB),https://www.flashscore.com/basketball/dominican-republic/lnb/standings/,LIGA
+flashscore,f_bas_pri_l1_liga,Basketbal › Kluby › Severná a Stredná Amerika › Portoriko › BSN › Baloncesto Superior Nacional (BSN),https://www.flashscore.com/basketball/puerto-rico/bsn/standings/,LIGA
+flashscore,f_bas_bra_l2_liga,Basketbal › Kluby › Južná Amerika › Brazília › LBF (ženy) › Liga de Basquete Feminino (LBF),https://www.flashscore.com/basketball/brazil/lbf-women/standings/,LIGA
+flashscore,f_bas_bol_l1_liga,Basketbal › Kluby › Južná Amerika › Bolívia › Libobasquet › Liga Boliviana de Básquetbol (Libobasquet),https://www.flashscore.com/basketball/bolivia/libobasquet/standings/,LIGA
+flashscore,f_bas_ven_l1_liga,Basketbal › Kluby › Južná Amerika › Venezuela › SuperLiga › Superliga Profesional de Baloncesto (SPB),https://www.flashscore.com/basketball/venezuela/superliga/standings/,LIGA
+flashscore,f_bas_uru_l1_liga,Basketbal › Kluby › Južná Amerika › Uruguaj › Liga Uruguaya › Liga Uruguaya de Básquetbol (LUB),https://www.flashscore.com/basketball/uruguay/liga-uruguaya/standings/,LIGA
+sofascore.com,f_bas_lby_l1_liga,Basketbal › Kluby › Afrika › Líbya › Division I › Libyan Division I,https://www.sofascore.com/basketball/tournament/libya/libyan-basketball-league/24175,LIGA
+flashscore,f_bas_chn_l2_liga,Basketbal › Kluby › Ázia › Čína › WCBA (ženy) › Women's Chinese Basketball Association (WCBA),https://www.flashscore.com/basketball/china/wcba-women/standings/,LIGA
+flashscore,f_bas_jpn_l2_liga,Basketbal › Kluby › Ázia › Japonsko › W League (ženy) › W League,https://www.flashscore.com/basketball/japan/w-league-women/standings/,LIGA
+flashscore,f_bas_kor_l2_liga,Basketbal › Kluby › Ázia › Južná Kórea › WKBL (ženy) › Women's Korean Basketball League (WKBL),https://www.flashscore.com/basketball/south-korea/wkbl-women/standings/,LIGA
+flashscore,f_bas_tpe_l1_liga,Basketbal › Kluby › Ázia › Taiwan › TPBL › Taiwan Professional Basketball League (TPBL),https://www.flashscore.com/basketball/taiwan/tpbl/standings/,LIGA
+flashscore,f_bas_tpe_l2_liga,Basketbal › Kluby › Ázia › Taiwan › WSBL (ženy) › Women's Super Basketball League (WSBL),https://www.flashscore.com/basketball/taiwan/wsbl-women/standings/,LIGA
+flashscore,f_bas_hkg_l1_liga,Basketbal › Kluby › Ázia › Hongkong › A1 Division › Hong Kong A1 Division,https://www.flashscore.com/basketball/hong-kong/a1/standings/,LIGA
+flashscore,f_bas_jor_l1_liga,Basketbal › Kluby › Ázia › Jordánsko › Premier League › Jordanian Premier Basketball League,https://www.flashscore.com/basketball/jordan/premier-league/standings/,LIGA
+flashscore,f_bas_irn_l1_liga,Basketbal › Kluby › Ázia › Irán › Super League › Iranian Basketball Super League,https://www.flashscore.com/basketball/iran/super-league/standings/,LIGA
+flashscore,f_bas_qat_l1_liga,Basketbal › Kluby › Ázia › Katar › QBL › Qatari Basketball League,https://www.flashscore.com/basketball/qatar/qbl/standings/,LIGA
+flashscore,f_bas_kaz_l1_liga,Basketbal › Kluby › Ázia › Kazachstan › National League › Kazakhstan National League,https://www.flashscore.com/basketball/kazakhstan/national-league/standings/,LIGA
+flashscore,f_bas_lbn_l1_liga,Basketbal › Kluby › Ázia › Libanon › LBL › Lebanese Basketball League,https://www.flashscore.com/basketball/lebanon/division-1/standings/,LIGA
+flashscore,f_bas_sgp_l1_liga,Basketbal › Kluby › Ázia › Singapur › NBL › National Basketball League (Singapore),https://www.flashscore.com/basketball/singapore/nbl/standings/,LIGA
+sofascore.com,f_asm_l1_k12,Futbal › Kluby › Oceánia › Americká Samoa › FFAS Senior League › Tupulaga Fagasa,https://www.sofascore.com/team/football/tupulaga-fagasa/556616,
+sofascore.com,f_png_l1_k13,Futbal › Kluby › Oceánia › Papua-Nová Guinea › Premier Soccer League › Kula FC,https://www.sofascore.com/football/team/kula-fc/1099184,
+sofascore.com,f_ton_l1_k9,Futbal › Kluby › Oceánia › Tonga › Major League › Longoteme FC,https://www.sofascore.com/football/team/longoteme-fc/931718,
+sofascore.com,f_ton_l1_k10,Futbal › Kluby › Oceánia › Tonga › Major League › Ha'amoko United,https://www.sofascore.com/football/team/haamoko-united/931708,
+soccerway.com,f_eth_l1_k21,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Gamo Chencha FC,https://www.soccerway.com/team/gamo-chencha-fc/6HukNonn/,
+soccerway.com,f_eth_l1_k22,Futbal › Kluby › Afrika › Etiópia › Ethiopian Premier League › Halaba Ketema FC,https://www.soccerway.com/team/halaba-ketema-fc/zBn5J3oB/,
+sofascore.com,f_com_l1_liga,Futbal › Kluby › Afrika › Komory › D1 Ngazidja › D1 Ngazidja,https://www.sofascore.com/tournament/football/comoros/comoros-premier-league/21979,LIGA
+soccerway.com,f_swz_l1_k19,Futbal › Kluby › Afrika › Eswatini › Premier League of Eswatini › PPK Professionals,https://www.soccerway.com/team/ppk-professionals/xtOXeZl5/,
+sofascore.com,f_cod_l1_k33,Futbal › Kluby › Afrika › Kongo (DR) › Ligue 1 (Linafoot) › AS Butras,https://www.sofascore.com/team/football/as-brutas/1236092,
+sofascore.com,f_lso_l1_k18,Futbal › Kluby › Afrika › Lesotho › Premier League › Mzamane FC,https://www.sofascore.com/team/football/mzamane-fc/1093101,
+soccerway.com,f_ner_l1_k15,Futbal › Kluby › Afrika › Niger › Super Ligue › Ni'ima FC,https://www.soccerway.com/team/niima/jNYHsds1/,
+soccerway.com,f_ner_l1_k16,Futbal › Kluby › Afrika › Niger › Super Ligue › Wombéye,https://www.soccerway.com/team/wombeye/E9D0cZwq/,
+sofascore.com,f_lby_l1_k39,Futbal › Kluby › Afrika › Líbya › Libyan Premier League › Al-Bashaer,https://www.sofascore.com/team/football/al-bashayer-misrata/404506,
+sofascore.com,f_lby_l1_k40,Futbal › Kluby › Afrika › Líbya › Libyan Premier League › Al-Butnan,https://www.sofascore.com/team/football/al-butnan-fc/475155,
+sofascore.com,f_cmr_l2_k18,Futbal › Kluby › Afrika › Kamerun › Elite Two › Mintack FC,https://www.sofascore.com/team/football/mintack-fc/1246657,
+sofascore.com,f_egy_l2_k20,Futbal › Kluby › Afrika › Egypt › Egyptian Second Division A › Al Nasr Cairo,https://www.sofascore.com/team/football/al-nasr-cairo/150894,
+sofascore.com,f_egy_l2_k21,Futbal › Kluby › Afrika › Egypt › Egyptian Second Division A › Team FC Cairo,https://www.sofascore.com/team/football/team-fc-cairo/503227,
+soccerway.com,f_bdi_l1_k18,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Never Give Up Academy,https://www.soccerway.com/team/never-give-up-academy/WvJ2uEYA/,
+soccerway.com,f_bdi_l1_k19,Futbal › Kluby › Afrika › Burundi › Primus League (Ligue A) › Young Star,https://www.soccerway.com/team/young-star/xhl3wh3N/,
+sofascore.com,f_mrt_l1_k16,Futbal › Kluby › Afrika › Mauritánia › Ligue 1 › FC Arc-en-Ciel,https://www.sofascore.com/team/football/arc-en-ciel/381014,
+sofascore.com,f_tca_l1_k7,Futbal › Kluby › Severná a Stredná Amerika › Turks a Caicos › Provo Premier League › Flamingo FC,https://www.sofascore.com/team/football/flamingo-fc/497454,
+sofascore.com,f_guy_l1_k10,Futbal › Kluby › Severná a Stredná Amerika › Guyana › GFF Elite League › Camptown FC,https://www.sofascore.com/team/football/camptown-fc/1241759,
+sofascore.com,f_stp_l1_liga,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo São Tomé › Campeonato Nacional,https://www.sofascore.com/tournament/football/sao-tome-and-principe/campeonato-nacional/18272,LIGA
+sofascore.com,f_stp_l2_liga,Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov › Campeonato Nacional — Grupo Príncipe › Campeonato Nacional,https://www.sofascore.com/tournament/football/sao-tome-and-principe/campeonato-nacional/18272,LIGA
+sofascore.com,f_ssd_l1_liga,Futbal › Kluby › Afrika › Južný Sudán › South Sudan Premier League › South Sudan Premier League,https://www.sofascore.com/tournament/football/south-sudan/premier-league/24561,LIGA
+sofascore.com,f_ssd_l1_k12,Futbal › Kluby › Afrika › Južný Sudán › South Sudan Premier League › Salam FC Aweil,https://www.sofascore.com/team/football/salam-aweil/1048169,
+sofascore.com,f_ssd_l1_k14,Futbal › Kluby › Afrika › Južný Sudán › South Sudan Premier League › Wajuma SC,https://www.sofascore.com/team/football/wajuma-fc/1048166,
+sofascore.com,f_bhr_l1_k15,Futbal › Kluby › Ázia › Bahrajn › Nasser bin Hamad Premier League › Al-Ittifaq,https://www.sofascore.com/football/team/al-ittifaq/213603,
+soccerway.com,f_lbn_l1_k13,Futbal › Kluby › Ázia › Libanon › Lebanese Premier League › AC Tripoli,https://www.soccerway.com/team/tripoli-sc/jsJjqsu8/,
+soccerway.com,f_syr_l1_k13,Futbal › Kluby › Ázia › Sýria › Syrian Premier League › Damascus Al Ahli,https://www.soccerway.com/team/damascus-al-ahli/xUq2CwJk/,
+soccerway.com,f_syr_l1_k16,Futbal › Kluby › Ázia › Sýria › Syrian Premier League › Qamishli,https://www.soccerway.com/team/qamishli/GWvGjEPF/,
+sofascore.com,f_npl_l1_liga,Futbal › Kluby › Ázia › Nepál › ANFA National League › ANFA National League,https://www.sofascore.com/tournament/football/nepal/nepal-national-league/32049,LIGA
+sofascore.com,f_npl_l1_k10,Futbal › Kluby › Ázia › Nepál › ANFA National League › Nawa Jana Jagriti Yuwa Club,https://www.sofascore.com/team/football/nawa-jana-jagriti-yuwa-club/1165674,
+sofascore.com,f_afg_l1_liga,Futbal › Kluby › Ázia › Afganistan › Afghanistan Champions League › Afghanistan Champions League,https://www.sofascore.com/tournament/football/afghanistan/afghanistan-champions-league/24194,LIGA
+sofascore.com,f_afg_l1_k2,Futbal › Kluby › Ázia › Afganistan › Afghanistan Champions League › Aino Mina FC,https://www.sofascore.com/team/football/aino-fc/939368,
+sofascore.com,f_afg_l1_k3,Futbal › Kluby › Ázia › Afganistan › Afghanistan Champions League › Ariana Khost FC,https://www.sofascore.com/team/football/ariana/1276002,
+sofascore.com,f_mac_l1_k10,Futbal › Kluby › Ázia › Macao › Liga de Elite › Universidade de Macau,https://www.sofascore.com/team/football/universidade-de-macau/506264,
+sofascore.com,f_mnp_l1_k2,Futbal › Kluby › Ázia › Severné Mariány › Marianas Soccer League › Latte FC,https://www.sofascore.com/team/football/latte-fc/1211153,
+sofascore.com,f_mnp_l1_k3,Futbal › Kluby › Ázia › Severné Mariány › Marianas Soccer League › Matansa FC,https://www.sofascore.com/team/football/matansa-fc/929538,
+sofascore.com,f_tkm_l1_k1,Futbal › Kluby › Ázia › Turkménsko › Ýokary Liga › Ahal FK,https://www.sofascore.com/team/football/ahal-fk/186777,
+sofascore.com,f_tkm_l1_k2,Futbal › Kluby › Ázia › Turkménsko › Ýokary Liga › Altyn Asyr FK,https://www.sofascore.com/team/football/altyn-asyr-fk/164020,
+sofascore.com,f_tkm_l1_k5,Futbal › Kluby › Ázia › Turkménsko › Ýokary Liga › Köpetdag Aşgabat,https://www.sofascore.com/team/football/fk-kopetdag-asgabat/345696,
+sofascore.com,f_tkm_l1_k7,Futbal › Kluby › Ázia › Turkménsko › Ýokary Liga › Nebitçi FT,https://www.sofascore.com/team/football/nebitci-ft/165986,
+sofascore.com,f_tkm_l1_k8,Futbal › Kluby › Ázia › Turkménsko › Ýokary Liga › Şagadam FK,https://www.sofascore.com/team/football/sagadam-fk/345700,
+eliteprospects.com,f_hok_klu_eu_bgr_l1_k6,Hokej › Kluby › Európa › Bulharsko › Bulharská hokejová liga › Balkan Botevgrad,https://www.eliteprospects.com/team/50731/balkan-botevgrad,
+eliteprospects.com,f_hok_klu_eu_bgr_l1_k7,Hokej › Kluby › Európa › Bulharsko › Bulharská hokejová liga › Dinamo Sofia,https://www.eliteprospects.com/team/6713/dinamo-sofia,
+flashscore,f_bas_fra_l1_liga,Basketbal › Kluby › Európa › Francúzsko › Betclic ÉLITE › LNB Élite — tabuľka,https://www.flashscore.com/basketball/france/lnb/standings/,LIGA
+flashscore,f_bas_fra_l2_liga,Basketbal › Kluby › Európa › Francúzsko › Élite 2 › Élite 2 — tabuľka,https://www.flashscore.com/basketball/france/elite-2/standings/,LIGA
+flashscore,f_bas_klu_eu_alb_liga,Basketbal › Kluby › Európa › Albánsko › Superliga,https://www.flashscore.com/basketball/albania/superliga/standings/,LIGA
+eurobasket.com,f_bas_klu_eu_arm_liga,Basketbal › Kluby › Európa › Arménsko › League A,https://basketball.eurobasket.com/Armenia/basketball-LeagueA-Standings.aspx,LIGA
+eurobasket.com,f_bas_klu_eu_aze_liga,Basketbal › Kluby › Európa › Azerbajdžán › Azerbaijan Basketball League,https://basketball.eurobasket.com/Azerbaijan/Azerbaijan-Basketball-League-Standings.aspx,LIGA
+flashscore,f_bas_klu_eu_blr_liga,Basketbal › Kluby › Európa › Bielorusko › Premier League,https://www.flashscore.com/basketball/belarus/premier-league/standings/,LIGA
+flashscore,f_bas_klu_eu_bih_liga,Basketbal › Kluby › Európa › Bosna a Hercegovina › Prvenstvo BiH,https://www.flashscore.com/basketball/bosnia-and-herzegovina/prvenstvo-bih/standings/,LIGA
+flashscore,f_bas_klu_eu_bul_liga,Basketbal › Kluby › Európa › Bulharsko › NBL,https://www.flashscore.com/basketball/bulgaria/nbl/standings/,LIGA
+flashscore,f_bas_bel_l3_liga,Basketbal › Kluby › Európa › Belgicko › Top Division Women (ženy) › Top Division Women 1,https://www.flashscore.com/basketball/belgium/top-division-women/standings/,LIGA
+flashscore,f_bas_klu_eu_cyp_liga,Basketbal › Kluby › Európa › Cyprus › Division A,https://www.flashscore.com/basketball/cyprus/division-a/standings/,LIGA
+flashscore,f_bas_klu_eu_mne_liga,Basketbal › Kluby › Európa › Čierna Hora › Prva A liga,https://www.flashscore.com/basketball/montenegro/prva-a-liga/standings/,LIGA
+flashscore,f_bas_den_l3_liga,Basketbal › Kluby › Európa › Dánsko › Kvindebasketligaen (ženy) › Kvindebasketligaen,https://www.flashscore.com/basketball/denmark/kvindebasketligaen-women/standings/,LIGA
+flashscore,f_bas_gre_l1_liga,Basketbal › Kluby › Európa › Grécko › Α1 Ανδρών › Stoiximan GBL — tabuľka,https://www.flashscore.com/basketball/greece/basket-league/standings/,LIGA
+flashscore,f_bas_gre_l3_liga,Basketbal › Kluby › Európa › Grécko › Α1 Γυναικών (ženy) › Women's Basketball League 1 — tabuľka,https://www.flashscore.com/basketball/greece/wbl1-women/standings/,LIGA
+flashscore,f_bas_klu_eu_geo_liga,Basketbal › Kluby › Európa › Gruzínsko › Superliga,https://www.flashscore.com/basketball/georgia/superleague/standings/,LIGA
+flashscore,f_bas_ned_l3_liga,Basketbal › Kluby › Európa › Holandsko › WBL (ženy) › WBL (ženy),https://www.flashscore.com/basketball/netherlands/wbl-women/standings/,LIGA
+flashscore,f_bas_klu_eu_cro_liga,Basketbal › Kluby › Európa › Chorvátsko › Premijer liga,https://www.flashscore.com/basketball/croatia/premijer-liga/standings/,LIGA
+flashscore,f_bas_klu_eu_isr_liga,Basketbal › Kluby › Európa › Izrael › Ligat Winner,https://www.flashscore.com/basketball/israel/super-league/standings/,LIGA
+flashscore,f_bas_klu_eu_kos_liga,Basketbal › Kluby › Európa › Kosovo › Superliga,https://www.flashscore.com/basketball/kosovo/superliga/standings/,LIGA
+flashscore,f_bas_klu_eu_irl_liga,Basketbal › Kluby › Európa › Írsko › Men's Super League,https://www.flashscore.com/basketball/ireland/superleague/standings/,LIGA
+flashscore,f_bas_isl_l1_liga,Basketbal › Kluby › Európa › Island › Úrvalsdeild › Úrvalsdeild karla,https://www.flashscore.com/basketball/iceland/premier-league/standings/,LIGA
+flashscore,f_bas_isl_l3_liga,Basketbal › Kluby › Európa › Island › Úrvalsdeild kvenna (ženy) › Úrvalsdeild kvenna,https://www.flashscore.com/basketball/iceland/premier-league-women/standings/,LIGA
+flashscore,f_bas_ltu_l3_liga,Basketbal › Kluby › Európa › Litva › LMKL (ženy) › Moterų lyga,https://www.flashscore.com/basketball/lithuania/moteru-lyga-women/standings/,LIGA
+flashscore,f_bas_klu_eu_lux_liga,Basketbal › Kluby › Európa › Luxembursko › Luxemburská liga mužov,https://www.flashscore.com/basketball/luxembourg/lbbl/standings/,LIGA
+flashscore,f_bas_klu_eu_nor_liga,Basketbal › Kluby › Európa › Nórsko › BLNO,https://www.flashscore.com/basketball/norway/blno/standings/,LIGA
+flashscore,f_bas_klu_eu_por_liga,Basketbal › Kluby › Európa › Portugalsko › Liga Portuguesa de Basquetebol,https://www.flashscore.com/basketball/portugal/lpb/standings/,LIGA
+flashscore,f_bas_aut_l1_liga,Basketbal › Kluby › Európa › Rakúsko › Basketball Superliga › Basketball Superliga,https://www.flashscore.com/basketball/austria/superliga/standings/,LIGA
+flashscore,f_bas_aut_l3_liga,Basketbal › Kluby › Európa › Rakúsko › Damen Superliga (ženy) › Damen Superliga,https://www.flashscore.com/basketball/austria/superliga-women/standings/,LIGA
+flashscore,f_bas_rou_l1_liga,Basketbal › Kluby › Európa › Rumunsko › Liga Națională › Liga Națională de Baschet Masculin,https://www.flashscore.com/basketball/romania/divizia-a/standings/,LIGA
+flashscore,f_bas_rou_l3_liga,Basketbal › Kluby › Európa › Rumunsko › Liga Națională (ženy) › Liga Națională de Baschet Feminin,https://www.flashscore.com/basketball/romania/liga-national-women/standings/,LIGA
+flashscore,f_bas_klu_eu_slo_liga,Basketbal › Kluby › Európa › Slovinsko › Liga OTP banka,https://www.flashscore.com/basketball/slovenia/liga-otp-banka/standings/,LIGA
+flashscore,f_bas_klu_eu_mkd_liga,Basketbal › Kluby › Európa › Severné Macedónsko › MTEL Super liga,https://www.flashscore.com/basketball/north-macedonia/super-league/standings/,LIGA
+flashscore,f_bas_klu_eu_ukr_liga,Basketbal › Kluby › Európa › Ukrajina › Superliga,https://www.flashscore.com/basketball/ukraine/fbu-superleague/standings/,LIGA
+flashscore,f_bas_tur_l1_liga,Basketbal › Kluby › Európa › Turecko › Basketbol Süper Ligi › Basketbol Süper Ligi,https://www.flashscore.com/basketball/turkey/super-lig/standings/,LIGA
+flashscore,f_bas_tur_l3_liga,Basketbal › Kluby › Európa › Turecko › Kadınlar Basketbol Süper Ligi (ženy) › Kadınlar Basketbol Süper Ligi,https://www.flashscore.com/basketball/turkey/kbsl-women/standings/,LIGA
+soccerway.com,f_atg_l1_k13,Futbal › Kluby › Severná a Stredná Amerika › Antigua a Barbuda › ABFA Premier League › Greenbay Hoppers,https://www.soccerway.com/team/greenbay-hoppers/MTtDQwKN/,
+soccerway.com,f_atg_l1_k14,Futbal › Kluby › Severná a Stredná Amerika › Antigua a Barbuda › ABFA Premier League › Freemansville Scorpions,https://www.soccerway.com/team/freemansville/lfCtJQMt/,
+soccerway.com,f_fut_rychla2,Futbal › 2. liga – výsledky a tabuľka,https://www.soccerway.com/slovakia/2-liga/standings/,LIGA
+flashscore,f_hok_rychla1,Hokej › Tipsport liga – výsledky a tabuľka,https://www.flashscore.com/hockey/slovakia/tipsport-liga/standings/,LIGA
+flashscore,f_had_live_sk,Hádzaná › Hádzaná dnes – live výsledky,https://www.flashscore.sk/hadzana/,
+flashscore,f_had_live_en,Hádzaná › Hádzaná dnes – live výsledky,https://www.flashscore.com/handball/,
+flashscore,f_fut_live_sk,Futbal › Futbal dnes – live výsledky,https://www.flashscore.sk/futbal/,
+flashscore,f_fut_live_en,Futbal › Futbal dnes – live výsledky,https://www.flashscore.com/football/,
+flashscore,f_hok_live_sk,Hokej › Hokej dnes – live výsledky,https://www.flashscore.sk/hokej/,
+flashscore,f_hok_live_en,Hokej › Hokej dnes – live výsledky,https://www.flashscore.com/hockey/,
+flashscore,f_bas_live_sk,Basketbal › Basketbal dnes – live výsledky,https://www.flashscore.sk/basketbal/,
+flashscore,f_bas_live_en,Basketbal › Basketbal dnes – live výsledky,https://www.flashscore.com/basketball/,
+flashscore,f_vol_live_sk,Volejbal › Volejbal dnes – live výsledky,https://www.flashscore.sk/volejbal/,
+flashscore,f_vol_live_en,Volejbal › Volejbal dnes – live výsledky,https://www.flashscore.com/volleyball/,

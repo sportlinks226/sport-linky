@@ -1,0 +1,39 @@
+id,cesta,name,dovod
+f_ang_pl,Futbal › Kluby › Európa › Anglicko › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_cze_l2,Futbal › Kluby › Európa › Česko › Chance Národní Liga,Chance Národní Liga,slovo: Národní
+f_dnk_l1,Futbal › Kluby › Európa › Dánsko › Superliga,Superliga,"inde: ['Superleague', 'Super League']"
+f_xkx_l1,Futbal › Kluby › Európa › Kosovo › Superliga,Superliga,"inde: ['Superleague', 'Super League']"
+f_mlt_l1,Futbal › Kluby › Európa › Malta › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_arm_l1,Futbal › Kluby › Európa › Arménsko › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_kaz_l1,Futbal › Kluby › Európa › Kazachstan › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_aze_l1,Futbal › Kluby › Európa › Azerbajdžán › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_jor_l1,Futbal › Kluby › Ázia › Jordánsko › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bwa_l1,Futbal › Kluby › Afrika › Botswana › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bfa_l1,Futbal › Kluby › Afrika › Burkina Faso › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_gha_l1,Futbal › Kluby › Afrika › Ghana › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_ken_l1,Futbal › Kluby › Afrika › Keňa › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_lso_l1,Futbal › Kluby › Afrika › Lesotho › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_syc_l1,Futbal › Kluby › Afrika › Seychely › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_sle_l1,Futbal › Kluby › Afrika › Sierra Leone › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_tza_l1,Futbal › Kluby › Afrika › Tanzánia › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_brb_l1,Futbal › Kluby › Severná a Stredná Amerika › Barbados › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_slv_l1,Futbal › Kluby › Severná a Stredná Amerika › Salvádor › Primera División de El Salvador,Primera División de El Salvador,inde: ['Salvadoran Primera División']
+f_fij_l1,Futbal › Kluby › Oceánia › Fidži › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bas_klu_usa,Basketbal › Kluby › USA,USA,inde: ['United States']
+f_bas_cze_l1,Basketbal › Kluby › Európa › Česko › NBL,NBL,inde: ['Bulgarian NBL']
+f_bas_hun_l1,Basketbal › Kluby › Európa › Maďarsko › NB I/A,NB I/A,inde: ['Hungarian NB I/A']
+f_bas_hun_l3,Basketbal › Kluby › Európa › Maďarsko › NB I/A (ženy),NB I/A (ženy),inde: ['Hungarian NB I/A (women)']
+f_bas_rou_l3,Basketbal › Kluby › Európa › Rumunsko › Liga Națională (ženy),Liga Națională (ženy),slovo: ženy
+f_bas_bel_l3,Basketbal › Kluby › Európa › Belgicko › Top Division Women (ženy),Top Division Women (ženy),slovo: ženy
+f_bas_srb_l3,Basketbal › Kluby › Európa › Srbsko › 1. ŽLS (ženy),1. ŽLS (ženy),slovo: ženy
+f_bas_ltu_l3,Basketbal › Kluby › Európa › Litva › LMKL (ženy),LMKL (ženy),slovo: ženy
+f_bas_aus_l1,Basketbal › Kluby › Oceánia › Austrália › NBL,NBL,inde: ['Bulgarian NBL']
+f_had_bih_l1,Hádzaná › Kluby › Európa › Bosna a Hercegovina › Premijer liga,Premijer liga,"inde: ['Premier League', 'Croatian Premijer liga']"
+f_had_pol_l1,Hádzaná › Kluby › Európa › Poľsko › Superliga,Superliga,"inde: ['Superleague', 'Super League']"
+f_had_cze_l2,Hádzaná › Kluby › Európa › Česko › 1. liga,1. liga,inde: ['First Division']
+f_had_svk_l2,Hádzaná › Kluby › Európa › Slovensko › 1. liga,1. liga,inde: ['First Division']
+f_bas_ken_l1,Basketbal › Kluby › Afrika › Keňa › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bas_nga_l1,Basketbal › Kluby › Afrika › Nigéria › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bas_jor_l1,Basketbal › Kluby › Ázia › Jordánsko › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bas_irq_l1,Basketbal › Kluby › Ázia › Irak › Premier League,Premier League,inde: ['Belarusian Premier League']
+f_bas_sgp_l1,Basketbal › Kluby › Ázia › Singapur › NBL,NBL,inde: ['Bulgarian NBL']

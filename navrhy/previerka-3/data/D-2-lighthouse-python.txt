@@ -1,0 +1,47 @@
+| Beh | Výkon | Prístup. | Best pr. | SEO | FCP | LCP | TBT | CLS | SI | TTI | LCP prvok |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| desktop-domov | 100 | 100 | 100 | 100 | 0.5 s | 0.6 s | 50 ms | 0 | 0.5 s | 0.7 s | <span class="f-note"> |
+| mobil-aktualne | 85 | 100 | 100 | 100 | 0.8 s | 2.7 s | 450 ms | 0 | 0.8 s | 2.7 s | <span class="f-note"> |
+| mobil-anglicko | 63 | 100 | 100 | 100 | 0.8 s | 29.7 s | 490 ms | 0 | 0.8 s | 29.7 s | <div class="c-name"> |
+| mobil-championship | 63 | 100 | 100 | 100 | 0.8 s | 30.0 s | 470 ms | 0 | 0.9 s | 30.0 s | <div class="cl-desc"> |
+| mobil-domov | 71 | 100 | 100 | 100 | 2.2 s | 2.3 s | 1,380 ms | 0.036 | 2.2 s | 4.0 s | <div pseudo="-webkit-input-placeholder" id="placeholder" style="display: block !important; |
+| mobil-en-domov | 86 | 95 | 100 | 100 | 2.2 s | 2.7 s | 350 ms | 0 | 2.2 s | 2.8 s | <div pseudo="-webkit-input-placeholder" id="placeholder" style="display: block !important; |
+
+## Odporúčania (audit so skóre < 0.9 alebo úspora), podľa behu
+
+### desktop-domov
+- neúspešné: total-byte-weight (skóre 0.5, Total size was 5,618 KiB); unminified-css (skóre 0.5, Est savings of 6 KiB); unminified-javascript (skóre 0.5, Est savings of 62 KiB); unused-css-rules (skóre 0.5, Est savings of 22 KiB); unused-javascript (skóre 0, Est savings of 84 KiB); uses-text-compression (skóre 0, Est savings of 4,374 KiB); document-latency-insight (skóre 0.5, Est savings of 171 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: unused-javascript úspora 80 ms; uses-text-compression úspora 160 ms
+- požiadaviek: 7, prenesené 5618 kB (transfer), 5618 kB (resource); najväčšie: /data.json?v=1125 5360 kB, / 256 kB, /aktualne.json?t=1793820043993 2 kB, /favicon.svg 1 kB
+- dlhé úlohy: 109 ms @565, 69 ms @423
+
+### mobil-aktualne
+- neúspešné: largest-contentful-paint (skóre 0.85, 2.7 s); total-blocking-time (skóre 0.62, 450 ms); max-potential-fid (skóre 0.46, 260 ms); largest-contentful-paint-element (skóre 0, 2,720 ms); uses-long-cache-ttl (skóre 0.5, 3 resources found); total-byte-weight (skóre 0.5, Total size was 5,640 KiB); unminified-javascript (skóre 0.5, Est savings of 2 KiB); uses-text-compression (skóre 0, Est savings of 4,384 KiB); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 5 KiB); document-latency-insight (skóre 0.5, Est savings of 11 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: uses-text-compression úspora 1050 ms
+- požiadaviek: 11, prenesené 5640 kB (transfer), 5639 kB (resource); najväčšie: /data.json?v=1125 5360 kB, /index.html 256 kB, /aktualne/ 17 kB, /ikony/ttstar.cz.png 3 kB
+- dlhé úlohy: 263 ms @1152, 156 ms @806, 142 ms @1010, 93 ms @1415
+
+### mobil-anglicko
+- neúspešné: largest-contentful-paint (skóre 0, 29.7 s); total-blocking-time (skóre 0.59, 490 ms); max-potential-fid (skóre 0.45, 270 ms); interactive (skóre 0, 29.7 s); largest-contentful-paint-element (skóre 0, 29,700 ms); uses-long-cache-ttl (skóre 0.5, 4 resources found); total-byte-weight (skóre 0.5, Total size was 5,644 KiB); unminified-javascript (skóre 0.5, Est savings of 2 KiB); uses-text-compression (skóre 0, Est savings of 4,388 KiB); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 4 KiB); document-latency-insight (skóre 0.5, Est savings of 15 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: uses-text-compression úspora 22200 ms
+- požiadaviek: 12, prenesené 5644 kB (transfer), 5643 kB (resource); najväčšie: /data.json?v=1125 5360 kB, /index.html 256 kB, /futbal/kluby/europa/anglicko/ 22 kB, /aktualne.json?t=1793819991785 2 kB
+- dlhé úlohy: 266 ms @1208, 171 ms @815, 168 ms @1040, 81 ms @1474
+
+### mobil-championship
+- neúspešné: largest-contentful-paint (skóre 0, 30.0 s); total-blocking-time (skóre 0.61, 470 ms); max-potential-fid (skóre 0.56, 230 ms); interactive (skóre 0, 30.0 s); mainthread-work-breakdown (skóre 0, 2.0 s); largest-contentful-paint-element (skóre 0, 30,000 ms); uses-long-cache-ttl (skóre 0.5, 29 resources found); total-byte-weight (skóre 0.5, Total size was 5,700 KiB); unminified-javascript (skóre 0.5, Est savings of 2 KiB); uses-text-compression (skóre 0, Est savings of 4,396 KiB); no-document-write (skóre 0.5); cache-insight (skóre 0.5, Est savings of 49 KiB); document-latency-insight (skóre 0.5, Est savings of 21 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: uses-text-compression úspora 22050 ms
+- požiadaviek: 37, prenesené 5700 kB (transfer), 5694 kB (resource); najväčšie: /data.json?v=1125 5360 kB, /index.html 256 kB, /futbal/kluby/europa/anglicko/championship/ 32 kB, /ikony/instagram.com.png 4 kB
+- dlhé úlohy: 231 ms @1309, 220 ms @846, 130 ms @1179, 79 ms @1540, 61 ms @1066
+
+### mobil-domov
+- neúspešné: first-contentful-paint (skóre 0.79, 2.2 s); total-blocking-time (skóre 0.16, 1,380 ms); max-potential-fid (skóre 0.04, 600 ms); interactive (skóre 0.88, 4.0 s); mainthread-work-breakdown (skóre 0, 3.6 s); total-byte-weight (skóre 0.5, Total size was 5,618 KiB); unminified-css (skóre 0.5, Est savings of 6 KiB); unminified-javascript (skóre 0.5, Est savings of 62 KiB); unused-css-rules (skóre 0.5, Est savings of 21 KiB); unused-javascript (skóre 0, Est savings of 84 KiB); uses-text-compression (skóre 0, Est savings of 4,374 KiB); document-latency-insight (skóre 0.5, Est savings of 171 KiB); network-dependency-tree-insight (skóre 0)
+- úspory: unused-javascript úspora 450 ms; uses-text-compression úspora 900 ms
+- požiadaviek: 7, prenesené 5618 kB (transfer), 5618 kB (resource); najväčšie: /data.json?v=1125 5360 kB, / 256 kB, /aktualne.json?t=1793819977818 2 kB, /favicon.svg 1 kB
+- dlhé úlohy: 598 ms @2737, 510 ms @3335, 175 ms @2157, 172 ms @2332, 164 ms @1952, 118 ms @2619, 104 ms @3845, 104 ms @3975, 58 ms @2561, 57 ms @2504
+
+### mobil-en-domov
+- neúspešné: first-contentful-paint (skóre 0.78, 2.2 s); largest-contentful-paint (skóre 0.85, 2.7 s); total-blocking-time (skóre 0.73, 350 ms); max-potential-fid (skóre 0.41, 280 ms); largest-contentful-paint-element (skóre 0, 2,730 ms); link-name (skóre 0); total-byte-weight (skóre 0.5, Total size was 5,880 KiB); unminified-css (skóre 0.5, Est savings of 6 KiB); unminified-javascript (skóre 0.5, Est savings of 62 KiB); unused-css-rules (skóre 0.5, Est savings of 21 KiB); unused-javascript (skóre 0, Est savings of 85 KiB); uses-text-compression (skóre 0, Est savings of 4,638 KiB); document-latency-insight (skóre 0.5, Est savings of 174 KiB); forced-reflow-insight (skóre 0); network-dependency-tree-insight (skóre 0)
+- úspory: unused-javascript úspora 450 ms; uses-text-compression úspora 900 ms
+- požiadaviek: 8, prenesené 5880 kB (transfer), 5879 kB (resource); najväčšie: /data.json?v=1125 5618 kB, / 259 kB, /aktualne.json?t=1793820017207 2 kB, /favicon.svg 1 kB
+- prístupnosť/SEO neúspešné: link-name (1)
+- dlhé úlohy: 280 ms @2445, 205 ms @2011, 145 ms @2300, 72 ms @2725, 63 ms @2237, 60 ms @1951

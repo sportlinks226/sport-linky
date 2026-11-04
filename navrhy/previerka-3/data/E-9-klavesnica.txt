@@ -1,0 +1,43 @@
+
+### domov desktop
+{ "lang": "sk", "title": "Športové Linky — 14 000+ webov klubov, líg a správ", "hs": [ "H1: ŠPORTOVÉLINKY." ],
+ "lm": { "header": 1, "nav": [ "Športy" ],
+ "main": 1, "footer": 1, "search": 0, "region": 0 }, "live": [ "srLive=polite (prázdne)" ],
+ "imgs": 0, "noAlt": 0, "emptyAlt": 0, "skip": [],
+ "firstFocusable": [ "a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj sa“", "a „Futbal“", "a „Hokej“", "a „Tenis“", "a „Basketbal“", "a „Hádzaná“", "a „Volejbal“", "a „Zimné športy“" ],
+ "tiles": 10, "tileInfo": [ "A tabindex=null role=null onkeydown=nie", "A tabindex=null role=null onkeydown=nie", "A tabindex=null role=null onkeydown=nie" ],
+ "emojiAria": [ "DIV aria-hidden=null role=null", "DIV aria-hidden=null role=null", "DIV aria-hidden=null role=null" ],
+ "motion": 3, "motionRules": [ "@media (prefers-reduced-motion: reduce) {\n  .cols { scroll-behavior: auto; }\n}", "@media (prefers-reduced-motion: reduce) {\n  .anim > * { animation: auto ease 0s 1 normal none runnin", "@media (prefers-reduced-motion: reduce) {\n  .akt-dot { animation: auto ease 0s 1 normal none running" ] }
+Tab poradie: 1. a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj“ ✓focus | 2. a „Futbal“ ✓focus | 3. a „Hokej“ ✓focus | 4. a „Tenis“ ✓focus | 5. a „Basketbal“ ✓focus | 6. a „Hádzaná“ ✓focus | 7. a „Volejbal“ ✓focus | 8. a „Zimné športy“ ✓focus | 9. a „Ostatné športy“ ✓focus | 10. a „Správy & Médiá“ ✓focus | 11. a „Tipovanie“ ✓focus | 12. input#srch „Hľadaj v strome“ ✓focus | 13. button.on „▦ Dlaždice“ ✓focus | 14. button „▥ Stĺpce“ ✓focus | 15. a.bc-item „🏠 Domov“ ✓focus | 16. iframe.adframe „“ ✗BEZ viditeľného focusu | 17. iframe.adframe „“ ✗BEZ viditeľného focusu | 18. a#aktHead.akt-head „Aktuálne ›“ ✓focus | 19. a.akt-card „🎾 ATP scores“ ✓focus | 20. a.akt-card „🎾 WTA scores“ ✓focus | 21. a.akt-card „🏓 TT Star series“ ✓focus | 22. a.card-root „▲ ▼ ✏️ 🗑 ⚽ Futbal 4 s“ ✓focus | 23. a.card-root „▲ ▼ ✏️ 🗑 🏒 Hokej 4 s“ ✓focus | 24. a.card-root „▲ ▼ ✏️ 🗑 🎾 Tenis 5 s“ ✓focus | 25. a.card-root „▲ ▼ ✏️ 🗑 🏀 Basketbal“ ✓focus | 26. a.card-root „▲ ▼ ✏️ 🗑 🤾 Hádzaná 4“ ✓focus | 27. a.card-root „▲ ▼ ✏️ 🗑 🏐 Volejbal “ ✓focus | 28. a.card-root „▲ ▼ ✏️ 🗑 ⛷️ Zimné špo“ ✓focus
+Enter na dlaždici (focus bol na „card-root“): adresa http://127.0.0.1:8123/ → http://127.0.0.1:8123/futbal/ (otvorilo sa ✓)
+Escape v hľadaní: pred 17 výsledkov, po Escape hodnota „“, výsledkov 3 (vyčistené ✓)
+prefers-reduced-motion: animácia kariet = none
+
+### sekcia Anglicko desktop
+{ "lang": "sk", "title": "Anglicko — Európa · Futbal — Športové Linky", "hs": [ "H1: Anglicko" ],
+ "lm": { "header": 1, "nav": [ "Športy" ],
+ "main": 1, "footer": 1, "search": 0, "region": 0 }, "live": [ "srLive=polite (prázdne)" ],
+ "imgs": 8, "noAlt": 0, "emptyAlt": 8, "skip": [],
+ "firstFocusable": [ "a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj sa“", "a.on „Futbal“", "a „Hokej“", "a „Tenis“", "a „Basketbal“", "a „Hádzaná“", "a „Volejbal“", "a „Zimné športy“" ],
+ "tiles": 7, "tileInfo": [ "A tabindex=null role=null onkeydown=nie", "A tabindex=null role=null onkeydown=nie", "A tabindex=null role=null onkeydown=nie" ],
+ "emojiAria": [ "DIV aria-hidden=null role=null", "DIV aria-hidden=null role=null", "DIV aria-hidden=null role=null" ],
+ "motion": 3, "motionRules": [ "@media (prefers-reduced-motion: reduce) {\n  .cols { scroll-behavior: auto; }\n}", "@media (prefers-reduced-motion: reduce) {\n  .anim > * { animation: auto ease 0s 1 normal none runnin", "@media (prefers-reduced-motion: reduce) {\n  .akt-dot { animation: auto ease 0s 1 normal none running" ] }
+Tab poradie: 1. a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj“ ✓focus | 2. a.on „Futbal“ ✓focus | 3. a „Hokej“ ✓focus | 4. a „Tenis“ ✓focus | 5. a „Basketbal“ ✓focus | 6. a „Hádzaná“ ✓focus | 7. a „Volejbal“ ✓focus | 8. a „Zimné športy“ ✓focus | 9. a „Ostatné športy“ ✓focus | 10. a „Správy & Médiá“ ✓focus | 11. a „Tipovanie“ ✓focus | 12. input#srch „Hľadaj v strome“ ✓focus | 13. button.on „▦ Dlaždice“ ✓focus | 14. button „▥ Stĺpce“ ✓focus | 15. button.bc-back „← Späť“ ✓focus | 16. a.bc-item „🏠 Domov“ ✓focus | 17. a.bc-item „⚽ Futbal“ ✓focus | 18. a.bc-item „👕 Kluby“ ✓focus | 19. a.bc-item „⚽ Európa“ ✓focus | 20. a.bc-item „Anglicko“ ✓focus | 21. iframe.adframe „“ ✗BEZ viditeľného focusu | 22. iframe.adframe „“ ✗BEZ viditeľného focusu | 23. a#aktHead.akt-head „Aktuálne ›“ ✓focus | 24. a.akt-card „🎾 ATP scores“ ✓focus | 25. a.akt-card „🎾 WTA scores“ ✓focus | 26. a.akt-card „🏓 TT Star series“ ✓focus | 27. a.card-root „▲ ▼ ✏️ 🗑 Premier Leag“ ✓focus | 28. a.card-root „▲ ▼ ✏️ 🗑 Championship“ ✓focus
+Enter na dlaždici (focus bol na „card-root“): adresa http://127.0.0.1:8123/futbal/kluby/europa/anglicko/ → http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/ (otvorilo sa ✓)
+Escape v hľadaní: pred 17 výsledkov, po Escape hodnota „“, výsledkov 21 (vyčistené ✓)
+prefers-reduced-motion: animácia kariet = none
+
+### liga Championship mobil
+{ "lang": "sk", "title": "Championship — Anglicko · Futbal — Športové Linky", "hs": [ "H1: Championship" ],
+ "lm": { "header": 1, "nav": [],
+ "main": 1, "footer": 1, "search": 0, "region": 0 }, "live": [ "srLive=polite (prázdne)" ],
+ "imgs": 75, "noAlt": 0, "emptyAlt": 75, "skip": [],
+ "firstFocusable": [ "a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj sa“", "input#srch „Hľadaj v strome“", "button.bc-back „← Späť“", "a.bc-item „🏠 Domov“", "a.bc-item „⚽ Futbal“", "a.bc-item „👕 Kluby“", "a.bc-item „⚽ Európa“", "a.bc-item „Anglicko“" ],
+ "tiles": 0, "tileInfo": [],
+ "emojiAria": [],
+ "motion": 3, "motionRules": [ "@media (prefers-reduced-motion: reduce) {\n  .cols { scroll-behavior: auto; }\n}", "@media (prefers-reduced-motion: reduce) {\n  .anim > * { animation: auto ease 0s 1 normal none runnin", "@media (prefers-reduced-motion: reduce) {\n  .akt-dot { animation: auto ease 0s 1 normal none running" ] }
+Tab poradie: 1. a#homeLink.h-left „ŠPORTOVÉLINKY. Naviguj“ ✓focus | 2. input#srch „Hľadaj v strome“ ✓focus | 3. button.bc-back „← Späť“ ✓focus | 4. a.bc-item „🏠 Domov“ ✓focus | 5. a.bc-item „⚽ Futbal“ ✓focus | 6. a.bc-item „👕 Kluby“ ✓focus | 7. a.bc-item „⚽ Európa“ ✓focus | 8. a.bc-item „Anglicko“ ✓focus | 9. a.bc-item „Championship“ ✓focus | 10. iframe.adframe „“ ✗BEZ viditeľného focusu | 11. a#aktHead.akt-head „Aktuálne ›“ ✓focus | 12. a.akt-card „🎾 ATP scores“ ✓focus | 13. a.akt-card „🎾 WTA scores“ ✓focus | 14. a.akt-card „🏓 TT Star series“ ✓focus | 15. button#aktMoreBadge „Zobraziť ďalšie linky“ ✓focus | 16. a „Championship Tabuľka s“ ✓focus | 17. a „Birmingham City Klub z“ ✓focus | 18. a.si „Facebook klubu“ ✓focus | 19. a.si „Instagram klubu“ ✓focus | 20. a „Blackburn Rovers Majst“ ✓focus | 21. a.si „Facebook klubu“ ✓focus | 22. a.si „Instagram klubu“ ✓focus | 23. a „Bolton Wanderers Tradi“ ✓focus | 24. a.si „Facebook klubu“ ✓focus | 25. a.si „Instagram klubu“ ✓focus | 26. a „Bristol City „Robins“ “ ✓focus | 27. a.si „Facebook klubu“ ✓focus | 28. a.si „Instagram klubu“ ✓focus
+Escape v hľadaní: pred 17 výsledkov, po Escape hodnota „“, výsledkov 25 (vyčistené ✓)
+prefers-reduced-motion: animácia kariet = none
+zoom 200 % (domov, 1280 px okno): scrollWidth 640 / innerWidth 640 bez vodorovného scrollu ✓, hlavička 97 px
+zoom 200 % (liga Championship, 1280 px okno): scrollWidth 640 / innerWidth 640 bez vodorovného scrollu ✓, hlavička 97 px

@@ -1,0 +1,10 @@
+| Stav | halda použitá | halda celkom | DOM uzly | poslucháči | dokumenty |
+|---|---:|---:|---:|---:|---:|
+| domov zo štartovacieho balíka (bez data.json) | 1.6 MB | 2.5 MB | 1466 | 133 | 5 |
+| domov po stiahnutí a spracovaní data.json | 10.0 MB | 10.9 MB | 1466 | 133 | 5 |
+| po 50 navigáciách | 10.2 MB | 10.9 MB | 1213 | 92 | 5 |
+| po 100 navigáciách (37 rôznych priečinkov) | 10.2 MB | 11.2 MB | 1243 | 97 | 5 |
+| počas hľadania „a“ (313 výsledkov na stránke) | 17.2 MB | 18.0 MB | 10716 | 1121 | 5 |
+| po vyčistení hľadania | 17.2 MB | 18.3 MB | 1249 | 110 | 5 |
+
+rozdiel po 100 navigáciách oproti stavu po dátach: 0.2 MB

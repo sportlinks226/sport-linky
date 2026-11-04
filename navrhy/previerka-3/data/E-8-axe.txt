@@ -1,0 +1,66 @@
+
+### domov (http://127.0.0.1:8123/)
+- **region** (moderate, 5×): All page content should be contained by landmarks
+    - `.bc-item` — <a class="bc-item active" href="/" onclick="return navClick(event,null)">🏠 Domov</a> → Some page content is not contained by landmarks
+    - `#aktualneWrap > div:nth-child(1)` — <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px"> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(1) > span:nth-child(2)` — <span>ATP scores</span> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(2) > span:nth-child(2)` — <span>WTA scores</span> → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(19), frame-tested(1), label-content-name-mismatch(1)
+
+### sekcia Anglicko (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/)
+- **region** (moderate, 13×): All page content should be contained by landmarks
+    - `.bc-item[href="/"][onclick="return navClick(event,null)"]` — <a class="bc-item " href="/" onclick="return navClick(event,null)">🏠 Domov</a> → Some page content is not contained by landmarks
+    - `.bc-sep:nth-child(3)` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+    - `.bc-item[href$="futbal/"][onclick="return navClick(event,'f_fut')"]` — <a class="bc-item " href="/futbal/" onclick="return navClick(event,'f_fut')"><span><span aria-hidden="true">⚽</span> Futbal</span></a> → Some page content is not contained by landmarks
+    - `.bc-sep:nth-child(5)` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(16), frame-tested(1), label-content-name-mismatch(1)
+
+### liga Championship (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/)
+- **region** (moderate, 15×): All page content should be contained by landmarks
+    - `.bc-item[href="/"][onclick="return navClick(event,null)"]` — <a class="bc-item " href="/" onclick="return navClick(event,null)">🏠 Domov</a> → Some page content is not contained by landmarks
+    - `.bc-sep:nth-child(3)` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+    - `.bc-item[href$="futbal/"][onclick="return navClick(event,'f_fut')"]` — <a class="bc-item " href="/futbal/" onclick="return navClick(event,'f_fut')"><span><span aria-hidden="true">⚽</span> Futbal</span></a> → Some page content is not contained by landmarks
+    - `.bc-sep:nth-child(5)` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(9), frame-tested(1), label-content-name-mismatch(1)
+
+### hľadanie „slovan“ (http://127.0.0.1:8123/?q=slovan)
+- **region** (moderate, 5×): All page content should be contained by landmarks
+    - `.bc-item` — <a class="bc-item active" href="/" onclick="return navClick(event,null)">🏠 Domov</a> → Some page content is not contained by landmarks
+    - `#aktualneWrap > div:nth-child(1)` — <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px"> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(1) > span:nth-child(2)` — <span>ATP scores</span> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(2) > span:nth-child(2)` — <span>WTA scores</span> → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(9), frame-tested(1), label-content-name-mismatch(1)
+
+### Aktuálne (http://127.0.0.1:8123/aktualne/)
+- **region** (moderate, 3×): All page content should be contained by landmarks
+    - `.bc-item[href="/"][onclick="return navClick(event,null)"]` — <a class="bc-item " href="/" onclick="return navClick(event,null)">🏠 Domov</a> → Some page content is not contained by landmarks
+    - `.bc-sep` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+    - `h1` — <h1 class="bc-h"><a class="bc-item active" href="/aktualne/" onclick="return navClick(event,'f_ltw')"><span><span aria-hidden="true">🔥</spa → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(4), frame-tested(1)
+
+### EN domov (http://127.0.0.1:8124/)
+- **link-name** (serious, 1×): Links must have discernible text
+    - `#bannerSlot > a[href$="live-this-week/"][onclick="return navClick(event,'f_ltw')"]` — <a href="/live-this-week/" onclick="return navClick(event,'f_ltw')" style="display:block;width:100%;height:100%"> → Element does not have text that is visible to screen readers
+- **region** (moderate, 5×): All page content should be contained by landmarks
+    - `.bc-item` — <a class="bc-item active" href="/" onclick="return navClick(event,null)">🏠 Home</a> → Some page content is not contained by landmarks
+    - `#aktualneWrap > div:nth-child(1)` — <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px"> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(1) > span:nth-child(2)` — <span>ATP Scores</span> → Some page content is not contained by landmarks
+    - `.akt-card[target="_blank"][rel="noopener"]:nth-child(2) > span:nth-child(2)` — <span>WTA Scores</span> → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(23), label-content-name-mismatch(1)
+
+### EN Live This Week (http://127.0.0.1:8124/live-this-week/)
+- **link-name** (serious, 1×): Links must have discernible text
+    - `#bannerSlot > a[href$="live-this-week/"][onclick="return navClick(event,'f_ltw')"]` — <a href="/live-this-week/" onclick="return navClick(event,'f_ltw')" style="display:block;width:100%;height:100%"> → Element does not have text that is visible to screen readers
+- **region** (moderate, 3×): All page content should be contained by landmarks
+    - `.bc-item[href="/"][onclick="return navClick(event,null)"]` — <a class="bc-item " href="/" onclick="return navClick(event,null)">🏠 Home</a> → Some page content is not contained by landmarks
+    - `.bc-sep` — <span class="bc-sep">›</span> → Some page content is not contained by landmarks
+    - `h1` — <h1 class="bc-h"><a class="bc-item active" href="/live-this-week/" onclick="return navClick(event,'f_ltw')"><span><span aria-hidden="true">� → Some page content is not contained by landmarks
+- neúplné (treba ručne): color-contrast(8)
+
+### Súhrn porušení (pravidlo → stránky: počet)
+- region (moderate): domov: 5, sekcia Anglicko: 13, liga Championship: 15, hľadanie „slovan“: 5, Aktuálne: 3, EN domov: 5, EN Live This Week: 3 — All page content should be contained by landmarks
+- link-name (serious): EN domov: 1, EN Live This Week: 1 — Links must have discernible text
+
+### Dvojice farieb s kontrastom pod 4,5 (z axe color-contrast)
+| Text | Pozadie | Pomer | Písmo | Kde | Stránky |
+|---|---|---|---|---|---|

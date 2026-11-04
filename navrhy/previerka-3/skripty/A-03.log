@@ -1,0 +1,978 @@
+{
+ "sk": {
+  "kosice": {
+   "q": "kosice",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (6)",
+    "SPOMENUTÉ V POPISE (6)"
+   ],
+   "total": 12,
+   "first": [
+    "Košice Wolves",
+    "FC Košice",
+    "CBK Košice",
+    "Young Angels Košice",
+    "HK Košice",
+    "HC Košice"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKY (6)\nKošice Wolves\nBasketbal › Kluby › Európa › Slovensko › SBL\nFC Košice\nFutbal › Kl",
+   "srLive": "Nájdených 12 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 511
+  },
+  "Košice": {
+   "q": "Košice",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (6)",
+    "SPOMENUTÉ V POPISE (6)"
+   ],
+   "total": 12,
+   "first": [
+    "Košice Wolves",
+    "FC Košice",
+    "CBK Košice",
+    "Young Angels Košice",
+    "HK Košice",
+    "HC Košice"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKY (6)\nKošice Wolves\nBasketbal › Kluby › Európa › Slovensko › SBL\nFC Košice\nFutbal › Kl",
+   "srLive": "Nájdených 12 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 466
+  },
+  "KOŠICE": {
+   "q": "KOŠICE",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (6)",
+    "SPOMENUTÉ V POPISE (6)"
+   ],
+   "total": 12,
+   "first": [
+    "Košice Wolves",
+    "FC Košice",
+    "CBK Košice",
+    "Young Angels Košice",
+    "HK Košice",
+    "HC Košice"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKY (6)\nKošice Wolves\nBasketbal › Kluby › Európa › Slovensko › SBL\nFC Košice\nFutbal › Kl",
+   "srLive": "Nájdených 12 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 462
+  },
+  "brondby": {
+   "q": "brondby",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (2)",
+    "SPOMENUTÉ V POPISE (6)"
+   ],
+   "total": 8,
+   "first": [
+    "Brøndby IF",
+    "Brøndby VK",
+    "Dánsko",
+    "Bold",
+    "Berlingske sport",
+    "Superliga"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKY (2)\nBrøndby IF\nFutbal › Kluby › Európa › Dánsko › Superliga\nBrøndby VK\nVolejbal › Kl",
+   "srLive": "Nájdených 8 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 470
+  },
+  "Brøndby": {
+   "q": "Brøndby",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (2)",
+    "SPOMENUTÉ V POPISE (6)"
+   ],
+   "total": 8,
+   "first": [
+    "Brøndby IF",
+    "Brøndby VK",
+    "Dánsko",
+    "Bold",
+    "Berlingske sport",
+    "Superliga"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKY (2)\nBrøndby IF\nFutbal › Kluby › Európa › Dánsko › Superliga\nBrøndby VK\nVolejbal › Kl",
+   "srLive": "Nájdených 8 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 466
+  },
+  "lodz": {
+   "q": "lodz",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (5)",
+    "SPOMENUTÉ V POPISE (4)"
+   ],
+   "total": 9,
+   "first": [
+    "Widzew Łódź",
+    "ŁKS Łódź",
+    "Widzew Łódź",
+    "Budowlani Łódź",
+    "ŁKS Łódź",
+    "Poľsko"
+   ],
+   "marks": 4,
+   "snips": 4,
+   "empty": false,
+   "text": "LINKY (5)\nWidzew Łódź\nFutbal › Kluby › Európa › Poľsko › Ekstraklasa\nŁKS Łódź\nFutbal › Klu",
+   "srLive": "Nájdených 9 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 466
+  },
+  "preussen": {
+   "q": "preussen",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (2)",
+    "SPOMENUTÉ V POPISE (1)"
+   ],
+   "total": 3,
+   "first": [
+    "Preußen Münster",
+    "BFC Preussen",
+    "RSV Eintracht 1949"
+   ],
+   "marks": 1,
+   "snips": 1,
+   "empty": false,
+   "text": "LINKY (2)\nPreußen Münster\nFutbal › Kluby › Európa › Nemecko › 3. Liga\nBFC Preussen\nFutbal ",
+   "srLive": "Nájdené 3 výsledky",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 465
+  },
+  "slovan": {
+   "q": "slovan",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (1)",
+    "LINKY (15)",
+    "SPOMENUTÉ V POPISE (13)"
+   ],
+   "total": 29,
+   "first": [
+    "Veslovanie",
+    "Slovan Bratislava",
+    "Slovanka",
+    "ŠK Slovan Bratislava",
+    "ŠK Slovan Bratislava B",
+    "FC Slovan Galanta"
+   ],
+   "marks": 13,
+   "snips": 13,
+   "empty": false,
+   "text": "KATEGÓRIE (1)\n🚣\nVeslovanie\nOstatné športy › Veslovanie\n›\nLINKY (15)\nSlovan Bratislava\nBas",
+   "srLive": "Nájdených 29 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 477
+  },
+  "juhoslov": {
+   "q": "juhoslov",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "SPOMENUTÉ V POPISE (7)"
+   ],
+   "total": 7,
+   "first": [
+    "FK Velež Mostar",
+    "Spartak Subotica",
+    "Bor 1919",
+    "Borac Banja Luka",
+    "Lučenec",
+    "Crvena zvezda"
+   ],
+   "marks": 7,
+   "snips": 7,
+   "empty": false,
+   "text": "SPOMENUTÉ V POPISE (7)\nFK Velež Mostar\nFutbal › Kluby › Európa › Bosna a Hercegovina › Pre",
+   "srLive": "Nájdených 7 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 467
+  },
+  "a": {
+   "q": "a",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (1295)",
+    "LINKY (11374)",
+    "SPOMENUTÉ V POPISE (2481)"
+   ],
+   "total": 600,
+   "first": [
+    "Aktuálne",
+    "ATP Tour",
+    "ATP 500",
+    "ATP 250",
+    "Asociácie",
+    "Ázia"
+   ],
+   "marks": 373,
+   "snips": 200,
+   "empty": false,
+   "text": "KATEGÓRIE (1295)\n🔥\nAktuálne\nAktuálne\n›\n🎾\nATP Tour\nTenis › Turnaje a Súťaže › ATP Tour\n›\n",
+   "srLive": "Nájdených 15 150 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 470
+  },
+  "ab": {
+   "q": "ab",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (13)",
+    "LINKY (392)",
+    "SPOMENUTÉ V POPISE (168)"
+   ],
+   "total": 381,
+   "first": [
+    "Abissnet Superiore",
+    "ABFA Premier League",
+    "Gabon",
+    "Zimbabwe",
+    "Saudská Arábia",
+    "Gabon"
+   ],
+   "marks": 175,
+   "snips": 168,
+   "empty": false,
+   "text": "KATEGÓRIE (13)\nAbissnet Superiore\nFutbal › Kluby › Európa › Albánsko › Abissnet Superiore\n",
+   "srLive": "Nájdených 573 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 585
+  },
+  "x": {
+   "q": "x",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (32)",
+    "LINKY (347)",
+    "SPOMENUTÉ V POPISE (44)"
+   ],
+   "total": 276,
+   "first": [
+    "Box",
+    "Luxembursko",
+    "Mexiko",
+    "Luxembursko",
+    "Luxembursko",
+    "Mexiko"
+   ],
+   "marks": 47,
+   "snips": 44,
+   "empty": false,
+   "text": "KATEGÓRIE (32)\n🥊\nBox\nOstatné športy › Box\n›\nLuxembursko\nFutbal › Kluby › Európa › Luxembu",
+   "srLive": "Nájdených 423 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 550
+  },
+  "žž": {
+   "q": "žž",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (29)",
+    "SPOMENUTÉ V POPISE (2)"
+   ],
+   "total": 31,
+   "first": [
+    "ZZ sports",
+    "ZZ Leiden",
+    "ZZ Leiden",
+    "Cricbuzz",
+    "Gazzetta",
+    "Mozzart Sport"
+   ],
+   "marks": 2,
+   "snips": 2,
+   "empty": false,
+   "text": "LINKY (29)\nZZ sports\nSprávy & Médiá › Európa › Lotyšsko\nZZ Leiden\nBasketbal › Kluby › Euró",
+   "srLive": "Nájdených 31 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 509
+  },
+  "   ": {
+   "q": "   ",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": false,
+   "text": "⚽\nFutbal\n4 sekcie · 5389 liniek\n→\n🏒\nHokej\n4 sekcie · 1064 liniek\n→\n🎾\nTenis\n5 sekcií · 57",
+   "srLive": "",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 467
+  },
+  "xyzxyzneexistuje": {
+   "q": "xyzxyzneexistuje",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nŽiadne výsledky pre \"xyzxyzneexistuje\"",
+   "srLive": "Nájdených 0 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 495
+  },
+  "slovan hokej": {
+   "q": "slovan hokej",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (1)",
+    "SPOMENUTÉ V POPISE (2)"
+   ],
+   "total": 3,
+   "first": [
+    "HC Slovan Bratislava",
+    "Slovensko",
+    "Slovenská extraliga"
+   ],
+   "marks": 2,
+   "snips": 2,
+   "empty": false,
+   "text": "LINKY (1)\nHC Slovan Bratislava\nHokej › Kluby › Európa › Slovensko › Slovenská extraliga\nSP",
+   "srLive": "Nájdené 3 výsledky",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 479
+  },
+  "dac dun": {
+   "q": "dac dun",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (3)",
+    "SPOMENUTÉ V POPISE (1)"
+   ],
+   "total": 4,
+   "first": [
+    "ŠK DAC Dunajská Streda",
+    "HC DAC Dunajská Streda",
+    "FC DAC 1904 Dunajská Streda",
+    "MOL liga (ženy)"
+   ],
+   "marks": 1,
+   "snips": 1,
+   "empty": false,
+   "text": "LINKY (3)\n🤾\nŠK DAC Dunajská Streda\nHádzaná › Kluby › Európa › Slovensko › 1. liga\nHC DAC ",
+   "srLive": "Nájdené 4 výsledky",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 463
+  },
+  "real madrid": {
+   "q": "real madrid",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "LINKY (3)",
+    "SPOMENUTÉ V POPISE (18)"
+   ],
+   "total": 21,
+   "first": [
+    "Real Madrid",
+    "Real Madrid Castilla",
+    "Real Madrid",
+    "Španielsko",
+    "ABC deportes",
+    "La Razon deportes"
+   ],
+   "marks": 24,
+   "snips": 18,
+   "empty": false,
+   "text": "LINKY (3)\nReal Madrid\nFutbal › Kluby › Európa › Španielsko › La Liga\nReal Madrid Castilla\n",
+   "srLive": "Nájdených 21 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 466
+  },
+  "bayern": {
+   "q": "bayern",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (1)",
+    "LINKY (4)",
+    "SPOMENUTÉ V POPISE (18)"
+   ],
+   "total": 23,
+   "first": [
+    "Regionalliga Bayern",
+    "Bayern Mníchov",
+    "Bayern Mníchov II",
+    "FC Bayern München",
+    "Regionalliga Bayern",
+    "Nemecko"
+   ],
+   "marks": 21,
+   "snips": 18,
+   "empty": false,
+   "text": "KATEGÓRIE (1)\nRegionalliga Bayern\nFutbal › Kluby › Európa › Nemecko › Regionalliga Bayern\n",
+   "srLive": "Nájdených 23 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 471
+  },
+  "hokej": {
+   "q": "hokej",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (11)",
+    "LINKY (34)",
+    "SPOMENUTÉ V POPISE (385)"
+   ],
+   "total": 245,
+   "first": [
+    "Hokej",
+    "Lotyšská Optibet Hokeja līga",
+    "Litovské kluby v Optibet Hokeja līge",
+    "Bulharská hokejová liga",
+    "Slovinská hokejová liga",
+    "Chorvátska hokejová liga"
+   ],
+   "marks": 213,
+   "snips": 200,
+   "empty": false,
+   "text": "KATEGÓRIE (11)\n🏒\nHokej\nHokej\n›\nLotyšská Optibet Hokeja līga\nHokej › Kluby › Európa › Loty",
+   "srLive": "Nájdených 430 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 478
+  },
+  "liga": {
+   "q": "liga",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (253)",
+    "LINKY (335)",
+    "SPOMENUTÉ V POPISE (814)"
+   ],
+   "total": 600,
+   "first": [
+    "Liga Portugal",
+    "Liga Portugal 2",
+    "Liga 2",
+    "Ligat ha'Al",
+    "Liga Profesional (Primera División)",
+    "Liga de Primera"
+   ],
+   "marks": 224,
+   "snips": 200,
+   "empty": false,
+   "text": "KATEGÓRIE (253)\nLiga Portugal\nFutbal › Kluby › Európa › Portugalsko › Liga Portugal\n›\nLiga",
+   "srLive": "Nájdených 1 402 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 742
+  },
+  ".": {
+   "q": ".",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (48)",
+    "LINKY (248)",
+    "SPOMENUTÉ V POPISE (2258)"
+   ],
+   "total": 448,
+   "first": [
+    "Sv. Tomáš a Princov ostrov",
+    "Sv. Krištof a Nevis",
+    "Sv. Lucia",
+    "Sv. Vincent a Grenadíny",
+    "Sv. Krištof a Nevis",
+    "Sv. Lucia"
+   ],
+   "marks": 200,
+   "snips": 200,
+   "empty": false,
+   "text": "KATEGÓRIE (48)\nSv. Tomáš a Princov ostrov\nFutbal › Kluby › Afrika › Sv. Tomáš a Princov os",
+   "srLive": "Nájdených 2 554 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 506
+  },
+  "(": {
+   "q": "(",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [
+    "KATEGÓRIE (111)",
+    "LINKY (285)",
+    "SPOMENUTÉ V POPISE (5124)"
+   ],
+   "total": 511,
+   "first": [
+    "Južná Amerika (COSAT)",
+    "Kongo (DR)",
+    "Svätý Martin (fr.)",
+    "Kongo (DR)",
+    "efbet League (Parva liga)",
+    "Pervaja liga (FNL)"
+   ],
+   "marks": 220,
+   "snips": 200,
+   "empty": false,
+   "text": "KATEGÓRIE (111)\n🎾\nJužná Amerika (COSAT)\nTenis › Asociácie › Južná Amerika (COSAT)\n›\nKongo",
+   "srLive": "Nájdených 5 520 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 595
+  },
+  "*": {
+   "q": "*",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nŽiadne výsledky pre \"*\"",
+   "srLive": "Nájdených 0 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 488
+  },
+  "\\": {
+   "q": "\\",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nŽiadne výsledky pre \"\\\"",
+   "srLive": "Nájdených 0 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 468
+  },
+  "aaaaaaaaaa…(300)": {
+   "q": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+   "url": "http://127.0.0.1:8123/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nŽiadne výsledky pre \"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+   "srLive": "Nájdených 0 výsledkov",
+   "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+   "ms": 464
+  }
+ },
+ "popis": {
+  "q": "tradicny",
+  "url": "http://127.0.0.1:8123/",
+  "secs": [
+   "SPOMENUTÉ V POPISE (196)"
+  ],
+  "total": 196,
+  "first": [
+   "Barcelona Open Banc Sabadell",
+   "Czech open",
+   "Sovsport",
+   "COSAFA",
+   "FIFA youth cup",
+   "Aston Villa"
+  ],
+  "marks": 196,
+  "snips": 196,
+  "empty": false,
+  "text": "SPOMENUTÉ V POPISE (196)\nBarcelona Open Banc Sabadell\nTenis › Turnaje a Súťaže › ATP Tour ",
+  "srLive": "Nájdených 196 výsledkov",
+  "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+  "ms": 0
+ },
+ "rychlePisanie": {
+  "q": "kosice",
+  "first": [
+   "Košice Wolves",
+   "FC Košice",
+   "CBK Košice"
+  ],
+  "total": 12
+ },
+ "raceDebounceNav": {
+  "url": "http://127.0.0.1:8123/hokej/",
+  "srch": "",
+  "curId": "f_hok",
+  "mainText": "KATEGÓRIE\n🏆\nSúťaže\n4 sekcie · 67 liniek\n→\n👕\nKluby\n3 sekcie",
+  "isSearch": false
+ },
+ "escape": {
+  "srch": "",
+  "isSearch": false,
+  "url": "http://127.0.0.1:8123/hokej/"
+ },
+ "vymazane": {
+  "srch": "",
+  "isSearch": false,
+  "url": "http://127.0.0.1:8123/hokej/",
+  "curId": "f_hok"
+ },
+ "urlStav": {
+  "pocas": "http://127.0.0.1:8123/hokej/",
+  "poReloade": {
+   "srch": "",
+   "isSearch": false
+  }
+ },
+ "aktualneVHladani": {
+  "q": "atp",
+  "url": "http://127.0.0.1:8123/hokej/",
+  "secs": [
+   "KATEGÓRIE (3)",
+   "LINKY (9)",
+   "SPOMENUTÉ V POPISE (22)"
+  ],
+  "total": 34,
+  "first": [
+   "ATP Tour",
+   "ATP 500",
+   "ATP 250",
+   "ATP scores",
+   "ATP Tour",
+   "ATP Challenger Tour"
+  ],
+  "marks": 23,
+  "snips": 22,
+  "empty": false,
+  "text": "KATEGÓRIE (3)\n🎾\nATP Tour\nTenis › Turnaje a Súťaže › ATP Tour\n›\n🎾\nATP 500\nTenis › Turnaje",
+  "srLive": "Nájdených 34 výsledkov",
+  "title": "Hokej — Športové Linky",
+  "ms": 0
+ },
+ "zHlbky": {
+  "q": "arsenal",
+  "url": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/",
+  "secs": [
+   "LINKY (9)",
+   "SPOMENUTÉ V POPISE (11)"
+  ],
+  "total": 20,
+  "first": [
+   "Arsenal",
+   "Arsenal Dzeržinsk",
+   "Arsenal Tula",
+   "Arsenal (Sarandi)",
+   "Arsenal Club Petit-Bourg",
+   "Arsenal Club"
+  ],
+  "marks": 11,
+  "snips": 11,
+  "empty": false,
+  "text": "LINKY (9)\nArsenal\nFutbal › Kluby › Európa › Anglicko › Premier League\n⚽\nArsenal Dzeržinsk\n",
+  "srLive": "Nájdených 20 výsledkov",
+  "title": "Anglicko — Európa · Futbal — Športové Linky",
+  "ms": 0
+ },
+ "mobil": {
+  "q": "kosice",
+  "url": "http://127.0.0.1:8123/",
+  "secs": [
+   "LINKY (6)",
+   "SPOMENUTÉ V POPISE (6)"
+  ],
+  "total": 12,
+  "first": [
+   "Košice Wolves",
+   "FC Košice",
+   "CBK Košice",
+   "Young Angels Košice",
+   "HK Košice",
+   "HC Košice"
+  ],
+  "marks": 6,
+  "snips": 6,
+  "empty": false,
+  "text": "LINKY (6)\nKošice Wolves\nBasketbal › Kluby › Európa › Slovensko › SBL\nFC Košice\nFutbal › Kl",
+  "srLive": "Nájdených 12 výsledkov",
+  "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+  "ms": 0
+ },
+ "mobilFontSize": "16px",
+ "en": {
+  "kosice": {
+   "q": "kosice",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "LINKS (6)",
+    "MENTIONED IN DESCRIPTIONS (7)"
+   ],
+   "total": 13,
+   "first": [
+    "Košice Wolves",
+    "FC Košice",
+    "CBK Košice",
+    "Young Angels Košice",
+    "HK Košice",
+    "HC Košice"
+   ],
+   "marks": 7,
+   "snips": 7,
+   "empty": false,
+   "text": "LINKS (6)\nKošice Wolves\nBasketball › Clubs › Europe › Slovakia › SBL\nFC Košice\nFootball › ",
+   "srLive": "13 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "košice": {
+   "q": "košice",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "LINKS (6)",
+    "MENTIONED IN DESCRIPTIONS (7)"
+   ],
+   "total": 13,
+   "first": [
+    "Košice Wolves",
+    "FC Košice",
+    "CBK Košice",
+    "Young Angels Košice",
+    "HK Košice",
+    "HC Košice"
+   ],
+   "marks": 7,
+   "snips": 7,
+   "empty": false,
+   "text": "LINKS (6)\nKošice Wolves\nBasketball › Clubs › Europe › Slovakia › SBL\nFC Košice\nFootball › ",
+   "srLive": "13 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "germany": {
+   "q": "germany",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "CATEGORIES (6)",
+    "LINKS (14)",
+    "MENTIONED IN DESCRIPTIONS (55)"
+   ],
+   "total": 75,
+   "first": [
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany"
+   ],
+   "marks": 56,
+   "snips": 55,
+   "empty": false,
+   "text": "CATEGORIES (6)\nGermany\nFootball › Clubs › Europe › Germany\n›\nGermany\nIce Hockey › Clubs › ",
+   "srLive": "75 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "nemecko": {
+   "q": "nemecko",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nNo results for \"nemecko\"",
+   "srLive": "0 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "england": {
+   "q": "england",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "CATEGORIES (4)",
+    "LINKS (8)",
+    "MENTIONED IN DESCRIPTIONS (58)"
+   ],
+   "total": 70,
+   "first": [
+    "England",
+    "England",
+    "England",
+    "England",
+    "England squash",
+    "England"
+   ],
+   "marks": 58,
+   "snips": 58,
+   "empty": false,
+   "text": "CATEGORIES (4)\nEngland\nFootball › Clubs › Europe › England\n›\nEngland\nNews & Media › Europe",
+   "srLive": "70 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "anglicko": {
+   "q": "anglicko",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [],
+   "total": 0,
+   "first": [],
+   "marks": 0,
+   "snips": 0,
+   "empty": true,
+   "text": "🔍\n\nNo results for \"anglicko\"",
+   "srLive": "0 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "brondby": {
+   "q": "brondby",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "LINKS (2)",
+    "MENTIONED IN DESCRIPTIONS (6)"
+   ],
+   "total": 8,
+   "first": [
+    "Brøndby IF",
+    "Brøndby VK",
+    "Denmark",
+    "Bold",
+    "Berlingske sport",
+    "Superliga"
+   ],
+   "marks": 6,
+   "snips": 6,
+   "empty": false,
+   "text": "LINKS (2)\nBrøndby IF\nFootball › Clubs › Europe › Denmark › Superliga\nBrøndby VK\nVolleyball",
+   "srLive": "8 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "tipsport": {
+   "q": "tipsport",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "LINKS (2)",
+    "MENTIONED IN DESCRIPTIONS (4)"
+   ],
+   "total": 6,
+   "first": [
+    "Slovakia – Tipsport Liga",
+    "Czechia – Tipsport Extraliga",
+    "Slovak Extraliga",
+    "HC 05 Banská Bystrica",
+    "HK Nitra",
+    "HockeySlovakia Statistics"
+   ],
+   "marks": 4,
+   "snips": 4,
+   "empty": false,
+   "text": "LINKS (2)\nLEAGUE\nSlovakia – Tipsport Liga\nIce Hockey › Clubs › Europe › Slovakia › Slovak ",
+   "srLive": "6 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "atp": {
+   "q": "atp",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "CATEGORIES (3)",
+    "LINKS (9)",
+    "MENTIONED IN DESCRIPTIONS (27)"
+   ],
+   "total": 39,
+   "first": [
+    "ATP Tour",
+    "ATP 500",
+    "ATP 250",
+    "ATP Scores",
+    "ATP Tour",
+    "ATP Challenger Tour"
+   ],
+   "marks": 28,
+   "snips": 27,
+   "empty": false,
+   "text": "CATEGORIES (3)\n🎾\nATP Tour\nTennis › Tournaments & Competitions › ATP Tour\n›\n🎾\nATP 500\nTen",
+   "srLive": "39 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  },
+  "slovan": {
+   "q": "slovan",
+   "url": "http://127.0.0.1:8124/",
+   "secs": [
+    "LINKS (15)",
+    "MENTIONED IN DESCRIPTIONS (12)"
+   ],
+   "total": 27,
+   "first": [
+    "Slovan Bratislava",
+    "Slovanka",
+    "ŠK Slovan Bratislava",
+    "ŠK Slovan Bratislava B",
+    "FC Slovan Galanta",
+    "FC Slovan Liberec"
+   ],
+   "marks": 12,
+   "snips": 12,
+   "empty": false,
+   "text": "LINKS (15)\nSlovan Bratislava\nBasketball › Clubs › Europe › Slovakia › SBL\nSlovanka\nBasketb",
+   "srLive": "27 results found",
+   "title": "Sportlinking — 14,000+ club, league and news websites",
+   "ms": 0
+  }
+ },
+ "skEnOnly": {
+  "q": "live this",
+  "url": "http://127.0.0.1:8123/",
+  "secs": [],
+  "total": 0,
+  "first": [],
+  "marks": 0,
+  "snips": 0,
+  "empty": true,
+  "text": "🔍\n\nŽiadne výsledky pre \"live this\"",
+  "srLive": "Nájdených 0 výsledkov",
+  "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+  "ms": 0
+ },
+ "skTipovanie": {
+  "q": "tipsport",
+  "url": "http://127.0.0.1:8123/",
+  "secs": [
+   "LINKY (4)",
+   "SPOMENUTÉ V POPISE (5)"
+  ],
+  "total": 9,
+  "first": [
+   "Tipsport",
+   "Tipsport liga – výsledky a tabuľka",
+   "Slovensko – Tipsport liga",
+   "Česko – Tipsport extraliga",
+   "Slovenská extraliga",
+   "HC 05 Banská Bystrica"
+  ],
+  "marks": 5,
+  "snips": 5,
+  "empty": false,
+  "text": "LINKY (4)\nTipsport\nTipovanie\nLIGA\nTipsport liga – výsledky a tabuľka\nHokej\nLIGA\nSlovensko ",
+  "srLive": "Nájdených 9 výsledkov",
+  "title": "Športové Linky — 14 000+ webov klubov, líg a správ",
+  "ms": 0
+ },
+ "log": {
+  "skErrors": [],
+  "enErrors": [],
+  "mobErrors": [],
+  "skConsole": []
+ }
+}

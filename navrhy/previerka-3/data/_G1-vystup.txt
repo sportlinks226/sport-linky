@@ -1,0 +1,103 @@
+version: 1125 | uzlov: 16510
+typy: {'folder': 1663, 'link': 14847}
+
+Kľúče (počet, podľa typu uzla, typy hodnôt, prázdne):
+  id            16510  folder= 1663 link=14847  typy={'str': 16510}  prázdne/null=0
+  type          16510  folder= 1663 link=14847  typy={'str': 16510}  prázdne/null=0
+  parentId      16510  folder= 1663 link=14847  typy={'NoneType': 11, 'str': 16499}  prázdne/null=11
+  name          16510  folder= 1663 link=14847  typy={'str': 16510}  prázdne/null=0
+  icon          16510  folder= 1663 link=14847  typy={'str': 16510}  prázdne/null=13108
+  desc          16510  folder= 1663 link=14847  typy={'str': 16510}  prázdne/null=115
+  order         16510  folder= 1663 link=14847  typy={'int': 16510}  prázdne/null=0
+  desc_en       16395  folder= 1548 link=14847  typy={'str': 16395}  prázdne/null=0
+  url           14849  folder=    2 link=14847  typy={'str': 14847, 'NoneType': 2}  prázdne/null=2
+  ig             7366  folder=    0 link= 7366  typy={'str': 7366}  prázdne/null=0
+  name_en        5277  folder= 1663 link= 3614  typy={'str': 5277}  prázdne/null=0
+  fb             5269  folder=    0 link= 5269  typy={'str': 5269}  prázdne/null=0
+  order_en       2905  folder=  291 link= 2614  typy={'int': 2905}  prázdne/null=0
+  slug           1951  folder= 1663 link=  288  typy={'str': 1951}  prázdne/null=0
+  slug_en        1761  folder= 1473 link=  288  typy={'str': 1761}  prázdne/null=0
+  en               17  folder=    1 link=   16  typy={'bool': 17}  prázdne/null=0
+  tag              10  folder=    0 link=   10  typy={'str': 10}  prázdne/null=0
+  enOnly            5  folder=    0 link=    5  typy={'bool': 5}  prázdne/null=0
+  noTileSk          1  folder=    1 link=    0  typy={'bool': 1}  prázdne/null=0
+
+Neočakávané kľúče: []
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/neocakavane-kluce.csv (0 riadkov)
+order nie je číslo: 0
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/order-nie-cislo.csv (0 riadkov)
+order_en nie je číslo: 0
+order float: 0
+tag hodnoty: Counter({'scores': 10})
+en hodnoty: Counter({'False': 17})
+enOnly hodnoty: Counter({'True': 5})
+noTileSk hodnoty: Counter({'True': 1})
+type iný než folder/link: []
+link s slug: 288
+link s slug_en: 288
+folder s url: 0
+folder s fb/ig: 0
+folder bez slug: 0
+folder bez slug_en: 190
+duplicitné id: 0 []
+uzly bez id: 0
+vzory id (top 10): [('f_vol_klu_eu_s', 175), ('f_hok_klu_na_n', 137), ('f_vol_klu_eu_i', 133), ('f_vol_klu_eu_b', 101), ('f_vol_klu_eu_f', 85), ('f_vol_klu_eu_p', 78), ('f_vol_klu_eu_r', 77), ('f_vol_klu_eu_c', 76), ('f_usa_l#_k#', 72), ('f_hok_klu_eu_s', 71)]
+
+Osirelé uzly (parent neexistuje): 0
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/osirele.csv (0 riadkov)
+uzly, ktorých rodič je linka: 0
+uzly v cykle: 0
+hĺbka (histogram): {1: 11, 2: 92, 3: 1062, 4: 3862, 5: 1591, 6: 9892}
+  priečinky: {1: 11, 2: 70, 3: 320, 4: 523, 5: 739}  linky: {2: 22, 3: 742, 4: 3339, 5: 852, 6: 9892}
+  najhlbšie: 6 Futbal › Kluby › Európa › Anglicko › Premier League › Arsenal
+  najhlbšie: 6 Futbal › Kluby › Európa › Anglicko › Premier League › Aston Villa
+  najhlbšie: 6 Futbal › Kluby › Európa › Anglicko › Premier League › AFC Bournemouth
+  najhlbšie: 6 Futbal › Kluby › Európa › Anglicko › Premier League › Brentford
+  najhlbšie: 6 Futbal › Kluby › Európa › Anglicko › Premier League › Brighton & Hove Albion
+koreňové uzly: [('f_ltw', 'Aktuálne', 'folder'), ('f_fut', 'Futbal', 'folder'), ('f_hok', 'Hokej', 'folder'), ('f_ten', 'Tenis', 'folder'), ('f_bas', 'Basketbal', 'folder'), ('f_had', 'Hádzaná', 'folder'), ('f_vol', 'Volejbal', 'folder'), ('f_zim', 'Zimné športy', 'folder'), ('f_ost', 'Ostatné športy', 'folder'), ('f_med', 'Správy & Médiá', 'folder'), ('f_tip', 'Tipovanie', 'folder')]
+priečinky bez detí (úplne prázdne): 116
+priečinky s deťmi, ale bez jedinej linky v podstrome: 3
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/prazdne-priecinky.csv (119 riadkov)
+  podľa sekcie: [('Správy & Médiá', 118), ('Aktuálne', 1)]
+uzly en:false: 17  enOnly: 5
+  prázdne (oba druhy) viditeľné na SK: 119 | na EN: 119
+uzly bez name: 0 []
+linky bez url: 0
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/linky-bez-url.csv (0 riadkov)
+priečinky bez desc: 115 | bez desc_en (viditeľné na EN): 115
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/priecinky-bez-desc.csv (230 riadkov)
+priečinky bez name_en (viditeľné na EN): 0
+linky viditeľné na EN: 14830
+  bez name_en (EN ukáže SK názov): 11233
+  bez desc_en (EN ukáže SK popis / nič): 0
+linky bez desc (SK): 0
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/bez-name_en.csv (11233 riadkov)
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/bez-desc_en.csv (0 riadkov)
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/linky-bez-desc.csv (0 riadkov)
+  bez name_en podľa sekcie: [('Futbal', 3835), ('Volejbal', 1841), ('Basketbal', 1734), ('Správy & Médiá', 1266), ('Hádzaná', 1016), ('Hokej', 806), ('Ostatné športy', 433), ('Tenis', 207), ('Zimné športy', 95)]
+  bez desc_en podľa sekcie: []
+name_en == name a názov vyzerá slovensky: 921
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/name_en-rovnake-slovenske.csv (921 riadkov)
+desc_en == desc (neprázdne): 1
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/desc_en-rovnake.csv (1 riadkov)
+duplicitné name medzi súrodencami (uzlov): 10
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/duplicitne-name-surodenci.csv (10 riadkov)
+priečinky s rovnakým SK slugom medzi súrodencami: 0 | EN: 0
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/duplicitne-slugy-surodenci.csv (0 riadkov)
+slugy nevalidné (diakritika/veľké/medzery/ine znaky): 3
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/slugy-nevalidne.csv (3 riadkov)
+slug sa líši od slugify(name) (bez -2/-3 dedupe): 148 (sk: 69 en: 79 )
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/slugy-nekonzistentne.csv (148 riadkov)
+slugy končiace -2/-3…: 4
+názvy s medzerou na kraji: 0
+názvy s dvojitou medzerou: 0
+emoji v názve: 0 []
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/nazvy-medzery-emoji.csv (0 riadkov)
+linky s order -1 (štítok LIGA): 800 | uzly s tag: 10 Counter({'scores': 10})
+priečinky s viac než 1 linkou order -1: 5
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/viac-liga-stitkov.csv (5 riadkov)
+priečinky s order -1: 0
+order < -1: [('f_aut_l3sud_liga_stmk', -2, 'Regionalliga Süd – Štajersko'), ('f_had_live_sk', -2, 'Hádzaná dnes – live výsledky'), ('f_had_live_en', -2, 'Hádzaná dnes – live výsledky'), ('f_fut_live_sk', -2, 'Futbal dnes – live výsledky'), ('f_fut_live_en', -2, 'Futbal dnes – live výsledky'), ('f_hok_live_sk', -2, 'Hokej dnes – live výsledky'), ('f_hok_live_en', -2, 'Hokej dnes – live výsledky'), ('f_bas_live_sk', -2, 'Basketbal dnes – live výsledky'), ('f_bas_live_en', -2, 'Basketbal dnes – live výsledky'), ('f_vol_live_sk', -2, 'Volejbal dnes – live výsledky')]
+uzly so zhodným order ako súrodenec: 23
+priečinky so zhodným order ako súrodenecký priečinok: 2
+  -> /tmp/claude-0/-home-user/eed11a80-25e6-51b3-88cc-2253d64cd8b2/scratchpad/findings/data/duplicitny-order-priecinky.csv (2 riadkov)

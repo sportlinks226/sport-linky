@@ -1,0 +1,39 @@
+
+## mobil
+| Stránka | img spolu | ikonky (req) | 404 ikonky | vlajky (req) | 404 vlajky | nad ohybom (img) | lazy | bez width/height | decoding=async | B ikonky | B vlajky | ikonky ≤1px (neviditeľné) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| domov | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 () | 0 | 0 | 0 | 0 |
+  rozmery súborov: ; CSS rozmery: 
+| Anglicko | 8 | 0 | 0 | 2 | 0 | 7 | 8 | 0 () | 0 | 0 | 1241 | 0 |
+  rozmery súborov: 16x12 40x30; CSS rozmery: 16x12 40x30
+| Championship | 75 | 27 | 0 | 2 | 0 | 18 | 75 | 73 (fav, si) | 0 | 43647 | 1054 | 0 |
+  rozmery súborov: 16x12 64x64; CSS rozmery: 16x12 24x24 20x20
+| Aktuálne | 3 | 3 | 0 | 0 | 0 | 3 | 3 | 3 (fav) | 0 | 4619 | 0 | 0 |
+  rozmery súborov: 32x32 64x64; CSS rozmery: 24x24
+| hľadanie „real“ | 169 | 53 | 0 | 8 | 0 | 18 | 169 | 152 (fav, si) | 0 | 88591 | 5605 | 0 |
+  rozmery súborov: 64x64 32x32 16x16 48x48 57x57 24x18; CSS rozmery: 24x24 20x20 24x18
+| Premier League | 63 | 23 | 0 | 2 | 0 | 18 | 63 | 61 (fav, si) | 0 | 44330 | 1054 | 0 |
+  rozmery súborov: 16x12 64x64 32x32 48x48 16x16; CSS rozmery: 16x12 24x24 20x20
+| Slovensko hokej kluby | 3 | 0 | 0 | 4 | 0 | 3 | 3 | 0 () | 0 | 0 | 3061 | 0 |
+  rozmery súborov: 16x12 40x30; CSS rozmery: 16x12 40x30
+
+## desktop
+| Stránka | img spolu | ikonky (req) | 404 ikonky | vlajky (req) | 404 vlajky | nad ohybom (img) | lazy | bez width/height | decoding=async | B ikonky | B vlajky | ikonky ≤1px (neviditeľné) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| domov | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 () | 0 | 0 | 0 | 0 |
+| Anglicko | 8 | 0 | 0 | 4 | 0 | 8 | 8 | 0 () | 0 | 0 | 2611 | 0 |
+| Championship | 75 | 27 | 0 | 2 | 0 | 75 | 75 | 73 (fav, si) | 0 | 43647 | 1054 | 0 |
+| Aktuálne | 3 | 3 | 0 | 0 | 0 | 3 | 3 | 3 (fav) | 0 | 4619 | 0 | 0 |
+| hľadanie „real“ | 169 | 53 | 0 | 8 | 0 | 83 | 169 | 152 (fav, si) | 0 | 88591 | 5605 | 0 |
+| Premier League | 63 | 23 | 0 | 2 | 0 | 63 | 63 | 61 (fav, si) | 0 | 44330 | 1054 | 0 |
+| Slovensko hokej kluby | 3 | 0 | 0 | 2 | 0 | 3 | 3 | 0 () | 0 | 0 | 1580 | 0 |
+
+ikony/: 8120 súborov, 11.7 MB, priemer 1511 B, nad 5 kB: 190, najväčší www.neistin.fo.png 11705 B; rozdelenie: {"1–2 kB":3465,"2–5 kB":1503,"<1 kB":2962,">5 kB":190}
+formát: PNG 7530, JPEG s príponou .png 590, iné 0; rozmery PNG (top 8): 64x64:5558 16x16:816 32x32:395 48x48:336 1x1:243 60x60:19 57x57:17 50x50:14
+vlajky/16x12: 231 súborov, 113 kB, priemer 501 B
+vlajky/20x15: 231 súborov, 156 kB, priemer 691 B
+vlajky/24x18: 231 súborov, 151 kB, priemer 672 B
+vlajky/32x24: 231 súborov, 179 kB, priemer 795 B
+vlajky/40x30: 231 súborov, 217 kB, priemer 963 B
+vlajky/48x36: 231 súborov, 245 kB, priemer 1085 B
+vlajky/80x60: 231 súborov, 371 kB, priemer 1645 B

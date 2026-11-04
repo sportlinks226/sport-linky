@@ -1,0 +1,211 @@
+{
+ "spatPosun_desktop1366": {
+  "vyskaEuropa": 1360,
+  "vyskaAnglicko": 918,
+  "posunPredKlikom": 592,
+  "poSpat": {
+   "tl": [
+    [
+     "popstate",
+     0,
+     1360
+    ],
+    [
+     "rAF",
+     0,
+     1360
+    ],
+    [
+     "t300",
+     0,
+     1360
+    ]
+   ],
+   "now": 0,
+   "h": 1360,
+   "restoration": "auto",
+   "state": {
+    "curId": "f_fut_klu_eu"
+   }
+  }
+ },
+ "spatPosun_pixel5": {
+  "vyskaEuropa": 4701,
+  "vyskaAnglicko": 1331,
+  "posunPredKlikom": 1500,
+  "poSpat": {
+   "tl": [
+    [
+     "popstate",
+     0,
+     4701
+    ],
+    [
+     "rAF",
+     180,
+     4701
+    ],
+    [
+     "t300",
+     180,
+     4701
+    ]
+   ],
+   "now": 180,
+   "h": 4701,
+   "restoration": "auto",
+   "state": {
+    "curId": "f_fut_klu_eu"
+   }
+  }
+ },
+ "reklama_/": {
+  "pokusyOPartnerskySkript": [
+   "https://ban.tipsport.sk/c/textA.php?pl=131672",
+   "https://ban.tipsport.sk/c/textA.php?pl=131671"
+  ],
+  "pocet": 2,
+  "promoIframeZostal": null,
+  "slotIframeZostal": true,
+  "errors": []
+ },
+ "reklama_/tipovanie/": {
+  "pokusyOPartnerskySkript": [
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://ban.tipsport.sk/c/rotateA.php?id=10&pid=5261&sid=6446",
+   "https://ban.tipsport.sk/c/textA.php?pl=131672",
+   "https://ban.tipsport.sk/c/textA.php?pl=131671"
+  ],
+  "pocet": 4,
+  "promoIframeZostal": true,
+  "slotIframeZostal": true,
+  "errors": []
+ },
+ "reklama_/futbal/kluby/europa/anglicko/": {
+  "pokusyOPartnerskySkript": [
+   "https://ban.tipsport.sk/c/textA.php?pl=131672",
+   "https://ban.tipsport.sk/c/textA.php?pl=131671"
+  ],
+  "pocet": 2,
+  "promoIframeZostal": null,
+  "slotIframeZostal": true,
+  "errors": []
+ },
+ "hreflangPoPrekliku": {
+  "statickaAnglicko": [
+   "sk=https://sportlinky.sk/futbal/kluby/europa/anglicko/",
+   "en=https://sportlinking.com/football/clubs/europe/england/",
+   "x-default=https://sportlinking.com/football/clubs/europe/england/"
+  ],
+  "poKlikuPremierLeague": {
+   "url": "/futbal/kluby/europa/anglicko/premier-league/",
+   "canonical": "http://127.0.0.1:8123/futbal/kluby/europa/anglicko/premier-league/",
+   "hreflang": [
+    "sk=https://sportlinky.sk/futbal/kluby/europa/anglicko/",
+    "en=https://sportlinking.com/football/clubs/europe/england/",
+    "x-default=https://sportlinking.com/football/clubs/europe/england/"
+   ]
+  },
+  "poNavigaciiTipovanie": {
+   "url": "/tipovanie/",
+   "canonical": "http://127.0.0.1:8123/tipovanie/",
+   "hreflang": [
+    "sk=https://sportlinky.sk/futbal/kluby/europa/anglicko/",
+    "en=https://sportlinking.com/football/clubs/europe/england/",
+    "x-default=https://sportlinking.com/football/clubs/europe/england/"
+   ]
+  }
+ },
+ "prepinacJazyka": {
+  "odkazyNaEN": [],
+  "textEN": false,
+  "hreflangLinkElements": 3
+ },
+ "prepinacJazykaEN": {
+  "odkazyNaSK": [],
+  "textSK": false,
+  "hreflang": [
+   "sk=https://sportlinky.sk/futbal/kluby/europa/anglicko/",
+   "en=https://sportlinking.com/football/clubs/europe/england/",
+   "x-default=https://sportlinking.com/football/clubs/europe/england/"
+  ]
+ },
+ "hreflangTipovanieStaticke": 1,
+ "enFalseFolders": 1,
+ "enOnlyFolders": [],
+ "pomalaSiet_desktop": {
+  "statickaDCLms": 1030,
+  "udalosti": [
+   [
+    "DCL",
+    1030
+   ],
+   [
+    "load",
+    1031
+   ]
+  ],
+  "appkaPoMs": 6655,
+  "appkaPerfNow": 6650,
+  "celeDataMs": 96764,
+  "posunPocasStatickej": 600,
+  "posunPoPrevzati": 229,
+  "hnedPoPrevzati": {
+   "partial": true,
+   "cards": 21
+  },
+  "errors": []
+ },
+ "pomalaSiet_pixel5": {
+  "statickaDCLms": 1005,
+  "udalosti": [
+   [
+    "DCL",
+    1005
+   ],
+   [
+    "load",
+    1006
+   ]
+  ],
+  "appkaPoMs": 6636,
+  "appkaPerfNow": 6628,
+  "celeDataMs": 96745,
+  "posunPocasStatickej": 600,
+  "posunPoPrevzati": 600,
+  "hnedPoPrevzati": {
+   "partial": true,
+   "cards": 21
+  },
+  "errors": []
+ },
+ "skusitZnova": {
+  "predKlikom": {
+   "main": "⚠️ Nepodarilo sa načítať dáta Skúsiť znova",
+   "btn": true,
+   "fail": true
+  },
+  "hnedPoKliku": {
+   "main": "LIGA Premier League Oficiálna tabuľka Pr"
+  },
+  "poNacitani": {
+   "main": "LIGA Premier League Oficiálna tabuľka Premier League na webe ligy — poradie aktu",
+   "cards": 21,
+   "fail": false,
+   "partial": false,
+   "count": "14 847 overených liniek"
+  },
+  "ms": 612,
+  "pokusy": 3,
+  "errors": []
+ },
+ "iphoneHlavicka": {
+  "headerH": 126,
+  "innerH": 664,
+  "podiel": "19 %",
+  "aktWrapH": 101,
+  "bannerH": 56,
+  "breadcrumbH": 28,
+  "prvaDlazdicaTop": 326.921875
+ }
+}

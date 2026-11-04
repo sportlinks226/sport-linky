@@ -1,0 +1,37 @@
+{
+ "base": "http://127.0.0.1:8123/",
+ "app": 1663,
+ "statickych": 1543,
+ "stat": {
+  "zhoda": 1543,
+  "rozdiel": 0,
+  "chybaStatika": 2,
+  "chybaAppka": 0,
+  "prazdne": 118
+ },
+ "rozdiely": [
+  {
+   "id": "f_yem_l1",
+   "name": "Jemenská liga",
+   "url": "/futbal/kluby/azia/jemen/jemenská-liga/",
+   "co": "appka má stránku, statika nie"
+  },
+  {
+   "id": "f_bas_fra_l3",
+   "name": "La Boulangère Wonderligue (ženy)",
+   "url": "/basketbal/kluby/europa/francuzsko/la-boulangère-wonderligue-zeny/",
+   "co": "appka má stránku, statika nie"
+  }
+ ],
+ "vzorka": 4,
+ "rstat": {
+  "zhoda": 4,
+  "rozdiel": 0,
+  "chyba": 0,
+  "priemer_ms_prevzatie": 207,
+  "priemer_ms_cele_data": 867
+ },
+ "realRozdiely": [],
+ "jsErr": [],
+ "err2": []
+}

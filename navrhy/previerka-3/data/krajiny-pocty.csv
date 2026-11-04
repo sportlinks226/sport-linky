@@ -1,0 +1,513 @@
+cesta,name_en,id,liniek,podpriecinkov,priamych_liniek,liniek_ligy,icon
+Futbal › Kluby › Európa › Anglicko,England,f_fut_klu_eu_ang,171,7,0,7,gb-eng
+Futbal › Kluby › Európa › Nemecko,Germany,f_fut_klu_eu_deu,155,8,0,8,de
+Futbal › Kluby › Južná Amerika › Argentína,Argentina,f_fut_klu_ja_arg,129,4,0,4,ar
+Futbal › Kluby › Európa › Taliansko,Italy,f_fut_klu_eu_ita,105,5,0,5,it
+Futbal › Kluby › Európa › Rakúsko,Austria,f_fut_klu_eu_aut,98,6,0,6,at
+Futbal › Kluby › Európa › Holandsko,Netherlands,f_fut_klu_eu_nld,97,5,0,5,nl
+Futbal › Kluby › Európa › Španielsko,Spain,f_fut_klu_eu_esp,86,4,0,4,es
+Futbal › Kluby › Európa › Turecko,Turkey,f_fut_klu_eu_tur,77,4,0,4,tr
+Futbal › Kluby › Severná a Stredná Amerika › USA,United States,f_fut_klu_na_usa,75,3,0,3,us
+Futbal › Kluby › Európa › Švédsko,Sweden,f_fut_klu_eu_swe,68,4,0,4,se
+Futbal › Kluby › Európa › Belgicko,Belgium,f_fut_klu_eu_bel,65,4,0,4,be
+Futbal › Kluby › Európa › Nórsko,Norway,f_fut_klu_eu_nor,64,4,0,4,no
+Hokej › Kluby › Severná Amerika › NCDC,NCDC,f_hok_klu_na_ncdc,64,0,64,1,🏒
+Futbal › Kluby › Južná Amerika › Brazília,Brazil,f_fut_klu_ja_bra,63,3,0,3,br
+Futbal › Kluby › Ázia › Japonsko,Japan,f_fut_klu_az_jpn,63,3,0,3,jp
+Volejbal › Kluby › Európa (CEV) › Taliansko,Italy,f_vol_klu_eu_italy,61,4,0,4,it
+Futbal › Kluby › Európa › Portugalsko,Portugal,f_fut_klu_eu_prt,60,4,0,4,pt
+Futbal › Kluby › Európa › Francúzsko,France,f_fut_klu_eu_fra,57,3,0,3,fr
+Futbal › Kluby › Európa › Poľsko,Poland,f_fut_klu_eu_pol,57,3,0,3,pl
+Basketbal › Kluby › Európa › Španielsko,Spain,f_bas_klu_eu_esp,55,3,0,3,es
+Hokej › Kluby › Európa › Rusko,Russia,f_hok_klu_eu_rus,52,2,0,2,ru
+Futbal › Kluby › Európa › Wales,Wales,f_fut_klu_eu_wal,51,3,0,3,gb-wls
+Basketbal › Kluby › Európa › Taliansko,Italy,f_bas_klu_eu_ita,51,3,0,3,it
+Basketbal › Kluby › Európa › Francúzsko,France,f_bas_klu_eu_fra,51,3,0,3,fr
+Hádzaná › Kluby › Európa › Nemecko,Germany,f_had_deu,51,3,0,3,de
+Basketbal › Kluby › Európa › Nemecko,Germany,f_bas_klu_eu_ger,49,3,0,3,de
+Hádzaná › Kluby › Európa › Španielsko,Spain,f_had_esp,49,3,0,3,es
+Hádzaná › Kluby › Európa › Francúzsko,France,f_had_fra,47,3,0,3,fr
+Futbal › Kluby › Európa › Škótsko,Scotland,f_fut_klu_eu_sco,46,4,0,4,gb-sct
+Futbal › Kluby › Európa › Chorvátsko,Croatia,f_fut_klu_eu_hrv,45,3,0,3,hr
+Hádzaná › Kluby › Európa › Dánsko,Denmark,f_had_dnk,45,3,0,3,dk
+Hádzaná › Kluby › Európa › Nórsko,Norway,f_had_nor,45,3,0,3,no
+Volejbal › Kluby › Európa (CEV) › Poľsko,Poland,f_vol_klu_eu_poland,45,3,0,3,pl
+Volejbal › Kluby › Európa (CEV) › Turecko,Türkiye,f_vol_klu_eu_turkiye,45,3,0,3,tr
+Volejbal › Kluby › Európa (CEV) › Rusko,Russia,f_vol_klu_eu_russia,45,3,0,3,ru
+Basketbal › Kluby › Ázia › Japonsko,Japan,f_bas_klu_az_jpn,43,2,0,2,jp
+Hádzaná › Kluby › Európa › Švédsko,Sweden,f_had_swe,43,3,0,3,se
+Futbal › Kluby › Afrika › Egypt,Egypt,f_fut_klu_af_egy,42,2,0,2,eg
+Volejbal › Kluby › Európa (CEV) › Francúzsko,France,f_vol_klu_eu_france,42,3,0,3,fr
+Volejbal › Kluby › Afrika (CAVB) › Egypt,Egypt,f_vol_klu_af_egypt,42,2,0,2,eg
+Futbal › Kluby › Európa › Rumunsko,Romania,f_fut_klu_eu_rou,40,2,0,2,ro
+Futbal › Kluby › Ázia › Indonézia,Indonesia,f_fut_klu_az_idn,40,2,0,2,id
+Basketbal › Kluby › Ázia › Čína,China,f_bas_klu_az_chn,40,2,0,2,cn
+Futbal › Kluby › Európa › Dánsko,Denmark,f_fut_klu_eu_dnk,39,3,0,3,dk
+Futbal › Kluby › Južná Amerika › Kolumbia,Colombia,f_fut_klu_ja_col,38,2,0,2,co
+Futbal › Kluby › Južná Amerika › Peru,Peru,f_fut_klu_ja_per,38,2,0,2,pe
+Futbal › Kluby › Európa › Fínsko,Finland,f_fut_klu_eu_fin,37,3,0,3,fi
+Hokej › Kluby › Severná Amerika › NAHL,NAHL,f_hok_klu_na_nahl,37,0,37,1,🏒
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Spojené štáty americké,United States,f_vol_klu_na_united-states,37,3,0,3,us
+Futbal › Kluby › Európa › Rusko,Russia,f_fut_klu_eu_rus,36,2,0,2,ru
+Futbal › Kluby › Severná a Stredná Amerika › Mexiko,Mexico,f_fut_klu_na_mex,36,2,0,2,mx
+Basketbal › Kluby › Európa › Srbsko,Serbia,f_bas_klu_eu_srb,36,2,0,2,rs
+Futbal › Kluby › Oceánia › Nový Zéland,New Zealand,f_fut_klu_oc_nzl,35,3,0,3,nz
+Hádzaná › Kluby › Európa › Česko,Czechia,f_had_cze,35,3,0,3,cz
+Futbal › Kluby › Európa › Česko,Czechia,f_fut_klu_eu_cze,34,2,0,2,cz
+Futbal › Kluby › Európa › Bulharsko,Bulgaria,f_fut_klu_eu_bgr,34,2,0,2,bg
+Futbal › Kluby › Európa › Ukrajina,Ukraine,f_fut_klu_eu_ukr,34,2,0,2,ua
+Futbal › Kluby › Južná Amerika › Chile,Chile,f_fut_klu_ja_chi,34,2,0,2,cl
+Futbal › Kluby › Afrika › JAR,South Africa,f_fut_klu_af_zaf,34,2,0,2,za
+Futbal › Kluby › Afrika › Maroko,Morocco,f_fut_klu_af_mar,34,2,0,2,ma
+Futbal › Kluby › Ázia › Čína,China,f_fut_klu_az_chn,34,2,0,2,cn
+Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC) › Argentína,Argentina,f_had_arg,34,2,0,2,ar
+Futbal › Kluby › Južná Amerika › Venezuela,Venezuela,f_fut_klu_ja_ven,33,2,0,2,ve
+Hokej › Kluby › Severná Amerika › NHL,NHL,f_hok_klu_na_nhl,33,0,33,1,🏒
+Hokej › Kluby › Severná Amerika › AHL,AHL,f_hok_klu_na_ahl,33,0,33,1,🏒
+Volejbal › Kluby › Afrika (CAVB) › Alžírsko,Algeria,f_vol_klu_af_algeria,33,2,0,2,dz
+Futbal › Kluby › Európa › Grécko,Greece,f_fut_klu_eu_grc,32,2,0,2,gr
+Futbal › Kluby › Európa › Srbsko,Serbia,f_fut_klu_eu_srb,32,2,0,2,rs
+Futbal › Kluby › Európa › Izrael,Israel,f_fut_klu_eu_isr,32,2,0,2,il
+Futbal › Kluby › Európa › Kazachstan,Kazakhstan,f_fut_klu_eu_kaz,32,2,0,2,kz
+Futbal › Kluby › Európa › Cyprus,Cyprus,f_fut_klu_eu_cyp,32,2,0,2,cy
+Futbal › Kluby › Južná Amerika › Uruguaj,Uruguay,f_fut_klu_ja_uru,32,2,0,2,uy
+Futbal › Kluby › Ázia › Južná Kórea,South Korea,f_fut_klu_az_kor,31,2,0,2,kr
+Hokej › Kluby › Severná Amerika › ECHL,ECHL,f_hok_klu_na_echl,31,0,31,1,🏒
+Basketbal › Kluby › Európa › Poľsko,Poland,f_bas_klu_eu_pol,31,2,0,2,pl
+Futbal › Kluby › Európa › Slovensko,Slovakia,f_fut_klu_eu_svk,30,2,0,2,sk
+Futbal › Kluby › Európa › Maďarsko,Hungary,f_fut_klu_eu_hun,30,2,0,2,hu
+Futbal › Kluby › Európa › Malta,Malta,f_fut_klu_eu_mlt,30,2,0,2,mt
+Futbal › Kluby › Európa › Severné Írsko,Northern Ireland,f_fut_klu_eu_nir,30,2,0,2,gb-nir
+Futbal › Kluby › Južná Amerika › Ekvádor,Ecuador,f_fut_klu_ja_ecu,30,2,0,2,ec
+Futbal › Kluby › Južná Amerika › Paraguaj,Paraguay,f_fut_klu_ja_par,30,2,0,2,py
+Futbal › Kluby › Ázia › Austrália,Australia,f_fut_klu_az_aus,30,2,0,2,au
+Hokej › Kluby › Európa › Česká republika,Czech Republic,f_hok_klu_eu_cze,30,2,0,2,cz
+Hokej › Kluby › Európa › Švédsko,Sweden,f_hok_klu_eu_swe,30,2,0,2,se
+Hokej › Kluby › Európa › Nemecko,Germany,f_hok_klu_eu_deu,30,2,0,2,de
+Hokej › Kluby › Európa › Francúzsko,France,f_hok_klu_eu_fra,30,2,0,2,fr
+Basketbal › Kluby › Južná Amerika › Brazília,Brazil,f_bas_klu_ja_bra,30,2,0,2,br
+Hádzaná › Kluby › Európa › Maďarsko,Hungary,f_had_hun,30,2,0,2,hu
+Futbal › Kluby › Afrika › Líbya,Libya,f_fut_klu_af_lby,29,1,0,1,ly
+Basketbal › Kluby › Európa › Turecko,Turkey,f_bas_klu_eu_tur,29,2,0,2,tr
+Hádzaná › Kluby › Ázia › Japonsko,Japan,f_had_jpn,29,2,0,2,jp
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Nový Zéland,New Zealand,f_vol_klu_ao_new-zealand,29,2,0,2,nz
+Futbal › Kluby › Európa › Slovinsko,Slovenia,f_fut_klu_eu_svn,28,2,0,2,si
+Futbal › Kluby › Európa › Arménsko,Armenia,f_fut_klu_eu_arm,28,2,0,2,am
+Futbal › Kluby › Afrika › Kamerun,Cameroon,f_fut_klu_af_cmr,28,2,0,2,cm
+Hokej › Kluby › Európa › Fínsko,Finland,f_hok_klu_eu_fin,28,2,0,2,fi
+Basketbal › Kluby › Európa › Grécko,Greece,f_bas_klu_eu_gre,28,2,0,2,gr
+Hádzaná › Kluby › Európa › Slovensko,Slovakia,f_had_svk,28,3,0,3,sk
+Hádzaná › Kluby › Európa › Rumunsko,Romania,f_had_rou,28,2,0,2,ro
+Volejbal › Kluby › Európa (CEV) › Nemecko,Germany,f_vol_klu_eu_germany,28,2,0,2,de
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Japonsko,Japan,f_vol_klu_ao_japan,28,2,0,2,jp
+Futbal › Kluby › Európa › Litva,Lithuania,f_fut_klu_eu_ltu,27,2,0,2,lt
+Futbal › Kluby › Severná a Stredná Amerika › Kostarika,Costa Rica,f_fut_klu_na_cri,27,2,0,2,cr
+Basketbal › Kluby › Európa › Maďarsko,Hungary,f_bas_klu_eu_hun,27,2,0,2,hu
+Basketbal › Kluby › Európa › Rumunsko,Romania,f_bas_klu_eu_rou,27,2,0,2,ro
+Volejbal › Kluby › Európa (CEV) › Česko,Czechia,f_vol_klu_eu_czechia,27,2,0,2,cz
+Volejbal › Kluby › Južná Amerika (CSV) › Argentína,Argentina,f_vol_klu_ja_argentina,27,2,0,2,ar
+Futbal › Kluby › Európa › Island,Iceland,f_fut_klu_eu_isl,26,2,0,2,is
+Futbal › Kluby › Európa › Lotyšsko,Latvia,f_fut_klu_eu_lva,26,2,0,2,lv
+Futbal › Kluby › Európa › Severné Macedónsko,North Macedonia,f_fut_klu_eu_mkd,26,2,0,2,mk
+Futbal › Kluby › Afrika › Kongo (DR),DR Congo,f_fut_klu_af_cod,26,1,0,1,cd
+Futbal › Kluby › Afrika › Rovníková Guinea,Equatorial Guinea,f_fut_klu_af_gnq,26,2,0,2,gq
+Futbal › Kluby › Ázia › India,India,f_fut_klu_az_ind,26,2,0,2,in
+Hokej › Kluby › Európa › Slovensko,Slovakia,f_hok_klu_eu_svk,26,2,0,2,sk
+Hokej › Kluby › Európa › Švajčiarsko,Switzerland,f_hok_klu_eu_che,26,2,0,2,ch
+Hádzaná › Kluby › Európa › Rusko,Russia,f_had_rus,26,2,0,2,ru
+Volejbal › Kluby › Európa (CEV) › Grécko,Greece,f_vol_klu_eu_greece,26,2,0,2,gr
+Volejbal › Kluby › Európa (CEV) › Portugalsko,Portugal,f_vol_klu_eu_portugal,26,2,0,2,pt
+Volejbal › Kluby › Európa (CEV) › Srbsko,Serbia,f_vol_klu_eu_serbia,26,2,0,2,rs
+Volejbal › Kluby › Európa (CEV) › Španielsko,Spain,f_vol_klu_eu_spain,26,2,0,2,es
+Volejbal › Kluby › Južná Amerika (CSV) › Brazília,Brazil,f_vol_klu_ja_brazil,26,2,0,2,br
+Basketbal › Kluby › Európa › Švédsko,Sweden,f_bas_klu_eu_swe,25,2,0,2,se
+Volejbal › Kluby › Európa (CEV) › Rumunsko,Romania,f_vol_klu_eu_romania,25,2,0,2,ro
+Futbal › Kluby › Európa › Švajčiarsko,Switzerland,f_fut_klu_eu_che,24,2,0,2,ch
+Hokej › Kluby › Severná Amerika › WHL,WHL,f_hok_klu_na_whl,24,0,24,1,🏒
+Basketbal › Kluby › Európa › Česko,Czechia,f_bas_klu_eu_cze,24,2,0,2,cz
+Basketbal › Kluby › Európa › Belgicko,Belgium,f_bas_klu_eu_bel,24,2,0,2,be
+Basketbal › Kluby › Európa › Island,Iceland,f_bas_klu_eu_isl,24,2,0,2,is
+Volejbal › Kluby › Európa (CEV) › Belgicko,Belgium,f_vol_klu_eu_belgium,24,2,0,2,be
+Volejbal › Kluby › Európa (CEV) › Izrael,Israel,f_vol_klu_eu_israel,24,2,0,2,il
+Volejbal › Kluby › Európa (CEV) › Severné Macedónsko,North Macedonia,f_vol_klu_eu_northmacedonia,24,2,0,2,mk
+Volejbal › Kluby › Afrika (CAVB) › Tunisko,Tunisia,f_vol_klu_af_tunisia,24,2,0,2,tn
+Volejbal › Kluby › Južná Amerika (CSV) › Chile,Chile,f_vol_klu_ja_chile,24,2,0,2,cl
+Hokej › Kluby › Európa › Taliansko,Italy,f_hok_klu_eu_ita,23,2,0,2,it
+Hokej › Kluby › Európa › Veľká Británia,United Kingdom,f_hok_klu_eu_gbr,23,2,0,2,gb
+Basketbal › Kluby › Európa › Fínsko,Finland,f_bas_klu_eu_fin,23,2,0,2,fi
+Volejbal › Kluby › Európa (CEV) › Bulharsko,Bulgaria,f_vol_klu_eu_bulgaria,23,2,0,2,bg
+Volejbal › Kluby › Európa (CEV) › Švédsko,Sweden,f_vol_klu_eu_sweden,23,2,0,2,se
+Volejbal › Kluby › Južná Amerika (CSV) › Kolumbia,Colombia,f_vol_klu_ja_colombia,23,2,0,2,co
+Volejbal › Kluby › Južná Amerika (CSV) › Peru,Peru,f_vol_klu_ja_peru,23,2,0,2,pe
+Futbal › Kluby › Európa › Čierna Hora,Montenegro,f_fut_klu_eu_mne,22,2,0,2,me
+Futbal › Kluby › Európa › Estónsko,Estonia,f_fut_klu_eu_est,22,2,0,2,ee
+Futbal › Kluby › Európa › Írsko,Ireland,f_fut_klu_eu_irl,22,2,0,2,ie
+Futbal › Kluby › Európa › Gruzínsko,Georgia,f_fut_klu_eu_geo,22,2,0,2,ge
+Basketbal › Kluby › Európa › Slovensko,Slovakia,f_bas_klu_eu_svk,22,2,0,2,sk
+Basketbal › Kluby › Európa › Veľká Británia,Great Britain,f_bas_klu_eu_gbr,22,2,0,2,gb
+Hádzaná › Kluby › Severná Amerika a Karibik (NACHC) › USA,United States,f_had_usa,22,1,0,1,us
+Volejbal › Kluby › Európa (CEV) › Bosna a Hercegovina,Bosnia and Herzegovina,f_vol_klu_eu_bosniaandherzegovina,22,2,0,2,ba
+Volejbal › Kluby › Európa (CEV) › Dánsko,Denmark,f_vol_klu_eu_denmark,22,2,0,2,dk
+Volejbal › Kluby › Európa (CEV) › Chorvátsko,Croatia,f_vol_klu_eu_croatia,22,2,0,2,hr
+Volejbal › Kluby › Európa (CEV) › Rakúsko,Austria,f_vol_klu_eu_austria,22,2,0,2,at
+Volejbal › Kluby › Európa (CEV) › Slovinsko,Slovenia,f_vol_klu_eu_slovenia,22,2,0,2,si
+Volejbal › Kluby › Afrika (CAVB) › Maroko,Morocco,f_vol_klu_af_morocco,22,2,0,2,ma
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Kostarika,Costa Rica,f_vol_klu_na_costa-rica,22,2,0,2,cr
+Futbal › Kluby › Afrika › Nigéria,Nigeria,f_fut_klu_af_nga,21,1,0,1,ng
+Futbal › Kluby › Afrika › Zambia,Zambia,f_fut_klu_af_zmb,21,1,0,1,zm
+Futbal › Kluby › Ázia › Irak,Iraq,f_fut_klu_az_irq,21,1,0,1,iq
+Hokej › Kluby › Severná Amerika › OHL,OHL,f_hok_klu_na_ohl,21,0,21,1,🏒
+Hokej › Kluby › Severná Amerika › BCHL,BCHL,f_hok_klu_na_bchl,21,0,21,1,🏒
+Basketbal › Kluby › Európa › Dánsko,Denmark,f_bas_klu_eu_den,21,2,0,2,dk
+Basketbal › Kluby › Európa › Rakúsko,Austria,f_bas_klu_eu_aut,21,2,0,2,at
+Basketbal › Kluby › Oceánia › Austrália,Australia,f_bas_klu_oc_aus,21,2,0,2,au
+Hádzaná › Kluby › Južná a Stredná Amerika (SCAHC) › Brazília,Brazil,f_had_bra,21,2,0,2,br
+Futbal › Kluby › Afrika › Sv. Tomáš a Princov ostrov,São Tomé and Príncipe,f_fut_klu_af_stp,20,2,0,2,st
+Volejbal › Kluby › Európa (CEV) › Bielorusko,Belarus,f_vol_klu_eu_belarus,20,2,0,2,by
+Volejbal › Kluby › Európa (CEV) › Fínsko,Finland,f_vol_klu_eu_finland,20,2,0,2,fi
+Volejbal › Kluby › Európa (CEV) › Nórsko,Norway,f_vol_klu_eu_norway,20,2,0,2,no
+Volejbal › Kluby › Európa (CEV) › Švajčiarsko,Switzerland,f_vol_klu_eu_switzerland,20,2,0,2,ch
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Martinik,Martinique,f_vol_klu_na_martinique,20,2,0,2,mq
+Futbal › Kluby › Afrika › Benin,Benin,f_fut_klu_af_ben,19,1,0,1,bj
+Futbal › Kluby › Afrika › Etiópia,Ethiopia,f_fut_klu_af_eth,19,1,0,1,et
+Futbal › Kluby › Afrika › Ghana,Ghana,f_fut_klu_af_gha,19,1,0,1,gh
+Futbal › Kluby › Afrika › Keňa,Kenya,f_fut_klu_af_ken,19,1,0,1,ke
+Futbal › Kluby › Afrika › Uganda,Uganda,f_fut_klu_af_uga,19,1,0,1,ug
+Futbal › Kluby › Afrika › Zimbabwe,Zimbabwe,f_fut_klu_af_zwe,19,1,0,1,zw
+Futbal › Kluby › Ázia › Irán,Iran,f_fut_klu_az_irn,19,1,0,1,ir
+Futbal › Kluby › Ázia › Saudská Arábia,Saudi Arabia,f_fut_klu_az_sau,19,1,0,1,sa
+Hokej › Kluby › Severná Amerika › QMJHL,QMJHL,f_hok_klu_na_qmjhl,19,0,19,1,🏒
+Hokej › Kluby › Európa › Nórsko,Norway,f_hok_klu_eu_nor,19,2,0,2,no
+Basketbal › Kluby › Európa › Litva,Lithuania,f_bas_klu_eu_ltu,19,2,0,2,lt
+Basketbal › Kluby › Južná Amerika › Argentína,Argentina,f_bas_klu_ja_arg,19,1,0,1,ar
+Basketbal › Kluby › Afrika › Nigéria,Nigeria,f_bas_klu_af_nga,19,1,0,1,ng
+Basketbal › Kluby › Oceánia › Nový Zéland,New Zealand,f_bas_klu_oc_nzl,19,2,1,2,nz
+Volejbal › Kluby › Európa (CEV) › Slovensko,Slovakia,f_vol_klu_eu_slovakia,19,2,0,2,sk
+Volejbal › Kluby › Južná Amerika (CSV) › Uruguaj,Uruguay,f_vol_klu_ja_uruguay,19,2,0,2,uy
+Futbal › Kluby › Ázia › Nepál,Nepal,f_fut_klu_az_npl,18,1,0,1,np
+Hokej › Kluby › Severná Amerika › FPHL,FPHL,f_hok_klu_na_fphl,18,0,18,1,🏒
+Basketbal › Kluby › Ázia › Južná Kórea,South Korea,f_bas_klu_az_kor,18,2,0,2,kr
+Hádzaná › Kluby › Afrika › Egypt,Egypt,f_had_egy,18,1,0,1,eg
+Volejbal › Kluby › Európa (CEV) › Anglicko,England,f_vol_klu_eu_england,18,2,0,2,gb
+Volejbal › Kluby › Európa (CEV) › Cyprus,Cyprus,f_vol_klu_eu_cyprus,18,2,0,2,cy
+Volejbal › Kluby › Európa (CEV) › Čierna Hora,Montenegro,f_vol_klu_eu_montenegro,18,2,0,2,me
+Volejbal › Kluby › Európa (CEV) › Holandsko,Netherlands,f_vol_klu_eu_netherlands,18,2,0,2,nl
+Volejbal › Kluby › Európa (CEV) › Írsko,Ireland,f_vol_klu_eu_ireland,18,2,0,2,ie
+Volejbal › Kluby › Európa (CEV) › Kosovo,Kosovo,f_vol_klu_eu_kosovo,18,2,0,2,xk
+Volejbal › Kluby › Európa (CEV) › Škótsko,Scotland,f_vol_klu_eu_scotland,18,2,0,2,gb
+Volejbal › Kluby › Európa (CEV) › Ukrajina,Ukraine,f_vol_klu_eu_ukraine,18,2,0,2,ua
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Čína,China,f_vol_klu_ao_china,18,2,0,2,cn
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Filipíny,Philippines,f_vol_klu_ao_philippines,18,2,0,2,ph
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Hongkong,Hong Kong,f_vol_klu_ao_hong-kong,18,2,0,2,hk
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Kazachstan,Kazakhstan,f_vol_klu_ao_kazakhstan,18,2,0,2,kz
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Mongolsko,Mongolia,f_vol_klu_ao_mongolia,18,2,0,2,mn
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Thajsko,Thailand,f_vol_klu_ao_thailand,18,2,0,2,th
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Vietnam,Vietnam,f_vol_klu_ao_vietnam,18,2,0,2,vn
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Guadeloupe,Guadeloupe,f_vol_klu_na_guadeloupe,18,2,0,2,gp
+Futbal › Kluby › Európa › Bielorusko,Belarus,f_fut_klu_eu_blr,17,1,0,1,by
+Futbal › Kluby › Európa › Luxembursko,Luxembourg,f_fut_klu_eu_lux,17,1,0,1,lu
+Futbal › Kluby › Európa › San Maríno,San Marino,f_fut_klu_eu_smr,17,1,0,1,sm
+Futbal › Kluby › Južná Amerika › Bolívia,Bolivia,f_fut_klu_ja_bol,17,1,0,1,bo
+Futbal › Kluby › Afrika › Alžírsko,Algeria,f_fut_klu_af_alg,17,1,0,1,dz
+Futbal › Kluby › Afrika › Angola,Angola,f_fut_klu_af_ang,17,1,0,1,ao
+Futbal › Kluby › Afrika › Botswana,Botswana,f_fut_klu_af_bwa,17,1,0,1,bw
+Futbal › Kluby › Afrika › Burkina Faso,Burkina Faso,f_fut_klu_af_bfa,17,1,0,1,bf
+Futbal › Kluby › Afrika › Burundi,Burundi,f_fut_klu_af_bdi,17,1,0,1,bi
+Futbal › Kluby › Afrika › Gambia,Gambia,f_fut_klu_af_gmb,17,1,0,1,gm
+Futbal › Kluby › Afrika › Guinea-Bissau,Guinea-Bissau,f_fut_klu_af_gnb,17,1,0,1,gw
+Futbal › Kluby › Afrika › Kongo,Congo,f_fut_klu_af_cog,17,1,0,1,cg
+Futbal › Kluby › Afrika › Lesotho,Lesotho,f_fut_klu_af_lso,17,1,0,1,ls
+Futbal › Kluby › Afrika › Malawi,Malawi,f_fut_klu_af_mwi,17,1,0,1,mw
+Futbal › Kluby › Afrika › Namíbia,Namibia,f_fut_klu_af_nam,17,1,0,1,na
+Futbal › Kluby › Afrika › Niger,Niger,f_fut_klu_af_ner,17,1,0,1,ne
+Futbal › Kluby › Afrika › Pobrežie Slonoviny,Ivory Coast,f_fut_klu_af_civ,17,1,0,1,ci
+Futbal › Kluby › Afrika › Rwanda,Rwanda,f_fut_klu_af_rwa,17,1,0,1,rw
+Futbal › Kluby › Afrika › Senegal,Senegal,f_fut_klu_af_sen,17,1,0,1,sn
+Futbal › Kluby › Afrika › Sierra Leone,Sierra Leone,f_fut_klu_af_sle,17,1,0,1,sl
+Futbal › Kluby › Afrika › Eswatini,Eswatini,f_fut_klu_af_swz,17,1,0,1,sz
+Futbal › Kluby › Afrika › Tanzánia,Tanzania,f_fut_klu_af_tza,17,1,0,1,tz
+Futbal › Kluby › Afrika › Tunisko,Tunisia,f_fut_klu_af_tun,17,1,0,1,tn
+Futbal › Kluby › Ázia › Kirgizsko,Kyrgyzstan,f_fut_klu_az_kgz,17,1,0,1,kg
+Futbal › Kluby › Ázia › Thajsko,Thailand,f_fut_klu_az_tha,17,1,0,1,th
+Futbal › Kluby › Ázia › Uzbekistan,Uzbekistan,f_fut_klu_az_uzb,17,1,0,1,uz
+Hokej › Kluby › Severná Amerika › USHL,USHL,f_hok_klu_na_ushl,17,0,17,1,🏒
+Basketbal › Kluby › Európa › Holandsko,Netherlands,f_bas_klu_eu_ned,17,2,0,2,nl
+Basketbal › Kluby › Afrika › Egypt,Egypt,f_bas_klu_af_egy,17,1,0,1,eg
+Basketbal › Kluby › Afrika › Senegal,Senegal,f_bas_klu_af_sen,17,1,0,1,sn
+Hádzaná › Kluby › Európa › Chorvátsko,Croatia,f_had_hrv,17,1,0,1,hr
+Volejbal › Kluby › Európa (CEV) › Albánsko,Albania,f_vol_klu_eu_albania,17,2,0,2,al
+Volejbal › Kluby › Európa (CEV) › Azerbajdžan,Azerbaijan,f_vol_klu_eu_azerbaijan,17,2,0,2,az
+Volejbal › Kluby › Európa (CEV) › Luxembursko,Luxembourg,f_vol_klu_eu_luxembourg,17,2,0,2,lu
+Volejbal › Kluby › Európa (CEV) › Maďarsko,Hungary,f_vol_klu_eu_hungary,17,2,0,2,hu
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Irak,Iraq,f_vol_klu_ao_iraq,17,1,0,1,iq
+Volejbal › Kluby › Afrika (CAVB) › Kamerun,Cameroon,f_vol_klu_af_cameroon,17,2,0,2,cm
+Futbal › Kluby › Afrika › Madagaskar,Madagascar,f_fut_klu_af_mdg,16,1,0,1,mg
+Hokej › Kluby › Európa › Bielorusko,Belarus,f_hok_klu_eu_blr,16,1,0,1,by
+Basketbal › Kluby › Európa › Bosna a Hercegovina,Bosnia and Herzegovina,f_bas_klu_eu_bih,16,0,16,1,ba
+Basketbal › Kluby › Severná a Stredná Amerika › Mexiko,Mexico,f_bas_klu_na_mex,16,1,1,1,mx
+Hádzaná › Kluby › Ázia › Južná Kórea,South Korea,f_had_kor,16,2,0,2,kr
+Volejbal › Kluby › Európa (CEV) › Island,Iceland,f_vol_klu_eu_iceland,16,2,0,2,is
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Irán,Iran,f_vol_klu_ao_iran,16,1,0,1,ir
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Južná Kórea,South Korea,f_vol_klu_ao_south-korea,16,2,0,2,kr
+Futbal › Kluby › Severná a Stredná Amerika › Guadeloupe,Guadeloupe,f_fut_klu_na_glp,15,1,0,1,gp
+Futbal › Kluby › Severná a Stredná Amerika › Haiti,Haiti,f_fut_klu_na_hai,15,1,0,1,ht
+Futbal › Kluby › Severná a Stredná Amerika › Jamajka,Jamaica,f_fut_klu_na_jam,15,1,0,1,jm
+Futbal › Kluby › Severná a Stredná Amerika › Martinik,Martinique,f_fut_klu_na_mtq,15,1,0,1,mq
+Futbal › Kluby › Afrika › Gabon,Gabon,f_fut_klu_af_gab,15,1,0,1,ga
+Futbal › Kluby › Afrika › Guinea,Guinea,f_fut_klu_af_gin,15,1,0,1,gn
+Futbal › Kluby › Afrika › Južný Sudán,South Sudan,f_fut_klu_af_ssd,15,1,0,1,ss
+Futbal › Kluby › Afrika › Libéria,Liberia,f_fut_klu_af_lbr,15,1,0,1,lr
+Futbal › Kluby › Afrika › Mali,Mali,f_fut_klu_af_mli,15,1,0,1,ml
+Futbal › Kluby › Afrika › Mauritánia,Mauritania,f_fut_klu_af_mrt,15,1,0,1,mr
+Futbal › Kluby › Afrika › Mozambik,Mozambique,f_fut_klu_af_moz,15,1,0,1,mz
+Futbal › Kluby › Afrika › Togo,Togo,f_fut_klu_af_tgo,15,1,0,1,tg
+Futbal › Kluby › Ázia › Omán,Oman,f_fut_klu_az_omn,15,1,0,1,om
+Futbal › Kluby › Ázia › Sýria,Syria,f_fut_klu_az_syr,15,1,0,1,sy
+Futbal › Kluby › Ázia › SAE,United Arab Emirates,f_fut_klu_az_are,15,1,0,1,ae
+Futbal › Kluby › Ázia › Vietnam,Vietnam,f_fut_klu_az_vnm,15,1,0,1,vn
+Futbal › Kluby › Ázia › Jemen,Yemen,f_fut_klu_az_yem,15,1,0,1,ye
+Basketbal › Kluby › Európa › Bulharsko,Bulgaria,f_bas_klu_eu_bul,15,0,15,1,bg
+Basketbal › Kluby › Európa › Čierna Hora,Montenegro,f_bas_klu_eu_mne,15,0,15,1,me
+Basketbal › Kluby › Európa › Izrael,Israel,f_bas_klu_eu_isr,15,0,15,1,il
+Basketbal › Kluby › Afrika › Angola,Angola,f_bas_klu_af_ago,15,1,0,1,ao
+Hádzaná › Kluby › Európa › Taliansko,Italy,f_had_ita,15,1,0,1,it
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Bahrajn,Bahrain,f_vol_klu_ao_bahrain,15,1,0,1,bh
+Volejbal › Kluby › Afrika (CAVB) › Líbya,Libya,f_vol_klu_af_libya,15,1,0,1,ly
+Volejbal › Kluby › Južná Amerika (CSV) › Bolívia,Bolivia,f_vol_klu_ja_bolivia,15,2,0,2,bo
+Futbal › Kluby › Ázia › Bangladéš,Bangladesh,f_fut_klu_az_bgd,14,1,0,1,bd
+Futbal › Kluby › Oceánia › Tahiti,Tahiti,f_fut_klu_oc_tah,14,1,0,1,pf
+Hokej › Kluby › Európa › Holandsko,Netherlands,f_hok_klu_eu_nld,14,1,0,1,nl
+Hokej › Kluby › Európa › Rakúsko,Austria,f_hok_klu_eu_aut,14,2,0,2,at
+Basketbal › Kluby › Ázia › Filipíny,Philippines,f_bas_klu_az_phl,14,1,0,1,ph
+Basketbal › Kluby › Južná Amerika › Chile,Chile,f_bas_klu_ja_chi,14,1,0,1,cl
+Basketbal › Kluby › Južná Amerika › Venezuela,Venezuela,f_bas_klu_ja_ven,14,1,0,1,ve
+Basketbal › Kluby › Afrika › Maroko,Morocco,f_bas_klu_af_mar,14,1,0,1,ma
+Hádzaná › Kluby › Európa › Bosna a Hercegovina,Bosnia and Herzegovina,f_had_bih,14,1,0,1,ba
+Hádzaná › Kluby › Európa › Izrael,Israel,f_had_isr,14,1,0,1,il
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Austrália,Australia,f_vol_klu_ao_australia,14,2,0,2,au
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Indonézia,Indonesia,f_vol_klu_ao_indonesia,14,2,0,2,id
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Nepál,Nepal,f_vol_klu_ao_nepal,14,2,0,2,np
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Mexiko,Mexico,f_vol_klu_na_mexico,14,2,0,2,mx
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Portoriko,Puerto Rico,f_vol_klu_na_puerto-rico,14,2,0,2,pr
+Futbal › Kluby › Európa › Azerbajdžán,Azerbaijan,f_fut_klu_eu_aze,13,1,0,1,az
+Futbal › Kluby › Severná a Stredná Amerika › Francúzska Guyana,French Guiana,f_fut_klu_na_guf,13,1,0,1,gf
+Futbal › Kluby › Severná a Stredná Amerika › Guatemala,Guatemala,f_fut_klu_na_gua,13,1,0,1,gt
+Futbal › Kluby › Severná a Stredná Amerika › Honduras,Honduras,f_fut_klu_na_hon,13,1,0,1,hn
+Futbal › Kluby › Severná a Stredná Amerika › Panama,Panama,f_fut_klu_na_pan,13,1,0,1,pa
+Futbal › Kluby › Severná a Stredná Amerika › Salvádor,El Salvador,f_fut_klu_na_slv,13,1,0,1,sv
+Futbal › Kluby › Severná a Stredná Amerika › Trinidad a Tobago,Trinidad and Tobago,f_fut_klu_na_tri,13,1,0,1,tt
+Futbal › Kluby › Afrika › Čad,Chad,f_fut_klu_af_tcd,13,1,0,1,td
+Futbal › Kluby › Afrika › Kapverdy,Cape Verde,f_fut_klu_af_cpv,13,1,0,1,cv
+Futbal › Kluby › Afrika › Komory,Comoros,f_fut_klu_af_com,13,1,0,1,km
+Futbal › Kluby › Afrika › Somálsko,Somalia,f_fut_klu_af_som,13,1,0,1,so
+Futbal › Kluby › Ázia › Bahrajn,Bahrain,f_fut_klu_az_bhr,13,1,0,1,bh
+Futbal › Kluby › Ázia › Brunej,Brunei,f_fut_klu_az_brn,13,1,0,1,bn
+Futbal › Kluby › Ázia › Guam,Guam,f_fut_klu_az_gum,13,1,0,1,gu
+Futbal › Kluby › Ázia › Katar,Qatar,f_fut_klu_az_qat,13,1,0,1,qa
+Futbal › Kluby › Ázia › Kuvajt,Kuwait,f_fut_klu_az_kwt,13,1,0,1,kw
+Futbal › Kluby › Ázia › Libanon,Lebanon,f_fut_klu_az_lbn,13,1,0,1,lb
+Futbal › Kluby › Ázia › Malajzia,Malaysia,f_fut_klu_az_mys,13,1,0,1,my
+Futbal › Kluby › Ázia › Mjanmarsko,Myanmar,f_fut_klu_az_mmr,13,1,0,1,mm
+Futbal › Kluby › Ázia › Tadžikistan,Tajikistan,f_fut_klu_az_tjk,13,1,0,1,tj
+Futbal › Kluby › Oceánia › Papua-Nová Guinea,Papua New Guinea,f_fut_klu_oc_png,13,1,0,1,pg
+Hokej › Kluby › Severná Amerika › SPHL,SPHL,f_hok_klu_na_sphl,13,0,13,1,🏒
+Hokej › Kluby › Severná Amerika › PWHL,PWHL,f_hok_klu_na_pwhl,13,0,13,1,🏒
+Basketbal › Kluby › Európa › Chorvátsko,Croatia,f_bas_klu_eu_cro,13,0,13,1,hr
+Basketbal › Kluby › Európa › Írsko,Ireland,f_bas_klu_eu_irl,13,0,13,1,ie
+Basketbal › Kluby › Európa › Luxembursko,Luxembourg,f_bas_klu_eu_lux,13,0,13,1,lu
+Basketbal › Kluby › Európa › Portugalsko,Portugal,f_bas_klu_eu_por,13,0,13,1,pt
+Basketbal › Kluby › Ázia › Taiwan,Taiwan,f_bas_klu_az_tpe,13,2,0,2,tw
+Basketbal › Kluby › Ázia › Irak,Iraq,f_bas_klu_az_irq,13,1,0,1,iq
+Basketbal › Kluby › Ázia › Irán,Iran,f_bas_klu_az_irn,13,1,0,1,ir
+Basketbal › Kluby › Južná Amerika › Uruguaj,Uruguay,f_bas_klu_ja_uru,13,1,0,1,uy
+Basketbal › Kluby › Afrika › Basketball Africa League,Basketball Africa League,f_bas_klu_af_bal,13,0,13,1,🏀
+Basketbal › Kluby › Afrika › Keňa,Kenya,f_bas_klu_af_ken,13,1,0,1,ke
+Basketbal › Kluby › Afrika › Pobrežie Slonoviny,Ivory Coast,f_bas_klu_af_civ,13,1,0,1,ci
+Basketbal › Kluby › Afrika › Tunisko,Tunisia,f_bas_klu_af_tun,13,1,0,1,tn
+Basketbal › Kluby › Severná a Stredná Amerika › Kanada,Canada,f_bas_klu_na_can,13,1,2,1,ca
+Basketbal › Kluby › Severná a Stredná Amerika › Portoriko,Puerto Rico,f_bas_klu_na_pri,13,1,0,1,pr
+Hádzaná › Kluby › Európa › Anglicko,England,f_had_ang,13,1,0,1,gb-eng
+Hádzaná › Kluby › Európa › Grécko,Greece,f_had_grc,13,1,0,1,gr
+Hádzaná › Kluby › Európa › Island,Iceland,f_had_isl,13,1,0,1,is
+Hádzaná › Kluby › Európa › Poľsko,Poland,f_had_pol,13,1,0,1,pl
+Hádzaná › Kluby › Európa › Portugalsko,Portugal,f_had_prt,13,1,0,1,pt
+Hádzaná › Kluby › Európa › Rakúsko,Austria,f_had_aut,13,1,0,1,at
+Hádzaná › Kluby › Európa › Severné Macedónsko,North Macedonia,f_had_mkd,13,1,0,1,mk
+Hádzaná › Kluby › Európa › Slovinsko,Slovenia,f_had_svn,13,1,0,1,si
+Hádzaná › Kluby › Európa › Srbsko,Serbia,f_had_srb,13,1,0,1,rs
+Hádzaná › Kluby › Afrika › Tunisko,Tunisia,f_had_tun,13,1,0,1,tn
+Volejbal › Kluby › Európa (CEV) › Faerské ostrovy,Faroe Islands,f_vol_klu_eu_faroeislands,13,2,0,2,fo
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Libanon,Lebanon,f_vol_klu_ao_lebanon,13,1,0,1,lb
+Volejbal › Kluby › Afrika (CAVB) › Tanzánia,Tanzania,f_vol_klu_af_tanzania,13,1,0,1,tz
+Futbal › Kluby › Európa › Gibraltár,Gibraltar,f_fut_klu_eu_gib,12,1,0,1,gi
+Futbal › Kluby › Severná a Stredná Amerika › Surinam,Suriname,f_fut_klu_na_sur,12,1,0,1,sr
+Futbal › Kluby › Ázia › Afganistan,Afghanistan,f_fut_klu_az_afg,12,1,1,1,af
+Futbal › Kluby › Ázia › Hongkong,Hong Kong,f_fut_klu_az_hkg,12,1,0,1,hk
+Futbal › Kluby › Ázia › Kambodža,Cambodia,f_fut_klu_az_khm,12,1,0,1,kh
+Futbal › Kluby › Ázia › Laos,Laos,f_fut_klu_az_lao,12,1,0,1,la
+Futbal › Kluby › Oceánia › Americká Samoa,American Samoa,f_fut_klu_oc_asm,12,1,0,1,as
+Hokej › Kluby › Európa › Kazachstan,Kazakhstan,f_hok_klu_eu_kaz,12,1,0,1,kz
+Basketbal › Kluby › Európa › Albánsko,Albania,f_bas_klu_eu_alb,12,0,12,1,al
+Basketbal › Kluby › Európa › Gruzínsko,Georgia,f_bas_klu_eu_geo,12,0,12,1,ge
+Basketbal › Kluby › Európa › Rusko,Russia,f_bas_klu_eu_rus,12,0,12,1,ru
+Basketbal › Kluby › Európa › Slovinsko,Slovenia,f_bas_klu_eu_slo,12,0,12,1,si
+Basketbal › Kluby › Ázia › Indonézia,Indonesia,f_bas_klu_az_idn,12,1,0,1,id
+Basketbal › Kluby › Ázia › Libanon,Lebanon,f_bas_klu_az_lbn,12,1,0,1,lb
+Hádzaná › Kluby › Afrika › Alžírsko,Algeria,f_had_alg,12,1,0,1,dz
+Volejbal › Kluby › Európa (CEV) › Litva,Lithuania,f_vol_klu_eu_lithuania,12,2,0,2,lt
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Nikaragua,Nicaragua,f_vol_klu_na_nicaragua,12,1,0,1,ni
+Volejbal › Kluby › Severná a Stredná Amerika (NORCECA) › Surinam,Suriname,f_vol_klu_na_suriname,12,2,0,2,sr
+Futbal › Kluby › Európa › Albánsko,Albania,f_fut_klu_eu_alb,11,1,0,1,al
+Futbal › Kluby › Európa › Andorra,Andorra,f_fut_klu_eu_and,11,1,0,1,ad
+Futbal › Kluby › Európa › Bosna a Hercegovina,Bosnia and Herzegovina,f_fut_klu_eu_bih,11,1,0,1,ba
+Futbal › Kluby › Európa › Faerské ostrovy,Faroe Islands,f_fut_klu_eu_fro,11,1,0,1,fo
+Futbal › Kluby › Európa › Kosovo,Kosovo,f_fut_klu_eu_xkx,11,1,0,1,xk
+Futbal › Kluby › Severná a Stredná Amerika › Anguilla,Anguilla,f_fut_klu_na_aia,11,1,0,1,ai
+Futbal › Kluby › Severná a Stredná Amerika › Antigua a Barbuda,Antigua and Barbuda,f_fut_klu_na_atg,11,1,0,1,ag
+Futbal › Kluby › Severná a Stredná Amerika › Aruba,Aruba,f_fut_klu_na_aru,11,1,0,1,aw
+Futbal › Kluby › Severná a Stredná Amerika › Barbados,Barbados,f_fut_klu_na_brb,11,1,0,1,bb
+Futbal › Kluby › Severná a Stredná Amerika › Bermudy,Bermuda,f_fut_klu_na_ber,11,1,0,1,bm
+Futbal › Kluby › Severná a Stredná Amerika › Bonaire,Bonaire,f_fut_klu_na_boe,11,1,0,1,bq
+Futbal › Kluby › Severná a Stredná Amerika › Dominika,Dominica,f_fut_klu_na_dma,11,1,0,1,dm
+Futbal › Kluby › Severná a Stredná Amerika › Nikaragua,Nicaragua,f_fut_klu_na_nic,11,1,0,1,ni
+Futbal › Kluby › Severná a Stredná Amerika › Sv. Krištof a Nevis,Saint Kitts and Nevis,f_fut_klu_na_skn,11,1,0,1,kn
+Futbal › Kluby › Severná a Stredná Amerika › Sv. Lucia,Saint Lucia,f_fut_klu_na_lca,11,1,0,1,lc
+Futbal › Kluby › Afrika › Džibutsko,Djibouti,f_fut_klu_af_dji,11,1,0,1,dj
+Futbal › Kluby › Afrika › Maurícius,Mauritius,f_fut_klu_af_mus,11,1,0,1,mu
+Futbal › Kluby › Afrika › Seychely,Seychelles,f_fut_klu_af_syc,11,1,0,1,sc
+Futbal › Kluby › Ázia › Bhután,Bhutan,f_fut_klu_az_btn,11,1,0,1,bt
+Futbal › Kluby › Ázia › Filipíny,Philippines,f_fut_klu_az_phl,11,1,0,1,ph
+Futbal › Kluby › Ázia › Jordánsko,Jordan,f_fut_klu_az_jor,11,1,0,1,jo
+Futbal › Kluby › Ázia › Macao,Macau,f_fut_klu_az_mac,11,1,0,1,mo
+Futbal › Kluby › Ázia › Maldivy,Maldives,f_fut_klu_az_mdv,11,1,0,1,mv
+Futbal › Kluby › Ázia › Srí Lanka,Sri Lanka,f_fut_klu_az_lka,11,1,0,1,lk
+Futbal › Kluby › Ázia › Východný Timor,East Timor,f_fut_klu_az_tls,11,1,0,1,tl
+Futbal › Kluby › Oceánia › Fidži,Fiji,f_fut_klu_oc_fij,11,1,0,1,fj
+Futbal › Kluby › Oceánia › Nová Kaledónia,New Caledonia,f_fut_klu_oc_ncl,11,1,0,1,nc
+Futbal › Kluby › Oceánia › Samoa,Samoa,f_fut_klu_oc_wsm,11,1,0,1,ws
+Futbal › Kluby › Oceánia › Šalamúnove ostrovy,Solomon Islands,f_fut_klu_oc_slb,11,1,0,1,sb
+Hokej › Kluby › Európa › Poľsko,Poland,f_hok_klu_eu_pol,11,1,0,1,pl
+Hokej › Kluby › Ázia & Oceánia › Austrália,Australia,f_hok_klu_ao_aus,11,1,0,1,au
+Basketbal › Kluby › Európa › Cyprus,Cyprus,f_bas_klu_eu_cyp,11,0,11,1,cy
+Basketbal › Kluby › Európa › Nórsko,Norway,f_bas_klu_eu_nor,11,0,11,1,no
+Basketbal › Kluby › Európa › Severné Macedónsko,North Macedonia,f_bas_klu_eu_mkd,11,0,11,1,mk
+Basketbal › Kluby › Európa › Švajčiarsko,Switzerland,f_bas_klu_eu_sui,11,0,11,1,ch
+Basketbal › Kluby › Európa › Ukrajina,Ukraine,f_bas_klu_eu_ukr,11,0,11,1,ua
+Basketbal › Kluby › Ázia › Hongkong,Hong Kong,f_bas_klu_az_hkg,11,1,0,1,hk
+Basketbal › Kluby › Ázia › Mongolsko,Mongolia,f_bas_klu_az_mng,11,1,0,1,mn
+Basketbal › Kluby › Ázia › Saudská Arábia,Saudi Arabia,f_bas_klu_az_sau,11,1,0,1,sa
+Basketbal › Kluby › Ázia › Singapur,Singapore,f_bas_klu_az_sgp,11,1,0,1,sg
+Basketbal › Kluby › Ázia › Thajsko,Thailand,f_bas_klu_az_tha,11,1,0,1,th
+Basketbal › Kluby › Afrika › JAR,South Africa,f_bas_klu_af_zaf,11,1,0,1,za
+Basketbal › Kluby › Afrika › Líbya,Libya,f_bas_klu_af_lby,11,1,0,1,ly
+Hádzaná › Kluby › Európa › Bulharsko,Bulgaria,f_had_bgr,11,1,0,1,bg
+Hádzaná › Kluby › Európa › Čierna Hora,Montenegro,f_had_mne,11,1,0,1,me
+Hádzaná › Kluby › Európa › Švajčiarsko,Switzerland,f_had_che,11,1,0,1,ch
+Hádzaná › Kluby › Európa › Turecko,Turkey,f_had_tur,11,1,0,1,tr
+Hádzaná › Kluby › Ázia › Katar,Qatar,f_had_qat,11,1,0,1,qa
+Hádzaná › Kluby › Ázia › Saudská Arábia,Saudi Arabia,f_had_sau,11,1,0,1,sa
+Volejbal › Kluby › Ázia a Oceánia (AVC) › India,India,f_vol_klu_ao_india,11,1,0,1,in
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Katar,Qatar,f_vol_klu_ao_qatar,11,1,0,1,qa
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Kuvajt,Kuwait,f_vol_klu_ao_kuwait,11,1,0,1,kw
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Taiwan,Taiwan,f_vol_klu_ao_taiwan,11,2,0,2,tw
+Volejbal › Kluby › Afrika (CAVB) › Benin,Benin,f_vol_klu_af_benin,11,1,0,1,bj
+Volejbal › Kluby › Afrika (CAVB) › Uganda,Uganda,f_vol_klu_af_uganda,11,1,0,1,ug
+Futbal › Kluby › Severná a Stredná Amerika › Guyana,Guyana,f_fut_klu_na_guy,10,1,0,1,gy
+Futbal › Kluby › Severná a Stredná Amerika › Kajmanie ostrovy,Cayman Islands,f_fut_klu_na_cay,10,1,0,1,ky
+Futbal › Kluby › Severná a Stredná Amerika › Portoriko,Puerto Rico,f_fut_klu_na_pri,10,1,0,1,pr
+Futbal › Kluby › Ázia › Mongolsko,Mongolia,f_fut_klu_az_mng,10,1,0,1,mn
+Hokej › Kluby › Európa › Dánsko,Denmark,f_hok_klu_eu_dnk,10,1,0,1,dk
+Basketbal › Kluby › Európa › Moldavsko,Moldova,f_bas_klu_eu_mda,10,0,10,1,md
+Basketbal › Kluby › Ázia › Katar,Qatar,f_bas_klu_az_qat,10,1,0,1,qa
+Basketbal › Kluby › Ázia › Sýria,Syria,f_bas_klu_az_syr,10,1,0,1,sy
+Basketbal › Kluby › Južná Amerika › Peru,Peru,f_bas_klu_ja_per,10,1,0,1,pe
+Basketbal › Kluby › Severná a Stredná Amerika › Dominikánska republika,Dominican Republic,f_bas_klu_na_dom,10,1,0,1,do
+Hádzaná › Kluby › Európa › Lotyšsko,Latvia,f_had_lva,10,1,0,1,lv
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Omán,Oman,f_vol_klu_ao_oman,10,1,0,1,om
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Spojené arabské emiráty,United Arab Emirates,f_vol_klu_ao_united-arab-emirates,10,1,0,1,ae
+Volejbal › Kluby › Afrika (CAVB) › Rwanda,Rwanda,f_vol_klu_af_rwanda,10,1,0,1,rw
+Futbal › Kluby › Európa › Moldavsko,Moldova,f_fut_klu_eu_mda,9,1,0,1,md
+Futbal › Kluby › Severná a Stredná Amerika › Americké Panenské ostrovy,U.S. Virgin Islands,f_fut_klu_na_vir,9,1,0,1,vi
+Futbal › Kluby › Severná a Stredná Amerika › Dominikánska republika,Dominican Republic,f_fut_klu_na_dom,9,1,0,1,do
+Futbal › Kluby › Severná a Stredná Amerika › Grenada,Grenada,f_fut_klu_na_grn,9,1,0,1,gd
+Futbal › Kluby › Severná a Stredná Amerika › Kanada,Canada,f_fut_klu_na_can,9,1,0,1,ca
+Futbal › Kluby › Afrika › Sudán,Sudan,f_fut_klu_af_sdn,9,1,0,1,sd
+Futbal › Kluby › Ázia › Singapur,Singapore,f_fut_klu_az_sgp,9,1,0,1,sg
+Futbal › Kluby › Ázia › Taiwan,Taiwan,f_fut_klu_az_twn,9,1,0,1,tw
+Futbal › Kluby › Ázia › Turkménsko,Turkmenistan,f_fut_klu_az_tkm,9,1,0,1,tm
+Futbal › Kluby › Oceánia › Tonga,Tonga,f_fut_klu_oc_ton,9,1,0,1,to
+Hokej › Kluby › Severná Amerika › LNAH,LNAH,f_hok_klu_na_lnah,9,0,9,1,🏒
+Hokej › Kluby › Európa › Belgicko,Belgium,f_hok_klu_eu_bel,9,1,0,1,be
+Hokej › Kluby › Európa › Maďarsko,Hungary,f_hok_klu_eu_hun,9,1,0,1,hu
+Hokej › Kluby › Európa › Rumunsko,Romania,f_hok_klu_eu_rou,9,1,0,1,ro
+Hokej › Kluby › Európa › Španielsko,Spain,f_hok_klu_eu_esp,9,1,0,1,es
+Basketbal › Kluby › Európa › Arménsko,Armenia,f_bas_klu_eu_arm,9,0,9,1,am
+Basketbal › Kluby › Európa › Azerbajdžán,Azerbaijan,f_bas_klu_eu_aze,9,0,9,1,az
+Basketbal › Kluby › Európa › Kosovo,Kosovo,f_bas_klu_eu_kos,9,0,9,1,xk
+Basketbal › Kluby › Európa › Lotyšsko,Latvia,f_bas_klu_eu_lat,9,0,9,1,lv
+Basketbal › Kluby › Ázia › Jordánsko,Jordan,f_bas_klu_az_jor,9,1,0,1,jo
+Basketbal › Kluby › Južná Amerika › Bolívia,Bolivia,f_bas_klu_ja_bol,9,1,0,1,bo
+Basketbal › Kluby › Južná Amerika › Kolumbia,Colombia,f_bas_klu_ja_col,9,1,0,1,co
+Basketbal › Kluby › Južná Amerika › Paraguaj,Paraguay,f_bas_klu_ja_par,9,1,0,1,py
+Basketbal › Kluby › Afrika › Rwanda,Rwanda,f_bas_klu_af_rwa,9,1,0,1,rw
+Hádzaná › Kluby › Európa › Bielorusko,Belarus,f_had_blr,9,1,0,1,by
+Hádzaná › Kluby › Európa › Cyprus,Cyprus,f_had_cyp,9,1,0,1,cy
+Hádzaná › Kluby › Európa › Faerské ostrovy,Faroe Islands,f_had_fro,9,1,0,1,fo
+Hádzaná › Kluby › Európa › Fínsko,Finland,f_had_fin,9,1,0,1,fi
+Hádzaná › Kluby › Európa › Luxembursko,Luxembourg,f_had_lux,9,1,0,1,lu
+Hádzaná › Kluby › Európa › Ukrajina,Ukraine,f_had_ukr,9,1,0,1,ua
+Hádzaná › Kluby › Ázia › Kuvajt,Kuwait,f_had_kwt,9,1,0,1,kw
+Hádzaná › Kluby › Oceánia › Austrália,Australia,f_had_aus,9,1,0,1,au
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Jordánsko,Jordan,f_vol_klu_ao_jordan,9,1,0,1,jo
+Volejbal › Kluby › Ázia a Oceánia (AVC) › Saudská Arábia,Saudi Arabia,f_vol_klu_ao_saudi-arabia,9,1,0,1,sa
+Volejbal › Kluby › Afrika (CAVB) › Namíbia,Namibia,f_vol_klu_af_namibia,9,1,0,1,na
+Futbal › Kluby › Európa › Lichtenštajnsko,Liechtenstein,f_fut_klu_eu_lie,8,0,8,1,li
+Futbal › Kluby › Severná a Stredná Amerika › Bahamy,Bahamas,f_fut_klu_na_bah,8,1,0,1,bs
+Futbal › Kluby › Severná a Stredná Amerika › Belize,Belize,f_fut_klu_na_blz,8,1,0,1,bz
+Futbal › Kluby › Severná a Stredná Amerika › Britské Panenské ostrovy,British Virgin Islands,f_fut_klu_na_vgb,8,1,0,1,vg
+Futbal › Kluby › Severná a Stredná Amerika › Curaçao,Curaçao,f_fut_klu_na_cur,8,1,0,1,cw
+Futbal › Kluby › Severná a Stredná Amerika › Sv. Vincent a Grenadíny,Saint Vincent and the Grenadines,f_fut_klu_na_vin,8,1,0,1,vc
+Basketbal › Kluby › Európa › Bielorusko,Belarus,f_bas_klu_eu_blr,8,0,8,1,by
+Basketbal › Kluby › Európa › Estónsko,Estonia,f_bas_klu_eu_est,8,0,8,1,ee
+Basketbal › Kluby › Južná Amerika › Ekvádor,Ecuador,f_bas_klu_ja_ecu,8,1,0,1,ec
+Hádzaná › Kluby › Európa › Belgicko,Belgium,f_had_bel,8,1,0,1,be
+Hádzaná › Kluby › Európa › Holandsko,Netherlands,f_had_nld,8,1,0,1,nl
+Hádzaná › Kluby › Európa › Kosovo,Kosovo,f_had_xkx,8,1,0,1,xk
+Hádzaná › Kluby › Európa › Litva,Lithuania,f_had_ltu,8,1,0,1,lt
+Hádzaná › Kluby › Ázia › SAE,United Arab Emirates,f_had_are,8,1,0,1,ae
+Futbal › Kluby › Severná a Stredná Amerika › Sint Maarten,Sint Maarten,f_fut_klu_na_sxm,7,1,0,1,sx
+Futbal › Kluby › Severná a Stredná Amerika › Turks a Caicos,Turks and Caicos,f_fut_klu_na_tca,7,1,0,1,tc
+Futbal › Kluby › Oceánia › Cookove ostrovy,Cook Islands,f_fut_klu_oc_cok,7,1,0,1,ck
+Futbal › Kluby › Oceánia › Vanuatu,Vanuatu,f_fut_klu_oc_van,7,1,0,1,vu
+Hokej › Kluby › Európa › Bulharsko,Bulgaria,f_hok_klu_eu_bgr,7,1,0,1,bg
+Hokej › Kluby › Európa › Estónsko,Estonia,f_hok_klu_eu_est,7,1,0,1,ee
+Hokej › Kluby › Európa › Slovinsko,Slovenia,f_hok_klu_eu_svn,7,1,0,1,si
+Hokej › Kluby › Európa › Ukrajina,Ukraine,f_hok_klu_eu_ukr,7,1,0,1,ua
+Hokej › Kluby › Ázia & Oceánia › Japonsko,Japan,f_hok_klu_ao_jpn,7,1,0,1,jp
+Basketbal › Kluby › Európa › Malta,Malta,f_bas_klu_eu_mlt,7,0,7,1,mt
+Basketbal › Kluby › Ázia › India,India,f_bas_klu_az_ind,7,1,0,1,in
+Hádzaná › Kluby › Európa › Estónsko,Estonia,f_had_est,7,1,0,1,ee
+Hádzaná › Kluby › Európa › Írsko,Ireland,f_had_irl,7,1,0,1,ie
+Hádzaná › Kluby › Európa › Škótsko,Scotland,f_had_sco,7,1,0,1,gb-sct
+Hádzaná › Kluby › Afrika › Angola,Angola,f_had_ago,7,1,0,1,ao
+Hokej › Kluby › Európa › Lotyšsko,Latvia,f_hok_klu_eu_lva,6,1,0,1,lv
+Hokej › Kluby › Európa › Turecko,Turkey,f_hok_klu_eu_tur,6,1,0,1,tr
+Hokej › Kluby › Ázia & Oceánia › Nový Zéland,New Zealand,f_hok_klu_ao_nzl,6,1,0,1,nz
+Basketbal › Kluby › Ázia › Kazachstan,Kazakhstan,f_bas_klu_az_kaz,6,1,0,1,kz
+Basketbal › Kluby › Ázia › Malajzia,Malaysia,f_bas_klu_az_mys,6,1,0,1,my
+Volejbal › Kluby › Európa (CEV) › Estónsko,Estonia,f_vol_klu_eu_estonia,6,1,0,1,ee
+Futbal › Kluby › Ázia › Severné Mariány,Northern Mariana Islands,f_fut_klu_az_mnp,5,1,0,1,mp
+Hokej › Kluby › Európa › Chorvátsko,Croatia,f_hok_klu_eu_hrv,5,1,0,1,hr
+Hádzaná › Kluby › Európa › Malta,Malta,f_had_mlt,5,1,0,1,mt
+Volejbal › Kluby › Afrika (CAVB) › Kapverdy,Cape Verde,f_vol_klu_af_cape-verde,5,1,0,1,cv
+Hokej › Kluby › Európa › Bosna a Hercegovina,Bosnia and Herzegovina,f_hok_klu_eu_bih,4,1,0,1,ba
+Hokej › Kluby › Európa › Island,Iceland,f_hok_klu_eu_isl,4,1,0,1,is
+Hokej › Kluby › Európa › Luxembursko,Luxembourg,f_hok_klu_eu_lux,4,1,0,1,lu
+Volejbal › Kluby › Európa (CEV) › Lotyšsko,Latvia,f_vol_klu_eu_latvia,4,1,0,1,lv
+Hokej › Kluby › Európa › Litva,Lithuania,f_hok_klu_eu_ltu,3,1,0,1,lt
+Futbal › Kluby › Afrika › Eritrea,Eritrea,f_fut_klu_af_eri,1,0,1,0,er
+Futbal › Kluby › Ázia › Severná Kórea,North Korea,f_fut_klu_az_prk,1,0,1,0,kp
+Futbal › Kluby › Ázia › Pakistan,Pakistan,f_fut_klu_az_pak,1,0,1,0,pk
+Futbal › Kluby › Oceánia › Austrália,Australia,f_fut_klu_oc_aus,1,0,1,0,au
+Hádzaná › Kluby › Európa › Lichtenštajnsko,Liechtenstein,f_had_lie,1,0,1,0,li
+Hádzaná › Kluby › Európa › Monako,Monaco,f_had_mon,1,0,1,0,mc

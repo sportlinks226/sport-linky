@@ -1,0 +1,68 @@
+
+### sekcia Anglicko (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/) reinit=0
+FCP 296 ms | document.open (prevzatie) 1734 ms | #main (appka v DOM) 2053 ms | dlaždice appky 2053 ms
+LCP kandidáti: 296 ms P#.desc 56744px²
+CLS (bez vstupu) = 0.0002; posuny: 2108ms 0.0002 [SPAN]; 2277ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820201475 (1566 zn.) @2217 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 2×, spolu 372 ms, TBT≈272 ms, najdlhšia 314 ms; zoznam: 222+58, 1726+314
+
+### sekcia Anglicko — S KLIKANÍM (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/) reinit=0
+FCP 260 ms | document.open (prevzatie) 1757 ms | #main (appka v DOM) 2059 ms | dlaždice appky 2059 ms
+LCP kandidáti: 260 ms P#.desc 56744px²
+CLS (bez vstupu) = 0.0002; posuny: 2114ms 0.0002 [SPAN]; 2277ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820215787 (1566 zn.) @2236 ms trvalo 0 ms | JSON.parse /data.json?v=1125 (5328721 zn.) @28661 ms trvalo 73 ms
+dlhé úlohy (>50 ms) do 14 s: 3×, spolu 662 ms, TBT≈512 ms, najdlhšia 302 ms; zoznam: 1748+302, 28472+176, 28654+184
+kliky (ms od štartu): -, -, -, -, -, -, -, -, -, -, -, -, -, -
+interakcie (event timing): 
+INP≈ max - ms, 98. percentil - ms, počet 0
+
+### liga Championship (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/) reinit=0
+FCP 288 ms | document.open (prevzatie) 1750 ms | #main (appka v DOM) 2088 ms | dlaždice appky 2088 ms
+LCP kandidáti: 288 ms P#.desc 32752px²
+CLS (bez vstupu) = 0.0002; posuny: 2168ms 0.0002 [SPAN]; 2292ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820339915 (1566 zn.) @2256 ms trvalo 3 ms
+dlhé úlohy (>50 ms) do 14 s: 1×, spolu 334 ms, TBT≈284 ms, najdlhšia 334 ms; zoznam: 1739+334
+
+### liga Championship — S KLIKANÍM (http://127.0.0.1:8123/futbal/kluby/europa/anglicko/championship/) reinit=0
+FCP 276 ms | document.open (prevzatie) 1775 ms | #main (appka v DOM) 2135 ms | dlaždice appky 2135 ms
+LCP kandidáti: 276 ms P#.desc 32752px²
+CLS (bez vstupu) = 0.0002; posuny: 2267ms 0.0002 [SPAN]; 2337ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820354241 (1566 zn.) @2338 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 2×, spolu 427 ms, TBT≈327 ms, najdlhšia 358 ms; zoznam: 1762+358, 2120+69
+kliky (ms od štartu): 2430, 3191, 3942, 4691, 5451, 6180, 6936, 7692, 8429, 9163, 9903, 10642, 11376, 12111
+interakcie (event timing): pointerdown@2430 trvanie 48 ms (čakanie 18, spracovanie 1) DIV.cl-desc; pointerup@2430 trvanie 48 ms (čakanie 21, spracovanie 0) DIV.cl-desc; click@2430 trvanie 48 ms (čakanie 21, spracovanie 7) DIV.cl-desc; pointerdown@3190 trvanie 32 ms (čakanie 5, spracovanie 0) DIV.cl-desc; pointerup@3190 trvanie 32 ms (čakanie 9, spracovanie 0) DIV.cl-desc; click@3190 trvanie 32 ms (čakanie 10, spracovanie 10) DIV.cl-desc; pointerdown@3941 trvanie 16 ms (čakanie 6, spracovanie 0) DIV.cl-desc; pointerup@3941 trvanie 16 ms (čakanie 7, spracovanie 1) DIV.cl-desc; click@3941 trvanie 16 ms (čakanie 8, spracovanie 7) DIV.cl-desc; pointerdown@4690 trvanie 40 ms (čakanie 1, spracovanie 0) DIV.cl-desc; pointerup@4690 trvanie 40 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@4690 trvanie 40 ms (čakanie 4, spracovanie 34) DIV.cl-desc; pointerdown@5449 trvanie 16 ms (čakanie 2, spracovanie 1) DIV.cl-desc; pointerup@5449 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@5449 trvanie 16 ms (čakanie 4, spracovanie 5) DIV.cl-desc; pointerdown@6179 trvanie 16 ms (čakanie 3, spracovanie 0) DIV.cl-desc; pointerup@6179 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@6179 trvanie 16 ms (čakanie 4, spracovanie 10) DIV.cl-desc; pointerdown@6935 trvanie 24 ms (čakanie 3, spracovanie 0) DIV.cl-desc; pointerup@6935 trvanie 24 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@6935 trvanie 24 ms (čakanie 4, spracovanie 16) DIV.cl-desc; pointerdown@7691 trvanie 16 ms (čakanie 7, spracovanie 0) DIV.cl-desc; pointerup@7691 trvanie 16 ms (čakanie 8, spracovanie 0) DIV.cl-desc; click@7691 trvanie 16 ms (čakanie 8, spracovanie 4) DIV.cl-desc; pointerdown@8428 trvanie 16 ms (čakanie 2, spracovanie 0) DIV.cl-desc; pointerup@8428 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@8428 trvanie 16 ms (čakanie 4, spracovanie 5) DIV.cl-desc; pointerdown@9162 trvanie 16 ms (čakanie 2, spracovanie 1) DIV.cl-desc; pointerup@9162 trvanie 16 ms (čakanie 5, spracovanie 0) DIV.cl-desc; click@9162 trvanie 16 ms (čakanie 5, spracovanie 6) DIV.cl-desc; pointerdown@9901 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; pointerup@9901 trvanie 16 ms (čakanie 5, spracovanie 1) DIV.cl-desc; click@9901 trvanie 16 ms (čakanie 6, spracovanie 5) DIV.cl-desc; pointerdown@10641 trvanie 16 ms (čakanie 3, spracovanie 0) DIV.cl-desc; pointerup@10641 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@10641 trvanie 16 ms (čakanie 4, spracovanie 4) DIV.cl-desc; pointerdown@11375 trvanie 16 ms (čakanie 3, spracovanie 1) DIV.cl-desc; pointerup@11375 trvanie 16 ms (čakanie 4, spracovanie 0) DIV.cl-desc; click@11375 trvanie 16 ms (čakanie 4, spracovanie 8) DIV.cl-desc; pointerdown@12110 trvanie 16 ms (čakanie 6, spracovanie 0) DIV.cl-desc; pointerup@12110 trvanie 16 ms (čakanie 7, spracovanie 0) DIV.cl-desc; click@12110 trvanie 16 ms (čakanie 7, spracovanie 8) DIV.cl-desc
+INP≈ max 48 ms, 98. percentil 48 ms, počet 42
+
+### Aktuálne (http://127.0.0.1:8123/aktualne/) reinit=0
+FCP 236 ms | document.open (prevzatie) 1738 ms | #main (appka v DOM) 2160 ms | dlaždice appky 2160 ms
+LCP kandidáti: 236 ms H1#. 5088px² → 264 ms FOOTER#. 31320px²
+CLS (bez vstupu) = 0.0002; posuny: 2233ms 0.0002 [SPAN]; 2432ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820369245 (1566 zn.) @2845 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 1×, spolu 428 ms, TBT≈378 ms, najdlhšia 428 ms; zoznam: 1724+428
+
+### Aktuálne — S KLIKANÍM (http://127.0.0.1:8123/aktualne/) reinit=0
+FCP 304 ms | document.open (prevzatie) 1758 ms | #main (appka v DOM) 2032 ms | dlaždice appky 2032 ms
+LCP kandidáti: 304 ms FOOTER#. 31320px²
+CLS (bez vstupu) = 0.0002; posuny: 2076ms 0.0002 [SPAN]; 2272ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820383419 (1566 zn.) @2269 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 4×, spolu 457 ms, TBT≈257 ms, najdlhšia 282 ms; zoznam: 224+64, 1747+282, 6864+57, 11426+54
+kliky (ms od štartu): 3046, 3798, 4553, 5295, 6079, 6863, 7647, 8383, 9129, 9884, 10641, 11410, 12247
+interakcie (event timing): pointerdown@3044 trvanie 40 ms (čakanie 4, spracovanie 1) A.; pointerup@3044 trvanie 40 ms (čakanie 6, spracovanie 0) A.; click@3044 trvanie 40 ms (čakanie 6, spracovanie 8) A.; pointerdown@3795 trvanie 24 ms (čakanie 3, spracovanie 0) A.; pointerup@3795 trvanie 24 ms (čakanie 5, spracovanie 0) A.; click@3795 trvanie 24 ms (čakanie 5, spracovanie 10) A.; pointerdown@4550 trvanie 16 ms (čakanie 2, spracovanie 0) A.; pointerup@4551 trvanie 16 ms (čakanie 5, spracovanie 0) A.; click@4551 trvanie 16 ms (čakanie 5, spracovanie 6) A.; pointerdown@5295 trvanie 40 ms (čakanie 5, spracovanie 0) A.; pointerup@5295 trvanie 40 ms (čakanie 6, spracovanie 0) A.; click@5295 trvanie 40 ms (čakanie 6, spracovanie 22) A.; pointerdown@6077 trvanie 40 ms (čakanie 3, spracovanie 0) A.; pointerup@6077 trvanie 40 ms (čakanie 6, spracovanie 0) A.; click@6077 trvanie 40 ms (čakanie 6, spracovanie 15) A.; pointerdown@6863 trvanie 56 ms (čakanie 3, spracovanie 0) A.; pointerup@6863 trvanie 56 ms (čakanie 4, spracovanie 0) A.; click@6863 trvanie 56 ms (čakanie 4, spracovanie 30) A.; pointerdown@7644 trvanie 16 ms (čakanie 1, spracovanie 1) A.; pointerup@7644 trvanie 16 ms (čakanie 3, spracovanie 0) A.; click@7644 trvanie 16 ms (čakanie 3, spracovanie 10) A.; pointerdown@8380 trvanie 16 ms (čakanie 5, spracovanie 1) A.; pointerup@8381 trvanie 16 ms (čakanie 6, spracovanie 0) A.; click@8381 trvanie 16 ms (čakanie 6, spracovanie 5) A.; pointerdown@9127 trvanie 24 ms (čakanie 5, spracovanie 0) A.; pointerup@9127 trvanie 24 ms (čakanie 7, spracovanie 0) A.; click@9127 trvanie 24 ms (čakanie 7, spracovanie 8) A.; pointerdown@9882 trvanie 24 ms (čakanie 7, spracovanie 0) A.; pointerup@9882 trvanie 24 ms (čakanie 7, spracovanie 0) A.; click@9882 trvanie 24 ms (čakanie 7, spracovanie 12) A.; pointerdown@10638 trvanie 16 ms (čakanie 2, spracovanie 3) A.; pointerup@10638 trvanie 16 ms (čakanie 6, spracovanie 0) A.; click@10638 trvanie 16 ms (čakanie 6, spracovanie 8) A.; pointerdown@11412 trvanie 72 ms (čakanie 16, spracovanie 1) A.; pointerup@11412 trvanie 72 ms (čakanie 18, spracovanie 1) A.; click@11412 trvanie 72 ms (čakanie 19, spracovanie 11) A.; pointerdown@12245 trvanie 24 ms (čakanie 3, spracovanie 0) A.; pointerup@12245 trvanie 24 ms (čakanie 5, spracovanie 0) A.; click@12245 trvanie 24 ms (čakanie 5, spracovanie 22) A.
+INP≈ max 72 ms, 98. percentil 72 ms, počet 39
+
+### domov (appka priamo) (http://127.0.0.1:8123/) reinit=0
+FCP 384 ms | document.open (prevzatie) undefined ms | #main (appka v DOM) 459 ms | dlaždice appky 459 ms
+LCP kandidáti: 384 ms H1#.h-wordmark 4440px² → 432 ms null 4900px²
+CLS (bez vstupu) = 0.0356; posuny: 1584ms 0.0354 [main,aktualneWrap,banner-wrap]; 1638ms 0.0002 [SPAN]; 1910ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820398106 (1566 zn.) @1762 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 3×, spolu 401 ms, TBT≈251 ms, najdlhšia 176 ms; zoznam: 407+58, 503+176, 1411+167
+
+### domov (appka priamo) — S KLIKANÍM (http://127.0.0.1:8123/) reinit=0
+FCP 376 ms | document.open (prevzatie) undefined ms | #main (appka v DOM) 392 ms | dlaždice appky 392 ms
+LCP kandidáti: 376 ms H1#.h-wordmark 4440px² → 392 ms null 4900px²
+CLS (bez vstupu) = 0.0356; posuny: 1538ms 0.0354 [main,aktualneWrap,banner-wrap]; 1628ms 0.0002 [SPAN]; 1892ms 0.0000 [SPAN]
+JSON: JSON.parse /aktualne.json?t=1793820431775 (1566 zn.) @1708 ms trvalo 0 ms
+dlhé úlohy (>50 ms) do 14 s: 1×, spolu 76 ms, TBT≈26 ms, najdlhšia 76 ms; zoznam: 1427+76
+kliky (ms od štartu): 604, 1849, 3136, 4385, 5722, 7132, 9468, 10775, 12057, 13412, 14764, 16179, 17400, 18735
+interakcie (event timing): 
+INP≈ max - ms, 98. percentil - ms, počet 0

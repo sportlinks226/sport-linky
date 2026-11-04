@@ -1,0 +1,49 @@
+{
+ "base": "http://127.0.0.1:8123/",
+ "app": 1663,
+ "statickych": 1545,
+ "stat": {
+  "zhoda": 1543,
+  "rozdiel": 2,
+  "chybaStatika": 0,
+  "chybaAppka": 0,
+  "prazdne": 118
+ },
+ "rozdiely": [
+  {
+   "id": "f_yem_l1",
+   "name": "Jemenská liga",
+   "url": "/futbal/kluby/azia/jemen/jemenská-liga/",
+   "co": [
+    "canonical /futbal/kluby/azia/jemen/jemensk%C3%A1-liga/ ≠ /futbal/kluby/azia/jemen/jemenská-liga/"
+   ]
+  },
+  {
+   "id": "f_bas_fra_l3",
+   "name": "La Boulangère Wonderligue (ženy)",
+   "url": "/basketbal/kluby/europa/francuzsko/la-boulangère-wonderligue-zeny/",
+   "co": [
+    "canonical /basketbal/kluby/europa/francuzsko/la-boulang%C3%A8re-wonderligue-zeny/ ≠ /basketbal/kluby/europa/francuzsko/la-boulangère-wonderligue-zeny/"
+   ]
+  }
+ ],
+ "vzorka": 300,
+ "rstat": {
+  "zhoda": 299,
+  "rozdiel": 1,
+  "chyba": 0,
+  "priemer_ms_prevzatie": 196,
+  "priemer_ms_cele_data": 840
+ },
+ "realRozdiely": [
+  {
+   "url": "/futbal/kluby/azia/jemen/jemenská-liga/",
+   "co": [
+    "po prevzatí: canonical /futbal/kluby/azia/jemen/jemensk%C3%A1-liga/ ≠ /futbal/kluby/azia/jemen/jemenská-liga/",
+    "po celých dátach: canonical /futbal/kluby/azia/jemen/jemensk%C3%A1-liga/ ≠ /futbal/kluby/azia/jemen/jemenská-liga/"
+   ]
+  }
+ ],
+ "jsErr": [],
+ "err2": []
+}

@@ -1,0 +1,15 @@
+== JS: funkcií na najvyššej úrovni: 215, globálnych let/const: 92 (spolu 307 mien na window/globálne)
+JS funkcie bez jediného použitia (mimo definície) v index.html+generator.py+testy: ['childCount']
+JS globálne premenné bez použitia (len deklarácia): []
+== CSS tried definovaných: 145; bez použitia v HTML/JS/generator.py: ['adframe-auto', 'pw-hint', 'search-results', 'st-ended', 'st-off', 'st-on', 'st-wait']
+== HTML id: 101, duplicitné: [], nikde neodkazované (JS/CSS/generator/testy): []
+== generator.py funkcií: 62, bez použitia: []
+== ikony.py funkcií: 13, bez použitia: []
+== vlajky.py funkcií: 10, bez použitia: []
+== strazca_liniek.py funkcií: 21, bez použitia: []
+== Najdlhšie JS funkcie (riadky): [('renderLevel', 141), ('load', 137), ('renderSearch', 98), ('hasPw', 56), ('aktFmtDate', 56), ('renderAktList', 55), ('aktAdminLoad', 52), ('renderColumns', 49), ('saveNode', 48), ('nName', 46), ('updateHead', 45), ('nDesc', 45)]
+== Najdlhšie Python funkcie v generator.py (riadky do ďalšieho def): [(316, 'main'), (231, 'ad_frame'), (193, 'render_page'), (98, 'compute_has_link'), (68, 'home_static_html'), (61, 'build_page_boot'), (50, 'build_boot'), (45, 'live_week_links')]
+== DB.nodes.find( výskytov v JS: 19 | nodeById( výskytov: 2
+== document.getElementById výskytov: 222
+== addEventListener na najvyššej úrovni (window/document/prvok): 13
+== onclick= v HTML/šablónach index.html: 78

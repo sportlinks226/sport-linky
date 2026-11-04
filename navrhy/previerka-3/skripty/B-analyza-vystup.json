@@ -1,0 +1,114 @@
+[
+ {
+  "lang": "sk",
+  "n": 1546,
+  "no_hl": [
+   "tipovanie/"
+  ],
+  "thin": [
+   [
+    "futbal/kluby/afrika/eritrea/",
+    1,
+    0,
+    true
+   ],
+   [
+    "futbal/kluby/azia/pakistan/",
+    1,
+    0,
+    true
+   ],
+   [
+    "futbal/kluby/azia/severna-korea/",
+    1,
+    0,
+    true
+   ],
+   [
+    "futbal/kluby/oceania/australia/",
+    1,
+    0,
+    true
+   ],
+   [
+    "hadzana/kluby/europa/lichtenstajnsko/",
+    1,
+    0,
+    true
+   ],
+   [
+    "hadzana/kluby/europa/monako/",
+    1,
+    0,
+    true
+   ],
+   [
+    "ostatne-sporty/basketbal-3x3/",
+    1,
+    0,
+    true
+   ],
+   [
+    "tipovanie/",
+    1,
+    0,
+    true
+   ]
+  ],
+  "dup_t": {},
+  "dup_d": {},
+  "gen_desc": []
+ },
+ {
+  "lang": "en",
+  "n": 1545,
+  "no_hl": [],
+  "thin": [
+   [
+    "football/clubs/africa/eritrea/",
+    1,
+    0,
+    true
+   ],
+   [
+    "football/clubs/asia/north-korea/",
+    1,
+    0,
+    true
+   ],
+   [
+    "football/clubs/asia/pakistan/",
+    1,
+    0,
+    true
+   ],
+   [
+    "football/clubs/oceania/australia/",
+    1,
+    0,
+    true
+   ],
+   [
+    "handball/clubs/europe/liechtenstein/",
+    1,
+    0,
+    true
+   ],
+   [
+    "handball/clubs/europe/monaco/",
+    1,
+    0,
+    true
+   ],
+   [
+    "other-sports/3x3-basketball/",
+    1,
+    0,
+    true
+   ]
+  ],
+  "dup_t": {},
+  "dup_d": {},
+  "gen_desc": []
+ }
+]
