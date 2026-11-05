@@ -9,7 +9,9 @@ Overí (previerka 2, body 14 a 22):
   - domovská stránka → cudzia doména → varovanie „možná predaná doména", bez návrhu
   - rovnaké meno s inou koncovkou (dailymail.co.uk → dailymail.com) → presťahovaná s návrhom
   - podstránka na inú doménu → presťahovaná s návrhom
-  - 403 → blokuje robotov
+  - 403 → blokuje robotov; 454 a 456 (anti-bot, napr. Akamai) tiež (previerka 3, bod 40)
+  - 🔼 funkčná http:// linka, ktorej https:// verzia funguje na tom istom webe (aj s/bez www)
+    → návrh „dá sa prepnúť na https" v stav.json, sprava.md a sprava.csv (previerka 3, bod 41)
   - druhý pokus nechá horší výsledok (404 neprepíše timeout), OK prepíše všetko
   - počítadlo „behov po sebe" sa v ten istý deň nezvýši
   - starý formát stav.json sa načíta a celý beh (správa, csv, komentár) prebehne
@@ -40,6 +42,8 @@ class Server(http.server.BaseHTTPRequestHandler):
             self._presmeruj("/slucka-a")
         elif cesta == "/zakazane":
             self._odpoved(403)
+        elif cesta in ("/antibot-454", "/antibot-456"):
+            self._odpoved(int(cesta[-3:]))
         elif cesta == "/neexistuje":
             self._odpoved(404)
         else:
@@ -90,6 +94,15 @@ class Presmerovania(unittest.TestCase):          # bod 14
         r = self.k.skontroluj(ZAKLAD + "/zakazane")
         self.assertEqual((r["v"], r["kod"]), ("blokuje", 403))
 
+    def test_454_456_blokuje(self):           # previerka 3, bod 40 (anti-bot kódy)
+        for kod in (454, 456):
+            r = self.k.skontroluj(ZAKLAD + f"/antibot-{kod}")
+            self.assertEqual((r["v"], r["kod"]), ("blokuje", kod))
+            self.assertIn("blokuje robotov", r["d"])
+            self.assertEqual(s.kategoria(r), "blokuje")
+        self.assertIn(454, s.BLOKUJE_KODY)
+        self.assertIn(456, s.BLOKUJE_KODY)
+
     def test_404_mrtva(self):
         self.assertEqual(self.k.skontroluj(ZAKLAD + "/neexistuje")["v"], "mrtva")
 
@@ -119,6 +132,64 @@ class Presmerovania(unittest.TestCase):          # bod 14
     def test_diakritika_v_domene_je_ta_ista_domena(self):
         r = s.Kontrolor._podla_kodu("https://www.peñarol.org", 200, "https://www.xn--pearol-xwa.org/")
         self.assertEqual(r["v"], "ok")
+
+
+class Https(unittest.TestCase):                  # previerka 3, bod 41
+    """Návrh „dá sa prepnúť na https" — falošný kontrolór (bez internetu)."""
+    def kontrolor(self, odpovede):
+        volane = []
+
+        class Falosny(s.Kontrolor):
+            def skontroluj(self, u):
+                volane.append(u)
+                return dict(odpovede.get(u, {"v": "varovanie", "d": "SSL chyba"}))
+        return Falosny(), volane
+
+    def test_presmerovanie_na_https_bez_novej_poziadavky(self):
+        k, volane = self.kontrolor({})
+        r = {"v": "ok", "konc": "https://klub.sk/a"}
+        self.assertEqual(k.https_navrh("http://www.klub.sk/a", r), "https://klub.sk/a")   # s/bez www
+        self.assertEqual(volane, [])
+
+    def test_https_funguje(self):
+        k, volane = self.kontrolor({"https://www.klub.sk/a?x=1": {"v": "ok", "konc": "https://klub.sk/a?x=1"}})
+        self.assertEqual(k.https_navrh("http://www.klub.sk/a?x=1", {"v": "ok", "konc": "http://www.klub.sk/a?x=1"}),
+                         "https://www.klub.sk/a?x=1")
+        self.assertEqual(volane, ["https://www.klub.sk/a?x=1"])
+
+    def test_bez_navrhu(self):
+        k, _ = self.kontrolor({"https://a.sk/": {"v": "ok", "konc": "https://ina-domena.sk/"},
+                               "https://b.sk/": {"v": "mrtva"}})
+        self.assertIsNone(k.https_navrh("http://a.sk/", {"v": "ok"}))       # https ide na cudzí web
+        self.assertIsNone(k.https_navrh("http://b.sk/", {"v": "ok"}))       # https nefunguje
+        self.assertIsNone(k.https_navrh("http://c.sk/", {"v": "ok"}))       # SSL chyba
+        self.assertIsNone(k.https_navrh("http://d.sk/", {"v": "varovanie"}))  # http linka sama nefunguje
+        self.assertIsNone(k.https_navrh("https://e.sk/", {"v": "ok"}))      # už je https
+
+    def test_beh_stav_a_sprava(self):
+        k, _ = self.kontrolor({"http://klub.sk/": {"v": "ok", "konc": "http://klub.sk/"},
+                               "https://klub.sk/": {"v": "ok", "konc": "https://www.klub.sk/"}})
+        vys, _ = s.skontroluj_vsetko(["http://klub.sk/"], k, float("inf"), 2, 0)
+        self.assertEqual(vys["http://klub.sk/"]["https"], "https://klub.sk/")
+        stav = {}
+        s.aktualizuj_stav(stav, vys, {"http://klub.sk/"}, "2026-11-09", {})
+        self.assertEqual(stav["http://klub.sk/"], {"v": "ok", "https": "https://klub.sk/"})
+        self.assertEqual(s.kategoria(stav["http://klub.sk/"]), "ok")
+        d = tempfile.mkdtemp()
+        try:
+            riadky = [{"id": "x1", "url": "http://klub.sk/", "kluc": "http://klub.sk/", "sport": "Futbal",
+                       "cesta": "Futbal › Klub", "zorad": [(0, "")], "kat": "ok", "z": stav["http://klub.sk/"]}]
+            info = {"datum": "2026-11-09", "trvanie": "0 min 1 s", "skontrolovane": 1, "nestihnute": 0,
+                    "pocty": {"fb_ig_adresa": 0, "fb_pole": 0, "ig_pole": 0, "nie_web": 0}, "stav": stav}
+            s.napis_md(os.path.join(d, "sprava.md"), riadky, info, [], ".")
+            s.napis_csv(os.path.join(d, "sprava.csv"), riadky)
+            md = open(os.path.join(d, "sprava.md"), encoding="utf-8").read()
+            self.assertIn("🔼 DÁ SA PREPNÚŤ NA HTTPS (1)", md)
+            self.assertIn("| `x1` | Futbal › Klub | http://klub.sk/ | https://klub.sk/ |", md)
+            csv = open(os.path.join(d, "sprava.csv"), encoding="utf-8-sig").read()
+            self.assertIn("🔼;DÁ SA PREPNÚŤ NA HTTPS;x1;", csv)
+        finally:
+            shutil.rmtree(d)
 
 
 class DruhyPokus(unittest.TestCase):             # bod 22c
@@ -179,6 +250,7 @@ class CelyBeh(unittest.TestCase):                # starý stav.json + správa
                 {"id": "b", "name": "Zakázané", "type": "link", "parentId": "r", "url": ZAKLAD + "/zakazane"},
                 {"id": "c", "name": "OK", "type": "link", "parentId": "r", "url": ZAKLAD + "/"},
                 {"id": "e", "name": "Mŕtva", "type": "link", "parentId": "r", "url": ZAKLAD + "/neexistuje"},
+                {"id": "f", "name": "Akamai", "type": "link", "parentId": "r", "url": ZAKLAD + "/antibot-454"},
             ], "banners": []}
             with open(os.path.join(d, "data.json"), "w", encoding="utf-8") as f:
                 json.dump(data, f)
@@ -206,14 +278,17 @@ class CelyBeh(unittest.TestCase):                # starý stav.json + správa
             self.assertEqual(st[ZAKLAD + "/slucka-a"]["v"], "varovanie")
             self.assertEqual(s.kategoria(st[ZAKLAD + "/neexistuje"]), "mrtva")
             md = open(os.path.join(d, "sprava.md"), encoding="utf-8").read()
-            self.assertIn("BLOKUJÚ ROBOTOV (1 adries na 1 doménach)", md)
-            self.assertIn("| 127.0.0.1 | 1 | 403 |", md)
+            self.assertEqual(st[ZAKLAD + "/antibot-454"]["v"], "blokuje")
+            self.assertIn("BLOKUJÚ ROBOTOV (2 adries na 1 doménach)", md)
+            self.assertIn("| 127.0.0.1 | 2 | 403, 454 |", md)
+            self.assertIn("🔼 DÁ SA PREPNÚŤ NA HTTPS (0)", md)     # 127.0.0.1 https nemá — bez návrhu
+            self.assertNotIn("https", json.dumps(st[ZAKLAD + "/"]))
             self.assertNotIn(ZAKLAD + "/zakazane", md)       # v md len súhrn, nie adresa
             self.assertIn("možná predaná doména", md)
             csv = open(os.path.join(d, "sprava.csv"), encoding="utf-8-sig").read()
             self.assertIn(ZAKLAD + "/zakazane", csv)         # v csv adresa je
             k = open(os.path.join(d, "k.md"), encoding="utf-8").read()
-            self.assertIn("🚫 blokujú robotov: 1 adries", k)
+            self.assertIn("🚫 blokujú robotov: 2 adries", k)
             self.assertIn("Nové mŕtve", k)
         finally:
             shutil.rmtree(d)

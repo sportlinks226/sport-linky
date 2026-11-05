@@ -21,12 +21,14 @@ Výsledky (značky):
                   - domovská stránka na rovnaké meno s inou koncovkou
                     (dailymail.co.uk → dailymail.com)
                   peñarol.org → xn--pearol-xwa.org je tá istá doména (len iný zápis) = OK
-  🚫 BLOKUJE      401/403/429/999 — web nepustí robota; v sprava.md len súhrn po doménach,
+  🚫 BLOKUJE      401/403/429/454/456/999 — web nepustí robota; v sprava.md len súhrn po doménach,
                   jednotlivé adresy v sprava.csv
   🟡 VAROVANIE    5xx, timeout, SSL, presmerovanie v slučke… — treba overiť ručne
                   ⚠️ zvlášť: DOMOVSKÁ stránka presmeruje na úplne cudziu doménu →
                   „over ručne – možná predaná doména" (nová adresa sa NEnavrhuje)
   ✅ OK
+  🔼 HTTPS        (len návrh, popri ✅ OK) linka http://, ktorej https:// verzia funguje
+                  na tom istom webe (aj s/bez www) → v správe zvlášť „dá sa prepnúť na https"
 
 Stav medzi behmi: kontrola-liniek/stav.json (adresa → posledný výsledok,
 od kedy, koľko behov po sebe, dátum kontroly). OK linky sa ukladajú len ako
@@ -88,7 +90,9 @@ NAZVY = {"mrtva": "MŔTVA", "prestahovana": "PRESŤAHOVANÁ", "podozriva": "PODO
 # okrem prípadu, keď druhý pokus vyjde OK (web len dočasne nefungoval)
 ZAVAZNOST = {"ok": 0, "varovanie": 1, "blokuje": 2, "prestahovana": 3, "mrtva": 4}
 PREDANA = "over ručne – možná predaná doména"
-BLOKUJE_KODY = (401, 403, 429, 999)
+HTTPS_ZNACKA = "🔼"
+# 454/456 = anti-bot kódy (napr. Akamai) — previerka 3, bod 40
+BLOKUJE_KODY = (401, 403, 429, 454, 456, 999)
 MAX_V_KOMENTARI = 50
 MAX_ZNAKOV_KOMENTARA = 60000
 
@@ -129,6 +133,17 @@ def je_domovska(url):
 def vynechat(url):
     host = (urllib.parse.urlsplit(url).hostname or "").lower()
     return any(host == d or host.endswith("." + d) for d in VYNECHAT)
+
+
+def bez_www(host):
+    """www.klub.sk → klub.sk (malé písmená, diakritika v tvare xn--) — na porovnanie
+    „ten istý web" pri návrhu https (http://www.x.sk → https://x.sk je OK)."""
+    host = (host or "").lower().rstrip(".")
+    try:
+        host = host.encode("idna").decode("ascii")
+    except UnicodeError:
+        pass
+    return host[4:] if host.startswith("www.") else host
 
 
 def kluc(url):
@@ -327,12 +342,14 @@ class Kontrolor:
                 # podstránka na inú doménu alebo rovnaké meno s inou koncovkou
                 return {"v": "prestahovana", "d": f"presmeruje na inú doménu ({h2})",
                         "nova": konc, "kod": kod}
-            return {"v": "ok", "kod": kod}
+            return {"v": "ok", "kod": kod, "konc": konc}
         if kod in BLOKUJE_KODY:
             # bod 22: samostatná skupina, v správe len súhrn po doménach
             d = {401: "HTTP 401 – vyžaduje prihlásenie (blokuje robotov)",
                  403: "HTTP 403 – prístup zamietnutý (blokuje robotov)",
                  429: "HTTP 429 – príliš veľa požiadaviek (blokuje robotov)",
+                 454: "HTTP 454 – anti-bot ochrana (blokuje robotov)",
+                 456: "HTTP 456 – anti-bot ochrana (blokuje robotov)",
                  999: "HTTP 999 – blokuje robotov"}[kod]
             return {"v": "blokuje", "d": d + po, "kod": kod}
         if kod >= 500:
@@ -340,6 +357,26 @@ class Kontrolor:
         else:
             d = f"HTTP {kod}"
         return {"v": "varovanie", "d": d + po, "kod": kod}
+
+
+    def https_navrh(self, url, r):
+        """Previerka 3, bod 41: pre FUNKČNÚ linku http:// vráti adresu https://, ktorá
+        funguje na tom istom webe (aj s/bez www), inak None. Keď web sám presmeroval
+        na https (r["konc"]), nová požiadavka netreba — navrhne sa cieľ presmerovania."""
+        p = urllib.parse.urlsplit(url)
+        if p.scheme.lower() != "http" or r.get("v") != "ok":
+            return None
+        konc = r.get("konc") or ""
+        k = urllib.parse.urlsplit(konc)
+        if k.scheme.lower() == "https" and bez_www(k.hostname) == bez_www(p.hostname):
+            return konc
+        nova = urllib.parse.urlunsplit(("https",) + tuple(p[1:]))
+        r2 = self.skontroluj(nova)
+        k2 = urllib.parse.urlsplit(r2.get("konc") or nova)
+        if (r2.get("v") == "ok" and k2.scheme.lower() == "https"
+                and bez_www(k2.hostname) == bez_www(p.hostname)):
+            return nova
+        return None
 
 
 # ---------------------------------------------------------------- beh
@@ -413,6 +450,26 @@ def skontroluj_vsetko(adresy, kontrolor, koniec, sucasne, pauza_opakovania):
         hotovo[0] = 0
         with cf.ThreadPoolExecutor(sucasne) as ex:
             list(ex.map(lambda u: prac(u, True), zle))
+
+    # 🔼 funkčné http:// linky: funguje aj https://? (len návrh do správy, bod 41)
+    http_ok = [u for u, r in vysledky.items()
+               if r["v"] == "ok" and urllib.parse.urlsplit(u).scheme.lower() == "http"]
+    if http_ok and time.monotonic() < koniec:
+        log(f"Skúšam https:// pre {len(http_ok)} funkčných http:// adries…")
+
+        def skus_https(u):
+            if time.monotonic() > koniec:
+                return
+            try:
+                navrh = kontrolor.https_navrh(u, vysledky[u])
+            except Exception as e:          # návrh je len doplnok — beh nesmie spadnúť
+                log(f"  https pre {u}: {type(e).__name__} {e}")
+                return
+            if navrh:
+                with zamok:
+                    vysledky[u]["https"] = navrh
+        with cf.ThreadPoolExecutor(sucasne) as ex:
+            list(ex.map(skus_https, http_ok))
     return vysledky, nestihnute
 
 
@@ -437,6 +494,8 @@ def aktualizuj_stav(stav, vysledky, vsetky_kluce, dnes, vyskyty_podla_kluca):
             n, od = 1, dnes
         if r["v"] == "ok":
             zaznam = {"v": "ok"}
+            if r.get("https"):
+                zaznam["https"] = r["https"]      # 🔼 návrh: dá sa prepnúť na https
         else:
             zaznam = {"v": r["v"], "n": n, "od": od, "k": dnes}
             for pole in ("d", "nova", "kam", "kod", "predana"):
@@ -503,7 +562,7 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
         "mrtva": "404/410 alebo neexistujúca doména **2 behy po sebe** (v rôznych dňoch) → oprav/zmaž",
         "prestahovana": "presmeruje na inú doménu → zváž novú adresu",
         "podozriva": "404/410/DNS prvýkrát — ďalší týždeň sa potvrdí (alebo nie)",
-        "blokuje": "web nepustí robota (401/403/429/999) — v prehliadači väčšinou funguje; "
+        "blokuje": "web nepustí robota (401/403/429/454/456/999) — v prehliadači väčšinou funguje; "
                    "len súhrn po doménach",
         "varovanie": "výpadok / timeout / SSL / presmerovanie v slučke / ⚠️ možná predaná doména "
                      "→ over ručne v prehliadači",
@@ -562,12 +621,25 @@ def napis_md(cesta, riadky, info, opravene, repo_url):
     if not bl_adresy:
         o.append("_Žiadne._\n")
     else:
-        o.append("Tieto weby nepustia automatickú kontrolu (401/403/429/999), preto strážca nevie, "
+        o.append("Tieto weby nepustia automatickú kontrolu (401/403/429/454/456/999), preto strážca nevie, "
                  "či linka funguje. V prehliadači väčšinou fungujú — netreba ich opravovať. "
                  "Jednotlivé adresy sú v [sprava.csv](sprava.csv).\n")
         o.append("| Doména | Adries | Kód |\n|---|---:|---|")
         for dom, x in sorted(domeny.items(), key=lambda kv: (-kv[1]["adries"], kv[0])):
             o.append(f"| {esc(dom)} | {x['adries']} | {', '.join(map(str, sorted(x['kody'])))} |")
+        o.append("")
+    # 🔼 http:// linky, ktorých https:// verzia funguje (bod 41) — len návrh
+    hs = [r for r in riadky if r["kat"] == "ok" and r["z"].get("https")]
+    o.append(f"## {HTTPS_ZNACKA} DÁ SA PREPNÚŤ NA HTTPS ({len(hs)})\n")
+    if not hs:
+        o.append("_Žiadne._\n")
+    else:
+        o.append("Linka s http:// funguje, ale funguje aj zabezpečená adresa https:// na tom istom webe. "
+                 "Len návrh — data.json sa nemení; ak chceš, adresu v dátach vymeň.\n")
+        o.append("| ID | Cesta | Adresa | Navrhovaná adresa |\n|---|---|---|---|")
+        for r in hs:
+            o.append("| " + " | ".join(esc(x) for x in [f"`{r['id']}`", r["cesta"], r["url"],
+                                                          r["z"]["https"]]) + " |")
         o.append("")
     # varovania: najprv možné predané domény (bod 14), potom ostatné podľa športu
     var = [r for r in riadky if r["kat"] == "varovanie"]
@@ -596,9 +668,12 @@ def napis_csv(cesta, riadky):
         w.writerow(["znacka", "kategoria", "id", "sport", "cesta", "adresa", "dovod",
                     "nova_adresa", "od", "behov_po_sebe", "posledna_kontrola"])
         for r in riadky:
-            if r["kat"] == "ok":
-                continue
             z = r["z"]
+            if r["kat"] == "ok":
+                if z.get("https"):          # 🔼 návrh na https (bod 41)
+                    w.writerow([HTTPS_ZNACKA, "DÁ SA PREPNÚŤ NA HTTPS", r["id"], r["sport"], r["cesta"],
+                                r["url"], "funguje aj https://", z["https"], "", "", ""])
+                continue
             dovod = z.get("d", "") + (f" → {z['kam']}" if z.get("kam") else "")
             w.writerow([ZNACKY[r["kat"]], NAZVY[r["kat"]], r["id"], r["sport"], r["cesta"], r["url"],
                         dovod, z.get("nova", ""), z.get("od", ""), z.get("n", ""), z.get("k", "")])
@@ -737,6 +812,8 @@ def main():
     k = collections.Counter(kategoria(z) for z in stav.values())
     log(f"\nHOTOVO za {info['trvanie']}. Adresy podľa výsledku: "
         + ", ".join(f"{ZNACKY[x]} {NAZVY[x]} {k[x]}" for x in ZNACKY))
+    n_https = sum(1 for z in stav.values() if z.get("https"))
+    log(f"{HTTPS_ZNACKA} dá sa prepnúť na https: {n_https} adries")
     log(f"Nové mŕtve {len(nove_mrtve)}, nové presťahované {len(nove_prest)}, "
         f"nové možné predané domény {len(nove_predane)}, opravené {len(opravene)}, "
         f"podozrivé, ktoré už fungujú {podoz_ok}, nestihnuté {len(nestihnute)}")
@@ -756,6 +833,7 @@ def main():
             f.write(f"## 🔗 Strážca liniek {dnes}\n\nTrvanie {info['trvanie']}, skontrolované "
                     f"{len(vysledky)}, nestihnuté {len(nestihnute)}\n\n"
                     + "\n".join(f"- {ZNACKY[x]} {NAZVY[x]}: {k[x]} adries" for x in ZNACKY)
+                    + f"\n- {HTTPS_ZNACKA} dá sa prepnúť na https: {n_https} adries"
                     + f"\n\nNové mŕtve {len(nove_mrtve)}, nové presťahované {len(nove_prest)}, "
                       f"opravené {len(opravene)}\n")
 
