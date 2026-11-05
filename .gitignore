@@ -1,0 +1,11 @@
+# Dočasné súbory a výstupy lokálnych testov — do gitu nepatria (previerka 3, časť B).
+# POZOR: data.json, aktualne.json, ikony/, vlajky/, kontrola-liniek/ a sitemap-lastmod.json
+# sa v tomto repozitári COMMITUJÚ — nikdy ich sem nepridávaj.
+__pycache__/
+*.pyc
+_site/
+_skuska/
+test-vystup/
+test-hlbkovy-vystup/
+test-escapovanie-vystup/
+node_modules/
