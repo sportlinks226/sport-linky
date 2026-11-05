@@ -19,8 +19,11 @@ on:
   push:
     branches: [main]
   schedule:
-    # denne 23:17 UTC = 0:17 nášho času v zime (1:17 v lete) — tesne po polnoci,
-    # neokrúhla minúta (o celej hodine je GitHub preťažený a beh mešká).
+    # Naplánované na 23:17 UTC (0:17 nášho času v zime, 1:17 v lete), neokrúhla minúta.
+    # SKUTOČNOSŤ (previerka 3, bod 20): GitHub spúšťa nočné behy o niekoľko hodín
+    # neskôr — podľa histórie zvyčajne ~4:00–7:00 UTC (5:00–8:00 nášho času v zime).
+    # Nie je to chyba; presný čas by dal len externý plánovač. Appka má Aktuálne aj
+    # tak vždy čerstvé z aktualne.json, meškanie vidí len Google v statickom HTML.
     # EN build potom spustí tento SK build sám (úloha en-build nižšie).
     - cron: "17 23 * * *"
   workflow_dispatch:
@@ -75,7 +78,7 @@ jobs:
 
       # IKONKY WEBOV (bod 15, 2.11.2026): ikonky sa sťahujú LEN tu, na serveri —
       # návštevník už nič neposiela Googlu ani Yandexu. ikony.py dotiahne nové weby
-      # a obnoví LEN ikonky staršie ako 30 dní (max. 300 za build, bod 9), uloží ich do ikony/
+      # a obnoví LEN ikonky staršie ako 30 dní (max. 300 za DEŇ, bod 9 + bod 21a previerky 3), uloží ich do ikony/
       # a PRIEBEŽNE (každé ~3 min) commitne „[skip ci]", aby zrušený build
       # (cancel-in-progress) stiahnuté ikonky nestratil. Limit 12 min — čo nestihne,
       # dotiahne ďalší build. Build kvôli ikonkám NIKDY nespadne (continue-on-error,
