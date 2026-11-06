@@ -66,6 +66,8 @@ Escape, klik mimo), /?oblubene (noindex, odobratie, Späť/Vpred), admin bez hvi
 Zadanie 39a3: tlačidlo „☆ 0“ vidno aj pri 0, panel pri 0 s vetou (aj po odobratí poslednej pri
 otvorenom paneli), „✕ Zavrieť obľúbené“ vráti na stránku, odkiaľ sa prišlo (priamy príchod → domov),
 pri ~50 obľúbených je riadok s hľadaním a Zavrieť prilepený pod hlavičkou aj na konci zoznamu.
+Zadanie 39a4: „🗑 Vymazať všetky“ dole pod zoznamom — otázka (Nie / Escape nič nezmení), Áno → 0
+a „☆ 0“, lišta „Vrátiť späť“ obnoví presne pôvodný zoznam (ID, poradie, časy), po F5 stav sedí.
 
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
 Voliteľne:  --od 2026-11-02T02:30:00Z  (počkaj, kým živý web nemá novšiu verziu)
@@ -1604,11 +1606,63 @@ class Test:
         self.snimka(page, "r-obl-dlhy-" + ("mobil" if kde == "mobil" else "pc"))
         if st["y"] < 300 or not st["trafi"] or not st["srch"] or st["hore"] < st["hlav"] - 1:
             raise Zlyhanie(f"{kde}: pri posune na koniec {len(ids)} obľúbených nie je „Zavrieť“/hľadanie vidno pod hlavičkou: {st}")
+        vym = self.obl_vymazat(page, kde, len(ids))
         page.click("#fvClose")
         page.wait_for_timeout(500)
         if urllib.parse.urlsplit(page.url).path != o.path or urllib.parse.urlsplit(page.url).query:
             raise Zlyhanie(f"{kde}: „Zavrieť“ pri priamom príchode nevedie na domov (adresa {page.url})")
-        return f"{kde}: {len(ids)} obľúbených, na konci (posun {st['y']} px) „Zavrieť“ pod hlavičkou, priamy príchod → domov"
+        return f"{kde}: {len(ids)} obľúbených, na konci (posun {st['y']} px) „Zavrieť“ pod hlavičkou, {vym}, priamy príchod → domov"
+
+    def obl_vymazat(self, page, kde, n):
+        """Zadanie 39a4: „🗑 Vymazať všetky“ dole pod zoznamom — poistka 1 (otázka; Nie / Escape nič
+        nezmení), Áno → 0 a „☆ 0“, poistka 2 (lišta „Vrátiť späť“) obnoví PRESNE pôvodný zoznam
+        (ID, poradie, časy); po F5 stav sedí. Všetko len v prehliadači testu, GoatCounter blokovaný."""
+        surovy = lambda: page.evaluate(f"() => localStorage.getItem('{self.OBL_KLUC}')")
+        povodny = surovy()
+        btn = page.locator("#fvClear #fvClearBtn")
+        btn.scroll_into_view_if_needed()
+        if not btn.is_visible():
+            raise Zlyhanie(f"{kde}: pod zoznamom obľúbených chýba tlačidlo „Vymazať všetky“")
+        if page.locator("#fvBar #fvClearBtn, #favPanel #fvClearBtn").count():
+            raise Zlyhanie(f"{kde}: „Vymazať všetky“ je v prilepenom riadku alebo v paneli (má byť len dole)")
+        btn.click()
+        page.wait_for_selector("#fvAsk", state="visible")
+        if f"{n}" not in page.locator("#fvAsk").inner_text() or surovy() != povodny:
+            raise Zlyhanie(f"{kde}: po kliku na „Vymazať všetky“ chýba otázka s počtom {n} alebo sa už niečo vymazalo")
+        self.snimka(page, f"r-obl-vymazat-otazka-{kde}")
+        page.click("#fvNo")
+        page.wait_for_selector("#fvClearBtn", state="visible")
+        if surovy() != povodny or page.locator("#main .card-link").count() != n:
+            raise Zlyhanie(f"{kde}: „Nie“ zmenilo obľúbené")
+        page.click("#fvClearBtn")
+        page.wait_for_selector("#fvAsk", state="visible")
+        page.keyboard.press("Escape")
+        page.wait_for_timeout(200)
+        if (not page.locator("#fvClearBtn").is_visible() or surovy() != povodny
+                or urllib.parse.urlsplit(page.url).query not in ("oblubene", "favorites")):
+            raise Zlyhanie(f"{kde}: Escape pri otázke nemá byť nič iné než „Nie“ (stránka obľúbených ostáva)")
+        page.click("#fvClearBtn")
+        page.click("#fvYes")
+        page.wait_for_selector("#favUndo #favUndoBtn", state="visible")
+        zoz = self.obl_zoznam(page)
+        if zoz != [] or page.locator("#hFav").inner_text().split() != ["☆", "0"] or page.locator("#main .card-link").count():
+            raise Zlyhanie(f"{kde}: po „Áno“ nie je 0 obľúbených a „☆ 0“ (úložisko {zoz}, hlavička {page.locator('#hFav').inner_text()})")
+        if f"({n})" not in page.locator("#favUndo").inner_text():
+            raise Zlyhanie(f"{kde}: lišta „Vrátiť späť“ neukazuje počet {n}")
+        self.snimka(page, f"r-obl-vymazat-lista-{kde}")
+        page.click("#favUndoBtn")
+        page.wait_for_selector("#main .card-link > .star.on", state="visible")
+        if surovy() != povodny:
+            raise Zlyhanie(f"{kde}: „Vrátiť späť“ neobnovilo PRESNE pôvodný zoznam (ID, poradie, časy)")
+        if page.locator("#favUndo").count() or self.obl_pocet_hlavicka(page) != n or page.locator("#main .card-link").count() != n:
+            raise Zlyhanie(f"{kde}: po „Vrátiť späť“ nesedí lišta, hlavička ({self.obl_pocet_hlavicka(page)}) alebo počet kariet")
+        page.reload(wait_until="load")
+        page.wait_for_function(self.OBL_CELE_DATA, timeout=30_000)
+        page.wait_for_selector("#main .card-link > .star.on", state="visible")
+        page.wait_for_timeout(300)
+        if surovy() != povodny or self.obl_pocet_hlavicka(page) != n:
+            raise Zlyhanie(f"{kde}: po F5 nesedí obnovený zoznam obľúbených")
+        return "vymazať: otázka/Nie/Escape/Áno → ☆ 0 → Vrátiť späť = rovnaký zoznam aj po F5"
 
     def oblubene(self, pokus):
         if not self.data:

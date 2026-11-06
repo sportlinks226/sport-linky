@@ -424,6 +424,20 @@ a.akt-head[href]:hover #aktHeadTxt{text-decoration:underline}
 .fv-close .fs{display:none}
 .fv-srch{flex:1;min-width:0;width:100%;max-width:420px;padding:9px 16px;border-radius:30px;border:1.5px solid var(--border);background:var(--surface);color:var(--text);font-size:.88rem;outline:none;-webkit-appearance:none;appearance:none}
 .fv-srch:focus{border-color:#f5c518}
+/* Zadanie 39a4: „🗑 Vymazať všetky obľúbené“ DOLE pod zoznamom — nenápadné (sivé), s poistkou
+   (otázka Áno/Nie na mieste tlačidla) a lištou „Vrátiť späť“ na 15 s prilepenou dole na obrazovke */
+.fv-clear{margin-top:30px;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:10px}
+.fv-clear-btn,.fv-no{background:none;border:1.5px solid var(--border);color:var(--muted);border-radius:8px;padding:0 14px;min-height:40px;font-size:.82rem;cursor:pointer;font-family:inherit}
+.fv-no{color:var(--text);font-weight:600}
+@media(hover:hover){.fv-clear-btn:hover,.fv-no:hover{color:var(--text);border-color:var(--muted)}}
+.fv-ask{flex:0 0 100%;text-align:center;font-size:.9rem;font-weight:600}
+.fv-yes{background:var(--accent-strong);color:#fff;border:1.5px solid var(--accent-strong);border-radius:8px;padding:0 16px;min-height:40px;font-size:.85rem;font-weight:700;cursor:pointer;font-family:inherit}
+@media(hover:hover){.fv-yes:hover{background:var(--accent2)}}
+.fv-clear button:focus-visible{outline:2px solid #f5c518;outline-offset:2px}
+#favUndo{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:70;display:flex;align-items:center;gap:6px;max-width:calc(100vw - 24px);padding:4px 6px 4px 16px;background:var(--surface2);border:1px solid var(--border);border-radius:12px;box-shadow:0 10px 26px rgba(0,0,0,.5);font-size:.88rem;white-space:nowrap}
+#favUndo button{background:none;border:0;color:#f5c518;font-weight:700;font-size:.88rem;padding:0 10px;min-height:40px;cursor:pointer;font-family:inherit;border-radius:8px}
+@media(hover:hover){#favUndo button:hover{background:var(--surface)}}
+@media(max-width:560px){.fv-clear-btn,.fv-no,.fv-yes,#favUndo button{min-height:44px}}
 @media(max-width:560px){.fv-srch{font-size:16px;max-width:none}.fv-close{height:40px;padding:0 12px}.fv-close .fl{display:none}.fv-close .fs{display:inline}}
 
 /* ===== ANIMÁCIA KARIET — jemné vynorenie pri vstupe do sekcie ===== */
@@ -2034,6 +2048,7 @@ function render(){
     renderSearch(q); return;
   }
   srAnnounce('');
+  if(!favOn) favUndoEnd(); // Zadanie 39a4: odchod zo stránky obľúbených — lišta „Vrátiť späť“ zmizne
   if(favOn){ favViewRender(false); return; }
   renderLevel();
 }
@@ -2997,9 +3012,9 @@ let _favPurged = null;        // DB.nodes, pri ktorých už prebehlo vyradenie z
 let _favFilter = '';          // text v políčku „Hľadaj v obľúbených"
 const FT = IS_EN
   ? {add:'Add to favorites', rem:'Remove from favorites', inF:'In favorites', fav:'Favorites', all:'Show all', srch:'Search favorites',
-     wait:'loading…', empty:'You have no favorites yet. Mark a link with the star ☆ in the bottom-left corner of its card.', zavriet:'✕ Close favorites', zavrietK:'✕ Close', zavrietA:'Close favorites', home:'Go to the homepage', close:'Close', none:'Nothing found in favorites.'}
+     wait:'loading…', empty:'You have no favorites yet. Mark a link with the star ☆ in the bottom-left corner of its card.', zavriet:'✕ Close favorites', zavrietK:'✕ Close', zavrietA:'Close favorites', vymaz:'🗑 Clear all favorites', otazka:n=>`Really clear all ${n} favorites?`, ano:'Yes, clear', nie:'No', vymazane:'Favorites cleared', spat:'Undo', home:'Go to the homepage', close:'Close', none:'Nothing found in favorites.'}
   : {add:'Pridať do obľúbených', rem:'Odobrať z obľúbených', inF:'V obľúbených', fav:'Obľúbené', all:'Zobraziť všetky', srch:'Hľadaj v obľúbených',
-     wait:'načítava sa…', empty:'Zatiaľ nemáš žiadne obľúbené linky. Označ linku hviezdičkou ☆ v ľavom dolnom rohu karty.', zavriet:'✕ Zavrieť obľúbené', zavrietK:'✕ Zavrieť', zavrietA:'Zavrieť obľúbené', home:'Prejsť na domovskú stránku', close:'Zavrieť', none:'V obľúbených sa nič nenašlo.'};
+     wait:'načítava sa…', empty:'Zatiaľ nemáš žiadne obľúbené linky. Označ linku hviezdičkou ☆ v ľavom dolnom rohu karty.', zavriet:'✕ Zavrieť obľúbené', zavrietK:'✕ Zavrieť', zavrietA:'Zavrieť obľúbené', vymaz:'🗑 Vymazať všetky obľúbené', otazka:n=>`Naozaj vymazať všetkých ${n} obľúbených?`, ano:'Áno, vymazať', nie:'Nie', vymazane:'Obľúbené boli vymazané', spat:'Vrátiť späť', home:'Prejsť na domovskú stránku', close:'Zavrieť', none:'V obľúbených sa nič nenašlo.'};
 
 function favRead(){
   let a = [];
@@ -3139,6 +3154,7 @@ function favPanelRender(){
 document.addEventListener('keydown', e => {
   if(e.key !== 'Escape') return;
   if(favPanelOpen()){ favPanelClose(true); return; }
+  if(document.querySelector('#fvClear .fv-ask')){ favClearNo(); return; } // Zadanie 39a4: Escape = Nie
   // Zadanie 39a3: Escape zavrie stránku všetkých obľúbených (nie keď je kurzor v „Hľadaj v obľúbených“
   // alebo je otvorené okno admina / prihlásenie)
   const a = document.activeElement;
@@ -3238,10 +3254,58 @@ function favViewRender(zmena){
   // pri zmene (odobratie hviezdičkou) sa políčko hľadania nemení — kurzor v ňom ostáva
   const box = document.getElementById('fvGroups');
   const chceSrch = n >= FAV_SRCH_OD;
-  if(zmena && box && !!document.getElementById('fvSrch') === chceSrch){ box.innerHTML = favGroupsHtml(); return; }
+  if(zmena && box && !!document.getElementById('fvSrch') === chceSrch){
+    box.innerHTML = favGroupsHtml();
+    const fc = document.getElementById('fvClear'); if(fc && fc.querySelector('.fv-ask')) fc.innerHTML = favClearBtnHtml(); // počet sa zmenil — otázka odznova
+    return;
+  }
   if(!chceSrch) _favFilter = '';
   main.innerHTML = `<div class="fv-bar" id="fvBar">` + (chceSrch ? `<input type="search" class="fv-srch" id="fvSrch" aria-label="${FT.srch}" placeholder="🔍  ${FT.srch}…" value="${attrEsc(_favFilter)}" oninput="_favFilter=this.value;document.getElementById('fvGroups').innerHTML=favGroupsHtml()"/>` : '')
-    + zav + `</div><div id="fvGroups">${favGroupsHtml()}</div>`;
+    + zav + `</div><div id="fvGroups">${favGroupsHtml()}</div><div class="fv-clear" id="fvClear" aria-live="polite">${favClearBtnHtml()}</div>`;
+}
+// ---- Zadanie 39a4: vymazať všetky (poistka 1: otázka Áno/Nie; poistka 2: „Vrátiť späť" 15 s) ----
+// Pôvodný zoznam (ID, poradie, časy) je počas 15 s LEN v pamäti stránky (_favUndoData);
+// do localStorage sa zapisuje iba samotný kľúč sportLinkyObl (prázdny / obnovený).
+// GoatCounter: vymazanie ani obnovenie sa NEpočíta.
+const FAV_UNDO_MS = 15000;
+let _favUndoData = null, _favUndoT = null;
+function favClearBtnHtml(){ return `<button type="button" class="fv-clear-btn" id="fvClearBtn" onclick="favClearAsk()">${FT.vymaz}</button>`; }
+function favClearAsk(){
+  const fc = document.getElementById('fvClear'); if(!fc) return;
+  fc.innerHTML = `<p class="fv-ask" id="fvAsk">${FT.otazka(FAV.length)}</p>`
+    + `<button type="button" class="fv-yes" id="fvYes" onclick="favClearYes()">${FT.ano}</button>`
+    + `<button type="button" class="fv-no" id="fvNo" onclick="favClearNo()">${FT.nie}</button>`;
+  try{ document.getElementById('fvNo').focus({preventScroll: true}); }catch(e){} // bezpečná voľba má kurzor
+}
+function favClearNo(){
+  const fc = document.getElementById('fvClear'); if(!fc) return;
+  fc.innerHTML = favClearBtnHtml();
+  try{ document.getElementById('fvClearBtn').focus({preventScroll: true}); }catch(e){}
+}
+function favClearYes(){
+  FAV = favRead();
+  if(!FAV.length){ favRefresh(); return; }
+  favUndoEnd();
+  _favUndoData = FAV.map(x => ({id: x.id, t: x.t}));
+  FAV = []; favWrite();
+  favRefresh();                       // prázdny stav + „☆ 0“ v hlavičke
+  let u = document.getElementById('favUndo');
+  if(!u){ u = document.createElement('div'); u.id = 'favUndo'; u.setAttribute('role', 'status'); document.body.appendChild(u); }
+  u.innerHTML = `<span>${FT.vymazane} (${_favUndoData.length}) ·</span><button type="button" id="favUndoBtn" onclick="favUndo()">${FT.spat}</button>`;
+  _favUndoT = setTimeout(favUndoEnd, FAV_UNDO_MS);
+  try{ document.getElementById('favUndoBtn').focus({preventScroll: true}); }catch(e){}
+}
+function favUndo(){
+  if(!_favUndoData) return;
+  FAV = _favUndoData; _favUndoData = null;
+  favWrite();
+  favUndoEnd();
+  favRefresh();
+}
+// koniec lišty (15 s, odchod zo stránky, Vrátiť späť) — pamäť sa zahodí, vymazanie platí
+function favUndoEnd(){
+  clearTimeout(_favUndoT); _favUndoT = null; _favUndoData = null;
+  const u = document.getElementById('favUndo'); if(u) u.remove();
 }
 FAV = favRead();
 
