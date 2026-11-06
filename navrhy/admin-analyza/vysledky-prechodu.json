@@ -1,0 +1,151 @@
+{
+ "cardsBefore": [
+  [
+   "Šport.sk",
+   "https://sport.aktuality.sk/",
+   0
+  ],
+  [
+   "Športweb",
+   "https://www.pravda.sk/sportweb",
+   1
+  ],
+  [
+   "Sportnet",
+   "https://sportnet.sme.sk/",
+   2
+  ],
+  [
+   "STVR šport",
+   "https://spravy.stvr.sk/kategoria/sport/",
+   3
+  ],
+  [
+   "Športky",
+   "https://sportky.zoznam.sk/",
+   4
+  ],
+  [
+   "Teraz.sk šport",
+   "https://www.teraz.sk/sport",
+   5
+  ],
+  [
+   "TNlive.sk šport",
+   "https://tnlive.sk/sport",
+   6
+  ],
+  [
+   "Noviny.sk šport",
+   "https://sport.noviny.sk/",
+   7
+  ],
+  [
+   "TA3 šport",
+   "https://www.ta3.com/sport",
+   8
+  ],
+  [
+   "Šport24",
+   "https://sport24.pluska.sk/",
+   9
+  ],
+  [
+   "HNonline.sk šport",
+   "https://hnonline.sk/sport",
+   10
+  ]
+ ],
+ "addFields": [
+  "nUrl",
+  "nFb",
+  "nIg",
+  "nName",
+  "nDesc",
+  "nNameEn",
+  "nDescEn",
+  "nIcon"
+ ],
+ "focusAfterOpen": "nUrl",
+ "saveOnlyUrl": [
+  "Vyplň názov!"
+ ],
+ "saveNoHttps": [
+  "URL: adresa musí začínať https:// (alebo http://)."
+ ],
+ "saveDup": [],
+ "after": {
+  "count": 12,
+  "last": {
+   "id": "n1793982815550na2",
+   "parentId": "f_med_eu_sk",
+   "type": "link",
+   "icon": "",
+   "name": "Duplicitná skúška",
+   "desc": "test",
+   "url": "https://sport.aktuality.sk/",
+   "order": 11
+  }
+ },
+ "dupGlobalExample": 388,
+ "editFields": [
+  "nUrl",
+  "nFb",
+  "nIg",
+  "nName",
+  "nDesc",
+  "nNameEn",
+  "nDescEn",
+  "nIcon"
+ ],
+ "moveLastToTop": {
+  "clicks": 52,
+  "ms": 392,
+  "pos": 0
+ },
+ "homeHasArrows": 11,
+ "publish": {
+  "file": "data.json",
+  "size": 9547993
+ },
+ "dialogsAll": [],
+ "errs": [],
+ "enRoots": [
+  "Live This Week",
+  "Football",
+  "Ice Hockey",
+  "Tennis",
+  "Basketball",
+  "Handball",
+  "Volleyball",
+  "Winter Sports",
+  "Other Sports",
+  "News & Media"
+ ],
+ "enMedEuAlpha": true,
+ "enMedEuFirst": [
+  "Albania",
+  "Andorra",
+  "Armenia",
+  "Austria",
+  "Azerbaijan",
+  "Belarus"
+ ],
+ "enAlphaAlert": [
+  "Here the order is alphabetical.\n(Tu sa na EN webe radí abecedne — poradie sa nedá meniť.)"
+ ],
+ "mobileBar": {
+  "h": 80
+ },
+ "mobileBtn": [
+  38,
+  38
+ ],
+ "mobileInputFont": "16px",
+ "mobileModal": {
+  "boxH": 624,
+  "saveBottom": 625,
+  "vh": 664
+ },
+ "dM": []
+}
