@@ -1,5 +1,5 @@
 {
-  "version": 1126,
+  "version": 1127,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -117800,8 +117800,8 @@
       "icon": "ma",
       "name": "Maroko",
       "name_en": "Morocco",
-      "desc": "Marocké basketbalové kluby — Division Excellence (13 klubov: AS FAR, AS Salé, FUS Rabat, Ittihad Tanger). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
-      "desc_en": "Basketball clubs in Morocco — Division Excellence (13 clubs: AS FAR, AS Salé, FUS Rabat, Ittihad Tanger). Official websites, Facebook and Instagram of the clubs in one place.",
+      "desc": "Marocké basketbalové kluby — Division Excellence (12 klubov: AS FAR, AS Salé, FUS Rabat, Ittihad Tanger). Oficiálne weby, Facebook a Instagram klubov na jednom mieste.",
+      "desc_en": "Basketball clubs in Morocco — Division Excellence (12 clubs: AS FAR, AS Salé, FUS Rabat, Ittihad Tanger). Official websites, Facebook and Instagram of the clubs in one place.",
       "order": 6,
       "slug": "maroko",
       "slug_en": "morocco"
@@ -124830,10 +124830,9 @@
       "icon": "",
       "name": "AS FAR",
       "desc": "Rabat — klub Kráľovských ozbrojených síl, trojnásobný ligový majster.",
-      "url": "https://as-far.ma/fr/presentation/12",
+      "url": "https://www.instagram.com/asfarbasket/",
       "order": 2,
-      "desc_en": "Rabat — the Royal Armed Forces club, a three-time league champion.",
-      "ig": "https://www.instagram.com/asfarbasket/"
+      "desc_en": "Rabat — the Royal Armed Forces club, a three-time league champion."
     },
     {
       "id": "f_bas_mar_l1_k4",
@@ -124842,21 +124841,10 @@
       "icon": "",
       "name": "AS Salé",
       "desc": "Salé — deväťnásobný ligový majster a víťaz Afrického pohára majstrov FIBA 2017.",
-      "url": "https://assbasketball.ma",
+      "url": "https://basketball.afrobasket.com/team/AS-de-Sale/2871",
       "order": 3,
       "desc_en": "Salé — a nine-time league champion and winner of the 2017 FIBA Africa Clubs Champions Cup.",
       "fb": "https://www.facebook.com/as.salebasket/"
-    },
-    {
-      "id": "f_bas_mar_l1_k5",
-      "parentId": "f_bas_mar_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Club Pomme Midelt",
-      "desc": "Midelt — klub založený v roku 2018, z najmenšieho mesta v najvyššej súťaži.",
-      "url": "https://www.instagram.com/club_pomme_athletic_midelt/",
-      "order": 4,
-      "desc_en": "Midelt — a club founded in 2018, from the smallest city in the top division."
     },
     {
       "id": "f_bas_mar_l1_k6",
@@ -124866,7 +124854,7 @@
       "name": "CODM Meknès",
       "desc": "Meknès — mestský klub, do najvyššej súťaže postúpil v roku 2013.",
       "url": "https://www.instagram.com/codmbasketball/",
-      "order": 5,
+      "order": 4,
       "desc_en": "Meknès — the city's club, promoted to the top division in 2013."
     },
     {
@@ -124877,7 +124865,7 @@
       "name": "FUS Rabat",
       "desc": "Rabat — rekordér Maroka s 21 ligovými titulmi, aktuálny majster sezóny 2025/26.",
       "url": "https://www.instagram.com/fusbasketball/",
-      "order": 6,
+      "order": 5,
       "desc_en": "Rabat — Morocco's record champion with 21 league titles, reigning champion of the 2025/26 season."
     },
     {
@@ -124886,10 +124874,10 @@
       "type": "link",
       "icon": "",
       "name": "Ittihad Tanger",
-      "desc": "Tanger — trojnásobný ligový majster, naposledy titul získal v roku 2009.",
+      "desc": "Tanger — deväťnásobný ligový majster, naposledy titul získal v roku 2009.",
       "url": "https://www.instagram.com/irtbasketball/",
-      "order": 7,
-      "desc_en": "Tangier — a three-time league champion, most recently in 2009."
+      "order": 6,
+      "desc_en": "Tangier — a nine-time league champion, most recently in 2009."
     },
     {
       "id": "f_bas_mar_l1_k9",
@@ -124899,20 +124887,9 @@
       "name": "KACM Marrakech",
       "desc": "Marrakech — mestský klub hrajúci na palubovke Zerktouni.",
       "url": "https://www.facebook.com/kacmbasketball.officielle/",
-      "order": 8,
+      "order": 7,
       "desc_en": "Marrakesh — the city's club, playing at the Zerktouni arena.",
       "ig": "https://www.instagram.com/kacm.basketball/"
-    },
-    {
-      "id": "f_bas_mar_l1_k10",
-      "parentId": "f_bas_mar_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Lixus Larache",
-      "desc": "Larache — klub pomenovaný po antickom meste Lixus neďaleko mesta.",
-      "url": "https://www.instagram.com/lixusbasketball/",
-      "order": 9,
-      "desc_en": "Larache — a club named after the ancient city of Lixus near the town."
     },
     {
       "id": "f_bas_mar_l1_k11",
@@ -124922,7 +124899,7 @@
       "name": "Maghreb Fès",
       "desc": "Fès — päťnásobný ligový majster, prezývaný „Tigre“.",
       "url": "https://www.facebook.com/masbasketball1946/",
-      "order": 10,
+      "order": 8,
       "desc_en": "Fez — a five-time league champion, nicknamed the \"Tigers\".",
       "ig": "https://www.instagram.com/masbasketofficiel/"
     },
@@ -124933,8 +124910,8 @@
       "icon": "",
       "name": "Majd Tanger",
       "desc": "Tanger — mladý klub založený 2017, víťaz Marockého trónneho pohára 2023 a finalista ligy tej istej sezóny.",
-      "url": "https://www.facebook.com/majdtanjabasketball",
-      "order": 11,
+      "url": "https://www.facebook.com/majdtanjabasketball/",
+      "order": 9,
       "desc_en": "Tangier — a young club founded in 2017, winner of the Moroccan Throne Cup in 2023 and league finalist that same season.",
       "ig": "https://www.instagram.com/majdtanjabasketball/"
     },
@@ -124946,7 +124923,7 @@
       "name": "Wydad AC",
       "desc": "Casablanca — basketbalový oddiel veľkoklubu Wydad, desaťnásobný ligový majster.",
       "url": "https://www.instagram.com/wacbasketball/",
-      "order": 12,
+      "order": 11,
       "desc_en": "Casablanca — the basketball department of the major Wydad club, a ten-time league champion."
     },
     {
@@ -197811,8 +197788,8 @@
       "icon": "ma",
       "name": "Division Excellence",
       "name_en": "Division Excellence",
-      "desc": "Najvyššia marocká basketbalová súťaž (Division Excellence), v ročníku 2025/26 hralo 14 klubov a titul získal FUS Rabat. Medzi ďalšie kluby patria AS FAR, AS Salé, Ittihad Tanger a Alliance Sportive Casablanca.",
-      "desc_en": "Morocco's top basketball competition (Division Excellence), contested in 2025/26 by 14 clubs and won by FUS Rabat. Other clubs include AS FAR, AS Salé, Ittihad Tanger and Alliance Sportive Casablanca.",
+      "desc": "Najvyššia marocká basketbalová súťaž (Division Excellence), v ročníku 2026/27 hrá 12 klubov; titul za sezónu 2025/26 získal FUS Rabat. Medzi ďalšie kluby patria AS FAR, AS Salé, Ittihad Tanger a Alliance Sportive Casablanca.",
+      "desc_en": "Morocco's top basketball competition (Division Excellence), contested in 2026/27 by 12 clubs; the 2025/26 title went to FUS Rabat. Other clubs include AS FAR, AS Salé, Ittihad Tanger and Alliance Sportive Casablanca.",
       "order": 0,
       "slug": "division-excellence",
       "slug_en": "division-excellence"
@@ -204178,6 +204155,17 @@
       "order": -2,
       "tag": "scores",
       "enOnly": true
+    },
+    {
+      "id": "f_bas_mar_l1_k14",
+      "parentId": "f_bas_mar_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Renaissance de Berkane",
+      "desc": "Berkane — basketbalový oddiel klubu Renaissance Sportive de Berkane, nováčik Division Excellence v sezóne 2026/27; v minulosti majster Maroka a víťaz Pohára trónu. Aktuality zverejňuje na Instagrame.",
+      "desc_en": "Berkane — the basketball section of Renaissance Sportive de Berkane, a newcomer to the Division Excellence in 2026/27; a former Moroccan champion and Throne Cup winner. News is published on Instagram.",
+      "url": "https://www.instagram.com/rsb.basketball/",
+      "order": 10
     }
   ],
   "title_en": "Sportlinking",
