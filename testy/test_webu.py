@@ -63,6 +63,9 @@ neotvorí web; pridať/odobrať, počet „★ N“ v hlavičke, uloženie po F5
 celých dátach vyradí, zmena v inej karte sa prejaví, panel (10 riadkov + „Zobraziť všetky (N) ›“,
 Escape, klik mimo), /?oblubene (noindex, odobratie, Späť/Vpred), admin bez hviezdičiek, na mobile
 ★ v zbalenej hlavičke pred lupou. Appka bez obľúbených (starý web) = ✅ s poznámkou.
+Zadanie 39a3: tlačidlo „☆ 0“ vidno aj pri 0, panel pri 0 s vetou (aj po odobratí poslednej pri
+otvorenom paneli), „✕ Zavrieť obľúbené“ vráti na stránku, odkiaľ sa prišlo (priamy príchod → domov),
+pri ~50 obľúbených je riadok s hľadaním a Zavrieť prilepený pod hlavičkou aj na konci zoznamu.
 
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
 Voliteľne:  --od 2026-11-02T02:30:00Z  (počkaj, kým živý web nemá novšiu verziu)
@@ -1560,6 +1563,53 @@ class Test:
             return None
         return int(page.locator("#hFavN").inner_text().strip() or "0")
 
+    def obl_vyber_ids(self, k):
+        """k náhodných ID liniek, ktoré návštevník tohto webu vidí (nie skryté v jazyku, nie Aktuálne)."""
+        uzly = self.data.get("nodes", [])
+        podla_id = {n["id"]: n for n in uzly}
+        def skryty(n):
+            while n:
+                if (self.lang == "sk" and n.get("enOnly")) or (self.lang == "en" and n.get("en") is False) or n.get("id") == "f_ltw":
+                    return True
+                n = podla_id.get(n.get("parentId"))
+            return False
+        ids = [n["id"] for n in uzly if n.get("type") == "link" and n.get("parentId") and not skryty(n)]
+        return random.sample(ids, min(k, len(ids)))
+
+    def obl_dlhy(self, page, kde):
+        """Zadanie 39a3: ~50 obľúbených (len v prehliadači testu), priamy príchod na /?oblubene:
+        po posune na koniec zoznamu je riadok s „Hľadaj v obľúbených“ a „Zavrieť“ prilepený pod
+        hlavičkou a vidno ho; priamy príchod → „Zavrieť“ vedie na domov."""
+        ids = self.obl_vyber_ids(50)
+        page.evaluate("([k, a]) => localStorage.setItem(k, JSON.stringify(a.map((id, i) => ({id, t: Date.now() - i * 1000}))))",
+                      [self.OBL_KLUC, ids])
+        o = urllib.parse.urlsplit(self.base)
+        page.goto(f"{o.scheme}://{o.netloc}{o.path}?" + ("favorites" if self.lang == "en" else "oblubene"), wait_until="load")
+        page.wait_for_function(self.OBL_CELE_DATA, timeout=30_000)
+        page.wait_for_selector("#fvBar #fvClose", state="visible")
+        page.wait_for_selector("#main .card-link > .star.on", state="visible")
+        if not page.locator("#fvSrch").is_visible():
+            raise Zlyhanie(f"{kde}: pri {len(ids)} obľúbených chýba políčko „Hľadaj v obľúbených“")
+        for y in range(0, 100001, 600):            # posun po krokoch až na koniec (hlavička sa na mobile zbalí)
+            page.evaluate("y => scrollTo(0, y)", y)
+            page.wait_for_timeout(40)
+            if page.evaluate("innerHeight + scrollY >= document.documentElement.scrollHeight - 2"):
+                break
+        page.wait_for_timeout(300)
+        st = page.evaluate("""() => { const b = document.getElementById('fvClose').getBoundingClientRect(),
+            s = document.getElementById('fvSrch').getBoundingClientRect(), h = document.querySelector('header').getBoundingClientRect();
+            const e = document.elementFromPoint(b.left + b.width / 2, b.top + b.height / 2);
+            return {y: Math.round(scrollY), hore: Math.round(b.top), hlav: Math.round(h.bottom), trafi: !!(e && e.closest('#fvClose')),
+                    srch: s.top >= h.bottom - 1 && s.bottom <= innerHeight}; }""")
+        self.snimka(page, "r-obl-dlhy-" + ("mobil" if kde == "mobil" else "pc"))
+        if st["y"] < 300 or not st["trafi"] or not st["srch"] or st["hore"] < st["hlav"] - 1:
+            raise Zlyhanie(f"{kde}: pri posune na koniec {len(ids)} obľúbených nie je „Zavrieť“/hľadanie vidno pod hlavičkou: {st}")
+        page.click("#fvClose")
+        page.wait_for_timeout(500)
+        if urllib.parse.urlsplit(page.url).path != o.path or urllib.parse.urlsplit(page.url).query:
+            raise Zlyhanie(f"{kde}: „Zavrieť“ pri priamom príchode nevedie na domov (adresa {page.url})")
+        return f"{kde}: {len(ids)} obľúbených, na konci (posun {st['y']} px) „Zavrieť“ pod hlavičkou, priamy príchod → domov"
+
     def oblubene(self, pokus):
         if not self.data:
             raise Zlyhanie("bez data.json sa nedá vybrať priečinok s linkami")
@@ -1575,8 +1625,17 @@ class Test:
             if page.evaluate("typeof favToggle") != "function":
                 return "ok", "appka na webe ešte nemá obľúbené (Zadanie 39) — kontrola preskočená"
             page.wait_for_function(self.OBL_CELE_DATA, timeout=30_000)
-            if page.locator("#hFav").is_visible():
-                raise Zlyhanie("tlačidlo ★ v hlavičke je vidno, hoci nič nie je uložené")
+            # Zadanie 39a3: tlačidlo je vidno aj pri 0 — sivé „☆ 0“, panel s vetou o hviezdičke
+            if not page.locator("#hFav").is_visible() or page.locator("#hFav").inner_text().split() != ["☆", "0"]:
+                raise Zlyhanie(f"pri 0 obľúbených nie je v hlavičke tlačidlo „☆ 0“ "
+                               f"({page.locator('#hFav').inner_text() if page.locator('#hFav').is_visible() else 'nevidno'})")
+            if "(0)" not in (page.get_attribute("#hFav", "aria-label") or ""):
+                raise Zlyhanie(f"aria-label tlačidla pri 0: „{page.get_attribute('#hFav', 'aria-label')}“ (má byť „… (0)“)")
+            page.click("#hFav")
+            page.wait_for_selector("#favPanel .fp-empty", state="visible")
+            if "(0)" not in page.locator("#fpTitle").inner_text() or "☆" not in page.locator("#favPanel .fp-empty").inner_text():
+                raise Zlyhanie("panel pri 0 nemá nadpis „☆ … (0)“ a vetu o hviezdičke ☆")
+            page.keyboard.press("Escape")
             # adresu priečinka vypočíta appka (urlForId) — rovnaká ako statická stránka
             o = urllib.parse.urlsplit(self.base)
             fid = kand[0]
@@ -1613,8 +1672,8 @@ class Test:
                 raise Zlyhanie(f"{cesta}: po pridaní 1 linky ukazuje hlavička {self.obl_pocet_hlavicka(page)}")
             prva.click()
             page.wait_for_timeout(300)
-            if prva.get_attribute("aria-pressed") != "false" or self.obl_pocet_hlavicka(page) is not None:
-                raise Zlyhanie(f"{cesta}: odobratie hviezdičkou nefunguje (tlačidlo ★ v hlavičke ostalo)")
+            if prva.get_attribute("aria-pressed") != "false" or self.obl_pocet_hlavicka(page) != 0:
+                raise Zlyhanie(f"{cesta}: odobratie hviezdičkou nefunguje (hlavička {self.obl_pocet_hlavicka(page)}, má byť 0)")
             n = min(12, hv.count())
             if n < 11:
                 raise Zlyhanie(f"{cesta}: len {n} kariet s hviezdičkou (treba aspoň 11)")
@@ -1720,17 +1779,39 @@ class Test:
             page.wait_for_timeout(300)
             if page.locator("#main .card-link").count() != n - 1 or self.obl_pocet_hlavicka(page) != n - 1:
                 raise Zlyhanie("odobratie v zobrazení všetkých neubralo kartu ani počet v hlavičke")
-            page.go_back()
+            # Zadanie 39a3: „✕ Zavrieť obľúbené“ vráti na stránku, z ktorej sa obľúbené otvorili
+            if not page.locator("#fvBar #fvClose").is_visible():
+                raise Zlyhanie("zobrazenie všetkých nemá tlačidlo „Zavrieť obľúbené“")
+            page.click("#fvClose")
             page.wait_for_selector("#main .card-link > .star", state="visible")
             page.wait_for_timeout(400)
             if urllib.parse.urlsplit(page.url).path != cesta or page.evaluate("!!document.querySelector('meta[name=robots]#favRobots')"):
-                raise Zlyhanie(f"Späť zo zobrazenia všetkých nevrátilo stránku {cesta} (adresa {page.url})")
+                raise Zlyhanie(f"„Zavrieť obľúbené“ nevrátilo stránku {cesta} (adresa {page.url})")
             page.go_forward()
             page.wait_for_selector("#main .card-link > .star.on", state="visible")
             if urllib.parse.urlsplit(page.url).query not in ("oblubene", "favorites"):
                 raise Zlyhanie("Vpred nevrátil zobrazenie všetkých obľúbených")
             page.go_back()
             page.wait_for_selector("#main .card-link > .star", state="visible")
+
+            # 7b) Zadanie 39a3: odobratie POSLEDNEJ linky pri otvorenom paneli — panel ostane s vetou
+            idx = page.evaluate("""() => { const h = document.querySelector('header').getBoundingClientRect().bottom;
+                return [...document.querySelectorAll('#main .card-link > .star')].findIndex(s => {
+                    const r = s.getBoundingClientRect(); return r.top > h && r.bottom < innerHeight && r.right < innerWidth - 340; }); }  // vľavo od panela""")
+            if idx < 0:
+                page.evaluate("scrollTo(0, 0)")
+                idx = 0
+            posl = page.locator("#main .card-link > .star").nth(idx)
+            page.evaluate(f"() => localStorage.setItem('{self.OBL_KLUC}', JSON.stringify([{{id: '{posl.get_attribute('data-fid')}', t: Date.now()}}]))")
+            page.evaluate("() => { FAV = favRead(); favRefresh(); }")   # rovnako ako po zmene v inej karte
+            page.click("#hFav")
+            page.wait_for_selector("#favPanel .fp-row", state="visible")
+            posl.click()
+            page.wait_for_timeout(300)
+            if not page.locator("#favPanel .fp-empty").is_visible() or "(0)" not in page.locator("#fpTitle").inner_text():
+                self.snimka(page, "r-obl-panel-0-chyba")
+                raise Zlyhanie("odobratie poslednej linky pri otvorenom paneli panel zatvorilo alebo neukázalo vetu")
+            page.keyboard.press("Escape")
 
             # 8) admin režim: žiadne hviezdičky, lišta kariet admina ostáva, tlačidlo ★ skryté
             # (vstup bez hesla len v pamäti prehliadača testu — nič sa neukladá ani neodosiela)
@@ -1743,9 +1824,10 @@ class Test:
             if hv_admin or hfav_admin or not bary:
                 raise Zlyhanie(f"admin: viditeľných hviezdičiek {hv_admin}, tlačidlo ★ v hlavičke "
                                f"{'vidno' if hfav_admin else 'skryté'}, lišty kariet admina {bary}")
+            popis.append(self.obl_dlhy(page, "počítač"))
             self.over_chyby(page, "obľúbené (počítač)")
             popis.append(f"{cesta}: ±★, {n} uložené po F5, panel 10 + „Zobraziť všetky ({n})“, "
-                         "/?oblubene + Späť/Vpred, iná karta, admin bez ★")
+                         "/?oblubene + Zavrieť/Späť/Vpred, ☆ 0 a panel pri 0, iná karta, admin bez ★")
         finally:
             ctx.close()
 
@@ -1764,6 +1846,8 @@ class Test:
             if not zony or zle:
                 self.snimka(page, "r-obl-zona-mobil-chyba")
                 raise Zlyhanie(f"zóna hviezdičky (mobil) nesedí: {zle or 'žiadna karta s ★'}")
+            if not page.locator("#hFav").is_visible() or page.locator("#hFavN").inner_text().strip() != "0":
+                raise Zlyhanie("mobil: pri 0 obľúbených nie je v hlavičke tlačidlo „☆ 0“")
             page.locator("#main .card-link > .star").first.tap()
             page.wait_for_timeout(300)
             if len(ctx.pages) != 1 or self.obl_pocet_hlavicka(page) != 1:
@@ -1778,6 +1862,7 @@ class Test:
                     self.snimka(page, "r-obl-mobil-hlavicka-chyba")
                     raise Zlyhanie("mobil: v zbalenej hlavičke chýba ★ pred lupou")
                 self.snimka(page, "r-obl-mobil-hlavicka")
+            popis.append(self.obl_dlhy(page, "mobil"))
             self.over_chyby(page, "obľúbené (mobil)")
             popis.append(f"mobil: zóna {min(z['w'] for z in zony)}×{min(z['h'] for z in zony)} px, ★ v zbalenej hlavičke")
         finally:
