@@ -373,6 +373,10 @@ a.akt-head[href]:hover #aktHeadTxt{text-decoration:underline}
 /* tlačidlo „★ 4“ v hlavičke (len keď je niečo uložené) */
 .h-fav{display:flex;align-items:center;gap:5px;flex-shrink:0;height:38px;padding:0 12px;border:1.5px solid var(--border);border-radius:30px;background:var(--surface);color:#f5c518;font-size:.95rem;font-weight:700;line-height:1;cursor:pointer;font-family:inherit}
 .h-fav b{color:var(--text);font-size:.85rem;font-variant-numeric:tabular-nums}
+/* Zadanie 39a3: tlačidlo je vidno vždy — pri 0 sivé „☆ 0“ (farba prázdnej hviezdičky na karte) */
+.h-fav.fav0{color:#6f8396}
+.h-fav.fav0 b{color:var(--muted)}
+.fp-empty{border-top:1px solid var(--border);padding:12px 14px 10px;font-size:.84rem;line-height:1.45;color:var(--muted)}
 .h-fav[hidden],.admin-mode .h-fav{display:none}
 @media(hover:hover){.h-fav:hover{border-color:#f5c518}}
 .h-fav[aria-expanded="true"]{border-color:#f5c518;background:var(--surface2)}
@@ -410,9 +414,17 @@ a.akt-head[href]:hover #aktHeadTxt{text-decoration:underline}
 /* zobrazenie všetkých obľúbených (?oblubene / ?favorites) */
 .fv-group{margin-top:22px}
 .fv-group:first-of-type{margin-top:6px}
-.fv-srch{width:100%;max-width:420px;padding:9px 16px;border-radius:30px;border:1.5px solid var(--border);background:var(--surface);color:var(--text);font-size:.88rem;outline:none;margin-bottom:6px;-webkit-appearance:none;appearance:none}
+/* Zadanie 39a3: riadok „Hľadaj v obľúbených“ + „✕ Zavrieť obľúbené“ — prilepený pod hlavičkou
+   (top = --hdrH, skutočná výška hlavičky; nastavuje hdrVyska() aj pri zbalení na mobile),
+   plné pozadie, miesto má od prvého vykreslenia (nič neposkočí) */
+.fv-bar{position:sticky;top:var(--hdrH,0px);z-index:40;display:flex;align-items:center;gap:10px;background:var(--bg);padding:8px 0;margin:-8px 0 0}
+.fv-close{margin-left:auto;flex-shrink:0;display:flex;align-items:center;height:38px;padding:0 14px;border:1.5px solid var(--border);border-radius:30px;background:var(--surface);color:var(--text);font-size:.85rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap}
+@media(hover:hover){.fv-close:hover{border-color:var(--accent);background:var(--surface2)}}
+.fv-close:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.fv-close .fs{display:none}
+.fv-srch{flex:1;min-width:0;width:100%;max-width:420px;padding:9px 16px;border-radius:30px;border:1.5px solid var(--border);background:var(--surface);color:var(--text);font-size:.88rem;outline:none;-webkit-appearance:none;appearance:none}
 .fv-srch:focus{border-color:#f5c518}
-@media(max-width:560px){.fv-srch{font-size:16px;max-width:none}}
+@media(max-width:560px){.fv-srch{font-size:16px;max-width:none}.fv-close{height:40px;padding:0 12px}.fv-close .fl{display:none}.fv-close .fs{display:inline}}
 
 /* ===== ANIMÁCIA KARIET — jemné vynorenie pri vstupe do sekcie ===== */
 @keyframes cardIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
@@ -731,7 +743,7 @@ button#aktMoreBadge{-webkit-appearance:none;appearance:none;margin:0;border:0;fo
   <nav class="h-sports" id="hSports" aria-label="Športy"></nav>
   <button type="button" class="h-lupa" id="hLupa" aria-label="Hľadať" onclick="hdrOpenSearch()">🔍</button>
   <div class="h-search"><input type="search" id="srch" aria-label="Hľadaj v strome" placeholder="🔍  Hľadaj kdekoľvek v strome..." oninput="onSearch()"/></div>
-  <button type="button" class="h-fav" id="hFav" hidden aria-haspopup="dialog" aria-expanded="false" aria-controls="favPanel" aria-label="Obľúbené" title="Obľúbené" onclick="favPanelToggle()">★ <b id="hFavN">0</b></button>
+  <button type="button" class="h-fav fav0" id="hFav" aria-haspopup="dialog" aria-expanded="false" aria-controls="favPanel" aria-label="Obľúbené (0)" title="Obľúbené" onclick="favPanelToggle()"><span id="hFavS" aria-hidden="true">☆</span> <b id="hFavN">0</b></button>
   <div class="vswitch" id="vSwitch" role="group" aria-label="Zobrazenie"><button type="button" data-mode="tiles" class="on" aria-pressed="true" title="Dlaždice" onclick="setViewMode('tiles')">▦ Dlaždice</button><button type="button" data-mode="cols" aria-pressed="false" title="Stĺpce — priečinky sa otvárajú myšou" onclick="setViewMode('cols')">▥ Stĺpce</button></div>
   <button class="btn-admin-tog" id="adminTog" onclick="toggleAdmin()">⚙️ Admin</button>
 </header>
@@ -2727,6 +2739,7 @@ function hdrSet(min){
   }
   hdrMin = min;
   hdrDot();
+  if(typeof hdrVyska === 'function') hdrVyska(); // Zadanie 39a3: prilepený riadok obľúbených pod hlavičku
 }
 function hdrDot(){
   const l = document.getElementById('hLupa'), s = document.getElementById('srch');
@@ -2984,9 +2997,9 @@ let _favPurged = null;        // DB.nodes, pri ktorých už prebehlo vyradenie z
 let _favFilter = '';          // text v políčku „Hľadaj v obľúbených"
 const FT = IS_EN
   ? {add:'Add to favorites', rem:'Remove from favorites', inF:'In favorites', fav:'Favorites', all:'Show all', srch:'Search favorites',
-     wait:'loading…', empty:'You have no favorites yet. Mark a link with the star ☆ next to it.', home:'Go to the homepage', close:'Close', none:'Nothing found in favorites.'}
+     wait:'loading…', empty:'You have no favorites yet. Mark a link with the star ☆ in the bottom-left corner of its card.', zavriet:'✕ Close favorites', zavrietK:'✕ Close', zavrietA:'Close favorites', home:'Go to the homepage', close:'Close', none:'Nothing found in favorites.'}
   : {add:'Pridať do obľúbených', rem:'Odobrať z obľúbených', inF:'V obľúbených', fav:'Obľúbené', all:'Zobraziť všetky', srch:'Hľadaj v obľúbených',
-     wait:'načítava sa…', empty:'Zatiaľ nemáš žiadne obľúbené linky. Označ linku hviezdičkou ☆ pri nej.', home:'Prejsť na domovskú stránku', close:'Zavrieť', none:'V obľúbených sa nič nenašlo.'};
+     wait:'načítava sa…', empty:'Zatiaľ nemáš žiadne obľúbené linky. Označ linku hviezdičkou ☆ v ľavom dolnom rohu karty.', zavriet:'✕ Zavrieť obľúbené', zavrietK:'✕ Zavrieť', zavrietA:'Zavrieť obľúbené', home:'Prejsť na domovskú stránku', close:'Zavrieť', none:'V obľúbených sa nič nenašlo.'};
 
 function favRead(){
   let a = [];
@@ -3043,12 +3056,14 @@ function favRefresh(){
 function favHeader(){
   const b = document.getElementById('hFav'); if(!b) return;
   const n = FAV.length;
-  b.hidden = !n;
-  document.body.classList.toggle('has-fav', n > 0);
+  // Zadanie 39a3: vidno vždy (aj pri 0 — ľudia vedia, že funkcia existuje); v admine skryté cez CSS
+  b.hidden = false;
+  b.classList.toggle('fav0', !n);
+  document.body.classList.add('has-fav');
+  document.getElementById('hFavS').textContent = n ? '★' : '☆';
   document.getElementById('hFavN').textContent = n;
   b.setAttribute('aria-label', FT.fav + ' (' + n + ')');
   b.title = FT.fav;
-  if(!n && favPanelOpen()) favPanelClose(false);
 }
 // celé dáta (nie BOOT / mini-balík) → vyraď zmiznuté linky (raz pre každé pole DB.nodes)
 function favPurge(){
@@ -3077,7 +3092,7 @@ function favPanelOpen(){ const p = document.getElementById('favPanel'); return !
 function favPanelToggle(){ if(favPanelOpen()) favPanelClose(true); else favPanelShow(); }
 function favPanelShow(){
   const p = document.getElementById('favPanel'), b = document.getElementById('hFav');
-  if(!p || !b || !FAV.length) return;
+  if(!p || !b || adminMode) return;
   FAV = favRead();
   favPanelRender();
   p.hidden = false;
@@ -3110,17 +3125,25 @@ function favPanelRender(){
   const p = document.getElementById('favPanel'); if(!p) return;
   const {ok, miss} = favNodes();
   const n = FAV.length;
-  let h = `<div class="fp-head"><span id="fpTitle">★ ${FT.fav} (${n})</span><button type="button" class="fp-x" aria-label="${FT.close}" title="${FT.close}" onclick="favPanelClose(true)">✕</button></div>`;
+  let h = `<div class="fp-head"><span id="fpTitle">${n?'★':'☆'} ${FT.fav} (${n})</span><button type="button" class="fp-x" aria-label="${FT.close}" title="${FT.close}" onclick="favPanelClose(true)">✕</button></div>`;
   // poradie podľa FAV (posledne pridané hore); chýbajúce (balík BOOT) → jeden riadok „načítava sa…"
   h += ok.slice(0, FAV_PANEL_MAX).map(favRowHtml).join('');
   if(miss.length && ok.length < FAV_PANEL_MAX) h += `<div class="fp-wait">+ ${miss.length} ${FT.wait}</div>`;
+  if(!n) h += `<p class="fp-empty">${FT.empty}</p>`; // Zadanie 39a3: pri 0 veta (panel sa nezatvára)
   if(n > FAV_PANEL_MAX) h += `<a class="fp-all" href="${attrEsc(favUrl())}" rel="nofollow" onclick="return favViewOpen(event)">${FT.all} (${n}) ›</a>`;
   p.innerHTML = h;
   // panel v DOM je vymenený — fokus by inak spadol na <body>
   if(document.activeElement === document.body) try{ p.querySelector('.fp-x').focus({preventScroll: true}); }catch(e){}
   favPanelPlace();
 }
-document.addEventListener('keydown', e => { if(e.key === 'Escape' && favPanelOpen()) favPanelClose(true); });
+document.addEventListener('keydown', e => {
+  if(e.key !== 'Escape') return;
+  if(favPanelOpen()){ favPanelClose(true); return; }
+  // Zadanie 39a3: Escape zavrie stránku všetkých obľúbených (nie keď je kurzor v „Hľadaj v obľúbených“
+  // alebo je otvorené okno admina / prihlásenie)
+  const a = document.activeElement;
+  if(favViewShown() && !(a && a.id === 'fvSrch') && !document.querySelector('.mo.open, #pwScreen.open')) favViewClose();
+});
 document.addEventListener('click', e => {
   if(!favPanelOpen()) return;
   const p = document.getElementById('favPanel'), b = document.getElementById('hFav');
@@ -3147,13 +3170,27 @@ function favViewOpen(ev){
   saveScrollState();
   curId = null; FAV_VIEW = true; _favFilter = ''; NAVIGOVANE = true; CESTA_CELA = true;
   document.getElementById('srch').value = '';
-  try{ history.pushState({curId: null, fav: true}, '', favUrl()); }catch(e){}
+  try{ history.pushState({curId: null, fav: true, zWeb: true}, '', favUrl()); }catch(e){} // zWeb: Zavrieť = Späť
   render();
   renderBannerSlot();
   try{ window.scrollTo(0, 0); }catch(e){}
   focusHeading();
   return false;
 }
+// je práve na obrazovke stránka všetkých obľúbených?
+function favViewShown(){ return FAV_VIEW && !adminMode && !document.getElementById('srch').value.trim(); }
+// Zadanie 39a3: „✕ Zavrieť obľúbené" / Escape — prišlo sa z webu (klik na „Zobraziť všetky") → Späť;
+// priamy príchod (záložka, adresa) → domov
+function favViewClose(){
+  if(history.state && history.state.fav && history.state.zWeb){ try{ history.back(); return; }catch(e){} }
+  navigate(null);
+}
+// výška hlavičky pre prilepený riadok (.fv-bar) — mení sa pri zbalení/rozbalení na mobile
+function hdrVyska(){
+  const h = document.querySelector('header');
+  if(h) document.documentElement.style.setProperty('--hdrH', Math.round(h.getBoundingClientRect().height) + 'px');
+}
+window.addEventListener('resize', hdrVyska);
 function favCard(n){
   const host = colHost(n);
   const ligaTag = (n.tag||n.order===-1) ? `<span class="liga-tag">${n.tag?String(n.tag).toUpperCase():(IS_EN?'LEAGUE':'LIGA')}</span>` : '';
@@ -3192,8 +3229,10 @@ function favViewRender(zmena){
   const main = document.getElementById('main');
   _lvlHtml = null; _promoEl = null; _promoSrc = '';
   const n = FAV.length;
+  hdrVyska();
+  const zav = `<button type="button" class="fv-close" id="fvClose" aria-label="${FT.zavrietA}" onclick="favViewClose()"><span class="fl">${FT.zavriet}</span><span class="fs" aria-hidden="true">${FT.zavrietK}</span></button>`;
   if(!n){
-    main.innerHTML = `<div class="empty"><div class="e-icon">☆</div><p>${FT.empty}</p><p style="margin-top:12px"><a class="fp-home" href="${attrEsc(urlForId(null))}" onclick="return navClick(event,null)" style="color:var(--accent-text);font-weight:600">🏠 ${FT.home} ›</a></p></div>`;
+    main.innerHTML = `<div class="fv-bar" id="fvBar">${zav}</div><div class="empty"><div class="e-icon">☆</div><p>${FT.empty}</p><p style="margin-top:12px"><a class="fp-home" href="${attrEsc(urlForId(null))}" onclick="return navClick(event,null)" style="color:var(--accent-text);font-weight:600">🏠 ${FT.home} ›</a></p></div>`;
     return;
   }
   // pri zmene (odobratie hviezdičkou) sa políčko hľadania nemení — kurzor v ňom ostáva
@@ -3201,8 +3240,8 @@ function favViewRender(zmena){
   const chceSrch = n >= FAV_SRCH_OD;
   if(zmena && box && !!document.getElementById('fvSrch') === chceSrch){ box.innerHTML = favGroupsHtml(); return; }
   if(!chceSrch) _favFilter = '';
-  main.innerHTML = (chceSrch ? `<input type="search" class="fv-srch" id="fvSrch" aria-label="${FT.srch}" placeholder="🔍  ${FT.srch}…" value="${attrEsc(_favFilter)}" oninput="_favFilter=this.value;document.getElementById('fvGroups').innerHTML=favGroupsHtml()"/>` : '')
-    + `<div id="fvGroups">${favGroupsHtml()}</div>`;
+  main.innerHTML = `<div class="fv-bar" id="fvBar">` + (chceSrch ? `<input type="search" class="fv-srch" id="fvSrch" aria-label="${FT.srch}" placeholder="🔍  ${FT.srch}…" value="${attrEsc(_favFilter)}" oninput="_favFilter=this.value;document.getElementById('fvGroups').innerHTML=favGroupsHtml()"/>` : '')
+    + zav + `</div><div id="fvGroups">${favGroupsHtml()}</div>`;
 }
 FAV = favRead();
 
