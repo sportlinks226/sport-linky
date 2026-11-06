@@ -3125,6 +3125,8 @@ document.addEventListener('click', e => {
   if(!favPanelOpen()) return;
   const p = document.getElementById('favPanel'), b = document.getElementById('hFav');
   if(p.contains(e.target) || (b && b.contains(e.target))) return;
+  // Zadanie 39a2: klik na hviezdičku (karta, tlačidlo v stĺpcoch) panel NEZATVORÍ — prekreslí sa (favRefresh)
+  if(e.target.closest && e.target.closest('[data-fid]')) return;
   favPanelClose(false);
 }, true);
 window.addEventListener('resize', favPanelPlace);

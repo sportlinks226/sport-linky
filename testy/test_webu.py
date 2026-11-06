@@ -1669,6 +1669,26 @@ class Test:
             if page.locator("#favPanel .fp-row a[target=_blank][rel~=noopener]").count() != 10:
                 raise Zlyhanie("riadky panela neotvárajú web v novej karte (target/rel ako karta)")
             self.snimka(page, "r-obl-panel")
+            # Zadanie 39a2: klik na hviezdičku karty pri otvorenom paneli panel NEZATVORÍ —
+            # odobratie aj pridanie ho hneď prekreslí, pridaná linka je v ňom na prvom mieste
+            idx = page.evaluate("""() => { const p = document.getElementById('favPanel').getBoundingClientRect();
+                const h = document.querySelector('header').getBoundingClientRect().bottom;
+                const v = [...document.querySelectorAll('#main .card-link > .star.on')];
+                return v.findIndex(s => { const r = s.getBoundingClientRect();
+                    return r.top > h && r.bottom < innerHeight && (r.right < p.left || r.left > p.right || r.top > p.bottom); }); }""")
+            if idx < 0:
+                raise Zlyhanie("panel: nenašla sa karta s ★ mimo panela (na skúšku kliku pri otvorenom paneli)")
+            hv_k = page.locator("#main .card-link > .star.on").nth(idx)
+            fid = hv_k.get_attribute("data-fid")
+            hv_k.click()
+            page.wait_for_timeout(300)
+            if not page.locator("#favPanel").is_visible() or f"({n - 1})" not in page.locator("#fpTitle").inner_text():
+                raise Zlyhanie("panel: odobratie hviezdičkou na karte panel zatvorilo alebo neprekreslilo")
+            page.locator(f'#main .card-link > .star[data-fid="{fid}"]').click()
+            page.wait_for_timeout(300)
+            prvy = page.locator("#favPanel .fp-row .star").first.get_attribute("data-fid") if page.locator("#favPanel").is_visible() else None
+            if prvy != fid or f"({n})" not in page.locator("#fpTitle").inner_text():
+                raise Zlyhanie(f"panel: po pridaní hviezdičkou na karte sa panel zatvoril alebo nová linka nie je prvá (prvý riadok {prvy}, čakal som {fid})")
             page.keyboard.press("Escape")
             page.wait_for_timeout(200)
             if page.locator("#favPanel").is_visible():
