@@ -67,7 +67,7 @@ Zadanie 39a3: tlačidlo „☆ 0“ vidno aj pri 0, panel pri 0 s vetou (aj po o
 otvorenom paneli), „✕ Zavrieť obľúbené“ vráti na stránku, odkiaľ sa prišlo (priamy príchod → domov),
 pri ~50 obľúbených je riadok s hľadaním a Zavrieť prilepený pod hlavičkou aj na konci zoznamu.
 Zadanie 39a4: „🗑 Vymazať všetky“ dole pod zoznamom — otázka (Nie / Escape nič nezmení), Áno → 0
-a „☆ 0“, lišta „Vrátiť späť“ obnoví presne pôvodný zoznam (ID, poradie, časy), po F5 stav sedí.
+a „☆ 0“, stránka skočí hore, lišta „Vrátiť späť“ obnoví presne pôvodný zoznam (ID, poradie, časy), po F5 stav sedí.
 
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
 Voliteľne:  --od 2026-11-02T02:30:00Z  (počkaj, kým živý web nemá novšiu verziu)
@@ -1642,8 +1642,16 @@ class Test:
                 or urllib.parse.urlsplit(page.url).query not in ("oblubene", "favorites")):
             raise Zlyhanie(f"{kde}: Escape pri otázke nemá byť nič iné než „Nie“ (stránka obľúbených ostáva)")
         page.click("#fvClearBtn")
+        if page.evaluate("scrollY") < 50:
+            raise Zlyhanie(f"{kde}: pred „Áno“ nie je stránka posunutá nadol — skok hore sa nedá overiť")
         page.click("#fvYes")
         page.wait_for_selector("#favUndo #favUndoBtn", state="visible")
+        try:   # po vymazaní skok hore — prázdny stav aj „Zavrieť“ hneď vidno
+            page.wait_for_function("() => scrollY === 0", timeout=3000)
+        except Exception:
+            raise Zlyhanie(f"{kde}: po „Áno, vymazať“ stránka neskočila hore (posun {page.evaluate('scrollY')} px)") from None
+        if not page.locator("#fvClose").is_visible() or not page.locator("#main .empty").is_visible():
+            raise Zlyhanie(f"{kde}: po vymazaní nie je hore vidno prázdny stav a „Zavrieť“")
         zoz = self.obl_zoznam(page)
         if zoz != [] or page.locator("#hFav").inner_text().split() != ["☆", "0"] or page.locator("#main .card-link").count():
             raise Zlyhanie(f"{kde}: po „Áno“ nie je 0 obľúbených a „☆ 0“ (úložisko {zoz}, hlavička {page.locator('#hFav').inner_text()})")
@@ -1662,7 +1670,7 @@ class Test:
         page.wait_for_timeout(300)
         if surovy() != povodny or self.obl_pocet_hlavicka(page) != n:
             raise Zlyhanie(f"{kde}: po F5 nesedí obnovený zoznam obľúbených")
-        return "vymazať: otázka/Nie/Escape/Áno → ☆ 0 → Vrátiť späť = rovnaký zoznam aj po F5"
+        return "vymazať: otázka/Nie/Escape/Áno → skok hore, ☆ 0 → Vrátiť späť = rovnaký zoznam aj po F5"
 
     def oblubene(self, pokus):
         if not self.data:

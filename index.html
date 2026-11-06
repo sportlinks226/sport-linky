@@ -3289,6 +3289,10 @@ function favClearYes(){
   _favUndoData = FAV.map(x => ({id: x.id, t: x.t}));
   FAV = []; favWrite();
   favRefresh();                       // prázdny stav + „☆ 0“ v hlavičke
+  // prázdny stav aj „Zavrieť" hneď vidno — skok hore (pri obmedzení pohybu bez animácie)
+  let plynulo = true;
+  try{ plynulo = !window.matchMedia('(prefers-reduced-motion: reduce)').matches; }catch(e){}
+  try{ window.scrollTo({top: 0, behavior: plynulo ? 'smooth' : 'auto'}); }catch(e){ window.scrollTo(0, 0); }
   let u = document.getElementById('favUndo');
   if(!u){ u = document.createElement('div'); u.id = 'favUndo'; u.setAttribute('role', 'status'); document.body.appendChild(u); }
   u.innerHTML = `<span>${FT.vymazane} (${_favUndoData.length}) ·</span><button type="button" id="favUndoBtn" onclick="favUndo()">${FT.spat}</button>`;
