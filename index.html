@@ -4585,7 +4585,15 @@ function renderBannerSlot(){
   if(!DB.banners) DB.banners = [];
   if(!DB.bannerSettings) DB.bannerSettings = { rotate:false, interval:30, activeId:null };
   renderOneSlot(document.getElementById('bannerSlot'), 1);
-  renderOneSlot(document.getElementById('bannerSlot2'), 2);
+  // Zadanie 49: na mobile je slot 2 skrytý (CSS) → nevykresľovať ho vôbec (žiadne okienko
+  // partnera, žiadne neviditeľné zobrazenia reklamy). Značka 'skryty' sa nezhoduje so žiadnym
+  // bannerom ani s 'ph', takže po návrate na šírku > 560 px sa slot hneď vykreslí znova.
+  const s2 = document.getElementById('bannerSlot2');
+  if(BANNER_MOBIL_MQ && BANNER_MOBIL_MQ.matches){
+    if(s2.dataset.bid !== 'skryty'){ s2.dataset.bid = 'skryty'; s2.innerHTML = ''; }
+  } else {
+    renderOneSlot(s2, 2);
+  }
 }
 
 // bod 21: interval rotácie v sekundách — chýbajúci alebo 0 = 30 (žiadne delenie nulou)

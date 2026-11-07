@@ -89,7 +89,8 @@ Kontrola u) (7.11.2026, Zadanie 49): bannery na mobile — na LOKÁLNEJ KÓPII (
 a GoatCounter blokované, rotácia zapnutá LEN v prehliadači testu, čas rotácie posunutý len vo vnútri
 kontroly): na 390×844 (slot 2 skrytý) slot 1 strieda spoločný zoznam bannerov slotu 1 + slotu 2 (každý
 raz) a za celé kolo ukáže každý z nich; reklama partnera, ktorá zlyhala (AD_FAIL), sa vtedy preskočí,
-ak sú v zozname aj vlastné bannery; na počítači 1366×768 ostáva v slote 1 len zoznam slotu 1.
+ak sú v zozname aj vlastné bannery; na počítači 1366×768 ostáva v slote 1 len zoznam slotu 1. Skrytý slot 2 je na mobile prázdny (žiadne
+okienko partnera ani iný obsah — žiadne neviditeľné zobrazenia reklamy).
 Appka bez tejto funkcie (starý web) = ✅ s poznámkou.
 
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
@@ -2500,7 +2501,10 @@ class Test:
       AD_FAIL = af;
       const vlastne = vsetky.filter(b => !partner(b)).map(b => String(b.id));
       return {e1, e2, s1, videne, pool, poFail, vlastne,
-              slot2Skryty: getComputedStyle(document.getElementById('bannerSlot2')).display === 'none'};
+              slot2Skryty: getComputedStyle(document.getElementById('bannerSlot2')).display === 'none',
+              slot2Obsah: (() => { const s = document.getElementById('bannerSlot2');
+                return {iframe: s.querySelectorAll('iframe').length, deti: s.children.length,
+                        text: (s.textContent || '').trim().length, bid: s.dataset.bid || ''}; })()};
     }"""
 
     def bannery_mobil(self, pokus):
@@ -2520,6 +2524,9 @@ class Test:
                     if mobil:
                         if not r["slot2Skryty"]:
                             raise Zlyhanie(f"{kde}: slot 2 nie je skrytý — podmienka mobilu nesedí s CSS")
+                        o2 = r["slot2Obsah"]
+                        if o2["iframe"] or o2["deti"] or o2["text"]:
+                            raise Zlyhanie(f"{kde}: skrytý slot 2 nie je prázdny ({o2}) — reklama by sa načítala neviditeľne")
                         cakane = list(dict.fromkeys(r["e1"] + r["e2"]))
                         if r["s1"] != cakane:
                             raise Zlyhanie(f"{kde}: slot 1 rotuje {r['s1']}, čakal som sloty 1+2 {cakane}")
@@ -2528,7 +2535,7 @@ class Test:
                         if r["vlastne"] and r["poFail"] != r["vlastne"]:
                             raise Zlyhanie(f"{kde}: po zlyhaní reklamy partnera slot 1 rotuje {r['poFail']}, "
                                            f"čakal som len vlastné {r['vlastne']}")
-                        popis.append(f"{kde}: slot 1 strieda {len(r['e1'])}+{len(r['e2'])} bannerov")
+                        popis.append(f"{kde}: slot 1 strieda {len(r['e1'])}+{len(r['e2'])} bannerov, slot 2 prázdny")
                     else:
                         if r["s1"] != r["e1"] or (r["videne"] and set(r["videne"]) - set(r["e1"])):
                             raise Zlyhanie(f"{kde}: slot 1 na počítači má {r['s1']}, čakal som len slot 1 {r['e1']}")
