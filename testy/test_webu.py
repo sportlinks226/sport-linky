@@ -104,6 +104,12 @@ neukáže ani po (podstrčenej) udalosti beforeinstallprompt. Web bez PWA (star�
 Kontrola w) (Zadanie 50, časť B): na mobile sa ikonky webov na obrazovke načítajú, ikonky ďaleko pod
 obrazovkou čakajú (data-lz) a po dorolovaní sa načítajú všetky.
 
+Kontrola x) (Zadanie 50a2): tlačidlo „📲 APP“ v hlavičke — na mobile 360 a 390 px vľavo od ★ v tom istom
+riadku (hlavička sa nezalomí, v zbalenej hlavičke „APP“ vedľa ★ a lupa celá); ťuk bez ponuky prehliadača →
+bublina s návodom (menu ⋮) navrchu a celá na šírku, ✕ aj Späť ju zavrú; s podstrčenou ponukou
+beforeinstallprompt → systémová inštalácia; iPhone → návod ≡ → Zdieľať → Pridať na plochu bez vety
+o obľúbených; počítač (aj po beforeinstallprompt) a nainštalovaná aplikácia → tlačidlo nie je.
+
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
 Voliteľne:  --od 2026-11-02T02:30:00Z  (počkaj, kým živý web nemá novšiu verziu)
             --vystup test-vystup        (priečinok na snímky a zoznam chýb)
@@ -2724,6 +2730,124 @@ class Test:
         return "ok", (f"{urllib.parse.urlsplit(najlepsia).path}: {n_max} ikoniek, na obrazovke {s['na']} načítaných, "
                       f"{s['dalej_caka']} ďaleko pod obrazovkou čakalo, po dorolovaní všetky načítané")
 
+    # ------------------------------------------------ x) tlačidlo „📲 APP“ (Zadanie 50a2)
+    UA_IPHONE = ("Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 "
+                 "(KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1")
+    BIP_JS = """() => { const e = new Event('beforeinstallprompt', {cancelable: true});
+        e.prompt = () => { window._testPrompt = (window._testPrompt || 0) + 1; };
+        e.userChoice = Promise.resolve({outcome: 'dismissed'}); window.dispatchEvent(e); return e.defaultPrevented; }"""
+
+    def app_tlacidlo(self, pokus):
+        """Mobil 360 a 390 px (Android): „📲 APP“ / „APP“ vľavo od ★ v tom istom riadku, hlavička bez
+        zalomenia, v zbalenej hlavičke „APP“ vedľa ★ a lupa celá na obrazovke; ťuk bez ponuky prehliadača
+        → bublina s návodom (menu ⋮), navrchu a celá na šírku; ✕ a Späť ju zavrú (adresa ostane);
+        s (podstrčenou) ponukou beforeinstallprompt → systémová inštalácia. iPhone → návod ≡ → Zdieľať →
+        Pridať na plochu bez vety o obľúbených. Počítač (aj po beforeinstallprompt) a nainštalovaná
+        aplikácia (standalone) → tlačidlo nie je. Starý web bez tlačidla / vypnuté PWA = ✅ s poznámkou."""
+        kod_sw, _, sw = stiahni(self.base + "sw.js")
+        pwa_vyp = kod_sw != 200 or "PWA je VYPNUTÉ" in sw
+        detail = []
+        for sirka in (360, 390):
+            ctx = self.kontext(mobil=True, okno=(sirka, 800))
+            try:
+                page = self.stranka(ctx)
+                page.goto(self.base, wait_until="load")
+                self.cakaj_na_appku(page)
+                if not page.locator("#hApp").count():
+                    return "ok", "appka ešte nemá tlačidlo „📲 APP“ (starý web)"
+                viditelne = page.evaluate("(() => { const a = document.getElementById('hApp'); return !a.hidden && getComputedStyle(a).display !== 'none'; })()")
+                if pwa_vyp:
+                    if viditelne:
+                        raise Zlyhanie("PWA je vypnuté, ale tlačidlo „📲 APP“ je v hlavičke")
+                    return "ok", "PWA je vypnuté — tlačidlo „📲 APP“ správne nie je"
+                if not viditelne:
+                    raise Zlyhanie(f"{sirka} px: tlačidlo „📲 APP“ v hlavičke nie je vidieť")
+                m = page.evaluate("""() => { const r = s => document.querySelector(s).getBoundingClientRect();
+                    const A = r('#hApp'), F = r('#hFav'), L = r('.h-left'), S = r('.h-search');
+                    return {txt: document.getElementById('hApp').innerText.replace(/\\s+/g, ' ').trim(), aT: A.top, fT: F.top,
+                            aR: A.right, fL: F.left, aL: A.left, lR: L.right, lT: L.top, sT: S.top, sw: document.documentElement.scrollWidth}; }""")
+                if abs(m["aT"] - m["fT"]) > 3 or m["aR"] > m["fL"] or m["aL"] < m["lR"] or abs(m["fT"] - m["lT"]) > 20 or m["sw"] > sirka:
+                    raise Zlyhanie(f"{sirka} px: hlavička sa s tlačidlom „{m['txt']}“ zalomila / prekrýva ({m})")
+                # zbalená hlavička
+                page.mouse.wheel(0, 700)
+                page.wait_for_timeout(800)
+                z = page.evaluate("""() => { const r = s => document.querySelector(s).getBoundingClientRect();
+                    const a = document.getElementById('hApp'), A = r('#hApp'), F = r('#hFav'), U = r('#hLupa');
+                    return {min: document.body.classList.contains('hdr-min'), vid: getComputedStyle(a).display !== 'none',
+                            aT: A.top, fT: F.top, aR: A.right, fL: F.left, uR: U.right}; }""")
+                if z["min"] and (not z["vid"] or abs(z["aT"] - z["fT"]) > 3 or z["aR"] > z["fL"] or z["uR"] > sirka):
+                    raise Zlyhanie(f"{sirka} px: v zbalenej hlavičke „APP“ nie je vedľa ★ alebo lupa vytŕča ({z})")
+                page.mouse.wheel(0, -2000)
+                page.wait_for_timeout(600)
+                if sirka == 390:
+                    url0 = page.url
+                    page.click("#hApp")
+                    page.wait_for_timeout(400)
+                    b = page.evaluate("""() => { const B = document.getElementById('pwaBub'); if(B.hidden) return null; const b = B.getBoundingClientRect();
+                        const e = document.elementFromPoint(b.left + b.width / 2, b.top + b.height / 2);
+                        return {t: B.innerText, l: b.left, r: b.right, navrchu: !!(e && e.closest('#pwaBub'))}; }""")
+                    if not b or "⋮" not in b["t"]:
+                        raise Zlyhanie("Android bez ponuky prehliadača: ťuk na „📲 APP“ neukázal návod s menu ⋮")
+                    if not b["navrchu"] or b["l"] < 0 or b["r"] > sirka:
+                        raise Zlyhanie(f"bublina s návodom nie je navrchu alebo celá na šírku ({b})")
+                    page.click("#pwaBub .pwa-bub-x")
+                    page.wait_for_timeout(300)
+                    if not page.evaluate("document.getElementById('pwaBub').hidden"):
+                        raise Zlyhanie("✕ nezavrel bublinu s návodom")
+                    page.click("#hApp")
+                    page.wait_for_timeout(400)
+                    page.go_back()
+                    page.wait_for_timeout(600)
+                    if not page.evaluate("document.getElementById('pwaBub').hidden") or page.url != url0:
+                        raise Zlyhanie(f"Späť nezavrel bublinu alebo odišiel zo stránky ({page.url})")
+                    page.evaluate(self.BIP_JS)
+                    page.click("#hApp")
+                    page.wait_for_timeout(300)
+                    if page.evaluate("window._testPrompt") != 1:
+                        raise Zlyhanie("s ponukou prehliadača (beforeinstallprompt) ťuk na „📲 APP“ nespustil inštaláciu")
+                self.over_chyby(page, f"tlačidlo APP {sirka} px")
+                detail.append(f"{sirka} px „{m['txt']}“")
+            finally:
+                ctx.close()
+        # iPhone (UA) — nový návod
+        ctx = self.kontext(mobil=True)
+        try:
+            page = ctx.new_page()
+            ctx.add_init_script("Object.defineProperty(navigator,'userAgent',{get:()=>" + json.dumps(self.UA_IPHONE) + "})")
+            page.goto(self.base, wait_until="load")
+            self.cakaj_na_appku(page)
+            page.click("#hApp")
+            page.wait_for_timeout(400)
+            t = page.inner_text("#pwaBub")
+            if "≡" not in t or "⬆️" not in t or "★" in t or "bľúb" in t or "avourite" in t:
+                raise Zlyhanie(f"iPhone: návod nie je ≡ → Zdieľať → Pridať na plochu (alebo obsahuje vetu o obľúbených): {t[:150]}")
+        finally:
+            ctx.close()
+        # počítač a nainštalovaná aplikácia
+        ctx = self.kontext()
+        try:
+            page = self.stranka(ctx)
+            page.goto(self.base, wait_until="load")
+            self.cakaj_na_appku(page)
+            page.evaluate(self.BIP_JS)
+            page.wait_for_timeout(200)
+            if not page.evaluate("document.getElementById('hApp').hidden"):
+                raise Zlyhanie("na počítači je tlačidlo „📲 APP“ (po beforeinstallprompt) — má byť len na mobile")
+        finally:
+            ctx.close()
+        ctx = self.kontext(mobil=True)
+        try:
+            ctx.add_init_script("Object.defineProperty(navigator,'standalone',{get:()=>true})")
+            page = self.stranka(ctx)
+            page.goto(self.base, wait_until="load")
+            self.cakaj_na_appku(page)
+            if not page.evaluate("document.getElementById('hApp').hidden"):
+                raise Zlyhanie("v nainštalovanej aplikácii (standalone) je tlačidlo „📲 APP“")
+        finally:
+            ctx.close()
+        return "ok", ("; ".join(detail) + " vedľa ★, zbalená hlavička OK; návod Android (⋮) aj iPhone (≡), ✕ a Späť zavrú, "
+                      "ponuka → inštalácia; PC a aplikácia bez tlačidla")
+
     def spusti(self, od):
         self.cakaj_na_nasadenie(od)
         with sync_playwright() as p:
@@ -2770,6 +2894,7 @@ class Test:
                 self.kontrola("u) Bannery na mobile: slot 1 strieda bannery slotov 1 aj 2", self.bannery_mobil)
                 self.kontrola("v) Web ako aplikácia (PWA): manifest, sw.js, offline", self.pwa)
                 self.kontrola("w) Ikonky až pri dorolovaní (dlhý zoznam, mobil)", self.ikonky_neskor)
+                self.kontrola("x) Tlačidlo „📲 APP“ v hlavičke (mobil, návod, PC, aplikácia)", self.app_tlacidlo)
             finally:
                 self.browser.close()
                 self.uprac_kopiu()

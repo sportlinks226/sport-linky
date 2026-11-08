@@ -17,11 +17,24 @@ Pod ikonkou je názov **Sportlinky** (SK) alebo **Sportlinking** (EN).
 
 ## Ako si to návštevník nainštaluje
 
-- **Android (Chrome, Samsung Internet):** v pätičke webu je odkaz **„📲 Pridať na plochu“**. Ťuk naň otvorí systémovú ponuku „Inštalovať“. Odkaz sa ukáže, až keď to prehliadač dovolí (väčšinou po chvíli na webe). Inak sa dá web pridať aj cez menu prehliadača ⋮ → „Pridať na plochu“ / „Inštalovať aplikáciu“.
-- **iPhone (Safari):** ťuk na „📲 Pridať na plochu“ v pätičke ukáže krátky návod: **Zdieľať** (štvorček so šípkou) → **Pridať na plochu**.
-- Odkaz sa ukazuje **len na dotykovom zariadení** (mobil, tablet). Na počítači sa neukáže nikdy, ani keď Chrome alebo Edge inštaláciu ponúkajú. Neukáže sa ani v už nainštalovanej aplikácii. Nikde sa neotvára žiadne vyskakovacie okno.
+Na mobile je v hlavičke vľavo od ★ malé tlačidlo **„📲 APP“** (Zadanie 50a2). Rovnako funguje aj odkaz **„📲 Pridať na plochu“** v pätičke.
 
-**Pozor na iPhone:** aplikácia z plochy má **vlastnú pamäť**, oddelenú od Safari. Obľúbené ★ uložené v Safari sa do aplikácie **nepreberú** (návod v pätičke to hovorí jednou vetou). Na Androide aplikácia zdieľa pamäť s Chrome, takže tam obľúbené ostanú.
+- **Android, keď prehliadač inštaláciu ponúkne** (Chrome, Samsung Internet — väčšinou po chvíli na webe): ťuk na tlačidlo otvorí systémovú ponuku „Inštalovať“.
+- **Android bez ponuky** (iný prehliadač alebo Chrome ponuku ešte neposlal): ťuk ukáže bublinu s návodom:
+  > Otvor menu prehliadača **⋮** (vpravo hore) a vyber **Pridať na plochu** alebo **Inštalovať aplikáciu**.
+- **iPhone:** ťuk ukáže bublinu dole pri lište s adresou, so šípkou k ≡:
+  > 1. Ťukni na **≡** vľavo v adrese dole.
+  > 2. Vyber **Zdieľať**.
+  > 3. Vyber **Pridať na plochu**.
+  >
+  > Na starších iPhonoch je ⬆️ Zdieľať priamo v dolnej lište. V Chrome ťukni na ⬆️ Zdieľať v adrese.
+
+  (Nové Safari v iOS 26 nemá ⬆️ Zdieľať v dolnej lište. Je schované pod ≡ v políčku s adresou.)
+- Bublinu zavrie ✕, ťuk mimo nej aj tlačidlo Späť. Späť pritom funguje ako predtým, v histórii nič navyše neostane.
+- Tlačidlo aj odkaz sa ukazujú **len na dotykovom zariadení** (mobil, tablet). Na počítači sa neukážu nikdy, ani keď Chrome alebo Edge inštaláciu ponúkajú. Neukážu sa ani v už nainštalovanej aplikácii a po inštalácii zmiznú. Nikde sa neotvára žiadne vyskakovacie okno.
+- Na užšom displeji (pod 375 px, napr. bežný Android 360 px) je v tlačidle len „APP“. Pod 300 px (Android s veľkým písmom) sa v hlavičke neukáže, ostane len odkaz v pätičke. Pri rolovaní, keď sa hlavička zbalí, ostáva „APP“ vedľa ★.
+
+**Pozor na iPhone:** aplikácia z plochy má **vlastnú pamäť**, oddelenú od Safari. Obľúbené ★ uložené v Safari sa do aplikácie **nepreberú**. Návod pre návštevníkov to od Zadania 50a2 neuvádza, je to len informácia pre teba. Na Androide aplikácia zdieľa pamäť s Chrome, takže tam obľúbené ostanú.
 
 ## Vypnutie počítania vlastných návštev v aplikácii (GoatCounter)
 
@@ -40,6 +53,7 @@ Adresa aplikácie sa nemení (štart je čisté `/`), takže Google a canonical 
 
 - `pwa-spustenie` — niekto otvoril web z ikonky na ploche. Počíta sa raz za jedno otvorenie aplikácie.
 - `pwa-instalacia` — niekto si web nainštaloval. Hlási to len Android, iPhone to neoznamuje.
+- `pwa-tlacidlo` — niekto ťukol na tlačidlo „📲 APP“ v hlavičke. Ukazuje, koľko ľudí sa o aplikáciu zaujíma.
 
 Bežné návštevy stránok sa počítajú ako doteraz, aj tie z aplikácie.
 
@@ -81,12 +95,12 @@ Kto by chcel iné ikonky, stačí nahradiť PNG s rovnakým menom a rozmerom. �
 ## Čo vyskúšať naživo
 
 - **Android (Chrome):**
-  1. Otvor sportlinky.sk, chvíľu sa po ňom pohybuj, choď do pätičky a ťukni na „📲 Pridať na plochu“ → Inštalovať.
+  1. Otvor sportlinky.sk, chvíľu sa po ňom pohybuj a ťukni na „📲 APP“ v hlavičke → Inštalovať. Ak Chrome ešte neponúkol inštaláciu, ukáže sa návod s menu ⋮.
   2. Otvor web z ikonky: má byť na celú obrazovku a bez adresy.
   3. Klub alebo liga sa otvorí v prehliadači. Systémové Späť ťa vráti do aplikácie.
   4. Zapni režim lietadlo, otvor aplikáciu a stránku, ktorú si predtým videl → má sa ukázať. Nenavštívená stránka → „Nie si pripojený na internet“.
 - **iPhone (Safari):**
-  1. Pätička → „📲 Pridať na plochu“ → podľa návodu Zdieľať → Pridať na plochu.
+  1. Ťukni na „📲 APP“ v hlavičke → bublina dole pri adrese → ≡ → Zdieľať → Pridať na plochu. Skontroluj, že bublinu neprekrýva lišta Safari.
   2. Otvor web z ikonky: hlavička nesmie zaliezť pod hodiny ani výrez.
   3. Linky na kluby sa otvoria v okienku Safari s tlačidlom „Hotovo“, ktoré ťa vráti do aplikácie.
   4. Pohyb späť: drobčeky, „↑ Vyššie“, logo.
