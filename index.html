@@ -9,11 +9,13 @@
      aj v generator.py (CSP) — generátor to pri builde kontroluje.
      'unsafe-inline' = vložené skripty a onclick v appke; ban.tipsport.sk = reklama
      (beží v uzavretom okienku, ktoré tento zoznam dedí); gc.zgo.at + *.goatcounter.com
-     = štatistika (SK aj EN); img-src https: = admin môže zadať obrázok z hocijakej adresy. -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://ban.tipsport.sk https://gc.zgo.at; connect-src 'self' https://sportlinky.sk https://ban.tipsport.sk https://sportlinky.goatcounter.com https://sportlinking.goatcounter.com; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; frame-src 'self' https://ban.tipsport.sk; object-src 'none'; base-uri 'self'; form-action 'self'"/>
+     = štatistika (SK aj EN); img-src https: = admin môže zadať obrázok z hocijakej adresy;
+     manifest-src + worker-src 'self' (Zadanie 50) = manifest aplikácie a service worker len
+     z vlastného webu (to isté by platilo aj bez nich cez default-src — sú tu pre prehľadnosť). -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://ban.tipsport.sk https://gc.zgo.at; connect-src 'self' https://sportlinky.sk https://ban.tipsport.sk https://sportlinky.goatcounter.com https://sportlinking.goatcounter.com; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; frame-src 'self' https://ban.tipsport.sk; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'"/>
 <title>Športové Linky</title>
 <meta name="description" content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek pre každý šport a krajinu."/>
-<!--FAVICONS--><!-- generátor sem pri builde doplní favicon.ico, favicon.svg a apple-touch-icon.png s cestou od koreňa webu -->
+<!--FAVICONS--><!-- generátor sem pri builde doplní favicon.ico, favicon.svg a apple-touch-icon.png s cestou od koreňa webu (pri PWA = True aj manifest, theme-color a riadky pre iPhone — Zadanie 50) -->
 <meta property="og:title" content="Športové Linky"/>
 <meta property="og:description" content="Všetky športové weby sveta na jednom mieste — prehľadný rozcestník overených liniek."/>
 <meta property="og:type" content="website"/>
@@ -254,6 +256,12 @@ footer{
 /* Stránka Aktuálne (Zadanie 17): odkaz v pätičke a nápis lišty ako odkaz */
 .f-live{font-size:0.78rem;color:var(--accent-text);white-space:nowrap}
 .f-live:hover{text-decoration:underline}
+/* Zadanie 50: „📲 Pridať na plochu“ — nenápadný odkaz v pätičke (len dotykové zariadenie — mobil,
+   tablet; nikdy na počítači ani v nainštalovanej aplikácii; ukazuje ho pwaOdkaz) a návod pre iPhone */
+.f-pwa{font-size:0.78rem;color:var(--muted);white-space:nowrap;text-decoration:underline;text-underline-offset:2px;padding:6px 0}
+.f-pwa:hover{color:var(--text)}
+.pwa-help{flex-basis:100%;font-size:0.8rem;line-height:1.5;color:var(--text);background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:10px 12px}
+.pwa-help[hidden]{display:none}
 a.akt-head[href]{cursor:pointer;text-decoration:none}
 a.akt-head[href]:hover #aktHeadTxt{text-decoration:underline}
 /* Stránka Aktuálne: úvodný text (pod zoznamom liniek), prázdny stav */
@@ -905,6 +913,8 @@ button#aktMoreBadge{-webkit-appearance:none;appearance:none;margin:0;border:0;fo
   <span class="f-note">© 2026 · Všetky športové weby sveta na jednom mieste<br>
   Databáza liniek je chránená právom na ochranu databáz (smernica 96/9/ES). Jej kopírovanie alebo systematické vyťažovanie bez súhlasu prevádzkovateľa je zakázané.</span>
   <a class="f-live" id="fLive" hidden>Aktuálne – live výsledky</a>
+  <a class="f-pwa" id="fPwa" href="#" hidden></a>
+  <div class="pwa-help" id="pwaHelp" role="note" hidden></div>
 
 </footer>
 
@@ -1675,6 +1685,70 @@ const PATH_ROUTING = (location.protocol === 'http:' || location.protocol === 'ht
 const BASE_PATH = SITE_ROOT || '/';
 const IKONY = BASE_PATH + 'ikony/'; // ikonky webov zo /ikony/ (bod 15, pozri favHtml)
 
+// ============================================================
+// ZADANIE 50 (časť B): IKONKY A VLAJKY AŽ PRI DOROLOVANÍ
+// ============================================================
+// Na dlhých zoznamoch (napr. NCDC, 64 liniek) sa ikonky sťahovali naraz s data.json
+// a brzdili ho. loading="lazy" nestačí: Chrome pri ňom sťahuje vopred všetko do
+// ~1 250 px pod obrazovkou (na pomalej sieti až ~2 500 px) — na mobile celý zoznam.
+// Preto obrázok dostane najprv priehľadný zástupný obrázok (LZ_PH, miesto je vyhradené)
+// a skutočnú adresu v data-lz (vlajka aj data-lzs = srcset). IntersectionObserver ju
+// doplní, keď je obrázok na obrazovke alebo do LZ_OKRAJ pod ňou. Obrázky na obrazovke
+// sa tak začnú sťahovať hneď (v ďalšom snímku), ostatné až pri dorolovaní.
+//  - posúvaný kontajner (stĺpec ▥, panel obľúbených): sleduje sa voči nemu, takže
+//    ikonky sa načítajú pri rolovaní V STĹPCI (lzKoren),
+//  - nové obrázky (každé prekreslenie) nájde MutationObserver — netreba nič volať,
+//  - starý prehliadač bez IntersectionObserver: obrázky sa načítajú hneď (ako predtým).
+const LZ_PH = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+const LZ_OKRAJ = '200px';
+const LZ_IO = ('IntersectionObserver' in window) && ('MutationObserver' in window);
+const _lzOkno = { io: null }, _lzKont = new WeakMap(); // pozorovatelia: okno / posúvaný kontajner
+function lzLoad(img){
+  const s = img.getAttribute('data-lz'); if(!s) return;
+  const ss = img.getAttribute('data-lzs');
+  img.removeAttribute('data-lz'); img.removeAttribute('data-lzs');
+  if(ss) img.setAttribute('srcset', ss);
+  img.setAttribute('src', s);
+}
+// najbližší predok, ktorý sa naozaj posúva zvislo (stĺpec, panel); null = okno
+function lzKoren(el){
+  for(let p = el.parentElement; p && p !== document.body && p !== document.documentElement; p = p.parentElement){
+    const o = getComputedStyle(p).overflowY;
+    if((o === 'auto' || o === 'scroll') && p.scrollHeight > p.clientHeight + 1) return p;
+  }
+  return null;
+}
+function lzPozorovatel(koren){
+  let io = koren ? _lzKont.get(koren) : _lzOkno.io;
+  if(io) return io;
+  io = new IntersectionObserver(zaz => {
+    zaz.forEach(z => { if(z.isIntersecting){ io.unobserve(z.target); lzLoad(z.target); } });
+  }, {root: koren, rootMargin: LZ_OKRAJ});
+  if(koren) _lzKont.set(koren, io); else _lzOkno.io = io;
+  return io;
+}
+function lzScan(uzol){
+  const imgs = (uzol.matches && uzol.matches('img[data-lz]')) ? [uzol]
+             : (uzol.querySelectorAll ? uzol.querySelectorAll('img[data-lz]') : []);
+  for(const img of imgs){
+    if(!LZ_IO){ lzLoad(img); continue; }
+    try{ lzPozorovatel(lzKoren(img)).observe(img); }catch(e){ lzLoad(img); }
+  }
+}
+// tvar obrázka, aký vyrába generátor (src/srcset namiesto data-lz) — len na porovnanie
+function lzNorm(uzol){
+  uzol.querySelectorAll('img[data-lz]').forEach(img => {
+    img.setAttribute('src', img.getAttribute('data-lz'));
+    if(img.hasAttribute('data-lzs')) img.setAttribute('srcset', img.getAttribute('data-lzs'));
+    img.removeAttribute('data-lz'); img.removeAttribute('data-lzs');
+  });
+}
+if(LZ_IO){
+  new MutationObserver(zm => {
+    for(const m of zm) for(const n of m.addedNodes) if(n.nodeType === 1) lzScan(n);
+  }).observe(document.documentElement, {childList: true, subtree: true});
+}
+
 function pathForId(id){
   if(id === null) return '';
   return getPath(id).map(n=>nodeSlug(n)).join('/');
@@ -2035,11 +2109,13 @@ function renderIcon(icon, flagSize){
     const s = flagSize || '24x18';
     const [w, h] = s.split('x');
     // width/height (bod 22): miesto pre vlajku je vyhradené ešte pred načítaním — text neposkočí.
-    // Značkovanie je ZHODNÉ s icon_html() v generator.py (domov sa pri štarte porovnáva).
+    // Značkovanie je ZHODNÉ s icon_html() v generator.py (domov sa pri štarte porovnáva — po lzNorm).
     // srcset 2x: na iPhone a retina displejoch sa načíta dvojnásobná vlajka (ostrejšia).
     // Chýbajúcu vlajku nahradí generator.py priehľadným obrázkom — rozbitý obrázok nebude.
     const s2 = (w*2) + 'x' + (h*2), v = BASE_PATH + 'vlajky/';
-    return `<img src="${v}${s}/${icon}.png" srcset="${v}${s2}/${icon}.png 2x" width="${w}" height="${h}" alt="" loading="lazy" decoding="async" style="border-radius:2px;vertical-align:middle">`;
+    // Zadanie 50 (časť B): adresa vlajky je v data-lz/data-lzs, stiahne sa až pri dorolovaní (lzLoad).
+    // Poradie atribútov po lzNorm() = presne ako icon_html() v generator.py (porovnanie domova).
+    return `<img src="${LZ_PH}" srcset="" data-lz="${v}${s}/${icon}.png" data-lzs="${v}${s2}/${icon}.png 2x" width="${w}" height="${h}" alt="" loading="lazy" decoding="async" style="border-radius:2px;vertical-align:middle">`;
   }
   return `<span aria-hidden="true">${attrEsc(icon)}</span>`; // bod 25: emoji je ozdoba, čítačka ho nečíta
 }
@@ -2381,6 +2457,7 @@ function renderLevel(){
   if(prvy && main.firstChild){
     const t = document.createElement('template');
     t.innerHTML = html;
+    lzNorm(t.content); // Zadanie 50: odložené obrázky → tvar z generátora (src/srcset), inak by sa domov prekreslil
     if(t.innerHTML === main.innerHTML){ _lvlHtml = html; return; }
   }
   const skip = _lvlSkipSame; _lvlSkipSame = false;
@@ -3576,9 +3653,10 @@ function favHtml(n, host){
   // bod 32 (previerka 3): web bez ikonky (v /ikony/ len 1×1 px) — emoji športu hneď, bez
   // sťahovania; výsledok ROVNAKÝ ako favSportSwap() po stiahnutí 1×1 obrázka
   if(NO_ICON.has(host)) return `<span class="fav-fb fav-sport" aria-hidden="true">${attrEsc(favSport(n)||'🔗')}</span>`;
-  return `<img class="fav fav-wait" src="${IKONY}${host}.png" alt="" loading="lazy" decoding="async" data-fallback="${attrEsc(n.icon||'')}" data-sport="${attrEsc(favSport(n))}" onload="favLoad(this)" onerror="favError(this)"/>`;
+  return `<img class="fav fav-wait" src="${LZ_PH}" data-lz="${IKONY}${host}.png" alt="" loading="lazy" decoding="async" data-fallback="${attrEsc(n.icon||'')}" data-sport="${attrEsc(favSport(n))}" onload="favLoad(this)" onerror="favError(this)"/>`;
 }
 function favLoad(img){
+  if(img.hasAttribute('data-lz')) return; // Zadanie 50: zástupný obrázok — ikonka sa ešte nesťahuje (lzLoad)
   if(img.naturalWidth <= 1){ favSportSwap(img); return; } // web ikonku nemá
   img.classList.remove('fav-wait');
 }
@@ -5492,6 +5570,133 @@ window.addEventListener('hashchange', checkAdminHash);
 // INIT
 // ============================================================
 // Bannery + rotácia. Chyba v banneroch (zlé dáta) NESMIE zastaviť štart appky (bod 21).
+// ============================================================
+// ZADANIE 50: WEB AKO APLIKÁCIA NA MOBIL (PWA)
+// ============================================================
+// generator.py pri PWA = False prepíše riadok nižšie na false (hľadá presne tento riadok,
+// NEMENIŤ formát). Vtedy sa sw.js neregistruje, prípadný starý sa odregistruje a odkaz
+// „📲 Pridať na plochu“ sa neukáže. Návod: NAVOD-PWA.md.
+let PWA_ON = true;
+function pwaApp(){ // otvorené ako nainštalovaná aplikácia (z plochy), nie v prehliadači
+  try{ return (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true; }catch(e){ return false; }
+}
+const PWA_IOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+// dotykové zariadenie (mobil, tablet) — odkaz „📲 Pridať na plochu“ sa ukazuje LEN tu.
+// Chrome a Edge ponúkajú inštaláciu (beforeinstallprompt) aj na počítači — tam odkaz nikdy.
+function pwaDotyk(){
+  try{ return !!(window.matchMedia && matchMedia('(hover: none), (pointer: coarse)').matches); }catch(e){ return false; }
+}
+// SERVICE WORKER sa registruje AŽ po načítaní stránky a po príchode data.json (afterLoad),
+// najneskôr 15 s po štarte — prvú návštevu ani prevzatie stránky appkou nespomalí.
+let _pwaStart = false;
+function pwaStart(){
+  if(_pwaStart) return; _pwaStart = true;
+  try{
+    if(!('serviceWorker' in navigator) || !navigator.serviceWorker || !SITE_ROOT || !/^https?:$/.test(location.protocol)) return; // z disku nie
+    if(!PWA_ON){
+      // PWA vypnuté: starý worker preč aj s uloženými súbormi (poistka k samozničujúcemu sw.js)
+      navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister())).catch(()=>{});
+      if(window.caches) caches.keys().then(k => k.forEach(n => { if(n.indexOf('sl-') === 0) caches.delete(n); })).catch(()=>{});
+      return;
+    }
+    navigator.serviceWorker.register(SITE_ROOT + 'sw.js', {scope: SITE_ROOT}).catch(()=>{});
+  }catch(e){}
+}
+setTimeout(pwaStart, 15000);
+// GOATCOUNTER: spustenie nainštalovanej aplikácie (raz za otvorenie) a inštalácia (Android)
+// sa počítajú ako UDALOSTI — adresa (start_url "/") sa nemení, canonical ani Google sa ich netýka.
+// count.js sa načítava asynchrónne — preto pár pokusov. Vypnuté počítanie (skipgc) platí aj tu.
+function gcUdalost(cesta, nazov, pokus){
+  try{
+    if(window.goatcounter && typeof window.goatcounter.count === 'function'){
+      window.goatcounter.count({path: cesta, title: nazov, event: true}); return;
+    }
+  }catch(e){ return; }
+  if((pokus||0) < 15) setTimeout(()=>gcUdalost(cesta, nazov, (pokus||0) + 1), 1000);
+}
+// ODKAZ „📲 Pridať na plochu“ v pätičke — LEN na dotykovom zariadení (pwaDotyk), žiadne
+// vyskakovacie okno pri vstupe:
+//  - Android (Chrome, Samsung…): ukáže sa, až keď prehliadač inštaláciu ponúkne
+//    (beforeinstallprompt); ťuk spustí systémovú ponuku. Automatická lišta prehliadača
+//    „Inštalovať“ sa potlačí (preventDefault).
+//  - iPhone/iPad: ťuk rozbalí krátky návod (Zdieľať → Pridať na plochu).
+//  - počítač (myš — aj keď Chrome/Edge inštaláciu ponúkajú) a už nainštalovaná
+//    aplikácia: odkaz sa NIKDY neukáže a správanie prehliadača sa nemení.
+let _pwaPonuka = null;
+function pwaOdkaz(){
+  const a = document.getElementById('fPwa'); if(!a) return;
+  const ukaz = PWA_ON && pwaDotyk() && !pwaApp() && (!!_pwaPonuka || PWA_IOS);
+  a.textContent = IS_EN ? '📲 Add to Home Screen' : '📲 Pridať na plochu';
+  a.hidden = !ukaz;
+  if(!ukaz){ const h = document.getElementById('pwaHelp'); if(h) h.hidden = true; }
+}
+function pwaKlik(e){
+  e.preventDefault();
+  if(_pwaPonuka){
+    const p = _pwaPonuka; _pwaPonuka = null;
+    try{ p.prompt(); p.userChoice.then(()=>pwaOdkaz(), ()=>pwaOdkaz()); }catch(err){ pwaOdkaz(); }
+    return;
+  }
+  const h = document.getElementById('pwaHelp'); if(!h) return;
+  // Na iPhone má aplikácia z plochy vlastnú pamäť oddelenú od Safari (localStorage) —
+  // obľúbené ★ sa do nej nepreberú (na Androide sa pamäť s Chrome zdieľa).
+  h.innerHTML = IS_EN
+    ? 'In Safari, tap <b>Share</b> <span aria-hidden="true">⬆️</span> (the square with an arrow) and choose <b>Add to Home Screen</b>. Favourites ★ saved in the browser won’t carry over to the app.'
+    : 'V Safari ťukni na <b>Zdieľať</b> <span aria-hidden="true">⬆️</span> (štvorček so šípkou) a vyber <b>Pridať na plochu</b>. Obľúbené ★ z prehliadača sa do aplikácie nepreberú.';
+  h.hidden = !h.hidden;
+}
+function pwaInit(){
+  const a = document.getElementById('fPwa');
+  if(a) a.addEventListener('click', pwaKlik);
+  pwaOdkaz();
+  if(pwaApp()){
+    try{ if(!sessionStorage.getItem('slPwaRun')){ sessionStorage.setItem('slPwaRun', '1'); gcUdalost('pwa-spustenie', IS_EN ? 'App launched from home screen' : 'Spustenie aplikácie z plochy'); } }catch(e){}
+  }
+}
+window.addEventListener('beforeinstallprompt', e => {
+  if(!PWA_ON || !pwaDotyk()) return; // počítač: nič nezachytávať, prehliadač po svojom
+  e.preventDefault(); _pwaPonuka = e; pwaOdkaz();
+});
+window.addEventListener('appinstalled', () => {
+  _pwaPonuka = null; pwaOdkaz();
+  gcUdalost('pwa-instalacia', IS_EN ? 'App installed' : 'Inštalácia aplikácie');
+});
+// REŽIM APLIKÁCIE: nie je tlačidlo Späť ani riadok s adresou (hlavne iPhone). Odkaz na cudzí
+// web bez target (napr. vo vlastnom HTML bannera) by otvoril cudzí web V okne aplikácie bez
+// cesty späť — preto sa v aplikácii otvorí mimo nej (nová karta / prehliadač). Bežné linky
+// majú target="_blank" už teraz. V prehliadači sa nemení nič.
+document.addEventListener('click', e => {
+  if(!pwaApp() || e.defaultPrevented) return;
+  const a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if(!a || a.target) return;
+  let u; try{ u = new URL(a.href, location.href); }catch(err){ return; }
+  if(!/^https?:$/.test(u.protocol) || u.origin === location.origin) return;
+  a.target = '_blank'; a.rel = ((a.rel || '') + ' noopener').trim();
+}, true);
+// VYPNUTIE POČÍTANIA VLASTNÝCH NÁVŠTEV (GoatCounter) — hlavne pre aplikáciu na iPhone:
+// má vlastnú pamäť (vypnutie cez #toggle-goatcounter v Safari v nej neplatí) a nemá riadok
+// s adresou. 5× rýchlo (do 3 s) ťukni na text „© 2026 …“ v pätičke → otázka → zapne/vypne
+// sa počítanie na TOMTO zariadení (ten istý kľúč skipgc, aký používa #toggle-goatcounter).
+// Návštevníkom nič nepribudne (žiadny viditeľný prvok), bez potvrdenia sa nič nezmení.
+let _gcTuky = [];
+document.addEventListener('click', e => {
+  const n = e.target && e.target.closest ? e.target.closest('footer .f-note') : null;
+  if(!n) return;
+  const t = Date.now();
+  _gcTuky = _gcTuky.filter(x => t - x < 3000); _gcTuky.push(t);
+  if(_gcTuky.length < 5) return;
+  _gcTuky = [];
+  const vyp = lsGet('skipgc') === 't';
+  const otazka = IS_EN
+    ? (vyp ? 'Visit counting (GoatCounter) is OFF on this device. Turn it back ON?' : 'Stop counting visits from this device (GoatCounter)?')
+    : (vyp ? 'Počítanie návštev (GoatCounter) je na tomto zariadení VYPNUTÉ. Znova zapnúť?' : 'Nepočítať návštevy z tohto zariadenia (GoatCounter)?');
+  if(!confirm(otazka)) return;
+  if(vyp) lsDel('skipgc'); else lsSet('skipgc', 't');
+  alert(IS_EN
+    ? (vyp ? 'Visit counting is ON on this device.' : 'Visits from this device are no longer counted.')
+    : (vyp ? 'Počítanie návštev je na tomto zariadení ZAPNUTÉ.' : 'Návštevy z tohto zariadenia sa už nepočítajú.'));
+});
+
 function startBanners(){
   try{ renderBannerSlot(); startRotation(); }catch(e){}
 }
@@ -5555,9 +5760,11 @@ if(BOOT && BOOT.nodes && PATH_ROUTING && !(location.hash && location.hash.indexO
 // Aktuálne: čerstvý aktualne.json hneď pri otvorení stránky, ZVLÁŠŤ od data.json
 // (malý súbor, bez cache) — lišta sa prekreslí, len čo príde.
 aktRefresh();
+pwaInit(); // Zadanie 50: odkaz „📲 Pridať na plochu“, udalosť spustenia aplikácie
 load().then(()=>afterLoad(false));
 // Po stiahnutí dát (aj po „Skúsiť znova“, opakovanie = true).
 function afterLoad(opakovanie){
+  setTimeout(pwaStart, 1500); // Zadanie 50: service worker až po príchode dát
   // bod 3: na webe sa data.json nestiahol — ostáva balík (alebo nič). Hlbšie sekcie,
   // hľadanie aj Admin potom ukážu správu s tlačidlom „Skúsiť znova“ (failHtml).
   DATA_FAIL = PATH_ROUTING && !!(DB._partial || !(DB.nodes||[]).length);
