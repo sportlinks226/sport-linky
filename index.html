@@ -283,7 +283,11 @@ footer{
 .pwa-bub::after{content:'';position:absolute;width:14px;height:14px;background:var(--surface2);border:1.5px solid var(--accent);transform:rotate(45deg)}
 /* iPhone: dole nad lištou Safari (rezerva 28 px), šípka nadol vľavo — k ≡ v adrese */
 .pwa-bub-ios{left:10px;bottom:calc(28px + env(safe-area-inset-bottom,0px))}
-.pwa-bub-ios::after{left:44px;bottom:-9px;border-top:0;border-left:0}
+/* Zadanie 50a3: hrot šípky presne nad ≡ v adrese Safari (iOS 26, zmerané na iPhone: stred ≡ ≈ 114 px
+   od ľavého okraja; lišta je pri ľavom okraji pevná → pevný odstup, nie percento šírky).
+   Stred hrotu = 10 (left bubliny) + 1,5 (okraj bubliny) + 95 (left šípky) + 7,75 (polovica šípky:
+   14 px + pravý okraj 1,5 px) ≈ 114 px. Hrot je v bubline (tá má na 360 px šírku 340 px). */
+.pwa-bub-ios::after{left:95px;bottom:-9px;border-top:0;border-left:0}
 /* Android: pod hlavičkou vpravo, šípka nahor — k menu ⋮ prehliadača (vpravo hore) */
 .pwa-bub-and{right:10px;top:70px}
 .pwa-bub-and::after{right:22px;top:-9px;border-bottom:0;border-right:0}

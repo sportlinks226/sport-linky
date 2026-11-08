@@ -108,7 +108,8 @@ Kontrola x) (Zadanie 50a2): tlačidlo „📲 APP“ v hlavičke — na mobile 3
 riadku (hlavička sa nezalomí, v zbalenej hlavičke „APP“ vedľa ★ a lupa celá); ťuk bez ponuky prehliadača →
 bublina s návodom (menu ⋮) navrchu a celá na šírku, ✕ aj Späť ju zavrú; s podstrčenou ponukou
 beforeinstallprompt → systémová inštalácia; iPhone → návod ≡ → Zdieľať → Pridať na plochu bez vety
-o obľúbených; počítač (aj po beforeinstallprompt) a nainštalovaná aplikácia → tlačidlo nie je.
+o obľúbených, hrot šípky nad ≡ (stred ≈ 114 px zľava, Zadanie 50a3); počítač (aj po beforeinstallprompt)
+a nainštalovaná aplikácia → tlačidlo nie je.
 
 Spustenie (lokálne):  python testy/test_webu.py --url https://sportlinky.sk/
 Voliteľne:  --od 2026-11-02T02:30:00Z  (počkaj, kým živý web nemá novšiu verziu)
@@ -2821,6 +2822,14 @@ class Test:
             t = page.inner_text("#pwaBub")
             if "≡" not in t or "⬆️" not in t or "★" in t or "bľúb" in t or "avourite" in t:
                 raise Zlyhanie(f"iPhone: návod nie je ≡ → Zdieľať → Pridať na plochu (alebo obsahuje vetu o obľúbených): {t[:150]}")
+            # Zadanie 50a3: hrot šípky nad ≡ v adrese Safari (iOS 26: stred ≈ 114 px zľava), celý v bubline
+            sp = page.evaluate("""() => { const B = document.getElementById('pwaBub'), b = B.getBoundingClientRect(),
+                    a = getComputedStyle(B, '::after'), w = parseFloat(a.width) + (a.boxSizing === 'border-box' ? 0
+                    : parseFloat(a.borderLeftWidth) + parseFloat(a.borderRightWidth));
+                const stred = b.left + parseFloat(getComputedStyle(B).borderLeftWidth) + parseFloat(a.left) + w / 2;
+                return {stred: Math.round(stred * 10) / 10, l: b.left, r: b.right, pol: w * Math.SQRT2 / 2}; }""")
+            if abs(sp["stred"] - 114) > 2 or sp["stred"] - sp["pol"] < sp["l"] or sp["stred"] + sp["pol"] > sp["r"]:
+                raise Zlyhanie(f"iPhone: šípka bubliny neukazuje na ≡ (stred hrotu {sp['stred']} px, čakám ≈ 114 px) alebo vytŕča z bubliny")
         finally:
             ctx.close()
         # počítač a nainštalovaná aplikácia
