@@ -97,7 +97,8 @@ Kontrola v) (8.11.2026, Zadanie 50 — web ako aplikácia, PWA): manifest.webman
 (názov, short_name do 12 znakov, standalone, ikonky 192/512/maskable = PNG 200), /sw.js vráti 200
 ako JavaScript, <link rel="manifest"> + theme-color na domove a vzorke stránok zo sitemapy; v prehliadači
 (mobil) sa sw.js zaregistruje a prevezme stránku, druhé otvorenie funguje, data-full.json nie je v pamäti
-service workera a offline sa navštívená stránka zobrazí z pamäte. Web bez PWA (starý) aj vypnuté PWA
+service workera a offline sa navštívená stránka zobrazí z pamäte; na počítači sa odkaz „📲 Pridať na plochu“
+neukáže ani po (podstrčenej) udalosti beforeinstallprompt. Web bez PWA (starý) aj vypnuté PWA
 (PWA = False, samozničujúci sw.js) = ✅ s poznámkou. Ostatné kontroly bežia BEZ service workera
 (SW_VYP_SKRIPT v _spolocne.py) — podstrčené súbory fungujú ako pred PWA.
 Kontrola w) (Zadanie 50, časť B): na mobile sa ikonky webov na obrazovke načítajú, ikonky ďaleko pod
@@ -2656,9 +2657,24 @@ class Test:
                 raise Zlyhanie("offline: chyby JavaScriptu: " + " | ".join(page.chyby_js[:3]))
         finally:
             ctx.close()
+        # počítač (myš): odkaz „📲 Pridať na plochu“ sa NIKDY neukáže — ani keď Chrome/Edge
+        # ponúknu inštaláciu (podstrčená udalosť beforeinstallprompt len v prehliadači testu)
+        ctx = self.kontext()
+        try:
+            page = self.stranka(ctx)
+            page.goto(self.base, wait_until="load")
+            self.cakaj_na_appku(page)
+            pc = page.evaluate("""() => { const e = new Event('beforeinstallprompt', {cancelable: true});
+                e.prompt = () => {}; e.userChoice = Promise.resolve({outcome: 'dismissed'});
+                window.dispatchEvent(e); const a = document.getElementById('fPwa');
+                return a ? (a.hidden ? 'skrytý' : 'VIDNO') : 'nie je'; }""")
+            if pc == "VIDNO":
+                raise Zlyhanie("na počítači sa po beforeinstallprompt ukázal odkaz „📲 Pridať na plochu“ (má byť len na mobile)")
+        finally:
+            ctx.close()
         return "ok", (f"manifest „{m['short_name']}“ ({len(m['icons'])} ikonky), sw.js ({typ.split(';')[0]}), "
                       f"link rel=manifest na {len(vzorka)} stránkach; registrácia, 2. otvorenie a offline OK, "
-                      f"v pamäti {len(kluce)} súborov, bez data-full.json")
+                      f"v pamäti {len(kluce)} súborov, bez data-full.json; PC: odkaz „📲“ {pc}")
 
     # ------------------------------------------------ w) ikonky až pri dorolovaní (Zadanie 50, časť B)
     def ikonky_neskor(self, pokus):

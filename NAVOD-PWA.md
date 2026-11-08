@@ -19,7 +19,7 @@ Pod ikonkou je názov **Sportlinky** (SK) alebo **Sportlinking** (EN).
 
 - **Android (Chrome, Samsung Internet):** v pätičke webu je odkaz **„📲 Pridať na plochu“**. Ťuk naň otvorí systémovú ponuku „Inštalovať“. Odkaz sa ukáže, až keď to prehliadač dovolí (väčšinou po chvíli na webe). Inak sa dá web pridať aj cez menu prehliadača ⋮ → „Pridať na plochu“ / „Inštalovať aplikáciu“.
 - **iPhone (Safari):** ťuk na „📲 Pridať na plochu“ v pätičke ukáže krátky návod: **Zdieľať** (štvorček so šípkou) → **Pridať na plochu**.
-- Na počítači a v už nainštalovanej aplikácii sa odkaz neukazuje. Nikde sa neotvára žiadne vyskakovacie okno.
+- Odkaz sa ukazuje **len na dotykovom zariadení** (mobil, tablet). Na počítači sa neukáže nikdy, ani keď Chrome alebo Edge inštaláciu ponúkajú. Neukáže sa ani v už nainštalovanej aplikácii. Nikde sa neotvára žiadne vyskakovacie okno.
 
 **Pozor na iPhone:** aplikácia z plochy má **vlastnú pamäť**, oddelenú od Safari. Obľúbené ★ uložené v Safari sa do aplikácie **nepreberú** (návod v pätičke to hovorí jednou vetou). Na Androide aplikácia zdieľa pamäť s Chrome, takže tam obľúbené ostanú.
 

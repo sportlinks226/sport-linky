@@ -604,7 +604,9 @@ class Test:
                     self.zoznam("j) Stránky s manifestom, hoci je PWA vypnuté", zle)
                     raise Zlyhanie(f"PWA je vypnuté, ale {len(zle)} stránok má ešte <link rel=\"manifest\">")
                 return "ok", "PWA je VYPNUTÉ (samozničujúci sw.js, stránky bez manifestu)"
-            return "ok", "web ešte nemá PWA (manifest nie je) — nič sa neskúša"
+            if kod_sw == 200:   # bežný sw.js beží, ale manifest chýba = pokazené nasadenie
+                raise Zlyhanie("/sw.js je na webe (PWA zapnuté), ale manifest.webmanifest vrátil HTTP 404")
+            return "ok", "web ešte nemá PWA (sw.js ani manifest nie sú) — nič sa neskúša"
         if kod_m != 200:
             raise Zlyhanie(f"manifest.webmanifest vrátil HTTP {kod_m}")
         try:

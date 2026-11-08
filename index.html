@@ -256,8 +256,8 @@ footer{
 /* Stránka Aktuálne (Zadanie 17): odkaz v pätičke a nápis lišty ako odkaz */
 .f-live{font-size:0.78rem;color:var(--accent-text);white-space:nowrap}
 .f-live:hover{text-decoration:underline}
-/* Zadanie 50: „📲 Pridať na plochu“ — nenápadný odkaz v pätičke (len mobil, nie v nainštalovanej
-   aplikácii; ukazuje ho pwaOdkaz) a krátky návod pre iPhone pod ním */
+/* Zadanie 50: „📲 Pridať na plochu“ — nenápadný odkaz v pätičke (len dotykové zariadenie — mobil,
+   tablet; nikdy na počítači ani v nainštalovanej aplikácii; ukazuje ho pwaOdkaz) a návod pre iPhone */
 .f-pwa{font-size:0.78rem;color:var(--muted);white-space:nowrap;text-decoration:underline;text-underline-offset:2px;padding:6px 0}
 .f-pwa:hover{color:var(--text)}
 .pwa-help{flex-basis:100%;font-size:0.8rem;line-height:1.5;color:var(--text);background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:10px 12px}
@@ -5581,6 +5581,11 @@ function pwaApp(){ // otvorené ako nainštalovaná aplikácia (z plochy), nie v
   try{ return (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true; }catch(e){ return false; }
 }
 const PWA_IOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+// dotykové zariadenie (mobil, tablet) — odkaz „📲 Pridať na plochu“ sa ukazuje LEN tu.
+// Chrome a Edge ponúkajú inštaláciu (beforeinstallprompt) aj na počítači — tam odkaz nikdy.
+function pwaDotyk(){
+  try{ return !!(window.matchMedia && matchMedia('(hover: none), (pointer: coarse)').matches); }catch(e){ return false; }
+}
 // SERVICE WORKER sa registruje AŽ po načítaní stránky a po príchode data.json (afterLoad),
 // najneskôr 15 s po štarte — prvú návštevu ani prevzatie stránky appkou nespomalí.
 let _pwaStart = false;
@@ -5609,16 +5614,18 @@ function gcUdalost(cesta, nazov, pokus){
   }catch(e){ return; }
   if((pokus||0) < 15) setTimeout(()=>gcUdalost(cesta, nazov, (pokus||0) + 1), 1000);
 }
-// ODKAZ „📲 Pridať na plochu“ v pätičke — žiadne vyskakovacie okno pri vstupe:
+// ODKAZ „📲 Pridať na plochu“ v pätičke — LEN na dotykovom zariadení (pwaDotyk), žiadne
+// vyskakovacie okno pri vstupe:
 //  - Android (Chrome, Samsung…): ukáže sa, až keď prehliadač inštaláciu ponúkne
 //    (beforeinstallprompt); ťuk spustí systémovú ponuku. Automatická lišta prehliadača
 //    „Inštalovať“ sa potlačí (preventDefault).
 //  - iPhone/iPad: ťuk rozbalí krátky návod (Zdieľať → Pridať na plochu).
-//  - počítač a už nainštalovaná aplikácia: odkaz sa neukáže.
+//  - počítač (myš — aj keď Chrome/Edge inštaláciu ponúkajú) a už nainštalovaná
+//    aplikácia: odkaz sa NIKDY neukáže a správanie prehliadača sa nemení.
 let _pwaPonuka = null;
 function pwaOdkaz(){
   const a = document.getElementById('fPwa'); if(!a) return;
-  const ukaz = PWA_ON && !pwaApp() && (!!_pwaPonuka || PWA_IOS);
+  const ukaz = PWA_ON && pwaDotyk() && !pwaApp() && (!!_pwaPonuka || PWA_IOS);
   a.textContent = IS_EN ? '📲 Add to Home Screen' : '📲 Pridať na plochu';
   a.hidden = !ukaz;
   if(!ukaz){ const h = document.getElementById('pwaHelp'); if(h) h.hidden = true; }
@@ -5647,7 +5654,7 @@ function pwaInit(){
   }
 }
 window.addEventListener('beforeinstallprompt', e => {
-  if(!PWA_ON) return;
+  if(!PWA_ON || !pwaDotyk()) return; // počítač: nič nezachytávať, prehliadač po svojom
   e.preventDefault(); _pwaPonuka = e; pwaOdkaz();
 });
 window.addEventListener('appinstalled', () => {

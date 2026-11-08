@@ -1428,7 +1428,9 @@ PWA_OFFLINE_HTML = (
 # ostatné (Tipsport, GoatCounter, GitHub, weby klubov, data-full.json a ďalšie súbory
 # admina, manifest, bannery…) ide po starom priamo na sieť, bez zásahu:
 #  - STRÁNKY (HTML, index.html): najprv sieť; bez siete uložená kópia, inak offline
-#    stránka. Uloží sa najviac SW_MAX_STRANOK naposledy otvorených stránok.
+#    stránka. Uloží sa najviac SW_MAX_STRANOK naposledy otvorených stránok. Otvorenie
+#    stránky v okne používa navigation preload (sťahuje sa súbežne so štartom workera).
+#    Sieť a zápis do pamäte sú oddelené: chyba zápisu nikdy nevedie k uloženej kópii.
 #  - data.json, aktualne.json: najprv sieť (online VŽDY to, čo je na webe — aj cez
 #    bežnú pamäť prehliadača, ako doteraz: data.json?v=NNN sa stiahne znova len pri
 #    novej verzii); uložená kópia (len posledná) sa použije LEN bez siete.
@@ -1466,6 +1468,10 @@ self.addEventListener('activate', e => {
   e.waitUntil((async () => {
     const mena = await caches.keys();
     await Promise.all(mena.filter(n => n.indexOf('sl-') === 0 && MOJE.indexOf(n) < 0).map(n => caches.delete(n)));
+    // NAVIGATION PRELOAD: prehliadač začne sťahovať stránku hneď, súbežne so štartom
+    // workera (worker po čase nečinnosti „zaspí“ a jeho štart by stránku zdržal).
+    try{ if(self.registration.navigationPreload) await self.registration.navigationPreload.enable(); }catch(err){}
+    await orez(C_IKO, MAX_IKO);
     await self.clients.claim();
   })());
 });
@@ -1476,10 +1482,14 @@ self.addEventListener('fetch', e => {
   const u = new URL(r.url);
   if(u.origin !== location.origin || u.pathname.indexOf(ROOT) !== 0) return; // cudzie weby bez zásahu
   const p = u.pathname.slice(ROOT.length);                                     // cesta od koreňa webu
-  if(p === 'data-full.json' || p === 'sw.js') return;                          // admin: vždy len sieť
+  if(p === 'data-full.json' || p === 'sw.js'){                                 // admin: vždy len sieť
+    // (otvorenie priamo v okne: predčasne stiahnutú kópiu len „odober“, inak prehliadač varuje)
+    if(r.mode === 'navigate' && e.preloadResponse) e.waitUntil(e.preloadResponse.catch(() => {}));
+    return;
+  }
+  if(r.mode === 'navigate' || p === '' || /(\/|\.html)$/.test(p)){ e.respondWith(stranka(e, u)); return; }
   if(p === 'data.json' || p === 'aktualne.json'){ e.respondWith(data(e, u)); return; }
   if(/^(ikony|vlajky)\//.test(p)){ e.respondWith(ikona(e)); return; }
-  if(r.mode === 'navigate' || p === '' || /(\/|\.html)$/.test(p)){ e.respondWith(stranka(e, u)); return; }
 });
 
 // orezanie pamäte: najstaršie uložené položky preč
@@ -1492,41 +1502,62 @@ async function orez(meno, max){
 
 async function stranka(e, u){
   const kluc = u.origin + u.pathname;   // bez ?parametrov a #
+  // 1) SIEŤ — len tu sa rozhoduje, či je návštevník offline
+  let res = null;
   try{
-    const res = await fetch(e.request);
-    if(res.ok && res.type === 'basic' && !res.redirected){
-      const kopia = res.clone();
-      e.waitUntil(caches.open(C_STR).then(c => c.put(kluc, kopia)).then(() => orez(C_STR, MAX_STR)).catch(() => {}));
-    }
+    if(e.request.mode === 'navigate' && e.preloadResponse) res = await e.preloadResponse; // navigation preload
+    if(!res) res = await fetch(e.request);
+  }catch(err){ res = null; }
+  if(res){
+    // 2) ZÁPIS DO PAMÄTE — samostatne; jeho chyba nikdy nezmení odpoveď zo siete
+    try{
+      const typ = res.headers.get('content-type') || '';
+      if(res.ok && res.type === 'basic' && !res.redirected && typ.indexOf('text/html') >= 0){
+        const kopia = res.clone();
+        e.waitUntil(caches.open(C_STR).then(c => c.put(kluc, kopia)).then(() => orez(C_STR, MAX_STR)).catch(() => {}));
+      }
+    }catch(err){}
     return res;
-  }catch(err){
-    const c = await caches.open(C_STR);
-    // "/" a "/index.html" sú ten istý súbor (appka si sťahuje index.html)
-    const alias = /\/index\.html$/.test(kluc) ? kluc.slice(0, -10) : (/\/$/.test(kluc) ? kluc + 'index.html' : '');
-    const m = (await c.match(kluc)) || (alias ? await c.match(alias) : undefined);
-    if(m) return m;
-    if(e.request.mode === 'navigate')
-      return new Response(OFFLINE, {headers: {'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store'}});
-    return Response.error();
   }
+  // 3) BEZ SIETE — uložená kópia, inak offline stránka
+  try{
+    const c = await caches.open(C_STR);
+    // "/" a "/index.html" sú ten istý súbor (appka si sťahuje index.html);
+    // "/futbal" (bez lomky) = "/futbal/" (GitHub Pages presmeruje na lomku)
+    const aliasy = /\/index\.html$/.test(kluc) ? [kluc.slice(0, -10)]
+                 : /\/$/.test(kluc) ? [kluc + 'index.html']
+                 : /\.[a-z0-9]+$/i.test(kluc) ? [] : [kluc + '/'];
+    for(const k of [kluc].concat(aliasy)){ const m = await c.match(k); if(m) return m; }
+  }catch(err){}
+  if(e.request.mode === 'navigate')
+    return new Response(OFFLINE, {headers: {'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store'}});
+  return Response.error();
 }
 
 // zápisy dát idú za sebou (rad) — dva súbežné zápisy by si navzájom zmazali kópiu
 let _datRad = Promise.resolve();
 async function data(e, u){
   const kluc = u.origin + u.pathname;
-  try{
-    const res = await fetch(e.request);
-    if(res.ok && res.type === 'basic'){
-      const kopia = res.clone();
-      e.waitUntil(_datRad = _datRad.then(() => ulozData(u, kopia)));
-    }
+  // 1) SIEŤ
+  let res = null;
+  try{ res = await fetch(e.request); }catch(err){ res = null; }
+  if(res){
+    // 2) ZÁPIS DO PAMÄTE — samostatne; online návštevník VŽDY dostane odpoveď zo siete
+    try{
+      if(res.ok && res.type === 'basic'){
+        const kopia = res.clone();
+        e.waitUntil(_datRad = _datRad.then(() => ulozData(u, kopia)));
+      }
+    }catch(err){}
     return res;
-  }catch(err){
-    const c = await caches.open(C_DAT);
-    const m = await c.match(kluc, {ignoreSearch: true});   // posledná uložená kópia (offline)
-    return m || Response.error();
   }
+  // 3) BEZ SIETE — posledná uložená kópia
+  try{
+    const c = await caches.open(C_DAT);
+    const m = await c.match(kluc, {ignoreSearch: true});
+    if(m) return m;
+  }catch(err){}
+  return Response.error();
 }
 async function ulozData(u, res){
   try{
@@ -1543,15 +1574,20 @@ async function ulozData(u, res){
   }catch(err){}
 }
 
+// Limit ikoniek: orezáva sa pri aktivácii workera, pri PRVOM zápise po každom štarte
+// workera (počítadlo sa pri jeho zastavení vynuluje) a potom každých 40 zápisov.
+// Medzi orezaniami pamäť prekročí limit najviac o desiatky obrázkov.
 let _ikoPut = 0;
 async function ikona(e){
   const r = e.request, c = await caches.open(C_IKO);
   const m = await c.match(r.url);
   const uloz = res => {
-    if(res.ok && res.type === 'basic'){
-      const kopia = res.clone();
-      e.waitUntil(c.put(r.url, kopia).then(() => { if(++_ikoPut % 40 === 0) return orez(C_IKO, MAX_IKO); }).catch(() => {}));
-    }
+    try{
+      if(res.ok && res.type === 'basic'){
+        const kopia = res.clone();
+        e.waitUntil(c.put(r.url, kopia).then(() => { if(_ikoPut++ % 40 === 0) return orez(C_IKO, MAX_IKO); }).catch(() => {}));
+      }
+    }catch(err){}
     return res;
   };
   if(m){
@@ -1576,6 +1612,7 @@ self.addEventListener('activate', e => {
       const mena = await caches.keys();
       await Promise.all(mena.filter(n => n.indexOf('sl-') === 0).map(n => caches.delete(n)));
     }catch(err){}
+    try{ if(self.registration.navigationPreload) await self.registration.navigationPreload.disable(); }catch(err){}
     await self.registration.unregister();
   })());
 });
