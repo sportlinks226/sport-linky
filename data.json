@@ -1,5 +1,5 @@
 {
-  "version": 1128,
+  "version": 1129,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -90433,10 +90433,13 @@
       "name": "Jemenská liga",
       "desc": "Najvyššia jemenská súťaž — 14 klubov vrátane Al-Wehda Sanaa, Al-Oruba a Ittihad Hadramout.",
       "order": 0,
-      "slug": "jemenská-liga",
+      "slug": "jemenska-liga",
       "name_en": "Yemeni League",
       "desc_en": "Top Yemeni league — 14 clubs including Al-Wehda Sanaa, Al-Oruba and Ittihad Hadramout.",
-      "slug_en": "yemeni-league"
+      "slug_en": "yemeni-league",
+      "slug_stare": [
+        "jemenská-liga"
+      ]
     },
     {
       "id": "f_yem_l1_k1",
@@ -108969,10 +108972,16 @@
       "name": "La Boulangère Wonderligue (ženy)",
       "desc": "Najvyššia francúzska súťaž ženských klubov, 12 tímov v jedinej lige. Medzi kluby patria Basket Landes, BC La Tronche-Meylan, Basket Lattes Montpellier Association a C'Chartres Basket Féminin.",
       "order": 2,
-      "slug": "la-boulangère-wonderligue-zeny",
+      "slug": "la-boulangere-wonderligue-zeny",
       "name_en": "La Boulangère Wonderligue (women)",
-      "slug_en": "la-boulangère-wonderligue-women",
-      "desc_en": "France's top women's basketball league, featuring 12 clubs in a single division. Clubs include Basket Landes, BC La Tronche-Meylan, Basket Lattes Montpellier Association and C'Chartres Basket Féminin."
+      "slug_en": "la-boulangere-wonderligue-women",
+      "desc_en": "France's top women's basketball league, featuring 12 clubs in a single division. Clubs include Basket Landes, BC La Tronche-Meylan, Basket Lattes Montpellier Association and C'Chartres Basket Féminin.",
+      "slug_stare": [
+        "la-boulangère-wonderligue-zeny"
+      ],
+      "slug_en_stare": [
+        "la-boulangère-wonderligue-women"
+      ]
     },
     {
       "id": "f_bas_ita_l3",
