@@ -1,5 +1,5 @@
 {
-  "version": 1130,
+  "version": 1131,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -20273,17 +20273,6 @@
       "desc_en": "Iceland's basketball news site Karfan.is: men's and women's Bónus deild, lower leagues, national teams and Icelanders abroad – reports, interviews and podcasts."
     },
     {
-      "id": "n1783772136625yex",
-      "parentId": "f_med_eu_is",
-      "type": "link",
-      "icon": "",
-      "name": "Handbolti.is",
-      "desc": "Islandská hádzaná – Olís deild mužov a žien, reprezentácia a Islanďania v zahraničných kluboch. Web momentálne nefunguje (doména sa nenašla).",
-      "url": "https://handbolti.is/",
-      "order": 5,
-      "desc_en": "Icelandic handball – men's and women's Olís deild, national teams and Icelanders in foreign clubs. The website is currently down (domain not found)."
-    },
-    {
       "id": "n1783772177210kz9",
       "parentId": "f_med_eu_is",
       "type": "link",
@@ -27530,11 +27519,11 @@
       "type": "link",
       "icon": "et",
       "name": "Etiópia",
-      "desc": "Oficiálny Facebook Etiópskej futbalovej federácie (EFF) — reprezentácia Walias.",
-      "url": "https://theeff.org/en",
+      "desc": "Oficiálny web Etiópskej futbalovej federácie (EFF) — reprezentácia Walias.",
+      "url": "https://ethiopiaff.org/",
       "order": 11,
       "name_en": "Ethiopia",
-      "desc_en": "Official Facebook of the Ethiopian Football Federation (EFF) — the Walias national team."
+      "desc_en": "Official website of the Ethiopian Football Federation (EFF) — the Walias national team."
     },
     {
       "id": "n1784041287668s1g",
@@ -45273,17 +45262,6 @@
       "name_en": "Bhutan Cricket Council Board"
     },
     {
-      "id": "n1784318324589wds",
-      "parentId": "f_med_as_bt",
-      "type": "link",
-      "icon": "",
-      "name": "Bhutan Athletics",
-      "desc": "Oficiálny web Bhutánskej atletickej federácie.",
-      "url": "https://bhutanathletics.org/",
-      "order": 4,
-      "desc_en": "Official website of the Bhutan Athletics Federation"
-    },
-    {
       "id": "n1784318447248rf4",
       "parentId": "f_med_as_bn",
       "type": "link",
@@ -51826,17 +51804,6 @@
       "url": "https://almaalomah.me/news-category/sports",
       "order": 8,
       "desc_en": "Iraq Stars League goings-on – Al-Talaba, Al-Quwa Al-Jawiya, Al-Zawraa – Asian archery in Sulaymaniyah, U-15s at the FIFA event and Europe's big clubs. Sport from Iraqi news agency Al-Maalomah."
-    },
-    {
-      "id": "n1784461188738hmb",
-      "parentId": "f_med_as_iq",
-      "type": "link",
-      "icon": "",
-      "name": "Al Forat news sport",
-      "desc": "Športová sekcia irackej televízie a spravodajskej agentúry Al Forat",
-      "url": "https://alforatnews.iq/",
-      "order": 9,
-      "desc_en": "The Iraqi TV channel and news agency Al Forat's sports section"
     },
     {
       "id": "n1784461276783ukl",
@@ -72233,17 +72200,6 @@
       "ig": "https://www.instagram.com/foullah_edifice/"
     },
     {
-      "id": "f_tcd_l1_k12",
-      "parentId": "f_tcd_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Scorpion FC de Borkou",
-      "desc": "Klub zo saharskej provincie Borkou (mesto Faya-Largeau), najsevernejší klub súťaže.",
-      "url": "https://globalsportsarchive.com/en/soccer/team/scorpion-fc-de-borkou/73513/",
-      "order": 11,
-      "desc_en": "Club from the Saharan province of Borkou (town of Faya-Largeau), the northernmost club in the competition."
-    },
-    {
       "id": "f_eth_l1",
       "parentId": "f_fut_klu_af_eth",
       "type": "folder",
@@ -74464,11 +74420,10 @@
       "icon": "",
       "name": "Leicesterford City FC",
       "desc": "Klub z provincie Mpumalanga, založený 2025 odkúpením licencie klubu JDR Stars.",
-      "url": "https://leicesterfordcity.co.za/",
+      "url": "https://www.facebook.com/profile.php?id=61579172346519",
       "order": 5,
       "name_en": "Leicesterford City FC",
       "desc_en": "From Mpumalanga, founded in 2025 after purchasing JDR Stars' league status.",
-      "fb": "https://www.facebook.com/profile.php?id=61579172346519",
       "ig": "https://www.instagram.com/leicesterfordcity_fc/"
     },
     {
@@ -81141,7 +81096,7 @@
       "icon": "",
       "name": "AS JJ/Sapeur Pompier",
       "desc": "Klub Džibutských hasičov (Sapeurs-Pompiers) z hlavného mesta, zostúpil po sezóne 2025/26.",
-      "url": "https://globalsportsarchive.com/en/soccer/team/as-jj-sapeur-pompier/67673/",
+      "url": "https://www.sofascore.com/team/football/ajjsapeurs-pompiers/1156578",
       "order": 10,
       "name_en": "AS JJ/Sapeur Pompier",
       "desc_en": "Club of the Djiboutian firefighters (Sapeurs-Pompiers) from the capital, relegated after the 2025/26 season."
@@ -96509,10 +96464,9 @@
       "icon": "",
       "name": "Lincoln Red Imps FC",
       "desc": "Najúspešnejší klub Gibraltáru s 30 ligovými titulmi, pravidelný účastník Ligy majstrov.",
-      "url": "https://lincolnredimpsfc.co.uk",
+      "url": "https://www.facebook.com/lincolnredimpsfc/",
       "order": 1,
       "desc_en": "Gibraltar's most successful club with 30 league titles, a regular Champions League participant.",
-      "fb": "https://www.facebook.com/lincolnredimpsfc/",
       "ig": "https://www.instagram.com/lincolnredimpsfc/"
     },
     {
@@ -112297,17 +112251,6 @@
       "desc_en": "Association of Europe's professional leagues (formerly ULEB) — represents the interests of domestic competitions."
     },
     {
-      "id": "f_bas_aso_gl_k8",
-      "parentId": "f_bas_aso_gl",
-      "type": "link",
-      "icon": "",
-      "name": "WABC",
-      "desc": "Svetová asociácia basketbalových trénerov — vzdelávanie a certifikácia trénerov, vyše 180 federácií.",
-      "url": "https://wabc.fiba.com/",
-      "order": 7,
-      "desc_en": "World Association of Basketball Coaches — coach education and certification, more than 180 federations."
-    },
-    {
       "id": "f_bas_aso_gl_k9",
       "parentId": "f_bas_aso_gl",
       "type": "link",
@@ -112661,7 +112604,7 @@
       "name": "Kolumbia",
       "name_en": "Colombia",
       "desc": "Kolumbijská basketbalová federácia (Fecolcesto) — reprezentácie a domáca profesionálna liga.",
-      "url": "https://www.fecolcesto.org/",
+      "url": "https://www.facebook.com/FecolcestoFCB/",
       "order": 5,
       "desc_en": "Colombian Basketball Federation (Fecolcesto) — national teams and the domestic professional league."
     },
@@ -114935,10 +114878,9 @@
       "icon": "",
       "name": "União Corinthians",
       "desc": "Santa Cruz do Sul — klub zo štátu Rio Grande do Sul, ktorý sa prebojoval do NBB.",
-      "url": "https://basqueteuniaocorinthians.com.br/",
+      "url": "https://www.facebook.com/basqueteunico/",
       "order": 16,
       "desc_en": "Santa Cruz do Sul — a club from Rio Grande do Sul state that has fought its way into the NBB.",
-      "fb": "https://www.facebook.com/basqueteunico/",
       "ig": "https://www.instagram.com/basqueteuniaocorinthians/"
     },
     {
@@ -123292,7 +123234,7 @@
       "icon": "",
       "name": "Al Sadd",
       "desc": "Doha — najúspešnejší športový klub Kataru celkovo, basketbalový tím naposledy ovládol ligu v sezóne 2021/22.",
-      "url": "https://al-saddclub.com/ar/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9/",
+      "url": "https://al-saddclub.com/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9/",
       "order": 5,
       "desc_en": "Doha — Qatar's most successful sports club overall, whose basketball team last won the league title in the 2021–22 season."
     },
@@ -126598,10 +126540,9 @@
       "icon": "",
       "name": "Atléticos de San Germán",
       "desc": "San Germán — druhý najúspešnejší klub BSN so 14 titulmi, hrá v Arquelio Torres Ramírez Coliseum.",
-      "url": "https://www.atleticosbsn.org",
+      "url": "https://www.facebook.com/AtleticosBSN/",
       "order": 0,
       "desc_en": "San Germán — the BSN's second-most successful club with 14 titles, playing at the Arquelio Torres Ramírez Coliseum.",
-      "fb": "https://www.facebook.com/AtleticosBSN/",
       "ig": "https://www.instagram.com/atleticosbsn/"
     },
     {
@@ -129556,7 +129497,7 @@
       "name": "India",
       "name_en": "India",
       "desc": "Handball Association of India (HAI) — od roku 2023 oficiálna národná federácia, reprezentácie a domáce súťaže.",
-      "url": "https://haiindia.in",
+      "url": "https://handballindia.com/",
       "order": 8,
       "desc_en": "Handball Association of India (HAI) — the official national federation since 2023, national teams and domestic competitions."
     },
@@ -142013,7 +141954,7 @@
       "icon": "",
       "name": "Kagawa Bank GiraSol Kagawa",
       "desc": "Takamacu (Kagawa) — prvý ženský firemný hádzanársky tím na ostrove Šikoku; v roku 2024 vyhral Japonský pohár a v sezóne 2025/26 získal svoj prvý ligový titul.",
-      "url": "https://www.kagawabank.co.jp/about/handball/handball.html",
+      "url": "https://kagawagirasol.com/",
       "order": 7,
       "desc_en": "Takamatsu (Kagawa) — the first women's corporate handball team on the island of Shikoku; won the Japan Championship in 2024 and its first league title in 2025-26.",
       "ig": "https://www.instagram.com/kb_girasol/"
@@ -145015,7 +144956,7 @@
       "name": "Chile",
       "name_en": "Chile",
       "desc": "Čilská federácia hádzanej — reprezentácie mužov, žien aj plážovej hádzanej, regionálne asociácie a federované súťaže.",
-      "url": "https://www.balonmanochile.com",
+      "url": "https://www.instagram.com/balonmanochile/",
       "order": 4,
       "desc_en": "Chilean Handball Federation — men's, women's and beach handball national teams, regional associations and federated competitions."
     },
@@ -146583,17 +146524,6 @@
       "url": "https://www.handbalstartpunt.nl/",
       "order": 18,
       "desc_en": "The second Dutch portal — news, match reports and domestic results."
-    },
-    {
-      "id": "f_had_sta_k21",
-      "parentId": "f_had_sta",
-      "type": "link",
-      "icon": "",
-      "name": "Handbolti.is",
-      "desc": "Kompletný islandský web — Olísdeildir mužov aj žien, pohár, nižšie ligy, reprezentácie a tabuľky z celej Európy.",
-      "url": "https://handbolti.is/",
-      "order": 19,
-      "desc_en": "Complete Icelandic site — the men's and women's Olísdeild, the cup, lower leagues, national teams and tables from across Europe."
     },
     {
       "id": "n1788780000000tak00",
@@ -174585,10 +174515,9 @@
       "name": "L'Abeille Girondine ASI",
       "desc": "Saint-Jean-d'Illac pri Bordeaux — bývalá AS Illac Volley vyhrala v roku 2017 amatérsky Francúzsky pohár a v roku 2023 postúpila do najvyššej súťaže.",
       "desc_en": "Saint-Jean-d'Illac near Bordeaux — formerly AS Illac Volley, the club won the amateur French Cup in 2017 and was promoted to the top flight in 2023.",
-      "url": "https://www.labeillegirondineasi.com",
+      "url": "https://www.facebook.com/asivolley/",
       "order": 6,
       "order_en": 6,
-      "fb": "https://www.facebook.com/asivolley/",
       "ig": "https://www.instagram.com/labeillegirondineasi/"
     },
     {
@@ -177408,7 +177337,7 @@
       "name": "VCA Amstetten",
       "desc": "Amstetten (Dolné Rakúsko) — klub, ktorý hrá najvyššiu súťaž viac než 20 sezón, v minulosti aj ako VCA Hypo Niederösterreich; víťaz Rakúskeho pohára 2010, 2016, 2017 a 2018, hrá v Johann-Pölz-Halle.",
       "desc_en": "Amstetten (Lower Austria) — a top-flight club for more than 20 seasons, formerly also known as VCA Hypo Niederösterreich; Austrian Cup winners in 2010, 2016, 2017 and 2018, playing at the Johann-Pölz-Halle.",
-      "url": "https://vca.at/teams/",
+      "url": "https://vca.at/",
       "order": 9,
       "order_en": 9,
       "fb": "https://www.facebook.com/vcamstetten/",
@@ -183584,10 +183513,9 @@
       "name": "Olympiada Neapolis",
       "desc": "Nikózia — klub založený v roku 1951 v štvrti Neapolis, majster Cypru žien 2023, 2024, 2025 aj 2026.",
       "desc_en": "Nicosia — founded in 1951 in the Neapolis district, Cypriot women's champions in 2023, 2024, 2025 and 2026.",
-      "url": "https://www.olympiadaneapolis.com.cy/",
+      "url": "https://www.instagram.com/olympiasneapolis/",
       "order": 7,
-      "order_en": 7,
-      "ig": "https://www.instagram.com/olympiasneapolis/"
+      "order_en": 7
     },
     {
       "id": "f_vol_klu_ao_japan_m1",
@@ -185450,18 +185378,6 @@
       "desc": "Almaty — legendárny klub založený v roku 1955, ktorý pod trénerom Zangarom Džarkešovom v rokoch 1968 – 1972 vyhral majstrovstvá ZSSR a dvakrát Pohár európskych majstrov; po zániku v 80. rokoch ho v roku 2016 obnovil bývalý hráč Amangeldy Šabdarbajev. Majster Kazachstanu 2020 a 2021, v sezóne 2025/26 piaty.",
       "desc_en": "Almaty — a legendary club founded in 1955 that under coach Zangar Dzharkeshev won the USSR championship and two European Champions Cups between 1968 and 1972; after folding in the 1980s it was revived in 2016 by former player Amangeldy Shabdarbayev. Kazakh champion in 2020 and 2021, it finished fifth in 2025/26.",
       "url": "https://burevestnik-almaty.kz/",
-      "order": 2,
-      "order_en": 2
-    },
-    {
-      "id": "f_vol_klu_ao_kazakhstan_m1_k4",
-      "parentId": "f_vol_klu_ao_kazakhstan_m1",
-      "type": "link",
-      "icon": "",
-      "name": "Esil-SK",
-      "desc": "Petropavlovsk — klub založený v roku 2002 hrá v hale ŠDJŠOR „Ženis“; bronz na majstrovstvách Kazachstanu získal v rokoch 2016, 2021 a 2024, striebro v roku 2022. V sezóne 2025/26 skončil ôsmy. Vlastný web nemá a jeho instagramový účet stojí na novembri 2022, odkaz preto vedie na profil tímu na webe federácie.",
-      "desc_en": "Petropavlovsk — founded in 2002, the club plays at the Zhenis sports school hall; it took Kazakh championship bronze in 2016, 2021 and 2024 and silver in 2022, and finished eighth in 2025/26. It has no website of its own and its Instagram account has been dormant since November 2022, so the link goes to the team profile on the federation site.",
-      "url": "https://volley.kz/teams/7-esil-sk",
       "order": 3,
       "order_en": 3
     },
@@ -185474,8 +185390,8 @@
       "desc": "Kokšetau — tím Akmolskej oblasti, ktorý sezónu 2025/26 odohral pod menom Ušqyn-Kokšetau a skončil šiesty s bilanciou 8 – 20; federácia ho v roku 2026 vedie už ako Okžetpes. Klub nemá vlastný web, odkaz vedie na jeho oficiálny instagramový účet založený v septembri 2026.",
       "desc_en": "Kokshetau — the Akmola region team played the 2025/26 season as Ushqyn-Kokshetau and finished sixth at 8–20; in 2026 the federation lists it as Okzhetpes. The club has no website of its own; the link goes to its official Instagram account, launched in September 2026.",
       "url": "https://www.instagram.com/vc_okzhetpes/",
-      "order": 4,
-      "order_en": 4
+      "order": 5,
+      "order_en": 5
     },
     {
       "id": "f_vol_klu_ao_kazakhstan_m1_k6",
@@ -185486,8 +185402,8 @@
       "desc": "Taraz — klub Žambylskej oblasti založený v roku 2008 sa stal majstrom Kazachstanu v rokoch 2015 a 2024; v sezóne 2025/26 skončil siedmy. Vlastný web nemá a jeho facebooková stránka stojí na novembri 2022, odkaz preto vedie na profil tímu na webe federácie.",
       "desc_en": "Taraz — the Zhambyl region club, founded in 2008, was Kazakh champion in 2015 and 2024 and finished seventh in 2025/26. It has no website of its own and its Facebook page has been dormant since November 2022, so the link goes to the team profile on the federation site.",
       "url": "https://volley.kz/teams/8-taraz",
-      "order": 5,
-      "order_en": 5
+      "order": 6,
+      "order_en": 6
     },
     {
       "id": "f_vol_klu_ao_kazakhstan_m1_k7",
@@ -185498,8 +185414,8 @@
       "desc": "Oral — klub zo Západokazašskej oblasti, majster Kazachstanu v rokoch 1998, 2014 (vtedy ako Kondenzat-Žajykmunaj) a 2025; v sezóne 2025/26 obsadil tretie miesto. Klub nemá vlastný web, odkaz vedie na jeho oficiálny instagramový účet.",
       "desc_en": "Oral — the West Kazakhstan region club was Kazakh champion in 1998, 2014 (then as Kondensat-Zhaiykmunai) and 2025, and took third place in 2025/26. It has no website of its own, so the link goes to its official Instagram account.",
       "url": "https://www.instagram.com/volleyzhaik/",
-      "order": 6,
-      "order_en": 6
+      "order": 7,
+      "order_en": 7
     },
     {
       "id": "f_vol_klu_ao_kazakhstan_m1_k8",
@@ -185510,8 +185426,8 @@
       "desc": "Taldykorgan — mužský tím klubu Žetysu, ktorý v roku 2026 získal prvý titul majstra Kazachstanu vo svojej histórii: základnú časť vyhral s bilanciou 23 – 5 a vo finále zdolal Aktobe 2:1 na zápasy. Klub oslávil v roku 2026 dvadsaťpäť rokov od založenia. Odkaz vedie na oficiálnu facebookovú stránku klubu, spoločnú pre mužský aj ženský tím.",
       "desc_en": "Taldykorgan — the men’s team of the Zhetysu club won its first ever Kazakh title in 2026, topping the regular season at 23–5 and beating Aktobe 2–1 in matches in the final. The club marked its 25th anniversary in 2026. The link goes to the club’s official Facebook page, shared by the men’s and women’s teams.",
       "url": "https://www.facebook.com/vczhetysu/",
-      "order": 7,
-      "order_en": 7,
+      "order": 8,
+      "order_en": 8,
       "ig": "https://www.instagram.com/vc_zhetysu/"
     },
     {
@@ -186954,7 +186870,7 @@
       "name": "Al Sadd",
       "desc": "Al Sadd — najznámejší katarský športový klub z Dauhy uvádza vo volejbalovej vitríne titul z prvej divízie z roku 2010 a Pohár zväzu z roku 2007; v tabuľke sezóny 2025/26 skončil desiaty. Odkaz vedie na volejbalovú rubriku arabskej verzie oficiálneho webu klubu — anglická verzia tej istej rubriky je prázdna.",
       "desc_en": "Al Sadd — Qatar’s best-known sports club, from Doha, lists a 2010 first-division title and the 2007 QVA Cup among its volleyball honours; it finished tenth in the 2025/26 table. The link goes to the volleyball section of the Arabic version of the club’s official website — the English version of the same section is empty.",
-      "url": "https://al-saddclub.com/ar/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9/",
+      "url": "https://al-saddclub.com/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9/",
       "order": 5,
       "order_en": 5
     },
@@ -191048,9 +190964,9 @@
       "type": "link",
       "icon": "",
       "name": "AS FAR",
-      "desc": "Rabat — volejbalový oddiel armádneho klubu vznikol v roku 1971, v sezóne 1986/87 získal majstrovský titul aj Pohár trónu a v sezóne 2025/26 skončil druhý. Odkaz vedie na volejbalovú sekciu oficiálneho webu klubu.",
-      "desc_en": "Rabat — the army club’s volleyball section was founded in 1971, won both the league title and the Throne Cup in 1986/87 and finished second in 2025/26. The link goes to the volleyball section of the club’s official website.",
-      "url": "https://as-far.ma/fr/actualites/14-volleyball",
+      "desc": "Rabat — volejbalový oddiel armádneho klubu vznikol v roku 1971, v sezóne 1986/87 získal majstrovský titul aj Pohár trónu a v sezóne 2025/26 skončil druhý. Web klubu je mimo prevádzky, odkaz vedie na profil tímu na Volleybox.",
+      "desc_en": "Rabat — the army club’s volleyball section was founded in 1971, won both the league title and the Throne Cup in 1986/87 and finished second in 2025/26. The club’s website is down, so the link goes to the team’s Volleybox profile.",
+      "url": "https://volleybox.net/far-rabat-t5026",
       "order": 1,
       "order_en": 1
     },
@@ -191187,9 +191103,9 @@
       "type": "link",
       "icon": "",
       "name": "AS FAR",
-      "desc": "Rabat — ženy armádneho klubu sú majsterky Maroka 2024/25, v roku 2024 vyhrali Pohár trónu a v sezóne 2025/26 skončili druhé. Odkaz vedie na volejbalovú sekciu oficiálneho webu klubu.",
-      "desc_en": "Rabat — the army club’s women are 2024/25 Moroccan champions, won the Throne Cup in 2024 and finished second in 2025/26. The link goes to the volleyball section of the club’s official website.",
-      "url": "https://as-far.ma/fr/actualites/14-volleyball",
+      "desc": "Rabat — ženy armádneho klubu sú majsterky Maroka 2024/25, v roku 2024 vyhrali Pohár trónu a v sezóne 2025/26 skončili druhé. Web klubu je mimo prevádzky, odkaz vedie na profil tímu na Volleybox.",
+      "desc_en": "Rabat — the army club’s women are 2024/25 Moroccan champions, won the Throne Cup in 2024 and finished second in 2025/26. The club’s website is down, so the link goes to the team’s Volleybox profile.",
+      "url": "https://women.volleybox.net/far-rabat-t30160",
       "order": 2,
       "order_en": 2
     },
@@ -196657,9 +196573,9 @@
       "icon": "",
       "name": "AFECAVOL U21 2026 – muži",
       "name_en": "AFECAVOL U21 2026 – Men",
-      "desc": "XXI. stredoamerický šampionát mužov do 21 rokov — hrá sa od 23. do 31. októbra 2026 v Paname.",
-      "desc_en": "The 21st Central American men’s under-21 championship — played from 23 to 31 October 2026 in Panama.",
-      "url": "https://www.afecavol.org/eventos/2026/10/xxi-campeonato-centroamericano-sub-21-masculino.aspx",
+      "desc": "XXI. stredoamerický šampionát mužov do 21 rokov — hrá sa od 4. do 12. decembra 2026 v Paname.",
+      "desc_en": "The 21st Central American men’s under-21 championship — played from 4 to 12 December 2026 in Panama.",
+      "url": "https://www.afecavol.org/eventos/2026/12/xxi-campeonato-centroamericano-sub-21-masculino.aspx",
       "order": 20,
       "order_en": 20
     },
@@ -204164,6 +204080,30 @@
       "desc_en": "Berkane — the basketball section of Renaissance Sportive de Berkane, a newcomer to the Division Excellence in 2026/27; a former Moroccan champion and Throne Cup winner. News is published on Instagram.",
       "url": "https://www.instagram.com/rsb.basketball/",
       "order": 10
+    },
+    {
+      "id": "f_vol_klu_ao_kazakhstan_m1_k9",
+      "parentId": "f_vol_klu_ao_kazakhstan_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Berel",
+      "url": "https://www.instagram.com/berelvc/",
+      "desc": "Oskemen — mužský tím klubu Berel z Východného Kazachstanu, ktorý v sezóne 2026/27 hrá Národnú ligu; klub má v najvyššej súťaži aj ženský tím. Klub nemá vlastný web, odkaz vedie na jeho oficiálny instagramový účet, spoločný pre oba tímy.",
+      "desc_en": "Oskemen — the men’s team of Berel from East Kazakhstan, playing in the National League in the 2026/27 season; the club also fields a women’s team in the top flight. The club has no website of its own, so the link goes to its official Instagram account, shared by both teams.",
+      "order": 2,
+      "order_en": 2
+    },
+    {
+      "id": "f_vol_klu_ao_kazakhstan_m1_k10",
+      "parentId": "f_vol_klu_ao_kazakhstan_m1",
+      "type": "link",
+      "icon": "",
+      "name": "Kuanysh",
+      "url": "https://volley.kz/teams/60-quanysh",
+      "desc": "Petropavlovsk — mužský tím klubu Kuanyš zo Severokazašskej oblasti, ktorý v sezóne 2026/27 hrá Národnú ligu; ženský tím klubu vyhral v roku 2022 klubové majstrovstvá Ázie. Klub nemá vlastný web a jeho instagramový účet patrí ženskému tímu, odkaz preto vedie na profil tímu na webe federácie.",
+      "desc_en": "Petropavl — the men’s team of the Kuanysh club from North Kazakhstan, playing in the National League in the 2026/27 season; the club’s women’s team won the Asian Club Championship in 2022. The club has no website of its own and its Instagram account belongs to the women’s team, so the link goes to the team’s profile on the federation website.",
+      "order": 4,
+      "order_en": 4
     }
   ],
   "title_en": "Sportlinking",
@@ -204241,5 +204181,5 @@
     "label": "REKLAMA · TIPSPORT",
     "sectionId": "f_tip"
   },
-  "updated": "2026-11-09T15:23:46.005Z"
+  "updated": "2026-11-09T17:04:40.000Z"
 }

@@ -1,6 +1,6 @@
 {
- "version": 7,
- "updated": "2026-11-09T15:28:20.703Z",
+ "version": 8,
+ "updated": "2026-11-09T17:18:42.819Z",
  "items": [
   {
    "id": "a1794237205410ls92",
@@ -361,6 +361,66 @@
    "endsAt": "",
    "disabled": true,
    "addedAt": 1785147664719
+  },
+  {
+   "id": "a17942446802978o20",
+   "order": 24,
+   "sport": "basketbal",
+   "icon": "🏀",
+   "name": "Basketbal – Euroliga",
+   "name_en": "Basketball – EuroLeague",
+   "url": "https://www.euroleaguebasketball.net/en/euroleague/game-center/",
+   "desc": "Najvyššia európska klubová súťaž – program a výsledky kola a živé skóre zápasov",
+   "desc_en": "Europe's top club competition – round schedule, results and live game scores",
+   "startsAt": "2026-11-09",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1794244680297
+  },
+  {
+   "id": "a1794244680297zml1",
+   "order": 25,
+   "sport": "basketbal",
+   "icon": "🏀",
+   "name": "Basketbal – EuroCup",
+   "name_en": "Basketball – EuroCup",
+   "url": "https://www.euroleaguebasketball.net/en/eurocup/game-center/",
+   "desc": "Druhá európska klubová súťaž – program a výsledky kola a živé skóre zápasov",
+   "desc_en": "Europe's second-tier club competition – round schedule, results and live game scores",
+   "startsAt": "2026-11-09",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1794244680297
+  },
+  {
+   "id": "a1794244680297bdk2",
+   "order": 26,
+   "sport": "basketbal",
+   "icon": "🏀",
+   "name": "Basketbal – FIBA poháre (LM, Europe Cup, ženy)",
+   "name_en": "Basketball – FIBA club cups (BCL, Europe Cup, women)",
+   "url": "https://www.fiba.basketball/en/games",
+   "desc": "Všetky zápasy FIBA so živým skóre – po kliknutí na Európu Liga majstrov, FIBA Europe Cup, Euroliga a EuroCup žien",
+   "desc_en": "All FIBA games with live scores – choose Europe for the Champions League, FIBA Europe Cup, EuroLeague Women and EuroCup Women",
+   "startsAt": "2026-11-09",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1794244680297
+  },
+  {
+   "id": "a1794244680297mcv3",
+   "order": 27,
+   "sport": "volejbal",
+   "icon": "🏐",
+   "name": "Volejbal – európske poháre CEV",
+   "name_en": "Volleyball – CEV European cups",
+   "url": "https://livescores.cev.eu/",
+   "desc": "Živé skóre všetkých pohárov CEV – Liga majstrov, CEV Cup a Challenge Cup mužov aj žien v kalendári po dňoch",
+   "desc_en": "Live scores of all CEV cups – Champions League, CEV Cup and Challenge Cup for men and women in a day-by-day calendar",
+   "startsAt": "2026-11-09",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1794244680297
   }
  ]
 }
