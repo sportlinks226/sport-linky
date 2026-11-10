@@ -143,6 +143,13 @@ sa pýtajú cez `/pages/deployments/<SHA>`. Pri vypršaní limitu akcia nasadeni
 
 ## 5c. Iné poistky (len návrh, nič nie je urobené — rozhodne Miro)
 
+> **Stav 10.11.2026:** poistka 1 bola zavedená — pull request
+> [#61](https://github.com/sportlinks226/sport-linky/pull/61) (Zadanie 55b, vetva `z55-deploy-druhy-pokus`).
+> Urobená inak, než je tu pôvodne opísané: nie samostatná úloha, ale v tej istej úlohe `deploy`
+> (1. pokus s `continue-on-error`, 5 min čakanie, 2. pokus len po zlyhaní 1.). Preto netreba meniť
+> podmienky en-build ani Test webu — po úspešnom 2. pokuse je beh zelený.
+> EN web (sportlinking) zatiaľ bez zmeny. Poistky 2 a 3 nezavedené.
+
 1. **Automatický „dobiehací“ deploy o pár minút neskôr** (samostatná úloha `deploy-znova`,
    spustí sa len keď `deploy` zlyhá, najprv počká ~5 min, potom znova `deploy-pages` s tým istým artefaktom).
    Robí to isté, čo pri #469 → #470 pomohlo, len bez ručného nahrávania. Riziká: deploy môže trvať
