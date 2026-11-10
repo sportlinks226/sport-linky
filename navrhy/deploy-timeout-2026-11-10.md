@@ -73,7 +73,7 @@ Ale: **takto to bolo aj pred 7.11.** (rovnakých 1 550 súborov) — nie je to n
 | #466 | 9.11. 20:18 | **len aktualne.json** (verzia ostala 1131) | **5** | **zlyhal** (timeout) |
 | #467 | 9.11. 20:34 | aktualne.json | málo | prešiel za 1:45 |
 | #469 | 10.11. 10:27 | data.json 1131 → 1132 | ~1 550 | **zlyhal**, aj „Re-run failed jobs“ zlyhal |
-| #470 | 10.11. 10:54 | ten istý data.json znova (1132) | ~1 550 | prešiel za 1:45 |
+| #470 | 10.11. 10:54 | ten istý data.json znova (1132) | ~1 550 | prešiel za 1:45 (samotný deploy 8 s) |
 | #471 | 10.11. 11:14 | data.json 1132 → 1133 | ~1 550 | **zlyhal** |
 | #472 | 10.11. 11:26 | ten istý data.json znova (1133) | ~1 550 | **zlyhal** |
 
@@ -83,34 +83,79 @@ Ale: **takto to bolo aj pred 7.11.** (rovnakých 1 550 súborov) — nie je to n
 Závery:
 - **Beh #466 zlyhal, hoci sa oproti živému webu líšilo len 5 súborov.** Počet zmenených súborov
   teda príčinou nie je — inak by #466 prešiel a #459–#464 (1 550 zmenených) by zlyhali.
-- **Mirova skúsenosť:** pri #469 „Re-run failed jobs“ (ten istý artefakt, nový pokus deploy) visel
-  v `syncing_files` znova; pomohol až nový beh po novom nahratí súboru (#470) — a pri #472 nepomohol
-  ani ten. Automatické opakovanie kroku deploy by preto pravdepodobne nepomohlo, len by predĺžilo čakanie.
-  **Automatický druhý pokus sa zatiaľ NEROBÍ.**
+- **Mirova skúsenosť:** pri #469 „Re-run failed jobs“ (ten istý artefakt, nový pokus deploy) skončil
+  znova chybou; pomohol až nový beh po novom nahratí súboru (#470) — a pri #472 nepomohol ani ten.
+  **Automatický druhý pokus sa zatiaľ NEROBÍ.** (Podrobný rozbor logov je v časti 5b.)
 - Zmeny zo 7.–9.11. (PWA — Zadanie 50, presmerovania — Zadanie 52, neskoršie ikonky, Zadanie 51 a 54)
   artefakt takmer nezmenili (+16 súborov, +1 %). **Príčina je takmer určite na strane GitHub Pages**
   (spomalené ukladanie súborov od 9.11. večer), nie v našom kóde. Verejné hlásenie konkrétnej
   poruchy na tieto dni som nenašiel.
 
-## 5. Rýchla poistka (urobené v Zadaní 55)
+## 5. Poistka „dlhší limit“ — NEFUNGUJE (zistené 10.11.2026, zmena vrátená)
 
-`.github/workflows/build.yml`, úloha `deploy`:
-- krok `actions/deploy-pages@v5`: `with: timeout: 1800000` (30 minút namiesto 10),
-- úloha `deploy`: `timeout-minutes: 35` (rezerva na prihlásenie a prípadné zrušenie nasadenia).
+Pôvodný nápad: kroku `actions/deploy-pages@v5` dať `with: timeout: 1800000` (30 minút) a úlohe
+`deploy` `timeout-minutes: 35`. **Akcia to však nedovolí.** Overené v zdrojovom kóde presne tej verzie,
+ktorú používame (`v5` = `v5.0.1` = commit `368f825`, rovnaký SHA je v logu behu
+„Download action repository 'actions/deploy-pages@v5' (SHA:368f8252…)“), súbor `src/internal/deployment.js`:
 
-Kontrola, že sa nič nepokazí:
-- `en-build` má `needs: deploy` → len počká dlhšie; spustí sa po úspešnom deployi ako doteraz.
-- `concurrency` sa nemení. Upozornenie: kým jeden deploy beží, ďalší čaká; keby medzitým prišiel
-  ešte novší beh, GitHub staršie **čakajúce** nasadenie zruší a nasadí najnovšie — web dostane
-  najnovšie dáta, nič sa nestratí (en-build spustí ten najnovší beh).
-- **Test webu** sa spúšťa po skončení celého behu (`workflow_run`) → len sa spustí neskôr.
+```js
+const MAX_TIMEOUT = 600000
+…
+if (Number(core.getInput('timeout')) > MAX_TIMEOUT) {
+  core.warning(`Warning: timeout value is greater than the allowed maximum - timeout set to the maximum of ${MAX_TIMEOUT} milliseconds.`)
+}
+this.timeout = !timeoutInput || timeoutInput <= 0 ? MAX_TIMEOUT : Math.min(timeoutInput, MAX_TIMEOUT)
+```
 
-### Ako overiť, že to pomohlo
-Pri najbližšom nahratí dát otvor beh **Build & Deploy** → úloha `deploy`:
-- ak `syncing_files` trvá viac ako 10 minút a potom príde `succeed` / úloha je zelená → poistka pomohla
-  (predtým by to skončilo chybou);
-- ak to visí celých 30 minút a skončí `Timeout reached` → problém je hlbší na strane GitHubu
-  (pozri https://www.githubstatus.com, prípadne nahlásiť GitHub podpore); 30 minút už nemá zmysel ďalej predlžovať.
+Hodnota 1 800 000 by sa skrátila späť na 600 000 ms (10 minút), pribudlo by len varovanie.
+**Zmena z build.yml bola preto vyhodená** (aj `timeout-minutes: 35` — bez dlhšieho čakania kroku nemá zmysel).
+build.yml je v tomto zadaní nezmenený.
+
+## 5b. Čo ukázali logy úlohy deploy
+
+Akcia pri nasadení pošle `pages_build_version` = SHA commitu. GitHub nevráti vlastné ID, preto akcia
+používa ako ID nasadenia **SHA commitu** („Created deployment for <SHA>, ID: <SHA>“). Stav aj zrušenie
+sa pýtajú cez `/pages/deployments/<SHA>`. Pri vypršaní limitu akcia nasadenie **sama zruší**
+(v každom zlyhanom logu je „Canceled deployment with ID <SHA>“).
+
+| Beh | Priebeh stavov | Výsledok |
+|---|---|---|
+| #466 (5 odlišných súborov) | `syncing_files` celých 10 min | timeout |
+| #469 pokus 1 | `deployment_queued` 20 s → `syncing_files` 10 min | timeout, zrušené |
+| #469 pokus 2 („Re-run failed jobs“, **to isté ID = SHA**) | hneď `syncing_files` (bez `deployment_queued`) 3,5 min → **`finished_file_sync`** 6,5 min | timeout, zrušené |
+| #470 (nový commit, **rovnaký obsah** ako #469) | prvá kontrola po 5 s: `succeed` | **úspech za 8 s** |
+| #471 | `deployment_queued` 1 min → `syncing_files` 9 min | timeout, zrušené |
+| #472 (nový commit, rovnaký obsah ako #471) | `syncing_files` celých 10 min | timeout, zrušené |
+
+Čo z toho vyplýva:
+- **Opakovaný pokus s tým istým ID nenarazil na predošlé zaseknuté nasadenie.** To bolo zrušené
+  (akcia to robí sama). Keby sa druhý pokus pozeral na staré zrušené nasadenie, akcia by hneď skončila
+  hláškou „Deployment cancelled.“. Namiesto toho druhý pokus #469 pokročil **ďalej** ako prvý
+  (súbory dobehli, stav `finished_file_sync`) a zasekol sa až v poslednej fáze (prepnutie webu).
+  Či zdieľané ID tú poslednú fázu nejako ovplyvnilo, sa z logov dokázať nedá.
+- **Zrušiť zaseknuté nasadenie pred novým pokusom už nie je čo** — akcia to robí sama pri každom timeoute.
+  Ďalšie ručné/automatické zrušenie by nič nezmenilo.
+- **GitHub si zrejme pamätá už nahraté súbory medzi pokusmi:** #469 pokus 2 preskočil frontu a súbory
+  dobehli za 3,5 min; hneď nato #470 s rovnakým obsahom prešiel za 8 s. Keď sa však predošlý pokus
+  nedostal ďaleko (#471 → #472), ďalší pokus nepomohol.
+- Pomalé je teda ukladanie súborov na strane GitHub Pages. Trvá 10 min aj pri 5 zmenených súboroch (#466),
+  takže GitHub zrejme spracúva celý artefakt (11 311 súborov), nielen zmenené súbory.
+
+## 5c. Iné poistky (len návrh, nič nie je urobené — rozhodne Miro)
+
+1. **Automatický „dobiehací“ deploy o pár minút neskôr** (samostatná úloha `deploy-znova`,
+   spustí sa len keď `deploy` zlyhá, najprv počká ~5 min, potom znova `deploy-pages` s tým istým artefaktom).
+   Robí to isté, čo pri #469 → #470 pomohlo, len bez ručného nahrávania. Riziká: deploy môže trvať
+   až ~25 min; ak GitHub nestihne ani druhý pokus (#471 → #472), nepomôže; workflow bude zložitejší
+   (`en-build` musí počkať na ktorýkoľvek úspešný pokus; celý beh skončí červený, ak prvý pokus zlyhal,
+   takže **Test webu by sa nespustil** — riešiteľné, ale treba upraviť aj podmienky).
+2. **Menej súborov v artefakte** (ak GitHub spracúva celý artefakt): 9 747 z 11 311 súborov (86 %)
+   sú ikonky a vlajky, ktoré sa takmer nemenia. Dali by sa zbaliť do pár väčších súborov (napr. jedna
+   „mapa ikoniek“) — väčší zásah do generator.py, index.html a sw.js (1–2 zadania). Zmysel má, len ak
+   problém potrvá dlhšie.
+3. **Nič nemeniť, len vedieť, že web sa dorovná sám:** nočný build (cron) nasadí web znova;
+   a ručne stačí „Re-run all jobs“ alebo nové nahratie, keď GitHub opäť zrýchli.
+   Pri pretrvávajúcom probléme nahlásiť GitHub podpore (s odkazmi na behy #466, #469, #471, #472).
 
 ## 6. Návrh trvalého riešenia (NEROBÍ SA — rozhodne Miro)
 
@@ -152,10 +197,10 @@ Asi 1 zadanie (pol dňa až deň): generator.py (2 miesta), načítanie dát v i
 úprava a doplnenie Testu webu, overenie PWA offline a cache, potom rovnaké zadanie pre sportlinking.
 
 ### Odporúčanie
-Najprv počkať, či pomôže 30-minútová poistka. Ak deploye prechádzajú (aj keď pomaly), trvalé riešenie
-nie je súrne. Ak by zlyhania pokračovali aj s 30-minútovým limitom, trvalé riešenie ich pravdepodobne
-neodstráni (pozri #466) — vtedy je na rade GitHub podpora.
+Teraz to nerobiť. Na terajšie zlyhania by pravdepodobne nepomohlo (pozri #466 — 10 min
+`syncing_files` aj pri 5 zmenených súboroch). Ak bude treba znížiť záťaž GitHub Pages, väčší účinok
+má zníženie počtu súborov (časť 5c, bod 2).
 
 ## Druhý web
-Repozitár **sportlinking** (EN) má rovnaký krok `actions/deploy-pages@v5` bez dlhšieho limitu
-→ rovnakú poistku treba urobiť samostatnou úlohou.
+Repozitár **sportlinking** (EN) má rovnaký krok `actions/deploy-pages@v5` s rovnakým 10-minútovým stropom.
+Akúkoľvek poistku z časti 5c treba potom urobiť aj tam samostatnou úlohou.
