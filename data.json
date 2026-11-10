@@ -1,5 +1,5 @@
 {
-  "version": 1132,
+  "version": 1133,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -131303,7 +131303,7 @@
       "icon": "",
       "name": "Handball extraliga",
       "desc": "Tabuľka hádzanárskej súťaže Handball extraliga (Slovensko) na webe Slovenského zväzu hádzanej — aktuálne poradie a výsledky",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=234",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=245",
       "order": -1,
       "desc_en": "Handball extraliga (Slovakia) handball standings on the Slovak Handball Federation website — current table and results"
     },
@@ -137772,12 +137772,12 @@
       "type": "folder",
       "icon": "sk",
       "name": "MOL liga (ženy)",
-      "desc": "MOL liga (ženy) má 4 kluby. Slovenské tímy spoločnej česko-slovenskej ženskej MOL ligy — Iuventa Michalovce, HC DAC Dunajská Streda, Slovan Duslo Šaľa a Tatran Stupava.",
+      "desc": "MOL liga žien (nový názov Doprastav liga) — slovenské tímy spoločnej česko-slovenskej ženskej hádzanárskej ligy, 4 kluby: Iuventa Michalovce, HC DAC Dunajská Streda, Slovan Duslo Šaľa a Tatran Stupava.",
       "order": 2,
       "slug": "mol-liga-zeny",
       "name_en": "MOL Liga (women)",
       "slug_en": "mol-liga-women",
-      "desc_en": "MOL Liga (women) has 4 clubs. Slovak teams of the joint Czech-Slovak women's MOL Liga — Iuventa Michalovce, HC DAC Dunajská Streda, Slovan Duslo Šaľa and Tatran Stupava."
+      "desc_en": "MOL Liga women (now called Doprastav liga) — Slovak teams of the joint Czech-Slovak women's handball league, 4 clubs: Iuventa Michalovce, HC DAC Dunajská Streda, Slovan Duslo Šaľa and Tatran Stupava."
     },
     {
       "id": "f_had_deu_l2",
@@ -140381,7 +140381,7 @@
       "name": "1. liga",
       "name_en": "1. liga (2nd tier)",
       "desc": "Tabuľka hádzanárskej súťaže 1. liga (Slovensko) na webe Slovenského zväzu hádzanej — aktuálne poradie a výsledky",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=235",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=246",
       "order": -1,
       "desc_en": "1. liga (Slovakia) handball standings on the Slovak Handball Federation website — current table and results"
     },
@@ -140644,7 +140644,7 @@
       "name": "MOL liga (ženy)",
       "name_en": "MOL liga (women)",
       "desc": "Tabuľka spoločnej česko-slovenskej MOL ligy žien na webe Slovenského zväzu hádzanej — aktuálne poradie a výsledky",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=233",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=244",
       "order": -1,
       "desc_en": "Standings of the joint Czech-Slovak MOL Liga (women) on the Slovak Handball Federation website — current table and results"
     },
@@ -203796,7 +203796,7 @@
       "name_en": "Handball extraliga – výsledky a tabuľka",
       "desc": "Niké Handball extraliga — aktuálna tabuľka, výsledky a program najvyššej slovenskej mužskej hádzanárskej súťaže na webe Slovenského zväzu hádzanej (SZH). Kluby extraligy nájdeš v Kluby › Európa › Slovensko.",
       "desc_en": "Niké Handball extraliga — aktuálna tabuľka, výsledky a program najvyššej slovenskej mužskej hádzanárskej súťaže na webe Slovenského zväzu hádzanej (SZH). Kluby extraligy nájdeš v Kluby › Európa › Slovensko.",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=234",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=245",
       "order": -1,
       "en": false
     },
@@ -203809,7 +203809,7 @@
       "name_en": "1. liga muži – výsledky a tabuľka",
       "desc": "1. liga mužov — tabuľka, výsledky a program druhej najvyššej slovenskej hádzanárskej súťaže na webe SZH.",
       "desc_en": "1. liga mužov — tabuľka, výsledky a program druhej najvyššej slovenskej hádzanárskej súťaže na webe SZH.",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=235",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=246",
       "order": -1,
       "en": false
     },
@@ -203822,7 +203822,7 @@
       "name_en": "MOL liga ženy – výsledky a tabuľka",
       "desc": "MOL liga — tabuľka a výsledky spoločnej slovensko-českej najvyššej ženskej hádzanárskej súťaže na webe SZH.",
       "desc_en": "MOL liga — tabuľka a výsledky spoločnej slovensko-českej najvyššej ženskej hádzanárskej súťaže na webe SZH.",
-      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=233",
+      "url": "https://www.slovakhandball.sk/sport/Handball?regionId=244",
       "order": -1,
       "en": false
     },
