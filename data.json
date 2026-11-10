@@ -1,5 +1,5 @@
 {
-  "version": 1131,
+  "version": 1132,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -33635,7 +33635,7 @@
       "type": "folder",
       "icon": "de",
       "name": "3. Liga",
-      "desc": "Tretia nemecká liga — 20 profesionálnych klubov. Medzi kluby patria Rot-Weiss Essen, Fortuna Düsseldorf, Hansa Rostock a MSV Duisburg.",
+      "desc": "Nemecko 3. liga (III. nemecká liga) — tretia nemecká futbalová liga, 20 profesionálnych klubov. Medzi kluby patria Rot-Weiss Essen, Fortuna Düsseldorf, Hansa Rostock a MSV Duisburg.",
       "order": 2,
       "slug": "3-liga",
       "desc_en": "Third German tier — 20 professional clubs. Clubs include Rot-Weiss Essen, Fortuna Düsseldorf, Hansa Rostock and MSV Duisburg.",
@@ -50269,10 +50269,10 @@
       "type": "folder",
       "icon": "no",
       "name": "OBOS-ligaen",
-      "desc": "Druhá najvyššia nórska liga so 16 tímami, pomenovaná podľa sponzora OBOS. Medzi kluby patria Lyn 1896, Moss FK, Odds BK a Stabæk Fotball.",
+      "desc": "OBOS-ligaen (nórska 1. divízia) — druhá najvyššia nórska futbalová liga so 16 tímami, pomenovaná podľa sponzora OBOS. Medzi kluby patria Lyn 1896, Moss FK, Odds BK a Stabæk Fotball.",
       "order": 2,
       "slug": "obos-ligaen",
-      "desc_en": "Second Norwegian tier with 16 teams, named after sponsor OBOS. Clubs include Lyn 1896, Moss FK, Odds BK and Stabæk Fotball.",
+      "desc_en": "OBOS-ligaen (Norwegian First Division, 1. divisjon) — the second Norwegian tier with 16 teams, named after sponsor OBOS. Clubs include Lyn 1896, Moss FK, Odds BK and Stabæk Fotball.",
       "slug_en": "obos-ligaen",
       "name_en": "OBOS-ligaen"
     },
@@ -50878,10 +50878,10 @@
       "type": "folder",
       "icon": "gb-nir",
       "name": "NIFL Premiership",
-      "desc": "Najvyššia severoírska súťaž s 12 tímami — po 33 kolách sa tabuľka delí na majstrovskú a zostupovú skupinu. Medzi kluby patria Coleraine FC, Crusaders FC, Dungannon Swifts a Larne FC.",
+      "desc": "NIFL Premiership — najvyššia severoírska futbalová liga s 12 tímami; nadväzuje na Irish League založenú v roku 1890, v dnešnej podobe sa hrá od roku 2008. Po 33 kolách sa tabuľka delí na majstrovskú a zostupovú skupinu. Medzi kluby patria Coleraine FC, Crusaders FC, Dungannon Swifts a Larne FC.",
       "order": 1,
       "slug": "nifl-premiership",
-      "desc_en": "Top Northern Irish league with 12 teams — after 33 rounds the table splits into championship and relegation groups. Clubs include Coleraine FC, Crusaders FC, Dungannon Swifts and Larne FC.",
+      "desc_en": "NIFL Premiership — Northern Ireland's top football league with 12 teams; it continues the Irish League founded in 1890 and has run in its current form since 2008. After 33 rounds the table splits into championship and relegation groups. Clubs include Coleraine FC, Crusaders FC, Dungannon Swifts and Larne FC.",
       "slug_en": "nifl-premiership",
       "name_en": "NIFL Premiership"
     },
@@ -63873,10 +63873,10 @@
       "type": "folder",
       "icon": "ir",
       "name": "Persian Gulf Pro League",
-      "desc": "Najvyššia iránska súťaž — 18 klubov. Medzi kluby patria Sepahan, Aluminium Arak, Esteghlal F.C. a Esteghlal Khuzestan.",
+      "desc": "Persian Gulf Pro League (Iran Pro League) — najvyššia iránska futbalová liga, založená v roku 2001; od sezóny 2026/27 má 18 klubov. Medzi kluby patria Sepahan, Aluminium Arak, Esteghlal F.C. a Esteghlal Khuzestan.",
       "order": 1,
       "slug": "persian-gulf-pro-league",
-      "desc_en": "Top Iranian league — 18 clubs. Clubs include Sepahan, Aluminium Arak, Esteghlal F.C. and Esteghlal Khuzestan.",
+      "desc_en": "Persian Gulf Pro League (Iran Pro League) — Iran's top football league, founded in 2001; 18 clubs from the 2026–27 season. Clubs include Sepahan, Aluminium Arak, Esteghlal F.C. and Esteghlal Khuzestan.",
       "slug_en": "persian-gulf-pro-league",
       "name_en": "Persian Gulf Pro League"
     },
@@ -91183,11 +91183,11 @@
       "type": "folder",
       "icon": "sa",
       "name": "Saudi Pro League",
-      "desc": "Najvyššia saudskoarabská súťaž — 18 klubov vrátane Al-Hilal, Al-Nassr a Al-Ittihad.",
+      "desc": "Saudi Pro League — najvyššia saudskoarabská futbalová liga, hrá sa od sezóny 1976/77 (názov Saudi Pro League nesie od roku 2008). 18 klubov vrátane Al-Hilal, Al-Nassr a Al-Ittihad.",
       "order": 0,
       "name_en": "Saudi Pro League",
       "slug": "saudi-pro-league",
-      "desc_en": "Top Saudi league — 18 clubs including Al-Hilal, Al-Nassr and Al-Ittihad."
+      "desc_en": "Saudi Pro League — Saudi Arabia's top football league, first played in 1976–77 (named Saudi Pro League since 2008). 18 clubs including Al-Hilal, Al-Nassr and Al-Ittihad."
     },
     {
       "id": "f_sau_l1_k1",
@@ -127556,12 +127556,12 @@
       "type": "folder",
       "icon": "dk",
       "name": "Basketligaen",
-      "desc": "Basketligaen má 12 klubov — Bakken Bears, BC Copenhagen, Bears Academy a BK Vejen. Najvyššia dánska basketbalová súťaž mužov — Basketligaen.",
+      "desc": "Dánska basketbalová liga Basketligaen — najvyššia dánska súťaž mužov s 12 klubmi, medzi nimi Bakken Bears, BC Copenhagen, Bears Academy a BK Vejen.",
       "order": 0,
       "slug": "basketligaen",
       "name_en": "Basketligaen",
       "slug_en": "basketligaen",
-      "desc_en": "Basketligaen has 12 clubs — Bakken Bears, BC Copenhagen, Bears Academy and BK Vejen. Denmark's top men's basketball league — the Basketligaen."
+      "desc_en": "Denmark basketball league — the Basketligaen, Denmark's top men's league with 12 clubs, among them Bakken Bears, BC Copenhagen, Bears Academy and BK Vejen."
     },
     {
       "id": "f_bas_den_l3",
@@ -130851,7 +130851,7 @@
       "type": "folder",
       "icon": "de",
       "name": "Handball-Bundesliga",
-      "desc": "Handball-Bundesliga má 18 klubov. Najvyššia nemecká hádzanárska súťaž mužov — oficiálne weby klubov ako THW Kiel, SG Flensburg-Handewitt, SC Magdeburg či Füchse Berlin.",
+      "desc": "Hádzaná Nemecko muži — Handball-Bundesliga, najvyššia nemecká hádzanárska liga s 18 klubmi. Oficiálne weby klubov ako THW Kiel, SG Flensburg-Handewitt, SC Magdeburg či Füchse Berlin.",
       "order": 0,
       "slug": "handball-bundesliga",
       "name_en": "Handball-Bundesliga",
@@ -131109,7 +131109,7 @@
       "type": "folder",
       "icon": "cz",
       "name": "Extraliga",
-      "desc": "Extraliga má 12 klubov. Najvyššia česká hádzanárska súťaž mužov — oficiálne weby klubov ako HCB Karviná, Dukla Praha, Talent tým Plzeňského kraje či HC Zubří.",
+      "desc": "Hádzaná Česko muži — Extraliga, najvyššia česká hádzanárska súťaž s 12 klubmi. Oficiálne weby klubov ako HCB Karviná, Dukla Praha, Talent tým Plzeňského kraje či HC Zubří.",
       "order": 0,
       "slug": "extraliga",
       "name_en": "Extraliga",
@@ -136369,12 +136369,12 @@
       "type": "folder",
       "icon": "ch",
       "name": "Swiss Handball League",
-      "desc": "Swiss Handball League má 10 klubov. Najvyššia švajčiarska hádzanárska súťaž mužov — weby klubov ako Kadetten Schaffhausen, Pfadi Winterthur, HC Kriens-Luzern či Wacker Thun.",
+      "desc": "Swiss Handball League (Quickline Handball League, QHL) — najvyššia švajčiarska hádzanárska liga mužov s 10 klubmi. Weby klubov ako Kadetten Schaffhausen, Pfadi Winterthur, HC Kriens-Luzern či Wacker Thun.",
       "order": 0,
       "slug": "swiss-handball-league",
       "name_en": "Swiss Handball League",
       "slug_en": "swiss-handball-league",
-      "desc_en": "Swiss Handball League has 10 clubs. The top Swiss men's handball league — websites of clubs such as Kadetten Schaffhausen, Pfadi Winterthur, HC Kriens-Luzern and Wacker Thun."
+      "desc_en": "Swiss Handball League (Quickline Handball League, QHL) — Switzerland's top men's handball league with 10 clubs. Websites of clubs such as Kadetten Schaffhausen, Pfadi Winterthur, HC Kriens-Luzern and Wacker Thun."
     },
     {
       "id": "f_had_che_l1_liga",
@@ -136523,12 +136523,12 @@
       "type": "folder",
       "icon": "it",
       "name": "Serie A Gold",
-      "desc": "Serie A Gold má 14 klubov. Najvyššia talianska hádzanárska súťaž mužov — weby klubov ako Pallamano Conversano, SSV Bozen, Pressano či Cassano Magnago.",
+      "desc": "Serie A Gold — talianska hádzanárska liga, najvyššia súťaž mužov so 14 klubmi. Weby klubov ako Pallamano Conversano, SSV Bozen, Pressano či Cassano Magnago.",
       "order": 0,
       "slug": "serie-a-gold",
       "name_en": "Serie A Gold",
       "slug_en": "serie-a-gold",
-      "desc_en": "Serie A Gold has 14 clubs. The top Italian men's handball league — websites of clubs such as Pallamano Conversano, SSV Bozen, Pressano and Cassano Magnago."
+      "desc_en": "Serie A Gold — the Italian handball league, the top men's division with 14 clubs. Websites of clubs such as Pallamano Conversano, SSV Bozen, Pressano and Cassano Magnago."
     },
     {
       "id": "f_had_ita_l1_liga",
@@ -137655,7 +137655,7 @@
       "type": "folder",
       "icon": "dk",
       "name": "Kvindeligaen (ženy)",
-      "desc": "Kvindeligaen (ženy) má 14 klubov. Najvyššia dánska ženská hádzanárska súťaž — weby klubov ako Odense Håndbold, Team Esbjerg, Ikast Håndbold či Viborg HK.",
+      "desc": "Hádzaná Dánsko ženy — Kvindeligaen, najvyššia dánska ženská hádzanárska liga so 14 klubmi. Weby klubov ako Odense Håndbold, Team Esbjerg, Ikast Håndbold či Viborg HK.",
       "order": 2,
       "slug": "kvindeligaen-zeny",
       "name_en": "Kvindeligaen (women)",
@@ -137707,7 +137707,7 @@
       "type": "folder",
       "icon": "hu",
       "name": "NB I (ženy)",
-      "desc": "NB I (ženy) má 14 klubov. Najvyššia maďarská ženská hádzanárska súťaž — weby klubov ako Győri ETO KC, Ferencvárosi TC, DVSC či Váci NKSE.",
+      "desc": "Hádzaná Maďarsko ženy — NB I, najvyššia maďarská ženská hádzanárska liga so 14 klubmi. Weby klubov ako Győri ETO KC, Ferencvárosi TC, DVSC či Váci NKSE.",
       "order": 1,
       "slug": "nb-i-zeny",
       "name_en": "NB I (women)",
@@ -174176,8 +174176,8 @@
       "icon": "fr",
       "name": "Volstar Masculine 2 (muži)",
       "name_en": "Volstar Masculine 2 (men)",
-      "desc": "Druhá najvyššia francúzska mužská volejbalová súťaž — 12 klubov v sezóne 2026/27; do roku 2026 sa volala Ligue B. Medzi kluby patria Cambrai Volley, Fréjus Var Volley, Grand Nancy Volley-Ball a Harnes Volley-Ball.",
-      "desc_en": "France's second-tier men's volleyball league — 12 clubs in the 2026/27 season; it was called Ligue B until 2026. Clubs include Cambrai Volley, Fréjus Var Volley, Grand Nancy Volley-Ball and Harnes Volley-Ball.",
+      "desc": "Volstar Masculine 2 — druhá najvyššia francúzska mužská volejbalová liga (do roku 2026 Ligue B), 12 klubov v sezóne 2026/27. Medzi kluby patria Cambrai Volley, Fréjus Var Volley, Grand Nancy Volley-Ball a Harnes Volley-Ball.",
+      "desc_en": "Volstar Masculine 2 — France's second-tier men's volleyball league (called Ligue B until 2026), 12 clubs in the 2026/27 season. Clubs include Cambrai Volley, Fréjus Var Volley, Grand Nancy Volley-Ball and Harnes Volley-Ball.",
       "order": 1,
       "order_en": 1,
       "slug": "volstar-masculine-2"
@@ -198009,8 +198009,8 @@
       "icon": "ph",
       "name": "PBA",
       "name_en": "PBA",
-      "desc": "Philippine Basketball Association — najstaršia profesionálna liga Ázie; v sezóne 2025/26 hrá 12 filipínskych tímov a hosť z Macaa. Medzi kluby patria Blackwater Bossing, Magnolia Hotshots, Meralco Bolts a Rain or Shine Elasto Painters.",
-      "desc_en": "The Philippine Basketball Association — Asia's oldest professional league; 12 Philippine teams and a guest side from Macau play the 2025–26 season. Clubs include Blackwater Bossing, Magnolia Hotshots, Meralco Bolts and Rain or Shine Elasto Painters.",
+      "desc": "Philippine Basketball Association (PBA) — najstaršia profesionálna liga Ázie, založená v roku 1975. Má 12 filipínskych tímov, v sezóne 2025/26 s nimi hrá aj hosť z Macaa. Medzi kluby patria Blackwater Bossing, Magnolia Hotshots, Meralco Bolts a Rain or Shine Elasto Painters.",
+      "desc_en": "The Philippine Basketball Association (PBA) — Asia's oldest professional league, founded in 1975. It has 12 franchise teams; a guest side from Macau joins them in the 2025–26 season. Clubs include Blackwater Bossing, Magnolia Hotshots, Meralco Bolts and Rain or Shine Elasto Painters.",
       "order": 0,
       "slug": "pba",
       "slug_en": "pba"
@@ -198342,8 +198342,8 @@
       "icon": "sg",
       "name": "NBL",
       "name_en": "NBL",
-      "desc": "Najvyššia singapurská mužská liga (National Basketball League); v sezóne 2026 hrá 10 tímov. Medzi kluby patria IMG K-Star, Xin Hua Sports Club, Eng Tat Hornets a Siglap Basketball Club.",
-      "desc_en": "Singapore's top men's league (National Basketball League); 10 teams play the 2026 season. Clubs include IMG K-Star, Xin Hua Sports Club, Eng Tat Hornets and Siglap Basketball Club.",
+      "desc": "NBL Singapur (National Basketball League) — najvyššia singapurská mužská basketbalová liga; v sezóne 2026 hrá 10 tímov. Medzi kluby patria IMG K-Star, Xin Hua Sports Club, Eng Tat Hornets a Siglap Basketball Club.",
+      "desc_en": "NBL Singapore (National Basketball League) — Singapore's top men's basketball league; 10 teams play the 2026 season. Clubs include IMG K-Star, Xin Hua Sports Club, Eng Tat Hornets and Siglap Basketball Club.",
       "order": 0,
       "slug": "nbl",
       "slug_en": "nbl"
