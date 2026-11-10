@@ -1,6 +1,6 @@
 {
- "version": 9,
- "updated": "2026-11-09T20:17:56.074Z",
+ "version": 10,
+ "updated": "2026-11-10T13:21:09.512Z",
  "items": [
   {
    "id": "a1794237205410ls92",
@@ -303,23 +303,8 @@
    "addedAt": 1794237205410
   },
   {
-   "id": "a17942372054105bd8",
-   "order": 20,
-   "sport": "stolny-tenis",
-   "icon": "🏓",
-   "name": "Stolný tenis – WTT Contender Istanbul",
-   "name_en": "Table tennis – WTT Contender Istanbul",
-   "url": "https://www.worldtabletennis.com/eventInfo?eventId=3257",
-   "desc": "Turnaj s dotáciou 100 000 USD – na karte Matches živé skóre zápasov, aj pavúky",
-   "desc_en": "USD 100,000 event – live match scores on the Matches tab, plus draws",
-   "startsAt": "2026-11-10",
-   "endsAt": "2026-11-16",
-   "disabled": false,
-   "addedAt": 1794237205410
-  },
-  {
    "id": "a1784541154016",
-   "order": 21,
+   "order": 20,
    "sport": "",
    "icon": "🏀",
    "name": "WNBA",
@@ -334,7 +319,7 @@
   },
   {
    "id": "a1784541193793",
-   "order": 22,
+   "order": 21,
    "sport": "",
    "icon": "⚾",
    "name": "MLB",
@@ -349,7 +334,7 @@
   },
   {
    "id": "a1785147664719",
-   "order": 23,
+   "order": 22,
    "sport": "stolny-tenis",
    "icon": "🏓",
    "name": "TT Star series",
@@ -364,7 +349,7 @@
   },
   {
    "id": "a17942446802978o20",
-   "order": 24,
+   "order": 23,
    "sport": "basketbal",
    "icon": "🏀",
    "name": "Basketbal – Euroliga",
@@ -379,7 +364,7 @@
   },
   {
    "id": "a1794244680297zml1",
-   "order": 25,
+   "order": 24,
    "sport": "basketbal",
    "icon": "🏀",
    "name": "Basketbal – EuroCup",
@@ -394,7 +379,7 @@
   },
   {
    "id": "a1794244680297mcv3",
-   "order": 26,
+   "order": 25,
    "sport": "volejbal",
    "icon": "🏐",
    "name": "Volejbal – európske poháre CEV",
@@ -406,6 +391,36 @@
    "endsAt": "",
    "disabled": false,
    "addedAt": 1794244680297
+  },
+  {
+   "id": "a17943168113511kh0",
+   "order": 26,
+   "sport": "stolny-tenis",
+   "icon": "🏓",
+   "name": "Stolný tenis – WTT Contender Istanbul",
+   "name_en": "Table tennis – WTT Contender Istanbul",
+   "url": "https://www.worldtabletennis.com/eventInfo?selectedTab=Matches&eventId=3257",
+   "desc": "Turnaj s dotáciou 100 000 USD – výsledky a program zápasov sa otvoria hneď, živé skóre v lište navrchu",
+   "desc_en": "USD 100,000 event – match results and schedule open straight away, live scores in the top bar",
+   "startsAt": "2026-11-10",
+   "endsAt": "2026-11-16",
+   "disabled": false,
+   "addedAt": 1794316811351
+  },
+  {
+   "id": "a1794316811351m2x1",
+   "order": 27,
+   "sport": "ine",
+   "icon": "🤽",
+   "name": "Vodné pólo – Liga majstrov",
+   "name_en": "Water polo – Champions League",
+   "url": "https://europeanaquatics.org/sports/water-polo/club-competitions/schedule/#/calendar?event=ASM%7C1",
+   "desc": "Najvyššia európska klubová súťaž mužov – rozpis zápasov po dňoch s výsledkami a skóre",
+   "desc_en": "Europe's top men's club competition – day-by-day match schedule with results and scores",
+   "startsAt": "2026-11-10",
+   "endsAt": "",
+   "disabled": false,
+   "addedAt": 1794316811351
   }
  ]
 }
