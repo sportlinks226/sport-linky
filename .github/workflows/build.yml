@@ -132,6 +132,12 @@ jobs:
     concurrency:
       group: pages-deploy
       cancel-in-progress: false
+    # Zadanie 55 (10.11.2026): od 9.11. GitHub Pages často visí v stave
+    # „syncing_files“ dlhšie ako predvolených 10 minút deploy-pages → „Timeout
+    # reached, aborting!“. Krok deploy preto čaká až 30 minút (timeout nižšie),
+    # úloha 35 minút (rezerva na prihlásenie a zrušenie nasadenia).
+    # Rozbor: navrhy/deploy-timeout-2026-11-10.md
+    timeout-minutes: 35
     permissions:
       pages: write      # nasadenie na GitHub Pages
       id-token: write   # overenie nasadenia (OIDC)
@@ -141,6 +147,8 @@ jobs:
     steps:
       - uses: actions/deploy-pages@v5
         id: deployment
+        with:
+          timeout: 1800000   # 30 minút v milisekundách (predvolené 600000 = 10 min)
 
   # BOD 6: po úspešnom nasadení SK webu spusti build EN webu (sportlinking).
   # SK build kvôli tomu NIKDY nespadne (continue-on-error, skript končí exit 0).
