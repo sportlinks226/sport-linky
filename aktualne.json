@@ -1,10 +1,25 @@
 {
- "version": 11,
- "updated": "2026-11-10T16:05:37.649Z",
+ "version": 12,
+ "updated": "2026-11-12T16:58:44.475Z",
  "items": [
   {
-   "id": "a1794237205410ls92",
+   "id": "a179432669607026f3",
    "order": 0,
+   "sport": "futbal",
+   "icon": "⚽",
+   "name": "Futbal – Liga národov",
+   "name_en": "Football – Nations League",
+   "url": "https://www.uefa.com/uefanationsleague/fixtures-results/",
+   "desc": "Posledné dve kolá skupinovej fázy všetkých európskych reprezentácií – program po dňoch a živé skóre na UEFA.com",
+   "desc_en": "Final two group-stage rounds for all European national teams – day-by-day fixtures and live scores on UEFA.com",
+   "startsAt": "2026-11-12",
+   "endsAt": "2026-11-18",
+   "disabled": false,
+   "addedAt": 1794326696070
+  },
+  {
+   "id": "a1794237205410ls92",
+   "order": 1,
    "sport": "zimne",
    "icon": "⛷️",
    "name": "Lyžovanie – SP Levi",
@@ -19,7 +34,7 @@
   },
   {
    "id": "a1794237205410crp13",
-   "order": 1,
+   "order": 2,
    "sport": "multisport",
    "icon": "🏅",
    "name": "OH mládeže Dakar",
@@ -34,7 +49,7 @@
   },
   {
    "id": "a1794237205410oa812",
-   "order": 2,
+   "order": 3,
    "sport": "hokej",
    "icon": "🏒",
    "name": "Hokej – MS žien Dánsko",
@@ -49,7 +64,7 @@
   },
   {
    "id": "a1794254875048vzs0",
-   "order": 3,
+   "order": 4,
    "sport": "tenis",
    "icon": "🎾",
    "name": "Tenis – ATP",
@@ -64,7 +79,7 @@
   },
   {
    "id": "a1794254875048e5m1",
-   "order": 4,
+   "order": 5,
    "sport": "tenis",
    "icon": "🎾",
    "name": "Tenis – WTA",
@@ -79,7 +94,7 @@
   },
   {
    "id": "a1794237205410rl214",
-   "order": 5,
+   "order": 6,
    "sport": "tenis",
    "icon": "🎾",
    "name": "Tenis – World Tennis Tour (ITF)",
@@ -94,7 +109,7 @@
   },
   {
    "id": "a1794237205410gd415",
-   "order": 6,
+   "order": 7,
    "sport": "tenis",
    "icon": "🎾",
    "name": "Tenis – UTR Pro Tour",
@@ -109,7 +124,7 @@
   },
   {
    "id": "a1794237205410ypn5",
-   "order": 7,
+   "order": 8,
    "sport": "padel",
    "icon": "🥎",
    "name": "Padel – Premier Padel Dubaj P1",
@@ -124,7 +139,7 @@
   },
   {
    "id": "a17942372054106n216",
-   "order": 8,
+   "order": 9,
    "sport": "hokej",
    "icon": "🏒",
    "name": "Hokej – NHL",
@@ -139,7 +154,7 @@
   },
   {
    "id": "a1794237205410qjx18",
-   "order": 9,
+   "order": 10,
    "sport": "basketbal",
    "icon": "🏀",
    "name": "Basketbal – NBA",
@@ -154,7 +169,7 @@
   },
   {
    "id": "a17942372054108cg17",
-   "order": 10,
+   "order": 11,
    "sport": "ine",
    "icon": "🏈",
    "name": "Americký futbal – NFL",
@@ -169,7 +184,7 @@
   },
   {
    "id": "a1794237205410ita9",
-   "order": 11,
+   "order": 12,
    "sport": "squash",
    "icon": "🟡",
    "name": "Squash – China Open Šanghaj",
@@ -184,7 +199,7 @@
   },
   {
    "id": "a1794237205410vxp6",
-   "order": 12,
+   "order": 13,
    "sport": "badminton",
    "icon": "🏸",
    "name": "Badminton – Kumamoto Masters Japan",
@@ -199,7 +214,7 @@
   },
   {
    "id": "a1794237205410wuz0",
-   "order": 13,
+   "order": 14,
    "sport": "sipky",
    "icon": "🎯",
    "name": "Šípky – Grand Slam of Darts",
@@ -214,7 +229,7 @@
   },
   {
    "id": "a1794237205410e0d1",
-   "order": 14,
+   "order": 15,
    "sport": "snooker",
    "icon": "🎱",
    "name": "Snooker – Champion of Champions",
@@ -229,7 +244,7 @@
   },
   {
    "id": "a1794237205410up310",
-   "order": 15,
+   "order": 16,
    "sport": "ine",
    "icon": "⛵",
    "name": "Jachting – Route du Rhum",
@@ -244,7 +259,7 @@
   },
   {
    "id": "a1794237205410ucj11",
-   "order": 16,
+   "order": 17,
    "sport": "ine",
    "icon": "🔫",
    "name": "Streľba – MS Dauha",
@@ -259,7 +274,7 @@
   },
   {
    "id": "a1794237205410ms23",
-   "order": 17,
+   "order": 18,
    "sport": "ine",
    "icon": "⛸️",
    "name": "Rýchlokorčuľovanie – SP Peking",
@@ -274,7 +289,7 @@
   },
   {
    "id": "a1794237205410f5h7",
-   "order": 18,
+   "order": 19,
    "sport": "badminton",
    "icon": "🏸",
    "name": "Badminton – Hong Kong Open",
@@ -289,7 +304,7 @@
   },
   {
    "id": "a1784541154016",
-   "order": 19,
+   "order": 20,
    "sport": "",
    "icon": "🏀",
    "name": "WNBA",
@@ -304,7 +319,7 @@
   },
   {
    "id": "a1784541193793",
-   "order": 20,
+   "order": 21,
    "sport": "",
    "icon": "⚾",
    "name": "MLB",
@@ -319,7 +334,7 @@
   },
   {
    "id": "a1785147664719",
-   "order": 21,
+   "order": 22,
    "sport": "stolny-tenis",
    "icon": "🏓",
    "name": "TT Star series",
@@ -334,7 +349,7 @@
   },
   {
    "id": "a17942446802978o20",
-   "order": 22,
+   "order": 23,
    "sport": "basketbal",
    "icon": "🏀",
    "name": "Basketbal – Euroliga",
@@ -349,7 +364,7 @@
   },
   {
    "id": "a1794244680297zml1",
-   "order": 23,
+   "order": 24,
    "sport": "basketbal",
    "icon": "🏀",
    "name": "Basketbal – EuroCup",
@@ -364,7 +379,7 @@
   },
   {
    "id": "a1794244680297mcv3",
-   "order": 24,
+   "order": 25,
    "sport": "volejbal",
    "icon": "🏐",
    "name": "Volejbal – európske poháre CEV",
@@ -379,7 +394,7 @@
   },
   {
    "id": "a17943168113511kh0",
-   "order": 25,
+   "order": 26,
    "sport": "stolny-tenis",
    "icon": "🏓",
    "name": "Stolný tenis – WTT Contender Istanbul",
@@ -394,7 +409,7 @@
   },
   {
    "id": "a1794316811351m2x1",
-   "order": 26,
+   "order": 27,
    "sport": "ine",
    "icon": "🤽",
    "name": "Vodné pólo – Liga majstrov",
@@ -409,7 +424,7 @@
   },
   {
    "id": "a1794326696070f4m0",
-   "order": 27,
+   "order": 28,
    "sport": "golf",
    "icon": "⛳",
    "name": "Golf – DP World Tour Championship Dubaj",
@@ -424,7 +439,7 @@
   },
   {
    "id": "a17943266960706w01",
-   "order": 28,
+   "order": 29,
    "sport": "golf",
    "icon": "⛳",
    "name": "Golf – PGA Tour Austin Championship",
@@ -439,7 +454,7 @@
   },
   {
    "id": "a1794326696070nk32",
-   "order": 29,
+   "order": 30,
    "sport": "golf",
    "icon": "⛳",
    "name": "Golf – LPGA The ANNIKA",
@@ -449,21 +464,6 @@
    "desc_en": "LPGA event in Florida with 108 players including world No. 1 Nelly Korda – live leaderboard on the official tournament site",
    "startsAt": "2026-11-12",
    "endsAt": "2026-11-16",
-   "disabled": false,
-   "addedAt": 1794326696070
-  },
-  {
-   "id": "a179432669607026f3",
-   "order": 30,
-   "sport": "futbal",
-   "icon": "⚽",
-   "name": "Futbal – Liga národov",
-   "name_en": "Football – Nations League",
-   "url": "https://www.uefa.com/uefanationsleague/fixtures-results/",
-   "desc": "Posledné dve kolá skupinovej fázy všetkých európskych reprezentácií – program po dňoch a živé skóre na UEFA.com",
-   "desc_en": "Final two group-stage rounds for all European national teams – day-by-day fixtures and live scores on UEFA.com",
-   "startsAt": "2026-11-12",
-   "endsAt": "2026-11-18",
    "disabled": false,
    "addedAt": 1794326696070
   },
@@ -483,23 +483,8 @@
    "addedAt": 1794326696070
   },
   {
-   "id": "a17943266960709vk5",
-   "order": 32,
-   "sport": "ine",
-   "icon": "🏇",
-   "name": "Jazdectvo – Stuttgart German Masters",
-   "name_en": "Equestrian – Stuttgart German Masters",
-   "url": "https://stuttgart-german-masters.de/de/startlisten-ergebnisse",
-   "desc": "Halový turnaj so Svetovým pohárom v parkúre, drezúre aj záprahoch – štartové listiny a výsledky každej súťaže po dňoch",
-   "desc_en": "Indoor show with World Cup jumping, dressage and driving – start lists and results of every class day by day",
-   "startsAt": "2026-11-11",
-   "endsAt": "2026-11-16",
-   "disabled": false,
-   "addedAt": 1794326696070
-  },
-  {
    "id": "a1794326696070rx26",
-   "order": 33,
+   "order": 32,
    "sport": "sach",
    "icon": "♟️",
    "name": "Šach – Total Chess Budapešť",
@@ -511,6 +496,21 @@
    "endsAt": "2026-11-21",
    "disabled": false,
    "addedAt": 1794326696070
+  },
+  {
+   "id": "a179450253549708i0",
+   "order": 33,
+   "sport": "ine",
+   "icon": "🏇",
+   "name": "Jazdectvo – Stuttgart German Masters",
+   "name_en": "Equestrian – Stuttgart German Masters",
+   "url": "https://www.longinestiming.com/equestrian/2026/stuttgart-german-masters-stuttgart/",
+   "desc": "Jubilejný 40. ročník halového turnaja v Stuttgarte so Svetovým pohárom v parkúre, drezúre aj záprahoch – program dňa od oficiálneho časomerača Longines, súťaž označená LIVE ukáže aktuálneho jazdca, časy a priebežné poradie",
+   "desc_en": "40th edition of the Stuttgart indoor show with World Cup jumping, dressage and driving – daily schedule from official timekeeper Longines, the competition marked LIVE shows the current rider, times and live standings",
+   "startsAt": "2026-11-12",
+   "endsAt": "2026-11-16",
+   "disabled": false,
+   "addedAt": 1794502535497
   }
  ]
 }
