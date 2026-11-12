@@ -1,5 +1,5 @@
 {
-  "version": 1148,
+  "version": 1153,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -16569,18 +16569,6 @@
       "name_en": "Yemen",
       "slug_en": "yemen",
       "desc_en": "Yemeni sports media — TV channels and dailies"
-    },
-    {
-      "id": "f_med_oc_as",
-      "parentId": "f_med_oc",
-      "type": "folder",
-      "icon": "as",
-      "name": "Americká Samoa",
-      "desc": "",
-      "order": 1,
-      "slug": "americka-samoa",
-      "name_en": "American Samoa",
-      "slug_en": "american-samoa"
     },
     {
       "id": "f_med_oc_ck",
@@ -206913,6 +206901,138 @@
       "url": "https://www.fijivillage.com/sports/",
       "order": 5,
       "desc_en": "Sports news site of the Fijian CFL radio group: local rugby and sevens, the Farebrother, rugby league, netball and football, plus a scoreboard (Premier League, rugby)."
+    },
+    {
+      "id": "n1794491884365adf",
+      "parentId": "f_med_oc_pg",
+      "type": "link",
+      "icon": "",
+      "name": "Post-Courier sports",
+      "desc": "Papuánsky šport v denníku Post-Courier: SP PNG Hunters a Digicel Cup, MS v rugby league, prestupy hráčov do NRL, rugby union a tichomorské rugby. Väčšina článkov len pre predplatiteľov. Vychádza od roku 1969.",
+      "url": "https://www.postcourier.com.pg/sports/",
+      "order": 0,
+      "desc_en": "Papua New Guinean sport in the Post-Courier daily: the SP PNG Hunters and Digicel Cup, the Rugby League World Cup, NRL signings, rugby union and Pacific rugby. Most articles are for subscribers only. Published since 1969."
+    },
+    {
+      "id": "n1794491884366yha",
+      "parentId": "f_med_oc_pg",
+      "type": "link",
+      "icon": "",
+      "name": "The National sports",
+      "desc": "Športové správy celoštátneho denníka z Port Moresby: rugby league s Kumuls, PNG Hunters a novým klubom NRL PNG Chiefs, futbal, AFL, touch rugby a stĺpček Pete's Punchline. Vychádza od roku 1993.",
+      "url": "https://www.thenational.com.pg/category/sports/",
+      "order": 1,
+      "desc_en": "Sports news from the Port Moresby national daily: rugby league with the Kumuls, PNG Hunters and the new NRL club PNG Chiefs, football, AFL, touch rugby and the Pete's Punchline column. Published since 1993."
+    },
+    {
+      "id": "n1794491884367jte",
+      "parentId": "f_med_oc_pg",
+      "type": "link",
+      "icon": "",
+      "name": "TVWAN sports",
+      "desc": "Športové správy papuánskej televízie TVWAN: rugby league od Hunters po PNG Chiefs, touch rugby, box, tenis, cesta na Tichomorské hry 2027 aj turnaje z provincií. TVWAN vysiela od roku 2014.",
+      "url": "https://tvwan.com.pg/category/sports",
+      "order": 2,
+      "desc_en": "Sports news from Papua New Guinea's TVWAN: rugby league from the Hunters to the PNG Chiefs, touch rugby, boxing, tennis, the road to the 2027 Pacific Games and provincial tournaments. On air since 2014."
+    },
+    {
+      "id": "n1794491884368msd",
+      "parentId": "f_med_oc_pg",
+      "type": "link",
+      "icon": "",
+      "name": "PNG Haus Bung sports",
+      "desc": "Spravodajský web rádií PNGFM o športe v Papue-Novej Guinei: miestne rugby league (Rigo Rice Cup, Motu Koita), AFL v Port Moresby, futbal, ragbyové 7s a reprezentanti v zahraničí.",
+      "url": "https://pnghausbung.com/sports/",
+      "order": 4,
+      "desc_en": "News site of the PNGFM radio group on sport in Papua New Guinea: local rugby league (Rigo Rice Cup, Motu Koita), AFL in Port Moresby, football, rugby sevens and national athletes abroad."
+    },
+    {
+      "id": "n1794492406013emt",
+      "parentId": "f_med_oc_pg",
+      "type": "link",
+      "icon": "",
+      "name": "EMTV sports",
+      "url": "https://emtv.com.pg/category/sports-recreation/",
+      "order": 3,
+      "desc": "Televízia EMTV z Port Moresby o papuánskom športe: rugby league s Kumuls a PNG Chiefs, kriket s Barramundis, futbal od školských líg po NCD a miestne turnaje. Vysiela od roku 1987.",
+      "desc_en": "Port Moresby's EMTV on Papua New Guinean sport: rugby league with the Kumuls and PNG Chiefs, cricket with the Barramundis, football from school leagues to the NCD and local tournaments. On air since 1987."
+    },
+    {
+      "id": "n1794492645988cfr",
+      "parentId": "f_med_oc_ws",
+      "type": "link",
+      "icon": "",
+      "name": "Samoa Observer sport",
+      "desc": "Samojský šport v hlavnom denníku z Apie: Manu Samoa, Toa Samoa a sedmičky, domáce školské rugby, box, silový trojboj či mládežnícke olympijské hry. Časť článkov je len pre predplatiteľov.",
+      "url": "https://www.samoaobserver.ws/category/sport",
+      "order": 0,
+      "desc_en": "Samoan sport from Apia's leading daily: Manu Samoa, Toa Samoa and the sevens, local school rugby, boxing, powerlifting and youth Olympic athletes. Some articles are for subscribers only."
+    },
+    {
+      "id": "n1794492645998rzy",
+      "parentId": "f_med_oc_ws",
+      "type": "link",
+      "icon": "",
+      "name": "Talamua sports",
+      "desc": "Športové správy zo Samoy na portáli Talamua z Apie – rugby a rugby league reprezentácií, spory o vedenie samojského rugby, box a domáce turnaje.",
+      "url": "https://talamua.com/?cat=6",
+      "order": 1,
+      "desc_en": "Sports news from Samoa on the Apia-based Talamua portal – national rugby union and league teams, the dispute over Samoan rugby governance, boxing and local tournaments."
+    },
+    {
+      "id": "n1794492646008fgj",
+      "parentId": "f_med_oc_ws",
+      "type": "link",
+      "icon": "",
+      "name": "Samoa Global News sports",
+      "desc": "Novinky o samojských reprezentáciách Toa Samoa, Fetu Samoa, Manu Samoa a Manusina, o hráčoch v NRL a Super Rugby aj o boxe – športová rubrika nezávislého portálu Samoa Global News.",
+      "url": "https://samoaglobalnews.com/category/sports/",
+      "order": 2,
+      "desc_en": "Updates on Samoa's national teams Toa Samoa, Fetu Samoa, Manu Samoa and Manusina, Samoan players in the NRL and Super Rugby, and boxing – sports section of the independent Samoa Global News portal."
+    },
+    {
+      "id": "n1794492646018klx",
+      "parentId": "f_med_oc_nz",
+      "type": "link",
+      "icon": "",
+      "name": "SunLive sport",
+      "desc": "Regionálny šport z Bay of Plenty a Taurangy – kriket na Bay Oval, speedway v Baypark, jachting, triatlon, plážový volejbal a miestne kluby; športová rubrika portálu SunLive.",
+      "url": "https://www.sunlive.co.nz/news/1_43_sport.html",
+      "order": 8,
+      "desc_en": "Regional sport from the Bay of Plenty and Tauranga – cricket at Bay Oval, Baypark speedway, yachting, triathlon, beach volleyball and local clubs; sports section of the SunLive news site."
+    },
+    {
+      "id": "n1794501708717dps",
+      "parentId": "f_med_oc_to",
+      "type": "link",
+      "icon": "",
+      "name": "Matangi Tonga sports",
+      "desc": "Šport z Tongy na hlavnom spravodajskom webe z Nukuʻalofy – rugby league a rugby union reprezentácií, domáci ženský futbal, basketbal či mládežnícke olympijské hry. Väčšina článkov je len pre predplatiteľov.",
+      "url": "https://matangitonga.to/topic/sports",
+      "order": 0,
+      "desc_en": "Tongan sport on Nukuʻalofa's leading news website – national rugby league and rugby union teams, local women's football, basketball and youth Olympic athletes. Most articles are for subscribers only."
+    },
+    {
+      "id": "n1794501708727tcq",
+      "parentId": "f_med_oc_to",
+      "type": "link",
+      "icon": "",
+      "name": "Kingdom Tonga News sports",
+      "desc": "Tongskí športovci doma aj v zahraničí – Mate Maʻa Tonga a rugby league, basketbal, domáci futbal a podujatia olympijského výboru TASANOC; športová rubrika portálu Kingdom Tonga News.",
+      "url": "https://kingdomtonganews.com/category/sports",
+      "order": 1,
+      "desc_en": "Tongan athletes at home and abroad – Mate Maʻa Tonga and rugby league, basketball, local football and events of the TASANOC Olympic committee; sports section of the Kingdom Tonga News portal."
+    },
+    {
+      "id": "n1794501708737ddc",
+      "parentId": "f_med_oc_to",
+      "type": "link",
+      "icon": "",
+      "name": "Talanoa 'o Tonga sports",
+      "desc": "Správy o tongskom športe od mládežníckej futbalovej ligy TFA cez ʻIkale Tahi v rugby union až po Tonga XIII v rugby league a basketbal; rubrika nezávislého portálu, ktorý založil novinár Kalafi Moala.",
+      "url": "https://talanoaotonga.to/category/sports/",
+      "order": 2,
+      "desc_en": "Tongan sport from the TFA youth football league to the ʻIkale Tahi in rugby union, the Tonga XIII in rugby league and basketball; section of the independent portal founded by journalist Kalafi Moala."
     }
   ],
   "title_en": "Sportlinking",
