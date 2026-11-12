@@ -1,5 +1,5 @@
 {
-  "version": 1153,
+  "version": 1158,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -207033,6 +207033,171 @@
       "url": "https://talanoaotonga.to/category/sports/",
       "order": 2,
       "desc_en": "Tongan sport from the TFA youth football league to the ʻIkale Tahi in rugby union, the Tonga XIII in rugby league and basketball; section of the independent portal founded by journalist Kalafi Moala."
+    },
+    {
+      "id": "n1794507709382djc",
+      "parentId": "f_med_oc_vu",
+      "type": "link",
+      "icon": "",
+      "name": "Vanuatu Daily Post sports",
+      "desc": "Športové správy z Vanuatu – futbal Port Vila (PVFA) a národné výbery, volejbal, rugby, kriket, futsal či box, aj súhrny Sports Wrap-up. Väčšina článkov je pre predplatiteľov. Jediný denník v krajine, od 1993.",
+      "url": "https://www.dailypost.vu/vanuatu_sports/",
+      "order": 0,
+      "desc_en": "Vanuatu sports news – Port Vila (PVFA) football and national teams, volleyball, rugby, cricket, futsal and boxing, plus Sports Wrap-up round-ups. Most articles are for subscribers. The country's only daily newspaper, since 1993."
+    },
+    {
+      "id": "n1794507709383puq",
+      "parentId": "f_med_oc_vu",
+      "type": "link",
+      "icon": "",
+      "name": "VBTC sport",
+      "desc": "Vanuatský šport v správach štátneho vysielateľa – futbal, plávanie, veslovanie, taekwondo či rugby a výsledky reprezentantov Vanuatu v zahraničí. Prevádzkuje Radio Vanuatu a TBV, vznikol v roku 1993.",
+      "url": "https://vbtc.vu/topics/sport-news/",
+      "order": 1,
+      "desc_en": "Ni-Vanuatu sport from the national broadcaster – football, swimming, rowing, taekwondo and rugby, with results of Vanuatu athletes abroad. Runs Radio Vanuatu and Television Blong Vanuatu; founded in 1993."
+    },
+    {
+      "id": "n1794508598362gag",
+      "parentId": "f_med_oc_sb",
+      "type": "link",
+      "icon": "",
+      "name": "Raw Sports",
+      "desc": "Šalamúnov šport na samostatnom webe Isles Media – futbal a Solomon Cup, futsal, basketbal, netbal, stolný tenis, rugby, šach či judo, aj videá a príbehy domácich športovcov.",
+      "url": "https://sports.islesmedia.net/",
+      "order": 0,
+      "desc_en": "Solomon Islands sport on a dedicated Isles Media site – football and the Solomon Cup, futsal, basketball, netball, table tennis, rugby, chess and judo, plus videos and local athlete stories."
+    },
+    {
+      "id": "n1794508598363rmu",
+      "parentId": "f_med_oc_sb",
+      "type": "link",
+      "icon": "",
+      "name": "Solomon Star sports",
+      "desc": "Domáci šport Šalamúnových ostrovov v denníku z Honiary – futbal a Solomon Cup, národné výbery, hokej, powerlifting, atletika, školské a provinčné športové hry.",
+      "url": "https://www.solomonstarnews.com/category/sports/",
+      "order": 1,
+      "desc_en": "Home sport of the Solomon Islands in a Honiara daily – football and the Solomon Cup, national teams, hockey, powerlifting, athletics, school and provincial sports events."
+    },
+    {
+      "id": "n1794508598364vlc",
+      "parentId": "f_med_oc_sb",
+      "type": "link",
+      "icon": "",
+      "name": "Island Sun sports",
+      "desc": "Športová rubrika honiarskeho denníka Island Sun – futbal, futsalové ligy, basketbal, šach, powerlifting, plážový futbal a programy National Sports Council na Šalamúnových ostrovoch.",
+      "url": "https://theislandsun.com.sb/category/sports/",
+      "order": 2,
+      "desc_en": "Sports section of the Honiara daily Island Sun – football, futsal leagues, basketball, chess, powerlifting, beach soccer and National Sports Council programmes in the Solomon Islands."
+    },
+    {
+      "id": "n1794508598365ufo",
+      "parentId": "f_med_oc_sb",
+      "type": "link",
+      "icon": "",
+      "name": "Solomon Times sports",
+      "desc": "Správy o športovcoch a reprezentácii Šalamúnových ostrovov v online denníku Solomon Times – plážový futbal, OFC Pro League, volejbal či veslovanie, často z tlačových správ OFC.",
+      "url": "https://www.solomontimes.com/news/sports",
+      "order": 3,
+      "desc_en": "Solomon Islands athletes and national teams in the online paper Solomon Times – beach soccer, the OFC Pro League, volleyball and rowing, often based on OFC press releases."
+    },
+    {
+      "id": "n1794508598366izu",
+      "parentId": "f_med_oc_sb",
+      "type": "link",
+      "icon": "",
+      "name": "Tavuli News sports",
+      "desc": "Šport zo Šalamúnových ostrovov na portáli Tavuli News – atletika a Olympijské hry mládeže, plážový futbal, OFC Pro League, rugby, šípky a domáci hráči v zahraničných kluboch.",
+      "url": "https://www.tavulinews.com.sb/category/sport/",
+      "order": 4,
+      "desc_en": "Solomon Islands sport on the Tavuli News portal – athletics and the Youth Olympic Games, beach soccer, the OFC Pro League, rugby, darts and local players at clubs abroad."
+    },
+    {
+      "id": "n1794509878101yjx",
+      "parentId": "f_med_oc_nc",
+      "type": "link",
+      "icon": "",
+      "name": "Les Nouvelles Calédoniennes sports",
+      "desc": "Novokaledónske športové správy denníka z Nouméy: futbal a reprezentácia Cagous, plávanie, jachting, rugby, triatlon, Hry Tichomoria aj Kaledónci v zahraničí. Časť článkov pre predplatiteľov; od roku 1971.",
+      "url": "https://www.lnc.nc/sports",
+      "order": 0,
+      "desc_en": "New Caledonian sports news from the Nouméa paper: football and the Cagous national team, swimming, sailing, rugby, triathlon, the Pacific Games and Caledonians abroad. Some articles for subscribers; since 1971."
+    },
+    {
+      "id": "n1794509878111hwc",
+      "parentId": "f_med_oc_nc",
+      "type": "link",
+      "icon": "",
+      "name": "NC la 1ère sport",
+      "desc": "Športové správy z Novej Kaledónie od verejnoprávnej NC la 1ère: futbal (Super Ligue, Coupe de France), volejbal, basketbal, atletika, plávanie, va'a, rallye a Hry Tichomoria. Súčasť France Télévisions.",
+      "url": "https://la1ere.franceinfo.fr/sport?r=nouvellecaledonie",
+      "order": 1,
+      "desc_en": "Sports news from New Caledonia by public broadcaster NC la 1ère: football (Super Ligue, Coupe de France), volleyball, basketball, athletics, swimming, va'a, rallying and the Pacific Games. Part of France Télévisions."
+    },
+    {
+      "id": "n17945108737994oh",
+      "parentId": "f_med_oc_pf",
+      "type": "link",
+      "icon": "",
+      "name": "Tahiti Infos sports",
+      "desc": "Tahitský futbal, basketbal, box, plávanie a surf v športovej rubrike spravodajského portálu – výsledky domácej ligy, reprezentácia Toa Aito a polynézski športovci vo svete. Web vznikol v roku 2010.",
+      "url": "https://www.tahiti-infos.com/Sports_r97.html",
+      "order": 0,
+      "desc_en": "Tahitian football, basketball, boxing, swimming and surfing in the sports section of the news portal – local league results, the Toa Aito national team and Polynesian athletes abroad. Online since 2010."
+    },
+    {
+      "id": "n17945108738003hs",
+      "parentId": "f_med_oc_pf",
+      "type": "link",
+      "icon": "",
+      "name": "Tahiti Presse sports",
+      "desc": "Krátke športové správy z Francúzskej Polynézie – box, surf, va'a, basketbal, triatlon XTerra na Moorei aj silový trojboj, doplnené staršími reportážami a portrétmi tahitských surfistov.",
+      "url": "https://www.tahitipresse.pf/actualite/sports/",
+      "order": 1,
+      "desc_en": "Short sports news from French Polynesia – boxing, surfing, va'a, basketball, the XTerra on Moorea and powerlifting, plus earlier features and portraits of Tahitian surfers."
+    },
+    {
+      "id": "n1794510873801duc",
+      "parentId": "f_med_oc_pf",
+      "type": "link",
+      "icon": "",
+      "name": "Polynésie la 1ère sport",
+      "desc": "Polynézske športové správy verejnoprávnej stanice zo siete La 1ère (France Télévisions) – va'a, surf, box, basketbal a podujatia na ostrovoch od Tahiti po Markézy.",
+      "url": "https://la1ere.franceinfo.fr/sport?r=polynesie",
+      "order": 2,
+      "desc_en": "Polynesian sports news from the public broadcaster of the La 1ère network (France Télévisions) – va'a, surfing, boxing, basketball and events across the islands from Tahiti to the Marquesas."
+    },
+    {
+      "id": "n1794510873802dx7",
+      "parentId": "f_med_oc_pf",
+      "type": "link",
+      "icon": "",
+      "name": "TNTV News sports",
+      "desc": "Šport na Tahiti a ostrovoch z pohľadu miestnej televízie TNTV – futbal, bojové športy, surf a va'a vrátane pretekov Hawaiki Nui, s rubrikami podľa športov a portrétmi športovcov.",
+      "url": "https://www.tntvnews.pf/sports/",
+      "order": 3,
+      "desc_en": "Sport in Tahiti and the islands from local broadcaster TNTV – football, combat sports, surfing and va'a including the Hawaiki Nui race, with sections per sport and athlete portraits."
+    },
+    {
+      "id": "n1794512414133ck1",
+      "parentId": "f_med_oc_ck",
+      "type": "link",
+      "icon": "",
+      "name": "Cook Islands News sports",
+      "desc": "Šport z Cookových ostrovov v celoštátnom denníku z Avarua – rugby union a league, futbalový pohár CIFA, netbal, pádlovanie, atletika a reprezentácia. Denník vychádza od roku 1945.",
+      "url": "https://www.cookislandsnews.com/sports/",
+      "order": 0,
+      "desc_en": "Cook Islands sport in the national daily from Avarua – rugby union and league, the CIFA football knockout cup, netball, outrigger paddling, athletics and national teams. Published since 1945."
+    },
+    {
+      "id": "n1794512489066ck2",
+      "parentId": "f_med_oc_ck",
+      "type": "link",
+      "icon": "",
+      "name": "Vaka TV sports",
+      "desc": "Prenosy domáceho športu z Rarotongy v televízii Vaka TV – futbalové kluby CIFA, rugby league a prémiová netbalová liga, so živými streamami na YouTube. Vaka TV vysiela od roku 2010.",
+      "url": "https://www.vakatv.com/rugby-netball-soccer/",
+      "order": 1,
+      "desc_en": "Local Rarotonga sport on Vaka TV – CIFA football clubs, rugby league and premier netball, with live streams on YouTube. Vaka TV has been on air since 2010."
     }
   ],
   "title_en": "Sportlinking",
