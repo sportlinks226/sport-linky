@@ -1,5 +1,5 @@
 {
-  "version": 1158,
+  "version": 1176,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -116603,8 +116603,8 @@
       "type": "folder",
       "icon": "cn",
       "name": "WCBA (ženy)",
-      "desc": "Najvyššia ženská klubová súťaž Číny, 18 tímov. Medzi kluby patria Beijing Great Wall, Guangdong Vermilion Birds, Liaoning a Shanxi Flame.",
-      "desc_en": "China's top women's club competition, 18 teams. Clubs include Beijing Great Wall, Guangdong Vermilion Birds, Liaoning and Shanxi Flame.",
+      "desc": "Najvyššia ženská klubová súťaž Číny, 19 tímov. Medzi kluby patria Beijing Great Wall, Guangdong Vermilion Birds, Liaoning a Shanxi Flame.",
+      "desc_en": "China's top women's club competition, 19 teams. Clubs include Beijing Great Wall, Guangdong Vermilion Birds, Liaoning and Shanxi Flame.",
       "order": 1,
       "name_en": "WCBA (women)",
       "slug": "wcba-zeny",
@@ -117120,7 +117120,7 @@
       "name": "Hebei",
       "desc": "Provincia Che-pej — klub vedený pod menom sponzora Jing-li, jeden z menších tímov hlavnej skupiny WCBA.",
       "url": "https://m.weibo.cn/u/6557011169",
-      "order": 3,
+      "order": 5,
       "desc_en": "Hebei province — a club run under the Yingli sponsor name, one of the smaller sides in the WCBA's top group."
     },
     {
@@ -117131,7 +117131,7 @@
       "name": "Hefei",
       "desc": "Che-fej — tím z provincie An-chuej hrajúci v druhej skupine WCBA, hrá v hale Hefei Sports Centre a nemá vlastnú webovú prezentáciu.",
       "url": "https://basketball.asia-basket.com/team/Hefei/71383?Women=1",
-      "order": 4,
+      "order": 6,
       "desc_en": "Hefei — the Anhui province team playing in the WCBA’s second group at the Hefei Sports Centre Gymnasium, with no web presence of its own."
     },
     {
@@ -117142,7 +117142,7 @@
       "name": "Henan",
       "desc": "Ťi-jüan — tím provincie Che-nan pod hlavičkou hutníckej skupiny Jü-kuang, bez vlastnej webovej prezentácie.",
       "url": "https://basketball.asia-basket.com/team/Henan-Phoenix/9616?Women=1",
-      "order": 5,
+      "order": 7,
       "desc_en": "Jiyuan — the Henan province team running under the Yuguang metals group, with no web presence of its own."
     },
     {
@@ -117153,19 +117153,8 @@
       "name": "Jiangsu",
       "desc": "Provincia Ťiang-su — klub vystupujúci aj pod menom nankingskej haly Wu-tchaj-šan, odchovankyňou je reprezentantka Sü Nuo. Jeho účet na sieti Weibo stojí na apríli 2016, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Jiangsu-Yonglian-Nanjing/9614?Women=1",
-      "order": 6,
+      "order": 8,
       "desc_en": "Jiangsu province — a club also known by the name of Nanjing’s Wutaishan arena, which produced national team player Xu Nuo. Its Weibo account has been dormant since April 2016, so the link goes to the team profile instead."
-    },
-    {
-      "id": "f_bas_chn_l2_k8",
-      "parentId": "f_bas_chn_l2",
-      "type": "link",
-      "icon": "",
-      "name": "Jiangxi",
-      "desc": "Kan-čou — tím provincie Ťiang-si v druhej skupine WCBA, bez vlastnej webovej prezentácie.",
-      "url": "https://basketball.asia-basket.com/team/Ganzhou/71261?Women=1",
-      "order": 7,
-      "desc_en": "Ganzhou — the Jiangxi province team in the WCBA's second group, with no web presence of its own."
     },
     {
       "id": "f_bas_chn_l2_k9",
@@ -117175,7 +117164,7 @@
       "name": "Liaoning",
       "desc": "Ta-lien — štvornásobný majster WCBA (2006, 2007, 2009 a 2010), v sezóne 2025/26 hral v hale Liou Čchang-čchun Dalianskej technickej univerzity. Jeho účet na sieti Weibo sa bez prihlásenia nedá čítať, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Liaoning-Henye/9466?Women=1",
-      "order": 8,
+      "order": 9,
       "desc_en": "Dalian — a four-time WCBA champion (2006, 2007, 2009 and 2010), which in 2025/26 played at the Liu Changchun Gymnasium of the Dalian University of Technology. Its Weibo account cannot be read without logging in, so the link goes to the team profile instead."
     },
     {
@@ -117186,7 +117175,7 @@
       "name": "Shaanxi",
       "desc": "Si-an — klub sponzora Tchien-ce, domáce zápasy hrá v telocvični univerzity Si-an Ťiao-tchung.",
       "url": "https://m.weibo.cn/u/5408364908",
-      "order": 9,
+      "order": 10,
       "desc_en": "Xi'an — a club backed by the Tianze sponsor, playing its home games at the gymnasium of Xi'an Jiaotong University."
     },
     {
@@ -117197,7 +117186,7 @@
       "name": "Shandong",
       "desc": "Jen-tchaj — tím provincie Šan-tung hrajúci v hale Pcheng-laj, bez vlastnej webovej prezentácie.",
       "url": "https://basketball.asia-basket.com/team/Shandong-Sports-Lottery/9618?Women=1",
-      "order": 10,
+      "order": 11,
       "desc_en": "Yantai — the Shandong province team playing at the Penglai Gymnasium, with no web presence of its own."
     },
     {
@@ -117208,7 +117197,7 @@
       "name": "Shanghai Baoshan",
       "desc": "Šanghaj — klub zo štvrte Pao-šan, hrá v Baochan Sports Center a v sezóne 2025/26 štartoval pod menom banky Pchu-fa. Jeho účet na sieti Weibo stojí na decembri 2014, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Shanghai-Baoshan-Dahua-Swordfish/9619?Women=1",
-      "order": 11,
+      "order": 12,
       "desc_en": "Shanghai — a club from the Baoshan district, playing at the Baochan Sports Center and competing in 2025/26 under the name of SPD Bank. Its Weibo account has been dormant since December 2014, so the link goes to the team profile instead."
     },
     {
@@ -117219,7 +117208,7 @@
       "name": "Shanxi Flame",
       "desc": "Tchaj-jüan — trojnásobný majster WCBA (2013, 2014, 2015) prezývaný „Plamene\", v sezóne 2025/26 finalista; hrá v hale Shanxi Sports Centre.",
       "url": "https://m.weibo.cn/u/2498957113",
-      "order": 12,
+      "order": 13,
       "desc_en": "Taiyuan — a three-time WCBA champion (2013, 2014, 2015) nicknamed the Flame and runner-up in 2025/26, playing at the Shanxi Sports Centre Gymnasium."
     },
     {
@@ -117230,7 +117219,7 @@
       "name": "Sichuan",
       "desc": "Čcheng-tu — majster WCBA zo sezóny 2025/26 a celkovo trojnásobný šampión, hrá v Jinqiang International Event Center.",
       "url": "https://basketball.asia-basket.com/team/Sichuan-Yuanda-Meile-Basketball-Club/19982?Women=1",
-      "order": 13,
+      "order": 14,
       "desc_en": "Chengdu — the 2025/26 WCBA champion and a three-time title winner overall, playing at the Jinqiang International Event Center."
     },
     {
@@ -117241,7 +117230,7 @@
       "name": "Wuhan",
       "desc": "Wu-chan — klub skupiny Šeng-fan, domáce zápasy hrá v hale Ťiang-sia. Jeho účet na sieti Weibo sa bez prihlásenia nedá čítať, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Wuhan-Shengfan/49580?Women=1",
-      "order": 14,
+      "order": 15,
       "desc_en": "Wuhan — a club of the Shengfan group, playing its home games at the Jiangxia Gymnasium. Its Weibo account cannot be read without logging in, so the link goes to the team profile instead."
     },
     {
@@ -117252,7 +117241,7 @@
       "name": "Xiamen Egrets",
       "desc": "Sia-men — tím pomenovaný podľa volavky bielej, symbolu mesta, patrí k najnovším účastníkom WCBA.",
       "url": "https://m.weibo.cn/u/7872502560",
-      "order": 15,
+      "order": 16,
       "desc_en": "Xiamen — a team named after the egret, the city's symbol, and one of the WCBA's newest entrants."
     },
     {
@@ -117263,7 +117252,7 @@
       "name": "Xinjiang Tianshan",
       "desc": "Urumči — klub pomenovaný podľa pohoria Tchien-šan, hrá v Xinjiang Sports Centre a od roku 2024 v ňom pôsobí reprezentačná rozohrávačka Wu Tchung-tchung. Jeho účet na sieti Weibo stojí na marci 2025, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Xinjiang-Magic-Deer/20983?Women=1",
-      "order": 16,
+      "order": 17,
       "desc_en": "Ürümqi — a club named after the Tian Shan mountains, playing at the Xinjiang Sports Centre, where national team guard Wu Tongtong has played since 2024. Its Weibo account has been dormant since March 2025, so the link goes to the team profile instead."
     },
     {
@@ -117274,7 +117263,7 @@
       "name": "Zhejiang",
       "desc": "Ťin-chua — sesterský klub mužských Zhejiang Golden Bulls pod bankou Čchou-čou, hrá v hale Meihu v I-wu. Jeho účet na sieti Weibo stojí na roku 2013, odkaz preto vedie na profil tímu.",
       "url": "https://basketball.asia-basket.com/team/Zhejiang-Golden-Bulls/10818?Women=1",
-      "order": 17,
+      "order": 18,
       "desc_en": "Jinhua — the sister club of the men’s Zhejiang Golden Bulls under the Chouzhou Bank banner, playing at the Meihu Sports Centre in Yiwu. Its Weibo account has been dormant since 2013, so the link goes to the team profile instead."
     },
     {
@@ -117363,7 +117352,8 @@
       "url": "https://bal.nba.com/teams/fus-de-rabat",
       "order": 5,
       "desc_en": "Rabat — Morocco's record champion, a long-time title rival of neighbouring AS Salé.",
-      "ig": "https://www.instagram.com/fusbasketball/"
+      "ig": "https://www.instagram.com/fusbasketball/",
+      "fb": "https://www.facebook.com/fusderabatbasketball/"
     },
     {
       "id": "f_bas_klu_af_bal_k7",
@@ -117903,7 +117893,7 @@
       "order": 22,
       "desc_en": "Tokyo — the Hitachi team, renamed from Sunrockers Shibuya ahead of the 2026/27 season.",
       "fb": "https://www.facebook.com/SunrockersShibuya/",
-      "ig": "https://www.instagram.com/sunrockers_shibuya/"
+      "ig": "https://www.instagram.com/tokyosunrockers/"
     },
     {
       "id": "f_bas_jpn_l1_k24",
@@ -118076,7 +118066,7 @@
       "icon": "",
       "name": "SMBC Tokyo Solua",
       "desc": "Tokio — najmladší tím W League, ktorý v roku 2025 založila banka Sumitomo Mitsui.",
-      "url": "https://www.smbc.co.jp/solua/",
+      "url": "https://solua.smbc.co.jp/",
       "order": 10,
       "desc_en": "Tokyo — the W League's newest team, founded in 2025 by Sumitomo Mitsui Banking Corporation.",
       "ig": "https://www.instagram.com/smbc_tokyo_solua/"
@@ -118101,7 +118091,7 @@
       "icon": "",
       "name": "Toyota Antelopes",
       "desc": "Nagoja — tím automobilky Toyota a víťaz základnej časti v sezóne 2025/26.",
-      "url": "https://toyotatimes-sports.toyota/teams/antelopes/",
+      "url": "https://antelopes.toyotatimes-sports.toyota/",
       "order": 12,
       "desc_en": "Nagoya — the Toyota team and winner of the 2025/26 regular season.",
       "fb": "https://www.facebook.com/ToyotaAntelopesOfficial/",
@@ -118341,11 +118331,10 @@
       "type": "link",
       "icon": "",
       "name": "Incheon Shinhan Bank S-Birds",
-      "desc": "Inčchon — držiteľ kórejského rekordu šiestich majstrovských titulov v rade z rokov 2007 až 2012.",
-      "url": "https://www.sbirds.com",
+      "desc": "Inčchon — držiteľ kórejského rekordu šiestich majstrovských titulov v rade z rokov 2007 až 2012. Aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/shsbird/",
       "order": 4,
-      "desc_en": "Incheon — holder of the Korean record of six consecutive championship titles between 2007 and 2012.",
-      "ig": "https://www.instagram.com/shsbird/"
+      "desc_en": "Incheon — holder of the Korean record of six consecutive championship titles between 2007 and 2012. The club posts its news on Instagram."
     },
     {
       "id": "f_bas_kor_l2_k6",
@@ -118353,11 +118342,10 @@
       "type": "link",
       "icon": "",
       "name": "Yongin Samsung Life Blueminx",
-      "desc": "Jongin — klub poisťovne Samsung Life s tradíciou od roku 1977, hrá v Yongin Indoor Gymnasium.",
-      "url": "http://www.samsungblueminx.com",
+      "desc": "Jongin — klub poisťovne Samsung Life s tradíciou od roku 1977, hrá v Yongin Indoor Gymnasium. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/goblueminx/",
       "order": 5,
-      "desc_en": "Yongin — the Samsung Life insurance club with a tradition dating back to 1977, playing at the Yongin Indoor Gymnasium.",
-      "fb": "https://www.facebook.com/goblueminx/",
+      "desc_en": "Yongin — the Samsung Life insurance club with a tradition dating back to 1977, playing at the Yongin Indoor Gymnasium. The club posts its news on Facebook.",
       "ig": "https://www.instagram.com/goblueminx/"
     },
     {
@@ -118405,11 +118393,10 @@
       "type": "link",
       "icon": "",
       "name": "Hsinchu Lioneers",
-      "desc": "Okres Sin-ču — jeden zo zakladajúcich klubov ligy PLG, ktorý v roku 2024 prešiel do novej TPBL, hrá v Hsinchu County Stadium.",
-      "url": "https://www.lioneers.tw/",
+      "desc": "Okres Sin-ču — jeden zo zakladajúcich klubov ligy PLG, ktorý v roku 2024 prešiel do novej TPBL, hrá v Hsinchu County Stadium. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/hsinchulioneers/",
       "order": 1,
-      "desc_en": "Hsinchu County — one of the founding clubs of the PLG league that moved to the new TPBL in 2024, playing at the Hsinchu County Stadium.",
-      "fb": "https://www.facebook.com/hsinchulioneers/",
+      "desc_en": "Hsinchu County — one of the founding clubs of the PLG league that moved to the new TPBL in 2024, playing at the Hsinchu County Stadium. The club posts its news on Facebook.",
       "ig": "https://www.instagram.com/hsinchulioneers/"
     },
     {
@@ -118418,11 +118405,10 @@
       "type": "link",
       "icon": "",
       "name": "Kaohsiung Aquas",
-      "desc": "Kao-siung — finalista úvodného ročníka TPBL v roku 2025, hrá v Kaohsiung Arene.",
-      "url": "https://ktown-aquas.com/",
+      "desc": "Kao-siung — finalista úvodného ročníka TPBL v roku 2025, hrá v Kaohsiung Arene. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/ktown.aquas/",
       "order": 2,
-      "desc_en": "Kaohsiung — runners-up in the inaugural TPBL season in 2025, playing at the Kaohsiung Arena.",
-      "fb": "https://www.facebook.com/ktown.aquas/",
+      "desc_en": "Kaohsiung — runners-up in the inaugural TPBL season in 2025, playing at the Kaohsiung Arena. The club posts its news on Facebook.",
       "ig": "https://www.instagram.com/ktown.aquas.official/"
     },
     {
@@ -118431,11 +118417,10 @@
       "type": "link",
       "icon": "",
       "name": "New Taipei CTBC DEA",
-      "desc": "Nové Tchaj-pej — tím finančnej skupiny CTBC, ktorý sa o halu Xinzhuang Gymnasium delí s mestským rivalom Kings.",
-      "url": "https://ctbcdea.com.tw/",
+      "desc": "Nové Tchaj-pej — tím finančnej skupiny CTBC, ktorý sa o halu Xinzhuang Gymnasium delí s mestským rivalom Kings. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/newtaipei.ctbc.dea/",
       "order": 3,
-      "desc_en": "New Taipei — the team of the CTBC financial group, sharing the Xinzhuang Gymnasium with city rivals the Kings.",
-      "fb": "https://www.facebook.com/newtaipei.ctbc.dea/",
+      "desc_en": "New Taipei — the team of the CTBC financial group, sharing the Xinzhuang Gymnasium with city rivals the Kings. The club posts its news on Facebook.",
       "ig": "https://www.instagram.com/newtaipei_ctbc_dea/"
     },
     {
@@ -118470,11 +118455,10 @@
       "type": "link",
       "icon": "",
       "name": "Taoyuan Taiwan Beer Leopards",
-      "desc": "Tchao-jüan — tím národnej pivovarníckej značky Taiwan Beer a jeden zo zakladateľov zaniknutej ligy T1, hrá v Taoyuan Arene.",
-      "url": "https://t-leopards.com/",
+      "desc": "Tchao-jüan — tím národnej pivovarníckej značky Taiwan Beer a jeden zo zakladateľov zaniknutej ligy T1, hrá v Taoyuan Arene. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/taiwanbeerleopards/",
       "order": 6,
-      "desc_en": "Taoyuan — the team of the national Taiwan Beer brewing brand and one of the founders of the defunct T1 League, playing at the Taoyuan Arena.",
-      "fb": "https://www.facebook.com/taiwanbeerleopards/",
+      "desc_en": "Taoyuan — the team of the national Taiwan Beer brewing brand and one of the founders of the defunct T1 League, playing at the Taoyuan Arena. The club posts its news on Facebook.",
       "ig": "https://www.instagram.com/taiwanbeerleopards/"
     },
     {
@@ -118507,10 +118491,10 @@
       "type": "link",
       "icon": "",
       "name": "Taipower",
-      "desc": "Tchaj-pej — tím štátnej energetickej spoločnosti Taipower, ktorý nemá vlastnú webovú prezentáciu.",
-      "url": "https://basketball.asia-basket.com/team/Taiwan-Power/9697?Women=1",
+      "desc": "Tchaj-pej — tím štátnej energetickej spoločnosti Taipower; vlastný web nemá, aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/profile.php?id=61553588653162",
       "order": 2,
-      "desc_en": "Taipei — the team of the state-owned Taipower utility, which has no website of its own."
+      "desc_en": "Taipei — the team of the state-owned Taipower utility; it has no website of its own and posts its news on Facebook."
     },
     {
       "id": "f_bas_tpe_l2_k4",
@@ -118530,11 +118514,10 @@
       "type": "link",
       "icon": "",
       "name": "Bogor Hornbills",
-      "desc": "Cibinong pri Bogore — klub s koreňmi na Borneu, odkiaľ sa presťahoval na Jávu; hrá v hale GOR Laga Tangkas.",
-      "url": "https://www.hornbills.id/",
+      "desc": "Cibinong pri Bogore — klub s koreňmi na Borneu, odkiaľ sa presťahoval na Jávu; hrá v hale GOR Laga Tangkas, aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/hornbills/",
       "order": 0,
-      "desc_en": "Cibinong near Bogor — a club with roots in Borneo, from where it moved to Java; playing at the GOR Laga Tangkas.",
-      "ig": "https://www.instagram.com/hornbills/"
+      "desc_en": "Cibinong near Bogor — a club with roots in Borneo, from where it moved to Java; playing at the GOR Laga Tangkas, it posts its news on Instagram."
     },
     {
       "id": "f_bas_idn_l1_k2",
@@ -118640,18 +118623,6 @@
       "url": "https://www.instagram.com/thesaints.salatiga/",
       "order": 9,
       "desc_en": "Salatiga — nicknamed the Saints, the top flight's only university-owned team (Satya Wacana Christian University)."
-    },
-    {
-      "id": "f_bas_idn_l1_k11",
-      "parentId": "f_bas_idn_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Tangerang Hawks",
-      "desc": "Tangerang — klub založený v roku 2013, medzi elitu sa prebojoval v roku 2022; komunikuje cez Instagram.",
-      "url": "https://www.instagram.com/tangeranghawks/",
-      "order": 10,
-      "desc_en": "Tangerang — founded in 2013, the club reached the elite in 2022; it communicates through Instagram.",
-      "fb": "https://www.facebook.com/tangeranghawks/"
     },
     {
       "id": "f_bas_phl_l1_k1",
@@ -118792,7 +118763,7 @@
       "url": "https://www.facebook.com/titanultragiantrisers/",
       "order": 11,
       "desc_en": "Manila — the league's newest franchise, which took over the NorthPort Batang Pier slot in 2025.",
-      "ig": "https://www.instagram.com/titanultragiantrisers/"
+      "ig": "https://www.instagram.com/titanultraphilippines/"
     },
     {
       "id": "f_bas_phl_l1_k13",
@@ -118835,11 +118806,10 @@
       "type": "link",
       "icon": "",
       "name": "Eagles",
-      "desc": "Hongkong — klub založený v roku 1970, od roku 2019 hrá pod menom Chung Tak Alumni Eagles s heslom „Never give up“.",
-      "url": "https://www.eaglebasketballhk.com",
+      "desc": "Hongkong — klub založený v roku 1970, od roku 2019 hrá pod menom Chung Tak Alumni Eagles s heslom „Never give up“. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/stcaeagle/",
       "order": 2,
-      "desc_en": "Hong Kong — founded in 1970 and playing as the Chung Tak Alumni Eagles since 2019 under the motto \"Never give up\".",
-      "fb": "https://www.facebook.com/stcaeagle/",
+      "desc_en": "Hong Kong — founded in 1970 and playing as the Chung Tak Alumni Eagles since 2019 under the motto \"Never give up\". It posts its news on Facebook.",
       "ig": "https://www.instagram.com/eaglebasketballhk/"
     },
     {
@@ -118919,11 +118889,10 @@
       "type": "link",
       "icon": "",
       "name": "Winling",
-      "desc": "Hongkong — dominantný klub prelomu tisícročia s najdlhšou sériou titulov v histórii A1 ligy.",
-      "url": "https://www.winlingbc.com",
+      "desc": "Hongkong — dominantný klub prelomu tisícročia s najdlhšou sériou titulov v histórii A1 ligy. Aktuality zverejňuje na Facebooku.",
+      "url": "https://www.facebook.com/profile.php?id=100064528459887",
       "order": 9,
-      "desc_en": "Hong Kong — the dominant club around the turn of the millennium, with the longest title run in A1 Division history.",
-      "fb": "https://www.facebook.com/profile.php?id=100064528459887",
+      "desc_en": "Hong Kong — the dominant club around the turn of the millennium, with the longest title run in A1 Division history. It posts its news on Facebook.",
       "ig": "https://www.instagram.com/winlingbc/"
     },
     {
@@ -122643,7 +122612,8 @@
       "desc": "Divánija — klub, ktorému basketbalisti podľa trénerov „vrátili dušu“ mestskému športu.",
       "url": "https://basketball.asia-basket.com/team/Al-Yaqdhah/74356",
       "order": 4,
-      "desc_en": "Diwaniyah — a club whose basketball team is credited with reviving the city's sporting spirit."
+      "desc_en": "Diwaniyah — a club whose basketball team is credited with reviving the city's sporting spirit.",
+      "fb": "https://www.facebook.com/profile.php?id=61588838383909"
     },
     {
       "id": "f_bas_irq_l1_k6",
@@ -122765,10 +122735,10 @@
       "type": "link",
       "icon": "",
       "name": "Mahgol Alborz",
-      "desc": "Karadž — zástupca provincie Alborz v najvyššej basketbalovej súťaži Iránu.",
-      "url": "https://basketball.asia-basket.com/team/Mahgol-Alborz/17876",
+      "desc": "Karadž — zástupca provincie Alborz v najvyššej basketbalovej súťaži Iránu; aktuality zverejňuje na Instagrame.",
+      "url": "https://www.instagram.com/mahgolsportclub/",
       "order": 3,
-      "desc_en": "Karaj — Alborz province's representative in Iran's top basketball competition."
+      "desc_en": "Karaj — Alborz province's representative in Iran's top basketball competition; it posts its news on Instagram."
     },
     {
       "id": "f_bas_irn_l1_k7",
@@ -122776,10 +122746,10 @@
       "type": "link",
       "icon": "",
       "name": "Naft Zagros Jonoubi",
-      "desc": "Gačsarán — klub ropnej a plynárenskej spoločnosti Južný Zagros, jeden z troch iránskych tímov v kvalifikácii Západoázijskej Superligy.",
-      "url": "https://basketball.asia-basket.com/team/Naft-Zagros-Jonoubi/73545",
+      "desc": "Džahrom — tím ropnej a plynárenskej spoločnosti Južný Zagros, jeden z troch iránskych tímov v kvalifikácii Západoázijskej Superligy; aktuality zverejňuje na Instagrame klubu Nakhl Džahrom.",
+      "url": "https://www.instagram.com/basketball.nakhlejahrom/",
       "order": 6,
-      "desc_en": "Gachsaran — a club backed by the South Zagros Oil & Gas company, one of three Iranian teams in West Asia Super League qualification."
+      "desc_en": "Jahrom — a team backed by the South Zagros Oil & Gas company, one of three Iranian teams in West Asia Super League qualification; it posts its news on the Instagram of the Nakhl Jahrom club."
     },
     {
       "id": "f_bas_irn_l1_k8",
@@ -122787,10 +122757,10 @@
       "type": "link",
       "icon": "",
       "name": "Palayesh Naft Abadan",
-      "desc": "Abadán — klub rafinérie ropy, majster Iránu 2018/19, hráva ázijský Champions Cup.",
-      "url": "https://basketball.asia-basket.com/team/Palayesh-Naft-Abadan/20007",
+      "desc": "Abadán — klub rafinérie ropy, majster Iránu 2018/19, hráva ázijský Champions Cup; aktuality zverejňuje na celoklubovom Instagrame.",
+      "url": "https://www.instagram.com/palayesh.naft.abadan/",
       "order": 7,
-      "desc_en": "Abadan — an oil refinery club, Iranian champion in 2018/19, competing in the Asia Champions Cup."
+      "desc_en": "Abadan — an oil refinery club, Iranian champion in 2018/19, competing in the Asia Champions Cup; it posts its news on the club-wide Instagram."
     },
     {
       "id": "f_bas_irn_l1_k9",
@@ -122881,7 +122851,8 @@
       "url": "https://basketball.asia-basket.com/team/Al-Jubaiha/34904",
       "order": 3,
       "desc_en": "Amman — a club from the Al-Jubaiha district, playing at Prince Hamza Hall.",
-      "fb": "https://www.facebook.com/ALJUBIHA/"
+      "fb": "https://www.facebook.com/ALJUBIHA/",
+      "ig": "https://www.instagram.com/aljubeiha.sports.club/"
     },
     {
       "id": "f_bas_jor_l1_k5",
@@ -122951,8 +122922,7 @@
       "desc": "Doha — najpopulárnejší športový klub v Katare, basketbalový tím obhájil titul aj v sezóne 2025/26 (11. v histórii).",
       "url": "https://alarabi.qa/category/basketball-ar/",
       "order": 1,
-      "desc_en": "Doha — Qatar's most popular sports club, whose basketball team defended its title again in the 2025–26 season, its 11th overall.",
-      "ig": "https://www.instagram.com/alarabi.basketball/"
+      "desc_en": "Doha — Qatar's most popular sports club, whose basketball team defended its title again in the 2025–26 season, its 11th overall."
     },
     {
       "id": "f_bas_qat_l1_k3",
@@ -122961,7 +122931,7 @@
       "icon": "",
       "name": "Al Gharafa",
       "desc": "Al Gharrafa — basketbalový oddiel klubu prezývaného „Gepardy“, držiteľ dvoch ligových titulov a troch Emirových pohárov.",
-      "url": "https://www.algharafa.qa/category/basketball/",
+      "url": "https://www.instagram.com/algharafaclub/",
       "order": 2,
       "desc_en": "Al Gharrafa — the basketball section of the club nicknamed \"The Cheetahs,\" winners of two league titles and three Emir Cups."
     },
@@ -122984,7 +122954,7 @@
       "icon": "",
       "name": "Al Rayyan",
       "desc": "Al Rayyan — rekordný majster katarskej basketbalovej ligy s 18 titulmi, prezývaný „Levy“.",
-      "url": "https://alrayyansc.com/category/basketball/",
+      "url": "https://www.instagram.com/alrayyansc/",
       "order": 4,
       "desc_en": "Al Rayyan — the record champion of the Qatari Basketball League with 18 titles, nicknamed \"The Lions.\""
     },
@@ -123006,7 +122976,7 @@
       "icon": "",
       "name": "Al Shamal",
       "desc": "Al Shamal — basketbalový tím získal ligový titul dva razy po sebe, v sezónach 2018/19 a 2019/20.",
-      "url": "https://alshamal.qa/category/basketball/",
+      "url": "https://www.instagram.com/alshamal_club/",
       "order": 6,
       "desc_en": "Al Shamal — the basketball team won back-to-back league titles in the 2018–19 and 2019–20 seasons."
     },
@@ -123040,7 +123010,7 @@
       "name": "Almaty Legion",
       "desc": "Almaty — súkromný klub vzniknutý v roku 2006, hrá v hale Dostyk Aréna, v sezóne 2025/26 obsadil 3. miesto.",
       "url": "https://www.instagram.com/bclegion/",
-      "order": 0,
+      "order": 1,
       "desc_en": "Almaty — a privately owned club founded in 2006, playing at the Dostyk Arena, finishing 3rd in the 2025–26 season.",
       "fb": "https://www.facebook.com/bclegion/"
     },
@@ -123052,7 +123022,7 @@
       "name": "Astana",
       "desc": "Astana — rekordný majster Kazachstanu (12 titulov), v sezóne 2025/26 ovládol základnú časť, no vo finále podľahol Kaspiju Aktau.",
       "url": "https://astanabasket.kz/ru/",
-      "order": 1,
+      "order": 2,
       "desc_en": "Astana — Kazakhstan's record champion with 12 titles, topped the 2025–26 regular season but lost to Kaspiy Aktau in the final.",
       "ig": "https://www.instagram.com/astanabasket/"
     },
@@ -123064,20 +123034,8 @@
       "name": "Barsy Atyrau",
       "desc": "Atyrau — dvojnásobný majster Kazachstanu (2011, 2016), hrá v hale AIROM Aréna.",
       "url": "https://www.instagram.com/bcbarsy/",
-      "order": 2,
-      "desc_en": "Atyrau — a two-time Kazakh champion (2011, 2016), playing at the AIROM Arena."
-    },
-    {
-      "id": "f_bas_kaz_l1_k4",
-      "parentId": "f_bas_kaz_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Caspiy Aktau",
-      "desc": "Aktau — mesto na brehu Kaspického mora, klub získal svoj prvý titul majstra Kazachstanu v sezóne 2025/26.",
-      "url": "https://www.instagram.com/bccaspiy/",
       "order": 3,
-      "desc_en": "Aktau — a city on the shore of the Caspian Sea; the club won its first Kazakh championship title in the 2025–26 season.",
-      "fb": "https://www.facebook.com/bccaspiy/"
+      "desc_en": "Atyrau — a two-time Kazakh champion (2011, 2016), playing at the AIROM Arena."
     },
     {
       "id": "f_bas_kaz_l1_k5",
@@ -123087,7 +123045,7 @@
       "name": "Tobol Kostanay",
       "desc": "Kostanaj — samostatný basketbalový klub mesta (nie totožný s rovnomenným futbalovým klubom), v sezóne 2025/26 skončil na poslednom mieste.",
       "url": "https://www.instagram.com/bctobol/",
-      "order": 4,
+      "order": 5,
       "desc_en": "Kostanay — the city's separate basketball club (distinct from the football club of the same name), finishing bottom of the 2025–26 season.",
       "fb": "https://www.facebook.com/bctobol/"
     },
@@ -123136,7 +123094,7 @@
       "name": "Beirut Club",
       "desc": "Bejrút (Šija) — majster Libanonu z roku 2022 a víťaz Arabského pohára 2023, hrá na štadióne Chiyah.",
       "url": "https://www.facebook.com/beirut.club1/",
-      "order": 3,
+      "order": 4,
       "desc_en": "Beirut (Chiyah) — Lebanese champions in 2022 and winners of the 2023 Arab Championship, playing at the Chiyah Stadium.",
       "ig": "https://www.instagram.com/beirutclub/"
     },
@@ -123148,7 +123106,7 @@
       "name": "Central Club",
       "desc": "Junieh — viacšportový klub známy aj ako Al-Markaziyya, založený 1985 v areáli Collège Central.",
       "url": "https://www.facebook.com/profile.php?id=100027589497187",
-      "order": 4,
+      "order": 5,
       "desc_en": "Jounieh — a multi-sport club also known as Al-Markaziyya, founded in 1985 within the Collège Central campus.",
       "ig": "https://www.instagram.com/clubcentraljounieh/"
     },
@@ -123159,10 +123117,9 @@
       "icon": "",
       "name": "Chabab Batroun",
       "desc": "Batrún — klub zo severného pobrežia, domáce zápasy hrá na štadióne v Zouk Mikael.",
-      "url": "https://www.facebook.com/clubJeunesseSportiveBatroun/",
-      "order": 5,
-      "desc_en": "Batroun — a north-coast club playing its home games at the stadium in Zouk Mikael.",
-      "ig": "https://www.instagram.com/cjs_batroun/"
+      "url": "https://www.instagram.com/cjs_batroun/",
+      "order": 6,
+      "desc_en": "Batroun — a north-coast club playing its home games at the stadium in Zouk Mikael."
     },
     {
       "id": "f_bas_lbn_l1_k7",
@@ -123172,7 +123129,7 @@
       "name": "Homenetmen",
       "desc": "Mezher — arménsky klub s prezývkou „Orange Hell“, libanonský majster z roku 2018.",
       "url": "https://basketball.asia-basket.com/team/Homentmen-Beirut/2682",
-      "order": 6,
+      "order": 7,
       "desc_en": "Mezher — an Armenian club nicknamed \"Orange Hell\", Lebanese champions in 2018.",
       "ig": "https://www.instagram.com/homenetmen.bc/"
     },
@@ -123184,7 +123141,7 @@
       "name": "Hoops Club",
       "desc": "Bejrút (Bir Hasan) — mestský klub založený 2001, hrá v Rockland Aréne.",
       "url": "https://www.facebook.com/HoopsClub/",
-      "order": 7,
+      "order": 8,
       "desc_en": "Beirut (Bir Hasan) — a city club founded in 2001, playing at the Rockland Arena.",
       "ig": "https://www.instagram.com/hoopsclubofficial/"
     },
@@ -123196,7 +123153,7 @@
       "name": "NSA",
       "desc": "Junieh — tím basketbalovej akadémie Nadima Souaida, bývalého kapitána libanonskej reprezentácie.",
       "url": "https://www.instagram.com/nsaclubofficial/",
-      "order": 8,
+      "order": 9,
       "desc_en": "Jounieh — the team of the basketball academy founded by Nadim Souaid, a former captain of the Lebanese national team.",
       "fb": "https://www.facebook.com/NadimSouaidAcademy/"
     },
@@ -123208,21 +123165,9 @@
       "name": "Sagesse",
       "desc": "Bejrút (Ašrafíja) — tradičný súper Al Riyadi v bejrútskom derby, viacnásobný libanonský majster.",
       "url": "https://www.facebook.com/SagesseClubOfcl/",
-      "order": 9,
+      "order": 10,
       "desc_en": "Beirut (Achrafieh) — Al Riyadi's traditional rival in the Beirut derby and a multiple Lebanese champion.",
       "ig": "https://www.instagram.com/sagesseclubofcl/"
-    },
-    {
-      "id": "f_bas_lbn_l1_k11",
-      "parentId": "f_bas_lbn_l1",
-      "type": "link",
-      "icon": "",
-      "name": "Tadamon Hrajel",
-      "desc": "Hrajel — viacšportový klub založený 1966 v hornatej oblasti Kesrwan.",
-      "url": "https://www.facebook.com/cthrajel/",
-      "order": 10,
-      "desc_en": "Hrajel — a multi-sport club founded in 1966 in the mountainous Kesrwan district.",
-      "ig": "https://www.instagram.com/tadamon_hrajel/"
     },
     {
       "id": "f_bas_mys_l1_k1",
@@ -124565,9 +124510,10 @@
       "icon": "",
       "name": "FUS Rabat",
       "desc": "Rabat — rekordér Maroka s 21 ligovými titulmi, aktuálny majster sezóny 2025/26.",
-      "url": "https://www.instagram.com/fusbasketball/",
+      "url": "https://www.facebook.com/fusderabatbasketball/",
       "order": 5,
-      "desc_en": "Rabat — Morocco's record champion with 21 league titles, reigning champion of the 2025/26 season."
+      "desc_en": "Rabat — Morocco's record champion with 21 league titles, reigning champion of the 2025/26 season.",
+      "ig": "https://www.instagram.com/fusbasketball/"
     },
     {
       "id": "f_bas_mar_l1_k8",
@@ -124915,10 +124861,9 @@
       "icon": "",
       "name": "Hypersonics",
       "desc": "Cocody, Abidžan — klub najvyššej ivorijskej súťaže.",
-      "url": "https://basketball.afrobasket.com/team/Hypersonics/71462",
+      "url": "https://www.instagram.com/hypersonics_/",
       "order": 7,
-      "desc_en": "Cocody, Abidjan — a club of Ivory Coast's top division.",
-      "ig": "https://www.instagram.com/hypersonics_/"
+      "desc_en": "Cocody, Abidjan — a club of Ivory Coast's top division."
     },
     {
       "id": "f_bas_civ_l1_k9",
@@ -124928,20 +124873,9 @@
       "name": "JCA Kings",
       "desc": "Abidžan — víťaz Superpohára 2024 aj národného pohára z roku 2023 (predtým Jeunesse Club d'Abidjan).",
       "url": "https://www.facebook.com/jca.kingss/",
-      "order": 8,
+      "order": 9,
       "desc_en": "Abidjan — winner of the 2024 Super Cup and the 2023 national cup (formerly Jeunesse Club d'Abidjan).",
       "ig": "https://www.instagram.com/jca.kings/"
-    },
-    {
-      "id": "f_bas_civ_l1_k10",
-      "parentId": "f_bas_civ_l1",
-      "type": "link",
-      "icon": "",
-      "name": "ROBC",
-      "desc": "Abidžan — klub najvyššej ivorijskej súťaže; v sezóne 2024 skončil v Ligue d'Or ôsmy s bilanciou 10 výhier a 11 prehier.",
-      "url": "https://basketball.afrobasket.com/team/ROBC/54559",
-      "order": 9,
-      "desc_en": "Abidjan — a club of Ivory Coast's top division; finished 8th in the 2024 Ligue d'Or with a 10–11 record."
     },
     {
       "id": "f_bas_civ_l1_k11",
@@ -124983,11 +124917,10 @@
       "icon": "",
       "name": "Azomco",
       "desc": "Kigali — mladá basketbalová akadémia, ktorá si postup do najvyššej ligy vybojovala v roku 2024.",
-      "url": "https://azomcoglobal.com",
+      "url": "https://www.instagram.com/azomcoglobal/",
       "order": 1,
       "desc_en": "Kigali — a young basketball academy that earned promotion to the top division in 2024.",
-      "fb": "https://www.facebook.com/azomcoglobal/",
-      "ig": "https://www.instagram.com/azomcoglobal/"
+      "fb": "https://www.facebook.com/azomcoglobal/"
     },
     {
       "id": "f_bas_rwa_l1_k3",
@@ -125007,7 +124940,7 @@
       "icon": "",
       "name": "Kepler",
       "desc": "Kigali — klub neziskovej vzdelávacej organizácie Kepler, v najvyššej lige hráva od roku 2024.",
-      "url": "https://basketball.afrobasket.com/team/Kepler-BBC-Kigali/70191",
+      "url": "https://www.instagram.com/kepler_sports/",
       "order": 3,
       "desc_en": "Kigali — the club of the nonprofit education organisation Kepler, playing in the top league since 2024."
     },
@@ -125064,7 +124997,7 @@
       "icon": "",
       "name": "ABAZ",
       "desc": "Senegal — klub, ktorý si postup do najvyššej súťaže Nationale 1 vybojoval v roku 2025.",
-      "url": "https://basketball.afrobasket.com/team/ABAZ/72509",
+      "url": "https://www.instagram.com/zacmbaobasketclub/",
       "order": 0,
       "desc_en": "Senegal — a club that earned promotion to the top-flight Nationale 1 in 2025."
     },
@@ -125097,11 +125030,10 @@
       "icon": "",
       "name": "ASC Ville de Dakar",
       "desc": "Dakar — klub založený v roku 1980, hráva na štadióne Marius Ndiaye a pravidelne štartuje v Basketball Africa League.",
-      "url": "https://ascvdbasketball.com",
+      "url": "https://www.instagram.com/villededakar_basket/",
       "order": 3,
       "desc_en": "Dakar — a club founded in 1980, playing at the Stadium Marius Ndiaye and a regular participant in the Basketball Africa League.",
-      "fb": "https://www.facebook.com/ascvdbasket/",
-      "ig": "https://www.instagram.com/villededakar_basket/"
+      "fb": "https://www.facebook.com/ascvdbasket/"
     },
     {
       "id": "f_bas_sen_l1_k5",
@@ -125110,10 +125042,9 @@
       "icon": "",
       "name": "ASCC Bopp",
       "desc": "Dakar (Bopp) — klub založený v roku 1960, štyrikrát majster Senegalu.",
-      "url": "https://basketball.afrobasket.com/team/ASCC-BOPP/5157",
+      "url": "https://www.instagram.com/bopp_basket_officiel/",
       "order": 4,
-      "desc_en": "Dakar (Bopp) — a club founded in 1960, four-time Senegalese champion.",
-      "ig": "https://www.instagram.com/bopp_basket_officiel/"
+      "desc_en": "Dakar (Bopp) — a club founded in 1960, four-time Senegalese champion."
     },
     {
       "id": "f_bas_sen_l1_k6",
@@ -125193,7 +125124,8 @@
       "desc": "Saint-Louis — basketbalový oddiel Univerzity Gastona Bergera, majster Senegalu z roku 2012.",
       "url": "https://basketball.afrobasket.com/team/UGB-Saint-Louis/9336",
       "order": 11,
-      "desc_en": "Saint-Louis — the basketball section of Gaston Berger University, 2012 Senegalese champions."
+      "desc_en": "Saint-Louis — the basketball section of Gaston Berger University, 2012 Senegalese champions.",
+      "ig": "https://www.instagram.com/ugbbasket/"
     },
     {
       "id": "f_bas_sen_l1_k13",
@@ -125202,11 +125134,10 @@
       "icon": "",
       "name": "US Louga BC",
       "desc": "Louga — klub vzniknutý v roku 2007 zlúčením dvoch miestnych tímov, v roku 2016 získal ako prvý tím z regiónu Louga národný pohár.",
-      "url": "https://basketball.afrobasket.com/team/US-Louga-BC/9335",
+      "url": "https://www.instagram.com/louga_basket_club/",
       "order": 12,
       "desc_en": "Louga — formed in 2007 by the merger of two local teams, the first side from the Louga region to win a national trophy, in 2016.",
-      "fb": "https://www.facebook.com/profile.php?id=100083320413744",
-      "ig": "https://www.instagram.com/louga_basket_club/"
+      "fb": "https://www.facebook.com/profile.php?id=100083320413744"
     },
     {
       "id": "f_bas_sen_l1_k14",
@@ -125226,7 +125157,7 @@
       "icon": "",
       "name": "US Rail Thiès",
       "desc": "Thiès — basketbalový oddiel klubu železničiarov, hráva na štadióne Maniang Soumaré.",
-      "url": "https://basketball.afrobasket.com/team/US-Rail-Thies/5180",
+      "url": "https://www.instagram.com/usrail_basketball/",
       "order": 14,
       "desc_en": "Thiès — the basketball section of the railway workers' club, playing at the Stade Maniang Soumaré."
     },
@@ -125282,10 +125213,9 @@
       "icon": "",
       "name": "ES Radès",
       "desc": "Radès — trinásťnásobný tuniský majster, v 60. a 70. rokoch bašta tuniského basketbalu.",
-      "url": "https://www.facebook.com/esrofficielle/",
+      "url": "https://www.instagram.com/esrofficielle/",
       "order": 5,
-      "desc_en": "Radès — thirteen-time Tunisian champion, a stronghold of Tunisian basketball in the 1960s and 70s.",
-      "ig": "https://www.instagram.com/esrofficielle/"
+      "desc_en": "Radès — thirteen-time Tunisian champion, a stronghold of Tunisian basketball in the 1960s and 70s."
     },
     {
       "id": "f_bas_tun_l1_k7",
@@ -197745,8 +197675,8 @@
       "icon": "id",
       "name": "IBL",
       "name_en": "IBL",
-      "desc": "Indonézska basketbalová liga IBL (Indonesian Basketball League) — najvyššia mužská liga, v sezóne 2026 11 tímov vrátane Satria Muda Bandung, Pelita Jaya Jakarta, Bogor Hornbills a Hangtuah Jakarta, plus tabuľka.",
-      "desc_en": "Indonesian Basketball League (IBL) — Indonesia's top men's league, contested by 11 teams in 2026, including Satria Muda Bandung, Pelita Jaya Jakarta, Bogor Hornbills and Hangtuah Jakarta, plus the standings.",
+      "desc": "Indonézska basketbalová liga IBL (Indonesian Basketball League) — najvyššia mužská liga, pred sezónou 2027 má 10 tímov vrátane Satria Muda Bandung, Pelita Jaya Jakarta, Bogor Hornbills a Hangtuah Jakarta, plus tabuľka.",
+      "desc_en": "Indonesian Basketball League (IBL) — Indonesia's top men's league, with 10 teams ahead of the 2027 season, including Satria Muda Bandung, Pelita Jaya Jakarta, Bogor Hornbills and Hangtuah Jakarta, plus the standings.",
       "order": 0,
       "slug": "ibl",
       "slug_en": "ibl"
@@ -197967,8 +197897,8 @@
       "icon": "kz",
       "name": "National League",
       "name_en": "National League",
-      "desc": "Najvyššia kazašská mužská liga; v sezóne 2025/26 hralo 5 tímov a titul získal Caspiy Aktau po finále s Astanou.",
-      "desc_en": "Kazakhstan's top men's league; 5 teams played the 2025–26 season and Caspiy Aktau won the title after a final against Astana.",
+      "desc": "Najvyššia kazašská mužská liga; sezónu 2026/27 hrá 6 tímov vrátane nováčika Aktobe AiRom. Titul 2025/26 získal Caspiy Aktau po finále s Astanou.",
+      "desc_en": "Kazakhstan's top men's league; 6 teams play the 2026–27 season, including newcomers Aktobe AiRom. Caspiy Aktau won the 2025–26 title after a final against Astana.",
       "order": 0,
       "slug": "national-league",
       "slug_en": "national-league"
@@ -197992,8 +197922,8 @@
       "icon": "lb",
       "name": "LBL",
       "name_en": "LBL",
-      "desc": "Najvyššia libanonská mužská liga (Lebanese Basketball League); v sezóne 2025/26 hralo 12 tímov a titul získal Al Riyadi. Medzi ďalšie kluby patria Homenetmen, Antranik, Beirut Club a Antonine.",
-      "desc_en": "Lebanon's top men's league (Lebanese Basketball League); 12 teams played the 2025–26 season and Al Riyadi won the title. Other clubs include Homenetmen, Antranik, Beirut Club and Antonine.",
+      "desc": "Najvyššia libanonská mužská liga (Lebanese Basketball League); sezónu 2026/27 hrá 11 tímov, titul 2025/26 získal Al Riyadi. Medzi ďalšie kluby patria Homenetmen, Antranik, Beirut Club a Antonine.",
+      "desc_en": "Lebanon's top men's league (Lebanese Basketball League); 11 teams play the 2026–27 season and Al Riyadi won the 2025–26 title. Other clubs include Homenetmen, Antranik, Beirut Club and Antonine.",
       "order": 0,
       "slug": "lbl",
       "slug_en": "lbl"
@@ -207198,6 +207128,1559 @@
       "url": "https://www.vakatv.com/rugby-netball-soccer/",
       "order": 1,
       "desc_en": "Local Rarotonga sport on Vaka TV – CIFA football clubs, rugby league and premier netball, with live streams on YouTube. Vaka TV has been on air since 2010."
+    },
+    {
+      "id": "n1794521710218raq",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "TSN",
+      "desc": "Kanadská športová televízia TSN prináša správy z NHL, NFL, CFL, MLB, NBA a F1; hokejové insiderské správy o prestupoch, analýzy, videá a výsledky.",
+      "url": "https://www.tsn.ca/",
+      "order": 0,
+      "desc_en": "Canadian sports network TSN delivers news from the NHL, NFL, CFL, MLB, NBA and F1; hockey insider trade reports, analysis, videos and scores."
+    },
+    {
+      "id": "n1794521710219kpm",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Sportsnet",
+      "desc": "Kanadská športová sieť Sportsnet: komentáre a správy k NHL klubom ako Canucks, Oilers či Maple Leafs, ďalej Blue Jays v MLB, NBA a UFC; analýzy, rozhovory a videá.",
+      "url": "https://www.sportsnet.ca/",
+      "order": 1,
+      "desc_en": "Canada's Sportsnet: news and columns on NHL clubs such as the Canucks, Oilers and Maple Leafs, plus the Blue Jays in MLB, the NBA and UFC; analysis, interviews and videos."
+    },
+    {
+      "id": "n1794521710220oow",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "RDS",
+      "desc": "Francúzskojazyčná športová TV z Québecu: Canadiens a NHL na čele, ďalej NFL, NBA, CFL a F1; správy, rozbory a videá z tlačoviek.",
+      "url": "https://www.rds.ca/",
+      "order": 2,
+      "desc_en": "French-language sports channel from Quebec: the Canadiens and the NHL first, then the NFL, NBA, CFL and F1; news, breakdowns and press-conference videos."
+    },
+    {
+      "id": "n1794521710221y2v",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "TVA Sports",
+      "desc": "Québecká športová stanica po francúzsky sleduje Canadiens, Rocket de Laval a NHL, ďalej MLB, NFL, UFC, box a Alouettes z CFL; správy, rozhovory a komentáre expertov.",
+      "url": "https://www.tvasports.ca/",
+      "order": 3,
+      "desc_en": "Quebec sports channel in French following the Canadiens, the Laval Rocket and the NHL, plus MLB, the NFL, UFC, boxing and the CFL's Alouettes; news, interviews and expert columns."
+    },
+    {
+      "id": "n1794521710222f20",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Yahoo Sports Canada",
+      "desc": "Kanadská verzia Yahoo Sports so správami agentúry The Canadian Press: NHL, NBA, MLB, CFL, futbal, F1, tenis a golf; výsledky, rozpisy a prehľady zápasov.",
+      "url": "https://ca.sports.yahoo.com/",
+      "order": 4,
+      "desc_en": "Canadian edition of Yahoo Sports with stories from The Canadian Press: the NHL, NBA, MLB, CFL, soccer, F1, tennis and golf; scores, schedules and game recaps."
+    },
+    {
+      "id": "n1794521710223rb6",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "The Globe and Mail sports",
+      "desc": "Športová rubrika celoštátneho denníka z Toronta: hokej, bejzbal, basketbal, futbal, kanadský futbal, golf a tenis; komentáre a agentúrne správy, väčšina článkov zadarmo.",
+      "url": "https://www.theglobeandmail.com/sports/",
+      "order": 5,
+      "desc_en": "Sports section of the Toronto-based national daily: hockey, baseball, basketball, soccer, football, golf and tennis; columns and wire stories, most articles free to read."
+    },
+    {
+      "id": "n1794521710224d9j",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Toronto Star sports",
+      "desc": "Torontský denník Toronto Star píše o Maple Leafs, Raptors, Blue Jays, ženskej hokejovej PWHL, CFL, futbale a tenise; komentáre, analýzy a reportáže.",
+      "url": "https://www.thestar.com/sports/",
+      "order": 6,
+      "desc_en": "Toronto daily the Star covers the Maple Leafs, Raptors, Blue Jays, the women's PWHL, the CFL, soccer and tennis; columns, analysis and features."
+    },
+    {
+      "id": "n1794521710225xha",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Toronto Sun sports",
+      "desc": "Bulvárny denník z Toronta s veľkou športovou rubrikou: Maple Leafs, Raptors, Blue Jays, CFL, MMA, golf a futbal; komentáre, správy a videá.",
+      "url": "https://torontosun.com/category/sports/",
+      "order": 7,
+      "desc_en": "Toronto tabloid with a big sports section: the Maple Leafs, Raptors, Blue Jays, the CFL, MMA, golf and soccer; columns, news and videos."
+    },
+    {
+      "id": "n1794521710226r48",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "La Presse sports",
+      "desc": "Montrealský denník La Presse po francúzsky: Canadiens a hokej, kanadský futbal, futbal, tenis, golf, automobilové preteky a bojové športy; reportáže a komentáre zadarmo.",
+      "url": "https://www.lapresse.ca/sports/",
+      "order": 8,
+      "desc_en": "Montreal daily La Presse in French: the Canadiens and hockey, football, soccer, tennis, golf, motor racing and combat sports; reports and columns, free to read."
+    },
+    {
+      "id": "n1794521710227zy8",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Journal de Montréal sports",
+      "desc": "Québecký denník po francúzsky: Canadiens, NHL, CF Montréal, Alouettes, bojové športy, bejzbal a golf, aj rubrika lov a rybolov; rýchle správy a komentáre.",
+      "url": "https://www.journaldemontreal.com/sports",
+      "order": 9,
+      "desc_en": "Quebec daily in French: the Canadiens, the NHL, CF Montréal, the Alouettes, combat sports, baseball and golf, plus a hunting and fishing section; quick news and columns."
+    },
+    {
+      "id": "n1794521710228bsh",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Le Devoir sports",
+      "desc": "Montrealský denník Le Devoir prináša po francúzsky stručné športové správy, najmä agentúrne: hokej a Canadiens, tenis, F1, futbal a kanadskí športovci vo svete.",
+      "url": "https://www.ledevoir.com/sports",
+      "order": 10,
+      "desc_en": "Montreal daily Le Devoir offers short sports news in French, mostly wire stories: hockey and the Canadiens, tennis, F1, soccer and Canadian athletes abroad."
+    },
+    {
+      "id": "n17945217102298nl",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "CBC Sports",
+      "desc": "Kanadská verejnoprávna CBC: správy o kanadských športovcoch, olympijských športoch, krasokorčuľovaní, ženskom hokeji PWHL, NHL, tenise a bejzbale; reportáže a videá.",
+      "url": "https://www.cbc.ca/sports",
+      "order": 11,
+      "desc_en": "Canada's public broadcaster CBC: news on Canadian athletes, Olympic sports, figure skating, the women's PWHL, the NHL, tennis and baseball; features and videos."
+    },
+    {
+      "id": "n1794521710230d9e",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Radio-Canada Sports",
+      "desc": "Francúzskojazyčná verejnoprávna Radio-Canada: hokej, Alouettes a kanadský futbal, olympijské športy a univerzitný šport U Sports; správy, reportáže a prenosy.",
+      "url": "https://ici.radio-canada.ca/sports",
+      "order": 12,
+      "desc_en": "French-language public broadcaster Radio-Canada: hockey, the Alouettes and football, Olympic sports and U Sports university athletics; news, features and broadcasts."
+    },
+    {
+      "id": "n1794521710231ebt",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "CTV News sports",
+      "desc": "Celokanadská spravodajská TV CTV News: športové správy z NHL, MLB, NBA, MLS, NFL, futbalu a golfu, prevažne od agentúr The Canadian Press a AP.",
+      "url": "https://www.ctvnews.ca/sports/",
+      "order": 13,
+      "desc_en": "Canada-wide CTV News: sports news from the NHL, MLB, NBA, MLS, NFL, soccer and golf, mostly from The Canadian Press and AP."
+    },
+    {
+      "id": "n179452171023288n",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Global News sports",
+      "desc": "Kanadská televízia Global News: športové správy o hokeji v NHL, Blue Jays, Raptors, CFL a golfe aj o športovej politike a kanadských podujatiach; články a videá.",
+      "url": "https://globalnews.ca/sports/",
+      "order": 14,
+      "desc_en": "Canadian broadcaster Global News: sports news on NHL hockey, the Blue Jays, Raptors, the CFL and golf, plus sports politics and Canadian events; articles and videos."
+    },
+    {
+      "id": "n179452171023386y",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "The Province sports",
+      "desc": "Vancouverský denník z Britskej Kolumbie: Canucks a ich mládež, juniorský hokej Vancouver Giants, Whitecaps a BC Lions; komentáre, analýzy a správy.",
+      "url": "https://theprovince.com/category/sports/",
+      "order": 15,
+      "desc_en": "Vancouver daily from British Columbia: the Canucks and their prospects, junior hockey's Vancouver Giants, the Whitecaps and the BC Lions; columns, analysis and news."
+    },
+    {
+      "id": "n1794521710234d8d",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Edmonton Journal sports",
+      "desc": "Denník z Edmontonu v Alberte: Oilers na čele, ďalej Elks z CFL a miestny šport; správy, komentáre a fotogalérie zo zápasov.",
+      "url": "https://edmontonjournal.com/category/sports/",
+      "order": 16,
+      "desc_en": "Daily from Edmonton, Alberta: the Oilers first, then the CFL's Elks and local sport; news, columns and game photo galleries."
+    },
+    {
+      "id": "n1794521710235855",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Winnipeg Free Press sports",
+      "desc": "Denník z Manitoby: Winnipeg Jets, Blue Bombers z CFL, curling a miestny šport, k tomu agentúrne správy z NHL, NFL a futbalu; merané predplatné.",
+      "url": "https://www.winnipegfreepress.com/sports",
+      "order": 17,
+      "desc_en": "Manitoba daily: the Winnipeg Jets, the CFL's Blue Bombers, curling and local sport, plus wire news from the NHL, NFL and soccer; metered paywall."
+    },
+    {
+      "id": "n1794521710236vls",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Ottawa Citizen sports",
+      "desc": "Denník z hlavného mesta Ottawa (Ontário): Senators na čele, ženský hokej Ottawa Charge v PWHL, Redblacks z CFL a miestny šport; správy, komentáre a analýzy.",
+      "url": "https://ottawacitizen.com/category/sports/",
+      "order": 18,
+      "desc_en": "Daily from the capital Ottawa, Ontario: the Senators first, the PWHL's Ottawa Charge, the CFL's Redblacks and local sport; news, columns and analysis."
+    },
+    {
+      "id": "n17945217102373ft",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "Montreal Gazette sports",
+      "desc": "Anglický denník z Montrealu (Québec): Canadiens a Laval Rocket, CF Montréal a ženský hokej Montréal Victoire; správy, komentáre a analýzy pre anglicky hovoriacich fanúšikov.",
+      "url": "https://montrealgazette.com/category/sports/",
+      "order": 19,
+      "desc_en": "English-language daily from Montreal, Quebec: the Canadiens and the Laval Rocket, CF Montréal and the PWHL's Montréal Victoire; news, columns and analysis for English-speaking fans."
+    },
+    {
+      "id": "n1794521710238ctg",
+      "parentId": "f_med_na_ca",
+      "type": "link",
+      "icon": "",
+      "name": "SaltWire sports",
+      "desc": "Regionálny portál Atlantickej Kanady (Nové Škótsko, Ostrov princa Eduarda, Newfoundland): juniorský hokej QMJHL, Cape Breton Eagles, miestne kluby a školský šport.",
+      "url": "https://www.saltwire.com/category/sports/",
+      "order": 20,
+      "desc_en": "Regional news site for Atlantic Canada (Nova Scotia, PEI, Newfoundland): QMJHL junior hockey, the Cape Breton Eagles, local clubs and school sport."
+    },
+    {
+      "id": "n1794525357757hvi",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "ESTO",
+      "desc": "Mexický športový denník: Liga MX, Liga de Expansión, ženská liga a reprezentácia, k tomu box, lucha libre, olympijské športy, beisbal, NFL a F1. Vydáva ho skupina OEM.",
+      "url": "https://oem.com.mx/esto/",
+      "order": 0,
+      "desc_en": "Mexican sports daily covering Liga MX, Liga de Expansión, the women's league and El Tri, plus boxing, lucha libre, Olympic sports, baseball, NFL and F1. Published by the OEM group."
+    },
+    {
+      "id": "n1794525357758bkh",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Mediotiempo",
+      "desc": "Športový portál z Mexika so správami z Liga MX a mexickej reprezentácie, s programom zápasov, prenosmi naživo, európskym futbalom, NBA aj NFL. Patrí do skupiny Milenio.",
+      "url": "https://www.mediotiempo.com/",
+      "order": 1,
+      "desc_en": "Mexican sports portal with Liga MX and national team news, match schedules, live coverage, European football, NBA and NFL. Part of Grupo Milenio."
+    },
+    {
+      "id": "n1794525357759xqb",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Marca México",
+      "desc": "Mexické vydanie španielskeho denníka Marca: Liga MX s rubrikami všetkých klubov, reprezentácia, box s Canelom, F1 s Checom Pérezom, NFL a ďalšie športy.",
+      "url": "https://www.marca.com/mx/",
+      "order": 2,
+      "desc_en": "Mexican edition of Spanish sports daily Marca: Liga MX with sections for every club, El Tri, boxing with Canelo, F1 with Checo Pérez, NFL and other sports."
+    },
+    {
+      "id": "n1794525357760orz",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Soy Fútbol",
+      "desc": "Futbalový web zameraný na Mexiko: novinky z Liga MX, kluby América, Chivas a Cruz Azul, mexická reprezentácia, prestupy a výsledky európskeho futbalu.",
+      "url": "https://www.soyfutbol.com/",
+      "order": 3,
+      "desc_en": "Football site focused on Mexico: Liga MX news, América, Chivas and Cruz Azul, the Mexican national team, transfers and European football results."
+    },
+    {
+      "id": "n1794525357761mxl",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Claro Sports",
+      "desc": "Mexický športový web, kde má každý klub Liga MX svoju sekciu, s Liga de Expansión, ženským futbalom, reprezentáciou a prestupmi, ale aj s F1, NFL, NBA a olympijskými športmi.",
+      "url": "https://www.clarosports.com/",
+      "order": 4,
+      "desc_en": "Mexican sports site with a section for every Liga MX club, Liga de Expansión, women's football, El Tri and transfers, plus F1, NFL, NBA and Olympic sports."
+    },
+    {
+      "id": "n1794525357762lrn",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Bolavip México",
+      "desc": "Mexická verzia portálu Bolavip: Liga MX a tabuľka, kluby América, Chivas, Cruz Azul a Pumas, reprezentácia, box, UFC, F1 a európske ligy.",
+      "url": "https://bolavip.com/mx",
+      "order": 5,
+      "desc_en": "Mexican edition of Bolavip: Liga MX news and standings, América, Chivas, Cruz Azul and Pumas, El Tri, boxing, UFC, F1 and the European leagues."
+    },
+    {
+      "id": "n1794525357763mxx",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Sporting News México",
+      "desc": "Mexické vydanie Sporting News: Liga MX, Concachampions, reprezentácia pred MS 2026, ale aj NFL, NBA, MLB, box, UFC a F1, s výsledkami a programom.",
+      "url": "https://www.sportingnews.com/mx",
+      "order": 6,
+      "desc_en": "Mexican edition of The Sporting News: Liga MX, Concachampions, El Tri and the 2026 World Cup, plus NFL, NBA, MLB, boxing, UFC and F1, with scores and schedules."
+    },
+    {
+      "id": "n1794525357764nan",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "ESPN México",
+      "desc": "Mexická stránka ESPN: Liga MX a reprezentácia, NFL, MLB, NBA, box, F1, tenis, lucha libre aj univerzitný šport, s výsledkami a videami.",
+      "url": "https://www.espn.com.mx/",
+      "order": 7,
+      "desc_en": "ESPN's Mexican site: Liga MX and El Tri, NFL, MLB, NBA, boxing, F1, tennis, lucha libre and college sports, with scores and videos."
+    },
+    {
+      "id": "n1794525357765xig",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "La Afición",
+      "desc": "Športové správy denníka Milenio pod značkou La Afición: mexická Liga MX, americký futbal, F1, basketbal, tenis, box a beisbal vrátane ligy LMB a klubu Sultanes.",
+      "url": "https://www.milenio.com/deportes",
+      "order": 8,
+      "desc_en": "Milenio's sports news under the La Afición brand: Mexico's Liga MX, American football, F1, basketball, tennis, boxing and baseball including the LMB and the Sultanes."
+    },
+    {
+      "id": "n1794525357766qno",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "La Jornada deportes",
+      "desc": "Šport v mexickom denníku La Jornada: Liga MX a ženská liga, reprezentácia, mexickí olympionici, box, beisbal MLB, NFL a zahraničný futbal.",
+      "url": "https://www.jornada.com.mx/categoria/deportes",
+      "order": 9,
+      "desc_en": "Sports from Mexican daily La Jornada: Liga MX and the women's league, El Tri, Mexican Olympic athletes, boxing, MLB baseball, NFL and international football."
+    },
+    {
+      "id": "n1794525357767ngi",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Crónica deportes",
+      "desc": "Športová rubrika denníka La Crónica de Hoy z Mexiko City: futbal, ženská liga, univerzitný americký futbal, golf, šach a mexickí športovci na olympijských podujatiach.",
+      "url": "https://www.cronica.com.mx/deportes/",
+      "order": 10,
+      "desc_en": "Sports section of Mexico City daily La Crónica de Hoy: football, the women's league, college American football, golf, chess and Mexican athletes at Olympic events."
+    },
+    {
+      "id": "n1794525357768upf",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Heraldo Deportes",
+      "desc": "Športová časť mexického denníka El Heraldo de México: futbal, NFL, box, automobilizmus, lucha libre a beisbal, k tomu rozhovory a relácia Los Profesionales del Deporte.",
+      "url": "https://heraldodemexico.com.mx/deportes/",
+      "order": 11,
+      "desc_en": "Sports section of Mexico's El Heraldo de México: football, NFL, boxing, motorsport, lucha libre and baseball, plus interviews and the Los Profesionales del Deporte show."
+    },
+    {
+      "id": "n1794525357769ywq",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "La Razón deportes",
+      "desc": "Mexický denník La Razón v športe: Liga MX a reprezentácia, mexickí cyklisti v Európe, mládežnícky futbal, NFL, NBA a európske kluby.",
+      "url": "https://www.razon.com.mx/deportes/",
+      "order": 12,
+      "desc_en": "Mexican daily La Razón on sport: Liga MX and El Tri, Mexican cyclists in Europe, youth football, NFL, NBA and the European clubs."
+    },
+    {
+      "id": "n1794525357770sib",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "El Economista deportes",
+      "desc": "Šport v ekonomickom denníku El Economista: ženská Liga MX, Mexiko na olympijských hrách mládeže, MS 2026, tenis, NFL a aj obchodná stránka športu.",
+      "url": "https://www.eleconomista.com.mx/seccion/deportes",
+      "order": 13,
+      "desc_en": "Sport in business daily El Economista: the Liga MX women's league, Mexico at the Youth Olympic Games, the 2026 World Cup, tennis, NFL and the business side of sport."
+    },
+    {
+      "id": "n1794525357771llx",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Proceso deportes",
+      "desc": "Športové správy mexického týždenníka Proceso: mexickí športovci na olympijských podujatiach, FIFA a MS žien 2031, F1, beisbal a súdne či spoločenské témy okolo športu.",
+      "url": "https://www.proceso.com.mx/deportes",
+      "order": 14,
+      "desc_en": "Sports news from Mexican weekly Proceso: Mexican athletes at Olympic events, FIFA and the 2031 Women's World Cup, F1, baseball and legal or social issues around sport."
+    },
+    {
+      "id": "n1794525357772dfr",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Ovaciones deportes",
+      "desc": "Mexický denník Ovaciones so športovou sekciou: Liga MX a ženská liga, reprezentácia, americký futbal, basketbal, beisbal, box, lucha libre, tenis aj býčie zápasy.",
+      "url": "https://ovaciones.com/deportes/",
+      "order": 15,
+      "desc_en": "Mexican daily Ovaciones' sports section: Liga MX and the women's league, El Tri, American football, basketball, baseball, boxing, lucha libre, tennis and bullfighting."
+    },
+    {
+      "id": "n1794525357773oii",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "SDP Noticias deportes",
+      "desc": "Športové správy mexického portálu SDP Noticias: Liga MX a ženská liga, Toros Edomex v lige amerického futbalu LFA, NFL s programom prenosov a európsky futbal.",
+      "url": "https://www.sdpnoticias.com/deportes/",
+      "order": 16,
+      "desc_en": "Sports news from Mexican portal SDP Noticias: Liga MX and the women's league, Toros Edomex in the LFA American football league, NFL viewing guides and European football."
+    },
+    {
+      "id": "n1794525357774mzt",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Infobae México deportes",
+      "desc": "Mexická športová sekcia portálu Infobae: Canelo Álvarez a box, Liga MX a reprezentácia, Checo Pérez v F1, lucha libre a mexickí futbalisti v Európe.",
+      "url": "https://www.infobae.com/mexico/deportes/",
+      "order": 17,
+      "desc_en": "Infobae's Mexico sports section: Canelo Álvarez and boxing, Liga MX and El Tri, Checo Pérez in F1, lucha libre and Mexican footballers in Europe."
+    },
+    {
+      "id": "n1794525357775lis",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "TUDN",
+      "desc": "Športový kanál skupiny TelevisaUnivision pre Mexiko: Liga MX, reprezentácia, góly a zostrihy, box, F1, NFL, MLB, NBA, tenis a lucha libre.",
+      "url": "https://www.tudn.com/",
+      "order": 18,
+      "desc_en": "TelevisaUnivision's sports channel for Mexico: Liga MX, El Tri, goals and highlights, boxing, F1, NFL, MLB, NBA, tennis and lucha libre."
+    },
+    {
+      "id": "n1794525357776lsn",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Azteca Deportes",
+      "desc": "Športové správy mexickej televízie TV Azteca: Liga MX, reprezentácia, box, automobilizmus a Formula E, WWE, beisbal aj NFL, s prenosmi naživo.",
+      "url": "https://www.tvazteca.com/aztecadeportes/",
+      "order": 19,
+      "desc_en": "Sports news from Mexican broadcaster TV Azteca: Liga MX, El Tri, boxing, motorsport and Formula E, WWE, baseball and NFL, with live streams."
+    },
+    {
+      "id": "n1794525357777lrc",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "N+ deportes",
+      "desc": "Športové správy mexického spravodajského portálu N+: Liga MX a ženská liga, reprezentácia v Nations League, európske kluby aj menšie športy ako pozemný hokej či freediving.",
+      "url": "https://www.nmas.com.mx/deportes/",
+      "order": 20,
+      "desc_en": "Sports news from Mexican news outlet N+: Liga MX and the women's league, El Tri in the Nations League, European clubs and smaller sports such as field hockey and freediving."
+    },
+    {
+      "id": "n1794525357778fzy",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "W Radio deportes",
+      "desc": "Športové správy mexického rádia W Radio: zostavy a výsledky reprezentácie, Liga MX, Mexičania v zahraničí, lucha libre z Arena México a F1.",
+      "url": "https://wradio.com.mx/deportes/",
+      "order": 21,
+      "desc_en": "Sports news from Mexico's W Radio: El Tri line-ups and results, Liga MX, Mexicans abroad, lucha libre from Arena México and F1."
+    },
+    {
+      "id": "n1794525357779ifu",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "El Sol de Toluca deportes",
+      "desc": "Regionálny šport zo štátu México: Toluca a jej ženský tím, Toros Edomex v LFA, bežecké preteky a triatlon v Toluce a Metepecu, boxeri a olympionici z regiónu.",
+      "url": "https://oem.com.mx/elsoldetoluca/deportes/",
+      "order": 22,
+      "desc_en": "Regional sport from the State of Mexico: Toluca and its women's team, Toros Edomex in the LFA, running races and triathlon in Toluca and Metepec, local boxers and Olympians."
+    },
+    {
+      "id": "n1794525357780tgs",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Diario de Xalapa deportes",
+      "desc": "Šport z Xalapy a štátu Veracruz: Piratas de Veracruz v Liga de Expansión, Tiburones Rojos, univerzitný americký futbal, šach, box a amatérske športy v regióne.",
+      "url": "https://oem.com.mx/diariodexalapa/deportes/",
+      "order": 23,
+      "desc_en": "Sport from Xalapa and Veracruz state: Piratas de Veracruz in the Liga de Expansión, Tiburones Rojos, college American football, chess, boxing and amateur sport in the region."
+    },
+    {
+      "id": "n1794525357781ymw",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "El Sol de Puebla deportes",
+      "desc": "Šport zo štátu Puebla: lucha libre v Arena Puebla, beisbalový tím Pericos de Puebla, Lobos Puebla, univerzitný americký futbal UDLAP a Borregos a miestni športovci.",
+      "url": "https://oem.com.mx/elsoldepuebla/deportes/",
+      "order": 24,
+      "desc_en": "Sport from Puebla state: lucha libre at Arena Puebla, the Pericos de Puebla baseball team, Lobos Puebla, UDLAP and Borregos college American football and local athletes."
+    },
+    {
+      "id": "n1794525357782riq",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Superdeportivo AM",
+      "desc": "Športová rubrika denníka AM z Leónu v štáte Guanajuato: Club León, beisbalový tím Bravos de León, flag football, mládežnícky futbal, NFL aj európsky futbal.",
+      "url": "https://www.am.com.mx/superdeportivo",
+      "order": 25,
+      "desc_en": "Sports section of León's AM newspaper in Guanajuato state: Club León, the Bravos de León baseball team, flag football, youth football, plus NFL and European football."
+    },
+    {
+      "id": "n1794525357783kuy",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "El Porvenir deportes",
+      "desc": "Šport z Monterrey v štáte Nuevo León: Rayados a Tigres, ženský tím Rayadas, mexická reprezentácia v Monterrey, box a európsky futbal.",
+      "url": "https://elporvenir.mx/deportes",
+      "order": 26,
+      "desc_en": "Sport from Monterrey, Nuevo León: Rayados and Tigres, the Rayadas women's team, El Tri's visits to Monterrey, boxing and European football."
+    },
+    {
+      "id": "n1794525357784ffl",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Cuarto Poder deportes",
+      "desc": "Šport z Chiapasu: preteky Carrera Tuchtlán v Tuxtla Gutiérrez, miestny futbal, beisbal a amatérske turnaje, chiapaskí boxeri a správy z Liga MX.",
+      "url": "https://www.cuartopoder.mx/deportes/",
+      "order": 27,
+      "desc_en": "Sport from Chiapas: the Carrera Tuchtlán race in Tuxtla Gutiérrez, local football, baseball and amateur tournaments, Chiapas boxers and Liga MX news."
+    },
+    {
+      "id": "n1794525357785sbj",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "NVI Noticias deportes",
+      "desc": "Šport zo štátu Oaxaca: miestne futbalové ligy, basketbalové turnaje, tenis na Copa Huatulco, k tomu Liga MX, reprezentácia a medzinárodný futbal.",
+      "url": "https://www.nvinoticias.com/deportes",
+      "order": 28,
+      "desc_en": "Sport from Oaxaca state: local football leagues, basketball tournaments, tennis at the Copa Huatulco, plus Liga MX, El Tri and international football."
+    },
+    {
+      "id": "n1794525357786bbd",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "El Heraldo de Chihuahua deportes",
+      "desc": "Šport zo štátu Chihuahua: tenisový turnaj W50 Chihuahua, univerzitný americký futbal Águilas UACh, rodeo, beh a miestni športovci na svetovej úrovni.",
+      "url": "https://oem.com.mx/elheraldodechihuahua/deportes/",
+      "order": 29,
+      "desc_en": "Sport from Chihuahua state: the W50 Chihuahua tennis tournament, Águilas UACh college American football, rodeo, running and local athletes competing worldwide."
+    },
+    {
+      "id": "n1794525357787foe",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Vanguardia deportes",
+      "desc": "Šport zo Saltilla a Coahuily: beisbal Saraperos, americký futbal Dinos de Saltillo, Liga MX a ženská liga, NBA, NFL, lucha libre a tenis.",
+      "url": "https://vanguardia.com.mx/deportes",
+      "order": 30,
+      "desc_en": "Sport from Saltillo and Coahuila: Saraperos baseball, Dinos de Saltillo American football, Liga MX and the women's league, NBA, NFL, lucha libre and tennis."
+    },
+    {
+      "id": "n1794525357788drx",
+      "parentId": "f_med_na_mx",
+      "type": "link",
+      "icon": "",
+      "name": "Diario de Yucatán deportes",
+      "desc": "Športové správy z Méridy a Yucatánu: miestny beisbal a futbal, Liga MX a mexická reprezentácia, box, NBA, tenis a európske futbalové kluby.",
+      "url": "https://www.yucatan.com.mx/seccion/deportes",
+      "order": 31,
+      "desc_en": "Sports news from Mérida and Yucatán: local baseball and football, Liga MX and El Tri, boxing, NBA, tennis and the European clubs."
+    },
+    {
+      "id": "n1794527042138ijp",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Antorcha Deportiva",
+      "desc": "Guatemalský športový časopis a web: Liga Nacional, Primera aj Segunda División, ženská liga, štatistiky zápasov, tabuľky, reprezentácia, box a ďalšie domáce športy.",
+      "url": "https://antorchadeportiva.com/",
+      "order": 0,
+      "desc_en": "Guatemalan sports magazine and website: Liga Nacional, Primera and Segunda División, the women's league, match statistics, standings, the national team, boxing and other local sports."
+    },
+    {
+      "id": "n17945270421394iv",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Guatefutbol.com",
+      "desc": "Futbalový portál Guatemaly: Liga Nacional a jej kluby, Primera División, ženský futbal, legionári, reprezentácia, štatistiky, názory a videá zo zápasov.",
+      "url": "https://guatefutbol.com/",
+      "order": 1,
+      "desc_en": "Guatemala's football portal: the Liga Nacional and its clubs, Primera División, women's football, players abroad, the national team, statistics, opinion and match videos."
+    },
+    {
+      "id": "n1794527042140h7z",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Prensa Libre deportes",
+      "desc": "Šport guatemalského denníka Prensa Libre: domáci futbal, Bicolor, Liga Nacional, olympijskí športovci, box Léstera Martíneza aj svetový futbal. Denník vychádza od roku 1951.",
+      "url": "https://www.prensalibre.com/deportes/",
+      "order": 2,
+      "desc_en": "Sports from Guatemalan daily Prensa Libre: domestic football, the Bicolor national team, Liga Nacional, Olympic athletes, Léster Martínez's boxing and world football. Published since 1951."
+    },
+    {
+      "id": "n1794527042141nxp",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Nuestro Diario deportes",
+      "desc": "Guatemalský ľudový denník Nuestro Diario – šport: reprezentácia v Lige národov Concacaf, Liga Nacional, Guatemalci v zahraničí, box a európsky futbal.",
+      "url": "https://www.nuestrodiario.com/deportes/",
+      "order": 3,
+      "desc_en": "Sports from Guatemalan popular daily Nuestro Diario: the national team in the Concacaf Nations League, Liga Nacional, Guatemalans abroad, boxing and European football."
+    },
+    {
+      "id": "n1794527042142zpb",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "La Hora deportes",
+      "desc": "Šport v guatemalskom denníku La Hora (#LHDeportes): Bicolor a jej tréner, domáca liga, box Léstera Martíneza, olympijská streľba aj zahraničný futbal. Denník vychádza od roku 1920.",
+      "url": "https://lahora.gt/deportes/",
+      "order": 4,
+      "desc_en": "Sports in Guatemalan daily La Hora (#LHDeportes): the Bicolor and its coach, the domestic league, Léster Martínez's boxing, Olympic shooting and foreign football. Published since 1920."
+    },
+    {
+      "id": "n17945270421436z8",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Publinews deportes",
+      "desc": "Rubrika Deportes guatemalského denníka Publinews: domáci a medzinárodný futbal, Bicolor, boj o titul v Liga Nacional, box a ďalšie športy.",
+      "url": "https://www.publinews.gt/deportes/",
+      "order": 5,
+      "desc_en": "The Deportes section of Guatemalan daily Publinews: domestic and international football, the Bicolor, the Liga Nacional title race, boxing and other sports."
+    },
+    {
+      "id": "n1794527042144lu9",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Diario de Centro América deportes",
+      "desc": "Šport v štátnom Diario de Centro América: reprezentácia Guatemaly, olympijskí športovci, box, Liga Nacional a agentúrne správy zo sveta. Najstarší guatemalský denník, vychádza od roku 1880.",
+      "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/category/deportes/",
+      "order": 6,
+      "desc_en": "Sports in the state-run Diario de Centro América: Guatemala's national team, Olympic athletes, boxing, the Liga Nacional and agency news from abroad. Guatemala's oldest daily, published since 1880."
+    },
+    {
+      "id": "n17945270421455oz",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "AGN deportes",
+      "desc": "Štátna tlačová agentúra Guatemaly AGN – šport: výsledky a tabuľka Liga Nacional, Bicolor v Lige národov, box, aktivity futbalového zväzu aj medzinárodné správy.",
+      "url": "https://agn.gt/category/deportes/",
+      "order": 7,
+      "desc_en": "Sports from Guatemala's state news agency AGN: Liga Nacional results and standings, the Bicolor in the Nations League, boxing, football federation news and international stories."
+    },
+    {
+      "id": "n1794527042146etg",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "Emisoras Unidas deportes",
+      "desc": "Športové správy guatemalskej rozhlasovej siete Emisoras Unidas: Bicolor a jej tréner, olympijská kvalifikácia guatemalských športovcov, Liga Nacional a európsky futbal.",
+      "url": "https://emisorasunidas.com/category/deportes/",
+      "order": 8,
+      "desc_en": "Sports news from Guatemalan radio network Emisoras Unidas: the Bicolor and its coach, Guatemalan athletes' Olympic qualification, the Liga Nacional and European football."
+    },
+    {
+      "id": "n1794527042147hsr",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "TN23 deportes",
+      "desc": "Športové spravodajstvo guatemalskej televízie TN23: Liga Nacional, mládežnícke výbery na turnajoch UNCAF, guatemalskí športovci na Hrách mládeže Dakar 2026 a svetový futbal.",
+      "url": "https://www.tn23.tv/portada/deportes/",
+      "order": 9,
+      "desc_en": "Sports coverage from Guatemalan TV channel TN23: Liga Nacional, youth national teams at UNCAF tournaments, Guatemalan athletes at the Dakar 2026 Youth Olympics and world football."
+    },
+    {
+      "id": "n1794527042148zcx",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "TV Azteca Guatemala deportes",
+      "desc": "Šport guatemalskej televízie TV Azteca Guate: zápasy Liga Nacional aj s informáciami o prenosoch, reprezentácia v Lige národov Concacaf, box Léstera Martíneza, streľba a UFC.",
+      "url": "https://tvaztecaguate.com/category/deportes/",
+      "order": 10,
+      "desc_en": "Sports from Guatemalan TV channel TV Azteca Guate: Liga Nacional matches with broadcast info, the national team in the Concacaf Nations League, Léster Martínez's boxing, shooting and UFC."
+    },
+    {
+      "id": "n17945270421491yb",
+      "parentId": "f_med_na_gt",
+      "type": "link",
+      "icon": "",
+      "name": "La Red 106.1 fútbol nacional",
+      "desc": "Guatemalské športové rádio La Red 106.1 – domáci futbal: Liga Nacional a jej kluby, Primera División, ženská liga, reprezentácia a vyjadrenia trénerov a hráčov.",
+      "url": "https://www.lared1061.com/category/futbol-nacional/",
+      "order": 11,
+      "desc_en": "Guatemalan sports radio La Red 106.1 – domestic football: the Liga Nacional and its clubs, Primera División, the women's league, the national team and coach and player reactions."
+    },
+    {
+      "id": "n1794530349313dyi",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Diez",
+      "desc": "Honduraský športový denník: Liga Nacional, reprezentácia, legionári, Liga MX a európske ligy, tabuľky a program zápasov, aj rubrika No todo es fútbol o ďalších športoch. Vydáva Grupo OPSA.",
+      "url": "https://www.diez.hn/",
+      "order": 0,
+      "desc_en": "Honduran sports daily covering Liga Nacional, the national team, Hondurans abroad, Liga MX and European leagues, with standings, fixtures and a 'No todo es fútbol' section on other sports. Published by Grupo OPSA."
+    },
+    {
+      "id": "n1794530349314t20",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Deportes TVC",
+      "desc": "Športový web televízie TVC: honduraská Liga Nacional, Selección de Honduras, zahraničný futbal, štatistiky, videá a TV program prenosov, denne správy o Olimpii, Motague či Marathóne.",
+      "url": "https://www.deportestvc.com/",
+      "order": 1,
+      "desc_en": "Sports site of Honduran broadcaster TVC: Liga Nacional, the Honduras national team, international football, statistics, videos and a TV guide, with daily news on Olimpia, Motagua and Marathón."
+    },
+    {
+      "id": "n1794530349315snb",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Mi Pasión HN",
+      "desc": "Futbalový portál z Hondurasu o Liga Nacional, reprezentácii a legionároch, so sekciami španielskej, nemeckej a talianskej ligy aj ostatných športov; disciplinárne tresty, prestupy, vyjadrenia trénerov.",
+      "url": "https://mipasionhn.com/",
+      "order": 2,
+      "desc_en": "Honduran football portal on Liga Nacional, the national team and players abroad, with sections on the Spanish, German and Italian leagues and other sports; disciplinary rulings, transfers and coaches' views."
+    },
+    {
+      "id": "n17945303493167vg",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "La Prensa deportes",
+      "desc": "Šport denníka zo San Pedro Sula: Marathón a Real España, derby sampedrano, Liga Nacional, reprezentácie Hondurasu vrátane mládežníckych, Nations League, LaLiga a fotogalérie. Grupo OPSA.",
+      "url": "https://www.laprensa.hn/deportes",
+      "order": 3,
+      "desc_en": "Sports section of the San Pedro Sula daily: Marathón and Real España, the city derby, Liga Nacional, Honduras national teams including youth sides, the Nations League, LaLiga and photo galleries. Grupo OPSA."
+    },
+    {
+      "id": "n1794530349317wyl",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "El Heraldo deportes",
+      "desc": "Tegucigalpský denník El Heraldo o športe: Liga Nacional, Olimpia a Motagua, honduraskí rozhodcovia a reprezentácia, zahraničný futbal, motorizmus a online prenosy zápasov. Grupo OPSA.",
+      "url": "https://www.elheraldo.hn/deportes",
+      "order": 4,
+      "desc_en": "Tegucigalpa daily El Heraldo on sport: Liga Nacional, Olimpia and Motagua, Honduran referees and the national team, international football, motorsport and live match coverage. Part of Grupo OPSA."
+    },
+    {
+      "id": "n1794530349318ajn",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "La Tribuna deportes",
+      "desc": "Rubrika Más Deportes denníka La Tribuna z Tegucigalpy: honduraský futbal a kluby Liga Nacional, reprezentácia, MLS, Nations League, správy FIFA a európske ligy.",
+      "url": "https://www.latribuna.hn/seccion/deportes/",
+      "order": 5,
+      "desc_en": "La Tribuna's 'Más Deportes' section from Tegucigalpa: Honduran football and Liga Nacional clubs, the national team, MLS, the Nations League, FIFA news and European leagues."
+    },
+    {
+      "id": "n1794530349319whx",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Tiempo Cronómetro",
+      "desc": "Cronómetro, športová časť denníka Tiempo, delená na Fútbol Nacional, Fútbol Internacional a Otros Deportes: Liga Nacional, mládežnícke výbery Hondurasu, legionári aj UFC.",
+      "url": "https://tiempo.hn/cronometro/",
+      "order": 6,
+      "desc_en": "Cronómetro, the sports section of Honduran daily Tiempo, split into national football, international football and other sports: Liga Nacional, Honduran youth teams, players abroad and UFC."
+    },
+    {
+      "id": "n1794530349320grw",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Proceso Digital deportes",
+      "desc": "Honduraský spravodajský portál Proceso Digital o športe: Apertura Liga Nacional, reprezentácia a zahraničie – Nations League, Premier League, FIFA – s množstvom správ agentúry EFE.",
+      "url": "https://proceso.hn/category/secciones/deportes/",
+      "order": 7,
+      "desc_en": "Honduran news site Proceso Digital on sport: the Liga Nacional Apertura, the national team and abroad – Nations League, Premier League and FIFA – with many EFE agency reports."
+    },
+    {
+      "id": "n1794530349321rpr",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Hondudiario deportes",
+      "desc": "Športové správy portálu Hondudiario: honduraská reprezentácia a jej príprava, Liga Nacional, federácia FFH, štadióny, Copa Oro aj európsky futbal (Real Madrid, Manchester United).",
+      "url": "https://www.hondudiario.com/category/deportes/",
+      "order": 8,
+      "desc_en": "Sports news from Honduran portal Hondudiario: the national team, Liga Nacional, the FFH federation, stadiums, the Gold Cup and European football such as Real Madrid and Manchester United."
+    },
+    {
+      "id": "n1794530349322w4p",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Tu Nota deportes",
+      "desc": "Portál Tu Nota o športe v Hondurase: reprezentácia, kedy a kde sledovať zápasy, platy legionárov, Liga Nacional, Villa Olímpica v Tegucigalpe aj Real Madrid a Barcelona.",
+      "url": "https://www.tunota.com/deportes",
+      "order": 9,
+      "desc_en": "Tu Nota on sport in Honduras: the national team, when and where to watch matches, salaries of Hondurans abroad, Liga Nacional, Tegucigalpa's Villa Olímpica, Real Madrid and Barcelona."
+    },
+    {
+      "id": "n1794530349323a44",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "El País deportes",
+      "desc": "Športová rubrika honduraského denníka El País: Liga Nacional, úspechy domácich športovcov (Olivia Cosenza, Mauricio Dubón, Andy Najar), LaLiga a Liga majstrov.",
+      "url": "https://www.elpais.hn/noticias-deportes-honduras/",
+      "order": 10,
+      "desc_en": "Sports section of Honduran daily El País: Liga Nacional, achievements of Honduran athletes (Olivia Cosenza, Mauricio Dubón, Andy Najar), LaLiga and the Champions League."
+    },
+    {
+      "id": "n17945303493240vp",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Noticias 24/7 deportes",
+      "desc": "Šport na portáli Noticias 24/7: honduraská Liga Nacional a disciplinárna komisia, Olimpia a Marathón, reprezentácia, Concacaf, Mundial U-17 aj európsky futbal.",
+      "url": "https://noticias247.hn/seccion/deportes",
+      "order": 11,
+      "desc_en": "Sport on the Noticias 24/7 portal: Honduran Liga Nacional and its disciplinary committee, Olimpia and Marathón, the national team, Concacaf, the U-17 World Cup and European football."
+    },
+    {
+      "id": "n1794530349325953",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Abriendo Brecha deportes",
+      "desc": "Rubrika Deportes portálu Abriendo Brecha: výbery Hondurasu vrátane ženskej U-19, honduraskí športovci na OH mládeže v Dakare, Liga Nacional, MLB, MLS a LaLiga.",
+      "url": "https://abriendobrecha.tv/categorias/deportes/",
+      "order": 12,
+      "desc_en": "Sports section of Honduran portal Abriendo Brecha: Honduras teams including the women's U-19, Honduran athletes at the Dakar Youth Olympics, Liga Nacional, MLB, MLS and LaLiga."
+    },
+    {
+      "id": "n1794530349326pgq",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Quien Opina deportes",
+      "desc": "Svetový šport na honduraskom portáli Diario Quien Opina: tenis (Sinner, Alcaraz), box (Canelo), F1, MotoGP, NBA a európsky futbal.",
+      "url": "https://quienopina.com/categoria/deportes/",
+      "order": 13,
+      "desc_en": "World sport on Honduran portal Diario Quien Opina: tennis (Sinner, Alcaraz), boxing (Canelo), F1, MotoGP, the NBA and European football."
+    },
+    {
+      "id": "n1794530349327qpa",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "HCH deportes",
+      "desc": "Športové správy honduraskej televízie HCH s rubrikami Fútbol de Honduras, Fútbol internacional a Otros deportes: Liga Nacional, Motagua, legionári v MLS, F1 a NASCAR.",
+      "url": "https://hch.tv/deportes/",
+      "order": 14,
+      "desc_en": "Sports news from Honduran TV channel HCH, with Honduran football, international football and other sports sections: Liga Nacional, Motagua, Hondurans in MLS, F1 and NASCAR."
+    },
+    {
+      "id": "n17945303493282u0",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Once Noticias deportes",
+      "desc": "Spravodajský web televízie Canal 11 (Honduras) – rubrika Deporte: Liga Nacional a reprezentácia, honduraskí rozhodcovia, volejbal a zahraničný futbal; nadväzuje na relácie 11 Deportes a La Goleada.",
+      "url": "https://oncenoticias.hn/categoria/deporte/",
+      "order": 15,
+      "desc_en": "News site of Honduran TV Canal 11, sports section: Liga Nacional and the national team, Honduran referees, volleyball and international football; linked to its shows 11 Deportes and La Goleada."
+    },
+    {
+      "id": "n17945303493295ev",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "VTV deportes",
+      "desc": "Športové správy honduraskej televízie VTV: Liga Nacional (Génesis, Platense), Liga majstrov a argentínsky futbal; nové články pribúdajú raz týždenne vo väčších sériách.",
+      "url": "https://www.vtv.com.hn/portada/deportes/",
+      "order": 16,
+      "desc_en": "Sports news from Honduran TV channel VTV: Liga Nacional (Génesis, Platense), the Champions League and Argentine football; new articles are added once a week in batches."
+    },
+    {
+      "id": "n1794530349330u35",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "HRN deportes",
+      "desc": "Športová sekcia rádia HRN – La Voz de Honduras: kolá Liga Nacional s časmi a možnosťami sledovania, nový formát ligy a Copa Oro, honduraskí futbalisti v zahraničí.",
+      "url": "https://www.radiohrn.hn/seccion/deportes",
+      "order": 17,
+      "desc_en": "Sports section of HRN, 'La Voz de Honduras' radio: Liga Nacional rounds with kick-off times and where to watch, the new league format and Gold Cup, and Honduran footballers abroad."
+    },
+    {
+      "id": "n1794530349331htf",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Radio América deportes",
+      "desc": "Šport honduraského rádia Radio América: Olimpia a Liga Nacional, ale hlavne svetový futbal a ďalšie športy zo správ agentúry EFE (LaLiga, Liga majstrov, F1).",
+      "url": "https://www.radioamerica.hn/category/deportes/",
+      "order": 18,
+      "desc_en": "Sport from Honduran broadcaster Radio América: Olimpia and Liga Nacional, but mainly world football and other sports from EFE agency reports (LaLiga, Champions League, F1)."
+    },
+    {
+      "id": "n179453034933257t",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "Radio Cadena Voces deportes",
+      "desc": "Rubrika Deportes honduraského rádia Radio Cadena Voces: domáci športovci (Mauricio Dubón, reprezentanti), no najmä svetový šport – futbal, tenis, MLB a ďalšie.",
+      "url": "https://www.rcv.hn/seccion/deportes/",
+      "order": 19,
+      "desc_en": "Sports section of Honduran radio network Radio Cadena Voces: home athletes (Mauricio Dubón, national team players), but mostly world sport – football, tennis, MLB and more."
+    },
+    {
+      "id": "n1794530349333a3i",
+      "parentId": "f_med_na_hn",
+      "type": "link",
+      "icon": "",
+      "name": "RadioHouse deportes",
+      "desc": "Honduraská rozhlasová a multimediálna stanica RadioHouse o športe: Liga Nacional a disciplinárna komisia, mládežnícke výbery, olympionici v Dakare a rubrika Legionario Cinco Estrellas.",
+      "url": "https://www.radiohouse.hn/Secci%C3%B3n/deportes/",
+      "order": 20,
+      "desc_en": "Honduran radio and multimedia outlet RadioHouse on sport: Liga Nacional and its disciplinary committee, youth national teams, Olympians in Dakar and the 'Legionario Cinco Estrellas' column."
+    },
+    {
+      "id": "n1794532621693hmp",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Gráfico",
+      "desc": "Salvádorský športový denník: Primera División (LMF) a jej kluby, La Selecta, olympijské športy, zahraničný futbal, štatistiky ligy a videá El Gráfico TV. Patrí do skupiny La Prensa Gráfica.",
+      "url": "https://www.elgrafico.com/",
+      "order": 0,
+      "desc_en": "Salvadoran sports daily covering the Primera División (LMF) and its clubs, La Selecta, Olympic sports, international football, league statistics and El Gráfico TV videos. Part of the La Prensa Gráfica group."
+    },
+    {
+      "id": "n1794532621694iim",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "La Prensa Gráfica deportes",
+      "desc": "Športová rubrika jedného z hlavných salvádorských denníkov: zápasy a vyjadrenia z ligy Apertura, cesta Selecty na Zlatý pohár, výsledkový pás ligy a správy zo svetového futbalu.",
+      "url": "https://www.laprensagrafica.com/seccion/deportes",
+      "order": 1,
+      "desc_en": "Sports section of one of El Salvador's main dailies: Apertura league matches and reactions, La Selecta's road to the Gold Cup, a live league score strip and news from world football."
+    },
+    {
+      "id": "n1794532621695c0q",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Diario de Hoy deportes",
+      "desc": "Šport denníka El Diario de Hoy z El Salvadoru: Liga Mayor de Fútbol s výsledkami, tabuľkou a strelcami Apertury, Selecta, legionári, surf a ďalšie športy v rubrike Más Deportes.",
+      "url": "https://www.elsalvador.com/category/deportes/",
+      "order": 2,
+      "desc_en": "Sport from El Salvador's El Diario de Hoy: the Liga Mayor de Fútbol with Apertura results, table and top scorers, La Selecta, Salvadorans abroad, surfing and other sports under Más Deportes."
+    },
+    {
+      "id": "n17945326216967f7",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Diario El Salvador deportes",
+      "desc": "Rubrika DeDeportes denníka Diario El Salvador: domáca Primera División a Liga de Ascenso, reprezentácia, salvádorskí tenisti a športovci, prehľady LaLigy, Premier League, NBA a MLS.",
+      "url": "https://diarioelsalvador.com/seccion/dedeportes",
+      "order": 3,
+      "desc_en": "DeDeportes section of the Diario El Salvador newspaper: the domestic Primera División and Liga de Ascenso, the national team, Salvadoran tennis players and athletes, plus LaLiga, Premier League, NBA and MLS."
+    },
+    {
+      "id": "n1794532621697wd9",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Mundo deportes",
+      "desc": "Športové správy salvádorského denníka El Mundo: ligový futbal mužov aj žien, basketbalová Liga Mayor, Selecta a mládežnícke výbery, Liga národov UEFA, NBA a ďalšie medzinárodné súťaže.",
+      "url": "https://diario.elmundo.sv/deportes",
+      "order": 4,
+      "desc_en": "Sports news from the Salvadoran daily El Mundo: men's and women's league football, the Liga Mayor basketball league, La Selecta and youth teams, the UEFA Nations League, the NBA and other international events."
+    },
+    {
+      "id": "n1794532621698w33",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Diario1 deportes",
+      "desc": "Zona Deportiva salvádorského portálu Diario1: príprava Selecty, kvalifikácia na Zlatý pohár, domáce kluby ako Alianza, beh a amatérske podujatia, aj európsky futbal a dianie vo FIFA.",
+      "url": "https://diario1.com/deportes/",
+      "order": 5,
+      "desc_en": "Zona Deportiva of the Salvadoran portal Diario1: La Selecta's preparations, Gold Cup qualifying, domestic clubs such as Alianza, running and community events, plus European football and FIFA affairs."
+    },
+    {
+      "id": "n17945326216993pd",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Diario Co Latino deportes",
+      "desc": "Šport salvádorského denníka Co Latino: ženská liga a mužská Primera División, Selecta, osobnosti ako Mágico González a výber zo svetového futbalu. Vydáva sa od 19. storočia.",
+      "url": "https://www.diariocolatino.com/category/deportes/",
+      "order": 6,
+      "desc_en": "Sport from the Salvadoran daily Co Latino: the women's league and men's Primera División, La Selecta, figures such as Mágico González and a selection of world football. Published since the 19th century."
+    },
+    {
+      "id": "n1794532621700k1w",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "La Página deportes",
+      "desc": "Športová rubrika salvádorského portálu La Página: Selecta a jej cesta na Zlatý pohár, ženské mládežnícke výbery, úspechy domácich športovcov (patinaj, surf) a veľké európske kluby.",
+      "url": "https://lapagina.com.sv/deportes/",
+      "order": 7,
+      "desc_en": "Sports section of the Salvadoran portal La Página: La Selecta's Gold Cup campaign, women's youth teams, successes of Salvadoran athletes (skating, surfing) and Europe's big clubs."
+    },
+    {
+      "id": "n17945326217025z4",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Diario Digital Cronio deportes",
+      "desc": "Športová sekcia salvádorského digitálneho denníka Cronio s podrubrikami národný a medzinárodný šport a Extremos: Selecta, ženský futbal, prestupy a správy z európskych líg.",
+      "url": "https://croniosv.com/deportes/",
+      "order": 8,
+      "desc_en": "Sports section of the Salvadoran digital daily Cronio with national, international and extreme sports subsections: La Selecta, women's football, transfers and news from European leagues."
+    },
+    {
+      "id": "n1794532621703u8t",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Blog deportes",
+      "desc": "Športové správy salvádorského portálu El Blog: zápasy a program Selecty, rozhodcovia, prestupy a trénerské zmeny v Európe, virálne videá a zaujímavosti zo sveta futbalu.",
+      "url": "https://elblog.com/category/deportes/",
+      "order": 9,
+      "desc_en": "Sports news from the Salvadoran portal El Blog: La Selecta's matches and schedule, referees, transfers and managerial changes in Europe, viral videos and curiosities from the football world."
+    },
+    {
+      "id": "n17945326217041r9",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Urbano deportes",
+      "desc": "Domáci šport El Salvadoru na portáli El Urbano: Liga de Ascenso, basketbal, plážový futbal, gymnastika a mládežnícke programy INDES, doplnené o LaLigu a reprezentáciu Argentíny.",
+      "url": "https://elurbano.news/category/deportes/",
+      "order": 10,
+      "desc_en": "Salvadoran domestic sport on the El Urbano portal: Liga de Ascenso, basketball, beach soccer, gymnastics and INDES youth programmes, plus LaLiga and the Argentina national team."
+    },
+    {
+      "id": "n1794532621705d47",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "TCS Ahora deportes",
+      "desc": "Športové spravodajstvo televíznej skupiny TCS (Canal 4): Liga Mayor (LMF) s priebehmi zápasov minútu po minúte, La Selecta, Champions League, NBA a MLB, výsledkový pás ligy.",
+      "url": "https://www.tcsahora.com/category/deportes/",
+      "order": 11,
+      "desc_en": "Sports news from the TCS television group (Canal 4): the Liga Mayor (LMF) with minute-by-minute match coverage, La Selecta, the Champions League, NBA and MLB, plus a league score strip."
+    },
+    {
+      "id": "n1794532621706wtk",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 12 deportes",
+      "desc": "Športové správy salvádorskej televízie Canal 12: Selecta a nominácie, kluby ako Alianza, výstavba nového národného štadióna a veľké zápasy LaLigy a Champions League. Program Pizarrón Deportivo.",
+      "url": "https://www.canal12.com.sv/portada/deportes/",
+      "order": 12,
+      "desc_en": "Sports news from Salvadoran broadcaster Canal 12: La Selecta and squad news, clubs such as Alianza, the new national stadium project and big LaLiga and Champions League games. Home of Pizarrón Deportivo."
+    },
+    {
+      "id": "n1794532621707r0i",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "Radio YSKL deportes",
+      "desc": "Športová rubrika salvádorského rádia YSKL (104.1 FM, 770 AM): podrobne Primera División a tabuľka Apertury, zápasy FAS, Alianzy či Águily, Selecta a salvádorskí rozhodcovia.",
+      "url": "https://radioyskl.com/category/deportes/",
+      "order": 13,
+      "desc_en": "Sports section of Salvadoran radio YSKL (104.1 FM, 770 AM): detailed Primera División coverage and the Apertura table, FAS, Alianza and Águila matches, La Selecta and Salvadoran referees."
+    },
+    {
+      "id": "n1794532621708k9m",
+      "parentId": "f_med_na_sv",
+      "type": "link",
+      "icon": "",
+      "name": "El Cénit deportes",
+      "desc": "Šport zo západu krajiny – Santa Ana: zápasy a tabuľka CD FAS, derby santaneco, Primera División, ženská liga a výbery do 17 rokov. Digitálny študentský denník univerzity UNASA.",
+      "url": "https://elcenit.com.sv/category/deportes/",
+      "order": 14,
+      "desc_en": "Sport from western El Salvador – Santa Ana: CD FAS matches and standings, the Santa Ana derby, Primera División, the women's league and under-17 football. Student-run digital paper of UNASA university."
+    },
+    {
+      "id": "n1794559542091xx2",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Gráficos Deportivos",
+      "desc": "Nikaragujský čisto športový web: bejzbal od detských kategórií po Pomares, futbal od Primera po Tercera División aj ženský, box, MMA, basketbal, atletika a ďalšie športy, aj živé vysielanie.",
+      "url": "https://graficosdeportivos.com/",
+      "order": 0,
+      "desc_en": "Nicaraguan sports-only site: baseball from youth categories up to the Pomares, football from Primera to Tercera División plus women's, boxing, MMA, basketball, athletics and more, with live streams."
+    },
+    {
+      "id": "n1794559542092y36",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "La Prensa deportes",
+      "desc": "Šport nikaragujského denníka La Prensa: Liga Primera, bejzbal Pomares, reprezentácie vo futbale a basketbale, Nikaragujci v zahraničí, kde hrajú. Denník v roku 2026 oslavuje 100 rokov.",
+      "url": "https://www.laprensani.com/deportes",
+      "order": 1,
+      "desc_en": "Sport from the Nicaraguan daily La Prensa: Liga Primera, Pomares baseball, the national football and basketball teams and Nicaraguans playing abroad. The paper marks its 100th anniversary in 2026."
+    },
+    {
+      "id": "n1794559542093o2z",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "El 19 Digital deportes",
+      "desc": "Nikaragujský šport na portáli El 19 Digital: bejzbalová reprezentácia, mládežnícke hry, volejbal, taekwondo, basketbal na vozíčkoch a športová infraštruktúra. Portál blízky strane FSLN.",
+      "url": "https://www.el19digital.com/articulos/vertodos/deportes",
+      "order": 2,
+      "desc_en": "Nicaraguan sport on the El 19 Digital portal: the national baseball team, youth games, volleyball, taekwondo, wheelchair basketball and sports facilities. The portal is close to the FSLN party."
+    },
+    {
+      "id": "n17945595420949b7",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 10 deportes",
+      "desc": "Športové správy managuanskej televízie Canal 10: basketbalová LSB, nikaragujský bejzbal a futbalová reprezentácia, Norchad Omier v NBA, box a európsky futbal. Stanica patrí do skupiny Ratensa.",
+      "url": "https://www.canal10.com.ni/portada/deportes/",
+      "order": 3,
+      "desc_en": "Sports news from Managua broadcaster Canal 10: LSB basketball, Nicaraguan baseball and the national football team, Norchad Omier in the NBA, boxing and European football. Part of the Ratensa group."
+    },
+    {
+      "id": "n1794559542095u9h",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "TN8 8 Deportivo",
+      "desc": "Rubrika 8 Deportivo nikaragujskej televízie TN8: domáci bejzbal a basketbalová reprezentácia, Nikaragujci v MLB, veľa správ zo španielskeho a európskeho futbalu.",
+      "url": "https://www.tn8.ni/8-deportivo/",
+      "order": 4,
+      "desc_en": "8 Deportivo, the sports section of Nicaraguan TV channel TN8: domestic baseball and the national basketball team, Nicaraguans in MLB, plus plenty of Spanish and European football news."
+    },
+    {
+      "id": "n1794559542096xjm",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Viva Nicaragua deportes",
+      "desc": "Šport stanice Viva Nicaragua Canal 13: nikaragujský bejzbal a mládežnícka reprezentácia, box z regiónov, motoršport a rely, výber zahraničného futbalu; reláciu Fantásticos Deportes 13 vysiela cez týždeň.",
+      "url": "https://www.vivanicaragua.com.ni/deportes/",
+      "order": 5,
+      "desc_en": "Sport from Viva Nicaragua Canal 13: Nicaraguan baseball and the youth national team, boxing from the regions, motorsport and rallying and a selection of foreign football; its show Fantásticos Deportes 13 airs on weekdays."
+    },
+    {
+      "id": "n1794559542097y3n",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 2 deportes",
+      "desc": "Rubrika Deportivas televízie Canal 2 z Managuy: nikaragujský bejzbal a futbalová reprezentácia, Nikaragujci v MLB, NBA, box, tenis a španielska LaLiga.",
+      "url": "https://canal2tv.com/category/deportivas/",
+      "order": 6,
+      "desc_en": "Deportivas section of Managua's Canal 2 TV: Nicaraguan baseball and the national football team, Nicaraguans in MLB, the NBA, boxing, tennis and Spain's LaLiga."
+    },
+    {
+      "id": "n1794559542098knm",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 4 deportes",
+      "desc": "Nikaragujské športové správy Canalu 4: bejzbal a MLB, basketbalová reprezentácia a ženská LSB, mládežnícky futbal FENIFUT, taekwondo a boxerské večery.",
+      "url": "https://www.canal4.com.ni/category/deportes/",
+      "order": 7,
+      "desc_en": "Nicaraguan sports news from Canal 4: baseball and MLB, the national basketball team and women's LSB, FENIFUT youth football, taekwondo and boxing nights."
+    },
+    {
+      "id": "n1794559542099bfx",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 6 deportes",
+      "desc": "Šport nikaragujskej televízie Canal 6: bejzbalová reprezentácia a medzinárodné turnaje doma, basketbal, boxerské podujatia a správy zo svetového futbalu.",
+      "url": "https://canal6.com.ni/noticias/deportes/",
+      "order": 8,
+      "desc_en": "Sport from Nicaraguan TV channel Canal 6: the national baseball team and international events at home, basketball, boxing shows and news from world football."
+    },
+    {
+      "id": "n1794559542100ruo",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Vos TV deportivos",
+      "desc": "Rubrika Deportivos nikaragujskej Vos TV: reprezentácie v hádzanej, volejbale, basketbale a bejzbale, box s Chocolatitom Gonzálezom, jiu-jitsu, MMA a zahraničný futbal.",
+      "url": "https://www.vostv.com.ni/deportes/",
+      "order": 9,
+      "desc_en": "Deportivos section of Nicaragua's Vos TV: national teams in handball, volleyball, basketball and baseball, boxing with Chocolatito González, jiu-jitsu, MMA and foreign football."
+    },
+    {
+      "id": "n17945595421018o3",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Radio YA deportes",
+      "desc": "Rubrika Deportes YA rádia La Nueva Radio YA z Managuy: domáci bejzbal Pomares a tréneri tímov, reprezentácia, nikaragujskí boxeri v rebríčkoch, futbal a ďalšie športy.",
+      "url": "https://nuevaya.com.ni/deportes-ya/",
+      "order": 10,
+      "desc_en": "Deportes YA, the sports section of Managua's La Nueva Radio YA: domestic Pomares baseball and team managers, the national team, Nicaraguan boxers in the rankings, football and other sports."
+    },
+    {
+      "id": "n1794559542102irg",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Radio 580 deportes",
+      "desc": "Športová rubrika rádia Radio 580 z Nikaraguy: bejzbalová reprezentácia a priebeh turnajov v Nikarague, Nikaragujci v MLB, basketbal a správy zo svetového futbalu.",
+      "url": "https://radio580.com.ni/category/deportes/",
+      "order": 11,
+      "desc_en": "Sports section of Nicaraguan station Radio 580: the national baseball team and tournaments held in Nicaragua, Nicaraguans in MLB, basketball and world football news."
+    },
+    {
+      "id": "n17945595421035hg",
+      "parentId": "f_med_na_ni",
+      "type": "link",
+      "icon": "",
+      "name": "Radio Nicaragua deportes",
+      "desc": "Šport nikaragujského rozhlasu Radio Nicaragua: bejzbal vrátane klubu Dantos a reprezentácie, mládežnícke hry, atletika, boxerské večery a výber zo zahraničia.",
+      "url": "https://radionicaragua.com.ni/category/deportes/",
+      "order": 12,
+      "desc_en": "Sport from Nicaraguan broadcaster Radio Nicaragua: baseball including the Dantos club and the national team, youth games, athletics, boxing nights and a selection of international news."
+    },
+    {
+      "id": "f_bas_civ_l1_k13",
+      "parentId": "f_bas_civ_l1",
+      "type": "link",
+      "icon": "",
+      "name": "INJS",
+      "desc": "Abidžan — tím Národného inštitútu mládeže a športu (Institut National de la Jeunesse et des Sports), nováčik Ligue d'Or v sezóne 2026/27.",
+      "url": "https://basketball.afrobasket.com/team/INJS/75275",
+      "order": 8,
+      "desc_en": "Abidjan — the team of the National Institute of Youth and Sports (Institut National de la Jeunesse et des Sports), a newcomer to the Ligue d'Or in the 2026/27 season."
+    },
+    {
+      "id": "n1794561795740api",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Yashin Quesada",
+      "desc": "Kostarický futbalový web Yashina Quesadu: Liga Promérica, kluby Saprissa, Alajuelense či Herediano, legionári ako Keylor Navas, reprezentácia La Sele, ženský futbal a Copa Centroamericana.",
+      "url": "https://yashinquesada.com/",
+      "order": 0,
+      "desc_en": "Costa Rican football site by Yashin Quesada: the Liga Promérica, clubs such as Saprissa, Alajuelense and Herediano, players abroad like Keylor Navas, the national team La Sele, women's football and the Copa Centroamericana."
+    },
+    {
+      "id": "n1794561795741fk2",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "DeportesCR",
+      "desc": "Športové správy z Kostariky na DeportesCR: reprezentácia a domáca liga, disciplinárne tresty, aj atletika, plávanie či lezenie, k tomu analýzy, rozhovory, komentáre a blogy.",
+      "url": "https://deportescr.net/",
+      "order": 1,
+      "desc_en": "Costa Rican sports news on DeportesCR: the national team and domestic league, disciplinary rulings, plus athletics, swimming and climbing, with analysis, interviews, opinion columns and blogs."
+    },
+    {
+      "id": "n1794561795742jqg",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Hoy En El Deporte",
+      "desc": "Tico web o športe: Liga Promérica mužov aj žien, Liga de Ascenso, reprezentácie a Kostaričania v cudzine, NBA a domáci basketbal, cyklistika, surf, bejzbal, tenis a Formula 1.",
+      "url": "https://www.hoyeneldeportecr.com/",
+      "order": 2,
+      "desc_en": "Costa Rican sports website covering the men's and women's Liga Promérica, Liga de Ascenso, national teams and Ticos abroad, the NBA and local basketball, cycling, surfing, baseball, tennis and Formula 1."
+    },
+    {
+      "id": "n1794561795743q08",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Mundo Deportivo CR",
+      "desc": "Kostarický web všetkých športových disciplín: futbal, cyklistika a motorizmus, plávanie a surf, atletika, výsledky národných výprav v rubrike Rincón Patrio a špeciálne reportáže.",
+      "url": "https://www.mundodeportivocr.com/",
+      "order": 3,
+      "desc_en": "Costa Rican site devoted to all sporting disciplines: football, cycling and motorsport, swimming and surfing, athletics, results of national delegations in the Rincón Patrio section, and special features."
+    },
+    {
+      "id": "n1794561795744o9g",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "EverardoHerrera.com",
+      "desc": "Športové správy Everarda Herreru (EverGol): kostarický futbal, La Sele a legionári, cyklistika, atletika, volejbal či box, rubrika Fuera de Juego a relácia Al Pie del Deporte.",
+      "url": "https://everardoherrera.com/",
+      "order": 4,
+      "desc_en": "Everardo Herrera's sports news site (EverGol): Costa Rican football, La Sele and players abroad, cycling, athletics, volleyball and boxing, the Fuera de Juego section and the Al Pie del Deporte show."
+    },
+    {
+      "id": "n17945617957451d8",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Perfiles del Fútbol",
+      "desc": "Web o kostarickej Primera División: zápasové správy z Apertury 2026 (Saprissa, Alajuelense, Herediano, Cartaginés), tabuľka, názory, profily osobností (Semblanzas), videá a galérie.",
+      "url": "https://www.perfilesdelfutbol.com/",
+      "order": 5,
+      "desc_en": "Site about Costa Rica's Primera División: match reports from the 2026 Apertura (Saprissa, Alajuelense, Herediano, Cartaginés), standings, opinion pieces, personality profiles (Semblanzas), videos and galleries."
+    },
+    {
+      "id": "n1794561795746f1h",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Futsports 506",
+      "desc": "Kostarický futbal na Futsports 506: zápasové správy z ligy UNAFUT po každom kole, tabuľka a program Apertury, ženský futbal, reprezentácia vrátane U20, aj tenis, basketbal a volejbal.",
+      "url": "https://futsports506.cr/category/deportes/",
+      "order": 6,
+      "desc_en": "Costa Rican football on Futsports 506: UNAFUT league match reports after every round, Apertura standings and fixtures, women's football, national teams including the U20 side, plus tennis, basketball and volleyball."
+    },
+    {
+      "id": "n1794561795747thd",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "La Nación Puro Deporte",
+      "desc": "Puro Deporte, športová rubrika kostarického denníka La Nación: domáca liga a kluby ako Alajuelense, La Sele, Kostaričania v cudzine aj svetový futbal; časť článkov len pre predplatiteľov.",
+      "url": "https://www.nacion.com/puro-deporte/",
+      "order": 7,
+      "desc_en": "Puro Deporte, the sports section of Costa Rica's La Nación newspaper: the domestic league and clubs such as Alajuelense, La Sele, Costa Ricans abroad and world football; some articles are for subscribers only."
+    },
+    {
+      "id": "n1794561795748qzw",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "La Teja deportes",
+      "desc": "Športová sekcia kostarického denníka La Teja: Torneo Nacional, legionári, videá, futbalové klebety (Balón Chismoso), rubriky El Pitazo a El Pizarrón a príbehy mimo ihriska (Extra Cancha).",
+      "url": "https://www.lateja.cr/deportes/",
+      "order": 8,
+      "desc_en": "Sports section of Costa Rica's La Teja daily: the Torneo Nacional, players abroad, videos, football gossip (Balón Chismoso), the El Pitazo and El Pizarrón columns, and stories off the pitch (Extra Cancha)."
+    },
+    {
+      "id": "n17945617957491jj",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Diario Extra deportes",
+      "desc": "Šport v kostarickom denníku Diario Extra: La Sele, domáca liga a legionári, zahraničný futbal a videozáznamy športových relácií Acción 360 a Tiempo Extra z Extra TV.",
+      "url": "https://www.diarioextra.com/categoria/deportes/",
+      "order": 9,
+      "desc_en": "Sport in Costa Rica's Diario Extra: La Sele, the domestic league and players abroad, international football, and video recordings of the Acción 360 and Tiempo Extra sports shows from Extra TV."
+    },
+    {
+      "id": "n179456179575048h",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "CRHoy deportes",
+      "desc": "Rubrika Deportes kostarického spravodajského portálu CRHoy: reprezentácia La Tricolor, domáca liga, legionári, profesionálny box a medzinárodný futbal.",
+      "url": "https://crhoy.com/deportes/",
+      "order": 10,
+      "desc_en": "The Deportes section of Costa Rican news portal CRHoy: the national team La Tricolor, the domestic league, players abroad, professional boxing and international football."
+    },
+    {
+      "id": "n1794561795751ao9",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "La República deportes",
+      "desc": "Acción, športová rubrika kostarického denníka La República: reprezentácia a Apertura, aj tenis, horská cyklistika, bežecké preteky, lezenie a kandidatúra Kostariky na MS žien 2031.",
+      "url": "https://www.larepublica.net/accion/",
+      "order": 11,
+      "desc_en": "Acción, the sports section of Costa Rica's La República: the national team and the Apertura, plus tennis, mountain biking, running races, climbing and Costa Rica's bid for the 2031 Women's World Cup."
+    },
+    {
+      "id": "n1794561795752p88",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "El Mundo CR deportes",
+      "desc": "Domáci šport na portáli elmundo.cr: kostarická liga a disciplinárne tresty, kluby Herediano či Saprissa, rozhodcovia a VAR, futbal amputovaných aj zahraničný futbal.",
+      "url": "https://elmundo.cr/deportes/",
+      "order": 12,
+      "desc_en": "Domestic sport on the elmundo.cr portal: the Costa Rican league and disciplinary rulings, clubs such as Herediano and Saprissa, referees and VAR, amputee football and international football."
+    },
+    {
+      "id": "n1794561795753vfb",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Delfino La Jornada",
+      "desc": "La Jornada, športový report kostarického portálu Delfino.cr: olympijské a menej sledované športy, atletika, BMX freestyle, plávanie, automobilizmus a úspechy tico športovcov v zahraničí.",
+      "url": "https://delfino.cr/la-jornada",
+      "order": 13,
+      "desc_en": "La Jornada, the sports report of Costa Rican portal Delfino.cr: Olympic and less covered sports, athletics, BMX freestyle, swimming, motor racing and the achievements of Tico athletes abroad."
+    },
+    {
+      "id": "n179456179575428f",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Teletica Deportes",
+      "desc": "Šport kostarickej televízie Teletica: Primera División, ženský futbal, La Sele, legionári a Liga de Ascenso, k tomu cyklistika, basketbal, bejzbal, motoršport a NFL.",
+      "url": "https://www.teletica.com/deportes",
+      "order": 14,
+      "desc_en": "Sport from Costa Rican broadcaster Teletica: the Primera División, women's football, La Sele, players abroad and the Liga de Ascenso, plus cycling, basketball, baseball, motorsport and the NFL."
+    },
+    {
+      "id": "n17945617957550j0",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Repretel Deportes",
+      "desc": "Športové správy kostarickej televíznej siete Repretel: reprezentácia, Alajuelense, Saprissa a ďalšie kluby, legionári v MLS aj národný motokros.",
+      "url": "https://www.repretel.com/noticias-de-costa-rica-repretel/deportes/",
+      "order": 15,
+      "desc_en": "Sports news from Costa Rican TV network Repretel: the national team, Alajuelense, Saprissa and other clubs, players abroad in MLS and the national motocross championship."
+    },
+    {
+      "id": "n1794561795756pqr",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Canal 1 deportes",
+      "desc": "Športová rubrika kostarickej stanice Canal 1: domáca liga a jubileá trénerov, reprezentácia, kluby Herediano, Cartaginés či San Carlos, aj LaLiga a MLS.",
+      "url": "https://canal1cr.com/deportes/",
+      "order": 16,
+      "desc_en": "Sports section of Costa Rican station Canal 1: the domestic league and coaching milestones, the national team, clubs such as Herediano, Cartaginés and San Carlos, plus LaLiga and MLS."
+    },
+    {
+      "id": "n1794561795757swo",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Columbia deportes",
+      "desc": "Športové správy kostarického Rádia Columbia: domáci a medzinárodný futbal, La Sele, legionári, ostatné športy v rubrike Polideportivo a rozhovory s trénermi a funkcionármi.",
+      "url": "https://columbia.co.cr/sports",
+      "order": 17,
+      "desc_en": "Sports news from Costa Rica's Radio Columbia: domestic and international football, La Sele, players abroad, other sports in the Polideportivo section, and interviews with coaches and officials."
+    },
+    {
+      "id": "n1794561795758k0a",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Deportivas del Trece",
+      "desc": "Deportivas del Trece, šport kostarickej televízie Canal Trece (SINART): Apertura, reprezentácie vrátane U17, ženská cestná cyklistika, surf, šach, futsal a off-road preteky.",
+      "url": "https://sinartdigital.com/deportivasdeltrece",
+      "order": 18,
+      "desc_en": "Deportivas del Trece, sport from Costa Rica's Canal Trece (SINART): the Apertura, national teams including the U17 side, women's road cycling, surfing, chess, futsal and off-road racing."
+    },
+    {
+      "id": "n1794561795759rdv",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "AM Deportes",
+      "desc": "AM Deportes, šport portálu AM Prensa z Cartaga: klub Cartaginés, domáca liga, reprezentácia Tricolor, legionári a Liga národov CONCACAF; AM Prensa prináša správy od roku 2015.",
+      "url": "https://www.amprensa.com/categorias/am-deportes",
+      "order": 19,
+      "desc_en": "AM Deportes, the sports section of Cartago-based AM Prensa: Cartaginés, the domestic league, the Tricolor national team, players abroad and the CONCACAF Nations League; AM Prensa has published news since 2015."
+    },
+    {
+      "id": "n1794561795760gm2",
+      "parentId": "f_med_na_cr",
+      "type": "link",
+      "icon": "",
+      "name": "Guananoticias deportes",
+      "desc": "Šport z provincie Guanacaste na Guananoticias: surfové súťaže na plážach ako Avellanas, judisti zo Santa Cruz, miestne preteky a športovci regiónu v národných výberoch.",
+      "url": "https://guananoticias.com/category/deportes/",
+      "order": 20,
+      "desc_en": "Sport from Guanacaste province on Guananoticias: surfing contests on beaches such as Avellanas, judokas from Santa Cruz, local races and the region's athletes in national squads."
+    },
+    {
+      "id": "f_bas_chn_l2_k19",
+      "parentId": "f_bas_chn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Guangxi",
+      "desc": "Provincia Kuang-si — klub Guangxi Jinhai, nováčik WCBA od sezóny 2026/27 hrajúci v skupine B, bez vlastnej webovej prezentácie.",
+      "desc_en": "Guangxi province — the Guangxi Jinhai club, a WCBA newcomer from the 2026/27 season playing in Group B, with no web presence of its own.",
+      "url": "https://basketball.asia-basket.com/team/Guangxi-Jinhai/75287?Women=1",
+      "order": 3
+    },
+    {
+      "id": "f_bas_chn_l2_k20",
+      "parentId": "f_bas_chn_l2",
+      "type": "link",
+      "icon": "",
+      "name": "Guizhou",
+      "desc": "Provincia Kuej-čou — klub Guizhou Aurora, nováčik WCBA od sezóny 2026/27 hrajúci v skupine B; aktuality zverejňuje na sieti Weibo.",
+      "desc_en": "Guizhou province — the Guizhou Aurora club, a WCBA newcomer from the 2026/27 season playing in Group B; it posts its news on Weibo.",
+      "url": "https://m.weibo.cn/u/9055160634",
+      "order": 4
+    },
+    {
+      "id": "f_bas_kaz_l1_k6",
+      "parentId": "f_bas_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Aktobe AiRom",
+      "desc": "Aktobe — nováčik National League v sezóne 2026/27, predtým tím Vyššej ligy. Profil tímu na portáli asia-basket.",
+      "desc_en": "Aktobe — newcomers to the National League in the 2026–27 season, previously a Higher League team. Team profile on the asia-basket portal.",
+      "url": "https://basketball.asia-basket.com/team/AiRom/73583",
+      "ig": "https://www.instagram.com/bc_aqtobe/",
+      "order": 0
+    },
+    {
+      "id": "f_bas_kaz_l1_k7",
+      "parentId": "f_bas_kaz_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Barsy Atyrau 2",
+      "desc": "Atyrau — farmársky tím klubu Barsy Atyrau, od sezóny 2026/27 hrá National League; aktuality zverejňuje na Instagrame.",
+      "desc_en": "Atyrau — the farm team of Barsy Atyrau, playing in the National League from the 2026–27 season; it posts its news on Instagram.",
+      "url": "https://www.instagram.com/mbk_barsy_atyrau/",
+      "order": 4
+    },
+    {
+      "id": "f_bas_lbn_l1_k12",
+      "parentId": "f_bas_lbn_l1",
+      "type": "link",
+      "icon": "",
+      "name": "Atlas Ferzol",
+      "desc": "Ferzol — klub z údolia Bikáa, v najvyššej lige hral v sezónach 2018/19 až 2022/23 a od sezóny 2026/27 je v nej späť; aktuality zverejňuje na Facebooku.",
+      "desc_en": "Ferzol — a club from the Beqaa Valley that played in the top league from 2018–19 to 2022–23 and returned for the 2026–27 season; it posts its news on Facebook.",
+      "url": "https://www.facebook.com/Atlas.Ferzol/",
+      "ig": "https://www.instagram.com/atlas_ferzol/",
+      "order": 3
     }
   ],
   "title_en": "Sportlinking",
