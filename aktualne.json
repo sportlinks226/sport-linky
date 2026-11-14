@@ -1,6 +1,6 @@
 {
- "version": 12,
- "updated": "2026-11-12T16:58:44.475Z",
+ "version": 14,
+ "updated": "2026-11-14T01:35:38.329Z",
  "items": [
   {
    "id": "a179432669607026f3",
@@ -219,7 +219,7 @@
    "icon": "🎯",
    "name": "Šípky – Grand Slam of Darts",
    "name_en": "Darts – Grand Slam of Darts",
-   "url": "https://www.pdc.tv/calendar/",
+   "url": "https://www.pdc.tv/tournament-hub/10871",
    "desc": "48 hráčov v 16 skupinách vo Wolverhamptone – skóre zápasov v Tournament Hub na stránke PDC",
    "desc_en": "48 players in 16 groups in Wolverhampton – match scores in the PDC Tournament Hub",
    "startsAt": "2026-11-14",
@@ -359,7 +359,7 @@
    "desc_en": "Europe's top club competition – round schedule, results and live game scores",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": false,
+   "disabled": true,
    "addedAt": 1794244680297
   },
   {
@@ -374,7 +374,7 @@
    "desc_en": "Europe's second-tier club competition – round schedule, results and live game scores",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": false,
+   "disabled": true,
    "addedAt": 1794244680297
   },
   {
@@ -389,7 +389,7 @@
    "desc_en": "Live scores of all CEV cups – Champions League, CEV Cup and Challenge Cup for men and women in a day-by-day calendar",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": false,
+   "disabled": true,
    "addedAt": 1794244680297
   },
   {
@@ -419,7 +419,7 @@
    "desc_en": "Europe's top men's club competition – day-by-day match schedule with results and scores",
    "startsAt": "2026-11-10",
    "endsAt": "",
-   "disabled": false,
+   "disabled": true,
    "addedAt": 1794316811351
   },
   {
