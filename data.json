@@ -1,5 +1,5 @@
 {
-  "version": 1183,
+  "version": 1191,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -1391,7 +1391,7 @@
       "name_en": "Bulgaria",
       "desc": "Bălgarska federacija po tenis (BFT) — bulharský zväz, novinky, kalendár domácich turnajov a rebríčky hráčov.",
       "desc_en": "The Bulgarian Tennis Federation — news, the domestic tournament calendar and player rankings.",
-      "url": "https://www.bgtennis.bg/",
+      "url": "https://bft.bg/",
       "order": 7,
       "order_en": 8
     },
@@ -2182,9 +2182,9 @@
       "icon": "pk",
       "name": "Pakistan",
       "name_en": "Pakistan",
-      "desc": "Pakistan Tennis Federation (PTF) — pakistanský zväz, kalendár turnajov, rebríčky a reprezentácia v Davis Cupe.",
-      "desc_en": "The Pakistan Tennis Federation (PTF) — the tournament calendar, rankings and Pakistan's Davis Cup team.",
-      "url": "https://paktenfed.com.pk/",
+      "desc": "Pakistan Tennis Federation (PTF) — oficiálna FB stránka pakistanského zväzu: tlačové správy, domáce a ITF turnaje, reprezentácia v Davis Cupe.",
+      "desc_en": "The Pakistan Tennis Federation (PTF) — the official Facebook page: press releases, domestic and ITF tournaments and Pakistan's Davis Cup team.",
+      "url": "https://www.facebook.com/PAKTENNIS",
       "order": 24,
       "order_en": 20
     },
@@ -2278,19 +2278,6 @@
       "url": "https://www.ltat.org/",
       "order": 31,
       "order_en": 29
-    },
-    {
-      "id": "f_ten_aso_az_k34",
-      "parentId": "f_ten_aso_az",
-      "type": "link",
-      "icon": "tm",
-      "name": "Turkménsko",
-      "name_en": "Turkmenistan",
-      "desc": "Turkménska tenisová federácia — novinky, domáce turnaje a reprezentácia.",
-      "desc_en": "The Turkmenistan Tennis Federation — news, domestic tournaments and the national teams.",
-      "url": "https://ttf.gov.tm/",
-      "order": 32,
-      "order_en": 30
     },
     {
       "id": "f_ten_aso_az_k35",
@@ -18575,18 +18562,6 @@
       "desc_en": "The Baltic championship with nine clubs — five from Latvia, two from Lithuania and one each from Estonia and Ukraine; run by the Latvian Ice Hockey Federation."
     },
     {
-      "id": "n1783520324419c3v",
-      "parentId": "f_hok_sut_eu",
-      "type": "link",
-      "icon": "",
-      "name": "CEHL – Stredoeurópska hokejová liga",
-      "desc": "Cezhraničná liga belgických a holandských klubov, do roku 2024 známa ako BeNe League a neskôr rozšírená o nemecké tímy. Posledný ročník 2025/26 vyhral vo finále nad Hijs Hokij nemecký EHC Die Bären Neuwied a rozpis na sezónu 2026/27 liga nezverejnila; pod tou istou hlavičkou však beží CEHL Cup, Belgický pohár a séria prípravných zápasov klubov z Holandska, Belgicka, Nemecka, Francúzska a Luxemburska.",
-      "url": "https://www.cehl.eu/",
-      "order": 11,
-      "name_en": "CEHL – Central European Hockey League",
-      "desc_en": "A cross-border league of Belgian and Dutch clubs, known until 2024 as the BeNe League and later joined by German teams. Germany's EHC Die Baren Neuwied won the last edition in 2025-26, beating Hijs Hokij in the final, and no 2026-27 schedule has been published; the same organisation still runs the CEHL Cup, the Belgian Cup and a series of friendlies for clubs from the Netherlands, Belgium, Germany, France and Luxembourg."
-    },
-    {
       "id": "n1783520371880nin",
       "parentId": "f_hok_sut_eu",
       "type": "link",
@@ -18950,17 +18925,6 @@
       "url": "https://stiften.dk/sport",
       "order": 10,
       "desc_en": "Aarhus sport – AGF and its fans, the basketball club Bakken Bears and other local clubs, plus DirekteSport live results. Sport from the daily Århus Stiftstidende (since 1794, Jysk Fynske Medier)."
-    },
-    {
-      "id": "n1783689918518lsn",
-      "parentId": "f_med_eu_dk",
-      "type": "link",
-      "icon": "",
-      "name": "Fyens sport",
-      "desc": "Fynský šport – futbalové OB, Odense Håndbold a miestni športovci z ostrova Fyn, s reportážami a súťažami o lístky. Šport denníka Fyens Stiftstidende z Odense (od 1772, Jysk Fynske Medier).",
-      "url": "https://fyens.dk/sport",
-      "order": 11,
-      "desc_en": "Sport on Funen – OB in football, Odense Håndbold and local athletes from the island, with reports and ticket giveaways. Sport from Odense's daily Fyens Stiftstidende (since 1772, Jysk Fynske Medier)."
     },
     {
       "id": "n17836899423837cq",
@@ -19852,17 +19816,6 @@
       "url": "https://www.germanijak.hr/",
       "order": 11,
       "desc_en": "Croatians in the Bundesliga and other leagues, plus the HNL, Dinamo and Rijeka, basketball and handball, with videos and player ratings. Sports portal run by Zagreb-based Germania Sport."
-    },
-    {
-      "id": "n1783770081043w36",
-      "parentId": "f_med_eu_hr",
-      "type": "link",
-      "icon": "",
-      "name": "Crosarka",
-      "desc": "Chorvátsky basketbal – prestupy, rozhovory a správy z klubov Premijer ligy ako Zadar, Split či Dinamo. Nezávislý chorvátsky basketbalový portál Crošarka.",
-      "url": "https://crosarka.com/",
-      "order": 12,
-      "desc_en": "Croatian basketball – transfers, interviews and news from Premijer liga clubs such as Zadar, Split and Dinamo. Independent Croatian basketball portal Crošarka."
     },
     {
       "id": "n1783770173093v5d",
@@ -27376,7 +27329,7 @@
       "icon": "dz",
       "name": "Alžírsko",
       "desc": "Alžírska futbalová federácia (FAF) — reprezentácia Púštnych líšok a domáce súťaže.",
-      "url": "https://www.faf.dz/category/equipe-nationale-a/",
+      "url": "https://www.facebook.com/Lesverts.faf",
       "order": 0,
       "name_en": "Algeria",
       "desc_en": "Algerian Football Federation (FAF) — the Desert Foxes national team and domestic competitions."
@@ -28083,11 +28036,11 @@
       "type": "link",
       "icon": "pg",
       "name": "Papua-Nová Guinea",
-      "desc": "Oficiálny web futbalovej asociácie Papuy-Novej Guiney (PNGFA) — novinky, súťaže a reprezentácia Kapuls.",
-      "url": "https://pngfootball.com.pg/",
+      "desc": "Oficiálna FB stránka futbalovej asociácie Papuy-Novej Guiney (PNGFA) — novinky, domáce súťaže a reprezentácia Kapuls.",
+      "url": "https://www.facebook.com/pngfa2020",
       "order": 5,
       "name_en": "Papua New Guinea",
-      "desc_en": "Official website of the Papua New Guinea Football Association (PNGFA) — news, competitions and the Kapuls national team."
+      "desc_en": "Official Facebook page of the Papua New Guinea Football Association (PNGFA) — news, domestic competitions and the Kapuls national team."
     },
     {
       "id": "n1784055452870sxe",
@@ -37008,10 +36961,9 @@
       "icon": "",
       "name": "Neman Grodno",
       "desc": "Tradičný klub od rieky Neman z Grodna, v posledných rokoch pravidelne v boji o medaily.",
-      "url": "https://www.fcneman.by",
+      "url": "https://www.facebook.com/fcneman/",
       "order": 6,
       "desc_en": "Traditional club from Grodno on the Neman river, regularly in the medal hunt in recent years.",
-      "fb": "https://www.facebook.com/fcneman/",
       "ig": "https://www.instagram.com/fcneman/"
     },
     {
@@ -37085,7 +37037,7 @@
       "icon": "",
       "name": "FC Vitebsk",
       "desc": "Tradičný klub z Vitebska, víťaz pohára 1998 a viacnásobný medailista deväťdesiatych rokov.",
-      "url": "https://fc.vitebsk.by",
+      "url": "https://www.transfermarkt.com/fk-vitebsk/startseite/verein/17959",
       "order": 12,
       "desc_en": "Traditional club from Vitebsk, 1998 Cup winners and multiple medallists in the 1990s.",
       "ig": "https://www.instagram.com/fc.vitebsk.by/"
@@ -38686,11 +38638,10 @@
       "type": "link",
       "icon": "",
       "name": "FK Zeta Golubovci",
-      "desc": "Klub z Golubovci pri Podgorici, historicky prvý majster nezávislej Čiernej Hory (2007). Odkaz vedie na oficiálny web klubu.",
-      "url": "https://fk-zeta.me/",
+      "desc": "Klub z Golubovci pri Podgorici, historicky prvý majster nezávislej Čiernej Hory (2007). Odkaz vedie na oficiálnu FB stránku klubu.",
+      "url": "https://www.facebook.com/fk.zeta.2025",
       "order": 9,
-      "desc_en": "Club from Golubovci near Podgorica, the first ever champions of independent Montenegro (2007). The link leads to the club's official website.",
-      "fb": "https://www.facebook.com/fk.zeta.2025",
+      "desc_en": "Club from Golubovci near Podgorica, the first ever champions of independent Montenegro (2007). The link leads to the club's official Facebook page.",
       "ig": "https://www.instagram.com/fk.zeta/"
     },
     {
@@ -39831,10 +39782,9 @@
       "icon": "",
       "name": "Ekenäs IF",
       "desc": "Švédskojazyčný klub z juhofínskeho Ekenäsu/Tammisaari.",
-      "url": "https://herrar.eiffotboll.fi/",
+      "url": "https://www.facebook.com/ekenasif/",
       "order": 7,
       "desc_en": "Swedish-speaking club from Ekenäs/Tammisaari in southern Finland.",
-      "fb": "https://www.facebook.com/ekenasif/",
       "ig": "https://www.instagram.com/eif_fotboll/"
     },
     {
@@ -45389,17 +45339,6 @@
       "name_en": "Titan Sports"
     },
     {
-      "id": "n17843194829138eo",
-      "parentId": "f_med_as_cn",
-      "type": "link",
-      "icon": "",
-      "name": "People daily sports",
-      "desc": "Športová sekcia denníka People's Daily (Žen-min ž'-pao).",
-      "url": "https://sports.people.com.cn/",
-      "order": 7,
-      "desc_en": "The daily People's Daily's sports section"
-    },
-    {
       "id": "n1784319573441lle",
       "parentId": "f_med_as_cn",
       "type": "link",
@@ -47276,10 +47215,9 @@
       "icon": "",
       "name": "FC Struga",
       "desc": "Klub zo Strugy pri Ohridskom jazere, dvojnásobný majster posledných rokov.",
-      "url": "https://fcstruga.com/",
+      "url": "https://www.facebook.com/Fcstruga",
       "order": 3,
       "desc_en": "Club from Struga on Lake Ohrid, two-time champions in recent years.",
-      "fb": "https://www.facebook.com/Fcstruga",
       "ig": "https://www.instagram.com/fcstruga/"
     },
     {
@@ -51845,7 +51783,7 @@
       "icon": "",
       "name": "Varzesh3",
       "desc": "Derby Persepolis – Esteghlal, tabuľka Persian Gulf Pro League, živé výsledky, prestupy, videá a podcasty, k tomu iránske zápasenie a volejbal. Perzský športový web Varzesh3 (od 2010/11).",
-      "url": "https://www.varzesh3.com/",
+      "url": "https://www.varzesh3.ir/",
       "order": 0,
       "desc_en": "The Persepolis–Esteghlal derby, Persian Gulf Pro League table, live scores, transfers, videos and podcasts, plus Iranian wrestling and volleyball. Persian-language sports site Varzesh3 (since 2010/11)."
     },
@@ -51936,17 +51874,6 @@
       "url": "https://www.afkarnews.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-7",
       "order": 8,
       "desc_en": "Persepolis in the Persian Gulf Pro League, round-11 suspensions, Sepahan vs Kheybar, Iranian weightlifters, plus the Bundesliga and Premier League. Sport from Iranian news and analysis site Afkar News."
-    },
-    {
-      "id": "n17844637163383b3",
-      "parentId": "f_med_as_ir",
-      "type": "link",
-      "icon": "",
-      "name": "Metrica",
-      "desc": "Iránsky športový analytický a dátový web",
-      "url": "https://metrica.ir/",
-      "order": 9,
-      "desc_en": "Iranian sports analysis and data website"
     },
     {
       "id": "n17844637451531zz",
@@ -60776,17 +60703,6 @@
       "name_en": "PCB – Pakistan Cricket Board"
     },
     {
-      "id": "n1784744342455hir",
-      "parentId": "f_med_as_pk",
-      "type": "link",
-      "icon": "",
-      "name": "Scoreline",
-      "desc": "Pakistanský kriketový magazín: články o histórii, legendách a klasických zápasoch, zberateľské predmety a reportáže z Pakistanu, ICC a ďalších krajín. Vychádza od roku 2015, najprv tlačou.",
-      "url": "https://www.scoreline.org/",
-      "order": 3,
-      "desc_en": "Pakistani cricket magazine: features on history, legends and classic matches, memorabilia, and reports from Pakistan, the ICC and other cricket nations. Published since 2015, first in print."
-    },
-    {
       "id": "n1784744434792dyb",
       "parentId": "f_med_as_pk",
       "type": "link",
@@ -64551,11 +64467,10 @@
       "icon": "jp",
       "name": "Vegalta Sendai",
       "desc": "Sendai, prefektúra Mijagi — klub založený v roku 1988; majster J2 League 2009, vicemajster J1 2012 a finalista Cisárskeho pohára 2018.",
-      "url": "https://www.vegalta.co.jp",
+      "url": "https://www.facebook.com/vegalta.sendai.official/",
       "order": 18,
       "desc_en": "Sendai, Miyagi Prefecture — founded in 1988; 2009 J2 League champions, J1 runners-up in 2012 and Emperor's Cup finalists in 2018.",
-      "ig": "https://www.instagram.com/vegaltasendai/",
-      "fb": "https://www.facebook.com/vegalta.sendai.official/"
+      "ig": "https://www.instagram.com/vegaltasendai/"
     },
     {
       "id": "f_jpn_l2_k19",
@@ -71547,10 +71462,9 @@
       "icon": "",
       "name": "Petro Atlético de Luanda",
       "desc": "Klub z hlavného mesta Luanda, rekordný angolský šampión, prezývka Petroleiros, aktuálny majster Girabola 2025/26.",
-      "url": "https://petroatletico.co.ao/",
+      "url": "https://www.facebook.com/atleticopetroleosluanda/",
       "order": 0,
       "desc_en": "Club from the capital Luanda, Angola's record champions, nicknamed Petroleiros, current Girabola champions 2025/26.",
-      "fb": "https://www.facebook.com/atleticopetroleosluanda/",
       "ig": "https://www.instagram.com/petro_de_luanda_oficial/"
     },
     {
@@ -73532,11 +73446,10 @@
       "icon": "",
       "name": "Hearts of Oak",
       "desc": "Klub z Akry, najúspešnejší v histórii ghanského futbalu, tradičný rival Asante Kotoko.",
-      "url": "https://www.heartsofoaksc.com/",
+      "url": "https://www.facebook.com/Accraheartsofoak",
       "order": 10,
       "name_en": "Hearts of Oak",
       "desc_en": "From Accra, the most successful club in Ghanaian football history and traditional rival of Asante Kotoko.",
-      "fb": "https://www.facebook.com/Accraheartsofoak",
       "ig": "https://www.instagram.com/accraheartsofoak/"
     },
     {
@@ -75041,11 +74954,10 @@
       "icon": "",
       "name": "Dynamo Douala",
       "desc": "Klub z Doualy založený v roku 1948, prezývaný Bon Ba Job (Deti Božie).",
-      "url": "https://dynamoclub-douala.com/",
+      "url": "https://www.facebook.com/profile.php?id=61582333198287",
       "order": 6,
       "name_en": "Dynamo Douala",
-      "desc_en": "Club from Douala founded in 1948, nicknamed Bon Ba Job (Children of God).",
-      "fb": "https://www.facebook.com/profile.php?id=61582333198287"
+      "desc_en": "Club from Douala founded in 1948, nicknamed Bon Ba Job (Children of God)."
     },
     {
       "id": "f_cmr_l1_k3",
@@ -87498,7 +87410,7 @@
       "icon": "",
       "name": "US Sinnamary",
       "desc": "Klub z mestečka Sinnamary, založený v roku 1952, domáce zápasy hráva na štadióne Omnisports.",
-      "url": "https://www.ussinnamary.footeo.com/",
+      "url": "https://ussinnamary.footeo.com/",
       "order": 12,
       "name_en": "US Sinnamary",
       "desc_en": "Club from the town of Sinnamary, founded in 1952, plays home matches at Stade Omnisports.",
@@ -123878,7 +123790,7 @@
       "icon": "",
       "name": "Petro de Luanda",
       "desc": "Luanda — prezývka „Petroleiros“, spolu s Primeiro de Agosto rekordný majster domácej ligy (19 titulov), aktuálny šampión sezóny 2025/26.",
-      "url": "https://petroatletico.co.ao/basquetebol",
+      "url": "https://www.facebook.com/atleticopetroleosluanda/",
       "order": 10,
       "desc_en": "Luanda — nicknamed \"Petroleiros\", tied with Primeiro de Agosto as the league's record champions (19 titles), reigning champions of the 2025/26 season."
     },
@@ -129212,7 +129124,7 @@
       "name": "Irak",
       "name_en": "Iraq",
       "desc": "Iracká hádzanárska federácia (IQHF) — reprezentácie a domáce súťaže.",
-      "url": "https://iqhf.org.iq",
+      "url": "https://www.facebook.com/ihf.iq",
       "order": 10,
       "desc_en": "Iraqi Handball Federation (IQHF) — national teams and domestic competitions."
     },
@@ -143915,7 +143827,7 @@
       "icon": "",
       "name": "Petro de Luanda",
       "desc": "Luanda — hádzanársky oddiel viacšportového klubu Atlético Petróleos de Luanda, prezývaného „tricolores“.",
-      "url": "https://petroatletico.co.ao/noticia/category/andebol",
+      "url": "https://www.facebook.com/atleticopetroleosluanda/",
       "order": 4,
       "desc_en": "Luanda — the handball section of the multi-sport Atlético Petróleos de Luanda, nicknamed \"os tricolores\"."
     },
@@ -146750,11 +146662,11 @@
       "type": "link",
       "icon": "",
       "name": "Abierto GNP Seguros",
-      "desc": "Turnaj na tvrdom povrchu v mexickom Monterrey — hrá sa koncom augusta v areáli Sierra Madre.",
-      "url": "https://abiertognpseguros.com/",
+      "desc": "Turnaj na tvrdom povrchu v mexickom Monterrey — hrá sa koncom augusta v areáli Club Sonoma.",
+      "url": "https://www.wtatennis.com/tournaments/1039/monterrey",
       "order": 12,
       "name_en": "Abierto GNP Seguros",
-      "desc_en": "A hard-court event in Monterrey, Mexico — played in late August at the Sierra Madre complex."
+      "desc_en": "A hard-court event in Monterrey, Mexico — played in late August at Club Sonoma."
     },
     {
       "id": "n1788830000013w5h",
@@ -148127,9 +148039,9 @@
       "icon": "am",
       "name": "Arménsko",
       "name_en": "Armenia",
-      "desc": "Tennis Federation of Armenia — arménsky zväz so sídlom v Jerevane, kalendár turnajov, rebríčky a reprezentácia.",
-      "desc_en": "Tennis Federation of Armenia — the Armenian association based in Yerevan, tournament calendar, rankings and national teams.",
-      "url": "https://www.tennisarmenia.org/",
+      "desc": "Tennis Federation of Armenia — oficiálna FB stránka arménskeho zväzu so sídlom v Jerevane: turnaje, reprezentácia a správy zo zväzu.",
+      "desc_en": "Tennis Federation of Armenia — the official Facebook page of the Yerevan-based association: tournaments, national teams and federation news.",
+      "url": "https://www.facebook.com/profile.php?id=61573835274581",
       "order": 2,
       "order_en": 2
     },
@@ -148699,9 +148611,9 @@
       "icon": "ng",
       "name": "Nigéria",
       "name_en": "Nigeria",
-      "desc": "Nigeria Tennis Federation so sídlom v Národnom štadióne v Abuji; členstvo, tréningové programy, hráči a rebríčky, novinky a podujatia.",
-      "desc_en": "The Nigeria Tennis Federation, based at the National Stadium in Abuja; membership, coaching programmes, players and rankings, news and events.",
-      "url": "https://nigeriatennisfederation.org/",
+      "desc": "Nigeria Tennis Federation so sídlom v Národnom štadióne v Abuji — oficiálna FB stránka zväzu: turnaje, reprezentácia, hráči a novinky.",
+      "desc_en": "The Nigeria Tennis Federation, based at the National Stadium in Abuja — the official Facebook page: tournaments, national teams, players and news.",
+      "url": "https://www.facebook.com/nigeriatennis",
       "order": 18,
       "order_en": 18
     },
@@ -155243,7 +155155,7 @@
       "icon": "",
       "name": "Prince George Spruce Kings",
       "desc": "Prince George na severe Britskej Kolumbie, Kopar Memorial Arena — majster BCHL 2019.",
-      "url": "https://www.sprucekings.bc.ca/",
+      "url": "https://www.sprucekings.net/",
       "order": 11,
       "desc_en": "Prince George in northern British Columbia, Kopar Memorial Arena — BCHL champion in 2019.",
       "fb": "https://www.facebook.com/sprucekings/",
@@ -157055,7 +156967,7 @@
       "icon": "",
       "name": "Salavat Julajev Ufa",
       "desc": "Ufa (Baškirsko) — klub z roku 1957, víťaz Gagarinovho pohára 2011, hrá v Ufa Arene.",
-      "url": "https://hcsalavat.ru/",
+      "url": "https://en.khl.ru/clubs/salavat_yulaev/",
       "order": 12,
       "desc_en": "Ufa (Bashkortostan) — founded in 1957, Gagarin Cup winner in 2011, playing at Ufa Arena.",
       "fb": "https://www.facebook.com/hcsalavat/",
@@ -165261,9 +165173,9 @@
       "icon": "lk",
       "name": "Srí Lanka",
       "name_en": "Sri Lanka",
-      "desc": "Srílanský volejbalový zväz — oficiálny web s výsledkami, turnajmi, dokumentmi a plážovým volejbalom.",
-      "desc_en": "Sri Lanka Volleyball Federation — official website with results, tournaments, documents and beach volleyball.",
-      "url": "https://srilankavolleyball.lk/",
+      "desc": "Srílanský volejbalový zväz — oficiálna FB stránka s výsledkami, turnajmi, školskými šampionátmi a plážovým volejbalom.",
+      "desc_en": "Sri Lanka Volleyball Federation — official Facebook page with results, tournaments, school championships and beach volleyball.",
+      "url": "https://www.facebook.com/profile.php?id=100068718775032",
       "order": 51,
       "order_en": 51
     },
@@ -184880,10 +184792,9 @@
       "name": "Taichung Winstreak",
       "desc": "Tchaj-čung — klub založený v roku 2022, jeden zo štyroch zakladajúcich tímov TPVL; základnú časť prvej sezóny 2025/26 vyhral s bilanciou 43 – 5, v semifinále však vypadol. Titulárnym partnerom sa mesto Tchaj-čung stalo v septembri 2025, dovtedy tím hral ako Lien-čuang (連莊). Domácou halou je hala Národnej taiwanskej športovej univerzity.",
       "desc_en": "Taichung — founded in 2022 and one of the four TPVL founding teams; it topped the regular season of the inaugural 2025/26 campaign at 43–5 but went out in the semi-finals. The city of Taichung became title partner in September 2025, before which the team played simply as Win Streak (連莊). It plays at the National Taiwan University of Sport arena.",
-      "url": "https://winstreak-volleyball.com/",
+      "url": "https://www.facebook.com/profile.php?id=100083233807230",
       "order": 1,
       "order_en": 1,
-      "fb": "https://www.facebook.com/profile.php?id=100083233807230",
       "ig": "https://www.instagram.com/winstreakvolleyball/"
     },
     {
@@ -184908,10 +184819,9 @@
       "name": "Taoyuan Leopards",
       "desc": "Tchao-jüan — zakladajúci klub TPVL z roku 2025, ktorý vznikol pod menom Čchang-wej a názov Leopards prijal v júni 2025; v prvej sezóne 2025/26 prehral finále s TSG SkyHawks 0:3. Domácou halou je hala Univerzity Čung-jüan.",
       "desc_en": "Taoyuan — a TPVL founding club from 2025, originally set up as Chang Wei and renamed Leopards in June 2025; it lost the inaugural 2025/26 final to the TSG SkyHawks 0–3. It plays at the Chung Yuan Christian University arena.",
-      "url": "https://ty-leopards-vb.com/",
+      "url": "https://www.facebook.com/profile.php?id=61576925765782",
       "order": 3,
       "order_en": 3,
-      "fb": "https://www.facebook.com/profile.php?id=61576925765782",
       "ig": "https://www.instagram.com/taoyuanleopards_official/"
     },
     {
@@ -191668,7 +191578,7 @@
       "name": "Praia Clube",
       "desc": "Uberlândia — mužský tím viacšportového klubu skončil v základnej časti 2025/26 tretí; v Superlige hrá ako Praia Clube Uberlândia Vôlei. Odkaz vedie na volejbalovú sekciu oficiálneho webu klubu.",
       "desc_en": "Uberlândia — the multi-sport club’s men’s team finished third in the 2025/26 regular season; it plays in the Superliga as Praia Clube Uberlândia Vôlei. The link goes to the volleyball section of the club’s official website.",
-      "url": "https://praiaclube.org.br/volei-masculino/",
+      "url": "https://praiaclube.org.br/praia-clube-uberlandia-volei/",
       "order": 5,
       "order_en": 5,
       "fb": "https://www.facebook.com/uberlandiavolei/",
@@ -193630,12 +193540,11 @@
       "type": "link",
       "icon": "",
       "name": "Criollas de Caguas",
-      "desc": "Caguas — pätnásťnásobné majsterky LVSF, naposledy v ročníku 2025. Oficiálny web tímu so správami, súpiskou, tabuľkou a výsledkami.",
-      "desc_en": "Caguas — 15-time LVSF champions, most recently in 2025. The team’s official website with news, roster, standings and results.",
-      "url": "https://www.lascriollasdecaguas.com/",
+      "desc": "Caguas — pätnásťnásobné majsterky LVSF, naposledy v ročníku 2025. Oficiálna FB stránka tímu so správami a zápasmi.",
+      "desc_en": "Caguas — 15-time LVSF champions, most recently in 2025. The team’s official Facebook page with news and matches.",
+      "url": "https://www.facebook.com/profile.php?id=100083092312986",
       "order": 2,
       "order_en": 2,
-      "fb": "https://www.facebook.com/profile.php?id=100083092312986",
       "ig": "https://www.instagram.com/oficialcriollasdecaguas/"
     },
     {
@@ -209748,6 +209657,325 @@
       "url": "https://news.nago.tv/sport",
       "order": 8,
       "desc_en": "Sports news from the Haitian TV and radio network NAGO: the Grenadiers, domestic D1, youth and school teams, Haitians abroad and world football; site in French, English, Spanish and Creole."
+    },
+    {
+      "id": "n17946844411472kd",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "Jamaica Gleaner sports",
+      "desc": "Jamajský futbal od Reggae Boyz cez ligu JPL po školské Manning a daCosta Cup, k tomu kriket, atletika a netbal – reportáže a rozhovory. Denník založený v roku 1834.",
+      "url": "https://jamaica-gleaner.com/sports",
+      "order": 0,
+      "desc_en": "Jamaican football from the Reggae Boyz and the JPL to schoolboy Manning and daCosta Cup, plus cricket, athletics and netball – match reports and interviews. Daily founded in 1834."
+    },
+    {
+      "id": "n1794684441148a48",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "Jamaica Observer sports",
+      "desc": "Športové správy Jamajky: školský futbal ISSA, liga JPL, Reggae Boyz, kriket Západnej Indie, basketbal, golf a dostihy. Celoštátny denník založený v roku 1993.",
+      "url": "https://www.jamaicaobserver.com/category/sports/",
+      "order": 1,
+      "desc_en": "Sports news from Jamaica: ISSA schoolboy football, the JPL, the Reggae Boyz, West Indies cricket, basketball, golf and horse racing. National daily founded in 1993."
+    },
+    {
+      "id": "n17946844411492v0",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "The Star sports",
+      "desc": "Jamajský šport v kratších správach večerníka zo skupiny Gleaner: školský futbal, Reggae Boyz, atletika, kriket a dostihy. Vychádza od roku 1951.",
+      "url": "https://jamaica-star.com/sports",
+      "order": 2,
+      "desc_en": "Jamaican sport in shorter news items from the Gleaner group's evening tabloid: schoolboy football, the Reggae Boyz, athletics, cricket and horse racing. Published since 1951."
+    },
+    {
+      "id": "n1794684441150of5",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "Caribbean National Weekly sports",
+      "desc": "Jamajský a karibský šport pre diaspóru v USA: Reggae Boyz a Reggae Girlz, futbalový zväz JFF, kriket Západnej Indie a atletika. Týždenník z Floridy, vychádza od roku 2004.",
+      "url": "https://www.caribbeannationalweekly.com/categories/sports",
+      "order": 3,
+      "desc_en": "Jamaican and Caribbean sport for the diaspora in the USA: the Reggae Boyz and Reggae Girlz, the JFF, West Indies cricket and athletics. Florida-based weekly published since 2004."
+    },
+    {
+      "id": "n1794684441151vvq",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "Nationwide 90FM sports",
+      "desc": "Kingstonské spravodajské rádio o jamajskom športe: Reggae Boyz, školský futbal (Manning Cup, Walker Cup), kriket Západnej Indie a jamajskí futbalisti v zahraničí.",
+      "url": "https://nationwideradiojm.com/category/sports/",
+      "order": 4,
+      "desc_en": "Kingston news radio covering Jamaican sport: the Reggae Boyz, schoolboy football (Manning Cup, Walker Cup), West Indies cricket and Jamaican footballers abroad."
+    },
+    {
+      "id": "n1794684441152915",
+      "parentId": "f_med_na_jm",
+      "type": "link",
+      "icon": "",
+      "name": "Irie FM sports",
+      "desc": "Šport z Jamajky v rádiu Irie FM z Ocho Rios: Reggae Boyz a Reggae Girlz, liga JPL, netbal Sunshine Girls, atletika aj miestne podujatia. Prvá jamajská reggae stanica (1990).",
+      "url": "https://iriefm.net/category/sports/",
+      "order": 5,
+      "desc_en": "Sport from Jamaica on Ocho Rios-based Irie FM: the Reggae Boyz and Reggae Girlz, the JPL, Sunshine Girls netball, athletics and local events. Jamaica's first all-reggae station (1990)."
+    },
+    {
+      "id": "n1794691816170ksg",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "Wired868",
+      "desc": "Trinidadský športový web o futbalovej reprezentácii T&T, školskej lige SSFL, domácej lige TTPFL a krikete Západnej Indie – správy, reportáže zo zápasov, rozbory a komentáre.",
+      "url": "https://wired868.com/category/volley/",
+      "order": 0,
+      "desc_en": "Trinidadian sports website covering the T&T national football teams, the SSFL schools league, the domestic TTPFL and West Indies cricket – news, match reports, analysis and commentary."
+    },
+    {
+      "id": "n1794691816171j4c",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "Trinidad Express sports",
+      "desc": "Šport z Port of Spain v rubrike denníka Express: futbalová reprezentácia T&T, školský futbal SSFL, kriket Západnej Indie, atletika a dostihy – domáce, karibské aj svetové správy. Vychádza od roku 1967.",
+      "url": "https://trinidadexpress.com/sports/",
+      "order": 1,
+      "desc_en": "Sport from Port of Spain in the Express daily: the T&T national football team, SSFL schools football, West Indies cricket, athletics and horse racing – local, regional and world news. Published since 1967."
+    },
+    {
+      "id": "n1794691816172u5y",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "Trinidad Guardian sport",
+      "desc": "Športové správy z Trinidadu a Tobaga: reprezentačný futbal, kriket Západnej Indie, školské ligy, netbal, pozemný hokej a jachting, aj stĺpčeky domácich publicistov. Najstarší denník krajiny (1917).",
+      "url": "https://www.guardian.co.tt/sport-6.5.0.af15bb2504",
+      "order": 2,
+      "desc_en": "Sports news from Trinidad and Tobago: national team football, West Indies cricket, school leagues, netball, hockey and sailing, plus columns by local writers. The country's oldest daily (1917)."
+    },
+    {
+      "id": "n17946918161739f1",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "TTT sports",
+      "desc": "Štátna televízia T&T o domácom športe: futbal od reprezentácie po školskú ligu SSFL a tobažskú ligu, kriket, netbal, jachting a mládežnícke turnaje. TTT založená v roku 1962, obnovená v roku 2018.",
+      "url": "https://www.ttt.live/category/sports/",
+      "order": 3,
+      "desc_en": "T&T's state broadcaster on local sport: football from the national team to the SSFL schools league and the Tobago league, cricket, netball, sailing and youth tournaments. TTT was founded in 1962 and relaunched in 2018."
+    },
+    {
+      "id": "n17946918161748o8",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "TV6 Sports",
+      "desc": "Krátke športové správy trinidadskej televízie TV6 z večerných správ – videá o futbalovej reprezentácii, školskej lige SSFL, netbale a krikete, aj relácia TV6 Sports.",
+      "url": "https://www.tv6tnt.com/tv6sports/",
+      "order": 4,
+      "desc_en": "Short sports reports from Trinidadian TV6's evening news – video clips on the national football team, the SSFL schools league, netball and cricket, plus the TV6 Sports show."
+    },
+    {
+      "id": "n1794691816175t7r",
+      "parentId": "f_med_na_tt",
+      "type": "link",
+      "icon": "",
+      "name": "Tobago Updates sports",
+      "desc": "Šport z ostrova Tobago na portáli a v televízii Tobago Updates: školský futbal SSFL, liga Tobago Football Association, zápasy na štadióne Dwight Yorke, netbal a miestne turnaje, aj videá.",
+      "url": "https://tobagoupdatestelevision.com/sports",
+      "order": 5,
+      "desc_en": "Sport from the island of Tobago on the Tobago Updates portal and TV channel: SSFL schools football, the Tobago Football Association league, matches at Dwight Yorke Stadium, netball and local tournaments, with videos."
+    },
+    {
+      "id": "n17946940618139io",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "Kaieteur News sports",
+      "desc": "Domáci šport v rubrike Kaieteur Sports súkromného denníka z Georgetownu: kriket od mládeže po výber Guyany, futbalová reprezentácia Golden Jaguars, školský futbal, golf a dáma. Založený v roku 1994.",
+      "url": "https://kaieteurnewsonline.com/category/sports/",
+      "order": 0,
+      "desc_en": "Local sport in the Kaieteur Sports section of the private Georgetown daily: cricket from youth level to Guyana select squads, the Golden Jaguars national football team, schools football, golf and draughts. Founded in 1994."
+    },
+    {
+      "id": "n1794694061814ncn",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "Guyana Times sports",
+      "desc": "Športové správy z Guyany v denníku Guyana Times: futbal Golden Jaguars a mládežnícke turnaje, kriket, rugby Green Machine, cyklistika a golf, aj svetový kriket. Denník vychádza od júna 2008.",
+      "url": "https://guyanatimesgy.com/category/sports/",
+      "order": 1,
+      "desc_en": "Guyanese sports news in the Guyana Times daily: Golden Jaguars football and youth tournaments, cricket, the Green Machine rugby team, cycling and golf, plus world cricket. Published since June 2008."
+    },
+    {
+      "id": "n1794694061815kyn",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "Kiskadee Watch sports",
+      "desc": "Guyanský šport v novom online denníku bývalých redaktorov Stabroek News: atletika, kriket, futbal, basketbal, box, cyklistika, dostihy a golf, aj správy zo sveta. Spustený 14. júna 2026.",
+      "url": "https://kiskadeewatch.com/sports/",
+      "order": 2,
+      "desc_en": "Guyanese sport in the new online daily run by former Stabroek News staff: athletics, cricket, football, basketball, boxing, cycling, horse racing and golf, plus world news. Launched on 14 June 2026."
+    },
+    {
+      "id": "n1794694061816zyl",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "Village Voice News sports",
+      "desc": "Guyanské a karibské športové správy portálu Village Voice z Georgetownu: kriket Západnej Indie, futbalová Elite League a projekty FIFA v Guyane, šach a golf, aj svetový kriket.",
+      "url": "https://villagevoicenews.com/category/sports/",
+      "order": 3,
+      "desc_en": "Guyanese and Caribbean sports news from Georgetown's Village Voice: West Indies cricket, the Elite League and FIFA projects in Guyana, chess and golf, plus world cricket."
+    },
+    {
+      "id": "n1794694061817hb0",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "iNews Guyana sports",
+      "desc": "Spravodajský portál z Georgetownu o guyanskom športe: reprezentácia Golden Jaguars, školský futbal ExxonMobil U18, dostihy, atletika a kriket, aj krátke svetové správy.",
+      "url": "https://inewsguyana.com/category/sports/",
+      "order": 4,
+      "desc_en": "Georgetown news portal on Guyanese sport: the Golden Jaguars national team, ExxonMobil U18 schools football, horse racing, athletics and cricket, plus short world news."
+    },
+    {
+      "id": "n17946940618189h4",
+      "parentId": "f_med_na_gy",
+      "type": "link",
+      "icon": "",
+      "name": "News Room Guyana sports",
+      "desc": "Šport zo spravodajstva News Room, ktoré vysiela kanál E1 siete E-Networks: guyanský kriket a turnaj DCB T10, Golden Jaguars, box, atletika, motokáry a futsal. Funguje od roku 2016.",
+      "url": "https://newsroom.gy/sports/",
+      "order": 5,
+      "desc_en": "Sport from News Room, the daily news broadcast on the E-Networks channel E1: Guyanese cricket and the DCB T10, the Golden Jaguars, boxing, athletics, karting and futsal. Running since 2016."
+    },
+    {
+      "id": "n179469551186353i",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "QN Sport+",
+      "desc": "Surinamský športový web televízie QN Sport+ – reprezentácia Natio, Suriname Major League, Savanne Rally a domáce súťaže, popri tom európsky futbal, NBA a tenis.",
+      "url": "https://www.qn-sports.com/",
+      "order": 0,
+      "desc_en": "Surinamese sports site of the QN Sport+ TV channel – the Natio national team, Suriname Major League, the Savanne Rally and local events, plus European football, NBA and tennis."
+    },
+    {
+      "id": "n1794695511864zia",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Times of Suriname sport",
+      "desc": "Surinamský šport v denníku Times of Suriname – Suriname Major League, reprezentácia Natio, badminton, Savanne Rally a ďalšie domáce športy, k tomu svetový futbal, NBA a tenis.",
+      "url": "https://www.surinametimes.com/sport",
+      "order": 1,
+      "desc_en": "Suriname sport in the Times of Suriname daily – the Suriname Major League, the Natio national team, badminton, the Savanne Rally and other local sports, plus world football, NBA and tennis."
+    },
+    {
+      "id": "n17946955118653mz",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "De Ware Tijd sport",
+      "desc": "Domáci šport zo Surinamu: reportáže zo Suriname Major League, mládežnícke turnaje, kulturistika, cyklistika a športové podujatia v Paramaribe. Denník De Ware Tijd vychádza od roku 1957.",
+      "url": "https://dwtonline.com/category/sport/",
+      "order": 2,
+      "desc_en": "Home sport from Suriname: Suriname Major League match reports, youth tournaments, bodybuilding, cycling and sports events in Paramaribo. The De Ware Tijd daily has been published since 1957."
+    },
+    {
+      "id": "n1794695511866lr2",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Dagblad Suriname sport",
+      "desc": "Športové správy surinamského denníka: prehľady futbalových výsledkov, európske ligy, NBA, formula 1 a tenis, aj surinamský futbal a dáma. Dagblad Suriname vychádza od roku 2002.",
+      "url": "https://www.dbsuriname.com/category/sport/",
+      "order": 3,
+      "desc_en": "Sports news from a Surinamese daily: football results round-ups, European leagues, NBA, Formula 1 and tennis, as well as Surinamese football and draughts. Dagblad Suriname has been published since 2002."
+    },
+    {
+      "id": "n1794695511867h0l",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Suriname Herald sport",
+      "desc": "Športový servis Suriname Herald – reprezentácia Natio, badminton, lukostreľba, šach, dáma, atletika a 3×3 basketbal so surinamskými športovcami doma aj v zahraničí.",
+      "url": "https://www.srherald.com/category/sport/",
+      "order": 4,
+      "desc_en": "Sport coverage from Suriname Herald – the Natio national team, badminton, archery, chess, draughts, athletics and 3×3 basketball featuring Surinamese athletes at home and abroad."
+    },
+    {
+      "id": "n1794695511868xx0",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Key News sport",
+      "desc": "Šport zo Surinamu na portáli Key News: Natio a otázka pasov hráčov z Holandska, mládežnícky šach, podpora športových zväzov aj správy z FIFA. Portál sa venuje aj surinamskej diaspóre.",
+      "url": "https://keynews.sr/category/nieuws/sport/",
+      "order": 5,
+      "desc_en": "Suriname sport on the Key News portal: the Natio team and the passport issue of Dutch-based players, youth chess, support for sports federations and FIFA news. The portal also covers the Surinamese diaspora."
+    },
+    {
+      "id": "n1794695511869jf8",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Waterkant sport",
+      "desc": "Surinamské športové správy z portálu Waterkant – reprezentácia Natio, surinamskí hráči v Holandsku, futbalový zväz SVB, atletika a ženský futbal.",
+      "url": "https://www.waterkant.net/suriname/category/onderwerpen/sport/",
+      "order": 6,
+      "desc_en": "Surinamese sports news from the Waterkant portal – the Natio national team, Surinamese players in the Netherlands, the SVB football association, athletics and women's football."
+    },
+    {
+      "id": "n179469551187065t",
+      "parentId": "f_med_na_sr",
+      "type": "link",
+      "icon": "",
+      "name": "Culturu sport",
+      "desc": "Športová rubrika portálu Culturu pre Surinamcov doma aj v Holandsku: Natio, Suriname Major League a Savanne Rally, ale aj Eredivisie, holandská reprezentácia a európsky futbal.",
+      "url": "https://www.culturu.com/nieuws/rubriek/sport/",
+      "order": 7,
+      "desc_en": "Sports section of the Culturu portal for Surinamese at home and in the Netherlands: Natio, the Suriname Major League and the Savanne Rally, along with the Eredivisie, the Dutch national team and European football."
+    },
+    {
+      "id": "n1794696444180gqf",
+      "parentId": "f_med_na_gf",
+      "type": "link",
+      "icon": "",
+      "name": "France-Guyane sports",
+      "desc": "Športové správy z Francúzskej Guyany – futbal, hádzaná, basketbal, cyklistika s Tour de Guyane aj futsal, výsledky miestnych klubov a reprezentácie Yana Dòkò. Regionálny denník z Cayenne, založený 1973.",
+      "url": "https://www.franceguyane.fr/actualite/sports/",
+      "order": 0,
+      "desc_en": "French Guiana sports news – football, handball, basketball, cycling including the Tour de Guyane and futsal, with local club results and the Yana Dòkò national team. Regional daily from Cayenne, founded in 1973."
+    },
+    {
+      "id": "n17946964441813c3",
+      "parentId": "f_med_na_gf",
+      "type": "link",
+      "icon": "",
+      "name": "Guyane la 1ère sport",
+      "desc": "Guyanský šport vo verejnoprávnom spravodajstve – futbal a Coupe de France, futsal, atletika, silový trojboj či petang, portréty športovcov a dianie od Cayenne po Saint-Laurent. Stanica France Télévisions.",
+      "url": "https://la1ere.franceinfo.fr/sport?r=guyane",
+      "order": 1,
+      "desc_en": "Guianese sport in public-service news – football and the Coupe de France, futsal, athletics, powerlifting and pétanque, athlete profiles and events from Cayenne to Saint-Laurent. A France Télévisions station."
+    },
+    {
+      "id": "n17946964441820vt",
+      "parentId": "f_med_na_gf",
+      "type": "link",
+      "icon": "",
+      "name": "Péyi Guyane sport",
+      "desc": "Šport vo Francúzskej Guyane očami súkromného rádia a TV – hádzaná a Supercoupe Antilles-Guyane, plážový volejbal, behy a maratón na rieke, ragby, box aj futbalová reprezentácia. Radio Péyi, od 2025 aj Télé Péyi.",
+      "url": "https://www.peyiguyane.com/actualites/rubrique/sport",
+      "order": 2,
+      "desc_en": "Sport in French Guiana from a private radio and TV broadcaster – handball and the Antilles-Guyane Super Cup, beach volleyball, running and river marathon, rugby, boxing and the national football team. Radio Péyi, with Télé Péyi since 2025."
     }
   ],
   "title_en": "Sportlinking",
@@ -209825,5 +210053,5 @@
     "label": "REKLAMA · TIPSPORT",
     "sectionId": "f_tip"
   },
-  "updated": "2026-11-09T17:04:40.000Z"
+  "updated": "2026-11-16T22:07:16.000Z"
 }
