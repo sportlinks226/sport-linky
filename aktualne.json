@@ -1,6 +1,6 @@
 {
- "version": 15,
- "updated": "2026-11-16T13:34:00.899Z",
+ "version": 16,
+ "updated": "2026-11-17T09:43:54.679Z",
  "items": [
   {
    "id": "a179432669607026f3",
@@ -299,7 +299,7 @@
    "desc_en": "Europe's top club competition – round schedule, results and live game scores",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": true,
+   "disabled": false,
    "addedAt": 1794244680297
   },
   {
@@ -314,7 +314,7 @@
    "desc_en": "Europe's second-tier club competition – round schedule, results and live game scores",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": true,
+   "disabled": false,
    "addedAt": 1794244680297
   },
   {
@@ -329,7 +329,7 @@
    "desc_en": "Live scores of all CEV cups – Champions League, CEV Cup and Challenge Cup for men and women in a day-by-day calendar",
    "startsAt": "2026-11-09",
    "endsAt": "",
-   "disabled": true,
+   "disabled": false,
    "addedAt": 1794244680297
   },
   {
@@ -344,7 +344,7 @@
    "desc_en": "Europe's top men's club competition – day-by-day match schedule with results and scores",
    "startsAt": "2026-11-10",
    "endsAt": "",
-   "disabled": true,
+   "disabled": false,
    "addedAt": 1794316811351
   },
   {
