@@ -725,7 +725,7 @@ button#aktMoreBadge{-webkit-appearance:none;appearance:none;margin:0;border:0;fo
   #aktualneScroll{display:block!important;column-width:278px;column-gap:20px;overflow:visible!important}
   #aktualneScroll .akt-card{
     display:flex;gap:7px;break-inside:avoid;
-    background:none;border:0;border-radius:6px;padding:3px 6px;
+    background:none;border:0;border-radius:6px;padding:6px 6px 0;
     font-size:.84rem;line-height:1.25;font-weight:400;white-space:nowrap;
   }
   #aktualneScroll .akt-card .akt-icon{font-size:.95rem;width:20px;text-align:center;flex-shrink:0}
@@ -734,8 +734,10 @@ button#aktMoreBadge{-webkit-appearance:none;appearance:none;margin:0;border:0;fo
   /* šport pred „ – “ sivou a normálnou hrúbkou (kontrast #90a5b7 na #0f1923 ≈ 7 : 1) */
   #aktualneScroll .akt-sp{color:var(--muted);font-weight:400}
   /* NEW nad pravým horným rohom ikonky — nezaberá miesto v riadku, obrys farbou pozadia */
+  /* Zadanie 60: štítok NEW nesmie vytŕčať nad kartu — v CSS stĺpcoch by sa jeho kúsok vykreslil
+     na spodok predchádzajúceho stĺpca (preto karta má hore padding 6px a štítok top:0) */
   #aktualneScroll .akt-new{
-    top:-3px;left:15px;right:auto;font-size:7px;line-height:1;padding:1.5px 3px;
+    top:0;left:15px;right:auto;font-size:7px;line-height:1;padding:1.5px 3px;
     border-radius:5px;letter-spacing:.3px;box-shadow:0 0 0 1.5px var(--bg);
   }
 }
