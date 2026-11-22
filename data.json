@@ -1,5 +1,5 @@
 {
-  "version": 1257,
+  "version": 1263,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -15430,11 +15430,12 @@
       "type": "folder",
       "icon": "ao",
       "name": "Angola",
-      "desc": "",
+      "desc": "Angolské športové weby, denníky, portály a rozhlas: Planeta Desportivo, O País, Correio da Kianda, Noticiário, agentúra ANGOP a RNA Rádio 5. Liga Unitel Girabola s klubmi Petro de Luanda, 1.º de Agosto a Wiliete, Palancas Negras a kvalifikácia na Africký pohár národov 2027, basketbal, hádzaná, futsal a hokej na kolieskových korčuliach.",
       "order": 1,
       "slug": "angola",
       "slug_en": "angola",
-      "name_en": "Angola"
+      "name_en": "Angola",
+      "desc_en": "Angolan sports websites, newspapers, portals and radio: Planeta Desportivo, O País, Correio da Kianda, Noticiário, the ANGOP agency and RNA Rádio 5. The Liga Unitel Girabola with Petro de Luanda, 1.º de Agosto and Wiliete, the Palancas Negras and 2027 AFCON qualifying, basketball, handball, futsal and roller hockey."
     },
     {
       "id": "f_med_af_bj",
@@ -15539,11 +15540,12 @@
       "type": "folder",
       "icon": "et",
       "name": "Etiópia",
-      "desc": "",
+      "desc": "Etiópske športové správy, väčšinou v amharčine: Soccer Ethiopia, HatricSport, Sport Corner Ethiopia, agentúra ENA, televízie EBC a Fana a Ameco Sport. Premier League s klubmi Saint George, Ethiopian Coffee, Fasil Kenema a Negelle Arsi, reprezentácia Walias v kvalifikácii o Africký pohár, ženská liga, atletika a Great Ethiopian Run.",
       "order": 10,
       "slug": "etiopia",
       "name_en": "Ethiopia",
-      "slug_en": "ethiopia"
+      "slug_en": "ethiopia",
+      "desc_en": "Ethiopian sports news, mostly in Amharic: Soccer Ethiopia, HatricSport, Sport Corner Ethiopia, the ENA agency, EBC and Fana television and Ameco Sport. The Ethiopian Premier League with Saint George, Ethiopian Coffee, Fasil Kenema and Negelle Arsi, the Walias in AFCON qualifying, the women's league, athletics and the Great Ethiopian Run."
     },
     {
       "id": "f_med_af_ga",
@@ -15637,11 +15639,12 @@
       "type": "folder",
       "icon": "cm",
       "name": "Kamerun",
-      "desc": "",
+      "desc": "Kamerunské športové weby a portály: Camfoot, Camerfoot-infos, KICK442, Allez Les Lions, CamerounSports, Actu Cameroun, Le Bled Parle a CamerounWeb. Lions indomptables a Lionnes, liga MTN Elite One, ženská Guinness Super League, Kamerunčania v európskych kluboch, basketbal, volejbal a MMA.",
       "order": 18,
       "slug": "kamerun",
       "name_en": "Cameroon",
-      "slug_en": "cameroon"
+      "slug_en": "cameroon",
+      "desc_en": "Cameroonian sports websites and portals: Camfoot, Camerfoot-infos, KICK442, Allez Les Lions, CamerounSports, Actu Cameroun, Le Bled Parle and CamerounWeb. The Indomitable Lions and Lionesses, the MTN Elite One, the women's Guinness Super League, Cameroonians in European clubs, basketball, volleyball and MMA."
     },
     {
       "id": "f_med_af_cv",
@@ -15698,11 +15701,12 @@
       "type": "folder",
       "icon": "cd",
       "name": "Kongo (DR)",
-      "desc": "",
+      "desc": "Konžské (RDC) športové weby, portály a médiá: Info Sport RDC, Irisfootball, Go Sport, Actualite.cd, Mediacongo, agentúra ACP a Radio Okapi. Léopards a kvalifikácia Afrického pohára národov, Linafoot, TP Mazembe a AS Vita Club, Kongolčania v európskych kluboch a v NBA, basketbal, box a karate.",
       "order": 23,
       "slug": "konzska-dem-rep",
       "name_en": "DR Congo",
-      "slug_en": "dr-congo"
+      "slug_en": "dr-congo",
+      "desc_en": "Sports websites, portals and media from DR Congo: Info Sport RDC, Irisfootball, Go Sport, Actualite.cd, Mediacongo, the ACP agency and Radio Okapi. The Léopards and AFCON qualifying, the Linafoot, TP Mazembe and AS Vita Club, Congolese players in European clubs and the NBA, basketball, boxing and karate."
     },
     {
       "id": "f_med_af_ls",
@@ -15868,11 +15872,12 @@
       "type": "folder",
       "icon": "ci",
       "name": "Pobrežie Slonoviny",
-      "desc": "",
+      "desc": "Športové weby, denníky a televízia z Pobrežia Slonoviny: Sport-Ivoire.ci, Supersport, MondialSport, Fraternité Matin, Linfodrome, Koaci, AIP a 7info. Éléphants, Ligue 1 s ASEC Mimosas a Africa Sports, basketbal, hádzaná a bojové športy.",
       "order": 37,
       "slug": "pobrezie-slonoviny",
       "name_en": "Ivory Coast",
-      "slug_en": "ivory-coast"
+      "slug_en": "ivory-coast",
+      "desc_en": "Ivorian sports websites, dailies and TV: Sport-Ivoire.ci, Supersport, MondialSport, Fraternité Matin, Linfodrome, Koaci, AIP and 7info. The Éléphants, Ligue 1 with ASEC Mimosas and Africa Sports, basketball, handball and combat sports."
     },
     {
       "id": "f_med_af_gq",
@@ -16001,11 +16006,12 @@
       "type": "folder",
       "icon": "tz",
       "name": "Tanzánia",
-      "desc": "",
+      "desc": "Tanzánske športové správy vo svahilčine aj angličtine: Mwanaspoti, Soka la Bongo, Soka Letu, Sokaleo, SportsLeo Bongo, The Citizen, Mwananchi a TBC. Ligi Kuu Bara (NBC Premier League) so Simbou, Yangou a Azamom, Taifa Stars, príprava AFCON 2027, box, basketbal a atletika.",
       "order": 48,
       "slug": "tanzania",
       "name_en": "Tanzania",
-      "slug_en": "tanzania"
+      "slug_en": "tanzania",
+      "desc_en": "Tanzanian sports news in Swahili and English: Mwanaspoti, Soka la Bongo, Soka Letu, Sokaleo, SportsLeo Bongo, The Citizen, Mwananchi and TBC. The NBC Premier League with Simba, Yanga and Azam, Taifa Stars, AFCON 2027 preparations, boxing, basketball and athletics."
     },
     {
       "id": "f_med_af_tg",
@@ -16038,11 +16044,12 @@
       "type": "folder",
       "icon": "ug",
       "name": "Uganda",
-      "desc": "",
+      "desc": "Ugandské športové správy: weby Kawowo, Swift Sports a ChampionSport, denníky Daily Monitor a New Vision, portály Nile Post a ChimpReports, TV NBS a NTV. Uganda Premier League s Vipers, KCCA a SC Villa, Cranes a Cubs, príprava AFCON 2027, rugby, golf, box, kriket a atletika.",
       "order": 51,
       "slug": "uganda",
       "slug_en": "uganda",
-      "name_en": "Uganda"
+      "name_en": "Uganda",
+      "desc_en": "Ugandan sports news: Kawowo, Swift Sports and ChampionSport, the Daily Monitor and New Vision, Nile Post and ChimpReports, plus NBS and NTV television. The Uganda Premier League with Vipers, KCCA and SC Villa, the Cranes and Cubs, AFCON 2027 preparations, rugby, golf, boxing, cricket and athletics."
     },
     {
       "id": "f_med_af_zm",
@@ -213714,6 +213721,776 @@
       "url": "https://www.sentv.info/category/actualite-nationale/sport/",
       "order": 17,
       "desc_en": "Sports news from Senegalese TV channel Sen TV: the Lions and AFCON 2027 qualifying, laamb wrestling (Ada Fass vs Balla Gaye 2), the Dakar 2026 YOG, youth World Cups and Senegalese players abroad."
+    },
+    {
+      "id": "n179534446314400kk",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Sport-Ivoire.ci",
+      "desc": "Ivorský športový portál: Éléphants a ženská reprezentácia, Ligue 1 a Ligue 2, africké poháre CAF, basketbal, hádzaná, cyklistika a ďalšie športy, rozhovory a správy z federácií.",
+      "url": "https://www.sport-ivoire.ci/",
+      "order": 0,
+      "desc_en": "Ivorian sports portal: the Éléphants and the women's national team, Ligue 1 and Ligue 2, CAF club competitions, basketball, handball, cycling and other sports, interviews and federation news."
+    },
+    {
+      "id": "n179534446314401mx",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Supersport CI",
+      "desc": "Web ivorského športového denníka Supersport: zápasy Ligue 1 a Ligue 2 (ASEC Mimosas, Africa Sports, AFAD), Éléphants, basketbal, hádzaná, bojové športy, atletika, plávanie a titulná strana novín.",
+      "url": "https://www.supersport.ci/",
+      "order": 1,
+      "desc_en": "Website of the Ivorian sports daily Supersport: Ligue 1 and Ligue 2 match reports (ASEC Mimosas, Africa Sports, AFAD), the Éléphants, basketball, handball, combat sports, athletics, swimming and the paper's front page."
+    },
+    {
+      "id": "n179534446314402fx",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "MondialSport.ci",
+      "desc": "Športové správy z Pobrežia Slonoviny: Ligue 1 LONACI, Éléphants a mládežnícke výbery, turnaje maracana, basketbal (BAL), prestupy, zahraničný futbal, videá a rubrika People.",
+      "url": "https://mondialsport.ci/",
+      "order": 2,
+      "desc_en": "Sports news from Côte d'Ivoire: Ligue 1 LONACI, the Éléphants and youth teams, maracana tournaments, basketball (BAL), transfers, international football, videos and a People section."
+    },
+    {
+      "id": "n179534446314403rc",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Fraternité Matin sports",
+      "desc": "Športová rubrika štátneho denníka Fraternité Matin: Éléphants, ministerstvo športu, stolný tenis, bojové umenia, mládežnícky futbal, školské a regionálne turnaje. Denník vychádza od roku 1964.",
+      "url": "https://www.fratmat.info/sports",
+      "order": 3,
+      "desc_en": "Sports section of the state daily Fraternité Matin: the Éléphants, the sports ministry, table tennis, martial arts, youth football, school and regional tournaments. The paper has been published since 1964."
+    },
+    {
+      "id": "n179534446314404yw",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Linfodrome sport",
+      "desc": "Ivorské športové správy portálu Linfodrome: kvalifikácia CAN 2027 a Éléphants, dianie v CAF, MMA a bojové umenia, vyznamenania športovcov a časy a stanice televíznych prenosov zápasov.",
+      "url": "https://www.linfodrome.com/sport",
+      "order": 4,
+      "desc_en": "Ivorian sports news from the Linfodrome portal: AFCON 2027 qualifying and the Éléphants, CAF affairs, MMA and martial arts, honours for athletes and TV times and channels for key matches."
+    },
+    {
+      "id": "n179534446314405uv",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Koaci sport",
+      "desc": "Športová rubrika portálu Koaci: futbal v Pobreží Slonoviny (Éléphants, voľby vo FIF), taekwondo a ďalšie federácie, dianie v CAF a športové správy z frankofónnej Afriky.",
+      "url": "https://www.koaci.com/index.php/theme/sport",
+      "order": 5,
+      "desc_en": "Sports section of the Koaci portal: Ivorian football (the Éléphants, FIF elections), taekwondo and other federations, CAF affairs and sports news from francophone Africa."
+    },
+    {
+      "id": "n179534446314406ku",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Ivoirematin sport",
+      "desc": "Športové správy ivorského portálu Ivoirematin: Éléphants a kvalifikácia CAN 2027, mládežnícke MS U17, voľby vo futbalovej federácii, vyznamenania športovcov a zahraničný futbal.",
+      "url": "https://www.ivoirematin.com/fr/news/sport",
+      "order": 6,
+      "desc_en": "Sports news from the Ivorian portal Ivoirematin: the Éléphants and AFCON 2027 qualifying, the U17 World Cup, football federation elections, honours for athletes and international football."
+    },
+    {
+      "id": "n179534446314407rh",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "Afrikipresse sport",
+      "desc": "Šport na ivorskom portáli Afrikipresse: Éléphants, výbery U23 a U17, judo Abidjan African Open, taekwondo a africký klubový futbal vrátane ženskej Ligy majstrov CAF.",
+      "url": "https://afrikipresse.com/categorie/sport",
+      "order": 7,
+      "desc_en": "Sport on the Ivorian portal Afrikipresse: the Éléphants, the U23 and U17 teams, judo's Abidjan African Open, taekwondo and African club football including the CAF Women's Champions League."
+    },
+    {
+      "id": "n179534446314408ti",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "AIP sports",
+      "desc": "Športové správy ivorskej tlačovej agentúry AIP: regionálny a školský šport z vnútrozemia (Touba, Bafing), futbal a CAN 2027, taekwondo a federácie. Agentúra vznikla v roku 1961.",
+      "url": "https://www.aip.ci/category/sport/",
+      "order": 8,
+      "desc_en": "Sports news from the Ivorian press agency AIP: regional and school sport from inland areas (Touba, Bafing), football and AFCON 2027, taekwondo and federations. The agency was founded in 1961."
+    },
+    {
+      "id": "n179534446314409rm",
+      "parentId": "f_med_af_ci",
+      "type": "link",
+      "icon": "",
+      "name": "7info sport",
+      "desc": "Športová rubrika ivorskej spravodajskej televízie 7info: Éléphants a kvalifikácia CAN 2027, judo Abidjan African Open, kickbox, taekwondo nepočujúcich športovcov a mládežnícke akadémie.",
+      "url": "https://7info.ci/rubrique/sport",
+      "order": 9,
+      "desc_en": "Sports section of the Ivorian news channel 7info: the Éléphants and AFCON 2027 qualifying, judo's Abidjan African Open, kickboxing, deaf taekwondo athletes and youth sports academies."
+    },
+    {
+      "id": "n179534668308600jv",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Camfoot",
+      "desc": "Kamerunský futbalový web: Lions indomptables a mládežnícke výbery, kamerunskí hráči v európskych kluboch zápas po zápase, liga MTN Elite One, ženská Guinness Super League a regionálna Ligue du Mfoundi.",
+      "url": "https://www.camfoot.com/",
+      "order": 0,
+      "desc_en": "Cameroonian football website: the Indomitable Lions and youth teams, match-by-match coverage of Cameroonian players in European clubs, the MTN Elite One, the women's Guinness Super League and the regional Mfoundi league."
+    },
+    {
+      "id": "n179534668308601kp",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Camerfoot-infos",
+      "desc": "Správy o kamerunskom futbale: MTN Elite One s výsledkami a tabuľkou, Canon Yaoundé a Coton Sport, Lions a Lionnes indomptables, ženská Guinness Super League, legionári, africké poháre CAF a TV program.",
+      "url": "https://camerfoot-infos.com/",
+      "order": 1,
+      "desc_en": "News on Cameroonian football: the MTN Elite One with results and standings, Canon Yaoundé and Coton Sport, the Indomitable Lions and Lionesses, the women's Guinness Super League, players abroad, CAF club cups and TV listings."
+    },
+    {
+      "id": "n179534668308602dx",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "KICK442",
+      "desc": "Kamerunský športový web v angličtine a francúzštine: MTN Elite One, ženská Guinness Super League, regionálne ligy z juhozápadu krajiny, dianie vo FECAFOOT, Lions indomptables a africký futbal.",
+      "url": "https://kick442.com/",
+      "order": 2,
+      "desc_en": "Cameroonian sports website in English and French: the MTN Elite One, the women's Guinness Super League, regional leagues from the South-West, FECAFOOT affairs, the Indomitable Lions and African football."
+    },
+    {
+      "id": "n179534668308603ns",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Allez Les Lions",
+      "desc": "Futbalový web o Kamerune: Lions indomptables, ženská a mládežnícka reprezentácia, Kamerunčania v zahraničných kluboch, domáca liga, história reprezentácie (Mémoire des Lions), videá a zápasové centrum.",
+      "url": "https://allezleslions.net/",
+      "order": 3,
+      "desc_en": "Football website about Cameroon: the Indomitable Lions, the women's and youth national teams, Cameroonians in foreign clubs, the domestic league, national-team history (Mémoire des Lions), videos and a match centre."
+    },
+    {
+      "id": "n179534668308604um",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "CamerounSports",
+      "desc": "Kamerunský multišportový magazín: reprezentácie a liga Elite One, ženský futbal, basketbal a 3x3 (FECABASKET), volejbal, hádzaná, atletika, MMA a UFC a správy z NBA.",
+      "url": "https://camerounsports.info/",
+      "order": 4,
+      "desc_en": "Cameroonian multi-sport magazine: national teams and the Elite One, women's football, basketball and 3x3 (FECABASKET), volleyball, handball, athletics, MMA and UFC, and NBA news."
+    },
+    {
+      "id": "n179534668308605qv",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Actu Cameroun sport",
+      "desc": "Športová rubrika kamerunského spravodajského portálu Actu Cameroun: správy o kamerunskom futbale, národnej reprezentácii a ďalších športoch v krajine.",
+      "url": "https://actucameroun.com/category/sport/",
+      "order": 5,
+      "desc_en": "Sports section of the Cameroonian news portal Actu Cameroun: news on Cameroonian football, the national team and other sports in the country."
+    },
+    {
+      "id": "n179534668308606tr",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Le Bled Parle football",
+      "desc": "Futbalová rubrika kamerunského portálu Le Bled Parle: Lions indomptables a mládežnícke výbery, FECAFOOT a Samuel Eto'o, prestupy kamerunských legionárov, voľby vo FIFA a dianie v CAF.",
+      "url": "https://www.lebledparle.com/actualite/sport/football/",
+      "order": 6,
+      "desc_en": "Football section of the Cameroonian portal Le Bled Parle: the Indomitable Lions and youth teams, FECAFOOT and Samuel Eto'o, transfers of Cameroonian players abroad, the FIFA election and CAF affairs."
+    },
+    {
+      "id": "n179534668308607fo",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "CamerounWeb sport",
+      "desc": "Športové správy portálu CamerounWeb: liga Elite One, ženská Guinness Super League a Liga majstrov CAF žien, spory vo FECAFOOT, Lions indomptables, mládežnícky basketbal a fotogalérie.",
+      "url": "https://www.camerounweb.com/CameroonHomePage/SportsArchive/",
+      "order": 7,
+      "desc_en": "Sports news from the CamerounWeb portal: the Elite One, the women's Guinness Super League and CAF Women's Champions League, FECAFOOT disputes, the Indomitable Lions, youth basketball and photo galleries."
+    },
+    {
+      "id": "n179534668308608eo",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Cameroun24 sport",
+      "desc": "Šport na kamerunskom portáli Cameroun24: CAN 2027 a africký futbal, MS do 17 rokov, európske ligy, NBA s Pascalom Siakamom, atletika a Liga národov – s dôrazom na medzinárodné dianie.",
+      "url": "https://cameroun24.net/sport.html",
+      "order": 8,
+      "desc_en": "Sport on the Cameroonian portal Cameroun24: AFCON 2027 and African football, the U17 World Cup, European leagues, the NBA with Pascal Siakam, athletics and the Nations League, with a focus on international events."
+    },
+    {
+      "id": "n179534668308609cz",
+      "parentId": "f_med_af_cm",
+      "type": "link",
+      "icon": "",
+      "name": "Camer.be sport",
+      "desc": "Športová rubrika portálu Camer.be: Lions indomptables a kvalifikácia CAN 2027, kamerunskí hráči v Premier League, voľby vo FIFA, africký futbal a komentáre k domácemu futbalu.",
+      "url": "https://www.camer.be/actualites/sport",
+      "order": 9,
+      "desc_en": "Sports section of the Camer.be portal: the Indomitable Lions and AFCON 2027 qualifying, Cameroonian players in the Premier League, the FIFA election, African football and commentary on domestic football."
+    },
+    {
+      "id": "n179535708567500rx",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Info Sport RDC",
+      "desc": "Konžský športový web z Kinshasy: futbal, basketbal, box, džudo a volejbal, národné tímy Léopards, Kongolčania v zahraničných kluboch, rozhovory, portréty a reportáže.",
+      "url": "https://infosportrdc.net/",
+      "order": 0,
+      "desc_en": "Congolese sports website from Kinshasa: football, basketball, boxing, judo and volleyball, the Léopards national teams, Congolese players in clubs abroad, interviews, profiles and features."
+    },
+    {
+      "id": "n179535708567501st",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Irisfootball",
+      "desc": "Portál futbalu v DR Kongo: Linafoot a Pohár Konga s výsledkami a tabuľkami, Léopards, kluby a diaspóra, prestupy, Africký pohár národov, CHAN a Liga majstrov CAF, videá IRIS TV.",
+      "url": "https://www.irisfootball.com/",
+      "order": 1,
+      "desc_en": "Portal of DR Congo football: the Linafoot and the Congo Cup with results and standings, the Léopards, clubs and the diaspora, transfers, the AFCON, CHAN and CAF Champions League, IRIS TV videos."
+    },
+    {
+      "id": "n179535708567502re",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Go Sport",
+      "desc": "Športové správy z Konga (DR): Linafoot a 2. liga, kinshaská mestská liga, ženský futbal, Léopards, prestupy, basketbal, hádzaná, volejbal, atletika a bojové športy.",
+      "url": "https://gosport.cd/",
+      "order": 2,
+      "desc_en": "Sports news from DR Congo: the Linafoot and the second division, the Kinshasa city league, women's football, the Léopards, transfers, basketball, handball, volleyball, athletics and combat sports."
+    },
+    {
+      "id": "n179535708567503zc",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Actualite.cd sport",
+      "desc": "Športová rubrika konžského spravodajského portálu Actualite.cd: Linafoot, Léopards, Kongolčania v Európe a v NBA, basketbal, karate a ďalšie športy, viac správ denne.",
+      "url": "https://actualite.cd/category/sport",
+      "order": 3,
+      "desc_en": "Sports section of the Congolese news portal Actualite.cd: the Linafoot, the Léopards, Congolese players in Europe and the NBA, basketball, karate and other sports, several stories a day."
+    },
+    {
+      "id": "n179535708567504wr",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Mediacongo sport",
+      "desc": "Športové správy kinshaského portálu Mediacongo: Léopards a kvalifikácia Afrického pohára národov 2027, Linafoot 1. a 2. liga, ženský tím TP Mazembe, štadióny a športová politika.",
+      "url": "https://www.mediacongo.net/articles-actualite-8_sport.html",
+      "order": 4,
+      "desc_en": "Sports news from the Kinshasa portal Mediacongo: the Léopards and AFCON 2027 qualifying, Linafoot divisions one and two, the TP Mazembe women's team, stadiums and sports policy."
+    },
+    {
+      "id": "n179535708567505ok",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Opinion Info sports",
+      "desc": "Rubrika šport kinshaského portálu Opinion Info: Léopards a výber do 23 rokov, kvalifikácia Afrického pohára národov, rebríček FIFA, Kongolčania v zahraničných kluboch a ženský futbal.",
+      "url": "https://www.opinion-info.cd/sports",
+      "order": 5,
+      "desc_en": "Sports section of the Kinshasa portal Opinion Info: the Léopards and the U23 team, AFCON qualifying, the FIFA ranking, Congolese players in clubs abroad and women's football."
+    },
+    {
+      "id": "n179535708567506mj",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Ouragan sport",
+      "desc": "Konžský portál Ouragan.cd v rubrike šport: Léopards, TP Mazembe, africké reprezentácie a ich tréneri, európske futbalové ligy a MMA – domáci aj svetový šport.",
+      "url": "https://ouragan.cd/rubrique/sport",
+      "order": 6,
+      "desc_en": "The Congolese portal Ouragan.cd in its sports section: the Léopards, TP Mazembe, African national teams and their coaches, European football leagues and MMA – home and world sport."
+    },
+    {
+      "id": "n179535708567507vm",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "CongoActu sport",
+      "desc": "Šport na portáli CongoActu z RDC: Léopards a kvalifikácia Afrického pohára národov, Linafoot, konžskí hráči v Premier League a Ligue 1, prestupy a ukážky zápasov európskych líg.",
+      "url": "https://congoactu.net/category/sport/",
+      "order": 7,
+      "desc_en": "Sport on the DRC portal CongoActu: the Léopards and AFCON qualifying, the Linafoot, Congolese players in the Premier League and Ligue 1, transfers and previews of European league matches."
+    },
+    {
+      "id": "n179535708567508gh",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "La Gazette du Continent sport",
+      "desc": "Športová rubrika kinshaského portálu La Gazette du Continent: Linafoot, Léopards, CAF, konžskí basketbalisti v NCAA a v Európe, hráči v zahraničných ligách a ženský futbal.",
+      "url": "https://gazetteducontinent.cd/category/sport/",
+      "order": 8,
+      "desc_en": "Sports section of the Kinshasa portal La Gazette du Continent: the Linafoot, the Léopards, the CAF, Congolese basketball players in the NCAA and Europe, players in foreign leagues and women's football."
+    },
+    {
+      "id": "n179535708567509nl",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Dépêche.cd sport",
+      "desc": "Spravodajský web Dépêche.cd o konžskom športe: Linafoot Ligue 1 s výsledkami kôl, AS Vita Club a ďalšie kinshaské kluby, Léopards, mládežnícky výber do 23 rokov a rebríček FIFA.",
+      "url": "https://depeche.cd/categorie/sport/",
+      "order": 9,
+      "desc_en": "The news website Dépêche.cd on Congolese sport: Linafoot Ligue 1 round-by-round results, AS Vita Club and other Kinshasa clubs, the Léopards, the U23 youth team and the FIFA ranking."
+    },
+    {
+      "id": "n179535708567510db",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Forum des As sport",
+      "desc": "Kinshaský denník Forum des As v rubrike šport: Léopards a kvalifikácia Afrického pohára národov 2027, výber do 23 rokov, Linafoot a ženský tím TP Mazembe.",
+      "url": "https://forumdesas.cd/index.php/sport",
+      "order": 10,
+      "desc_en": "The Kinshasa daily Forum des As in its sports section: the Léopards and AFCON 2027 qualifying, the U23 team, the Linafoot and the TP Mazembe women's team."
+    },
+    {
+      "id": "n179535708567511uk",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "ACP sports",
+      "desc": "Štátna tlačová agentúra Konga (DR) v športe: Linafoot 1. a 2. liga po zónach, mestské a provinčné ligy z Kinshasy aj vnútrozemia, basketbal, volejbal, atletika a dianie v CAF.",
+      "url": "https://acp.cd/sujet/sports/",
+      "order": 11,
+      "desc_en": "The state press agency of DR Congo on sport: Linafoot divisions one and two by zone, city and provincial leagues from Kinshasa and the provinces, basketball, volleyball, athletics and CAF news."
+    },
+    {
+      "id": "n179535708567512ub",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Radio Okapi sport",
+      "desc": "Šport v celoštátnom rádiu Radio Okapi (misia OSN v RDC): Léopards a kvalifikácia Afrického pohára národov s textovými prenosmi, TP Mazembe, Linafoot a konžskí hráči v zahraničí.",
+      "url": "https://www.radiookapi.net/sport",
+      "order": 12,
+      "desc_en": "Sport on the nationwide Radio Okapi (the UN mission in DRC): the Léopards and AFCON qualifying with live text coverage, TP Mazembe, the Linafoot and Congolese players abroad."
+    },
+    {
+      "id": "n179535708567513ii",
+      "parentId": "f_med_af_cd",
+      "type": "link",
+      "icon": "",
+      "name": "Kivu Morning Post sport",
+      "desc": "Športová rubrika denníka z Gomy (Severné Kivu): Linafoot 1. a 2. liga zóna Východ, kluby z Kivu, Léopards muži aj ženy, TP Mazembe a V.Club, basketbal a box.",
+      "url": "https://kivumorningpost.com/sport/",
+      "order": 13,
+      "desc_en": "Sports section of a daily from Goma (North Kivu): Linafoot divisions one and two, East zone, clubs from Kivu, the men's and women's Léopards, TP Mazembe and V.Club, basketball and boxing."
+    },
+    {
+      "id": "n179536065266100fd",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "Planeta Desportivo",
+      "desc": "Angolský športový web: Liga Unitel Girabola s výsledkami a tabuľkou, reprezentácia Palancas Negras a kvalifikácia na Africký pohár národov 2027, hádzanárky Pérolas, basketbal a zahraničný futbal.",
+      "url": "https://www.planetadesportivo.com/",
+      "order": 0,
+      "desc_en": "Angolan sports website: the Liga Unitel Girabola with results and standings, the Palancas Negras and 2027 AFCON qualifying, the Pérolas handball team, basketball and international football."
+    },
+    {
+      "id": "n179536065266101ne",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "OPAÍS desporto",
+      "desc": "Športová rubrika luandského denníka O País: Girabola a derby Petro de Luanda – Interclube, Palancas Negras, zápasenie, MMA, mládežnícke a amatérske kluby z Luandy a svetový futbal.",
+      "url": "https://opais.ao/desporto/",
+      "order": 1,
+      "desc_en": "Sports section of the Luanda daily O País: the Girabola and the Petro de Luanda – Interclube derby, the Palancas Negras, wrestling, MMA, youth and grassroots clubs from Luanda, and world football."
+    },
+    {
+      "id": "n179536065266102oy",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "Correio da Kianda desporto",
+      "desc": "Angolské športové správy portálu Correio da Kianda: Girabola (Wiliete, Petro, 1.º de Agosto), rozhodnutia CAF a FIFA, majstrovstvá sveta do 17 rokov, futbal amputovaných a európske ligy.",
+      "url": "https://correiokianda.info/category/desporto/",
+      "order": 2,
+      "desc_en": "Angolan sports news from the Correio da Kianda portal: the Girabola (Wiliete, Petro, 1.º de Agosto), CAF and FIFA decisions, the U-17 World Cup, amputee football and the European leagues."
+    },
+    {
+      "id": "n179536065266103jb",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "Noticiário desporto",
+      "desc": "Športová sekcia angolského portálu Noticiário: angolský aj svetový tenis, Palancas Negras, európske futbalové ligy a Liga majstrov, NBA, Formula 1 a MotoGP, k tomu tabuľky súťaží.",
+      "url": "https://www.noticiario.ao/desporto",
+      "order": 3,
+      "desc_en": "Sports section of the Angolan portal Noticiário: Angolan and world tennis, the Palancas Negras, the European football leagues and Champions League, the NBA, Formula 1 and MotoGP, plus competition standings."
+    },
+    {
+      "id": "n179536065266104fl",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "Ponto de Situação futebol",
+      "desc": "Futbalová rubrika angolského portálu Ponto de Situação: Girabola a akadémia Petro de Luanda, Palancas Negras v kvalifikácii na Africký pohár národov 2027 a európske reprezentácie.",
+      "url": "https://www.pontodesituacao.ao/categoria/futebol",
+      "order": 4,
+      "desc_en": "Football section of the Angolan portal Ponto de Situação: the Girabola and the Petro de Luanda academy, the Palancas Negras in 2027 AFCON qualifying and European national teams."
+    },
+    {
+      "id": "n179536065266105nz",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "Imparcial Press desporto",
+      "desc": "Športové správy angolského online denníka Imparcial Press: Palancas Negras, Girabola, kluby Petro, 1.º de Agosto a Sagrada Esperança, rozhodnutia FIFA a CAF, hokej na kolieskových korčuliach.",
+      "url": "https://imparcialpress.net/category/desporto/",
+      "order": 5,
+      "desc_en": "Sports news from the Angolan online paper Imparcial Press: the Palancas Negras, the Girabola, Petro, 1.º de Agosto and Sagrada Esperança, FIFA and CAF rulings, and roller hockey."
+    },
+    {
+      "id": "n179536065266106jy",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "4 de Fevereiro desporto",
+      "desc": "Športové správy angolského portálu 4 de Fevereiro: Palancas Negras na ceste na Africký pohár národov 2027, VAR v Girabole, futsal, hokej na kolieskových korčuliach, basketbal a jiu-jitsu.",
+      "url": "https://4defevereiro.co.ao/categoria/desporto/",
+      "order": 6,
+      "desc_en": "Sports news from the Angolan portal 4 de Fevereiro: the Palancas Negras on the road to the 2027 AFCON, VAR in the Girabola, futsal, roller hockey, basketball and jiu-jitsu."
+    },
+    {
+      "id": "n179536065266107sm",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "ANGOP desporto",
+      "desc": "Šport z celej Angoly od štátnej tlačovej agentúry ANGOP: Girabola, basketbal, zápasenie, beh a atletika, provinčné súťaže a správy z regiónov, viac správ denne.",
+      "url": "https://www.angop.ao/angola/noticias/?vtab=desporto&vtabid=1077",
+      "order": 7,
+      "desc_en": "Sport from across Angola by the state news agency ANGOP: the Girabola, basketball, wrestling, running and athletics, provincial competitions and regional news, several stories a day."
+    },
+    {
+      "id": "n179536065266108kz",
+      "parentId": "f_med_af_ao",
+      "type": "link",
+      "icon": "",
+      "name": "RNA Rádio 5",
+      "desc": "Športové správy Rádia 5, športového kanála angolského štátneho rozhlasu RNA: Liga Unitel Girabola, Unitel Basket, Palancas Negras a domáce aj zahraničné športové udalosti, k tomu živé vysielanie.",
+      "url": "https://rna.ao/pages/radio5.php",
+      "order": 8,
+      "desc_en": "Sports news from Rádio 5, the sports channel of Angola's state broadcaster RNA: the Liga Unitel Girabola, Unitel Basket, the Palancas Negras and domestic and international sport, plus a live stream."
+    },
+    {
+      "id": "n179536281406900vm",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "Soccer Ethiopia",
+      "desc": "Etiópsky futbalový web v amharčine: Premier League s reportážami a reakciami trénerov, reprezentácia Walias v kvalifikácii o Africký pohár, prestupy, ženský futbal a Etiópčania v zahraničí.",
+      "url": "https://www.soccerethiopia.net/",
+      "order": 0,
+      "desc_en": "Ethiopian football website in Amharic: Premier League match reports and coach reactions, the Walias in Africa Cup of Nations qualifying, transfers, women's football and Ethiopians playing abroad."
+    },
+    {
+      "id": "n179536281406901sv",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "HatricSport",
+      "desc": "Amharský portál o etiópskom športe: zápasy Premier League a vyššej ligy, disciplinárne rozhodnutia ligy, tabuľky, reprezentácia Walias, etiópski rozhodcovia a atletika; časť článkov aj po anglicky.",
+      "url": "https://www.hatricksport.net/",
+      "order": 1,
+      "desc_en": "Amharic portal on Ethiopian sport: Premier League and Higher League matches, league disciplinary rulings, standings, the Walias national team, Ethiopian referees and athletics, with some articles in English."
+    },
+    {
+      "id": "n179536281406902ng",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "Sport Corner Ethiopia",
+      "desc": "Etiópske športové správy po anglicky aj amharsky: najmä atletika – maratóny, cezpoľné behy, dopingové prípady a olympijské limity – a k tomu domáci aj európsky futbal.",
+      "url": "https://sportcornerethiopia.com/",
+      "order": 2,
+      "desc_en": "Ethiopian sports news in English and Amharic, focused on athletics – marathons, cross-country, doping cases and Olympic qualifying standards – plus Ethiopian and European football."
+    },
+    {
+      "id": "n179536281406903xx",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "ENA sport",
+      "desc": "Amharská športová rubrika etiópskej štátnej agentúry: výsledky mužskej aj ženskej Premier League, atletika a Great Ethiopian Run, správy z anglickej ligy. Agentúra ENA vznikla v roku 1942.",
+      "url": "https://www.ena.et/web/amh/sport",
+      "order": 3,
+      "desc_en": "Amharic sports desk of Ethiopia's state news agency: men's and women's Premier League results, athletics and the Great Ethiopian Run, plus English Premier League news. ENA was founded in 1942."
+    },
+    {
+      "id": "n179536281406904ef",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "EBC sport",
+      "desc": "Športové správy etiópskej verejnoprávnej televízie a rozhlasu v amharčine: reprezentácia Walias, atletika a mládežnícka olympiáda, Great Ethiopian Run a portréty osobností. ETV vysiela pravidelne od roku 1964.",
+      "url": "https://www.ebc.et/Home/CategorialNews?CatId=8",
+      "order": 4,
+      "desc_en": "Amharic sports news from Ethiopia's public broadcaster: the Walias national team, athletics and the Youth Olympics, the Great Ethiopian Run and profiles of sporting figures. Ethiopian Television has broadcast regularly since 1964."
+    },
+    {
+      "id": "n179536281406905jg",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "Fana sport",
+      "desc": "Amharská športová rubrika etiópskej rozhlasovej a televíznej spoločnosti Fana: atletika, mládežnícka olympiáda v Dakare, Great Ethiopian Run a európsky futbal. Fana vysiela od roku 1994.",
+      "url": "https://www.fanamc.com/ስፓርት",
+      "order": 5,
+      "desc_en": "Amharic sports section of Ethiopian radio and TV broadcaster Fana: athletics, the Dakar Youth Olympics, the Great Ethiopian Run and European football. Fana has been on air since 1994."
+    },
+    {
+      "id": "n179536281406906ia",
+      "parentId": "f_med_af_et",
+      "type": "link",
+      "icon": "",
+      "name": "Ameco Sport",
+      "desc": "Športový web etiópskeho regionálneho média Amhara Media Corporation z Bahir Daru: kluby Bahir Dar Kenema a Fasil Kenema, Premier League, atletika, tradičné športy a zahraničný futbal. Vzniklo v roku 1993.",
+      "url": "https://www.ameco.et/sport/",
+      "order": 6,
+      "desc_en": "Sports site of Ethiopia's regional Amhara Media Corporation from Bahir Dar: Bahir Dar Kenema and Fasil Kenema, the Ethiopian Premier League, athletics, traditional sports and international football. Founded in 1993."
+    },
+    {
+      "id": "n17953654935980mws",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Mwanaspoti",
+      "desc": "Tanzánsky športový denník vo svahilčine: Ligi Kuu Bara so Simbou a Yangou, zanzibarská liga, Taifa Stars a Serengeti Boys, komentáre a stĺpčeky, ale aj európsky futbal a prestupové špekulácie.",
+      "url": "https://www.mwanaspoti.co.tz/",
+      "order": 0,
+      "desc_en": "Tanzanian sports daily in Swahili: the Ligi Kuu Bara with Simba and Yanga, the Zanzibar league, Taifa Stars and the Serengeti Boys, columns and commentary, plus European football and transfer gossip."
+    },
+    {
+      "id": "n1795364810780000wt",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Soka la Bongo",
+      "desc": "Tanzánsky futbalový web vo svahilčine o kluboch Simba SC, Yanga SC a Azam FC: NBC Premier League, Taifa Stars, vyjadrenia trénerov a funkcionárov, ale aj anglická liga a ďalšie európske súťaže.",
+      "url": "https://sokalabongo.com/",
+      "order": 1,
+      "desc_en": "Tanzanian football website in Swahili covering Simba SC, Yanga SC and Azam FC: the NBC Premier League, Taifa Stars, coach and official reactions, plus the English Premier League and other European competitions."
+    },
+    {
+      "id": "n1795364810780001ok",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Soka Letu",
+      "desc": "Tanzánske futbalové správy po anglicky: výsledky, program a tabuľka NBC Premier League, prestupy a posily Simby a Yangy, Taifa Stars, CAF Liga majstrov a AFCON 2027, k tomu európske ligy.",
+      "url": "https://www.sokaletu.com/",
+      "order": 2,
+      "desc_en": "Tanzanian football news in English: NBC Premier League results, fixtures and standings, Simba and Yanga transfers and signings, Taifa Stars, the CAF Champions League and AFCON 2027, plus European leagues."
+    },
+    {
+      "id": "n1795364810780002ah",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Sokaleo",
+      "desc": "Swahilský športový blog z Tanzánie: domáci futbal a NBC Premier League, zahraničné ligy, prestupové špekulácie, ranný prehľad tanzánskych novín a box.",
+      "url": "https://sokaleo.co.tz/",
+      "order": 3,
+      "desc_en": "Swahili sports blog from Tanzania: domestic football and the NBC Premier League, foreign leagues, transfer gossip, a daily round-up of Tanzanian newspapers and boxing."
+    },
+    {
+      "id": "n1795364810780003ug",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "SportsLeo Bongo",
+      "desc": "Tanzánsky športový portál vo svahilčine: Yanga, Simba a Azam, príprava AFCON 2027, európsky futbal, box, basketbal a atletika, k tomu dlhšie články a rozhovory s hráčmi a funkcionármi.",
+      "url": "https://sportsleo.co.tz/",
+      "order": 4,
+      "desc_en": "Tanzanian sports portal in Swahili: Yanga, Simba and Azam, AFCON 2027 preparations, European football, boxing, basketball and athletics, plus features and interviews with players and officials."
+    },
+    {
+      "id": "n1795364810780004zm",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "The Citizen sport",
+      "desc": "Športová sekcia tanzánskeho anglického denníka The Citizen: Simba a Yanga v Mainland Premier League, Taifa Stars a Serengeti Boys, basketbal, atletika, plávanie, golf aj rally. Denník vychádza od roku 2004.",
+      "url": "https://www.thecitizen.co.tz/tanzania/sports",
+      "order": 5,
+      "desc_en": "Sports section of Tanzania's English-language daily The Citizen: Simba and Yanga in the Mainland Premier League, Taifa Stars and the Serengeti Boys, basketball, athletics, swimming, golf and rallying. Published since 2004."
+    },
+    {
+      "id": "n1795364810780005ku",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Mwananchi michezo",
+      "desc": "Športová rubrika tanzánskeho swahilského denníka Mwananchi: Ligi Kuu Bara so Simbou a Yangou, príprava AFCON 2027, mládežnícke výbery, basketbal, box a atletika. Denník vychádza od roku 2000.",
+      "url": "https://www.mwananchi.co.tz/mw/michezo",
+      "order": 6,
+      "desc_en": "Sports desk of Tanzania's Swahili daily Mwananchi: the Ligi Kuu Bara with Simba and Yanga, AFCON 2027 preparations, youth national teams, basketball, boxing and athletics. The paper has been published since 2000."
+    },
+    {
+      "id": "n1795364810780007ei",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "Global Publishers michezo",
+      "desc": "Swahilské športové správy tanzánskeho vydavateľstva Global Publishers (Global TV): Simba, Yanga, Azam a Singida Black Stars v NBC Premier League, voľby vo vedení klubov, CAF a európske ligy.",
+      "url": "https://globalpublishers.co.tz/category/michezo/",
+      "order": 7,
+      "desc_en": "Swahili sports news from Tanzanian publisher Global Publishers (Global TV): Simba, Yanga, Azam and Singida Black Stars in the NBC Premier League, club leadership elections, CAF and European leagues."
+    },
+    {
+      "id": "n1795364810780008ns",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "The Respondent sports",
+      "desc": "Anglický tanzánsky portál so športovými správami: NBC Premier League, ženská reprezentácia Twiga Stars, basketbal, karate, plážová hádzaná, tenis na vozíku a športové hry verejných inštitúcií SHIMMUTA.",
+      "url": "https://www.therespondents.co.tz/search/label/Sports",
+      "order": 8,
+      "desc_en": "English-language Tanzanian portal with sports news: the NBC Premier League, the Twiga Stars women's team, basketball, karate, beach handball, wheelchair tennis and the SHIMMUTA public-institution games."
+    },
+    {
+      "id": "n1795364810780009mz",
+      "parentId": "f_med_af_tz",
+      "type": "link",
+      "icon": "",
+      "name": "TBC michezo",
+      "desc": "Športové správy tanzánskeho verejnoprávneho vysielateľa TBC vo svahilčine: Taifa Stars a AFCON 2027, Ligi Kuu Bara, štadióny a európsky futbal. TBC vznikla v roku 2007 a nadväzuje na Radio Tanzania.",
+      "url": "https://www.tbc.go.tz/posts/category.html?id=5&name=Michezo",
+      "order": 9,
+      "desc_en": "Swahili sports news from Tanzania's public broadcaster TBC: Taifa Stars and AFCON 2027, the Ligi Kuu Bara, stadium news and European football. TBC was established in 2007 as successor to Radio Tanzania."
+    },
+    {
+      "id": "n1795368424231r6o",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "Kawowo Sports",
+      "desc": "Ugandský športový portál s viacerými článkami denne: Uganda Premier League, ženská futbalová liga, Cranes, rugby, golf, atletika, kriket aj kenský futbal. Založený v roku 2011.",
+      "url": "https://kawowo.com/",
+      "order": 0,
+      "desc_en": "Ugandan sports portal publishing several stories a day: the Uganda Premier League, women's football, the Cranes, rugby, golf, athletics, cricket and Kenyan football. Founded in 2011."
+    },
+    {
+      "id": "n1795368424232z05",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "Swift Sports Uganda",
+      "desc": "Domáci ugandský šport z Kampaly: preview a reportáže z Uganda Premier League, ženský futbal, Masaza Cup, box UBF, golfové turnaje, motoršport, basketbal a kriket.",
+      "url": "https://swiftsportsug.com/",
+      "order": 1,
+      "desc_en": "Home-grown Ugandan sport from Kampala: Uganda Premier League previews and reports, women's football, the Masaza Cup, UBF boxing, golf tournaments, motorsport, basketball and cricket."
+    },
+    {
+      "id": "n179536842423348y",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "ChampionSport",
+      "desc": "Ugandský futbalový web: zápasové správy z Uganda Premier League, Cranes a mládežnícke reprezentácie, profily hráčov, Premier League, prestupy a tipy do FPL.",
+      "url": "https://championsport.ug/",
+      "order": 2,
+      "desc_en": "Ugandan football site: Uganda Premier League match reports, the Cranes and youth national teams, player profiles, the Premier League, transfer news and FPL tips."
+    },
+    {
+      "id": "n1795368424234ku9",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "Daily Monitor sports",
+      "desc": "Športová rubrika ugandského denníka Daily Monitor: analýzy a reportáže z Uganda Premier League, Cranes, basketbal, box, kriket, atletika, rugby, golf, motoršport a komentáre.",
+      "url": "https://www.monitor.co.ug/uganda/sports",
+      "order": 3,
+      "desc_en": "Sports section of Uganda's Daily Monitor: Uganda Premier League analysis and reports, the Cranes, basketball, boxing, cricket, athletics, rugby, golf, motorsport and columns."
+    },
+    {
+      "id": "n17953684242350p4",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "New Vision sports",
+      "desc": "Športové správy ugandského denníka New Vision (Vision Group): domáci futbal, plážový futbal Sand Cranes, univerzitný šport a agentúrne správy z Premier League a F1.",
+      "url": "https://www.newvision.co.ug/category/sports?id=1",
+      "order": 4,
+      "desc_en": "Sports news from Uganda's New Vision daily (Vision Group): local football, the Sand Cranes beach soccer team, university sport, plus agency reports on the Premier League and F1."
+    },
+    {
+      "id": "n1795368424236njm",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "Nile Post sports",
+      "desc": "Športová rubrika ugandského portálu Nile Post s viacerými správami denne – prevažne svetový futbal (Premier League, La Liga), NBA, F1 a tenis, k tomu ugandské novinky.",
+      "url": "https://nilepost.co.ug/sports",
+      "order": 5,
+      "desc_en": "Sports section of the Ugandan portal Nile Post with several updates a day – mostly world football (Premier League, La Liga), the NBA, F1 and tennis, plus Ugandan news."
+    },
+    {
+      "id": "n1795368424237nao",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "ChimpReports sport",
+      "desc": "Rubrika Chimp Sport kampalského portálu ChimpReports: výsledky Uganda Premier League (URA, NEC, Vipers), Uganda Cubs, rugbistky Lady Cranes, ženský kriket a golf.",
+      "url": "https://chimpreports.com/category/sport/",
+      "order": 6,
+      "desc_en": "The Chimp Sport section of Kampala's ChimpReports: Uganda Premier League results (URA, NEC, Vipers), the Uganda Cubs, the Lady Cranes rugby sevens, women's cricket and golf."
+    },
+    {
+      "id": "n1795368424238jch",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "The Independent sports",
+      "desc": "Športová sekcia ugandského magazínu The Independent: najmä golf (Kinyara Open, firemné turnaje), sponzorstvo v športe, príprava AFCON 2027 a správy z futbalu a atletiky.",
+      "url": "https://www.independent.co.ug/sports/",
+      "order": 7,
+      "desc_en": "Sports section of Uganda's The Independent magazine: mostly golf (Kinyara Open, corporate events), sports sponsorship, AFCON 2027 preparations and football and athletics news."
+    },
+    {
+      "id": "n17953684242399g2",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "NBS Sport",
+      "desc": "Športový web ugandskej televízie NBS: futbal od akadémií po Premier League, rugby, basketbal, atletika, box, golf, netbal a kriket, s vlastnými redaktormi.",
+      "url": "https://nbssport.co.ug/",
+      "order": 8,
+      "desc_en": "Sports site of Uganda's NBS Television: football from youth academies to the Premier League, rugby, basketball, athletics, boxing, golf, netball and cricket, by its own reporters."
+    },
+    {
+      "id": "n17953684242402n2",
+      "parentId": "f_med_af_ug",
+      "type": "link",
+      "icon": "",
+      "name": "NTV Uganda sport",
+      "desc": "Športové správy ugandskej televízie NTV: seriál FUFA at Crossroads o domácom futbale, golf, rely Hoima, maratóny a ďalšie domáce podujatia, ale aj zahraničné výsledky.",
+      "url": "https://ntv.co.ug/category/sports",
+      "order": 9,
+      "desc_en": "Sports news from Uganda's NTV television: the FUFA at Crossroads series on local football, golf, the Hoima rally, marathons and other home events, plus international results."
     }
   ],
   "title_en": "Sportlinking",
@@ -213791,5 +214568,5 @@
     "label": "REKLAMA · TIPSPORT",
     "sectionId": "f_tip"
   },
-  "updated": "2026-11-22T16:40:24.973Z"
+  "updated": "2026-11-16T22:07:16.000Z"
 }
