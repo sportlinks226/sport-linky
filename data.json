@@ -1,5 +1,5 @@
 {
-  "version": 1252,
+  "version": 1256,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -14066,11 +14066,11 @@
       "type": "folder",
       "icon": "gb-eng",
       "name": "Anglicko",
-      "desc": "Anglické športové denníky, tabloidy a televízie",
+      "desc": "Športové správy z Anglicka – denníky, bulvár, rádio a TV: BBC Sport, Sky Sports, The Guardian, The Telegraph, The Times či talkSPORT. Premier League a prestupy, kriket, ragby, F1, box, šípky aj dostihy.",
       "order": 0,
       "slug": "anglicko",
       "name_en": "England",
-      "desc_en": "English sports dailies, tabloids and TV channels",
+      "desc_en": "Sports news from England – papers, tabloids, radio and TV: BBC Sport, Sky Sports, The Guardian, The Telegraph, The Times and talkSPORT. Premier League and transfers, cricket, rugby, F1, boxing, darts and racing.",
       "slug_en": "england"
     },
     {
@@ -14079,11 +14079,11 @@
       "type": "folder",
       "icon": "es",
       "name": "Španielsko",
-      "desc": "Španielske športové denníky — Marca, AS a ďalšie",
+      "desc": "Španielske športové denníky a weby: Marca, AS, Mundo Deportivo, Sport, Estadio Deportivo, El País, El Mundo, ABC a La Vanguardia. LaLiga aj nižšie súťaže, Real Madrid, Barcelona, Atlético, Betis a Sevilla, basketbal a F1.",
       "order": 1,
       "slug": "spanielsko",
       "name_en": "Spain",
-      "desc_en": "Spanish sports dailies — Marca, AS and more",
+      "desc_en": "Spanish sports dailies and websites: Marca, AS, Mundo Deportivo, Sport, Estadio Deportivo, El País, El Mundo, ABC and La Vanguardia. LaLiga and lower divisions, Real Madrid, Barcelona, Atlético, Betis and Sevilla, basketball and F1.",
       "slug_en": "spain"
     },
     {
@@ -14092,11 +14092,11 @@
       "type": "folder",
       "icon": "de",
       "name": "Nemecko",
-      "desc": "Nemecké športové médiá — Kicker, Bild a ďalšie",
+      "desc": "Nemecké športové médiá: Kicker, SPORT1, Sport Bild, SPOX, Sportschau ARD, ZDF, Bild a Süddeutsche Zeitung. Bundesliga a 2. Bundesliga, DFB-Pokal, FC Bayern, ženský futbal, šípky a F1.",
       "order": 2,
       "slug": "nemecko",
       "name_en": "Germany",
-      "desc_en": "German sports media — Kicker, Bild and more",
+      "desc_en": "German sports media: Kicker, SPORT1, Sport Bild, SPOX, Sportschau ARD, ZDF, Bild and Süddeutsche Zeitung. The Bundesliga and 2. Bundesliga, the DFB-Pokal, FC Bayern, women's football, darts and F1.",
       "slug_en": "germany"
     },
     {
@@ -14105,11 +14105,11 @@
       "type": "folder",
       "icon": "fr",
       "name": "Francúzsko",
-      "desc": "Francúzske športové médiá — L'Équipe a ďalšie",
+      "desc": "Francúzske športové denníky, weby a televízie: L'Équipe, RMC Sport, Foot Mercato, Eurosport, beIN Sports, Le Figaro a Le Parisien. Ligue 1 a PSG, prestupy, ragby Top 14, cyklistika, tenis a NBA.",
       "order": 3,
       "slug": "francuzsko",
       "name_en": "France",
-      "desc_en": "French sports media — L'Équipe and more",
+      "desc_en": "French sports dailies, websites and TV: L'Équipe, RMC Sport, Foot Mercato, Eurosport, beIN Sports, Le Figaro and Le Parisien. Ligue 1 and PSG, transfers, Top 14 rugby, cycling, tennis and the NBA.",
       "slug_en": "france"
     },
     {
@@ -14118,10 +14118,10 @@
       "type": "folder",
       "icon": "sk",
       "name": "Slovensko",
-      "desc": "Slovenské športové weby, denníky a televízie",
+      "desc": "Slovenské športové weby, denníky a televízie: Šport.sk, Sportnet, Športweb (Pravda), STVR šport, TASR, Noviny.sk či TA3. Futbal od Niké ligy po regionálne súťaže, hokej vrátane NHL, tenis, cyklistika, lyžovanie aj F1.",
       "order": 4,
       "slug": "slovensko",
-      "desc_en": "Slovak sports websites, dailies and TV channels",
+      "desc_en": "Slovak sports websites, dailies and TV: Šport.sk, Sportnet, Športweb (Pravda), STVR šport, TASR, Noviny.sk and TA3. Football from the Niké liga to regional leagues, hockey incl. the NHL, tennis, cycling, skiing and F1.",
       "name_en": "Slovakia",
       "slug_en": "slovakia"
     },
@@ -14131,10 +14131,10 @@
       "type": "folder",
       "icon": "cz",
       "name": "Česko",
-      "desc": "České športové weby, denníky a televízie",
+      "desc": "České športové weby, denníky a televízie: Livesport, Sport.cz, iSport, ČT sport, TN.cz, iDNES, Aktuálně.cz a ČTK. Chance Liga a Liga majstrov, hokej a Česi v NHL, tenis a motoršport.",
       "order": 5,
       "slug": "ceska-republika",
-      "desc_en": "Czech sports websites, dailies and TV channels",
+      "desc_en": "Czech sports websites, dailies and TV: Livesport, Sport.cz, iSport, ČT sport, TN.cz, iDNES, Aktuálně.cz and ČTK. The Chance Liga and Champions League, hockey and Czechs in the NHL, tennis and motorsport.",
       "name_en": "Czechia",
       "slug_en": "czech-republic"
     },
@@ -14144,11 +14144,11 @@
       "type": "folder",
       "icon": "al",
       "name": "Albánsko",
-      "desc": "Albánske športové portály a denníky",
+      "desc": "Albánske športové weby, denníky a televízie: Panorama Sport, Telesport, Sport Ekspres, Top Channel a RTSH. Takmer všetko o futbale – Kategoria Superiore, reprezentácia, Kosovo a veľké európske ligy.",
       "order": 6,
       "slug": "albansko",
       "name_en": "Albania",
-      "desc_en": "Albanian sports portals and dailies",
+      "desc_en": "Albanian sports websites, dailies and TV: Panorama Sport, Telesport, Sport Ekspres, Top Channel and RTSH. Mostly football – the Kategoria Superiore, the national team, Kosovo and Europe's top leagues.",
       "slug_en": "albania"
     },
     {
@@ -14157,10 +14157,10 @@
       "type": "folder",
       "icon": "ad",
       "name": "Andorra",
-      "desc": "Andorrské médiá so športovým spravodajstvom",
+      "desc": "Andorrský šport v miestnych médiách: Andorra Esportiu, Diari d'Andorra, RTVA, El Periòdic, Bondia a Altaveu. FC Andorra, basketbal MoraBanc, domáca Lliga Multisegur, lyžovanie a horské športy.",
       "order": 7,
       "slug": "andorra",
-      "desc_en": "Andorran media with sports coverage",
+      "desc_en": "Andorran sport in local media: Andorra Esportiu, Diari d'Andorra, RTVA, El Periòdic, Bondia and Altaveu. FC Andorra, MoraBanc basketball, the domestic Lliga Multisegur, skiing and mountain sports.",
       "slug_en": "andorra",
       "name_en": "Andorra"
     },
@@ -14170,11 +14170,11 @@
       "type": "folder",
       "icon": "by",
       "name": "Bielorusko",
-      "desc": "Bieloruské športové portály a médiá",
+      "desc": "Bieloruské športové weby, televízie a agentúra: Pressball, Tribuna, Football.by, Belarus 5, BelTA a SB. Hokejová extraliga a Dinamo Minsk v KHL, bieloruský futbal, tenis so Soboľenkovou a biatlon.",
       "order": 8,
       "slug": "bielorusko",
       "name_en": "Belarus",
-      "desc_en": "Belarusian sports portals and media",
+      "desc_en": "Belarusian sports sites, TV and news agency: Pressball, Tribuna, Football.by, Belarus 5, BelTA and SB. The hockey Extraliga and Dinamo Minsk in the KHL, Belarusian football, tennis with Sabalenka and biathlon.",
       "slug_en": "belarus"
     },
     {
@@ -14183,11 +14183,11 @@
       "type": "folder",
       "icon": "be",
       "name": "Belgicko",
-      "desc": "Belgické športové médiá — vlámske aj valónske",
+      "desc": "Belgické športové médiá vo flámčine aj francúzštine: Sporza, RTBF, HLN, DH, Het Nieuwsblad, Le Soir, Voetbalkrant a Walfoot. Jupiler Pro League, Červení diabli, cyklistika, cyklokros, tenis a F1.",
       "order": 9,
       "slug": "belgicko",
       "name_en": "Belgium",
-      "desc_en": "Belgian sports media — Flemish and Walloon",
+      "desc_en": "Belgian sports media in Dutch and French: Sporza, RTBF, HLN, DH, Het Nieuwsblad, Le Soir, Voetbalkrant and Walfoot. The Jupiler Pro League, the Red Devils, cycling, cyclo-cross, tennis and F1.",
       "slug_en": "belgium"
     },
     {
@@ -14196,11 +14196,11 @@
       "type": "folder",
       "icon": "ba",
       "name": "Bosna a Hercegovina",
-      "desc": "Bosnianske športové portály a denníky",
+      "desc": "Šport z Bosny a Hercegoviny na portáloch a v TV: Sportsport, SCsport, Klix, Avaz, Oslobođenje, Arena Sport, Federalna a RTRS. WWin liga BiH so Željezničarom, Sarajevom, Zrinjským a Borcom, basketbal a hádzaná.",
       "order": 10,
       "slug": "bosna-a-hercegovina",
       "name_en": "Bosnia and Herzegovina",
-      "desc_en": "Bosnian sports portals and dailies",
+      "desc_en": "Sports news from Bosnia and Herzegovina: Sportsport, SCsport, Klix, Avaz, Oslobođenje, Arena Sport, Federalna and RTRS. The WWin liga BiH with Željezničar, Sarajevo, Zrinjski and Borac, basketball and handball.",
       "slug_en": "bosnia-and-herzegovina"
     },
     {
@@ -14209,11 +14209,11 @@
       "type": "folder",
       "icon": "bg",
       "name": "Bulharsko",
-      "desc": "Bulharské športové portály a denníky",
+      "desc": "Bulharské športové weby a denníky: Sportal, Gong, Dsport, Topsport, Gol, 24 Chasa a televízie BNT a bTV. Futbalová efbet Liga s CSKA, Levski a Ludogorcom, Bulhari v cudzine, volejbal, basketbal a tenis.",
       "order": 11,
       "slug": "bulharsko",
       "name_en": "Bulgaria",
-      "desc_en": "Bulgarian sports portals and dailies",
+      "desc_en": "Bulgarian sports websites and dailies: Sportal, Gong, Dsport, Topsport, Gol, 24 Chasa and BNT and bTV. The efbet Liga with CSKA, Levski and Ludogorets, Bulgarians abroad, volleyball, basketball and tennis.",
       "slug_en": "bulgaria"
     },
     {
@@ -14222,11 +14222,11 @@
       "type": "folder",
       "icon": "me",
       "name": "Čierna Hora",
-      "desc": "Čiernohorské športové médiá",
+      "desc": "Čiernohorské športové médiá: Vijesti, verejnoprávna RTCG, CdM, Pobjeda, Dan, Portal Analitika, Antena M a Sportski. Budućnost a Jadran, Prvá liga, reprezentácia, vodné pólo, basketbal, hádzaná a volejbal.",
       "order": 12,
       "slug": "cierna-hora",
       "name_en": "Montenegro",
-      "desc_en": "Montenegrin sports media",
+      "desc_en": "Montenegrin sports media: Vijesti, public broadcaster RTCG, CdM, Pobjeda, Dan, Portal Analitika, Antena M and Sportski. Budućnost and Jadran, the First League, the national team, water polo, basketball, handball and volleyball.",
       "slug_en": "montenegro"
     },
     {
@@ -14235,11 +14235,11 @@
       "type": "folder",
       "icon": "dk",
       "name": "Dánsko",
-      "desc": "Dánske športové médiá a denníky",
+      "desc": "Dánske športové médiá: Bold, Tipsbladet, DR Sporten, TV 2 Sport, Ekstra Bladet, B.T., Politiken a regionálne denníky. 3F Superliga s FCK a Brøndby, hádzaná, cyklistika, bedminton a Dáni v NHL.",
       "order": 13,
       "slug": "dansko",
       "name_en": "Denmark",
-      "desc_en": "Danish sports media and dailies",
+      "desc_en": "Danish sports media: Bold, Tipsbladet, DR Sporten, TV 2 Sport, Ekstra Bladet, B.T., Politiken and regional papers. The 3F Superliga with FCK and Brøndby, handball, cycling, badminton and Danes in the NHL.",
       "slug_en": "denmark"
     },
     {
@@ -14248,11 +14248,11 @@
       "type": "folder",
       "icon": "ee",
       "name": "Estónsko",
-      "desc": "Estónske športové portály a médiá",
+      "desc": "Estónsky šport na portáloch a v TV: Delfi Sport, Postimees, ERR, Õhtuleht, Soccernet, Korvpall24 a tennis.ee. Basketbal, futbalová Premium liiga, volejbal, rely WRC, tenis, atletika a zimné športy.",
       "order": 14,
       "slug": "estonsko",
       "name_en": "Estonia",
-      "desc_en": "Estonian sports portals and media",
+      "desc_en": "Estonian sport on portals and TV: Delfi Sport, Postimees, ERR, Õhtuleht, Soccernet, Korvpall24 and tennis.ee. Basketball, the Premium liiga, volleyball, WRC rally, tennis, athletics and winter sports.",
       "slug_en": "estonia"
     },
     {
@@ -14261,11 +14261,11 @@
       "type": "folder",
       "icon": "fi",
       "name": "Fínsko",
-      "desc": "Fínske športové médiá — YLE, denníky a odborné portály",
+      "desc": "Fínske športové správy: Yle, Ilta-Sanomat, Iltalehti, Helsingin Sanomat a špecializované Jatkoaika, Suomifutis a Suomikoris. Hokejová Liiga a Fíni v NHL, Veikkausliiga, basketbal, rely, beh na lyžiach a pesäpallo.",
       "order": 15,
       "slug": "finsko",
       "name_en": "Finland",
-      "desc_en": "Finnish sports media — YLE, dailies and specialist portals",
+      "desc_en": "Finnish sports news: Yle, Ilta-Sanomat, Iltalehti, Helsingin Sanomat and the specialist Jatkoaika, Suomifutis and Suomikoris. The hockey Liiga and Finns in the NHL, Veikkausliiga, basketball, rally, cross-country skiing and pesäpallo.",
       "slug_en": "finland"
     },
     {
@@ -14274,11 +14274,11 @@
       "type": "folder",
       "icon": "gr",
       "name": "Grécko",
-      "desc": "Grécke športové portály a denníky",
+      "desc": "Grécke športové weby, rádiá a televízie: Gazzetta, Sport24, SDNA, Sport-FM, Novasports, ERT a Proto Thema. Super League s Olympiakosom, Panathinaikosom, AEK a PAOK, Euroliga a grécky basketbal.",
       "order": 16,
       "slug": "grecko",
       "name_en": "Greece",
-      "desc_en": "Greek sports portals and dailies",
+      "desc_en": "Greek sports websites, radio and TV: Gazzetta, Sport24, SDNA, Sport-FM, Novasports, ERT and Proto Thema. The Super League with Olympiacos, Panathinaikos, AEK and PAOK, the EuroLeague and Greek basketball.",
       "slug_en": "greece"
     },
     {
@@ -14287,11 +14287,11 @@
       "type": "folder",
       "icon": "nl",
       "name": "Holandsko",
-      "desc": "Holandské športové médiá a futbalové portály",
+      "desc": "Holandské športové správy: NOS, De Telegraaf, AD Sportwereld, Voetbal International, ESPN, NU.nl a ďalšie denníky. Eredivisie s Ajaxom, PSV a Feyenoordom, Keuken Kampioen Divisie, prestupy, F1 a cyklistika.",
       "order": 17,
       "slug": "holandsko",
       "name_en": "Netherlands",
-      "desc_en": "Dutch sports media and football portals",
+      "desc_en": "Dutch sports news: NOS, De Telegraaf, AD Sportwereld, Voetbal International, ESPN, NU.nl and other dailies. The Eredivisie with Ajax, PSV and Feyenoord, the Keuken Kampioen Divisie, transfers, F1 and cycling.",
       "slug_en": "netherlands"
     },
     {
@@ -14300,11 +14300,11 @@
       "type": "folder",
       "icon": "hr",
       "name": "Chorvátsko",
-      "desc": "Chorvátske športové portály, denníky a televízie",
+      "desc": "Chorvátsky šport v denníkoch, na portáloch a v TV: Sportske novosti, Index, Sportnet, 24sata, Večernji list, HRT a Gol.hr. SuperSport HNL s Dinamom, Hajdukom a Rijekou, Vatreni, hádzaná, basketbal a vodné pólo.",
       "order": 18,
       "slug": "chorvatsko",
       "name_en": "Croatia",
-      "desc_en": "Croatian sports portals, dailies and TV channels",
+      "desc_en": "Croatian sport in papers, portals and on TV: Sportske novosti, Index, Sportnet, 24sata, Večernji list, HRT and Gol.hr. The SuperSport HNL with Dinamo, Hajduk and Rijeka, the Vatreni, handball, basketball and water polo.",
       "slug_en": "croatia"
     },
     {
@@ -14313,11 +14313,11 @@
       "type": "folder",
       "icon": "ie",
       "name": "Írsko",
-      "desc": "Írske športové médiá vrátane gaelských športov",
+      "desc": "Írske športové weby a denníky: RTÉ Sport, The42, Irish Independent, The Irish Times, Irish Examiner, Balls.ie, Extratime a GAA. Gaelský futbal a hurling, rugby, League of Ireland, golf a dostihy.",
       "order": 19,
       "slug": "irsko",
       "name_en": "Ireland",
-      "desc_en": "Irish sports media including Gaelic games",
+      "desc_en": "Irish sports websites and dailies: RTÉ Sport, The42, Irish Independent, The Irish Times, Irish Examiner, Balls.ie, Extratime and the GAA. Gaelic football and hurling, rugby, the League of Ireland, golf and horse racing.",
       "slug_en": "ireland"
     },
     {
@@ -14326,11 +14326,11 @@
       "type": "folder",
       "icon": "is",
       "name": "Island",
-      "desc": "Islandské športové médiá a portály",
+      "desc": "Islandský šport v médiách: RÚV, Vísir, MBL, Fotbolti, Karfan, DV 433 a golfový zväz GSÍ. Besta deild a reprezentácia, hádzanárska Olís deild, basketbalová Bónus deild, golf aj vzpieranie.",
       "order": 20,
       "slug": "island",
       "name_en": "Iceland",
-      "desc_en": "Icelandic sports media and portals",
+      "desc_en": "Icelandic sport in the media: RÚV, Vísir, MBL, Fotbolti, Karfan, DV 433 and the GSÍ golf union. The Besta deild and national team, the Olís deild in handball, the Bónus deild in basketball, golf and weightlifting.",
       "slug_en": "iceland"
     },
     {
@@ -14339,10 +14339,10 @@
       "type": "folder",
       "icon": "xk",
       "name": "Kosovo",
-      "desc": "Kosovské športové portály a médiá",
+      "desc": "Kosovské športové médiá: Koha, Telegrafi, Gazeta Express, verejnoprávna RTK, Zëri, Bota Sot a Klan Kosova. Kosovská Superliga, reprezentácia, kosovskí futbalisti v zahraničí, Serie A a Bundesliga.",
       "order": 21,
       "slug": "kosovo",
-      "desc_en": "Kosovar sports portals and media",
+      "desc_en": "Kosovan sports media: Koha, Telegrafi, Gazeta Express, public broadcaster RTK, Zëri, Bota Sot and Klan Kosova. The Kosovo Superliga, the national team, Kosovan footballers abroad, Serie A and the Bundesliga.",
       "slug_en": "kosovo",
       "name_en": "Kosovo"
     },
@@ -14352,11 +14352,11 @@
       "type": "folder",
       "icon": "li",
       "name": "Lichtenštajnsko",
-      "desc": "Lichtenštajnské médiá so športovým spravodajstvom",
+      "desc": "Lichtenštajnský šport v miestnych médiách: lie:zeit, Liechtensteiner Vaterland, Radio Liechtenstein, Landesspiegel a SportJack. FC Vaduz, USV Eschen/Mauren, FC Balzers, reprezentácia a futbal Východného Švajčiarska.",
       "order": 22,
       "slug": "lichtenstajnsko",
       "name_en": "Liechtenstein",
-      "desc_en": "Liechtenstein media with sports coverage",
+      "desc_en": "Liechtenstein sport in local media: lie:zeit, Liechtensteiner Vaterland, Radio Liechtenstein, Landesspiegel and SportJack. FC Vaduz, USV Eschen/Mauren, FC Balzers, the national team and football in Eastern Switzerland.",
       "slug_en": "liechtenstein"
     },
     {
@@ -14365,11 +14365,11 @@
       "type": "folder",
       "icon": "lt",
       "name": "Litva",
-      "desc": "Litovské športové médiá — basketbal a ďalšie",
+      "desc": "Litovské športové weby a médiá: Sportas.lt, Krepšinis.net, BasketNews, LRT, Delfi, 15min a TV3. Basketbal na prvom mieste – LKL, Žalgiris a Rytas v Eurolige, NBA –, k tomu futbal, tenis a Rely Dakar.",
       "order": 23,
       "slug": "litva",
       "name_en": "Lithuania",
-      "desc_en": "Lithuanian sports media — basketball and more",
+      "desc_en": "Lithuanian sports sites and media: Sportas.lt, Krepšinis.net, BasketNews, LRT, Delfi, 15min and TV3. Basketball first – the LKL, Žalgiris and Rytas in the EuroLeague, the NBA – plus football, tennis and the Dakar Rally.",
       "slug_en": "lithuania"
     },
     {
@@ -14378,11 +14378,11 @@
       "type": "folder",
       "icon": "lv",
       "name": "Lotyšsko",
-      "desc": "Lotyšské športové médiá — hokej a ďalšie",
+      "desc": "Lotyšské športové portály a TV: Sportacentrs, Hokejaziņas, Sportazinas, verejnoprávne LSM, Delfi, TVNET a TV3. Optibet hokejová liga a Lotyši v NHL, basketbal, futbalová Virslīga a zimné športy.",
       "order": 24,
       "slug": "lotyssko",
       "name_en": "Latvia",
-      "desc_en": "Latvian sports media — ice hockey and more",
+      "desc_en": "Latvian sports portals and TV: Sportacentrs, Hokejaziņas, Sportazinas, public broadcaster LSM, Delfi, TVNET and TV3. The Optibet hockey league and Latvians in the NHL, basketball, the Virslīga and winter sports.",
       "slug_en": "latvia"
     },
     {
@@ -14391,11 +14391,11 @@
       "type": "folder",
       "icon": "lu",
       "name": "Luxembursko",
-      "desc": "Luxemburské športové médiá",
+      "desc": "Luxemburský šport v miestnych médiách: Mental, RTL, Tageblatt, L'essentiel, Wort, Le Quotidien, Virgule a futbalový zväz FLF. BGL Ligue, reprezentácia Rout Léiwen, basketbal, hádzaná a cyklistika.",
       "order": 25,
       "slug": "luxembursko",
       "name_en": "Luxembourg",
-      "desc_en": "Luxembourg sports media",
+      "desc_en": "Luxembourg sport in local media: Mental, RTL, Tageblatt, L'essentiel, Wort, Le Quotidien, Virgule and the FLF football federation. The BGL Ligue, the Rout Léiwen national team, basketball, handball and cycling.",
       "slug_en": "luxembourg"
     },
     {
@@ -14404,11 +14404,11 @@
       "type": "folder",
       "icon": "mk",
       "name": "Severné Macedónsko",
-      "desc": "Macedónske športové portály a televízie",
+      "desc": "Macedónske športové weby a médiá: Gol.mk, Sportsport, Ekipa, Sport1, Derbi, verejnoprávna MRT a hádzanársky 24 Rakomet. Prva MFL a reprezentácia, hádzanárska Superliga, basketbal a futbal aj po anglicky.",
       "order": 26,
       "slug": "macedonsko",
       "name_en": "North Macedonia",
-      "desc_en": "North Macedonian sports portals and TV channels",
+      "desc_en": "Macedonian sports websites and media: Gol.mk, Sportsport, Ekipa, Sport1, Derbi, public broadcaster MRT and the handball site 24 Rakomet. The Prva MFL and national team, the handball Superliga, basketball and football in English.",
       "slug_en": "north-macedonia"
     },
     {
@@ -14417,11 +14417,11 @@
       "type": "folder",
       "icon": "hu",
       "name": "Maďarsko",
-      "desc": "Maďarské športové médiá a denníky",
+      "desc": "Maďarské športové weby, denníky a TV: Nemzeti Sport, Csakfoci, M4 Sport, Blikk, Index, Telex, 24.hu a hádzanársky Handball.hu. NB I a reprezentácia, Szoboszlai, hádzaná, hokejová Erste Liga a F1.",
       "order": 27,
       "slug": "madarsko",
       "name_en": "Hungary",
-      "desc_en": "Hungarian sports media and dailies",
+      "desc_en": "Hungarian sports websites, dailies and TV: Nemzeti Sport, Csakfoci, M4 Sport, Blikk, Index, Telex, 24.hu and Handball.hu. The NB I and national team, Szoboszlai, handball, the Erste Liga in hockey and F1.",
       "slug_en": "hungary"
     },
     {
@@ -14430,10 +14430,10 @@
       "type": "folder",
       "icon": "mt",
       "name": "Malta",
-      "desc": "Maltské médiá so športovým spravodajstvom",
+      "desc": "Maltské športové weby a médiá: Sportsdesk, Malta Football, Net News, Malta Independent, MaltaToday, TVM a Newsbook. Maltese Premier League a Challenge League, futbal z Goza, vodné pólo, rugby a desiatky menších športov.",
       "order": 28,
       "slug": "malta",
-      "desc_en": "Maltese media with sports coverage",
+      "desc_en": "Maltese sports websites and media: Sportsdesk, Malta Football, Net News, Malta Independent, MaltaToday, TVM and Newsbook. The Maltese Premier League and Challenge League, Gozo football, water polo, rugby and dozens of smaller sports.",
       "slug_en": "malta",
       "name_en": "Malta"
     },
@@ -14443,11 +14443,11 @@
       "type": "folder",
       "icon": "md",
       "name": "Moldavsko",
-      "desc": "Moldavské športové portály a médiá",
+      "desc": "Moldavské športové weby a médiá: Moldfootball, Sports.md, Pro TV, Unimedia, Știri.md, Point a Noi.md. Liga 7777 so Sheriffom a Zimbru, reprezentácia a mládež, futsal, zápasenie, beh a triatlon.",
       "order": 29,
       "slug": "moldavsko",
       "name_en": "Moldova",
-      "desc_en": "Moldovan sports portals and media",
+      "desc_en": "Moldovan sports sites and media: Moldfootball, Sports.md, Pro TV, Unimedia, Știri.md, Point and Noi.md. The Liga 7777 with Sheriff and Zimbru, national and youth teams, futsal, wrestling, running and triathlon.",
       "slug_en": "moldova"
     },
     {
@@ -14456,11 +14456,11 @@
       "type": "folder",
       "icon": "no",
       "name": "Nórsko",
-      "desc": "Nórske športové médiá — verejnoprávna NRK, denníky VG a Aftenposten, lokálne portály aj weby pre futbal a beh na lyžiach.",
+      "desc": "Nórske športové správy: TV 2, NRK, VG, Dagbladet, Aftenposten, Nettavisen, Eurosport a špecializovaný Langrenn. Eliteserien a OBOS-ligaen, ženská Toppserien, beh na lyžiach a ďalšie zimné športy.",
       "order": 30,
       "slug": "norsko",
       "name_en": "Norway",
-      "desc_en": "Norwegian sports media — public broadcaster NRK, dailies VG and Aftenposten, local portals and websites for football and cross-country skiing.",
+      "desc_en": "Norwegian sports news: TV 2, NRK, VG, Dagbladet, Aftenposten, Nettavisen, Eurosport and the specialist Langrenn. The Eliteserien and OBOS-ligaen, the women's Toppserien, cross-country skiing and other winter sports.",
       "slug_en": "norway"
     },
     {
@@ -14469,11 +14469,11 @@
       "type": "folder",
       "icon": "pl",
       "name": "Poľsko",
-      "desc": "Poľské športové médiá — športové denníky, portály Sport.pl a Meczyki, televízie TVP Sport a Polsat Sport.",
+      "desc": "Poľské športové weby, denníky a TV: WP SportoweFakty, Przegląd Sportowy, Sport.pl, Meczyki, Weszło, TVP Sport, Polsat Sport a Interia. Ekstraklasa a reprezentácia, volejbal, tenis, skoky na lyžiach a basketbal.",
       "order": 31,
       "slug": "polsko",
       "name_en": "Poland",
-      "desc_en": "Polish sports media — sports dailies, portals Sport.pl and Meczyki, TV channels TVP Sport and Polsat Sport.",
+      "desc_en": "Polish sports websites, dailies and TV: WP SportoweFakty, Przegląd Sportowy, Sport.pl, Meczyki, Weszło, TVP Sport, Polsat Sport and Interia. The Ekstraklasa and national team, volleyball, tennis, ski jumping and basketball.",
       "slug_en": "poland"
     },
     {
@@ -14482,11 +14482,11 @@
       "type": "folder",
       "icon": "pt",
       "name": "Portugalsko",
-      "desc": "Portugalské športové médiá — denníky A Bola, Record a O Jogo, futbalové portály aj regionálne noviny.",
+      "desc": "Portugalské športové denníky, weby a TV: A Bola, Record, O Jogo, Maisfutebol, zerozero, SAPO, RTP a SIC Notícias. Liga Portugal s Benficou, Sportingom a FC Porto, Liga majstrov a reprezentácia.",
       "order": 32,
       "slug": "portugalsko",
       "name_en": "Portugal",
-      "desc_en": "Portuguese sports media — dailies A Bola, Record and O Jogo, football portals and regional newspapers.",
+      "desc_en": "Portuguese sports dailies, websites and TV: A Bola, Record, O Jogo, Maisfutebol, zerozero, SAPO, RTP and SIC Notícias. Liga Portugal with Benfica, Sporting and FC Porto, the Champions League and the national team.",
       "slug_en": "portugal"
     },
     {
@@ -14495,11 +14495,11 @@
       "type": "folder",
       "icon": "at",
       "name": "Rakúsko",
-      "desc": "Rakúske športové médiá — portál Laola1, ORF Sport, Sky Sport Austria a športové rubriky denníkov.",
+      "desc": "Rakúske športové médiá: Laola1, Sky Sport Austria, 90minuten, Ligaportal, ORF, Kronen Zeitung, Kurier a Der Standard. ADMIRAL Bundesliga a 2. liga, regionálny futbal po spolkových krajinách, alpské lyžovanie, tenis a hokej.",
       "order": 33,
       "slug": "rakusko",
       "name_en": "Austria",
-      "desc_en": "Austrian sports media — Laola1 portal, ORF Sport, Sky Sport Austria and newspaper sports sections.",
+      "desc_en": "Austrian sports media: Laola1, Sky Sport Austria, 90minuten, Ligaportal, ORF, Kronen Zeitung, Kurier and Der Standard. The ADMIRAL Bundesliga and 2. Liga, regional football by state, alpine skiing, tennis and hockey.",
       "slug_en": "austria"
     },
     {
@@ -14508,11 +14508,11 @@
       "type": "folder",
       "icon": "ro",
       "name": "Rumunsko",
-      "desc": "Rumunské športové médiá — Gazeta Sporturilor, Digi Sport, ProSport a športové rubriky spravodajských portálov.",
+      "desc": "Rumunské športové weby, denníky a televízie: Digisport, Prosport, GSP, Prima Sport, Fanatik, Orange Sport, Sport.ro a Libertatea. SuperLiga s FCSB, Dinamom, CFR Cluj a Rapidom, Liga 2, reprezentácia a tenis.",
       "order": 34,
       "slug": "rumunsko",
       "name_en": "Romania",
-      "desc_en": "Romanian sports media — Gazeta Sporturilor, Digi Sport, ProSport and news portal sports sections.",
+      "desc_en": "Romanian sports websites, dailies and TV: Digisport, Prosport, GSP, Prima Sport, Fanatik, Orange Sport, Sport.ro and Libertatea. The SuperLiga with FCSB, Dinamo, CFR Cluj and Rapid, Liga 2, the national team and tennis.",
       "slug_en": "romania"
     },
     {
@@ -14521,11 +14521,11 @@
       "type": "folder",
       "icon": "ru",
       "name": "Rusko",
-      "desc": "Ruské športové médiá — Sports.ru, Sport-Express, Championat, Match TV a športové rubriky veľkých portálov.",
+      "desc": "Ruské športové weby a televízie: Sports.ru, Sport-Express, Championat, Sovsport, Match TV, AllHockey, Sportbox a TASS. RPL a Ruský pohár, KHL a Rusi v NHL, krasokorčuľovanie, biatlon, box a MMA.",
       "order": 35,
       "slug": "rusko",
       "name_en": "Russia",
-      "desc_en": "Russian sports media — Sports.ru, Sport-Express, Championat, Match TV and major portal sports sections.",
+      "desc_en": "Russian sports websites and TV: Sports.ru, Sport-Express, Championat, Sovsport, Match TV, AllHockey, Sportbox and TASS. The RPL and Russian Cup, the KHL and Russians in the NHL, figure skating, biathlon, boxing and MMA.",
       "slug_en": "russia"
     },
     {
@@ -14534,11 +14534,11 @@
       "type": "folder",
       "icon": "sm",
       "name": "San Maríno",
-      "desc": "Sanmarínske športové médiá a inštitúcie",
+      "desc": "Sanmarínsky šport v miestnych médiách: futbalový zväz FSGC, RTV San Marino, olympijský výbor CONS, Libertas a Corriere Romagna. Campionato Sammarinese, Coppa Titano, reprezentácie a kluby z Romagne.",
       "order": 36,
       "slug": "san-marino",
       "name_en": "San Marino",
-      "desc_en": "San Marino sports media and institutions",
+      "desc_en": "San Marino sport in local media: the FSGC football federation, RTV San Marino, the CONS Olympic committee, Libertas and Corriere Romagna. The Campionato Sammarinese, Coppa Titano, national teams and Romagna clubs.",
       "slug_en": "san-marino"
     },
     {
@@ -14547,11 +14547,11 @@
       "type": "folder",
       "icon": "gb-nir",
       "name": "Severné Írsko",
-      "desc": "Severoírske športové médiá — BBC, denníky a futbal",
+      "desc": "Severoírsky šport v médiách: BBC Northern Ireland, Belfast Telegraph, Belfast Live, Irish News, News Letter, UTV a liga NIFL. Irish League a NIFL Premiership, reprezentácia, Ulster Rugby, gaelské športy a motocyklové preteky.",
       "order": 37,
       "slug": "severne-irsko",
       "name_en": "Northern Ireland",
-      "desc_en": "Northern Irish sports media — BBC, dailies and football",
+      "desc_en": "Northern Irish sport in the media: BBC Northern Ireland, Belfast Telegraph, Belfast Live, Irish News, News Letter, UTV and the NIFL. The Irish League and NIFL Premiership, the national team, Ulster Rugby, Gaelic games and road racing.",
       "slug_en": "northern-ireland"
     },
     {
@@ -14560,11 +14560,11 @@
       "type": "folder",
       "icon": "gb-sct",
       "name": "Škótsko",
-      "desc": "Škótske športové médiá — BBC, denníky a futbal",
+      "desc": "Škótsky šport v médiách: BBC Scotland, Sky Sports, STV, liga SPFL, Daily Record, Scottish Sun, The Scotsman a The Herald. Premiership s Celticom a Rangers, Hearts a Hibs, nižšie ligy a reprezentácia.",
       "order": 38,
       "slug": "skotsko",
       "name_en": "Scotland",
-      "desc_en": "Scottish sports media — BBC, dailies and football",
+      "desc_en": "Scottish sport in the media: BBC Scotland, Sky Sports, STV, the SPFL, Daily Record, Scottish Sun, The Scotsman and The Herald. The Premiership with Celtic and Rangers, Hearts and Hibs, the lower leagues and the national team.",
       "slug_en": "scotland"
     },
     {
@@ -14573,11 +14573,11 @@
       "type": "folder",
       "icon": "si",
       "name": "Slovinsko",
-      "desc": "Slovinské športové médiá — portály, denníky a televízie",
+      "desc": "Slovinské športové médiá: Ekipa24, Sportklub, Šport TV, Nogomania, Sportal, RTV Slovenija, 24ur, Delo a Dnevnik. Prva liga Telemach, reprezentácia, Slovinci v zahraničí, cyklistika s Pogačarom a basketbal.",
       "order": 39,
       "slug": "slovinsko",
       "name_en": "Slovenia",
-      "desc_en": "Slovenian sports media — portals, dailies and TV channels",
+      "desc_en": "Slovenian sports media: Ekipa24, Sportklub, Šport TV, Nogomania, Sportal, RTV Slovenija, 24ur, Delo and Dnevnik. The Prva liga Telemach, the national team, Slovenians abroad, cycling with Pogačar and basketball.",
       "slug_en": "slovenia"
     },
     {
@@ -14586,11 +14586,11 @@
       "type": "folder",
       "icon": "rs",
       "name": "Srbsko",
-      "desc": "Srbské športové médiá — portály, denníky a televízie",
+      "desc": "Srbské športové weby a televízie: Mozzart Sport, Sportske.net, Sportal, Sport Klub, Arena Sport, B92, Telegraf, RTS a Kurir. Crvena zvezda a Partizan, Superliga, Euroliga, tenis a volejbal.",
       "order": 40,
       "slug": "srbsko",
       "name_en": "Serbia",
-      "desc_en": "Serbian sports media — portals, dailies and TV channels",
+      "desc_en": "Serbian sports websites and TV: Mozzart Sport, Sportske.net, Sportal, Sport Klub, Arena Sport, B92, Telegraf, RTS and Kurir. Crvena zvezda and Partizan, the SuperLiga, the EuroLeague, tennis and volleyball.",
       "slug_en": "serbia"
     },
     {
@@ -14599,11 +14599,11 @@
       "type": "folder",
       "icon": "ch",
       "name": "Švajčiarsko",
-      "desc": "Švajčiarske športové médiá všetkých jazykových regiónov",
+      "desc": "Švajčiarske športové médiá v nemčine, francúzštine aj taliančine: Sport.ch, Blick, SRF, RTS, RSI, Watson, 20 Minuten a Hockeyfans.ch. Futbalová Super League, hokejová National League, lyžovanie a tenis.",
       "order": 41,
       "slug": "svajciarsko",
       "name_en": "Switzerland",
-      "desc_en": "Swiss sports media of all language regions",
+      "desc_en": "Swiss sports media in German, French and Italian: Sport.ch, Blick, SRF, RTS, RSI, Watson, 20 Minuten and Hockeyfans.ch. The Super League in football, the National League in hockey, skiing and tennis.",
       "slug_en": "switzerland"
     },
     {
@@ -14612,11 +14612,11 @@
       "type": "folder",
       "icon": "se",
       "name": "Švédsko",
-      "desc": "Švédske športové médiá — portály, denníky a televízie",
+      "desc": "Švédske športové weby a denníky: Fotbollskanalen, Hockeysverige, HockeyNews, SvenskaFans, Sportbladet, Expressen, SVT a Dagens Nyheter. Allsvenskan, Damallsvenskan, hokejová SHL a HockeyAllsvenskan.",
       "order": 42,
       "slug": "svedsko",
       "name_en": "Sweden",
-      "desc_en": "Swedish sports media — portals, dailies and TV channels",
+      "desc_en": "Swedish sports websites and dailies: Fotbollskanalen, Hockeysverige, HockeyNews, SvenskaFans, Sportbladet, Expressen, SVT and Dagens Nyheter. The Allsvenskan, Damallsvenskan, the SHL and HockeyAllsvenskan in hockey.",
       "slug_en": "sweden"
     },
     {
@@ -14625,11 +14625,11 @@
       "type": "folder",
       "icon": "it",
       "name": "Taliansko",
-      "desc": "Talianske športové denníky, portály a televízie",
+      "desc": "Talianske športové denníky, weby a TV: La Gazzetta dello Sport, Corriere dello Sport, Tuttosport, TuttoMercatoWeb, Calciomercato, Sky Sport a RAI. Serie A až Serie C, Coppa Italia, prestupový trh, Juventus, Roma a Napoli.",
       "order": 43,
       "slug": "taliansko",
       "name_en": "Italy",
-      "desc_en": "Italian sports dailies, portals and TV channels",
+      "desc_en": "Italian sports dailies, websites and TV: La Gazzetta dello Sport, Corriere dello Sport, Tuttosport, TuttoMercatoWeb, Calciomercato, Sky Sport and RAI. Serie A to Serie C, the Coppa Italia, the transfer market, Juventus, Roma and Napoli.",
       "slug_en": "italy"
     },
     {
@@ -14638,11 +14638,11 @@
       "type": "folder",
       "icon": "tr",
       "name": "Turecko",
-      "desc": "Turecké športové médiá — denníky, portály a televízie",
+      "desc": "Turecké športové weby, denníky a televízie: Mackolik, Fanatik, Fotomaç, beIN Sports, NTV Spor, TRT Spor, Sporx a Hürriyet. Trendyol Süper Lig s Galatasarayom, Fenerbahçe, Beşiktaşom a Trabzonsporom, nižšie ligy a basketbal.",
       "order": 44,
       "slug": "turecko",
       "name_en": "Turkey",
-      "desc_en": "Turkish sports media — dailies, portals and TV channels",
+      "desc_en": "Turkish sports websites, dailies and TV: Mackolik, Fanatik, Fotomaç, beIN Sports, NTV Spor, TRT Spor, Sporx and Hürriyet. The Trendyol Süper Lig with Galatasaray, Fenerbahçe, Beşiktaş and Trabzonspor, lower leagues and basketball.",
       "slug_en": "turkey"
     },
     {
@@ -14651,11 +14651,11 @@
       "type": "folder",
       "icon": "ua",
       "name": "Ukrajina",
-      "desc": "Ukrajinské športové médiá — portály a televízie",
+      "desc": "Ukrajinské športové weby a médiá: Tribuna, Sport.ua, Football.ua, XSPORT, Sportarena, Terrikon, verejnoprávne Suspilne a TSN. Ukrajinská Premier liga so Šachtarom a Dynamom, pohár, nižšie ligy a reprezentácia.",
       "order": 45,
       "slug": "ukrajina",
       "name_en": "Ukraine",
-      "desc_en": "Ukrainian sports media — portals and TV channels",
+      "desc_en": "Ukrainian sports websites and media: Tribuna, Sport.ua, Football.ua, XSPORT, Sportarena, Terrikon, public broadcaster Suspilne and TSN. The Ukrainian Premier League with Shakhtar and Dynamo, the cup, lower leagues and the national team.",
       "slug_en": "ukraine"
     },
     {
@@ -14664,10 +14664,10 @@
       "type": "folder",
       "icon": "gb-wls",
       "name": "Wales",
-      "desc": "Waleské športové médiá — BBC, S4C a regionálne denníky",
+      "desc": "Waleský šport v médiách: Sportin Wales, BBC Sport Wales, S4C vo waleštine, WalesOnline, Sky Sports a miestne noviny. Waleské rugby a URC, Cardiff City, Swansea a Wrexham, Cymru Premier a reprezentácia.",
       "order": 46,
       "slug": "wales",
-      "desc_en": "Welsh sports media — BBC, S4C and regional dailies",
+      "desc_en": "Welsh sport in the media: Sportin Wales, BBC Sport Wales, Welsh-language S4C, WalesOnline, Sky Sports and local papers. Welsh rugby and the URC, Cardiff City, Swansea and Wrexham, the Cymru Premier and the national team.",
       "slug_en": "wales",
       "name_en": "Wales"
     },
@@ -14677,11 +14677,11 @@
       "type": "folder",
       "icon": "am",
       "name": "Arménsko",
-      "desc": "Arménske športové médiá — portály, denníky a televízie",
+      "desc": "Arménske športové weby a médiá: FastNews, Armsport, NEWS.am Sport, agentúra Armenpress a verejnoprávna televízia. Zápasenie, vzpieranie, šach, box, gymnastika a arménsky futbal, správy aj po anglicky a rusky.",
       "order": 47,
       "slug": "armensko",
       "name_en": "Armenia",
-      "desc_en": "Armenian sports media — portals, dailies and TV channels",
+      "desc_en": "Armenian sports sites and media: FastNews, Armsport, NEWS.am Sport, the Armenpress agency and public TV. Wrestling, weightlifting, chess, boxing, gymnastics and Armenian football, with news in English and Russian too.",
       "slug_en": "armenia"
     },
     {
@@ -14690,11 +14690,11 @@
       "type": "folder",
       "icon": "ge",
       "name": "Gruzínsko",
-      "desc": "Gruzínske športové médiá — portály a televízie",
+      "desc": "Gruzínske športové weby a médiá: Sportall, Crystalsport, Goal.ge, Worldsport, verejnoprávna 1TV a agentúra InterPressNews. Erovnuli Liga, legionári ako Kvaracchelia, ragby, zápasenie, džudo a basketbal.",
       "order": 48,
       "slug": "gruzinsko",
       "name_en": "Georgia",
-      "desc_en": "Georgian sports media — portals and TV channels",
+      "desc_en": "Georgian sports sites and media: Sportall, Crystalsport, Goal.ge, Worldsport, public broadcaster 1TV and the InterPressNews agency. The Erovnuli Liga, players abroad such as Kvaratskhelia, rugby, wrestling, judo and basketball.",
       "slug_en": "georgia"
     },
     {
@@ -14703,11 +14703,11 @@
       "type": "folder",
       "icon": "il",
       "name": "Izrael",
-      "desc": "Izraelské športové médiá — portály, denníky a televízie",
+      "desc": "Izraelské športové weby a denníky: Sport5, ONE, Walla Sport, Sport 1, Ynet, Israel Hayom, Haaretz a anglický Jerusalem Post. Ligat ha'Al, Maccabi a Hapoel Tel Aviv, Euroliga a izraelský basketbal.",
       "order": 49,
       "slug": "izrael",
       "name_en": "Israel",
-      "desc_en": "Israeli sports media — portals, dailies and TV channels",
+      "desc_en": "Israeli sports websites and dailies: Sport5, ONE, Walla Sport, Sport 1, Ynet, Israel Hayom, Haaretz and the English-language Jerusalem Post. The Ligat ha'Al, Maccabi and Hapoel Tel Aviv, the EuroLeague and Israeli basketball.",
       "slug_en": "israel"
     },
     {
@@ -14716,11 +14716,11 @@
       "type": "folder",
       "icon": "kz",
       "name": "Kazachstan",
-      "desc": "Kazašské športové médiá — portály a televízie",
+      "desc": "Kazašské športové weby a agentúry: Sports.kz, Vesti.kz, Prosports, Kazfootball, Šajba.kz, Tengri Sport a Kazinform. Premier liga a Pohár Kazachstanu, Barys v KHL, box a MMA, správy po rusky aj kazašsky.",
       "order": 50,
       "slug": "kazachstan",
       "name_en": "Kazakhstan",
-      "desc_en": "Kazakhstani sports media — portals and TV channels",
+      "desc_en": "Kazakh sports websites and agencies: Sports.kz, Vesti.kz, Prosports, Kazfootball, Shaiba.kz, Tengri Sport and Kazinform. The Premier League and Kazakhstan Cup, Barys in the KHL, boxing and MMA, in Russian and Kazakh.",
       "slug_en": "kazakhstan"
     },
     {
@@ -14729,11 +14729,11 @@
       "type": "folder",
       "icon": "az",
       "name": "Azerbajdžán",
-      "desc": "Azerbajdžanské športové médiá — portály, agentúry a televízie",
+      "desc": "Azerbajdžanský šport na jednom mieste: Azerisport, Qol.az, Sportinfo, televízie CBC Sport a İdman TV a agentúry Report, APA a AZERTAC. Premier liga s Karabachom, zápasenie, box a džudo.",
       "order": 51,
       "slug": "azerbajdzan",
       "name_en": "Azerbaijan",
-      "desc_en": "Azerbaijani sports media — portals, agencies and TV channels",
+      "desc_en": "Azerbaijani sport in one place: Azerisport, Qol.az, Sportinfo, CBC Sport and İdman TV, and the Report, APA and AZERTAC agencies. The Premier League with Qarabağ, wrestling, boxing and judo.",
       "slug_en": "azerbaijan"
     },
     {
@@ -14742,10 +14742,10 @@
       "type": "folder",
       "icon": "cy",
       "name": "Cyprus",
-      "desc": "Cyperské športové médiá — portály, denníky a rádiá",
+      "desc": "Cyperské športové weby, denníky a rádio: Kerkida, Protathlima, Balla, Politis, Philenews, RIK a Super Sport 104. A' kategória s APOELom, Omoniou, AEK a Pafosom, Cyperský pohár, reprezentácia aj správy po anglicky.",
       "order": 52,
       "slug": "cyprus",
-      "desc_en": "Cypriot sports media — portals, dailies and radio stations",
+      "desc_en": "Cypriot sports websites, dailies and radio: Kerkida, Protathlima, Balla, Politis, Philenews, RIK and Super Sport 104. The First Division with APOEL, Omonia, AEK and Pafos, the Cypriot Cup, the national team and English news.",
       "slug_en": "cyprus",
       "name_en": "Cyprus"
     },
@@ -14755,11 +14755,12 @@
       "type": "folder",
       "icon": "vi",
       "name": "Americké Panenské ostrovy",
-      "desc": "",
+      "desc": "Šport z Amerických Panenských ostrovov v denníku The Virgin Islands Daily News zo St. Thomas a na portáli VI Consortium zo St. Croix. Miestny futbal, americký futbal, atletika, box, mládežnícky basketbal, univerzitný šport UVI, jachting a dostihy. Denník prináša aj výsledky z Britských Panenských ostrovov.",
       "order": 0,
       "slug": "americke-panenske-ostrovy",
       "name_en": "U.S. Virgin Islands",
-      "slug_en": "u-s-virgin-islands"
+      "slug_en": "u-s-virgin-islands",
+      "desc_en": "U.S. Virgin Islands sport in The Virgin Islands Daily News from St. Thomas and on the VI Consortium portal from St. Croix. Local football, American football, athletics, boxing, youth basketball, UVI college sport, sailing and horse racing. The daily also carries results from the British Virgin Islands."
     },
     {
       "id": "f_med_na_ai",
@@ -14767,11 +14768,12 @@
       "type": "folder",
       "icon": "ai",
       "name": "Anguilla",
-      "desc": "",
+      "desc": "Anguillské športové správy prináša nezávislý web Anguilla Focus (Focus Media Group). Futbal s ligou AFA a reprezentáciou v Lige národov CONCACAF, kriket, atletika, cyklistika, netbal, plávanie, tenis a karate. Píše o domácich súťažiach aj o vystúpeniach anguillských reprezentantov.",
       "order": 1,
       "slug": "anguilla",
       "slug_en": "anguilla",
-      "name_en": "Anguilla"
+      "name_en": "Anguilla",
+      "desc_en": "Anguillan sports news comes from the independent website Anguilla Focus (Focus Media Group). Football with the AFA league and the national team in the CONCACAF Nations League, cricket, athletics, cycling, netball, swimming, tennis and karate. It covers domestic competitions and Anguilla's national teams."
     },
     {
       "id": "f_med_na_ag",
@@ -14779,11 +14781,12 @@
       "type": "folder",
       "icon": "ag",
       "name": "Antigua a Barbuda",
-      "desc": "",
+      "desc": "Šport z Antiguy a Barbudy v denníku Antigua Observer a v štátnej televízii a rozhlase ABS. Domáca futbalová liga a školský futbal, reprezentácia Benna Boys, kriket, basketbal Business League, atletika, golf a plávanie. ABS pridáva výsledky domácich líg a mládežnícke súťaže.",
       "order": 2,
       "slug": "antigua-a-barbuda",
       "name_en": "Antigua and Barbuda",
-      "slug_en": "antigua-and-barbuda"
+      "slug_en": "antigua-and-barbuda",
+      "desc_en": "Antigua and Barbuda sport in the Antigua Observer daily and on state TV and radio ABS. The domestic football league and school football, the Benna Boys national team, cricket, Business League basketball, athletics, golf and swimming. ABS adds domestic league results and youth competitions."
     },
     {
       "id": "f_med_na_aw",
@@ -14791,11 +14794,12 @@
       "type": "folder",
       "icon": "aw",
       "name": "Aruba",
-      "desc": "",
+      "desc": "Arubský šport v papiamente aj po anglicky: 297 Sports, Diario, Solo di Pueblo, Masnoticia, Awe24, Aruba News a NoticiaCla. Futbalová reprezentácia v Lige národov, volejbal, taekwondo, plávanie, gymnastika a plážový tenis.",
       "order": 3,
       "slug": "aruba",
       "slug_en": "aruba",
-      "name_en": "Aruba"
+      "name_en": "Aruba",
+      "desc_en": "Aruban sport in Papiamento and English: 297 Sports, Diario, Solo di Pueblo, Masnoticia, Awe24, Aruba News and NoticiaCla. The national football team in the Nations League, volleyball, taekwondo, swimming, gymnastics and beach tennis."
     },
     {
       "id": "f_med_na_bs",
@@ -14803,11 +14807,12 @@
       "type": "folder",
       "icon": "bs",
       "name": "Bahamy",
-      "desc": "",
+      "desc": "Bahamský šport v médiách: 10th Year Seniors, The Sports Magazine, The Tribune, The Nassau Guardian a verejnoprávna ZNS. Školské ligy BAISS, basketbal a Bahamčania v NBA, atletika, plávanie, jachting, bejzbal a box.",
       "order": 4,
       "slug": "bahamy",
       "name_en": "Bahamas",
-      "slug_en": "bahamas"
+      "slug_en": "bahamas",
+      "desc_en": "Bahamian sport in the media: 10th Year Seniors, The Sports Magazine, The Tribune, The Nassau Guardian and public broadcaster ZNS. BAISS school leagues, basketball and Bahamians in the NBA, athletics, swimming, sailing, baseball and boxing."
     },
     {
       "id": "f_med_na_bb",
@@ -14815,11 +14820,12 @@
       "type": "folder",
       "icon": "bb",
       "name": "Barbados",
-      "desc": "",
+      "desc": "Barbadoský šport v denníkoch a na portáloch: Nation News, Barbados Today, The Bajan Reporter a štátna CBC. Kriket a West Indies, futbalová reprezentácia, Prime Minister's Cup, ragby 7s, rely a školské súťaže.",
       "order": 5,
       "slug": "barbados",
       "slug_en": "barbados",
-      "name_en": "Barbados"
+      "name_en": "Barbados",
+      "desc_en": "Barbadian sport in dailies and portals: Nation News, Barbados Today, The Bajan Reporter and state broadcaster CBC. Cricket and the West Indies, the national football team, the Prime Minister's Cup, rugby sevens, rallying and school sport."
     },
     {
       "id": "f_med_na_bz",
@@ -14827,11 +14833,12 @@
       "type": "folder",
       "icon": "bz",
       "name": "Belize",
-      "desc": "",
+      "desc": "Belizský šport v novinách Amandala, v televízii News 5 (Channel 5) a v ostrovných novinách The San Pedro Sun z Ambergris Caye. Premier League of Belize, stredoškolský volejbal a futbal, basketbal a týždenná relácia Sports Monday. San Pedro Sun sleduje Island League a San Pedro Pirates.",
       "order": 6,
       "slug": "belize",
       "slug_en": "belize",
-      "name_en": "Belize"
+      "name_en": "Belize",
+      "desc_en": "Belizean sport in the Amandala newspaper, on News 5 (Channel 5) and in the island paper The San Pedro Sun from Ambergris Caye. The Premier League of Belize, high-school volleyball and football, basketball and the weekly Sports Monday show. The San Pedro Sun follows the Island League and the San Pedro Pirates."
     },
     {
       "id": "f_med_na_bm",
@@ -14839,11 +14846,12 @@
       "type": "folder",
       "icon": "bm",
       "name": "Bermudy",
-      "desc": "",
+      "desc": "Bermudské športové weby a médiá: OnTrack Bermuda, denník The Royal Gazette, Bernews, TNN a Bermuda Broadcasting (ZBM). Miestny futbal a kriket, reprezentácia, jachting, golf, triatlon, rugby a beh.",
       "order": 7,
       "slug": "bermuda",
       "slug_en": "bermuda",
-      "name_en": "Bermuda"
+      "name_en": "Bermuda",
+      "desc_en": "Bermudian sports websites and media: OnTrack Bermuda, The Royal Gazette daily, Bernews, TNN and Bermuda Broadcasting (ZBM). Local football and cricket, the national team, sailing, golf, triathlon, rugby and running."
     },
     {
       "id": "f_med_na_bq",
@@ -14851,11 +14859,12 @@
       "type": "folder",
       "icon": "bq",
       "name": "Bonaire",
-      "desc": "",
+      "desc": "Bonairský šport po holandsky, papiamentsky aj anglicky: Bonaire.nu, Extra, BES-Reporter, Energia TV a rádio Live99FM. Reprezentácia v Lige národov CONCACAF, softbal, plávanie, korfbal, basketbal a triatlon aj zo Saby a Sint Eustatia.",
       "order": 8,
       "slug": "bonaire",
       "slug_en": "bonaire",
-      "name_en": "Bonaire"
+      "name_en": "Bonaire",
+      "desc_en": "Bonaire sport in Dutch, Papiamento and English: Bonaire.nu, Extra, BES-Reporter, Energia TV and Live99FM radio. The national team in the CONCACAF Nations League, softball, swimming, korfball, basketball and triathlon, plus Saba and Sint Eustatius."
     },
     {
       "id": "f_med_na_vg",
@@ -14863,11 +14872,12 @@
       "type": "folder",
       "icon": "vg",
       "name": "Britské Panenské ostrovy",
-      "desc": "",
+      "desc": "Šport z Britských Panenských ostrovov sleduje spravodajský portál Virgin Islands News Online (VINO), založený v roku 2010. Futbalová National League a President's Cup zväzu BVIFA, školská liga, basketbal VG Summer Jam, atletika, plávanie a jachtárske regaty. Prináša výsledky domácich súťaží aj vystúpenia ostrovných športovcov.",
       "order": 9,
       "slug": "britske-panenske-ostrovy",
       "name_en": "British Virgin Islands",
-      "slug_en": "british-virgin-islands"
+      "slug_en": "british-virgin-islands",
+      "desc_en": "British Virgin Islands sport is covered by the news portal Virgin Islands News Online (VINO), founded in 2010. The BVIFA National League and President's Cup, the school league, VG Summer Jam basketball, athletics, swimming and sailing regattas. It brings domestic results and island athletes' performances."
     },
     {
       "id": "f_med_na_cw",
@@ -14875,11 +14885,12 @@
       "type": "folder",
       "icon": "cw",
       "name": "Curaçao",
-      "desc": "",
+      "desc": "Curaçaoský šport v papiamentu, holandčine aj angličtine: Deporte Awe, Deporte Kòrsou, Èxtra, Kiko Ta Pasando a Curaçao.nu. Futbalová reprezentácia a Gold Cup, bejzbal a Curaçaočania v MLB, atletika, box, vodné pólo a MMA.",
       "order": 10,
       "slug": "curacao",
       "slug_en": "curacao",
-      "name_en": "Curaçao"
+      "name_en": "Curaçao",
+      "desc_en": "Curaçao sport in Papiamentu, Dutch and English: Deporte Awe, Deporte Kòrsou, Èxtra, Kiko Ta Pasando and Curaçao.nu. The national football team and the Gold Cup, baseball and Curaçao players in MLB, athletics, boxing, water polo and MMA."
     },
     {
       "id": "f_med_na_dm",
@@ -14887,11 +14898,12 @@
       "type": "folder",
       "icon": "dm",
       "name": "Dominika",
-      "desc": "",
+      "desc": "Dominický šport na spravodajských portáloch: Dominica News Online, DOM767, Nature Isle News a Dominica News. Reprezentácia Bouyon Boys v Lige národov CONCACAF, kriket a West Indies, atletika, basketbal, plávanie a cyklistika.",
       "order": 11,
       "slug": "dominika",
       "name_en": "Dominica",
-      "slug_en": "dominica"
+      "slug_en": "dominica",
+      "desc_en": "Dominican (Dominica) sport on news portals: Dominica News Online, DOM767, Nature Isle News and Dominica News. The Bouyon Boys in the CONCACAF Nations League, cricket and the West Indies, athletics, basketball, swimming and cycling."
     },
     {
       "id": "f_med_na_do",
@@ -14899,11 +14911,12 @@
       "type": "folder",
       "icon": "do",
       "name": "Dominikánska republika",
-      "desc": "",
+      "desc": "Dominikánske športové weby a denníky: Pío Deportes, Grandes en los Deportes, Momento Deportivo RD, Cartel Deportivo, Manolito en el Play a Deporte al Día. Bejzbal LIDOM a Dominikánci v MLB, Serie del Caribe, basketbal a volejbal.",
       "order": 12,
       "slug": "dominikanska-republika",
       "name_en": "Dominican Republic",
-      "slug_en": "dominican-republic"
+      "slug_en": "dominican-republic",
+      "desc_en": "Dominican Republic sports sites: Pío Deportes, Grandes en los Deportes, Momento Deportivo RD, Cartel Deportivo, Manolito en el Play and Deporte al Día. LIDOM baseball and Dominicans in MLB, the Caribbean Series, basketball and volleyball."
     },
     {
       "id": "f_med_na_gf",
@@ -14911,11 +14924,12 @@
       "type": "folder",
       "icon": "gf",
       "name": "Francúzska Guyana",
-      "desc": "",
+      "desc": "Šport z Francúzskej Guyany v regionálnom denníku France-Guyane, vo verejnoprávnej Guyane la 1ère a v súkromnom rádiu a TV Péyi Guyane. Futbal a Coupe de France, hádzaná so Supercoupe Antilles-Guyane, basketbal, futsal, atletika, plážový volejbal a cyklistika s Tour de Guyane.",
       "order": 13,
       "slug": "francuzska-guyana",
       "name_en": "French Guiana",
-      "slug_en": "french-guiana"
+      "slug_en": "french-guiana",
+      "desc_en": "French Guiana sport in the regional daily France-Guyane, on public broadcaster Guyane la 1ère and on private radio and TV Péyi Guyane. Football and the Coupe de France, handball with the Supercoupe Antilles-Guyane, basketball, futsal, athletics, beach volleyball and cycling with the Tour de Guyane."
     },
     {
       "id": "f_med_na_gd",
@@ -14923,11 +14937,12 @@
       "type": "folder",
       "icon": "gd",
       "name": "Grenada",
-      "desc": "",
+      "desc": "Grenadský šport na portáli NOW Grenada a v blogu športového novinára Michaela Bascomba (Media Blast). Futbal a reprezentácia zväzu GFA, atletika a CARIFTA, kriket Windward Islands a West Indies, netbal, stolný tenis a vodné športy. Bascombe pridáva komentáre a rozhovory o riadení športu na Grenade a vo východnom Karibiku.",
       "order": 14,
       "slug": "grenada",
       "slug_en": "grenada",
-      "name_en": "Grenada"
+      "name_en": "Grenada",
+      "desc_en": "Grenadian sport on the NOW Grenada portal and in the blog of sports journalist Michael Bascombe (Media Blast). Football and the GFA national team, athletics and CARIFTA, Windward Islands and West Indies cricket, netball, table tennis and water sports. Bascombe adds commentary and interviews on sports governance in Grenada and the eastern Caribbean."
     },
     {
       "id": "f_med_na_gp",
@@ -14935,11 +14950,12 @@
       "type": "folder",
       "icon": "gp",
       "name": "Guadeloupe",
-      "desc": "",
+      "desc": "Guadeloupský šport v médiách: Ini Sport, France-Antilles, Karib'Info, verejnoprávna Guadeloupe la 1ère a rádio RCI. Reprezentácia Gwada Boys v Lige národov CONCACAF, domáci futbal, plachtenie s Route du Rhum, cyklistika a MMA.",
       "order": 15,
       "slug": "guadeloupe",
       "slug_en": "guadeloupe",
-      "name_en": "Guadeloupe"
+      "name_en": "Guadeloupe",
+      "desc_en": "Guadeloupe sport in the media: Ini Sport, France-Antilles, Karib'Info, public broadcaster Guadeloupe la 1ère and RCI radio. The Gwada Boys in the CONCACAF Nations League, local football, sailing with the Route du Rhum, cycling and MMA."
     },
     {
       "id": "f_med_na_gt",
@@ -14947,11 +14963,12 @@
       "type": "folder",
       "icon": "gt",
       "name": "Guatemala",
-      "desc": "",
+      "desc": "Guatemalské športové weby, denníky a agentúra: Antorcha Deportiva, Guatefutbol.com, Prensa Libre, Nuestro Diario, La Hora, Publinews a AGN. Liga Nacional a jej kluby, Primera División, reprezentácia a ďalšie športy.",
       "order": 16,
       "slug": "guatemala",
       "slug_en": "guatemala",
-      "name_en": "Guatemala"
+      "name_en": "Guatemala",
+      "desc_en": "Guatemalan sports sites, dailies and agency: Antorcha Deportiva, Guatefutbol.com, Prensa Libre, Nuestro Diario, La Hora, Publinews and AGN. The Liga Nacional and its clubs, the Primera División, the national team and other sports."
     },
     {
       "id": "f_med_na_gy",
@@ -14959,11 +14976,12 @@
       "type": "folder",
       "icon": "gy",
       "name": "Guyana",
-      "desc": "",
+      "desc": "Guyanský šport v denníkoch a na portáloch: Kaieteur News, Guyana Times, Kiskadee Watch, Village Voice, iNews Guyana a News Room. Domáci futbal a reprezentácia, kriket a West Indies, basketbal, atletika a karibský šport.",
       "order": 17,
       "slug": "guyana",
       "slug_en": "guyana",
-      "name_en": "Guyana"
+      "name_en": "Guyana",
+      "desc_en": "Guyanese sport in dailies and portals: Kaieteur News, Guyana Times, Kiskadee Watch, Village Voice, iNews Guyana and News Room. Local football and the national team, cricket and the West Indies, basketball, athletics and Caribbean sport."
     },
     {
       "id": "f_med_na_ht",
@@ -14971,11 +14989,12 @@
       "type": "folder",
       "icon": "ht",
       "name": "Haiti",
-      "desc": "",
+      "desc": "Haitské športové weby a denníky: Haiti Tempo, Sport Passion Info, Ferisports, Le Nouvelliste, Le National, HaitiLibre, Le Témoin a Ayiti Info+. Liga LHF D1 až D3 mužov aj žien, reprezentácia Grenadiers a haitskí hráči v zahraničí.",
       "order": 18,
       "slug": "haiti",
       "slug_en": "haiti",
-      "name_en": "Haiti"
+      "name_en": "Haiti",
+      "desc_en": "Haitian sports websites and dailies: Haiti Tempo, Sport Passion Info, Ferisports, Le Nouvelliste, Le National, HaitiLibre, Le Témoin and Ayiti Info+. The LHF league D1 to D3 for men and women, the Grenadiers national team and Haitian players abroad."
     },
     {
       "id": "f_med_na_hn",
@@ -14983,11 +15002,12 @@
       "type": "folder",
       "icon": "hn",
       "name": "Honduras",
-      "desc": "",
+      "desc": "Honduraské športové denníky, weby a TV: Diez, Deportes TVC, Mi Pasión HN, La Prensa, El Heraldo, La Tribuna, Tiempo a Proceso Digital. Liga Nacional s Marathónom a Real España, reprezentácia a honduraskí legionári.",
       "order": 19,
       "slug": "honduras",
       "slug_en": "honduras",
-      "name_en": "Honduras"
+      "name_en": "Honduras",
+      "desc_en": "Honduran sports dailies, websites and TV: Diez, Deportes TVC, Mi Pasión HN, La Prensa, El Heraldo, La Tribuna, Tiempo and Proceso Digital. The Liga Nacional with Marathón and Real España, the national team and Hondurans abroad."
     },
     {
       "id": "f_med_na_jm",
@@ -14995,11 +15015,12 @@
       "type": "folder",
       "icon": "jm",
       "name": "Jamajka",
-      "desc": "",
+      "desc": "Jamajský šport v denníkoch a rozhlase: Jamaica Gleaner, Jamaica Observer, The Star, Caribbean National Weekly, Nationwide 90FM a Irie FM. Reggae Boyz, liga JPL, školský futbal ISSA, atletika a kriket.",
       "order": 20,
       "slug": "jamajka",
       "name_en": "Jamaica",
-      "slug_en": "jamaica"
+      "slug_en": "jamaica",
+      "desc_en": "Jamaican sport in dailies and on radio: Jamaica Gleaner, Jamaica Observer, The Star, Caribbean National Weekly, Nationwide 90FM and Irie FM. The Reggae Boyz, the JPL, ISSA school football, athletics and cricket."
     },
     {
       "id": "f_med_na_ky",
@@ -15007,11 +15028,12 @@
       "type": "folder",
       "icon": "ky",
       "name": "Kajmanie ostrovy",
-      "desc": "",
+      "desc": "Kajmanský šport v médiách: Cayman Compass, Caymanian Times, Cayman Independent a štátne Radio Cayman. Futbalová reprezentácia v Lige národov CONCACAF, školské ligy, basketbal, plávanie, vodné pólo, golf a touch ragby.",
       "order": 21,
       "slug": "kajmanske-ostrovy",
       "name_en": "Cayman Islands",
-      "slug_en": "cayman-islands"
+      "slug_en": "cayman-islands",
+      "desc_en": "Caymanian sport in the media: Cayman Compass, Caymanian Times, Cayman Independent and state broadcaster Radio Cayman. The national football team in the CONCACAF Nations League, school leagues, basketball, swimming, water polo, golf and touch rugby."
     },
     {
       "id": "f_med_na_ca",
@@ -15019,11 +15041,12 @@
       "type": "folder",
       "icon": "ca",
       "name": "Kanada",
-      "desc": "",
+      "desc": "Kanadské športové televízie a denníky: TSN, Sportsnet, RDS, TVA Sports, Yahoo Sports Canada, The Globe and Mail, Toronto Star a Toronto Sun. NHL s Maple Leafs a Canadiens, Raptors a ďalší kanadský šport po anglicky aj francúzsky.",
       "order": 22,
       "slug": "kanada",
       "name_en": "Canada",
-      "slug_en": "canada"
+      "slug_en": "canada",
+      "desc_en": "Canadian sports TV and dailies: TSN, Sportsnet, RDS, TVA Sports, Yahoo Sports Canada, The Globe and Mail, Toronto Star and Toronto Sun. The NHL with the Maple Leafs and Canadiens, the Raptors and other Canadian sport in English and French."
     },
     {
       "id": "f_med_na_cr",
@@ -15031,11 +15054,12 @@
       "type": "folder",
       "icon": "cr",
       "name": "Kostarika",
-      "desc": "",
+      "desc": "Kostarické športové weby a denníky: Yashin Quesada, DeportesCR, Hoy En El Deporte, EverardoHerrera.com, Perfiles del Fútbol a La Nación. Liga Promérica mužov aj žien, Liga de Ascenso, reprezentácia a ďalšie športy.",
       "order": 23,
       "slug": "kostarika",
       "name_en": "Costa Rica",
-      "slug_en": "costa-rica"
+      "slug_en": "costa-rica",
+      "desc_en": "Costa Rican sports sites and dailies: Yashin Quesada, DeportesCR, Hoy En El Deporte, EverardoHerrera.com, Perfiles del Fútbol and La Nación. The Liga Promérica for men and women, the Liga de Ascenso, the national team and other sports."
     },
     {
       "id": "f_med_na_cu",
@@ -15043,11 +15067,12 @@
       "type": "folder",
       "icon": "cu",
       "name": "Kuba",
-      "desc": "",
+      "desc": "Kubánske športové médiá: denník JIT, Swing Completo, Pelota Cubana USA, Granma, Juventud Rebelde, Trabajadores a agentúry Prensa Latina a ACN. Serie Nacional bejzbalu, Kubánci v MLB a nižších ligách a ďalšie kubánske športy.",
       "order": 24,
       "slug": "kuba",
       "name_en": "Cuba",
-      "slug_en": "cuba"
+      "slug_en": "cuba",
+      "desc_en": "Cuban sports media: the JIT daily, Swing Completo, Pelota Cubana USA, Granma, Juventud Rebelde, Trabajadores and the Prensa Latina and ACN agencies. The Serie Nacional in baseball, Cubans in MLB and the minor leagues, and other Cuban sports."
     },
     {
       "id": "f_med_na_mq",
@@ -15055,11 +15080,12 @@
       "type": "folder",
       "icon": "mq",
       "name": "Martinik",
-      "desc": "",
+      "desc": "Martinický šport v médiách: Globallfoot, Antilles-SPORT, France-Antilles, verejnoprávna Martinique la 1ère a rádio RCI. Reprezentácia Matinino, liga Régional 1 a Coupe de France, hádzaná, basketbal, MMA a surf.",
       "order": 25,
       "slug": "martinik",
       "name_en": "Martinique",
-      "slug_en": "martinique"
+      "slug_en": "martinique",
+      "desc_en": "Martinique sport in the media: Globallfoot, Antilles-SPORT, France-Antilles, public broadcaster Martinique la 1ère and RCI radio. The Matinino national team, the Régional 1 league and Coupe de France, handball, basketball, MMA and surfing."
     },
     {
       "id": "f_med_na_mx",
@@ -15067,11 +15093,12 @@
       "type": "folder",
       "icon": "mx",
       "name": "Mexiko",
-      "desc": "",
+      "desc": "Mexické športové denníky, weby a TV: ESTO, Mediotiempo, Marca México, Soy Fútbol, Claro Sports, Bolavip, Sporting News a ESPN México. Liga MX a Liga de Expansión, reprezentácia, ženská liga, NFL, MLB a regionálne denníky.",
       "order": 26,
       "slug": "mexiko",
       "name_en": "Mexico",
-      "slug_en": "mexico"
+      "slug_en": "mexico",
+      "desc_en": "Mexican sports dailies, websites and TV: ESTO, Mediotiempo, Marca México, Soy Fútbol, Claro Sports, Bolavip, Sporting News and ESPN México. Liga MX and the Liga de Expansión, the national team, the women's league, the NFL, MLB and regional papers."
     },
     {
       "id": "f_med_na_ms",
@@ -15079,11 +15106,12 @@
       "type": "folder",
       "icon": "ms",
       "name": "Montserrat",
-      "desc": "",
+      "desc": "Montserratské športové správy prináša portál Discover Montserrat, ktorý funguje od roku 2015. Futbalová reprezentácia v Lige národov CONCACAF, mládežnícke výbery a dianie vo futbalovom zväze, k tomu kriket a basketbal na ostrove.",
       "order": 27,
       "slug": "montserrat",
       "slug_en": "montserrat",
-      "name_en": "Montserrat"
+      "name_en": "Montserrat",
+      "desc_en": "Montserrat sports news comes from the Discover Montserrat portal, online since 2015. The national football team in the CONCACAF Nations League, youth squads and football association news, plus cricket and basketball on the island."
     },
     {
       "id": "f_med_na_ni",
@@ -15091,11 +15119,12 @@
       "type": "folder",
       "icon": "ni",
       "name": "Nikaragua",
-      "desc": "",
+      "desc": "Nikaragujské športové weby, denníky a televízie: Gráficos Deportivos, La Prensa, El 19 Digital, Canal 10, TN8, Canal 2, Canal 4 a Viva Nicaragua. Bejzbal od detských kategórií po MLB, futbalová Liga Primera a basketbal.",
       "order": 28,
       "slug": "nikaragua",
       "name_en": "Nicaragua",
-      "slug_en": "nicaragua"
+      "slug_en": "nicaragua",
+      "desc_en": "Nicaraguan sports websites, dailies and TV: Gráficos Deportivos, La Prensa, El 19 Digital, Canal 10, TN8, Canal 2, Canal 4 and Viva Nicaragua. Baseball from youth levels to MLB, the Liga Primera in football and basketball."
     },
     {
       "id": "f_med_na_pa",
@@ -15103,11 +15132,12 @@
       "type": "folder",
       "icon": "pa",
       "name": "Panama",
-      "desc": "",
+      "desc": "Panamské športové kanály, weby a denníky: RPC, COS, TVMAX Deportes, JMDeportes, La Prensa, Panamá América, Crítica a Día a Día. Reprezentácia, futbalová LPF a Liga Prom, ženský futbal a ďalšie panamské športy.",
       "order": 29,
       "slug": "panama",
       "slug_en": "panama",
-      "name_en": "Panama"
+      "name_en": "Panama",
+      "desc_en": "Panamanian sports channels, websites and dailies: RPC, COS, TVMAX Deportes, JMDeportes, La Prensa, Panamá América, Crítica and Día a Día. The national team, the LPF and Liga Prom, women's football and other Panamanian sports."
     },
     {
       "id": "f_med_na_pr",
@@ -15115,11 +15145,12 @@
       "type": "folder",
       "icon": "pr",
       "name": "Portoriko",
-      "desc": "",
+      "desc": "Portorikánske športové denníky a portály: El Nuevo Día, Primera Hora, El Vocero, Metro, NotiCel, The San Juan Daily Star a Es Noticia. Basketbalové ligy BSN a BSNF, zimný bejzbal, univerzitný šport a futbal.",
       "order": 30,
       "slug": "portoriko",
       "name_en": "Puerto Rico",
-      "slug_en": "puerto-rico"
+      "slug_en": "puerto-rico",
+      "desc_en": "Puerto Rican sports dailies and portals: El Nuevo Día, Primera Hora, El Vocero, Metro, NotiCel, The San Juan Daily Star and Es Noticia. The BSN and BSNF basketball leagues, winter baseball, college sport and football."
     },
     {
       "id": "f_med_na_sv",
@@ -15127,11 +15158,12 @@
       "type": "folder",
       "icon": "sv",
       "name": "Salvádor",
-      "desc": "",
+      "desc": "Salvádorské športové denníky a portály: El Gráfico, La Prensa Gráfica, El Diario de Hoy, Diario El Salvador, El Mundo, Diario1, Co Latino a La Página. Primera División, reprezentácia La Selecta, ženská liga a ďalšie športy.",
       "order": 31,
       "slug": "salvador",
       "name_en": "El Salvador",
-      "slug_en": "el-salvador"
+      "slug_en": "el-salvador",
+      "desc_en": "Salvadoran sports dailies and portals: El Gráfico, La Prensa Gráfica, El Diario de Hoy, Diario El Salvador, El Mundo, Diario1, Co Latino and La Página. The Primera División, La Selecta, the women's league and other sports."
     },
     {
       "id": "f_med_na_sx",
@@ -15139,11 +15171,12 @@
       "type": "folder",
       "icon": "sx",
       "name": "Sint Maarten",
-      "desc": "",
+      "desc": "Šport zo Sint Maarten v denníku The Daily Herald a na portáloch 721news a StMaartenNews.com z Philipsburgu. Domáci basketbal vrátane školského, plávanie, atletika, golf, Special Olympics a futbalová Liga národov CONCACAF. The Daily Herald pokrýva aj severovýchodný Karibik.",
       "order": 32,
       "slug": "sint-maarten",
       "slug_en": "sint-maarten",
-      "name_en": "Sint Maarten"
+      "name_en": "Sint Maarten",
+      "desc_en": "Sint Maarten sport in The Daily Herald and on the 721news and StMaartenNews.com portals from Philipsburg. Local basketball incl. school leagues, swimming, athletics, golf, Special Olympics and the CONCACAF Nations League. The Daily Herald also covers the north-eastern Caribbean."
     },
     {
       "id": "f_med_na_us",
@@ -15163,11 +15196,12 @@
       "type": "folder",
       "icon": "sr",
       "name": "Surinam",
-      "desc": "",
+      "desc": "Surinamský šport v médiách: QN Sport+, Times of Suriname, De Ware Tijd, Dagblad Suriname, Suriname Herald, Key News a Waterkant. Reprezentácia Natio, Suriname Major League a ďalšie domáce súťaže.",
       "order": 34,
       "slug": "surinam",
       "name_en": "Suriname",
-      "slug_en": "suriname"
+      "slug_en": "suriname",
+      "desc_en": "Surinamese sport in the media: QN Sport+, Times of Suriname, De Ware Tijd, Dagblad Suriname, Suriname Herald, Key News and Waterkant. The Natio national team, the Suriname Major League and other domestic competitions."
     },
     {
       "id": "f_med_na_kn",
@@ -15175,11 +15209,12 @@
       "type": "folder",
       "icon": "kn",
       "name": "Sv. Krištof a Nevis",
-      "desc": "",
+      "desc": "Šport zo Svätého Krištofa a Nevisu: The St Kitts Nevis Observer, The Labour Spokesman, SKN News, SKN Pulse, SKN Vibes, Nevis News a Nevis Pages. Futbalová reprezentácia Sugar Boyz, domáca liga SKNFA, kriket a atletika.",
       "order": 35,
       "slug": "sv-kristof-a-nevis",
       "name_en": "Saint Kitts and Nevis",
-      "slug_en": "st-kitts-and-nevis"
+      "slug_en": "st-kitts-and-nevis",
+      "desc_en": "Saint Kitts and Nevis sport: The St Kitts Nevis Observer, The Labour Spokesman, SKN News, SKN Pulse, SKN Vibes, Nevis News and Nevis Pages. The Sugar Boyz national team, the SKNFA domestic league, cricket and athletics."
     },
     {
       "id": "f_med_na_lc",
@@ -15187,11 +15222,12 @@
       "type": "folder",
       "icon": "lc",
       "name": "Sv. Lucia",
-      "desc": "",
+      "desc": "Svätolucijský šport v médiách: St. Lucia Times, The Voice, Saint Lucia Daily Post a televízie DBS a MBC. Kriket a Saint Lucia Kings v CPL, West Indies, futbalová liga SPFL, netbal a jachting.",
       "order": 36,
       "slug": "sv-lucia",
       "name_en": "Saint Lucia",
-      "slug_en": "st-lucia"
+      "slug_en": "st-lucia",
+      "desc_en": "Saint Lucian sport in the media: St. Lucia Times, The Voice, Saint Lucia Daily Post and DBS and MBC television. Cricket and the Saint Lucia Kings in the CPL, the West Indies, the SPFL football league, netball and sailing."
     },
     {
       "id": "f_med_na_vc",
@@ -15199,11 +15235,12 @@
       "type": "folder",
       "icon": "vc",
       "name": "Sv. Vincent a Grenadíny",
-      "desc": "",
+      "desc": "Vincentský šport v týždenníku The Vincentian a na portáloch One News SVG a iWitness News. Futbalová reprezentácia Vincy Heat a klubové ligy, kriket, basketbal, netbal, tenis a lukostreľba zo Svätého Vincenta a Grenadín.",
       "order": 37,
       "slug": "sv-vincent-a-grenadiny",
       "name_en": "Saint Vincent and the Grenadines",
-      "slug_en": "st-vincent-and-the-grenadines"
+      "slug_en": "st-vincent-and-the-grenadines",
+      "desc_en": "Vincentian sport in The Vincentian weekly and on the One News SVG and iWitness News portals. The Vincy Heat national team and club leagues, cricket, basketball, netball, tennis and archery from Saint Vincent and the Grenadines."
     },
     {
       "id": "f_med_na_mf",
@@ -15211,11 +15248,12 @@
       "type": "folder",
       "icon": "mf",
       "name": "Svätý Martin (fr.)",
-      "desc": "",
+      "desc": "Šport na francúzskej časti Svätého Martina v denníku Le Pélican a v novinách Le 97150. Bežecké preteky a trail, rugby, futbal, basketbal, triatlon, cyklistika, plážový tenis, box, stolný tenis a šach. Reportáže a rozhovory z miestnych klubov, výsledky a mládežnícke turnaje.",
       "order": 38,
       "slug": "svaty-martin-fr",
       "name_en": "Saint Martin (Fr.)",
-      "slug_en": "saint-martin-fr"
+      "slug_en": "saint-martin-fr",
+      "desc_en": "Sport on the French side of Saint Martin in the Le Pélican daily and the Le 97150 newspaper. Running and trail races, rugby, football, basketball, triathlon, cycling, beach tennis, boxing, table tennis and chess. Reports and interviews from local clubs, results and youth tournaments."
     },
     {
       "id": "f_med_na_tt",
@@ -15223,11 +15261,12 @@
       "type": "folder",
       "icon": "tt",
       "name": "Trinidad a Tobago",
-      "desc": "",
+      "desc": "Šport z Trinidadu a Tobaga: Wired868, Trinidad Express, Trinidad Guardian, štátna TTT, TV6 a Tobago Updates. Futbalová reprezentácia T&T, kriket a West Indies, atletika a šport z ostrova Tobago.",
       "order": 39,
       "slug": "trinidad-a-tobago",
       "name_en": "Trinidad and Tobago",
-      "slug_en": "trinidad-and-tobago"
+      "slug_en": "trinidad-and-tobago",
+      "desc_en": "Trinidad and Tobago sport: Wired868, Trinidad Express, Trinidad Guardian, state broadcaster TTT, TV6 and Tobago Updates. The T&T national football team, cricket and the West Indies, athletics and sport from Tobago."
     },
     {
       "id": "f_med_na_tc",
@@ -15235,11 +15274,12 @@
       "type": "folder",
       "icon": "tc",
       "name": "Turks a Caicos",
-      "desc": "",
+      "desc": "Šport z ostrovov Turks a Caicos na portáli NewslineTCI, v týždenníku Turks and Caicos Sun a v rádiu RTC. Futbalová Provo Premier League a súťaže TCIFA, reprezentácia v Lige národov CONCACAF, basketbal a úspechy domácich športovcov na karibských podujatiach.",
       "order": 40,
       "slug": "turks-a-caicos",
       "name_en": "Turks and Caicos",
-      "slug_en": "turks-and-caicos"
+      "slug_en": "turks-and-caicos",
+      "desc_en": "Turks and Caicos sport on the NewslineTCI portal, in the Turks and Caicos Sun weekly and on RTC radio. The Provo Premier League and TCIFA competitions, the national team in the CONCACAF Nations League, basketball and local athletes at Caribbean events."
     },
     {
       "id": "f_med_ja_ar",
@@ -15247,12 +15287,12 @@
       "type": "folder",
       "icon": "ar",
       "name": "Argentína",
-      "desc": "Argentínske športové médiá — Olé, TyC Sports a veľké denníky",
+      "desc": "Argentínske športové denníky, weby a televízie: Olé, TyC Sports, ESPN, TNT Sports, DeporTV, El Gráfico a 442. Liga Profesional s Bocou a Riverom, Ascenso, Copa Argentina, Selección, motoršport TC a regionálne denníky z provincií.",
       "order": 0,
       "slug": "argentina",
       "name_en": "Argentina",
       "slug_en": "argentina",
-      "desc_en": "Argentine sports media — Olé, TyC Sports and major dailies"
+      "desc_en": "Argentine sports dailies, websites and TV: Olé, TyC Sports, ESPN, TNT Sports, DeporTV, El Gráfico and 442. The Liga Profesional with Boca and River, the Ascenso, Copa Argentina, the Selección, TC motorsport and provincial papers."
     },
     {
       "id": "f_med_ja_bo",
@@ -15260,11 +15300,12 @@
       "type": "folder",
       "icon": "bo",
       "name": "Bolívia",
-      "desc": "",
+      "desc": "Bolívijské športové weby a denníky z La Paz, Cochabamby aj Santa Cruz: Diez (El Deber), Podio, Marcas (La Razón), El Diario, Los Tiempos a Opinión. División Profesional s Bolívarom, The Strongest, Wilstermannom a Oriente Petrolero, reprezentácia a amatérsky šport.",
       "order": 8,
       "slug": "bolivia",
       "name_en": "Bolivia",
-      "slug_en": "bolivia"
+      "slug_en": "bolivia",
+      "desc_en": "Bolivian sports sites and dailies from La Paz, Cochabamba and Santa Cruz: Diez (El Deber), Podio, Marcas (La Razón), El Diario, Los Tiempos and Opinión. The División Profesional with Bolívar, The Strongest, Wilstermann and Oriente Petrolero, the national team and amateur sport."
     },
     {
       "id": "f_med_ja_br",
@@ -15272,12 +15313,12 @@
       "type": "folder",
       "icon": "br",
       "name": "Brazília",
-      "desc": "Brazílske športové médiá — Globo Esporte, Lance a UOL",
+      "desc": "Brazílske športové portály, denníky a TV: Globo Esporte, Lance, Gazeta Esportiva, Trivela, ESPN, Placar a Goal. Brasileirão Série A až D, Copa do Brasil, Libertadores, štátne súťaže ako Paulista a Carioca a regionálne denníky.",
       "order": 1,
       "slug": "brazilia",
       "name_en": "Brazil",
       "slug_en": "brazil",
-      "desc_en": "Brazilian sports media — Globo Esporte, Lance and UOL"
+      "desc_en": "Brazilian sports portals, dailies and TV: Globo Esporte, Lance, Gazeta Esportiva, Trivela, ESPN, Placar and Goal. The Brasileirão Série A to D, Copa do Brasil, Libertadores, state leagues such as the Paulista and Carioca, and regional papers."
     },
     {
       "id": "f_med_ja_cl",
@@ -15285,11 +15326,12 @@
       "type": "folder",
       "icon": "cl",
       "name": "Chile",
-      "desc": "",
+      "desc": "Chilské športové weby, televízie a rádiá: ESPN, TNT Sports, Redgol, Bolavip, En Cancha, Radio Sport a El Deportivo (La Tercera). Liga de Primera s Colo-Colo a U de Chile, La Roja, Copa Chile, olympijské športy a regionálny futbal.",
       "order": 2,
       "slug": "chile",
       "slug_en": "chile",
-      "name_en": "Chile"
+      "name_en": "Chile",
+      "desc_en": "Chilean sports websites, TV and radio: ESPN, TNT Sports, Redgol, Bolavip, En Cancha, Radio Sport and El Deportivo (La Tercera). The Liga de Primera with Colo-Colo and U de Chile, La Roja, Copa Chile, Olympic sports and regional football."
     },
     {
       "id": "f_med_ja_ec",
@@ -15297,11 +15339,12 @@
       "type": "folder",
       "icon": "ec",
       "name": "Ekvádor",
-      "desc": "",
+      "desc": "Ekvádorské futbalové weby a denníky: Futbolecuador.com, Studiofútbol, Bendito Fútbol, Afición Central, El Universo, El Comercio a Primicias. LigaPro Serie A a B s Barcelonou SC, Copa Ecuador, La Tri a Ekvádorčania v zahraničí.",
       "order": 6,
       "slug": "ekvador",
       "name_en": "Ecuador",
-      "slug_en": "ecuador"
+      "slug_en": "ecuador",
+      "desc_en": "Ecuadorian football websites and dailies: Futbolecuador.com, Studiofútbol, Bendito Fútbol, Afición Central, El Universo, El Comercio and Primicias. LigaPro Serie A and B with Barcelona SC, Copa Ecuador, La Tri and Ecuadorians abroad."
     },
     {
       "id": "f_med_ja_co",
@@ -15309,11 +15352,12 @@
       "type": "folder",
       "icon": "co",
       "name": "Kolumbia",
-      "desc": "",
+      "desc": "Kolumbijské športové weby a denníky: Futbolred, ESPN, El Deportivo, Colombia Sports, El Tiempo, El Espectador, Semana a regionálne noviny. Liga BetPlay s Millonarios a Juniorom, reprezentácia, cyklistika a tenis.",
       "order": 4,
       "slug": "kolumbia",
       "name_en": "Colombia",
-      "slug_en": "colombia"
+      "slug_en": "colombia",
+      "desc_en": "Colombian sports websites and dailies: Futbolred, ESPN, El Deportivo, Colombia Sports, El Tiempo, El Espectador, Semana and regional papers. The Liga BetPlay with Millonarios and Junior, the national team, cycling and tennis."
     },
     {
       "id": "f_med_ja_py",
@@ -15321,11 +15365,12 @@
       "type": "folder",
       "icon": "py",
       "name": "Paraguaj",
-      "desc": "",
+      "desc": "Paraguajské športové portály a denníky z Asunciónu: D10 (Última Hora), VS Sports, ABC Color, El Nacional, La Tribuna, Hoy a Popular. Primera División s Olimpiou, Cerro Porteño, Libertad a Guaraní, Copa Paraguay a Albirroja.",
       "order": 7,
       "slug": "paraguaj",
       "name_en": "Paraguay",
-      "slug_en": "paraguay"
+      "slug_en": "paraguay",
+      "desc_en": "Paraguayan sports portals and dailies from Asunción: D10 (Última Hora), VS Sports, ABC Color, El Nacional, La Tribuna, Hoy and Popular. The Primera División with Olimpia, Cerro Porteño, Libertad and Guaraní, Copa Paraguay and the Albirroja."
     },
     {
       "id": "f_med_ja_pe",
@@ -15333,11 +15378,12 @@
       "type": "folder",
       "icon": "pe",
       "name": "Peru",
-      "desc": "",
+      "desc": "Peruánske športové weby a denníky: Depor, Líbero, ESPN, Bolavip, Futbolperuano.com, De Chalaca, Deporte Total (El Comercio) a La República. Liga 1 s Alianzou Lima a Universitario, Liga 2, reprezentácia a volejbal.",
       "order": 3,
       "slug": "peru",
       "slug_en": "peru",
-      "name_en": "Peru"
+      "name_en": "Peru",
+      "desc_en": "Peruvian sports websites and dailies: Depor, Líbero, ESPN, Bolavip, Futbolperuano.com, De Chalaca, Deporte Total (El Comercio) and La República. Liga 1 with Alianza Lima and Universitario, Liga 2, the national team and volleyball."
     },
     {
       "id": "f_med_ja_uy",
@@ -15345,11 +15391,12 @@
       "type": "folder",
       "icon": "uy",
       "name": "Uruguaj",
-      "desc": "",
+      "desc": "Uruguajské športové weby, denníky a TV: Tenfield, ESPN, Ovación (El País), Referí (El Observador), Futbol.uy, la diaria, Telemundo a Telenoche. Liga AUF Uruguaya s Peñarolom a Nacionalom, Celeste, Libertadores a ženský futbal.",
       "order": 5,
       "slug": "uruguaj",
       "name_en": "Uruguay",
-      "slug_en": "uruguay"
+      "slug_en": "uruguay",
+      "desc_en": "Uruguayan sports websites, dailies and TV: Tenfield, ESPN, Ovación (El País), Referí (El Observador), Futbol.uy, la diaria, Telemundo and Telenoche. The Liga AUF Uruguaya with Peñarol and Nacional, La Celeste, Libertadores and women's football."
     },
     {
       "id": "f_med_ja_ve",
@@ -15357,11 +15404,12 @@
       "type": "folder",
       "icon": "ve",
       "name": "Venezuela",
-      "desc": "",
+      "desc": "Venezuelské športové weby a denníky: Líder en Deportes, Sports Venezuela, Balonazos, El Emergente, LaVinotinto.com, El Universal a El Nacional. Bejzbal LVBP a Venezuelčania v MLB, Liga FUTVE, Vinotinto, basketbal a dostihy.",
       "order": 9,
       "slug": "venezuela",
       "slug_en": "venezuela",
-      "name_en": "Venezuela"
+      "name_en": "Venezuela",
+      "desc_en": "Venezuelan sports websites and dailies: Líder en Deportes, Sports Venezuela, Balonazos, El Emergente, LaVinotinto.com, El Universal and El Nacional. LVBP baseball and Venezuelans in MLB, the Liga FUTVE, La Vinotinto, basketball and horse racing."
     },
     {
       "id": "f_med_af_dz",
@@ -15369,11 +15417,12 @@
       "type": "folder",
       "icon": "dz",
       "name": "Alžírsko",
-      "desc": "",
+      "desc": "Alžírske športové weby a denníky: DZfoot, Footalgerien, Compétition, La Gazette du Fennec, Infosport, El Watan, Le Soir d'Algérie a El Moudjahid. Les Verts a Alžírčania v Európe, Ligue 1 a Ligue 2, mládežnícke reprezentácie.",
       "order": 0,
       "slug": "alzirsko",
       "name_en": "Algeria",
-      "slug_en": "algeria"
+      "slug_en": "algeria",
+      "desc_en": "Algerian sports websites and dailies: DZfoot, Footalgerien, Compétition, La Gazette du Fennec, Infosport, El Watan, Le Soir d'Algérie and El Moudjahid. Les Verts and Algerians in Europe, Ligue 1 and Ligue 2, youth national teams."
     },
     {
       "id": "f_med_af_ao",
@@ -15465,11 +15514,12 @@
       "type": "folder",
       "icon": "eg",
       "name": "Egypt",
-      "desc": "",
+      "desc": "Egyptské športové weby a portály v arabčine aj angličtine: FilGoal, Yallakora, Btolat, Korabia, KingFut, Kora Plus, El Watan Sport a Youm7. Egyptská liga s Al Ahly a Zamalekom, Pohár Egypta, reprezentácia a Egypťania v zahraničí.",
       "order": 8,
       "slug": "egypt",
       "slug_en": "egypt",
-      "name_en": "Egypt"
+      "name_en": "Egypt",
+      "desc_en": "Egyptian sports websites and portals in Arabic and English: FilGoal, Yallakora, Btolat, Korabia, KingFut, Kora Plus, El Watan Sport and Youm7. The Egyptian league with Al Ahly and Zamalek, the Egypt Cup, the national team and Egyptians abroad."
     },
     {
       "id": "f_med_af_er",
@@ -15525,11 +15575,12 @@
       "type": "folder",
       "icon": "gh",
       "name": "Ghana",
-      "desc": "",
+      "desc": "Ghanské športové weby a portály: Ghanasoccernet, Citi Sports Online, Ghana Sports Online, SportsWorldGhana, FootyGHANA, MyJoyOnline a GhanaWeb. Ghana Premier League s Asante Kotoko a Hearts of Oak, Black Stars, Black Queens a mládežnícke výbery.",
       "order": 13,
       "slug": "ghana",
       "slug_en": "ghana",
-      "name_en": "Ghana"
+      "name_en": "Ghana",
+      "desc_en": "Ghanaian sports websites and portals: Ghanasoccernet, Citi Sports Online, Ghana Sports Online, SportsWorldGhana, FootyGHANA, MyJoyOnline and GhanaWeb. The Ghana Premier League with Asante Kotoko and Hearts of Oak, the Black Stars, Black Queens and youth teams."
     },
     {
       "id": "f_med_af_gn",
@@ -15561,11 +15612,12 @@
       "type": "folder",
       "icon": "za",
       "name": "JAR",
-      "desc": "",
+      "desc": "Juhoafrické športové weby a portály: Soccer Laduma, KickOff, FARPost, iDiski Times, SA Rugby Magazine, SA Cricket Mag, TimesLIVE a IOL. Betway Premiership s Kaizer Chiefs, Bafana Bafana, Springboks, kriket s Proteas a regionálne noviny.",
       "order": 16,
       "slug": "juhoafricka-rep",
       "name_en": "South Africa",
-      "slug_en": "south-africa"
+      "slug_en": "south-africa",
+      "desc_en": "South African sports websites and portals: Soccer Laduma, KickOff, FARPost, iDiski Times, SA Rugby Magazine, SA Cricket Mag, TimesLIVE and IOL. The Betway Premiership with Kaizer Chiefs, Bafana Bafana, the Springboks, cricket with the Proteas and regional papers."
     },
     {
       "id": "f_med_af_ss",
@@ -15609,11 +15661,12 @@
       "type": "folder",
       "icon": "ke",
       "name": "Keňa",
-      "desc": "",
+      "desc": "Kenské športové weby a denníky: Michezo Afrika, SportsBeat, Pulse, Daily Nation, The Standard, The Star, Taifa Leo vo svahilčine a Tuko. FKF Premier League a Harambee Stars, atletika, rugby Kenya Cup, box a basketbal.",
       "order": 20,
       "slug": "kena",
       "name_en": "Kenya",
-      "slug_en": "kenya"
+      "slug_en": "kenya",
+      "desc_en": "Kenyan sports websites and dailies: Michezo Afrika, SportsBeat, Pulse, Daily Nation, The Standard, The Star, Swahili-language Taifa Leo and Tuko. The FKF Premier League and Harambee Stars, athletics, Kenya Cup rugby, boxing and basketball."
     },
     {
       "id": "f_med_af_km",
@@ -15729,11 +15782,12 @@
       "type": "folder",
       "icon": "ma",
       "name": "Maroko",
-      "desc": "",
+      "desc": "Marocké športové weby vo francúzštine, arabčine aj angličtine: Le360 Sport, Hesport, Al Mountakhab, Elbotola, Hiba Sport, Sport7 a InfoSports. Botola Pro s Rajou a Wydadom, Pohár tróna, Levy Atlasu a Maročania v Európe.",
       "order": 30,
       "slug": "maroko",
       "name_en": "Morocco",
-      "slug_en": "morocco"
+      "slug_en": "morocco",
+      "desc_en": "Moroccan sports websites in French, Arabic and English: Le360 Sport, Hesport, Al Mountakhab, Elbotola, Hiba Sport, Sport7 and InfoSports. The Botola Pro with Raja and Wydad, the Throne Cup, the Atlas Lions and Moroccans in Europe."
     },
     {
       "id": "f_med_af_mu",
@@ -15801,11 +15855,12 @@
       "type": "folder",
       "icon": "ng",
       "name": "Nigéria",
-      "desc": "",
+      "desc": "Nigérijské športové weby, rádiá a denníky: Complete Sports, Soccernet.ng, OwnGoal, Score Nigeria, Brila FM, Sports247, SportsRation a Sporting Life. Super Eagles a Super Falcons, liga NPFL, Nigérijčania v zahraničí a basketbal.",
       "order": 36,
       "slug": "nigeria",
       "name_en": "Nigeria",
-      "slug_en": "nigeria"
+      "slug_en": "nigeria",
+      "desc_en": "Nigerian sports websites, radio and dailies: Complete Sports, Soccernet.ng, OwnGoal, Score Nigeria, Brila FM, Sports247, SportsRation and Sporting Life. The Super Eagles and Super Falcons, the NPFL, Nigerians abroad and basketball."
     },
     {
       "id": "f_med_af_ci",
@@ -15849,11 +15904,12 @@
       "type": "folder",
       "icon": "sn",
       "name": "Senegal",
-      "desc": "",
+      "desc": "Senegalské športové weby, denníky a televízie: Wiwsport, Galsenfoot, DSPORTS, Le Soleil, Le Quotidien, Walf, Seneweb, APS a Sen TV. Levy Terangy a Ligue 1, lamb (tradičné zápasenie), basketbal a JOJ Dakar 2026.",
       "order": 40,
       "slug": "senegal",
       "slug_en": "senegal",
-      "name_en": "Senegal"
+      "name_en": "Senegal",
+      "desc_en": "Senegalese sports websites, dailies and TV: Wiwsport, Galsenfoot, DSPORTS, Le Soleil, Le Quotidien, Walf, Seneweb, APS and Sen TV. The Lions of Teranga and Ligue 1, laamb (traditional wrestling), basketball and the Dakar 2026 YOG."
     },
     {
       "id": "f_med_af_sc",
@@ -15969,11 +16025,12 @@
       "type": "folder",
       "icon": "tn",
       "name": "Tunisko",
-      "desc": "",
+      "desc": "Tuniské športové weby a denníky: Kawarji, Infosfoot, La Presse, Tunisie Numérique, Tuniscope, Webdo, Gnet a Le Temps. Ligue 1 a Ligue 2, derby Club Africain – Espérance, reprezentácia Orly z Kartága a tuniskí hráči v Európe.",
       "order": 50,
       "slug": "tunisko",
       "name_en": "Tunisia",
-      "slug_en": "tunisia"
+      "slug_en": "tunisia",
+      "desc_en": "Tunisian sports websites and dailies: Kawarji, Infosfoot, La Presse, Tunisie Numérique, Tuniscope, Webdo, Gnet and Le Temps. Ligue 1 and Ligue 2, the Club Africain – Espérance derby, the Eagles of Carthage and Tunisians in Europe."
     },
     {
       "id": "f_med_af_ug",
@@ -16017,11 +16074,11 @@
       "type": "folder",
       "icon": "af",
       "name": "Afganistan",
-      "desc": "Afganské športové médiá — televízie a tlačové agentúry",
+      "desc": "Afganský šport v spravodajských médiách: TOLOnews, Ariana News, Afghanistan International, Pajhwok, Khaama Press, Shamshad TV a Kabul Times. Kriket s reprezentáciou a ligou APL, futbal, futsal, volejbal a kulturistika.",
       "order": 0,
       "slug": "afganistan",
       "name_en": "Afghanistan",
-      "desc_en": "Afghan sports media — TV channels and news agencies",
+      "desc_en": "Afghan sport in the news media: TOLOnews, Ariana News, Afghanistan International, Pajhwok, Khaama Press, Shamshad TV and Kabul Times. Cricket with the national team and the APL, football, futsal, volleyball and bodybuilding.",
       "slug_en": "afghanistan"
     },
     {
@@ -16030,11 +16087,11 @@
       "type": "folder",
       "icon": "bh",
       "name": "Bahrajn",
-      "desc": "Bahrajnské športové médiá a denníky",
+      "desc": "Bahrajnský šport v miestnych denníkoch a agentúre: Al Ayam, Al Bilad, News of Bahrain, agentúra BNA, olympijský výbor a Kooora. Domáca liga s Muharraqom a Riffou, reprezentácia, hádzaná, atletika a motoršport.",
       "order": 1,
       "slug": "bahrajn",
       "name_en": "Bahrain",
-      "desc_en": "Bahraini sports media and dailies",
+      "desc_en": "Bahraini sport in local dailies and the news agency: Al Ayam, Al Bilad, News of Bahrain, the BNA agency, the Olympic committee and Kooora. The domestic league with Muharraq and Riffa, the national team, handball, athletics and motorsport.",
       "slug_en": "bahrain"
     },
     {
@@ -16043,11 +16100,11 @@
       "type": "folder",
       "icon": "bd",
       "name": "Bangladéš",
-      "desc": "Bangladéšske športové médiá — kriket, denníky a televízie",
+      "desc": "Bangladéšske športové médiá: T Sports, BDCricTime, kriketová federácia BCB, Prothom Alo, The Daily Star, Dhaka Tribune a Kaler Kantho. Kriket s Tigers a testami v Mirpure, ženská T20, futbal a tenis.",
       "order": 2,
       "slug": "banglades",
       "name_en": "Bangladesh",
-      "desc_en": "Bangladeshi sports media — cricket, dailies and TV channels",
+      "desc_en": "Bangladeshi sports media: T Sports, BDCricTime, the BCB cricket board, Prothom Alo, The Daily Star, Dhaka Tribune and Kaler Kantho. Cricket with the Tigers and Tests in Mirpur, women's T20, football and tennis.",
       "slug_en": "bangladesh"
     },
     {
@@ -16056,11 +16113,11 @@
       "type": "folder",
       "icon": "bt",
       "name": "Bhután",
-      "desc": "Bhutánske športové médiá a národné federácie.",
+      "desc": "Bhutánsky šport v médiách: verejnoprávna BBS, denník Kuensel, Daily Bhutan a kriketová rada BCCB. Paro FC v ázijských pohároch, futbalové reprezentácie, kriket mužov aj žien a bhutánski športovci na Ázijských hrách.",
       "order": 3,
       "slug": "bhutan",
       "name_en": "Bhutan",
-      "desc_en": "Bhutanese sports media and national federations.",
+      "desc_en": "Bhutanese sport in the media: public broadcaster BBS, the Kuensel daily, Daily Bhutan and the BCCB cricket board. Paro FC in Asian club competitions, national football teams, men's and women's cricket and Bhutan at the Asian Games.",
       "slug_en": "bhutan"
     },
     {
@@ -16069,11 +16126,11 @@
       "type": "folder",
       "icon": "bn",
       "name": "Brunej",
-      "desc": "Brunejské športové médiá a spravodajské rubriky.",
+      "desc": "Brunejský šport v miestnych médiách: Borneo Bulletin, Media Permata, Pelita Brunei, BruSports News a Borneo Post. DPMM FC, futsal, basketbal, plážové športy, pickleball a šport susedných Sarawaku a Sabahu.",
       "order": 4,
       "slug": "brunej",
       "name_en": "Brunei",
-      "desc_en": "Bruneian sports media and news sections.",
+      "desc_en": "Bruneian sport in local media: Borneo Bulletin, Media Permata, Pelita Brunei, BruSports News and Borneo Post. DPMM FC, futsal, basketball, beach sports, pickleball and sport from neighbouring Sarawak and Sabah.",
       "slug_en": "brunei"
     },
     {
@@ -16082,11 +16139,11 @@
       "type": "folder",
       "icon": "cn",
       "name": "Čína",
-      "desc": "Čínske športové portály, médiá a streamovacie platformy.",
+      "desc": "Čínske športové portály a médiá: Sina Sports, Tencent Sports, CCTV Sports, Zhibo8, Xinhua, China Daily, Titan Sports a NetEase. Čínska Super League, basketbalová CBA, NBA, stolný tenis a olympijské športy.",
       "order": 5,
       "slug": "cina",
       "name_en": "China",
-      "desc_en": "Chinese sports portals, media and streaming platforms.",
+      "desc_en": "Chinese sports portals and media: Sina Sports, Tencent Sports, CCTV Sports, Zhibo8, Xinhua, China Daily, Titan Sports and NetEase. The Chinese Super League, CBA basketball, the NBA, table tennis and Olympic sports.",
       "slug_en": "china"
     },
     {
@@ -16095,11 +16152,11 @@
       "type": "folder",
       "icon": "ph",
       "name": "Filipíny",
-      "desc": "Filipínske športové médiá, portály a ligové weby.",
+      "desc": "Filipínske športové weby a TV: SPIN.ph, Tiebreaker Times, Rappler, One Sports, ABS-CBN, GMA, Inquirer a Philstar. Basketbalová PBA a Gilas Pilipinas, univerzitné UAAP a NCAA, volejbalová PVL, box a tenis.",
       "order": 6,
       "slug": "filipiny",
       "name_en": "Philippines",
-      "desc_en": "Filipino sports media, portals and league websites.",
+      "desc_en": "Philippine sports websites and TV: SPIN.ph, Tiebreaker Times, Rappler, One Sports, ABS-CBN, GMA, Inquirer and Philstar. The PBA and Gilas Pilipinas, the UAAP and NCAA, the PVL in volleyball, boxing and tennis.",
       "slug_en": "philippines"
     },
     {
@@ -16108,10 +16165,10 @@
       "type": "folder",
       "icon": "in",
       "name": "India",
-      "desc": "Indické športové médiá, portály a zväzové weby.",
+      "desc": "Indické športové weby a oficiálne stránky líg: Cricinfo, Cricbuzz, Sportskeeda, Khel Now, The Bridge, IPL, Pro Kabaddi League a ISL. Kriket s Team India a IPL, futbalová ISL, kabaddi, olympijské športy a wrestling.",
       "order": 7,
       "slug": "india",
-      "desc_en": "Indian sports media, portals and federation websites.",
+      "desc_en": "Indian sports websites and official league sites: Cricinfo, Cricbuzz, Sportskeeda, Khel Now, The Bridge, the IPL, Pro Kabaddi League and the ISL. Cricket with Team India and the IPL, ISL football, kabaddi, Olympic sports and wrestling.",
       "slug_en": "india",
       "name_en": "India"
     },
@@ -16121,11 +16178,11 @@
       "type": "folder",
       "icon": "id",
       "name": "Indonézia",
-      "desc": "Indonézske športové médiá — futbal, basketbal, motoršport a denníky",
+      "desc": "Indonézske športové weby a médiá: BolaSport, Juara, Bola.net, Indosport, Kompas, DetikSport, Tempo a rozhlas RRI. Super League a reprezentácia Garuda, bedminton, MotoGP na Mandalike, pencak silat a box.",
       "order": 8,
       "slug": "indonezia",
       "name_en": "Indonesia",
-      "desc_en": "Indonesian sports media — football, basketball, motorsport and dailies",
+      "desc_en": "Indonesian sports websites and media: BolaSport, Juara, Bola.net, Indosport, Kompas, DetikSport, Tempo and RRI radio. The Super League and the Garuda national team, badminton, MotoGP at Mandalika, pencak silat and boxing.",
       "slug_en": "indonesia"
     },
     {
@@ -16134,11 +16191,11 @@
       "type": "folder",
       "icon": "iq",
       "name": "Irak",
-      "desc": "Iracké športové médiá — futbal, televízie a tlačové agentúry",
+      "desc": "Iracký šport v médiách: Kooora, Al Sharqiya, Shafaq News, agentúra INA, Al-Sabah, Kurdistan24, Alsumaria a Baghdad Today. Iracká liga s Al-Zawraou, Al-Shortou a Al-Quwa Al-Jawiya, ázijské poháre a kurdské kluby.",
       "order": 9,
       "slug": "irak",
       "name_en": "Iraq",
-      "desc_en": "Iraqi sports media — football, TV channels and news agencies",
+      "desc_en": "Iraqi sport in the media: Kooora, Al Sharqiya, Shafaq News, the INA agency, Al-Sabah, Kurdistan24, Alsumaria and Baghdad Today. The Iraqi league with Al-Zawraa, Al-Shorta and Al-Quwa Al-Jawiya, Asian cups and Kurdish clubs.",
       "slug_en": "iraq"
     },
     {
@@ -16147,11 +16204,11 @@
       "type": "folder",
       "icon": "ir",
       "name": "Irán",
-      "desc": "Iránske športové médiá — futbal, tlačové agentúry a denníky",
+      "desc": "Iránske športové weby a agentúry: Varzesh3, Tarafdari, Khabar Varzeshi, Footballi, ISNA, IRNA, Mehr a anglický Tehran Times. Persian Gulf Pro League s Persepolisom a Esteghlalom, zápasenie a vzpieranie.",
       "order": 10,
       "slug": "iran",
       "name_en": "Iran",
-      "desc_en": "Iranian sports media — football, news agencies and dailies",
+      "desc_en": "Iranian sports websites and news agencies: Varzesh3, Tarafdari, Khabar Varzeshi, Footballi, ISNA, IRNA, Mehr and the English-language Tehran Times. The Persian Gulf Pro League with Persepolis and Esteghlal, wrestling and weightlifting.",
       "slug_en": "iran"
     },
     {
@@ -16160,11 +16217,11 @@
       "type": "folder",
       "icon": "jp",
       "name": "Japonsko",
-      "desc": "Japonské športové médiá — denníky, portály a ligové weby.",
+      "desc": "Japonské športové denníky a portály: Sports Navi od Yahoo Japan, Nikkan Sports, Sponichi, Hochi, Sanspo, Tokyo Sports a Number. Bejzbal NPB a Japonci v MLB, J.League, sumo, golf a pro wrestling.",
       "order": 11,
       "slug": "japonsko",
       "name_en": "Japan",
-      "desc_en": "Japanese sports media — dailies, portals and league websites.",
+      "desc_en": "Japanese sports dailies and portals: Sports Navi od Yahoo Japan, Nikkan Sports, Sponichi, Hochi, Sanspo, Tokyo Sports and Number. NPB baseball and Japanese players in MLB, the J.League, sumo, golf and pro wrestling.",
       "slug_en": "japan"
     },
     {
@@ -16173,11 +16230,11 @@
       "type": "folder",
       "icon": "jo",
       "name": "Jordánsko",
-      "desc": "Jordánske športové médiá a denníky.",
+      "desc": "Jordánske športové rubriky denníkov a portálov: Al Ghad, Al Rai, Ad-Dustour, Jordan Times, Jordan News, Khaberni a Jfra News. Jordánska liga s Al-Faisaly a Al-Hussein Irbid, ázijské poháre a reprezentácia.",
       "order": 12,
       "slug": "jordansko",
       "name_en": "Jordan",
-      "desc_en": "Jordanian sports media and dailies.",
+      "desc_en": "Jordanian sports sections of dailies and portals: Al Ghad, Al Rai, Ad-Dustour, Jordan Times, Jordan News, Khaberni and Jfra News. The Jordanian league with Al-Faisaly and Al-Hussein Irbid, Asian cups and the national team.",
       "slug_en": "jordan"
     },
     {
@@ -16186,11 +16243,11 @@
       "type": "folder",
       "icon": "kh",
       "name": "Kambodža",
-      "desc": "Kambodžské športové médiá a spravodajské rubriky.",
+      "desc": "Kambodžský šport v miestnych médiách: Sabay, ThmeyThmey, Khmer Times, Phnom Penh Post, Koh Santepheap a Kampuchea Thmey. Kun khmer, volejbal, domáci futbal s Phnom Penh Crown a Preah Khan Reach a hry ASEAN.",
       "order": 13,
       "slug": "kambodza",
       "name_en": "Cambodia",
-      "desc_en": "Cambodian sports media and news sections.",
+      "desc_en": "Cambodian sport in local media: Sabay, ThmeyThmey, Khmer Times, Phnom Penh Post, Koh Santepheap and Kampuchea Thmey. Kun Khmer, volleyball, domestic football with Phnom Penh Crown and Preah Khan Reach, and the ASEAN games.",
       "slug_en": "cambodia"
     },
     {
@@ -16199,11 +16256,11 @@
       "type": "folder",
       "icon": "qa",
       "name": "Katar",
-      "desc": "Katarské športové médiá a denníky.",
+      "desc": "Katarské športové médiá z Dohy: Al Jazeera, Stad Doha, Doha Stadium Plus, Gulf Times, The Peninsula, Qatar Tribune a Al Sharq. Qatar Stars League, katarské kluby v ázijských pohároch, basketbal a svetový šport.",
       "order": 14,
       "slug": "katar",
       "name_en": "Qatar",
-      "desc_en": "Qatari sports media and dailies.",
+      "desc_en": "Qatari sports media from Doha: Al Jazeera, Stad Doha, Doha Stadium Plus, Gulf Times, The Peninsula, Qatar Tribune and Al Sharq. The Qatar Stars League, Qatari clubs in Asian competitions, basketball and world sport.",
       "slug_en": "qatar"
     },
     {
@@ -16212,11 +16269,11 @@
       "type": "folder",
       "icon": "kg",
       "name": "Kirgizsko",
-      "desc": "Kirgizské športové médiá a portály.",
+      "desc": "Kirgizský šport v agentúrach a na portáloch: AKIpress, Sport.kg, Super.kg, 24.kg, Kabar, Mir24 a Reporter. Futbalová Vyššia liga, reprezentanti na majstrovstvách sveta a Ázijských hrách, správy v kirgizštine aj ruštine.",
       "order": 15,
       "slug": "kirgizsko",
       "name_en": "Kyrgyzstan",
-      "desc_en": "Kyrgyz sports media and portals.",
+      "desc_en": "Kyrgyz sport in news agencies and portals: AKIpress, Sport.kg, Super.kg, 24.kg, Kabar, Mir24 and Reporter. The Higher League in football, national athletes at world championships and the Asian Games, in Kyrgyz and Russian.",
       "slug_en": "kyrgyzstan"
     },
     {
@@ -16225,11 +16282,11 @@
       "type": "folder",
       "icon": "kp",
       "name": "Severná Kórea",
-      "desc": "Severokórejské štátne médiá a weby o KĽDR.",
+      "desc": "Šport v Severnej Kórei z oficiálnych zdrojov KĽDR – štátny web o športe, agentúra KCNA a portál Naenara – a zo soulského NK News. Severokórejské reprezentácie, domáce súťaže a vystúpenia športovcov v zahraničí.",
       "order": 16,
       "slug": "severna-korea",
       "name_en": "North Korea",
-      "desc_en": "North Korean state media and websites about the DPRK.",
+      "desc_en": "Sport in North Korea from official DPRK sources – the state sports website, the KCNA agency and the Naenara portal – and from Seoul-based NK News. North Korean national teams, domestic competitions and athletes abroad.",
       "slug_en": "north-korea"
     },
     {
@@ -16238,11 +16295,11 @@
       "type": "folder",
       "icon": "kr",
       "name": "Južná Kórea",
-      "desc": "Juhokórejské športové médiá, portály a denníky.",
+      "desc": "Juhokórejské športové portály, denníky a TV: Naver Sports, Daum, Sports Seoul, Spotvnews, KBS, SBS Sports, Interfootball a Chosun. Domáci bejzbal, futbalová K League a Kórejci v zahraničí.",
       "order": 17,
       "slug": "juzna-korea",
       "name_en": "South Korea",
-      "desc_en": "South Korean sports media, portals and dailies.",
+      "desc_en": "South Korean sports portals, dailies and TV: Naver Sports, Daum, Sports Seoul, Spotvnews, KBS, SBS Sports, Interfootball and Chosun. Domestic baseball, the K League and Koreans playing abroad.",
       "slug_en": "south-korea"
     },
     {
@@ -16251,11 +16308,11 @@
       "type": "folder",
       "icon": "kw",
       "name": "Kuvajt",
-      "desc": "Kuvajtské športové médiá a denníky.",
+      "desc": "Kuvajtské športové rubriky denníkov: Kuwait Times, Arab Times, Al Qabas, Al Anba, Al Watan, Al Aan, Al Jarida a The Times Kuwait. Zain Premier League, Pohár korunného princa, Kuwait SC, Qadsia a hádzaná.",
       "order": 18,
       "slug": "kuvajt",
       "name_en": "Kuwait",
-      "desc_en": "Kuwaiti sports media and dailies.",
+      "desc_en": "Kuwaiti sports sections of daily papers: Kuwait Times, Arab Times, Al Qabas, Al Anba, Al Watan, Al Aan, Al Jarida and The Times Kuwait. The Zain Premier League, the Crown Prince Cup, Kuwait SC, Qadsia and handball.",
       "slug_en": "kuwait"
     },
     {
@@ -16264,10 +16321,10 @@
       "type": "folder",
       "icon": "la",
       "name": "Laos",
-      "desc": "Laoské štátne médiá a športové rubriky.",
+      "desc": "Laoský šport v štátnych médiách: agentúra KPL so správami po anglicky, národná televízia LNTV a Lao Phattana News. Laoská reprezentácia a domáce podujatia, tradičné preteky lodí vo Vientiane a mladí laoskí tenisti.",
       "order": 19,
       "slug": "laos",
-      "desc_en": "Lao state media and sports sections.",
+      "desc_en": "Lao sport in state media: the KPL news agency with English news, national broadcaster LNTV and Lao Phattana News. Lao national teams and domestic events, the traditional boat races in Vientiane and young Lao tennis players.",
       "slug_en": "laos",
       "name_en": "Laos"
     },
@@ -16277,12 +16334,12 @@
       "type": "folder",
       "icon": "lb",
       "name": "Libanon",
-      "desc": "Libanonské športové médiá — televízie, denníky a portály",
+      "desc": "Libanonské športové weby a televízie: Elsport, LBCI, MTV Lebanon, Al Jadeed, An-Nahar, L'Orient-Le Jour a Malaeeb. Libanonská futbalová liga s Al Ahed a Nejmeh, basketbal so Sagesse, futsal a ženský šport.",
       "order": 20,
       "slug": "libanon",
       "name_en": "Lebanon",
       "slug_en": "lebanon",
-      "desc_en": "Lebanese sports media — TV channels, dailies and portals"
+      "desc_en": "Lebanese sports websites and TV: Elsport, LBCI, MTV Lebanon, Al Jadeed, An-Nahar, L'Orient-Le Jour and Malaeeb. The Lebanese football league with Al Ahed and Nejmeh, basketball with Sagesse, futsal and women's sport."
     },
     {
       "id": "f_med_as_my",
@@ -16290,12 +16347,12 @@
       "type": "folder",
       "icon": "my",
       "name": "Malajzia",
-      "desc": "Malajzijské športové médiá — futbal, Astro a národné denníky",
+      "desc": "Malajzijské športové weby a médiá: Makanbola, Semuanya Bola, Stadium Astro, Astro Awani, Vocket FC, Sukanz a Cakap Sukan. Super League s JDT, Harimau Malaya, bedminton, sepak takraw a pozemný hokej.",
       "order": 21,
       "slug": "malajzia",
       "name_en": "Malaysia",
       "slug_en": "malaysia",
-      "desc_en": "Malaysian sports media — football, Astro and national dailies"
+      "desc_en": "Malaysian sports websites and media: Makanbola, Semuanya Bola, Stadium Astro, Astro Awani, Vocket FC, Sukanz and Cakap Sukan. The Super League with JDT, Harimau Malaya, badminton, sepak takraw and field hockey."
     },
     {
       "id": "f_med_as_mv",
@@ -16303,12 +16360,12 @@
       "type": "folder",
       "icon": "mv",
       "name": "Maldivy",
-      "desc": "Maldivské športové médiá a spravodajské portály",
+      "desc": "Maldivský šport v miestnych médiách v jazyku divehi aj po anglicky: Mihaaru, The Edition, Sun Online, PSM News, Raajje TV a Avas. Dhivehi Premier League s Maziya, volejbal, futsal a Juhoázijské hry.",
       "order": 22,
       "slug": "maldivy",
       "name_en": "Maldives",
       "slug_en": "maldives",
-      "desc_en": "Maldivian sports media and news portals"
+      "desc_en": "Maldivian sport in local media in Dhivehi and English: Mihaaru, The Edition, Sun Online, PSM News, Raajje TV and Avas. The Dhivehi Premier League with Maziya, volleyball, futsal and the South Asian Games."
     },
     {
       "id": "f_med_as_mm",
@@ -16316,12 +16373,12 @@
       "type": "folder",
       "icon": "mm",
       "name": "Mjanmarsko",
-      "desc": "Mjanmarské športové médiá — futbalová liga a denníky",
+      "desc": "Mjanmarský šport v médiách: Duwun, oficiálny web Národnej ligy MNL, Eleven Sports, Global New Light of Myanmar a Myawady Daily. Futbalová MNL, liga do 20 rokov a ženská liga, reprezentácia a bedminton.",
       "order": 23,
       "slug": "mjanmarsko",
       "name_en": "Myanmar",
       "slug_en": "myanmar",
-      "desc_en": "Myanmar sports media — the football league and dailies"
+      "desc_en": "Myanmar sport in the media: Duwun, the official Myanmar National League site, Eleven Sports, Global New Light of Myanmar and Myawady Daily. The MNL, the U20 and women's leagues, the national team and badminton."
     },
     {
       "id": "f_med_as_mn",
@@ -16329,12 +16386,12 @@
       "type": "folder",
       "icon": "mn",
       "name": "Mongolsko",
-      "desc": "Mongolské športové portály, televízie a denníky",
+      "desc": "Mongolský šport v miestnych médiách: Msports, verejnoprávna MNB, Unuudur, Eguur, DNN, Zindaa a anglický Mongolian Football Central. Mongolský zápas bökh, voľný štýl, džudo, lukostreľba, basketbal a futbal.",
       "order": 24,
       "slug": "mongolsko",
       "name_en": "Mongolia",
       "slug_en": "mongolia",
-      "desc_en": "Mongolian sports portals, TV channels and dailies"
+      "desc_en": "Mongolian sport in local media: Msports, public broadcaster MNB, Unuudur, Eguur, DNN, Zindaa and the English-language Mongolian Football Central. Bökh wrestling, freestyle wrestling, judo, archery, basketball and football."
     },
     {
       "id": "f_med_as_np",
@@ -16342,12 +16399,12 @@
       "type": "folder",
       "icon": "np",
       "name": "Nepál",
-      "desc": "Nepálske športové médiá — futbal, kriket a denníky",
+      "desc": "Nepálske športové weby a médiá: HamroKhelkud, Khelpati, CricNepal, Goal Nepal, Nepal Sportz, MeroKhel, Kantipur a Nepal TV. Kriketová NPL a reprezentácia, futbalová A divízia a Nepal Super League.",
       "order": 25,
       "slug": "nepal",
       "name_en": "Nepal",
       "slug_en": "nepal",
-      "desc_en": "Nepali sports media — football, cricket and dailies"
+      "desc_en": "Nepali sports websites and media: HamroKhelkud, Khelpati, CricNepal, Goal Nepal, Nepal Sportz, MeroKhel, Kantipur and Nepal TV. The NPL in cricket and the national team, the A Division and Nepal Super League in football."
     },
     {
       "id": "f_med_as_om",
@@ -16355,12 +16412,12 @@
       "type": "folder",
       "icon": "om",
       "name": "Omán",
-      "desc": "Ománske športové médiá — futbal, kriket a denníky",
+      "desc": "Ománsky šport na weboch a v denníkoch: Tooofa, LO3btna, Kooora, kriketový zväz, Oman Observer, Times of Oman, Muscat Daily a Oman Daily. Liga Jindal a ománske kluby, reprezentácia, kriket a pozemný hokej.",
       "order": 26,
       "slug": "oman",
       "name_en": "Oman",
       "slug_en": "oman",
-      "desc_en": "Omani sports media — football, cricket and dailies"
+      "desc_en": "Omani sport on websites and in dailies: Tooofa, LO3btna, Kooora, the cricket board, Oman Observer, Times of Oman, Muscat Daily and Oman Daily. The Jindal league and Omani clubs, the national team, cricket and field hockey."
     },
     {
       "id": "f_med_as_pk",
@@ -16368,11 +16425,11 @@
       "type": "folder",
       "icon": "pk",
       "name": "Pakistan",
-      "desc": "Pakistanské športové médiá — kriket, Geo Super a denníky",
+      "desc": "Pakistanské športové médiá: Geo Super, kriketová rada PCB, Cricket Pakistan, A Sports, Dawn, The Express Tribune, The News a The Nation. Kriket s reprezentáciou, PSL a domácimi turnajmi, k tomu ďalšie športy ako pólo.",
       "order": 27,
       "slug": "pakistan",
       "slug_en": "pakistan",
-      "desc_en": "Pakistani sports media — cricket, Geo Super and dailies",
+      "desc_en": "Pakistani sports media: Geo Super, the PCB cricket board, Cricket Pakistan, A Sports, Dawn, The Express Tribune, The News and The Nation. Cricket with the national team, the PSL and domestic events, plus other sports such as polo.",
       "name_en": "Pakistan"
     },
     {
@@ -16381,12 +16438,12 @@
       "type": "folder",
       "icon": "ps",
       "name": "Palestína",
-      "desc": "Palestínske športové portály a denníky",
+      "desc": "Palestínsky šport v médiách: Palsport, Al-Ayyam, Al-Quds, Al-Hayat al-Jadida, Wattan a Felesteen. Reprezentácia, futbal zo Západného brehu a z Gazy, karate, džiu-džitsu a mládežnícke súťaže.",
       "order": 28,
       "slug": "palestina",
       "name_en": "Palestine",
       "slug_en": "palestine",
-      "desc_en": "Palestinian sports portals and dailies"
+      "desc_en": "Palestinian sport in the media: Palsport, Al-Ayyam, Al-Quds, Al-Hayat al-Jadida, Wattan and Felesteen. The national team, football from the West Bank and Gaza, karate, jiu-jitsu and youth competitions."
     },
     {
       "id": "f_med_as_sa",
@@ -16394,12 +16451,12 @@
       "type": "folder",
       "icon": "sa",
       "name": "Saudská Arábia",
-      "desc": "Saudské športové médiá — Saudi Pro League, Arriyadiyah a denníky",
+      "desc": "Saudské športové weby a médiá: Arriyadiyah, oficiálna Saudi Pro League, Kooora, Al Arabiya, Sport KSA, Arab News a Saudi Gazette. Roshn liga s Al Hilal, Al Nassr a Al Ittihad, Ronaldo, nižšie ligy a esport.",
       "order": 29,
       "slug": "saudska-arabia",
       "name_en": "Saudi Arabia",
       "slug_en": "saudi-arabia",
-      "desc_en": "Saudi sports media — the Saudi Pro League, Arriyadiyah and dailies"
+      "desc_en": "Saudi sports websites and media: Arriyadiyah, the official Saudi Pro League site, Kooora, Al Arabiya, Sport KSA, Arab News and Saudi Gazette. The Roshn League with Al Hilal, Al Nassr and Al Ittihad, Ronaldo, lower leagues and esports."
     },
     {
       "id": "f_med_as_sg",
@@ -16407,12 +16464,12 @@
       "type": "folder",
       "icon": "sg",
       "name": "Singapur",
-      "desc": "Singapurské športové médiá — Straits Times, SPL a viacjazyčné denníky",
+      "desc": "Singapurský šport v médiách: Singapore Premier League, olympijský výbor SNOC, atletický zväz, The Straits Times, Zaobao, Berita Harian a Tamil Murasu. Premier League s Geylang a Tampines, bedminton a Team Singapore.",
       "order": 30,
       "slug": "singapur",
       "name_en": "Singapore",
       "slug_en": "singapore",
-      "desc_en": "Singaporean sports media — The Straits Times, the SPL and multilingual dailies"
+      "desc_en": "Singapore sport in the media: the Singapore Premier League, the SNOC, Singapore Athletics, The Straits Times, Zaobao, Berita Harian and Tamil Murasu. The Premier League with Geylang and Tampines, badminton and Team Singapore."
     },
     {
       "id": "f_med_as_lk",
@@ -16420,12 +16477,12 @@
       "type": "folder",
       "icon": "lk",
       "name": "Srí Lanka",
-      "desc": "Srílanské športové médiá — kriket, ThePapare a denníky",
+      "desc": "Srílanské športové weby a médiá: The Papare, Sri Lanka Cricket, Hiru News, Daily Mirror, The Island, Daily FT, Dinamina a Daily News. Kriket od reprezentácie po školské zápasy, rugby, futbal, volejbal a netbal.",
       "order": 31,
       "slug": "sri-lanka",
       "name_en": "Sri Lanka",
       "slug_en": "sri-lanka",
-      "desc_en": "Sri Lankan sports media — cricket, ThePapare and dailies"
+      "desc_en": "Sri Lankan sports websites and media: The Papare, Sri Lanka Cricket, Hiru News, Daily Mirror, The Island, Daily FT, Dinamina and Daily News. Cricket from the national team to school matches, rugby, football, volleyball and netball."
     },
     {
       "id": "f_med_as_sy",
@@ -16433,12 +16490,12 @@
       "type": "folder",
       "icon": "sy",
       "name": "Sýria",
-      "desc": "Sýrske športové médiá — tlačové agentúry a denníky",
+      "desc": "Sýrsky šport v médiách: agentúra SANA, denník Al Thawra, Enab Baladi a Syria News. Sýrska futbalová Premier League s Al-Wahdou a Al-Karamah, basketbalový zväz a kluby, kickbox a zápasenie.",
       "order": 32,
       "slug": "syria",
       "name_en": "Syria",
       "slug_en": "syria",
-      "desc_en": "Syrian sports media — news agencies and dailies"
+      "desc_en": "Syrian sport in the media: the SANA agency, the Al Thawra daily, Enab Baladi and Syria News. The Syrian Premier League with Al-Wahda and Al-Karamah, the basketball federation and clubs, kickboxing and wrestling."
     },
     {
       "id": "f_med_as_tj",
@@ -16446,12 +16503,12 @@
       "type": "folder",
       "icon": "tj",
       "name": "Tadžikistan",
-      "desc": "Tadžické športové médiá — Varzish TV a spravodajské portály",
+      "desc": "Tadžický šport v médiách: SPORTS.tj, Asia-Plus, Jumhuriyat, Javonon, Avesta, štátna televízia Varzish a TV Futbol. Vysšaja liga s Istiklolom, reprezentácie, džudo, box, MMA a taekwondo.",
       "order": 33,
       "slug": "tadzikistan",
       "name_en": "Tajikistan",
       "slug_en": "tajikistan",
-      "desc_en": "Tajik sports media — Varzish TV and news portals"
+      "desc_en": "Tajik sport in the media: SPORTS.tj, Asia-Plus, Jumhuriyat, Javonon, Avesta, state broadcaster Varzish TV and TV Futbol. The Higher League with Istiklol, national teams, judo, boxing, MMA and taekwondo."
     },
     {
       "id": "f_med_as_tw",
@@ -16459,11 +16516,11 @@
       "type": "folder",
       "icon": "tw",
       "name": "Taiwan",
-      "desc": "Taiwanské športové médiá — bejzbal CPBL, basketbal a portály",
+      "desc": "Taiwanské športové weby a denníky: TSNA, Yahoo Sports Taiwan, oficiálne CPBL a P League, Liberty Times, ETtoday, UDN a China Times. Bejzbal CPBL a Taiwančania v NPB a MLB, basketbal a bedminton.",
       "order": 34,
       "slug": "taiwan",
       "slug_en": "taiwan",
-      "desc_en": "Taiwanese sports media — CPBL baseball, basketball and portals",
+      "desc_en": "Taiwanese sports websites and dailies: TSNA, Yahoo Sports Taiwan, the official CPBL and P League sites, Liberty Times, ETtoday, UDN and China Times. CPBL baseball and Taiwanese players in NPB and MLB, basketball and badminton.",
       "name_en": "Taiwan"
     },
     {
@@ -16472,12 +16529,12 @@
       "type": "folder",
       "icon": "th",
       "name": "Thajsko",
-      "desc": "Thajské športové médiá — Siam Sport, Thai League a denníky",
+      "desc": "Thajské športové weby a denníky: Siam Sport, Ballthai, Main Stand, oficiálna Thai League, Sanook, Kapook, Thairath a Bangkok Post. Thai League s Buriram United a BG Pathum, muay thai, box a európsky futbal.",
       "order": 35,
       "slug": "thajsko",
       "name_en": "Thailand",
       "slug_en": "thailand",
-      "desc_en": "Thai sports media — Siam Sport, the Thai League and dailies"
+      "desc_en": "Thai sports websites and dailies: Siam Sport, Ballthai, Main Stand, the official Thai League, Sanook, Kapook, Thairath and Bangkok Post. The Thai League with Buriram United and BG Pathum, Muay Thai, boxing and European football."
     },
     {
       "id": "f_med_as_tm",
@@ -16485,12 +16542,12 @@
       "type": "folder",
       "icon": "tm",
       "name": "Turkménsko",
-      "desc": "Turkménske športové rubriky spravodajských portálov",
+      "desc": "Turkménsky šport v oficiálnych a spravodajských médiách: Turkmenportal, Orient, štátna agentúra TDH a Arzuw News. Klub Arkadag a ďalšie turkménske kluby v ázijských pohároch, reprezentácia a podujatia v Ašchabade.",
       "order": 36,
       "slug": "turkmensko",
       "name_en": "Turkmenistan",
       "slug_en": "turkmenistan",
-      "desc_en": "Turkmen sports sections of news portals"
+      "desc_en": "Turkmen sport in official and news media: Turkmenportal, Orient, the state TDH agency and Arzuw News. FC Arkadag and other Turkmen clubs in Asian competitions, the national team and events in Ashgabat."
     },
     {
       "id": "f_med_as_ae",
@@ -16498,12 +16555,12 @@
       "type": "folder",
       "icon": "ae",
       "name": "SAE",
-      "desc": "Emirátske športové médiá — Sport360, Dubai Sports a denníky",
+      "desc": "Emirátske športové médiá z Dubaja a Abú Zabí: Sport360, Dubai Sports TV, Gulf News, Khaleej Times, Al Bayan, Al Ittihad, Emarat Al Youm a Al Khaleej. UAE Pro League s Al Wahdou, Al Jazirou a Shabab Al Ahli, kriket, golf a motoršport.",
       "order": 37,
       "slug": "spojene-arabske-emiraty",
       "name_en": "United Arab Emirates",
       "slug_en": "united-arab-emirates",
-      "desc_en": "Emirati sports media — Sport360, Dubai Sports and dailies"
+      "desc_en": "Emirati sports media from Dubai and Abu Dhabi: Sport360, Dubai Sports TV, Gulf News, Khaleej Times, Al Bayan, Al Ittihad, Emarat Al Youm and Al Khaleej. The UAE Pro League with Al Wahda, Al Jazira and Shabab Al Ahli, cricket, golf and motorsport."
     },
     {
       "id": "f_med_as_uz",
@@ -16511,11 +16568,11 @@
       "type": "folder",
       "icon": "uz",
       "name": "Uzbekistan",
-      "desc": "Uzbecké športové portály — futbalová liga PFL a spravodajstvo",
+      "desc": "Uzbecké športové weby: Sports.uz, oficiálna PFL, Olamsport, Championat.asia, Tribuna.uz, Stadion.uz, InterFutbol a Kun.uz. Superliga s Pachtakorom, Neftči a Dinamom, reprezentácia pred Ázijským pohárom 2027, box a UFC.",
       "order": 38,
       "slug": "uzbekistan",
       "slug_en": "uzbekistan",
-      "desc_en": "Uzbek sports portals — the PFL football league and news",
+      "desc_en": "Uzbek sports websites: Sports.uz, the official PFL, Olamsport, Championat.asia, Tribuna.uz, Stadion.uz, InterFutbol and Kun.uz. The Super League with Pakhtakor, Neftchi and Dinamo, the national team ahead of the 2027 Asian Cup, boxing and UFC.",
       "name_en": "Uzbekistan"
     },
     {
@@ -16524,11 +16581,11 @@
       "type": "folder",
       "icon": "vn",
       "name": "Vietnam",
-      "desc": "Vietnamské športové médiá — futbal, portály a denníky",
+      "desc": "Vietnamské športové weby a TV: Thethao247, Bongdaplus, Webthethao, Yeuthethao, Bongda, Bongda24h, Thể thao Việt Nam a VTV. V-League a reprezentácia, výber U23, SEA Games, volejbal a ženský futbal.",
       "order": 39,
       "slug": "vietnam",
       "slug_en": "vietnam",
-      "desc_en": "Vietnamese sports media — football, portals and dailies",
+      "desc_en": "Vietnamese sports websites and TV: Thethao247, Bongdaplus, Webthethao, Yeuthethao, Bongda, Bongda24h, Thể thao Việt Nam and VTV. The V-League and national team, the U23 squad, the SEA Games, volleyball and women's football.",
       "name_en": "Vietnam"
     },
     {
@@ -16537,12 +16594,12 @@
       "type": "folder",
       "icon": "tl",
       "name": "Východný Timor",
-      "desc": "Východotimorské športové rubriky médií",
+      "desc": "Šport vo Východnom Timore v miestnych médiách po tetumsky: agentúra Tatoli, Independente, televízia RTTL, Suara Timor Lorosa'e a Timor Post. Liga Futebol Timor-Leste, maratón v Dili, box a taekwondo.",
       "order": 40,
       "slug": "vychodny-timor",
       "name_en": "East Timor",
       "slug_en": "east-timor",
-      "desc_en": "East Timorese sports sections of news media"
+      "desc_en": "Sport in East Timor in local media in Tetum: the Tatoli agency, Independente, RTTL television, Suara Timor Lorosa'e and Timor Post. The Liga Futebol Timor-Leste, the Dili marathon, boxing and taekwondo."
     },
     {
       "id": "f_med_as_ye",
@@ -16550,12 +16607,12 @@
       "type": "folder",
       "icon": "ye",
       "name": "Jemen",
-      "desc": "Jemenské športové médiá — televízie a denníky",
+      "desc": "Jemenský šport v miestnych médiách: Yemen Shabab, štátna Yemen TV, agentúra SABA, Al Thawra, 26 September a Al Wahdawi. Jemenská futbalová liga, mládežnícke reprezentácie, Pohár zálivu a miestne turnaje.",
       "order": 41,
       "slug": "jemen",
       "name_en": "Yemen",
       "slug_en": "yemen",
-      "desc_en": "Yemeni sports media — TV channels and dailies"
+      "desc_en": "Yemeni sport in local media: Yemen Shabab, state broadcaster Yemen TV, the SABA agency, Al Thawra, 26 September and Al Wahdawi. The Yemeni football league, youth national teams, the Gulf Cup and local tournaments."
     },
     {
       "id": "f_med_oc_ck",
@@ -16563,11 +16620,12 @@
       "type": "folder",
       "icon": "ck",
       "name": "Cookove ostrovy",
-      "desc": "",
+      "desc": "Šport z Cookových ostrovov v miestnych médiách – celoštátnom denníku Cook Islands News z Avarua a v televízii Vaka TV z Rarotongy. Píšu o rugby union a league, futbalovom pohári a kluboch CIFA, netbale, pádlovaní a atletike. Vaka TV pridáva prenosy domáceho športu so živými streamami na YouTube.",
       "order": 2,
       "slug": "cookove-ostrovy",
       "name_en": "Cook Islands",
-      "slug_en": "cook-islands"
+      "slug_en": "cook-islands",
+      "desc_en": "Cook Islands sport in local media – the national daily Cook Islands News from Avarua and Vaka TV from Rarotonga. They cover rugby union and league, the CIFA football cup and clubs, netball, paddling and athletics. Vaka TV adds coverage of local sport with live YouTube streams."
     },
     {
       "id": "f_med_oc_fj",
@@ -16575,11 +16633,12 @@
       "type": "folder",
       "icon": "fj",
       "name": "Fidži",
-      "desc": "",
+      "desc": "Fidžijské športové správy: The Fiji Times, Fiji Sun, FijiLive, štátne FBC, Fiji One a Fijivillage. Rugby s Flying Fijians, sedmičkami a Fijian Drua, provinčné súťaže, netbal a futbal.",
       "order": 3,
       "slug": "fidzi",
       "name_en": "Fiji",
-      "slug_en": "fiji"
+      "slug_en": "fiji",
+      "desc_en": "Fijian sports news: The Fiji Times, Fiji Sun, FijiLive, state broadcaster FBC, Fiji One and Fijivillage. Rugby with the Flying Fijians, sevens and the Fijian Drua, provincial competitions, netball and football."
     },
     {
       "id": "f_med_oc_nc",
@@ -16587,11 +16646,12 @@
       "type": "folder",
       "icon": "nc",
       "name": "Nová Kaledónia",
-      "desc": "",
+      "desc": "Šport z Novej Kaledónie v denníku Les Nouvelles Calédoniennes z Nouméy a vo verejnoprávnej NC la 1ère (France Télévisions). Futbal so Super Ligue, Coupe de France a reprezentáciou Cagous, volejbal, basketbal, plávanie, jachting, va'a a rallye. Obe médiá sledujú aj Hry Tichomoria a Kaledóncov v zahraničí.",
       "order": 4,
       "slug": "nova-kaledonia",
       "name_en": "New Caledonia",
-      "slug_en": "new-caledonia"
+      "slug_en": "new-caledonia",
+      "desc_en": "New Caledonian sport in the Nouméa daily Les Nouvelles Calédoniennes and on public broadcaster NC la 1ère (France Télévisions). Football with the Super Ligue, Coupe de France and the Cagous national team, volleyball, basketball, swimming, sailing, va'a and rally. Both also follow the Pacific Games and Caledonians abroad."
     },
     {
       "id": "f_med_oc_nz",
@@ -16599,11 +16659,12 @@
       "type": "folder",
       "icon": "nz",
       "name": "Nový Zéland",
-      "desc": "",
+      "desc": "Novozélandské športové weby, denníky a rozhlas: NZ Herald, Stuff, 1News (TVNZ), RNZ, Newstalk ZB, Sport Nation a Otago Daily Times. All Blacks a rugby, rugby league, kriket s Black Caps, netbal, golf a regionálny šport z Canterbury a Bay of Plenty.",
       "order": 5,
       "slug": "novy-zeland",
       "name_en": "New Zealand",
-      "slug_en": "new-zealand"
+      "slug_en": "new-zealand",
+      "desc_en": "New Zealand sports websites, dailies and radio: NZ Herald, Stuff, 1News (TVNZ), RNZ, Newstalk ZB, Sport Nation and the Otago Daily Times. The All Blacks and rugby, rugby league, cricket with the Black Caps, netball, golf and regional sport from Canterbury and the Bay of Plenty."
     },
     {
       "id": "f_med_oc_pg",
@@ -16611,11 +16672,12 @@
       "type": "folder",
       "icon": "pg",
       "name": "Papua-Nová Guinea",
-      "desc": "",
+      "desc": "Papuánsky šport v médiách: denníky Post-Courier a The National z Port Moresby, televízie TVWAN a EMTV a web rádií PNGFM. Rugby league so SP PNG Hunters a domácou Digicel Cup a ďalšie športy z hlavného mesta aj provincií.",
       "order": 6,
       "slug": "papua-nova-guinea",
       "name_en": "Papua New Guinea",
-      "slug_en": "papua-new-guinea"
+      "slug_en": "papua-new-guinea",
+      "desc_en": "Papua New Guinea sport in the media: the Port Moresby dailies Post-Courier and The National, TVWAN and EMTV television and the PNGFM radio website. Rugby league with the SP PNG Hunters and the domestic Digicel Cup, plus other sports from the capital and the provinces."
     },
     {
       "id": "f_med_oc_ws",
@@ -16623,11 +16685,12 @@
       "type": "folder",
       "icon": "ws",
       "name": "Samoa",
-      "desc": "",
+      "desc": "Samojský šport v miestnych médiách: hlavný denník Samoa Observer z Apie, portál Talamua a nezávislý Samoa Global News. Rugby reprezentácií Manu Samoa, Manusina a sedmičiek, rugby league s Toa Samoa, Samojci v NRL a Super Rugby, školské rugby a box.",
       "order": 7,
       "slug": "samoa",
       "slug_en": "samoa",
-      "name_en": "Samoa"
+      "name_en": "Samoa",
+      "desc_en": "Samoan sport in local media: the main Apia daily Samoa Observer, the Talamua portal and the independent Samoa Global News. Rugby with Manu Samoa, Manusina and the sevens, rugby league with Toa Samoa, Samoans in the NRL and Super Rugby, school rugby and boxing."
     },
     {
       "id": "f_med_oc_sb",
@@ -16635,11 +16698,12 @@
       "type": "folder",
       "icon": "sb",
       "name": "Šalamúnove ostrovy",
-      "desc": "",
+      "desc": "Šport zo Šalamúnových ostrovov v miestnych médiách: Raw Sports (Isles Media), denníky Solomon Star a Island Sun z Honiary, Solomon Times a Tavuli News. Domáci futbal a futsal, reprezentácia a atletika.",
       "order": 8,
       "slug": "salamunove-ostrovy",
       "name_en": "Solomon Islands",
-      "slug_en": "solomon-islands"
+      "slug_en": "solomon-islands",
+      "desc_en": "Solomon Islands sport in local media: Raw Sports (Isles Media), the Honiara dailies Solomon Star and Island Sun, Solomon Times and Tavuli News. Domestic football and futsal, the national team and athletics."
     },
     {
       "id": "f_med_oc_pf",
@@ -16647,11 +16711,12 @@
       "type": "folder",
       "icon": "pf",
       "name": "Tahiti",
-      "desc": "",
+      "desc": "Šport z Tahiti a Francúzskej Polynézie: Tahiti Infos, Tahiti Presse, verejnoprávna Polynésie la 1ère a televízia TNTV. Tahitský futbal, basketbal, surf, box a plávanie zo súostrovia aj z medzinárodných podujatí.",
       "order": 9,
       "slug": "tahiti",
       "slug_en": "tahiti",
-      "name_en": "Tahiti"
+      "name_en": "Tahiti",
+      "desc_en": "Sport from Tahiti and French Polynesia: Tahiti Infos, Tahiti Presse, public broadcaster Polynésie la 1ère and TNTV television. Tahitian football, basketball, surfing, boxing and swimming from the islands and international events."
     },
     {
       "id": "f_med_oc_to",
@@ -16659,11 +16724,12 @@
       "type": "folder",
       "icon": "to",
       "name": "Tonga",
-      "desc": "",
+      "desc": "Tongský šport v miestnych médiách: Matangi Tonga z Nukuʻalofy, Kingdom Tonga News a nezávislý Talanoa 'o Tonga. Rugby league s Mate Maʻa Tonga, rugby union s ʻIkale Tahi, basketbal, domáci futbal a podujatia olympijského výboru TASANOC.",
       "order": 10,
       "slug": "tonga",
       "slug_en": "tonga",
-      "name_en": "Tonga"
+      "name_en": "Tonga",
+      "desc_en": "Tongan sport in local media: Matangi Tonga from Nukuʻalofa, Kingdom Tonga News and the independent Talanoa 'o Tonga. Rugby league with Mate Maʻa Tonga, rugby union with ʻIkale Tahi, basketball, domestic football and events of the TASANOC Olympic committee."
     },
     {
       "id": "f_med_oc_vu",
@@ -16671,11 +16737,12 @@
       "type": "folder",
       "icon": "vu",
       "name": "Vanuatu",
-      "desc": "",
+      "desc": "Vanuatský šport v jedinom denníku krajiny Vanuatu Daily Post a u štátneho vysielateľa VBTC (Radio Vanuatu a TBV). Futbal z Port Vila a národné výbery, volejbal, rugby, kriket, futsal a box. VBTC sleduje aj plávanie, veslovanie, taekwondo a výsledky reprezentantov Vanuatu v zahraničí.",
       "order": 11,
       "slug": "vanuatu",
       "slug_en": "vanuatu",
-      "name_en": "Vanuatu"
+      "name_en": "Vanuatu",
+      "desc_en": "Vanuatu sport in the country's only daily, the Vanuatu Daily Post, and on state broadcaster VBTC (Radio Vanuatu and TBV). Port Vila football and national teams, volleyball, rugby, cricket, futsal and boxing. VBTC also covers swimming, rowing, taekwondo and Vanuatu athletes abroad."
     },
     {
       "id": "n1782218991207ky1",
@@ -61339,11 +61406,12 @@
       "type": "folder",
       "icon": "au",
       "name": "Austrália",
-      "desc": "",
+      "desc": "Austrálske športové weby, denníky a TV: Fox Sports, ESPN, Sporting News, The Sydney Morning Herald, The Age, The Guardian, news.com.au a ABC. NRL a AFL, kriket, rugby union, basketbalová NBL, tenis a regionálne denníky zo štátov.",
       "order": 0,
       "slug": "australia",
       "name_en": "Australia",
-      "slug_en": "australia"
+      "slug_en": "australia",
+      "desc_en": "Australian sports websites, dailies and TV: Fox Sports, ESPN, Sporting News, The Sydney Morning Herald, The Age, The Guardian, news.com.au and ABC. The NRL and AFL, cricket, rugby union, the NBL, tennis and regional papers from the states."
     },
     {
       "id": "n1784755194158q86",
@@ -213162,6 +213230,490 @@
       "url": "https://gusiipress.co.ke/category/sports/",
       "order": 19,
       "desc_en": "Regional portal from Kisii and Nyamira in south-western Kenya – the NCBA Kisii Open golf, cross-country races, local tournaments, plus national FKF football and rugby sevens."
+    },
+    {
+      "id": "n1795331623610yct",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Ghanasoccernet",
+      "desc": "Ghanský futbalový portál – Ghana Premier League a kluby ako Asante Kotoko či Hearts of Oak, Black Stars, prestupy a ghanskí hráči v Európe, k tomu výsledky a tabuľky.",
+      "url": "https://ghanasoccernet.com/",
+      "order": 0,
+      "desc_en": "Ghanaian football portal – the Ghana Premier League and clubs such as Asante Kotoko and Hearts of Oak, the Black Stars, transfers and Ghanaians in Europe, plus results and tables."
+    },
+    {
+      "id": "n1795331623611or2",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Citi Sports Online",
+      "desc": "Športový web ghanskej skupiny Citi – ghanská liga, Black Stars a Black Queens, basketbal, box a atletika, ale aj anglická Premier League, NBA či NFL.",
+      "url": "https://citisportsonline.com/",
+      "order": 1,
+      "desc_en": "Sports site of Ghana's Citi group – the Ghana Premier League, Black Stars and Black Queens, basketball, boxing and athletics, plus the English Premier League, NBA and NFL."
+    },
+    {
+      "id": "n1795331623612lrh",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Ghana Sports Online",
+      "desc": "Ghanské športové správy po celý deň: všetky reprezentačné výbery od Black Stars po Black Starlets, GPL, Division One, ženská liga, FA Cup, box, atletika a ghanskí legionári.",
+      "url": "https://www.ghanasportsonline.com/",
+      "order": 2,
+      "desc_en": "Ghanaian sports news all day long: every national team from the Black Stars to the Black Starlets, the GPL, Division One, the women's league, FA Cup, boxing, athletics and Ghanaians abroad."
+    },
+    {
+      "id": "n1795331623613esw",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "SportsWorldGhana",
+      "desc": "Futbalový web o ghanských hráčoch doma aj vo svete – Ghana Premier League, Kotoko a Hearts, mládežnícke výbery, legionári v Európe a USA a prestupové správy.",
+      "url": "https://sportsworldghana.com/",
+      "order": 3,
+      "desc_en": "Football site about Ghanaian players at home and worldwide – the Ghana Premier League, Kotoko and Hearts, youth national teams, Ghanaians in Europe and the USA, and transfer news."
+    },
+    {
+      "id": "n1795331623614up2",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "FootyGHANA",
+      "desc": "Správy o ghanskom futbale – Black Stars, Black Queens a mládežnícke výbery, kluby Ghana Premier League, MTN FA Cup, nižšie súťaže a ghanskí hráči v zahraničí.",
+      "url": "https://footyghana.com/",
+      "order": 4,
+      "desc_en": "Ghanaian football news – the Black Stars, Black Queens and youth teams, Ghana Premier League clubs, the MTN FA Cup, lower divisions and Ghanaian players abroad."
+    },
+    {
+      "id": "n17953316236154pm",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "GH Sports News",
+      "desc": "Ghanský športový magazín – Ghana Premier League, reprezentácie vrátane amputovaného futbalu, mládežnícke turnaje, ragby, golf, box a tenis.",
+      "url": "https://www.ghsportsnews.com/",
+      "order": 5,
+      "desc_en": "Ghanaian sports magazine – the Ghana Premier League, national teams including amputee football, youth tournaments, rugby, golf, boxing and tennis."
+    },
+    {
+      "id": "n17953316236164nx",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Ghana Sports Page",
+      "desc": "Futbal v Ghane zblízka – Asante Kotoko, Hearts of Oak a ďalšie kluby GPL, Black Stars, Black Queens a olympijský výber, zostrihy zápasov a štatistiky strelcov.",
+      "url": "https://ghanasportspage.com/",
+      "order": 6,
+      "desc_en": "A close look at football in Ghana – Asante Kotoko, Hearts of Oak and other GPL clubs, the Black Stars, Black Queens and Olympic team, match highlights and scorer stats."
+    },
+    {
+      "id": "n1795331623617xva",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "MyJoyOnline sports",
+      "desc": "Športová rubrika ghanského portálu MyJoyOnline (Multimedia Group) – Black Stars, Ghana Premier League, amputovaný futbal, box a atletika, s komentármi a rozhovormi.",
+      "url": "https://www.myjoyonline.com/sports/",
+      "order": 7,
+      "desc_en": "Sports section of Ghana's MyJoyOnline (Multimedia Group) – the Black Stars, the Ghana Premier League, amputee football, boxing and athletics, with commentary and interviews."
+    },
+    {
+      "id": "n17953316236181xj",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "GhanaWeb sports",
+      "desc": "Športové správy portálu GhanaWeb – ghanský futbal a Black Stars, box z Bukomu, golf, bojové športy, financie ghanského športu a príbehy športovcov.",
+      "url": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/",
+      "order": 8,
+      "desc_en": "Sports news from GhanaWeb – Ghanaian football and the Black Stars, boxing from Bukom, golf, combat sports, the finances of Ghanaian sport and athlete stories."
+    },
+    {
+      "id": "n1795331623619nkp",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Graphic Online sports",
+      "desc": "Športová sekcia denníka Daily Graphic – ghanská liga, Black Stars a amputovaný futbal, ghanskí legionári, Národný športový úrad (NSA) a športová infraštruktúra.",
+      "url": "https://www.graphic.com.gh/sports.html",
+      "order": 9,
+      "desc_en": "Sports section of the Daily Graphic – the Ghana Premier League, Black Stars and amputee football, Ghanaians abroad, the National Sports Authority and sports infrastructure."
+    },
+    {
+      "id": "n17953316236201pc",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Pulse Ghana sports",
+      "desc": "Športová rubrika ghanského portálu Pulse – Hearts of Oak, amputovaný futbal Black Challenge, africký futbal a AFCON, atletika aj francúzska Ligue 1.",
+      "url": "https://www.pulse.com.gh/sports",
+      "order": 10,
+      "desc_en": "Sports section of Ghana's Pulse portal – Hearts of Oak, the Black Challenge amputee team, African football and AFCON, athletics and France's Ligue 1."
+    },
+    {
+      "id": "n1795331623621dn5",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Yen.com.gh sports",
+      "desc": "Futbal a box na ghanskom portáli Yen – Black Stars, ghanskí futbalisti v Európe, amputovaný futbal, boxerské udalosti a svetové futbalové hviezdy.",
+      "url": "https://yen.com.gh/sports/",
+      "order": 11,
+      "desc_en": "Football and boxing on Ghana's Yen portal – the Black Stars, Ghanaian footballers in Europe, amputee football, boxing events and global football stars."
+    },
+    {
+      "id": "n179533162362208c",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Modern Ghana sports",
+      "desc": "Športové správy portálu Modern Ghana – Black Stars a ghanská liga s tabuľkou, box, basketbal, golf, pozemný hokej, tenis a volejbal, k tomu svetový futbal.",
+      "url": "https://www.modernghana.com/sports/",
+      "order": 12,
+      "desc_en": "Sports news from Modern Ghana – the Black Stars and Ghana Premier League with table, boxing, basketball, golf, hockey, tennis and volleyball, plus world football."
+    },
+    {
+      "id": "n1795331623623za2",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Daily Guide sports",
+      "desc": "Športová rubrika ghanského denníka Daily Guide – Black Stars a kvalifikácia AFCON, ženský a plážový futbal, box, tenis a európske súťaže.",
+      "url": "https://dailyguidenetwork.com/category/sports-news/",
+      "order": 13,
+      "desc_en": "Sports section of Ghana's Daily Guide – the Black Stars and AFCON qualifiers, women's and beach football, boxing, tennis and European competitions."
+    },
+    {
+      "id": "n1795331623624p5n",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Ghanaian Times sports",
+      "desc": "Športová sekcia denníka Ghanaian Times – GPL a MTN FA Cup, Black Stars a Black Meteors, ale aj teqball, vzpieranie, pretláčanie rukou a mládežnícky basketbal.",
+      "url": "https://ghanaiantimes.com.gh/category/local-sports/",
+      "order": 14,
+      "desc_en": "Sports section of the Ghanaian Times – the GPL and MTN FA Cup, Black Stars and Black Meteors, plus teqball, weightlifting, arm wrestling and youth basketball."
+    },
+    {
+      "id": "n1795331623625n9x",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "The Ghana Guardian sports",
+      "desc": "Ghanská liga zápas po zápase, Black Stars, Black Queens a amputovaný futbal, prestupové správy o mladých Ghančanoch a výkony legionárov v Európe a Ázii.",
+      "url": "https://ghanaguardian.com/category/sports/",
+      "order": 15,
+      "desc_en": "The Ghana Premier League match by match, the Black Stars, Black Queens and amputee football, transfer news on young Ghanaians and players abroad in Europe and Asia."
+    },
+    {
+      "id": "n1795331623626ul1",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "BusinessGhana sports",
+      "desc": "Športové správy ghanského portálu BusinessGhana – GFA, Ghana Premier League a Division One, mládežnícky futbal z regiónu Ashanti, ale aj F1, šípky či box.",
+      "url": "https://www.businessghana.com/site/news/sports/",
+      "order": 16,
+      "desc_en": "Sports news on Ghana's BusinessGhana portal – the GFA, the Ghana Premier League and Division One, youth football from the Ashanti region, plus F1, darts and boxing."
+    },
+    {
+      "id": "n1795331623627k9m",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "GNA sports",
+      "desc": "Športový servis ghanskej tlačovej agentúry GNA – správy zo všetkých regiónov krajiny, Hearts of Oak, Black Challenge, plážový futbal, pretláčanie rukou a FIFA.",
+      "url": "https://gna.org.gh/sports/",
+      "order": 17,
+      "desc_en": "Sports service of the Ghana News Agency – reports from all regions of the country, Hearts of Oak, Black Challenge, beach soccer, arm wrestling and FIFA."
+    },
+    {
+      "id": "n1795331623628y4e",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "3News sports",
+      "desc": "Športová redakcia ghanskej televízie TV3 – atletika, basketbal, box, futbal a tenis, ghanská liga, Black Queens, CAF a africký futbal.",
+      "url": "https://3news.com/sports/",
+      "order": 18,
+      "desc_en": "Sports desk of Ghana's TV3 – athletics, basketball, boxing, football and tennis, the Ghana Premier League, Black Queens, CAF and African football."
+    },
+    {
+      "id": "n1795331623629qr5",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Peace FM sports",
+      "desc": "Športové správy webu rádia Peace FM (Despite Media) – Asante Kotoko a Hearts of Oak, GFA a Black Stars, box aj pólo, s komentármi ghanských expertov.",
+      "url": "https://www.peacefmonline.com/sports",
+      "order": 19,
+      "desc_en": "Sports news from Peace FM radio (Despite Media) – Asante Kotoko and Hearts of Oak, the GFA and Black Stars, boxing and polo, with comments from Ghanaian pundits."
+    },
+    {
+      "id": "n1795331623630fa9",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "GBC sports",
+      "desc": "Šport verejnoprávnej Ghana Broadcasting Corporation – ghanský futbal, Black Stars, amputovaný futbal, cyklistické preteky Tour du Ghana, atletika a svetový futbal.",
+      "url": "https://www.gbcghanaonline.com/category/sports/",
+      "order": 20,
+      "desc_en": "Sport from the public Ghana Broadcasting Corporation – Ghanaian football, the Black Stars, amputee football, the Tour du Ghana cycling race, athletics and world football."
+    },
+    {
+      "id": "n1795331623631ysc",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Asaase Radio sports",
+      "desc": "Športová rubrika ghanského rádia Asaase – Black Stars a debata o trénerovi, Asante Kotoko, rebríček FIFA, amputovaný futbal a parašport.",
+      "url": "https://asaaseradio.com/category/sports/",
+      "order": 21,
+      "desc_en": "Sports section of Ghana's Asaase Radio – the Black Stars and the coaching debate, Asante Kotoko, FIFA rankings, amputee football and para sport."
+    },
+    {
+      "id": "n1795331623632dv1",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Class FM sports",
+      "desc": "Športové správy ghanského rádia Class FM – Black Stars, Black Challenge, plážový futbal, ghanská liga, GFA a stredoškolské futbalové súťaže.",
+      "url": "https://www.classfmonline.com/sports",
+      "order": 22,
+      "desc_en": "Sports news from Ghana's Class FM radio – the Black Stars, Black Challenge, beach soccer, the Ghana Premier League, the GFA and high-school football competitions."
+    },
+    {
+      "id": "n1795331623633ynf",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Metro TV sports",
+      "desc": "Športová rubrika ghanskej televízie Metro TV – Black Stars a kvalifikácia AFCON, Hearts of Oak, golf, amputovaný futbal a rozhovory s trénermi a hráčmi.",
+      "url": "https://metrotvonline.com/category/sports/",
+      "order": 23,
+      "desc_en": "Sports section of Ghana's Metro TV – the Black Stars and AFCON qualifiers, Hearts of Oak, golf, amputee football and interviews with coaches and players."
+    },
+    {
+      "id": "n179533162363462f",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Max TV sport",
+      "desc": "Športové správy ghanskej televízie Max TV (Imax Media Group) – ghanskí rozhodcovia a tréneri, plážový futbal, CAF, ale najmä európske ligy a MLS.",
+      "url": "https://max.com.gh/category/sport/",
+      "order": 24,
+      "desc_en": "Sports news from Ghana's Max TV (Imax Media Group) – Ghanaian referees and coaches, beach soccer, CAF, and above all European leagues and MLS."
+    },
+    {
+      "id": "n1795331623635lhw",
+      "parentId": "f_med_af_gh",
+      "type": "link",
+      "icon": "",
+      "name": "Angel Online sports",
+      "desc": "Šport na webe ghanského vysielateľa Angel – Asante Kotoko vrátane plánov nového štadióna, Hearts of Oak, Black Stars, Black Queens a box.",
+      "url": "https://angelonline.com.gh/category/sports/",
+      "order": 25,
+      "desc_en": "Sport on the site of Ghana's Angel broadcaster – Asante Kotoko including plans for a new stadium, Hearts of Oak, the Black Stars, Black Queens and boxing."
+    },
+    {
+      "id": "n1795337008075859",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Wiwsport",
+      "desc": "Senegalský športový portál: futbal vrátane Levov Terangy a domácej Ligue 1, lamb (tradičné zápasenie), basketbal, bojové športy a atletika, priebežné LIVE spravodajstvo a videá wiwsport TV.",
+      "url": "https://wiwsport.com/",
+      "order": 0,
+      "desc_en": "Senegalese sports portal: football including the Lions of Teranga and the domestic Ligue 1, laamb (traditional wrestling), basketball, combat sports and athletics, live coverage and wiwsport TV videos."
+    },
+    {
+      "id": "n17953370080765n4",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Galsenfoot",
+      "desc": "Futbal v Senegale do detailu: reprezentácia (La Tanière), výbery U23, U20 a U17, Ligue 1 Pro s tabuľkou a výsledkami, prestupy, kluby, profily hráčov a videá.",
+      "url": "https://galsenfoot.sn/",
+      "order": 1,
+      "desc_en": "Senegalese football in depth: the national team (La Tanière), U23, U20 and U17 squads, Ligue 1 Pro with table and results, transfers, clubs, player profiles and videos."
+    },
+    {
+      "id": "n1795337008077le1",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "DSPORTS",
+      "desc": "Web o senegalskom futbale: Levy a mládežnícke výbery, beach soccer, Ligue 1 a 2, National 1 a 2, Coupe du Sénégal, ženská D1, rozhovory, portréty a relácie DSPORTS TV.",
+      "url": "https://dsports.sn/",
+      "order": 2,
+      "desc_en": "Website on Senegalese football: the Lions and youth teams, beach soccer, Ligue 1 and 2, National 1 and 2, the Senegal Cup, women's D1, interviews, portraits and DSPORTS TV shows."
+    },
+    {
+      "id": "n17953370080781ef",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "SPORT221",
+      "desc": "Správy zo senegalského športu – futbal (Levy, Ligue 1), basketbal, atletika, volejbal, hádzaná a lamb; výsledky domácej ligy, vyhlásenia trénerov a dianie okolo reprezentácie.",
+      "url": "https://www.sport221.com/",
+      "order": 3,
+      "desc_en": "News from Senegalese sport – football (the Lions, Ligue 1), basketball, athletics, volleyball, handball and laamb wrestling; domestic league results, coaches' quotes and national team news."
+    },
+    {
+      "id": "n1795337008079m26",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Le Soleil sports",
+      "desc": "Športová rubrika senegalského štátneho denníka: reprezentácia, CAF, mládežnícke majstrovstvá sveta, lamb, domáce súťaže a JOJ Dakar 2026. Denník vychádza od roku 1970.",
+      "url": "https://lesoleil.sn/rubriques/actualites/sports/",
+      "order": 4,
+      "desc_en": "Sports section of Senegal's state-owned daily: the national team, CAF affairs, youth World Cups, laamb wrestling, domestic competitions and the Dakar 2026 YOG. Published since 1970."
+    },
+    {
+      "id": "n17953370080808ma",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Le Quotidien sport",
+      "desc": "Športová sekcia senegalského denníka Le Quotidien: Levy a kvalifikácia CAN 2027, legionári v Európe, rozhovory, mládežnícke výbery a rubrika La Gazette. Denník vznikol v roku 2003.",
+      "url": "https://lequotidien.sn/category/sport/",
+      "order": 5,
+      "desc_en": "Sports section of the Senegalese daily Le Quotidien: the Lions and AFCON 2027 qualifying, players abroad, interviews, youth teams and the La Gazette column. The paper was founded in 2003."
+    },
+    {
+      "id": "n17953370080819kw",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Walf sport",
+      "desc": "Šport v senegalskom denníku Walfadjri (Walf Net): futbal, lamb, basketbal, atletika a bojové umenia, senegalskí hráči v zahraničí a dianie okolo reprezentácie.",
+      "url": "https://walf-groupe.com/blog/category/sport/",
+      "order": 6,
+      "desc_en": "Sport in the Senegalese daily Walfadjri (Walf Net): football, laamb wrestling, basketball, athletics and martial arts, Senegalese players abroad and national team news."
+    },
+    {
+      "id": "n1795337008082mea",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Seneweb sport",
+      "desc": "Športové správy senegalského spravodajského portálu Seneweb: Levy, lamb, domáca Ligue 1, africký futbal a európske ligy (Premier League, La Liga, francúzska Ligue 1).",
+      "url": "https://www.seneweb.com/fr/news/sport",
+      "order": 7,
+      "desc_en": "Sports news from the Senegalese news portal Seneweb: the Lions, laamb wrestling, the domestic Ligue 1, African football and European leagues (Premier League, La Liga, French Ligue 1)."
+    },
+    {
+      "id": "n1795337008083vg6",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Senego sport",
+      "desc": "Rubrika športu na senegalskom portáli Senego: Levy a mládežnícke výbery, lamb, Ligue 1 (Casa Sports, Jaraaf), legionári, prestupy a videá.",
+      "url": "https://senego.com/rubrique/sport",
+      "order": 8,
+      "desc_en": "Sports section of the Senegalese portal Senego: the Lions and youth teams, laamb wrestling, Ligue 1 (Casa Sports, Jaraaf), players abroad, transfers and videos."
+    },
+    {
+      "id": "n1795337008084g02",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "SeneNews sport",
+      "desc": "Športová sekcia senegalského spravodajského portálu SeneNews: futbal s dôrazom na Levov Terangy a senegalských legionárov, lamb a ďalšie športy zo Senegalu aj zo sveta.",
+      "url": "https://www.senenews.com/sport",
+      "order": 9,
+      "desc_en": "Sports section of the Senegalese news portal SeneNews: football focused on the Lions of Teranga and Senegalese players abroad, laamb wrestling and other sports from Senegal and the world."
+    },
+    {
+      "id": "n1795337008085cse",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "PressAfrik sport",
+      "desc": "Šport na senegalskom spravodajskom webe PressAfrik: futbal (Levy, CAF, legionári), lamb, európske ligy a africké súťaže, krátke správy počas celého dňa.",
+      "url": "https://www.pressafrik.com/Sport_r3.html",
+      "order": 10,
+      "desc_en": "Sport on the Senegalese news site PressAfrik: football (the Lions, CAF, players abroad), laamb wrestling, European leagues and African competitions, short news throughout the day."
+    },
+    {
+      "id": "n1795337008086i3b",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "SenePlus sports",
+      "desc": "Senegalský portál SenePlus – sekcia Sports: reprezentácia a kvalifikácia CAN, mládežnícke výbery, beach soccer, tenis, rebríček FIFA a dedičstvo JOJ Dakar 2026.",
+      "url": "https://www.seneplus.com/section/sports",
+      "order": 11,
+      "desc_en": "Senegalese portal SenePlus – Sports section: the national team and AFCON qualifying, youth teams, beach soccer, tennis, FIFA rankings and the legacy of the Dakar 2026 YOG."
+    },
+    {
+      "id": "n1795337008087i2k",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Leral sport",
+      "desc": "Športová rubrika senegalského portálu Leral.net (rádio Leral 96.1 FM): JOJ Dakar 2026, futbal, Ligue 1, lamb a vyhlásenia funkcionárov; časť článkov aj v ďalších jazykoch.",
+      "url": "https://www.leral.net/Sport_r3.html",
+      "order": 12,
+      "desc_en": "Sports section of the Senegalese portal Leral.net (Leral 96.1 FM radio): the Dakar 2026 YOG, football, Ligue 1, laamb wrestling and officials' statements; some articles also in other languages."
+    },
+    {
+      "id": "n1795337008088jdb",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "ActuNet sport",
+      "desc": "Športové správy senegalského portálu ActuNet, prepojeného so Sen TV a Zik FM: Levy a legionári, lamb (Ada Fass, Balla Gaye 2), JOJ Dakar 2026, prestupy a svetový futbal.",
+      "url": "https://actunet.net/category/sport/",
+      "order": 13,
+      "desc_en": "Sports news from the Senegalese portal ActuNet, linked to Sen TV and Zik FM: the Lions and players abroad, laamb wrestling (Ada Fass, Balla Gaye 2), the Dakar 2026 YOG, transfers and world football."
+    },
+    {
+      "id": "n1795337008089bth",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "Sans Limites sports",
+      "desc": "Senegalský portál Sanslimitesn – sekcia športu: Levy a výber U23, lamb a vyhlásenia zápasníkov, legionári ako Ismaïla Sarr, CAN 2027 a rebríček FIFA.",
+      "url": "https://sanslimitesn.com/category/sports/",
+      "order": 14,
+      "desc_en": "Senegalese portal Sanslimitesn – sports section: the Lions and the U23 team, laamb wrestling and wrestlers' statements, players abroad such as Ismaïla Sarr, AFCON 2027 and FIFA rankings."
+    },
+    {
+      "id": "n1795337008090e9s",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "APS sport",
+      "desc": "Tlačová agentúra Senegalu (APS) – športové depeše: domáca Ligue 1, reprezentácie, mládežnícke MS, beach soccer, ženský futbal a CAF. Agentúra vznikla v roku 1959.",
+      "url": "https://aps.sn/category/sport/",
+      "order": 15,
+      "desc_en": "Senegal's national news agency (APS) – sports dispatches: the domestic Ligue 1, national teams, youth World Cups, beach soccer, women's football and CAF. The agency was founded in 1959."
+    },
+    {
+      "id": "n1795337008091b1n",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "iGFM sport",
+      "desc": "Šport na portáli senegalskej mediálnej skupiny Futurs Médias (TFM, RFM, L'Observateur): Levy, JOJ Dakar 2026, lamb a domáci futbal. Skupinu založil Youssou N'Dour v roku 2003.",
+      "url": "https://www.igfm.sn/sport",
+      "order": 16,
+      "desc_en": "Sport on the portal of the Senegalese media group Futurs Médias (TFM, RFM, L'Observateur): the Lions, the Dakar 2026 YOG, laamb wrestling and domestic football. Founded by Youssou N'Dour in 2003."
+    },
+    {
+      "id": "n1795337008092759",
+      "parentId": "f_med_af_sn",
+      "type": "link",
+      "icon": "",
+      "name": "SenTV sport",
+      "desc": "Športové správy senegalskej televízie Sen TV: Levy a kvalifikácia CAN 2027, lamb (Ada Fass – Balla Gaye 2), JOJ Dakar 2026, mládežnícke MS a senegalskí futbalisti v zahraničí.",
+      "url": "https://www.sentv.info/category/actualite-nationale/sport/",
+      "order": 17,
+      "desc_en": "Sports news from Senegalese TV channel Sen TV: the Lions and AFCON 2027 qualifying, laamb wrestling (Ada Fass vs Balla Gaye 2), the Dakar 2026 YOG, youth World Cups and Senegalese players abroad."
     }
   ],
   "title_en": "Sportlinking",
