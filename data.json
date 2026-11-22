@@ -1,5 +1,5 @@
 {
-  "version": 1256,
+  "version": 1257,
   "pwKdf": {
     "salt": "8cef5f6775fe491fb45dbc7db86717b7",
     "iter": 600000,
@@ -213791,5 +213791,5 @@
     "label": "REKLAMA · TIPSPORT",
     "sectionId": "f_tip"
   },
-  "updated": "2026-11-16T22:07:16.000Z"
+  "updated": "2026-11-22T16:40:24.973Z"
 }
